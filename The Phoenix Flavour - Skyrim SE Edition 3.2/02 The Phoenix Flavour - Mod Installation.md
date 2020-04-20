@@ -140,19 +140,21 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+**DOWNLOAD INSTRUCTIONS**
 
-- **Main Files** – All in one
+- **Main File** - All in one
 
 ## 1.2 [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```css
+DOWNLOAD INSTRUCTIONS
+```
 
-- **Main Files** – (Part 1) Engine Fixes
+- **Main File** - (Part 1) Engine Fixes
 
----
-
-==**PRELOADER**==
+```css
+PRELOADER
+```
 
 - Download the following file manually:
   * **(Part 2) Engine Fixes – skse64 Preloader and TBB Lib**
@@ -163,9 +165,9 @@ At times (re)textures are only available in a size unreasonably large for regula
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
----
-
-==**ENGINE FIXES INI**==
+```css
+ENGINE FIXES INI
+```
 
 * Double-click **SSE Engine Fixes** in your mod order.
 * Switch to the **INI-Files** tab and select the **EngineFixes.ini**.
