@@ -72,7 +72,7 @@
     - [6.3.6 BethINI - Visuals](#636-bethini---visuals)
     - [6.3.7 BethINI - Custom](#637-bethini---custom)
   - [6.4 Save Changes](#64-save-changes)
-- [07. ADDITIONAL TOOLS](#07-additional-tools)
+- [07. Additional Tools](#07-additional-tools)
   - [7.1 SSEEdit](#71-sseedit)
     - [7.1.1 Installation](#711-installation)
     - [7.1.2 SSEEdit Cache Output](#712-sseedit-cache-output)
@@ -87,6 +87,27 @@
   - [7.5 SSE NIF Optimizer](#75-sse-nif-optimizer)
     - [7.5.1 Installation](#751-installation)
   - [7.6 Modwatch](#76-modwatch)
+- [08 // ESM CLEANING](#08--esm-cleaning)
+  - [8.1 About ESM Cleaning](#81-about-esm-cleaning)
+  - [8.2 Export Files to MO2](#82-export-files-to-mo2)
+  - [8.3 Automated Cleaning Process](#83-automated-cleaning-process)
+    - [8.3.1 Update.esm](#831-updateesm)
+    - [8.3.2 Dawnguard.esm](#832-dawnguardesm)
+    - [8.3.3 HearthFires.esm](#833-hearthfiresesm)
+    - [8.3.4 Dragonborn.esm](#834-dragonbornesm)
+  - [8.4 Manual Cleaning - Update ESM](#84-manual-cleaning---update-esm)
+    - [8.4.1 Source](#841-source)
+    - [8.4.2 Instructions](#842-instructions)
+  - [8.5 Manual Cleaning - Dawnguard ESM](#85-manual-cleaning---dawnguard-esm)
+    - [8.5.1 Source](#851-source)
+    - [8.5.2 Apply Filter](#852-apply-filter)
+    - [8.5.3 Delete conflicting sub-record](#853-delete-conflicting-sub-record)
+    - [8.5.4 Save Changes](#854-save-changes)
+- [09. Skyrim Realistic Overhaul](#09-skyrim-realistic-overhaul)
+  - [9.1 Download](#91-download)
+  - [9.2 File Extraction](#92-file-extraction)
+  - [9.3 Processing with CAO](#93-processing-with-cao)
+  - [9.4 Installation](#94-installation)
 
 # 01. Getting Started
 
@@ -680,7 +701,7 @@ Continue with the ninth tab, **Custom**.
 
 ![separator](Pictures/Separator.png)
 
-# 07. ADDITIONAL TOOLS
+# 07. Additional Tools
 
 ## 7.1 SSEEdit
 
@@ -783,7 +804,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 
 ### 7.5.1 Installation
 
-* Download **[SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089)** manually from the Nexus.
+* Download [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
 * Extract the executable into Your Modding Folder. It’s just a single file so no separate directory is required.
 
 ## 7.6 Modwatch
@@ -794,3 +815,181 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Extract everything into the new folder.
 
 ![separator](Pictures/Separator.png)
+
+# 08 // ESM CLEANING
+
+## 8.1 About ESM Cleaning
+
+With the release of SSEEdit 4.0, the process of cleaning plugins has been simplified quite a bit. Beginning with **Update.esm**, we are going to clean the following four ESMs, Bethesda’s official master files, **one at a time**.
+
+* **Update.esm**
+* **Dawnguard.esm**
+* **HearthFires.esm**
+* **Dragonborn.esm**
+
+> Do **not** attempt to process Skyrim.esm this way.
+
+## 8.2 Export Files to MO2
+
+Since we want to keep the vanilla files wholly untouched, we are going to copy over the four ESMs that we will clean into a MO2 mod folder. They will then overwrite the original ESMs from your **Data** folder (which are displayed at the top of your load order).
+
+This method has the added benefit of keeping the vanilla files available as backup. Should something go wrong during the cleaning process (which is unlikely), you will be able to wipe the MO2 mod folder and copy the vanilla files again to start over.
+
+- Open the `Mod Organizer 2\mods` folder and create a new folder inside called **Official Master Files – Cleaned**.
+- Navigate to your **Data** folder and copy the following files:
+  - **Update.esm**
+  - **Dawnguard.esm**
+  - **HearthFires.esm**
+  - **Dragonborn.esm**
+- Paste them into your new **Official Master Files – Cleaned** folder.
+- In Mod Organizer 2, press F5 to refresh and your new "mod" will appear at the bottom of the mod order.
+- Drag it up above **SKSE – Data 2.0.x** in your mod order and activate it.
+
+## 8.3 Automated Cleaning Process
+
+### 8.3.1 Update.esm
+
+* Select **SSEEdit – Quick Cleaning** in the executables list and hit **Run**.
+* The plugin selection window will come up next.
+* Check only **Update.esm** and click OK.
+
+Now the cleaning process will begin automatically. It takes a few minutes, so simply sit back and let SSEEdit do its thing until you see `Quick Clean mode finished` in the log. Then you can close SSEEdit.
+
+### 8.3.2 Dawnguard.esm
+
+* Run **SSEEdit – Quick Cleaning** through MO2.
+* Check only **Dawnguard.esm** in the plugin selection window and click **OK**.
+* Wait until the cleaning procedure is completed.
+* Close SSEEdit.
+
+### 8.3.3 HearthFires.esm
+
+* Run **SSEEdit – Quick Cleaning** through MO2.
+* Check only **HearthFires.esm** in the plugin selection window and click **OK**.
+* Wait until the cleaning procedure is completed.
+* Close SSEEdit.
+
+### 8.3.4 Dragonborn.esm
+
+* Run **SSEEdit – Quick Cleaning** through MO2.
+* Check only **Dragonborn.esm** in the plugin selection window and click **OK**.
+* Wait until the cleaning procedure is completed.
+* Close SSEEdit.
+
+## 8.4 Manual Cleaning - Update ESM
+
+### 8.4.1 Source
+
+With 1.5.97, Bethesda changed the navmeshes in Solitude for their latest "creation", Saints & Seducers ([source](https://www.reddit.com/r/skyrimmods/comments/dzvg03/teardown_of_the_1597_update/?utm_source=share&utm_medium=web2x)). Some mods however still rely on the old navmesh and they will crash if it's missing (namely Interesting NPCs). Therefore we will revert the deletion of the old navmesh.
+
+Instructions are copied with permission from Lexy's LOTD.
+
+### 8.4.2 Instructions
+
+- Run SSEEdit through Mod Organizer 2 (==do **not** use the Quick Cleaning version==).
+- In the plugin selection window, right-click and **Select None**.
+- Check only **Update.esm** and hit **OK**.
+- Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
+- Double-click **Update.esm** and navigate to the following section:
+  - `Worldspace \ 0000003C Tamriel \ Block 1, -1 \ Sub-Block 5, -4 \ 0000BDC9 \ Temporary`
+- Double-click **Temporary** and delete the following record:
+  - `00106EAA Navigation Mesh`
+- Close SSEEdit.
+- When asked to save your changes, only **Update.esm** should appear in the list.
+- Make sure **Update.esm** is checked, then click **OK**.
+- You’re done!
+
+## 8.5 Manual Cleaning - Dawnguard ESM
+
+### 8.5.1 Source
+
+There are [additional instructions written up by alt3rn1ty](https://forums.nexusmods.com/index.php?/topic/5381485-guide-manual-cleaning-skyrim-and-skyrim-special-edition-master-files/) to manually clean some dirty edits that won’t be caught by SSEEdit’s quick cleaning procedure. Only one of the edits can affect actual gameplay though, so we won’t bother with removing the other two which are simply left-over test records.
+
+### 8.5.2 Apply Filter
+
+* Run **SSEEdit** through Mod Organizer 2 (==do not use the Quick Cleaning version==).
+* In the plugin selection window, right-click and **Select None**.
+* Check only **Dawnguard.esm** and hit **OK**.
+* Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
+* Right-click anywhere in the left pane and select **Apply** **Filter**.
+* Change nothing in the window that comes up next, but simply click **Filter** to confirm.
+* This will take a moment and you need to wait until it is done.
+
+### 8.5.3 Delete conflicting sub-record
+
+* Proceed once SSEEdit returns `Done: Applying Filter`.
+* Double-click **Dawnguard.esm** (now displayed in orange), then double-click **Cell**.
+* Find the following cell (highlighted in red) in the list and select it:
+  * ==00016BCF RiftenRaggedFlagon==
+* Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
+* Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
+* There will be a warning, simply click **Yes I’m absolutely sure**.
+
+![ESM Cleaning - Manual Edit](Pictures/Setup/esm_cleaning_manual_edit.png)
+
+### 8.5.4 Save Changes
+
+* Close SSEEdit.
+* When asked to save your changes, only **Dawnguard.esm** should appear in the list.
+* Make sure **Dawnguard.esm** is checked, then click **OK**.
+* You’re done!
+
+![separator](Pictures/Separator.png)
+
+# 09. Skyrim Realistic Overhaul
+
+## 9.1 Download
+
+Skyrim Realistic Overhaul is the most comprehensive texture overhaul out there, over 10GB in size and covering nearly every single texture in the game. We will use it as a base retexture for our setup.
+
+Unfortunately SRO is not on the Nexus and we will have to download it from ModDB. Because the files are so large, the download may take a while (depending on your internet connection) and it may be advisable to let them load overnight.
+
+Otherwise you can also continue with the Mod Installation section for now as the installation of SRO can be completed anytime.
+
+* Open the [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads) page on ModDB and download the following files:
+  * `Skyrim Realistic Overhaul Part 1`
+  * `Skyrim Realistic Overhaul Part 2`
+  * `Skyrim Realistic Overhaul Part 3`
+  * `Skyrim Realistic Overhaul 1.8 Update`
+
+**Do not download the file for Original Skyrim (SLE).**
+
+> It is  technically not necessary to download the **Update** file as it will be overwritten completely with the full TPF installation. I have included it anyway for the sake of completeness as well as for people skipping many of the other retextures.
+
+## 9.2 File Extraction
+
+* Create a new folder inside `Your Modding Folder\temp` and name it **Skyrim Realistic Overhaul**.
+* Extract the **textures** folders from all downloaded SRO archives into the new **Skyrim Realistic Overhaul** folder in this order:
+  * Part 1
+  * Part 2
+  * Part 3
+  * Update
+* This will take a while. **Make sure to merge and overwrite when asked.**
+* Eventually you will have a single **textures** folder with the size of a solid **10.2GB**.
+
+![SRO Textures Folder](Pictures/Setup/sro_textures_folder.png)
+
+## 9.3 Processing with CAO
+
+In order to be able to control the mod order of SRO and ensure it can be overwritten by other retexture mods, we will also pack the textures in BSAs (archives) and load the matching plugins high up in the load order. All packed up, the entirety of SRO will be reduced to 8.32GB this way.
+
+**If you have 3GB of VRAM or less:** Use the **SSE – Skyrim Realistic Overhaul (Performance)** profile. In addition to repacking the textures, CAO will also half their resolution (all 4k textures to 2k, all 2k textures to 1k) which will help save VRAM. Note that this will take more time and result in less plugins and archives.
+
+- Run **Cathedral Assets Optimizer** (do not open it through Mod Organizer 2.)
+- From the **Profiles** drop-down menu, select one of the **SSE – Skyrim Realistic Overhaul** profiles (Quality / Performance).
+- Click **Open Directory** and point it at the `Your Modding Folder\temp\Skyrim Realistic Overhaul` folder.
+- Click **Run** to start the process. Click **Yes to All** if asked to save changes.
+- This will take a while! You can monitor the progress in the **Logs** tab.
+- Wait until the CAO log returns: `[INFO] Process completed`.
+
+![Process SRO in CAO](Pictures/Setup/process_sro_in_cao.png)
+
+## 9.4 Installation
+
+* Navigate to `Your Modding Folder\temp\Skyrim Realistic Overhaul` which now contains several ESPs and BSAs:
+  * **Quality:** 6 ESPs+BSAs, 8.33GB in total
+  * **Performance:** 2 ESPs+BSAs, 2.29GB in total
+* Move the **Skyrim Realistic Overhaul** folder containing the packed files to `Mod Organizer 2\mods`.
+* Back in Mod Organizer 2, press F5 to refresh.
+* **Skyrim Realistic Overhaul** should now appear at the bottom of your mod order.
+* Drag it up all the way below the **MAIN VISUAL MODS** separator and activate it.
