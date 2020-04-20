@@ -1,10 +1,21 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
-Table of Contents
-- [Introduction](#introduction)
-  - [Overview](#overview)
-  - [Wabbajack](#wabbajack)
-  - 
+**TABLE OF CONTENTS**
+- [1.1 Overview](#11-overview)
+- [1.2 Wabbajack](#12-wabbajack)
+- [1.3 About the guide](#13-about-the-guide)
+  - [1.3.1 Features](#131-features)
+  - [1.3.2 Vanilla Plus](#132-vanilla-plus)
+  - [1.3.3 Included Mods](#133-included-mods)
+  - [1.3.4 Our Tools](#134-our-tools)
+- [1.4 Recommended Hardware](#14-recommended-hardware)
+  - [1.4.1 Suggested Setup](#141-suggested-setup)
+  - [1.4.2 Phoenix's Build](#142-phoenixs-build)
+  - [1.4.3 Monitor Resolution](#143-monitor-resolution)
+- [1.5 The Next Step](#15-the-next-step)
+- [2.1 Requirements](#21-requirements)
+- [2.2 Show File Extensions](#22-show-file-extensions)
+- [2.3 Your Modding Folder](#23-your-modding-folder)
 
 # 01 // INTRODUCTION
 
@@ -109,4 +120,31 @@ The guide includes instructions to change the game's resolution.
 
 Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
 
-# 
+# 02 // Getting Started
+
+## 2.1 Requirements
+
+- [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
+- A legit Windows 7 / 8 / 8.1 / 10 installation (64bit).
+- The editing software [Notepad++](https://notepad-plus-plus.org/) (freeware).
+- An archiving tool like [7zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/start.html?&L=0).
+- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
+- A free (or Premium) account on [Nexus Mods](https://www.nexusmods.com/).
+
+> With a **Nexus Premium** subscription you will be able to complete the guide in significantly less time since you will benefit from the uncapped download speeds (which obviously depend on your internet connection as well). A one month subscription costs £2.99, giving you more than enough time to complete the guide.
+
+## 2.2 Show File Extensions
+
+By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows Explorer. Since it's fairly important to be able to see them during the installation of the guide, I recommend double-checking that you have them set to visible.
+
+- Open the Windows Explorer.
+- Click the **View** tab at the top.
+- Make sure **File name extensions** is checked.
+
+![File Extensions Visible](Pictures/File%20Extensions%20Visible.png)
+
+## 2.3 Your Modding Folder
+
+In order to keep all files related to modding Skyrim SE in one place, we will create a dedicated directory. It will serve as a hub for all tools, downloaded mod archives, custom files, notes, backups, screenshots and whatever else you can think of.
+
+Throughout the guide I will refer to this folder as **Your Modding Folder**.

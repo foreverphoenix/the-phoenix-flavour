@@ -1,17 +1,14 @@
 # The Phoenix Flavour
 
-TEST CHANGE
-
-- [The Phoenix Flavour](#the-phoenix-flavour)
-  - [Introdution](#introdution)
-  - [Misconceptions](#misconceptions)
-  - [Getting Started](#getting-started)
-    - [Building your own setup.](#building-your-own-setup)
-    - [Following a guide.](#following-a-guide)
-    - [Using Wabbajack.](#using-wabbajack)
-  - [Discord](#discord)
-  - [Future Plans](#future-plans)
-  - [Credits](#credits)
+- [Introdution](#introdution)
+- [Misconceptions](#misconceptions)
+- [Getting Started](#getting-started)
+  - [Building your own setup.](#building-your-own-setup)
+  - [Following a guide.](#following-a-guide)
+  - [Using Wabbajack.](#using-wabbajack)
+- [Discord](#discord)
+- [Future Plans](#future-plans)
+- [Credits](#credits)
 
 ## Introdution
 
