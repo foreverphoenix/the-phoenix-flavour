@@ -1,4 +1,4 @@
-# The Phoenix Flavour - Release 3.2
+![Logo](Pictures/Logo%20Mockup.png)
 
 - [The Phoenix Flavour - Release 3.2](#the-phoenix-flavour---release-32)
   - [Features](#features)
@@ -24,6 +24,8 @@
   - [Mod Installation](#mod-installation-4)
   - [Finalisation](#finalisation-3)
   - [New Game](#new-game-1)
+
+# The Phoenix Flavour - Release 3.2
 
 ## Features
 
