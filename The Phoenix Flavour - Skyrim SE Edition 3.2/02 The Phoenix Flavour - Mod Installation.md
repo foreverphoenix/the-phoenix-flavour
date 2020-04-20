@@ -242,7 +242,7 @@ At times (re)textures are only available in a size unreasonably large for regula
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
 - I recommend renaming it simply to **Skyrim Particle Patch** after the installation.
 
-![Skyrim Particle Patch download link](..\Pictures\Mod Installation\Skyrim Particle Patch download link.png)
+![Skyrim Particle Patch download link](Pictures/mod_installation/skyrim_particle_patch_download.png)
 
 ### Additional Instructions
 
@@ -267,8 +267,4 @@ At times (re)textures are only available in a size unreasonably large for regula
   * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
   * `meshes\architecture\solitude\doors\sgatedoor.nif`
 
-> **Mesh 1:**
-> The deleted mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D.
-
-> **Mesh 2:**
-> Deleting the mesh will allow you to use a different retexture for the gate.
+> The first mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D.  Deleting the second mesh will allow you to use a different retexture for the gate.
