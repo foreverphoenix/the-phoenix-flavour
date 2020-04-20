@@ -87,7 +87,7 @@
   - [7.5 SSE NIF Optimizer](#75-sse-nif-optimizer)
     - [7.5.1 Installation](#751-installation)
   - [7.6 Modwatch](#76-modwatch)
-- [08 // ESM CLEANING](#08--esm-cleaning)
+- [08. ESM Cleaning](#08-esm-cleaning)
   - [8.1 About ESM Cleaning](#81-about-esm-cleaning)
   - [8.2 Export Files to MO2](#82-export-files-to-mo2)
   - [8.3 Automated Cleaning Process](#83-automated-cleaning-process)
@@ -816,7 +816,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 
 ![separator](Pictures/Separator.png)
 
-# 08 // ESM CLEANING
+# 08. ESM Cleaning
 
 ## 8.1 About ESM Cleaning
 
