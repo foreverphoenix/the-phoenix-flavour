@@ -209,6 +209,8 @@
 - Moved ENB Shader Cache instructions to Step 1.
 - Instructions to turn down the DOF slider ingame were moved to the Finalisation.
 
+![separator](Pictures/Separator.png)
+
 # Release 3.2 Beta 2
 
 ## Setup
@@ -237,6 +239,8 @@
 
 - **Interface:** Fleshed out the Widescreen Support section.
 
+![separator](Pictures/Separator.png)
+
 # Release 3.2 Beta 3
 
 ## General
@@ -251,6 +255,8 @@
 - **29.10:** Updated FOMOD instructions for Reliquary of Myth.
 - **33.3:** Updated download instructions for 3DNPC (hotfix was updated).
 - **33.6:** Added missing FOMOD instructions for Immersive College NPCs.
+
+![separator](Pictures/Separator.png)
 
 # Release 3.2 Beta 4
 
@@ -280,6 +286,8 @@
 ## Customisation
 
 - **Interface:** Added new "Main Menu Mods" section (to be expanded in the future).
+
+![separator](Pictures/Separator.png)
 
 # Release 3.2 Beta 5
 
