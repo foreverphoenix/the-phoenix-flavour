@@ -169,7 +169,7 @@ The difference between these folders is significant. Do not confuse them.
 | **root folder** | `Steam/steamapps/common/Skyrim Special Edition/`      | contains the executables |
 | **data folder** | `Steam/steamapps/common/Skyrim Special Edition/Data/` | contains the game files  |
 
----
+![separator](Pictures/Separator.png)
 
 # 02 // Skyrim SE
 
