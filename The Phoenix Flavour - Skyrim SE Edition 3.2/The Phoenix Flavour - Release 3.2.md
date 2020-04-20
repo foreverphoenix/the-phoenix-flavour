@@ -1,5 +1,30 @@
 # The Phoenix Flavour - Release 3.2
 
+- [The Phoenix Flavour - Release 3.2](#the-phoenix-flavour---release-32)
+  - [Features](#features)
+  - [Setup](#setup)
+  - [Mod Installation](#mod-installation)
+  - [Finalisation](#finalisation)
+  - [Customisation](#customisation)
+  - [New Game](#new-game)
+- [Release 3.2 Beta 2](#release-32-beta-2)
+  - [Setup](#setup-1)
+  - [Mod Installation](#mod-installation-1)
+  - [Finalisation](#finalisation-1)
+  - [Customisation](#customisation-1)
+- [Release 3.2 Beta 3](#release-32-beta-3)
+  - [General](#general)
+  - [Mod Installation](#mod-installation-2)
+- [Release 3.2 Beta 4](#release-32-beta-4)
+  - [Setup](#setup-2)
+  - [Mod Installation](#mod-installation-3)
+  - [Finalisation](#finalisation-2)
+  - [Customisation](#customisation-2)
+- [Release 3.2 Beta 5](#release-32-beta-5)
+  - [Mod Installation](#mod-installation-4)
+  - [Finalisation](#finalisation-3)
+  - [New Game](#new-game-1)
+
 ## Features
 
 - Added many new screenshots and replaced outdated ones.
@@ -266,6 +291,7 @@
 - **2.4:** Fixed broken link to Quests Are In Skyrim.
 - **2.23:** Added Bug Fixes (the mod, by meh321).
 - **3.15:** Updated instructions for Simply Smaller Wolves (removed CRF related instructions, added screenshots).
+- **4.10:** Fixed and updated FOMOD instructions for Undiscovered Means Unknown.
 - **5.10:** Updated instructions for CBBE (file update).
 - **9.3:** Added The Elder Scrolls - Veydosebrom.
 - **9.4:** Added Cathedral Landscapes - Veydosebrom Swamp Grass Addon.

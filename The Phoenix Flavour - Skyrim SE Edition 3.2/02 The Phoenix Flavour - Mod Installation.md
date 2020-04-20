@@ -68,6 +68,34 @@
   - [3.23 Better Stealing (optional)](#323-better-stealing-optional)
   - [3.24 Uninterrupted Invisibility (optional)](#324-uninterrupted-invisibility-optional)
   - [3.25 Uninterrupted Ethereal Form (optional)](#325-uninterrupted-ethereal-form-optional)
+- [04. Interface](#04-interface)
+  - [4.1 SkyUI](#41-skyui)
+  - [4.2 Fix Note Icon for SkyUI (optional)](#42-fix-note-icon-for-skyui-optional)
+  - [4.3 Remove Quicksave Button from SkyUI Systems Menu (optional)](#43-remove-quicksave-button-from-skyui-systems-menu-optional)
+  - [4.4 Wider MCM Menu for SkyUI (optional)](#44-wider-mcm-menu-for-skyui-optional)
+  - [4.5 Favorite Things - Extended Favorites Menu for SkyUI (optional)](#45-favorite-things---extended-favorites-menu-for-skyui-optional)
+  - [4.6 Stay At The System Page (optional)](#46-stay-at-the-system-page-optional)
+  - [4.7 RaceMenu](#47-racemenu)
+  - [4.8 Immersive HUD - iHUD](#48-immersive-hud---ihud)
+  - [4.9 SkyHUD](#49-skyhud)
+  - [4.10 Undiscovered Means Unknown (optional)](#410-undiscovered-means-unknown-optional)
+  - [4.11 moreHUD (optional)](#411-morehud-optional)
+  - [4.12 moreHUD - Inventory Edition (optional)](#412-morehud---inventory-edition-optional)
+  - [4.13 A Matter of Time - A Clock HUD Widget (optional)](#413-a-matter-of-time---a-clock-hud-widget-optional)
+  - [4.14 A Matter of Time - Phoenix Preset (optional)](#414-a-matter-of-time---phoenix-preset-optional)
+  - [4.15 Shouts in the Dragon Tongue (SIDT) (optional)](#415-shouts-in-the-dragon-tongue-sidt-optional)
+  - [4.16 Extended UI (optional)](#416-extended-ui-optional)
+  - [4.17 Skyrim SE Skill Interface Retexture (SSIRT) (optional)](#417-skyrim-se-skill-interface-retexture-ssirt-optional)
+  - [4.18 No More Laser-Printed Book (optional)](#418-no-more-laser-printed-book-optional)
+  - [4.19 Immersive Bookreading and Lockpicking (optional)](#419-immersive-bookreading-and-lockpicking-optional)
+  - [4.20 JS Lockpicking UI (optional)](#420-js-lockpicking-ui-optional)
+  - [4.21 A Quality World Map](#421-a-quality-world-map)
+  - [4.22 Dynamic Snow for Map (optional)](#422-dynamic-snow-for-map-optional)
+  - [4.23 Dawnguard Map Markers (optional)](#423-dawnguard-map-markers-optional)
+  - [4.24 Smaller Vanilla Cursor (optional)](#424-smaller-vanilla-cursor-optional)
+  - [4.25 ReCleaned Menu (optional)](#425-recleaned-menu-optional)
+  - [4.26 Loading Screen Smoke Removed (optional)](#426-loading-screen-smoke-removed-optional)
+  - [4.27 KenMOD - Time on Loading Screen (optional)](#427-kenmod---time-on-loading-screen-optional)
 
 # Installation Instructions
 
@@ -752,3 +780,327 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 ### Download Instructions
 
 - **Main File** - Uninterrupted Ethereal Form v2
+
+![separator](Pictures/Separator.png)
+
+# 04. Interface
+
+## 4.1 [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
+
+### Download Instructions
+
+- **Main File** - SkyUI_5_2_SE
+
+### Additional Instructions
+
+- Run SSEEdit through Mod Organizer 2.
+- Click **OK** in the plugin selection window to load all plugins.
+- Wait for your mods to be loaded up before you proceed.
+- Right-click **SkyUI_SE.esp** in the left pane and select **Add Masters**.
+- Check **Skyrim.esm** and click **OK**.
+- Click **Yes, I’m sure** when the warning comes up.
+- Close SSEEdit and click **OK** to save your changes.
+
+> The plugin had no masters assigned to it which causes errors. Every plugin needs to have at least Skyrim.esm as a master.
+
+## 4.2 [Fix Note Icon for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - FixNotesForSkyUI SKSE64 2.0.17
+
+## 4.3 [Remove Quicksave Button from SkyUI Systems Menu](https://www.nexusmods.com/skyrimspecialedition/mods/28334?tab=files) (optional)
+
+### Download Instructions
+
+- **Optional File** - Remove QuickSave and Help Buttons (1)
+
+> While optional, I highly recommend installing this mod as it also contains the [Flashing Savegame Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406) for SkyUI which solves a very annoying issue.
+
+### About the mod
+
+While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. It will look as follows:
+
+- MCM
+- Save
+- Load
+- Settings
+- Controls
+- Quit
+
+## 4.4 [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Opt. 1 - Wider MCM Menu for SkyUI
+
+> You can download any one of the main files. Check the GIFs and choose your preferred version.
+
+## 4.5 [Favorite Things - Extended Favorites Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/27177?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Opt. 1 - Modified Vanilla Favorites
+
+> You can download any one of the main files. Check the pictures and choose your preferred version.
+
+## 4.6 [Stay At The System Page](https://www.nexusmods.com/skyrimspecialedition/mods/19832?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Stay At System Page
+
+## 4.7 [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files)
+
+### Download Instructions
+
+- **Main File** - RaceMenu Special Edition v0-4-12
+
+### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  * `RaceMenuPlugin.esp`
+
+## 4.8 [Immersive HUD - iHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440?tab=files)
+
+### Download Instructions
+
+- **Main File** - Immersive HUD – iHUD
+
+## 4.9 [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=files)
+
+### Download Instructions
+
+- **Main File** - SkyHUD v090B v4
+- **Update Files** - Patch - SkyHUD v090B ==merge with the main file==
+
+### FOMOD Instructions
+
+* **Install:** Loose Files
+* **Preset:** Vanilla Small
+* **Optional:** Install iHUD compatibility patch
+
+### Additional Instructions
+
+**This is optional.**
+
+* Double-click **SkyHUD** in your mod order.
+* In the **Text Files** tab, select the **skyhud.txt**.
+* Edit the following lines:
+  * `bAltArrow=1`
+  * `bAltCompass=1`
+  * `bDotCrosshair=1`
+* Close the window and confirm when asked to save.
+
+> This will change the compass to a slimmer one and improve the arrow display. The crosshair will be turned into a simple dot.
+
+## 4.10 [Undiscovered Means Unknown](https://www.nexusmods.com/skyrimspecialedition/mods/9762?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Undiscovered Means Unknown - Compass and Map Markers
+
+### FOMOD Instructions
+
+* **Main:**
+  * Both the Compass and the Map
+* **Do you wish for the player's location to be marked on the map?**
+  * Yes
+* **SkyUI**:
+  * Yes
+* **Have you installed a HUD-altering mod?**
+  * SkyHUD
+* **Have you installed the mod Customizeable UI Replacer?**
+  * No
+* **Font choice:**
+  * Custom font
+* **Which colored map marker mod have you installed?**
+  * Default – Skyrim SE
+* **Do you wish for enemies to be visible in the compass?**
+  * Yes (*this can easily be disabled in SkyHUD in the future*)
+* **Which icon do you wish to use for undiscovered locations?**
+  * Nothing
+
+## 4.11 [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - moreHUD SE Light Master
+
+### Additional Instructions
+
+- Double-click **moreHUD** in your mod order.
+- Switch to the **Filetree** tab.
+- Rename the following file:
+  * AHZmoreHUD.**esp**
+
+> This is faster than ESL-ifying the ESP.
+
+## 4.12 [moreHUD - Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - moreHUD Inventory Edition
+
+### Additional Instructions
+
+- Double-click **moreHUD - Inventory Edition** in your mod order.
+- Switch to the **Filetree** tab.
+- Rename the following file:
+  * AHZmoreHUDInventory.**esp**
+
+> This is faster than ESL-ifying the ESP.
+
+## 4.13 [A Matter of Time - A Clock HUD Widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - AMatterOfTime_v3_0_0_alpha_4
+
+## 4.14 [A Matter of Time - Phoenix Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - A Matter of Time - Phoenix Preset
+
+> **Mod Dependency:** Only install this mod if you installed A Matter of Time. Otherwise skip it.
+
+### About the mod
+
+This is my personal preset for AMOT. It uses the slim clock widget to match the slim compass from SkyHUD and has a small 24h clock with the ingame time centered below. You can change the clock to 12h through the MCM at any time.
+
+Even if you have the preset installed, you can configure the AMOT settings to your liking. It will only be applied if you load it through the MCM specifically.
+
+Preview below:
+
+![My AMOT Preset Preview](Pictures/mod_installation/amot_preset_preview.jpg)
+
+## 4.15 [Shouts in the Dragon Tongue (SIDT)](https://www.nexusmods.com/skyrimspecialedition/mods/5515?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - SIDT - Words Only
+
+## 4.16 [Extended UI](https://www.nexusmods.com/skyrim/mods/57873?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Extended UI
+
+### Porting Instructions
+
+- Resave **Extended UI.esp** in the Creation Kit.
+- Unpack **Extended UI.bsa** through Mod Organizer 2.
+
+> Don't forget to delete the BSA after unpacking it.
+
+## 4.17 [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - SSIRT SE v4.1
+
+### FOMOD Instructions
+
+Below are my personal choices. Feel free to make your own!
+
+- **Background:**
+  - Background – Irradiant Stars – HDR Nebula
+- **Perk Lines:**
+  - Default
+- **Perk Line Colour:**
+  - Default
+- **Constellations:**
+  - HD Default
+- **Perk Stars:**
+  - Option 2
+- **Dawnguard:**
+  - HD Masser and Secunda and More Stars
+- **Vampire Background:**
+  - HDR Nebula
+
+##  4.18 [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - No More Laser-Printed Book
+
+## 4.19 [Immersive Bookreading and Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Immersive Bookreading
+- **Main File** - Immersive Lockpicking
+
+## 4.20 [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - 2k Textures
+
+## 4.21 [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804?tab=files)
+
+### Download Instructions
+
+- **Main File** - 8.4 A Quality World Map – Classic with All Roads
+
+### Additional Instructions, Part 1
+
+* Unpack **icepenguinworldmapclassic – textures.bsa** through Mod Organizer 2.
+* Delete the following file(s) and/or folder(s):
+  * `icepenguinworldmapclassic.esp`
+
+> The BSA is deleted in order to allow A Quality World Map to overwrite some LOD files from Cathedral Landscapes. The plugin only contains one record which is completely overwritten by the AQWM+Luminosity lighting patch and it is no longer needed to load the BSA so it is redundant.
+
+### Additional Instructions, Part 2
+
+* Double-click **A Quality World Map** in your mod order.
+* Switch to the **Filetree** tab.
+* Rename the following file:
+  * `icepenguinworldmapclassic.ini` >>> `maplightfix.ini`
+
+> Since we just deleted the plugin, it can no longer load the INI file. By renaming it, the INI will now be loaded by the Luminosity map lighting patch (installed later on).
+
+## 4.22 [Dynamic Snow for Map](https://www.nexusmods.com/skyrim/mods/29877?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Type 1
+
+## 4.23 [Dawnguard Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/20931?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Dawnguard Map Markers
+
+## 4.24 [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Smaller Vanilla Cursors
+
+### FOMOD Instructions
+
+* **Step 1:** Right
+
+> If you are left-handed, feel free to select the "Left" option.
+
+## 4.25 [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - ReCleanedMenus
+
+## 4.26 [Loading Screen Smoke Removed](https://www.nexusmods.com/skyrimspecialedition/mods/4634?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Loading Screen Smoke Removed v1.0
+
+## 4.27 [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Time on loading v5
+
+![separator](Pictures/Separator.png)
