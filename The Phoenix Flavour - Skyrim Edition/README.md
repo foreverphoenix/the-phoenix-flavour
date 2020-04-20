@@ -1,25 +1,22 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
 **TABLE OF CONTENTS**
-- [1.1 Overview](#11-overview)
-- [1.2 Wabbajack](#12-wabbajack)
-- [1.3 About the guide](#13-about-the-guide)
-  - [1.3.1 Features](#131-features)
-  - [1.3.2 Vanilla Plus](#132-vanilla-plus)
-  - [1.3.3 Included Mods](#133-included-mods)
-  - [1.3.4 Our Tools](#134-our-tools)
-- [1.4 Recommended Hardware](#14-recommended-hardware)
-  - [1.4.1 Suggested Setup](#141-suggested-setup)
-  - [1.4.2 Phoenix's Build](#142-phoenixs-build)
-  - [1.4.3 Monitor Resolution](#143-monitor-resolution)
-- [1.5 The Next Step](#15-the-next-step)
-- [2.1 Requirements](#21-requirements)
-- [2.2 Show File Extensions](#22-show-file-extensions)
-- [2.3 Your Modding Folder](#23-your-modding-folder)
+- [Overview](#overview)
+- [Wabbajack](#wabbajack)
+- [About the guide](#about-the-guide)
+  - [Features](#features)
+  - [Vanilla Plus](#vanilla-plus)
+  - [Included Mods](#included-mods)
+  - [Our Tools](#our-tools)
+- [Recommended Hardware](#recommended-hardware)
+  - [Suggested Setup](#suggested-setup)
+  - [Phoenix's Build](#phoenixs-build)
+  - [Monitor Resolution](#monitor-resolution)
+- [The Next Step](#the-next-step)
 
-# 01 // INTRODUCTION
+# INTRODUCTION
 
-## 1.1 Overview
+## Overview
 
 The Phoenix Flavour, at it's core, is a modding guide like many others, teaching you how to set up a certain set of tools and mods for best results. Unlike other modding guides, it contains many optional mods as well as extensive customisation option.
 
@@ -29,7 +26,7 @@ The guide was written with the assumption that most readers have little previous
 
 If you are unwilling to dig deep into the topic of modding Skyrim, there is always the Wabbajack option (more on that below).
 
-## 1.2 Wabbajack
+## Wabbajack
 
 Anyone who does not want to or is unable to invest large amounts of time into modding Skyrim SE should look into the **Wabbajack** version of The Phoenix Flavour instead of the **Classic Guide** (manual installation).
 
@@ -44,9 +41,9 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 | :no_entry: | You will learn nothing about modding or utilising the required tools. |
 | :no_entry: | You will miss out on the Customisation options that the Classic Guide features. |
 
-## 1.3 About the guide
+## About the guide
 
-### 1.3.1 Features
+### Features
 
 Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
 
@@ -55,11 +52,11 @@ Regardless of whether you build the setup manually with the **Classic Guide** or
 - **Customisability:** In order to account for differences in taste among all users, a large amount of mods were marked as optional and are not required to be installed. Other mods come with extensive customisation options usually provided ingame through Mod Configuration Menus. A list of additional compatible mods and optional tweaks is available in a dedicated section of the guide.
 - **Performance:** The Phoenix Flavour was created for gameplay instead of screen-archery and will for most people deliver solid results on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as optional ENB installation and the choice to use low settings in DynDOLOD you can tweak your game until you reach a stable 60FPS.
 
-### 1.3.2 Vanilla Plus
+### Vanilla Plus
 
 The concept of "vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay.
 
-### 1.3.3 Included Mods
+### Included Mods
 
 You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
@@ -75,7 +72,7 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **DLC-Sized Mods:** None included (although 3DNPC could be described as such).
 - **Needs and Survival Mods:** None included.
 
-### 1.3.4 Our Tools
+### Our Tools
 
 The Phoenix Flavour is built using the most advanced, feature-rich mod manager out there: **Mod Organizer 2**, a tool vastly superior to both the outdated Nexus Mod Manager as well as the newer Vortex.
 
@@ -83,9 +80,9 @@ In addition to MO2, we will routinely utilise the official Creation Kit as well 
 
 > This guide neither supports nor recommends **LOOT**. You should not use it at any point on a TPF installation.
 
-## 1.4 Recommended Hardware
+## Recommended Hardware
 
-### 1.4.1 Suggested Setup
+### Suggested Setup
 
 The specs below are recommended for those looking to install all visual mods with high settings as well as 3D tree LOD through DynDOLOD and a full ENB preset. There are plenty options within the guide that allow you to lower its performance impact so that the modded game remains playable even on weaker machines.
 
@@ -98,7 +95,7 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 |        GPU | a modern card with at least 4GB of VRAM (ideally 6-8GB)      |
 | Hard Drive | at least 100GB of free space on a fast HDD or SSD            |
 
-### 1.4.2 Phoenix's Build
+### Phoenix's Build
 
 | Hardware   | My PC                                                    |
 | -------:   | -------------------------------------------------------- |
@@ -110,41 +107,12 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 |  Monitor 1 | LG 27GL850-B UltraGear 1440p @144Hz (my primary monitor) |
 |  Monitor 2 | Acer S242HL 1080p @60Hz (my secondary monitor)           |
 
-### 1.4.3 Monitor Resolution
+### Monitor Resolution
 
 Never underestimate the impact that high monitor resolutions have on performance. I would consider my setup to be on the higher end of the mid-tier spectrum, and when playing at 1080p I can get stable 60-100 FPS everywhere. At 1440p, I notice a considerable performance impact, losing 20 FPS on average. With the amount of additional pixels to render on resolutions like 1440p and upwards, the hardware requirement does go up quite harshly. And don’t expect 60FPS when playing on 4K with ENB.
 
 The guide includes instructions to change the game's resolution.
 
-## 1.5 The Next Step
+## The Next Step
 
 Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
-
-# 02 // Getting Started
-
-## 2.1 Requirements
-
-- [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
-- A legit Windows 7 / 8 / 8.1 / 10 installation (64bit).
-- The editing software [Notepad++](https://notepad-plus-plus.org/) (freeware).
-- An archiving tool like [7zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/start.html?&L=0).
-- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
-- A free (or Premium) account on [Nexus Mods](https://www.nexusmods.com/).
-
-> With a **Nexus Premium** subscription you will be able to complete the guide in significantly less time since you will benefit from the uncapped download speeds (which obviously depend on your internet connection as well). A one month subscription costs £2.99, giving you more than enough time to complete the guide.
-
-## 2.2 Show File Extensions
-
-By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows Explorer. Since it's fairly important to be able to see them during the installation of the guide, I recommend double-checking that you have them set to visible.
-
-- Open the Windows Explorer.
-- Click the **View** tab at the top.
-- Make sure **File name extensions** is checked.
-
-![File Extensions Visible](Pictures/File%20Extensions%20Visible.png)
-
-## 2.3 Your Modding Folder
-
-In order to keep all files related to modding Skyrim SE in one place, we will create a dedicated directory. It will serve as a hub for all tools, downloaded mod archives, custom files, notes, backups, screenshots and whatever else you can think of.
-
-Throughout the guide I will refer to this folder as **Your Modding Folder**.
