@@ -1,5 +1,6 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
+**TABLE OF CONTENTS**
 - [The Phoenix Flavour - Release 3.2](#the-phoenix-flavour---release-32)
   - [Features](#features)
   - [Setup](#setup)
