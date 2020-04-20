@@ -21,6 +21,65 @@
 - [2.6 Disable Auto Updates](#26-disable-auto-updates)
 - [2.7 Binaries Backup](#27-binaries-backup)
 - [2.8 Disable Steam Overlay](#28-disable-steam-overlay)
+- [3.1 Acquisition](#31-acquisition)
+- [3.2 Installation](#32-installation)
+- [3.3 Disable Auto Updates](#33-disable-auto-updates)
+- [3.4 Custom INI](#34-custom-ini)
+- [3.5 Creation Kit Fixes](#35-creation-kit-fixes)
+- [3.6 Vanilla Scripts](#36-vanilla-scripts)
+  - [3.6.1 Unpacking Scripts.zip](#361-unpacking-scriptszip)
+  - [3.6.2 Fixing Filepaths](#362-fixing-filepaths)
+- [4.1 Installation](#41-installation)
+- [4.2 Configuration](#42-configuration)
+  - [4.2.1 Mod Order Fix](#421-mod-order-fix)
+  - [4.2.2 Tweaks](#422-tweaks)
+  - [4.2.3 Nexus Integration](#423-nexus-integration)
+- [4.3 Manage Mod Downloads](#43-manage-mod-downloads)
+- [4.4 User Interface](#44-user-interface)
+  - [4.4.1 Components](#441-components)
+  - [4.4.2 Dark Mode](#442-dark-mode)
+  - [4.4.3 Mod Order](#443-mod-order)
+- [4.5 Custom Profiles](#45-custom-profiles)
+  - [4.5.1 Vanilla](#451-vanilla)
+  - [4.5.2 Modded](#452-modded)
+- [4.6 Deorder's MO2 Plugins](#46-deorders-mo2-plugins)
+  - [4.6.1 Installation](#461-installation)
+  - [4.6.2 Configuration](#462-configuration)
+- [4.7 Separators](#47-separators)
+- [5.1 Download](#51-download)
+- [5.2 Installation](#52-installation)
+  - [5.2.1 Binaries](#521-binaries)
+  - [5.2.2 Scripts](#522-scripts)
+- [5.3 SKSE INI](#53-skse-ini)
+- [5.4 SKSE Launcher](#54-skse-launcher)
+- [5.5 Verify Installation](#55-verify-installation)
+- [6.1 Generate Fresh INI Files](#61-generate-fresh-ini-files)
+  - [6.1.1 Remove old files](#611-remove-old-files)
+  - [6.1.2 Generate new INIs](#612-generate-new-inis)
+- [6.2 Install BethINI](#62-install-bethini)
+- [6.3 BethINI Configuration](#63-bethini-configuration)
+  - [6.3.1 BethINI - Setup](#631-bethini---setup)
+  - [6.3.2 BethINI - Basic](#632-bethini---basic)
+  - [6.3.3 BethINI - Interface](#633-bethini---interface)
+  - [6.3.4 BethINI - Detail](#634-bethini---detail)
+  - [6.3.5 BethINI - View Distance](#635-bethini---view-distance)
+  - [6.3.6 BethINI - Visuals](#636-bethini---visuals)
+  - [6.3.7 BethINI - Custom](#637-bethini---custom)
+- [6.4 Save Changes](#64-save-changes)
+- [7.1 SSEEdit](#71-sseedit)
+  - [7.1.1 Installation](#711-installation)
+  - [7.1.2 SSEEdit Cache Output](#712-sseedit-cache-output)
+  - [7.1.3 QuickAutoClean](#713-quickautoclean)
+- [7.2 zEdit](#72-zedit)
+  - [7.2.1 Installation](#721-installation)
+  - [7.2.2 Configuration](#722-configuration)
+  - [7.2.3 zMerge Settings](#723-zmerge-settings)
+- [7.4 Cathedral Assets Optimizer (CAO)](#74-cathedral-assets-optimizer-cao)
+  - [7.4.1 Installation](#741-installation)
+  - [7.4.2 Profiles](#742-profiles)
+- [7.5 SSE NIF Optimizer](#75-sse-nif-optimizer)
+  - [7.5.1 Installation](#751-installation)
+- [7.6 Modwatch](#76-modwatch)
 
 # 01 // Getting Started
 
@@ -163,7 +222,7 @@ Because the Script Extender and certain other mods are version dependent, you mu
 
 The currently supported version of Skyrim SE is: **1.5.97**.
 
-> If you accidentally updated to a newer version, please refer to **[this guide here](https://www.nexusmods.com/skyrimspecialedition/mods/19658)** in order to roll back.
+> If you accidentally updated to a newer version, please refer to [this guide here](https://www.nexusmods.com/skyrimspecialedition/mods/19658) in order to roll back.
 
 ### 2.5.1 How to check version number
 
@@ -201,10 +260,528 @@ Although Steam will no longer update Skyrim SE automatically, I still recommend 
 
 While I’ve personally never had any issues with the Steam Overlay in modded Skyrim SE, that seems to be an exception and it is indeed common practice to disable it as a precaution. Note that we will only disable it for Skyrim SE. The overlay will still work as usual for all other games.
 
-Since disabling the Steam Overlay will also prevent you from taking screenshots with Steam, I keep it enabled – as mentioned, without problems so far.
+Since disabling the Steam Overlay will also prevent you from taking screenshots with Steam, I keep it enabled - as I said, without problems so far.
 
 * Once again, open Steam.
 * Find **The Elder Scrolls V: Skyrim Special Edition** in your Library.
 * Right-click it and select **Properties**.
 * Uncheck **Enable the Steam Overlay while in-game**.
 * Close the window.
+
+---
+
+# 03 // The Creation Kit
+
+## 3.1 Acquisition
+
+With the release of Skyrim SE, Bethesda also published a new version of their official tool kit, the Creation Kit (or CK for short), updated for the new 64bit engine. Unfortunately the CK 2.0 can no longer be downloaded directly from Steam but requires the Bethesda Launcher and a Beth.net account.
+
+> The Bethesda Launcher is not required beyond installing the Creation Kit and you can safely uninstall it after that is done.
+
+- Go to Bethesda.net, the official website.
+- Scroll all the way down to the footer (bottom of the page).
+- Click the **Download** button in the **Bethesda Launcher** section.
+- Double-click the downloaded executable.
+
+![Download Beth Launcher](Pictures/Setup/download_beth_launcher.png)
+
+## 3.2 Installation
+
+* Let the executable guide you through the installation process.
+* When that is done, you must log-in with your Beth.net account or register a new one.
+* Once you’re logged in, check the list of game icons on the left.
+* Click the two arrows `>>` at the top to open the full list.
+* Select **Creation Kit: Skyrim** (with the white icon) and click **Install**.
+* The CK should be installed directly into your **root** folder (see picture).
+* Wait for the files to download.
+
+![Creation Kit Installation Path](Pictures/Setup/ck_installation_path.png)
+
+## 3.3 Disable Auto Updates
+
+* In the Bethesda Launcher, go to **Game Options**.
+* Toggle off **Auto Updates**.
+* Close the Bethesda Launcher.
+
+![Disable Auto Updates](Pictures/Setup/ck_disable_auto_updates.png)
+
+## 3.4 Custom INI
+
+The custom INI file will allow you to load mods with multiple master files as well as fix some Creation Kit issues and crashes.
+
+* Download this tweaked **[Creation Kit Custom INI](https://www.nexusmods.com/skyrimspecialedition/mods/19817)** (the main file) manually from the Nexus.
+* Extract the INI file into your **root** folder.
+
+## 3.5 Creation Kit Fixes
+
+It’s Bethesda, what did you expect?
+
+- Download **[SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061)** (CK64 Fixes release 2.x) manually from the Nexus.
+- Extract the three DLL files and the INI into your **root** folder.
+- **Optional:** Move the archive to `Your Modding Folder\ARCHIVE\CK Fixes` to keep as a backup.
+
+> We are not downloading the other CK Fixes main file because it is not needed for anyone except mod authors.
+
+## 3.6 Vanilla Scripts
+
+The Creation Kit installation includes a **Scripts.zip** which contains all source files for the vanilla Skyrim scripts. With these source files it is possible to edit and recompile vanilla scripts. This is usually unnecessary unless you plan on tinkering with the scripts themselves which we are in fact going to do at the very end of the guide.
+
+### 3.6.1 Unpacking Scripts.zip
+
+* Navigate to your **root** folder and launch **CreationKit.exe** from there.
+* You will be asked to unpack **Scripts.zip**, click **Yes**.
+* Once that is done, you can close the Creation Kit.
+
+### 3.6.2 Fixing Filepaths
+
+- Rename the **Source** folder in your **Data** folder to **Scripts**.
+- Double-click the **Scripts** folder.
+- Rename the **Scripts** folder inside to **Source**.
+- The resulting filepath should be:
+  - `Skyrim Special Edition\Data\Scripts\Source`
+
+---
+
+# 04 // Mod Organizer 2
+
+## 4.1 Installation
+
+Installing MO2 with a portable instance means all of its subdirectories will be located inside the MO2 root folder which is required for some modding tools to work properly.
+
+* Download **[Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)** (the **Archive** version) manually from the Nexus.
+* Extract the archive to a new folder on the same hard drive as your Skyrim SE installation, outside the UAC protected folders.
+* Run **ModOrganizer.exe**.
+* A window will come up – select **Portable** (see picture below).
+* Next you will be asked which game to set MO2 up for. Normally it should recognise your Skyrim SE installation automatically.
+* Select **Skyrim Special Edition** in the list.
+* Confirm when asked to associate NXM links with MO2.
+* Click **No** when prompted with the tutorial option.
+
+![MO2 Choose Instance](Pictures/Setup/mo2_choose_instance.png)
+
+## 4.2 Configuration
+
+### 4.2.1 Mod Order Fix
+
+- In the mod order (left pane), arrange the DLC as follows:
+  - **DLC: Dawnguard**
+  - **DLC: HearthFires**
+  - **DLC: Dragonborn**
+
+### 4.2.2 Tweaks
+
+* Open the **Settings** (Tools > Settings or CTRL + S).
+* In the **General** tab, check both boxes under **Download List**:
+  * Show Meta Information
+  * Compact List
+* Switch to the **Workarounds** tab and check the following option:
+  * Enable parsing of Archives (Experimental Feature)
+
+### 4.2.3 Nexus Integration
+
+* Switch to the **Nexus** tab where you need to connect your Nexus account to Mod Organizer 2.
+* Click **Connect to Nexus**.
+* This will open a Browser window where you will be asked to confirm.
+* Click **Authorise**. You can revoke this any time in your Nexus settings.
+* Mod Organizer 2 may ask you to restart. Click **OK**.
+
+![Authorise MO2](Pictures/Setup/authorise_mo2.png)
+
+## 4.3 Manage Mod Downloads
+
+Most people use the "With Mod Manager" download option on the Nexus and then install the mod through their mod manager’s UI. That is the fastest and simplest way to download and install mods.
+
+Since we installed MO2 as a portable application, all our mod archives would normally be downloaded into a sub-directory of the (MO2) root folder – which in turn may be located on your SSD or otherwise fastest hard drive. These archives are then extracted into their own folders meaning after their installation they only use up space.
+
+On the other hand, keeping the archives as backups is highly recommended as mods are occasionally taken down from the Nexus or in case something goes wrong during the installation.
+
+Here is where our **ARCHIVE** comes into play, the directory inside **Your Modding Folder** we set up to store all the mod files on a hard drive with plenty of free space. We will now configure Mod Organizer 2 to save all downloads to that folder.
+
+* Once again, open the **Settings** in MO2 (Tools > Settings or CTRL + S).
+* Switch to the **Paths** tab.
+* Point **Downloads** to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+
+![MO2 Archive](Pictures/Setup/mo2_archive.png)
+
+## 4.4 User Interface
+
+### 4.4.1 Components
+
+You can now configure the UI to your liking. Personally I re-arrange the two panels so that the left one (mod order) is wider.
+
+* Right-click the **Tool Bar** (coloured icons in the top left).
+* Now you may choose which parts of the UI to display. I recommend disabling **Log** and **Status Bar** as you won’t need either.
+* For the main **Tool Bar** you can decide between Icons or Text (or both), and, if you choose Icons, their size. This is up to you.
+
+### 4.4.2 Dark Mode
+
+If it’s the middle of the night and you prefer dark mode to go easy on your eyes, open the **Settings** (CTRL + S) and choose a different theme under **Styles**. Paper Black Mono or Paper Dark are the obvious choices but there are more options.
+
+### 4.4.3 Mod Order
+
+By right-clicking the top of the left pane, you can choose what to display in your mod order. Enable the following columns:
+
+* **Conflicts**
+* **Flags**
+* **Content**
+* **Version**
+* **Source Game**
+* **Priority**
+
+![MO2 Customized](Pictures/Setup/mo2_customised.png)
+
+## 4.5 Custom Profiles
+
+### 4.5.1 Vanilla
+
+* Open the **Profile** settings in MO2 (Tools > Profiles or CTRL+P).
+* The **Default** profile will be selected automatically.
+* Uncheck the following option at the bottom:
+  * Use profile-specific Game INI Files
+* When asked to delete the existing profile-specific INI files, click **Yes**.
+
+> This profile is completely untouched. It uses the global INI and save files from the INI folder, and running Skyrim SE through it will be exactly like running it from Steam. 
+
+### 4.5.2 Modded
+
+* Click **Copy** to set up a second profile based on the **Default** one.
+* Enter **"The Phoenix Flavour"** as the name.
+* Select your new profile in the list.
+* Check both options at the bottom:
+  * Use profile-specific Save Games
+  * Use profile-specific Game INI Files
+* Click **Close** to exit the settings.
+* In the profile list below the top left menu in MO2, select your new profile to switch to it.
+
+> This new profile is separate from your vanilla install. It uses its own directories for INI and save files.
+
+## 4.6 Deorder's MO2 Plugins
+
+Removing and re-activating plugins included in a merge can be more than a little annoying. Fortunately there is a plugin by Deorder to hide and unhide those plugins at any time directly through the MO2 UI.
+
+Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. This one allows you to update one profile's mod order to mirror another's.
+
+### 4.6.1 Installation
+
+* Open the Github page for [deorder’s MO2 Plugins](https://github.com/deorder/mo2-plugins/releases).
+* Download the latest version by clicking on **Source code (zip)**.
+* Open the downloaded archive and double-click the folder inside.
+* Navigate to `Mod Organizer 2\plugins`.
+* Extract the following folder and files from the archive into the **plugins** folder:
+  * **data**
+  * **pyMergePluginsHide.py**
+  * **pySyncModOrder.py**
+* Confirm when asked to merge the **data** folders.
+
+![Install Deorders Plugins](Pictures/Setup/install_deorders_plugins.png)
+
+### 4.6.2 Configuration
+
+- In Mod Organizer 2, open the **Settings** (Tools > Settings or CTRL+S).
+- Switch to the **Plugins** tab and select **Merged Plugins Hide** in the list.
+- Double-click **hide-type** and enter **optional**.
+- Click OK to save and close the window.
+
+> This will, instead of adding the extension .mohidden to the plugins, move them to a separate directory (a folder called "Optional" located inside the mod folder.
+
+## 4.7 Separators
+
+* Download the **[The Phoenix Flavour - MO2 Separator Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223)** manually from the Nexus.
+* Open the downloaded archive.
+* Extract all folders ending on **_separator** to `Mod Organizer 2\mods`.
+* Switch back to Mod Organizer 2 and press F5 to refresh. The new separators will now appear in your mod order.
+* They are numbered but should be sorted in the correct order automatically:
+  * *DLC: Dawnguard*
+  * *DLC: HearthFires*
+  * *DLC: Dragonborn*
+  * **01 ESSENTIAL MODS**
+  * **02 FIXES**
+  * **…**
+
+---
+
+# 05 // Skyrim Script Extender
+
+## 5.1 Download
+
+* Download **[SKSE64](http://skse.silverlock.org/)**. You need build ==**2.0.17**== for the current version of Skyrim SE.
+* Save the downloaded archive to `Your Modding Folder\ARCHIVE\SKSE64`.
+
+If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).
+
+![SKSE Download](Pictures/Setup/skse_download.png)
+
+## 5.2 Installation
+
+### 5.2.1 Binaries
+
+* Extract the archive’s contents to `Your Modding Folder\temp`.
+* Move the following three files into your Skyrim SE **root** folder:
+  * **skse64_**skyrim version number**.dll**
+  * **skse64_loader.exe**
+  * **skse64_steam_loader.dll**
+
+### 5.2.2 Scripts
+
+* Go back to your **temp** folder with the remaining files.
+* Rename the **Data** folder to **SKSE – Data 2.0.x** (where x is the current version number).
+* Move the new folder to `Mod Organizer 2\mods`.
+* Switch back to Mod Organizer 2.
+* Press F5 to refresh and the new mod will show up at the bottom of your mod order.
+* Move it up below the **01 ESSENTIAL MODS** separator and activate it.
+* Delete all remaining files inside your **temp** folder.
+
+## 5.3 SKSE INI
+
+* Download [SKSE64 INI PRE DOWNLOAD v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/1651) from the Nexus (click "Mod Manager Download").
+* Back to Mod Organizer 2, switch to the **Downloads** tab.
+* Double-click the mod there and click **OK** to install it.
+* Move it below **SKSE64 – Data v2.0.x** in the mod order and activate it.
+
+> This will be the only time downloading and installing a mod through MO2 is explained. You will be expected to do this on your own from now on.
+
+## 5.4 SKSE Launcher
+
+* Restart Mod Organizer 2.
+* The SKSE Launcher executable will now be automatically added to the executables list in MO2.
+* Select **SKSE** in the list and click **Run**.
+
+> At this point (and when testing later on) you’ll benefit a lot from having this page open on a secondary monitor or alternatively your phone or tablet in order to avoid having to tab out.
+
+## 5.5 Verify Installation
+
+* Once you are in the Skyrim SE main menu, bring up the console by pressing the tilde key on your keyboard (above TAB, next to 1).
+* Type in ``getskseversion`` and hit Enter. It should return the version number of your SKSE64 installation.
+* After confirming that SKSE64 was installed correctly, type **qqq** in the console and hit Enter to quickly close the game.
+
+![Verify SKSE64](Pictures/Setup/verify_skse64.jpg)
+
+---
+
+# 06 // INI Files
+
+## 6.1 Generate Fresh INI Files
+
+The basic game settings are saved in two INI files, **Skyrim.ini** and **SkyrimPrefs.ini**, and split up (somewhat arbitrarily) between them. In order to ensure that your INIs are completely untouched and vanilla, we will regenerate them before optimising them.
+
+### 6.1.1 Remove old files
+
+If you had Skyrim SE installed previously, follow these steps:
+
+* Locate your default INI files in the following directory:
+  * `C:\Users\{USERNAME}\My Games\Skyrim Special Edition`
+* If you have old save games you wish to keep, back up the **saves** folder now.
+* Delete everything inside the **Skyrim Special Edition** folder.
+
+### 6.1.2 Generate new INIs
+
+Continue with regenerating the INI files from scratch:
+
+* Open Steam and find **The Elder Scrolls V: Skyrim Special Edition** in your Game Library.
+* Hit **Play** to open the regular launcher.
+* A window will come up, informing you that Skyrim SE will now be configured based on your hardware.
+* Click **OK** twice to confirm and hit **Exit** once it’s done.
+
+![Regenerating INIs](Pictures/Setup/regenerating_inis.png)
+
+## 6.2 Install BethINI
+
+* Download the latest version of **[BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)** manually from the Nexus.
+* Extract the downloaded archive to `Your Modding Folder\Tools\BethINI`.
+* Close Mod Organizer 2.
+* Double-click **BethINI.exe**.
+
+## 6.3 BethINI Configuration
+
+### 6.3.1 BethINI - Setup
+
+* After starting BethINI, you will be prompted with a window asking you to choose your game.
+* Select **Skyrim Special Edition** from the drop-down menu.
+* Once BethINI has loaded up, go to the first tab, **Setup**.
+* All filepaths should be configured correctly out of the box, however it’s best to double-check:
+  * **Game Path** should point at your **root** folder, `steamapps\common\Skyrim Special Edition`.
+  * **Mod Organizer** should point at your MO2 folder, `{Your File Path}\Mod Organizer 2`.
+  * **INI Path** should point at your MO2 profile: ==ModOrganizer 2 > The Phoenix Flavour==.
+
+> Changing the INI Path will prompt BethINI to restart.
+
+### 6.3.2 BethINI - Basic
+
+Continue with the second tab, **Basic**.
+
+- Set **Resolution** to the correct value for your monitor.
+- Make sure to check **Recommended Tweaks**.
+- **BethINI** presets should be toggled automatically.
+- Select the **Medium** preset.
+- Disable both **VSYNC** and **Lock Frame Rate**.
+
+### 6.3.3 BethINI - Interface
+
+Continue with the fifth tab, **Interface**.
+
+- I prefer my **Lock Sensitivity** at ==**0.0450**== but this will come down to personal taste and your mouse configuration.
+- **Dialogue Subtitles** and **General Subtitles** are unchecked by default, toggle them on if you need them.
+
+> You can always turn on the subtitles in the ingame settings as well.
+
+### 6.3.4 BethINI - Detail
+
+Continue with the sixth tab, **Detail**.
+
+- **Decal Quantity:** Set to `High`.
+- **Godrays**: I recommend setting them to `None`, they don’t look great and eat frames for breakfast.
+- **Field of View:** Increase this if you prefer a wider FoV.
+- **Particles:** Set to `7500` (which is the recommended value for Complex Particle Lights, an ENB feature).
+- **Lens Flare:** Matter of taste. Personally I disable this.
+- **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
+- **Shadow Resolution:** Set to `2048` (unless your CPU is a slow dual core).
+- **Ambient Occlusion:** Recommended to set this to `None` in favour of ENB AO.
+
+### 6.3.5 BethINI - View Distance
+
+Continue with the seventh tab, **View Distance**.
+
+- **Grass Fade:** Set to `15000` or higher.
+
+### 6.3.6 BethINI - Visuals
+
+Continue with the eighth tab, **Visuals**.
+
+- Set **Contrast** to `-0.1800`.
+
+> This should eliminate the "black crush" some people are experiencing in Skyrim SE.
+
+### 6.3.7 BethINI - Custom
+
+Continue with the ninth tab, **Custom**.
+
+* Select the following:
+  * **Section:** General
+  * **Setting:** bModManagerMenuEnabled
+* Change the value to `0`.
+* Click **Save**.
+
+> This will disable the **MODS** entry in the ingame pause menu. You should not be using the in-built Bethesda mod manager or Beth.net platform at all. The Creation Club shenanigans will be hidden by mods later on.
+
+![Disable Mod Manager Menu](Pictures/Setup/bethini_disable_mod_manager_menu.png)
+
+## 6.4 Save Changes
+
+- Return to the second tab, **Basic**, and click `Save and Exit`.
+- Restart Mod Organizer 2.
+- You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
+
+---
+
+# 07 // ADDITIONAL TOOLS
+
+## 7.1 SSEEdit
+
+### 7.1.1 Installation
+
+* Download **[SSEEdit ](https://www.nexusmods.com/skyrimspecialedition/mods/164/)**manually from the Nexus.
+* Create a new folder: `Your Modding Folder\Tools\SSEEdit`.
+* Open the downloaded archive and extract everything into the new folder.
+* Open Mod Organizer 2 and go into the **Executables** settings (Tools > Executables or CTRL + E).
+* Click the tiny blue plus icon to add a new executable and select **Add from file**.
+* Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEdit.exe**.
+* Click **Apply** to save the new executable.
+
+![Add SSEEdit to MO2](Pictures/Setup/add_sseedit_to_mo2.png)
+
+### 7.1.2 SSEEdit Cache Output
+
+Every time a new plugin is loaded into SSEEdit, a refcache file will be generated for it so that the next time it won’t have to processed again – SSEEdit can simply read the cache file, significantly shortening the startup time.
+
+In order to store the cached files with the program files themselves, we need to add an argument for it:
+
+* Under **Arguments**, enter the following:
+  * `-C:"...\Your Modding Folder\Tools\SSEEdit\cache\"`
+* Replace the **"…\Your Modding Folder..."** part with the file path on your end. This is what I added:
+  * `-C:"F:\Modding\Skyrim SE Mods\Tools\SSEEdit\cache\"`
+* Click **Apply** to save.
+
+> Whenever you update SSEEdit, the accumulated refache files will also be wiped (as they should be) and new ones will be generated and stored in the same directory when you next launch SSEEdit without you having to complete any additional steps. 
+
+### 7.1.3 QuickAutoClean
+
+* Click the tiny blue plus icon to add another new executable and select **Add from file**.
+* Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEditQuickAutoClean.exe**.
+* **Optional:** Change the title to something less verbose (like "SSEEdit – QuickAutoClean").
+* Under **Arguments**, enter the following:
+  * `-DontCache`
+* Click **OK** to save and close the window.
+
+> The **-DontCache** argument will prevent an obscure bug that destroys parts of Apocrypha during the cleaning of Dragonborn.esm.
+
+![Add QuickAutoClean to MO2](Pictures/Setup/add_quickautoclean_to_mo2.png)
+
+## 7.2 zEdit
+
+### 7.2.1 Installation
+
+* Download the latest version of [zEdit](https://github.com/z-edit/zedit/releases) from Github:
+  * zEdit_v0.6.5_-_Portable_x64.7z
+* Create a new folder: `Your Modding Folder\Tools\zEdit`.
+* Open the downloaded archive and extract everything into the new folder.
+* Switch back to Mod Organizer 2 and open the **Executables** settings (Tools > Exectuables or CTRL + E).
+* Click the tiny blue plus icon to add a new executable and select **Add from file**.
+* Navigate to `Your Modding Folder\Tools\zEdit` and double-click **zEdit.exe**.
+* Click **OK** to close the window.
+
+![zEdit Download](Pictures/Setup/zedit_download.png)
+
+### 7.2.2 Configuration
+
+* Run zEdit through Mod Organizer 2.
+* Click the gears icon to open the **Profile** settings.
+* Make sure **Path** (for Skyrim SE) correctly points to your Skyrim SE **root** folder.
+* Close the profile settings window.
+
+### 7.2.3 zMerge Settings
+
+* Select **zMerge** from the drop-down menu in zEdit and hit **Start Session**.
+* Click the gears icon in the top right to open the settings.
+* Switch to the ==Integration Settings== tab and apply these settings:
+  * **Mod manager:** Mod Organizer 2
+  * **MO2 instance:** portable
+  * **Mod manager path:** `{Your File Path}\Mod Organizer 2`
+  * **Mod manager mods path:** `{Your File Path}\Mod Organizer 2\mods`
+* Switch to the ==Merge Settings== tab:
+  * **Merge output path:** `{Your File Path}\Mod Organizer 2\mods`
+  * **Integration:** uncheck **Disable plugins** and **Disable mods**
+* Once you have made sure everything is configured correctly, you may close zEdit.
+
+## 7.4 Cathedral Assets Optimizer (CAO)
+
+### 7.4.1 Installation
+
+* Download the latest version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually from the Nexus.
+* Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
+* Open the downloaded archive and extract everything into the new folder.
+
+> You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
+
+### 7.4.2 Profiles
+
+With the latest versions of CAO, you can set up dedicated profiles to switch between the two primary uses of CAO at will. I created several profiles for different purposes to be used during the installation of  the guide.
+
+* Download [The Phoenix Flavour – Cathedral Assets Optimizer Profiles](https://www.nexusmods.com/skyrimspecialedition/mods/14223) from the guide’s Nexus page.
+* Open the downloaded archive.
+* Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
+
+## 7.5 SSE NIF Optimizer
+
+While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimizer, there are some that will only work properly after running them through the original SSE NIF Optimizer.
+
+### 7.5.1 Installation
+
+* Download **[SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089)** manually from the Nexus.
+* Extract the executable into Your Modding Folder. It’s just a single file so no separate directory is required.
+
+## 7.6 Modwatch
+
+* Download [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) manually from the Nexus.
+* Create a new folder: `Your Modding Folder\Tools\Modwat.ch`.
+* Open the downloaded archive.
+* Extract everything into the new folder.
