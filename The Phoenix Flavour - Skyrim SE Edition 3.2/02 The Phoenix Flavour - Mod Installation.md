@@ -42,6 +42,32 @@
   - [2.22 Serana's Hood Fix (optional)](#222-seranas-hood-fix-optional)
   - [2.23 Bug Fixes](#223-bug-fixes)
   - [2.24 Actor Limit Fix](#224-actor-limit-fix)
+- [03. Tweaks](#03-tweaks)
+  - [3.1 Run For Your Lives](#31-run-for-your-lives)
+  - [3.2 Dwemer Gates Don't Reset (optional)](#32-dwemer-gates-dont-reset-optional)
+  - [3.3 Calcelmo Has Standards (optional)](#33-calcelmo-has-standards-optional)
+  - [3.4 Move It Dammit (optional)](#34-move-it-dammit-optional)
+  - [3.5 NPCs Run and Walk at Your Pace (optional)](#35-npcs-run-and-walk-at-your-pace-optional)
+  - [3.6 No More Standing Too Close (optional)](#36-no-more-standing-too-close-optional)
+  - [3.7 Realistic Conversations (optional)](#37-realistic-conversations-optional)
+  - [3.8 No NPC Greetings (optional)](#38-no-npc-greetings-optional)
+  - [3.9 Don't Talk With Your Mouth Full (optional)](#39-dont-talk-with-your-mouth-full-optional)
+  - [3.10 Random Encounter Tweaks (optional)](#310-random-encounter-tweaks-optional)
+  - [3.11 Morrowloot Miscellania - Better Ancient Knowledge (optional)](#311-morrowloot-miscellania---better-ancient-knowledge-optional)
+  - [3.12 Merchants and Citizens Have No Lockpicks (optional)](#312-merchants-and-citizens-have-no-lockpicks-optional)
+  - [3.13 No Spinning Death Animation (optional)](#313-no-spinning-death-animation-optional)
+  - [3.14 Improved Weapon Impact Effects (optional)](#314-improved-weapon-impact-effects-optional)
+  - [3.15 Simply Smaller Wolves (optional)](#315-simply-smaller-wolves-optional)
+  - [3.16 Quiet Dog (optional)](#316-quiet-dog-optional)
+  - [3.17 Skeletons Don't Breathe (optional)](#317-skeletons-dont-breathe-optional)
+  - [3.18 Remove Sneak Attack Sound (optional)](#318-remove-sneak-attack-sound-optional)
+  - [3.19 Bard Instrumentals Mostly - Sing Rarely (optional)](#319-bard-instrumentals-mostly---sing-rarely-optional)
+  - [3.20 No Crime Teleport (optional)](#320-no-crime-teleport-optional)
+  - [3.21 Better Dialogue Controls (optional)](#321-better-dialogue-controls-optional)
+  - [3.22 Better MessageBox Controls (optional)](#322-better-messagebox-controls-optional)
+  - [3.23 Better Stealing (optional)](#323-better-stealing-optional)
+  - [3.24 Uninterrupted Invisibility (optional)](#324-uninterrupted-invisibility-optional)
+  - [3.25 Uninterrupted Ethereal Form (optional)](#325-uninterrupted-ethereal-form-optional)
 
 # Installation Instructions
 
@@ -542,3 +568,185 @@ The commands will now be executed automatically when you start a new game or loa
 - **Main File** - ActorLimitPlugin v2
 
 ![separator](Pictures/Separator.png)
+
+# 03. Tweaks
+
+## 3.1 [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files)
+
+### Download Instructions
+
+- **Main File** - Run For Your Lives
+
+## 3.2 [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Dwemer Gates Don't Reset
+
+### FOMOD Instructions
+
+- **Versions:** Dwemer Only USSEP
+
+## 3.3 [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Calcelmo Has Standards SE
+
+## 3.4 [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Move it Dammit – for Skyrim Special Edition v1.1.0b (Installation Script)
+
+### FOMOD Instructions
+
+- **Custom:** Move it Dammit
+
+## 3.5 [NPCs Run and Walk at Your Pace](https://www.nexusmods.com/skyrimspecialedition/mods/2482?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Run and Walk at your Pace
+
+## 3.6 [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784) (optional)
+
+### Download Instructions
+
+- **Main File** - No More Standing Too Close SSE
+
+## 3.7 [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Realistic Conversations
+
+## 3.8 [No NPC Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1044?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - No NPC Greetings (Special Edition) - NMM FOMOD Installer
+
+### FOMOD Instructions
+
+- **Select an Option:** Reduced Distance (Recommended)
+
+## 3.9 [Don't Talk With Your Mouth Full](https://www.nexusmods.com/skyrimspecialedition/mods/17715?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Don’t Talk With Your Mouth Full
+
+## 3.10 [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Random Encounter Tweaks
+
+## 3.11 [Morrowloot Miscellania - Better Ancient Knowledge](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Morrowloot Miscellania – Better Ancient Knowledge
+
+## 3.12 [Merchants and Citizens Have No Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/2798?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Merchants and Citizens Have No Lockpicks SE
+
+## 3.13 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - No Spinning Death Animation MERGED
+
+## 3.14 [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Sparkles
+
+## 3.15 [Simply Smaller Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/10935?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Simply Smaller Wolves
+
+> The file is actually called Simply Bigger Wolves. Don’t be confused, this is a mistake on the part of the author.
+
+### Additional Instructions
+
+Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts manually.
+
+* Run **SSEEdit** through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all your mods.
+* Wait until SSEEdit returns `Background loader: finished`.
+* Double-click **SimplySmallerWolfs2.esp** in the left pane to expand the plugin.
+* Double-click **Non-Player Character (Actor)** and select the **EncC06WolfSpirit** record inside.
+* Drag and drop all edits highlighted red from the **Unofficial Skyrim Special Edition Patch.esp** column into **SimplySmallerWolfs2.esp**.
+* When asked, click **Yes I'm absolutely sure**.
+* Once both conflicts are resolved, the record will be displayed in green.
+* Repeat the same process for the **e3DemoAlphaWolf** record until no more conflicts are detected.
+* Close SSEEdit. Make sure only **SimplySmallerWolfs2.esp** shows up in the list to be saved, and that it is checked.
+* Click **OK** to save your changes and quit.
+
+## 3.16 [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Quiet Dog – Sit
+
+## 3.17 [Skeletons Don't Breathe](https://www.nexusmods.com/skyrimspecialedition/mods/18542?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - skeletons don’t breathe SSE loose files version
+
+## 3.18 [Remove Sneak Attack Sound](https://www.nexusmods.com/skyrimspecialedition/mods/17496?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Remove Sneak Attack Sound - Loose
+
+## 3.19 [Bard Instrumentals Mostly - Sing Rarely](https://www.nexusmods.com/skyrimspecialedition/mods/10927?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Bard Instrumentals Mostly – Sing Rarely
+
+## 3.20 [No Crime Teleport](https://www.nexusmods.com/skyrimspecialedition/mods/13109?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - No Crime Teleport
+
+## 3.21 [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Better Dialogue Controls v1_2
+
+## 3.22 [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Better MessageBox Controls v1_2
+
+## 3.23 [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - BetterStealing v2
+
+## 3.24 [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Uninterrupted Invisibility v2
+
+## 3.25 [Uninterrupted Ethereal Form](https://www.nexusmods.com/skyrimspecialedition/mods/21765?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Uninterrupted Ethereal Form v2
