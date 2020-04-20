@@ -264,6 +264,8 @@
 - Removed Real 3D Walls (doesn't blend well with other retextures).
 - **1.4:** Added SSE Display Tweaks.
 - **2.4:** Fixed broken link to Quests Are In Skyrim.
+- **2.23:** Added Bug Fixes (the mod, by meh321).
+- **3.15:** Updated instructions for Simply Smaller Wolves (removed CRF related instructions, added screenshots).
 - **5.10:** Updated instructions for CBBE (file update).
 - **9.3:** Added The Elder Scrolls - Veydosebrom.
 - **9.4:** Added Cathedral Landscapes - Veydosebrom Swamp Grass Addon.

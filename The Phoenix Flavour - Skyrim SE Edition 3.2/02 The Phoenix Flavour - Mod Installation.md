@@ -687,9 +687,11 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 * Drag and drop all edits highlighted red from the **Unofficial Skyrim Special Edition Patch.esp** column into **SimplySmallerWolfs2.esp**.
 * When asked, click **Yes I'm absolutely sure**.
 * Once both conflicts are resolved, the record will be displayed in green.
-* Repeat the same process for the **e3DemoAlphaWolf** record until no more conflicts are detected.
-* Close SSEEdit. Make sure only **SimplySmallerWolfs2.esp** shows up in the list to be saved, and that it is checked.
-* Click **OK** to save your changes and quit.
+* Close SSEEdit. Click **OK** to save your changes and quit.
+
+![Simply Smaller Wolves 1](Pictures/mod_installation/simply_smaller_wolves_conflict_1.png)
+
+![Simply Smaller Wolves 2](Pictures/mod_installation/simply_smaller_wolves_conflict_2.png)
 
 ## 3.16 [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files) (optional)
 
