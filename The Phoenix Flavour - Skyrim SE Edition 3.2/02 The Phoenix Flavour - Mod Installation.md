@@ -40,7 +40,8 @@
   - [2.20 Sound Hammering Sounds (optional)](#220-sound-hammering-sounds-optional)
   - [2.21 Dragon Stalking Fix (optional)](#221-dragon-stalking-fix-optional)
   - [2.22 Serana's Hood Fix (optional)](#222-seranas-hood-fix-optional)
-  - [2.23 Actor Limit Fix](#223-actor-limit-fix)
+  - [2.23 Bug Fixes](#223-bug-fixes)
+  - [2.24 Actor Limit Fix](#224-actor-limit-fix)
 
 # Installation Instructions
 
@@ -79,7 +80,7 @@ After completing the Setup, you are equipped with a correctly installed and conf
 * After installing a mod you may want to rename it in order to reflect the version you downloaded or options you selected in the FOMOD:
   * For retextures it is useful to add the texture resolution: **Embers HD 2k**.
   * If there are different versions, note down which one you downloaded: **Less Ugly Tundragrass - Redder Variant**.
-* When installing more than one file from the same mod page, always click **Rename** when prompted and give the file a unique name to install it separately. ==**Do not select Merge or Replace**==.
+* When installing more than one file from the same mod page, always click **Rename** when prompted and give the file a unique name to install it separately. **Do not select Merge or Replace**.
 
 ### FOMOD Instructions
 
@@ -528,8 +529,16 @@ The commands will now be executed automatically when you start a new game or loa
 
 * **Choose Version:** Realistic
 
-## 2.23 [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
+## 2.23 [Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
+
+### Download Instructions
+
+- **Main File** - Bug Fixes SSE v2
+
+## 2.24 [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
 
 ### Download Instructions
 
 - **Main File** - ActorLimitPlugin v2
+
+![separator](Pictures/Separator.png)
