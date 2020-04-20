@@ -1,4 +1,4 @@
-![Logo](Pictures/Logo%20Mockup.png)
+![Logo](The%20Phoenix%20Flavour%20-%20Skyrim%20SE%20Edition%203.2/Pictures/Logo%20Mockup.png)
 
 **TABLE OF CONTENTS**
 - [Overview](#overview)
@@ -14,9 +14,7 @@
   - [Monitor Resolution](#monitor-resolution)
 - [The Next Step](#the-next-step)
 
-# INTRODUCTION
-
-## Overview
+# Overview
 
 The Phoenix Flavour, at it's core, is a modding guide like many others, teaching you how to set up a certain set of tools and mods for best results. Unlike other modding guides, it contains many optional mods as well as extensive customisation option.
 
@@ -26,7 +24,7 @@ The guide was written with the assumption that most readers have little previous
 
 If you are unwilling to dig deep into the topic of modding Skyrim, there is always the Wabbajack option (more on that below).
 
-## Wabbajack
+# Wabbajack
 
 Anyone who does not want to or is unable to invest large amounts of time into modding Skyrim SE should look into the **Wabbajack** version of The Phoenix Flavour instead of the **Classic Guide** (manual installation).
 
@@ -41,9 +39,9 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 | :no_entry: | You will learn nothing about modding or utilising the required tools. |
 | :no_entry: | You will miss out on the Customisation options that the Classic Guide features. |
 
-## About the guide
+# About the guide
 
-### Features
+## Features
 
 Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
 
@@ -52,11 +50,11 @@ Regardless of whether you build the setup manually with the **Classic Guide** or
 - **Customisability:** In order to account for differences in taste among all users, a large amount of mods were marked as optional and are not required to be installed. Other mods come with extensive customisation options usually provided ingame through Mod Configuration Menus. A list of additional compatible mods and optional tweaks is available in a dedicated section of the guide.
 - **Performance:** The Phoenix Flavour was created for gameplay instead of screen-archery and will for most people deliver solid results on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as optional ENB installation and the choice to use low settings in DynDOLOD you can tweak your game until you reach a stable 60FPS.
 
-### Vanilla Plus
+## Vanilla Plus
 
 The concept of "vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay.
 
-### Included Mods
+## Included Mods
 
 You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
@@ -72,7 +70,7 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **DLC-Sized Mods:** None included (although 3DNPC could be described as such).
 - **Needs and Survival Mods:** None included.
 
-### Our Tools
+## Our Tools
 
 The Phoenix Flavour is built using the most advanced, feature-rich mod manager out there: **Mod Organizer 2**, a tool vastly superior to both the outdated Nexus Mod Manager as well as the newer Vortex.
 
@@ -80,9 +78,9 @@ In addition to MO2, we will routinely utilise the official Creation Kit as well 
 
 > This guide neither supports nor recommends **LOOT**. You should not use it at any point on a TPF installation.
 
-## Recommended Hardware
+# Recommended Hardware
 
-### Suggested Setup
+## Suggested Setup
 
 The specs below are recommended for those looking to install all visual mods with high settings as well as 3D tree LOD through DynDOLOD and a full ENB preset. There are plenty options within the guide that allow you to lower its performance impact so that the modded game remains playable even on weaker machines.
 
@@ -95,7 +93,7 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 |        GPU | a modern card with at least 4GB of VRAM (ideally 6-8GB)      |
 | Hard Drive | at least 100GB of free space on a fast HDD or SSD            |
 
-### Phoenix's Build
+## Phoenix's Build
 
 | Hardware   | My PC                                                    |
 | -------:   | -------------------------------------------------------- |
@@ -107,12 +105,12 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 |  Monitor 1 | LG 27GL850-B UltraGear 1440p @144Hz (my primary monitor) |
 |  Monitor 2 | Acer S242HL 1080p @60Hz (my secondary monitor)           |
 
-### Monitor Resolution
+## Monitor Resolution
 
 Never underestimate the impact that high monitor resolutions have on performance. I would consider my setup to be on the higher end of the mid-tier spectrum, and when playing at 1080p I can get stable 60-100 FPS everywhere. At 1440p, I notice a considerable performance impact, losing 20 FPS on average. With the amount of additional pixels to render on resolutions like 1440p and upwards, the hardware requirement does go up quite harshly. And don’t expect 60FPS when playing on 4K with ENB.
 
 The guide includes instructions to change the game's resolution.
 
-## The Next Step
+# The Next Step
 
 Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
