@@ -140,7 +140,9 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
-**DOWNLOAD INSTRUCTIONS**
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main File** - All in one
 
@@ -177,31 +179,41 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.3 [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – NetScriptFramework SkyrimSE v13
 
 ## 1.4 [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main File** - SSE Display Tweaks
 
 ## 1.5 [Autorun Console Commands (ACC)](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – ACC – Autorun Console Commands
 
 ## 1.6 [Performance Optimized Textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – performance textures max res 1024 min res 512 v8
 
 ## 1.7 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files) (optional)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – Music – HQ
 - **Main Files** – Voices EN – Part 1
@@ -209,20 +221,26 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.8 [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – Unofficial Skyrim Special Edition Patch
 
 ---
 
-==**ADDITIONAL INSTRUCTIONS**==
+```markdown
+# ADDITIONAL INSTRUCTIONS
+```
 
 - Delete the following file(s) and/or folder(s):
   * `Unofficial Skyrim Special Edition Patch.modgroups`
 
 ## 1.9 [Alternate Start - Live Another Life (AS LAL)](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – Alternate Start – Live Another Life
 
@@ -237,9 +255,9 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ![Skyrim Particle Patch download link](..\Pictures\Mod Installation\Skyrim Particle Patch download link.png)
 
----
-
-==**ADDITIONAL INSTRUCTIONS**==
+```markdown
+# ADDITIONAL INSTRUCTIONS
+```
 
 - Delete the following file(s) and/or folder(s):
   * `Particle Patch for ENB SSE.esp`
@@ -248,19 +266,21 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.11 [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files)
 
-==**DOWNLOAD INSTRUCTIONS**==
+```markdown
+# DOWNLOAD INSTRUCTIONS
+```
 
 - **Main Files** – SMIM SE 2-08
 
----
-
-==**FOMOD INSTRUCTIONS**==
+```markdown
+# FOMOD INSTRUCTIONS
+```
 
 - **Main Installer Choice:** Skyrim 2016 Special Edition: Everything
 
----
-
-==**ADDITIONAL INSTRUCTIONS**==
+```markdown
+# ADDITIONAL INSTRUCTIONS
+```
 
 - Delete the following file(s) and/or folder(s):
   * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
@@ -268,6 +288,6 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 > **Mesh 1:**
 > The deleted mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D.
->
+
 > **Mesh 2:**
 > Deleting the mesh will allow you to use a different retexture for the gate.
