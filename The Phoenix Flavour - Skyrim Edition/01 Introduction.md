@@ -1,8 +1,10 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
 Table of Contents
-- [Overview](#overview)
-- [Wabbajack](#wabbajack)
+- [Introduction](#introduction)
+  - [Overview](#overview)
+  - [Wabbajack](#wabbajack)
+  - 
 
 # INTRODUCTION
 
@@ -22,18 +24,18 @@ Anyone who does not want to or is unable to invest large amounts of time into mo
 
 Wabbajack is an auto-installer capable of "cloning" a full mod setup including all tweaks and changes to someone else's system. It requires virtually no modding experiences and little effort, although the automated download process does require a Nexus Premium account.
 
-|            | Wabbajack                                                    |
+|            | Advantages and Disadvantages of Wabbajack                    |
 | ---------- | ------------------------------------------------------------ |
-| **Pro**    | The actual mod installation can be done over night with zero effort. |
-| **Pro**    | All additional instructions will take much less time to follow and complete than a full run of the Classic Guide would. |
-| **Pro**    | Since most of the process is automated, it's unlikely that you will make a mistake that takes time to track and fix. |
-| **Contra** | At least one month's Nexus Premium subscription is required for Wabbajack to automatically download the files. |
-| **Contra** | You will learn nothing about modding or utilising the required tools. |
-| **Contra** | You will miss out on the Customisation options that the Classic Guide features. |
+| :white_check_mark:    | The actual mod installation can be done over night with zero effort. |
+| :white_check_mark:    | All additional instructions will take much less time to follow and complete than a full run of the Classic Guide would. |
+| :white_check_mark:    | Since most of the process is automated, it's unlikely that you will make a mistake that takes time to track and fix. |
+| :no_entry: | At least one month's Nexus Premium subscription is required for Wabbajack to automatically download the files. |
+| :no_entry: | You will learn nothing about modding or utilising the required tools. |
+| :no_entry: | You will miss out on the Customisation options that the Classic Guide features. |
 
 ## About the guide
 
-### Features
+###  :arrow_forward: Features
 
 Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
 
@@ -45,7 +47,7 @@ Regardless of whether you build the setup manually with the **Classic Guide** or
 
 - **Performance:** The Phoenix Flavour was created for gameplay instead of screen-archery and will for most people deliver solid results on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as optional ENB installation and the choice to use low settings in DynDOLOD you can tweak your game until you reach a stable 60FPS.
 
-### Vanilla Plus
+### :arrow_forward: Vanilla Plus
 
 The concept of "vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay.
 
@@ -90,15 +92,15 @@ The specs below are recommended for those looking to install all visual mods wit
 
 ### Phoenix's Build
 
-| Hardware | My PC                                                    |
-| -------: | -------------------------------------------------------- |
-|      CPU | Intel i5 7600k @4.2GHz, hybrid-cooled                    |
-|      GPU | EVGA GTX 1070 Founder’s Edition (8192MB VRAM)            |
-|      RAM | Corsair Vengeance 16GB DDR4-3200 Memory                  |
-|      SSD | Samsung 850 Evo Series 256GB SSD (OS)                    |
-|      SSD | Samsung 860 Evo Series 1TB SSD (Games)                   |
-|  Monitor | LG 27GL850-B UltraGear 1440p @144Hz (my primary monitor) |
-|  Monitor | Acer S242HL 1080p @60Hz (my secondary monitor)           |
+| Hardware   | My PC                                                    |
+| -------:   | -------------------------------------------------------- |
+|        CPU | Intel i5 7600k @4.2GHz, hybrid-cooled                    |
+|        GPU | EVGA GTX 1070 Founder’s Edition (8192MB VRAM)            |
+|        RAM | Corsair Vengeance 16GB DDR4-3200 Memory                  |
+|        SSD | Samsung 850 Evo Series 256GB SSD (OS)                    |
+|        SSD | Samsung 860 Evo Series 1TB SSD (Games)                   |
+|  Monitor 1 | LG 27GL850-B UltraGear 1440p @144Hz (my primary monitor) |
+|  Monitor 2 | Acer S242HL 1080p @60Hz (my secondary monitor)           |
 
 ### Monitor Resolution
 
