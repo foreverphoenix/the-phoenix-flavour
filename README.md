@@ -1,83 +1,118 @@
-# The Phoenix Flavour
+![Logo](Pictures/Logo%20Mockup.png)
 
-- [The Phoenix Flavour](#the-phoenix-flavour)
-- [Introduction](#introduction)
-- [Misconceptions](#misconceptions)
-- [Getting Started](#getting-started)
-  - [Building your own setup.](#building-your-own-setup)
-  - [Following a guide.](#following-a-guide)
-  - [Using Wabbajack.](#using-wabbajack)
-- [Discord](#discord)
-- [Future Plans](#future-plans)
-- [Credits](#credits)
+**TABLE OF CONTENTS**
+- [Overview](#overview)
+- [Wabbajack](#wabbajack)
+- [About the guide](#about-the-guide)
+  - [Features](#features)
+  - [Vanilla Plus](#vanilla-plus)
+  - [Included Mods](#included-mods)
+  - [Our Tools](#our-tools)
+- [Recommended Hardware](#recommended-hardware)
+  - [Suggested Setup](#suggested-setup)
+  - [Phoenix's Build](#phoenixs-build)
+  - [Monitor Resolution](#monitor-resolution)
+- [The Next Step](#the-next-step)
 
-# Introduction
+# INTRODUCTION
 
-Hi there! I'm Phoenix.
+## Overview
 
-Like many of you, I had a rough start. I discovered Skyrim modding through gameplay videos on YouTube and was fascinated by the endless possibilities. And then I, too, installed dozens of mods through Nexus Mod Manager, ran LOOT, and tore my hair out over seemingly inexplicable and unfixable random crashes, not to mention the bugs and issues, and the mods that I could never get to work as advertised.
+The Phoenix Flavour, at it's core, is a modding guide like many others, teaching you how to set up a certain set of tools and mods for best results. Unlike other modding guides, it contains many optional mods as well as extensive customisation option.
 
-Many frustrating experiences, crashes and aborted playthroughs later, I began to understand the effort required of me to get that beautiful, personalised Skyrim I was aiming for. In 2017, I published what I had learned as a guide - The Phoenix Flavour. Since then, I have learned a lot and TPF has grown with me. Today it is a well-established modding guide.
+Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything carefully.
 
-This repository collects my various projects for Skyrim Special Edition, first and foremost my Phoenix Flavour guide. The intention is to provide a solid base for newcomers to the Skyrim SE modding scene, covering the three available options. These are:
+The guide was written with the assumption that most readers have little previous knowledge about modding and supplies the basics before going more in-depth. Whenever you feel confident about your knowledge in a certain area, feel free to skip ahead.
 
-- **Installing mods manually**, building your own setup. This allows the user to customise everything about their game, pick and choose mods to fit their vision and hardware. You will be required to invest a sizeable amount of time, reading and watching guides. This is a deep rabbit hole and in order to create a stable mod setup, you need an advanced understanding of how mods function as well as how to edit them so that they work alongside each other.
-- **Following a guide**, installing the guide author's chosen set of mods. While this usually removes a lot of the customisability that modding offers, there are plenty of different guides to choose from that cater to different visions and playstyles. Completing a guide will require a substantial time investment, although getting a stable setup will take nowhere near as long as starting off without a guide will. If anything, a guide will teach you how to install, configure and utilise the modding tools available as well as how to edit mods in order to create a stable, consistent game.
-- **Using Wabbajack** to automatically install one of the available setups. For those who cannot or do not wish to invest the time into learning how to mod (with or without a full guide), there is the Wabbajack tool with which one can quickly and effortlessly install a full modded setup with a fraction of the time that was required in its original creation. There are plenty of different Wabbajack lists available for Skyrim SE.
+If you are unwilling to dig deep into the topic of modding Skyrim, there is always the Wabbajack option (more on that below).
 
-# Misconceptions
+## Wabbajack
 
-New arrivals in the modding community often come with a list of about one hundred mods and crash reports. These desperate help requests usually sound a bit like "but I jumped off the roof and I did flap my arms like bird wings". The fact that you need a parachute and something higher to jump off of seems so painfully obvious to community veterans, they roll their eyes, and turn away. To newcomers, this is extremely frustrating and obviously unhelpful.
+Anyone who does not want to or is unable to invest large amounts of time into modding Skyrim SE should look into the **Wabbajack** version of The Phoenix Flavour instead of the **Classic Guide** (manual installation).
 
-But what feels like gatekeeping is very much unintentional in most cases, and many members of the community are simply tired of explaining the very basics over and over. In turn many newcomers are unaware that in order to get the list of mods they compiled for themselves to work, they’ll need to invest quite a bit more time.
+Wabbajack is an auto-installer capable of "cloning" a full mod setup including all tweaks and changes to someone else's system. It requires virtually no modding experiences and little effort, although the automated download process does require a Nexus Premium account.
 
-Let me elaborate a little on what "more work" entails specifically. You need a proper mod manager, for Skyrim Special Edition that is Mod Organizer 2, and you need to know how to handle it. You need to have all requirements installed correctly, particularly the Script Extender and the Unofficial Patch. You need a proper load order, and no, LOOT is not sufficient. You need to download patches for your mods and fix the remaining conflicts on your own.
+|            | Advantages and Disadvantages of Wabbajack                    |
+| ---------- | ------------------------------------------------------------ |
+| :white_check_mark:    | The actual mod installation can be done over night with zero effort. |
+| :white_check_mark:    | All additional instructions will take much less time to follow and complete than a full run of the Classic Guide would. |
+| :white_check_mark:    | Since most of the process is automated, it's unlikely that you will make a mistake that takes time to track and fix. |
+| :no_entry: | At least one month's Nexus Premium subscription is required for Wabbajack to automatically download the files. |
+| :no_entry: | You will learn nothing about modding or utilising the required tools. |
+| :no_entry: | You will miss out on the Customisation options that the Classic Guide features. |
 
-First and foremost, you have to understand how your mods work and how you can tweak them so that they work well together.
+## About the guide
 
-For a list of 50 mods and upwards this is non-negotiable. Of course you can skip all steps, install your mods manually and load them wherever, but you cannot expect them all to work perfectly and as advertised. If you go that way - and even if it sounds harsh - you cannot expect any help whatsoever. Because why would others invest time into explaining to you what you did not want to research yourself?
+### Features
 
-# Getting Started
+Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
 
-Home is behind, the world ahead - every good journey begins with a Tolkien quote. Before you lies a choice that will determine how soon you will be able to jump into modded Skyrim, and how much you learned on the way.
+- **A Better Skyrim:** The guide includes hundreds of mods across forty categories, all carefully selected to fit my vision of a lore-friendly, improved but not radically changed Skyrim. The Phoenix Flavour strives to provide a solid upgrade of the vanilla experience with modern visuals and additional content.
+- **Custom Files and Patches:** Both the final patch as well as some patches and plugin replacers installed during the mod setup have been made specifically for the guide by Umgak and myself. They ensure compatibility as well as consistency between all included mods.
+- **Customisability:** In order to account for differences in taste among all users, a large amount of mods were marked as optional and are not required to be installed. Other mods come with extensive customisation options usually provided ingame through Mod Configuration Menus. A list of additional compatible mods and optional tweaks is available in a dedicated section of the guide.
+- **Performance:** The Phoenix Flavour was created for gameplay instead of screen-archery and will for most people deliver solid results on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as optional ENB installation and the choice to use low settings in DynDOLOD you can tweak your game until you reach a stable 60FPS.
 
-## Building your own setup.
+### Vanilla Plus
 
-This first option is the proverbial jump into very cold water and I would not recommend any newcomer to begin here. However, if you are determined to build your own setup and willing to put in the effort required, I would direct you to my **SkyPlus** guide (which you can find here in this repository). It will lead you through the initial setup of Skyrim and all required tools plus explain to you the basics of modding.
+The concept of "vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay.
 
-## Following a guide.
+### Included Mods
 
-Anyone who wants to learn how to mod Skyrim properly should start here. Good guides are fantastic resources that will not only provide you with your first modded gameplay experience but also hold your hand on the journey there. Since I am biased, I would of course recommend **The Phoenix Flavour**, my own guide which is available here in this repository. You can find a detailed overview over most available Skyrim SE modding guides (including information on content and structure) in the Resources folder on this repository.
+You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
-## Using Wabbajack.
+- **Visuals:** Obsidian Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
+- **Textures:** Skyrim Realistic Overhaul as base, then Noble Skyrim 2K overwritten by dozens of smaller mods.
+- **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory, 3D tree LOD is optional.
+- **ENBSeries:** Using ENB is optional, there are instructions to add a preset and related mods.
+- **Body Replacer:** Caliente's Beautiful Bodies Enhancer.
+- **Perk Overhaul:** Featuring Adamant - A Perk Overhaul, vanilla-plus-style and very light-weight.
+- **Combat:** Based around Wildcat, both vanilla difficulty as well as lethal, fast-paced combat are possible.
+- **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
+- **New Companions:** custom-voiced companions of (arguably) the highest quality are included: Inigo, Lucien and 3DNPCs
+- **DLC-Sized Mods:** None included (although 3DNPC could be described as such).
+- **Needs and Survival Mods:** None included.
 
-Learning how to mod Skyrim may not be fun to everyone and if you do not enjoy the process, it is not worth the time investment. Other people may be interested in learning, but lack the time to do so.
+### Our Tools
 
-Thankfully there is **Wabbajack**, an auto installer that helps you re-create a more experienced modder’s setup on your computer with minimal effort. If you do decide to go down that route, I recommend reading (or at least skimming through) the "Introduction to Modding" section before installing [Wabbajack](https://www.wabbajack.org/).
+The Phoenix Flavour is built using the most advanced, feature-rich mod manager out there: **Mod Organizer 2**, a tool vastly superior to both the outdated Nexus Mod Manager as well as the newer Vortex.
 
-> My own guide, The Phoenix Flavour, is also available as a Wabbajack installer.
+In addition to MO2, we will routinely utilise the official Creation Kit as well as SSEEdit and the Cathedral Assets Optimizer in the **Classic Guide**. Over its course you will be provided with detailed instructions for all these tools (and more) in order to teach you how and when to use them correctly.
 
-# Discord
+> This guide neither supports nor recommends **LOOT**. You should not use it at any point on a TPF installation.
 
-On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
+## Recommended Hardware
 
-# Future Plans
+### Suggested Setup
 
-My primary concern is the main guide - The Phoenix Flavour for Skyrim SE. The guide is being updated regularly with new mods and improvements.
+The specs below are recommended for those looking to install all visual mods with high settings as well as 3D tree LOD through DynDOLOD and a full ENB preset. There are plenty options within the guide that allow you to lower its performance impact so that the modded game remains playable even on weaker machines.
 
-I also work on a Beginner's Guide (SkyPlus) that I would like to add a "DIY Kit" section to in the future which is supposed to provide resources for the building of a custom setup. While it cannot contain any specifics, there are still many general rules and tips to give about the creation of a setup. Because this is fairly complex, I've had it on the backburner for a long, long time.
+Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will considerably improve performance. 
 
-Whenever I'm fed up with Kyne's Peace and SKYRIM BELONGS TO THE NORDS, I hide in Boston for a bit. My Fallout 4 list is still in an early WIP stage but I am planning to release it as a Wabbajack installer eventually.
+|   Hardware | Suggested                                                    |
+| ---------: | ------------------------------------------------------------ |
+|        CPU | processor with high single core performance (3.2GHz or more) |
+|        RAM | 8-16 GB of DDR3 or DDR4 memory, running at 2400MHz or faster |
+|        GPU | a modern card with at least 4GB of VRAM (ideally 6-8GB)      |
+| Hard Drive | at least 100GB of free space on a fast HDD or SSD            |
 
-# Credits
+### Phoenix's Build
 
-The Phoenix Flavour guide could never exist in its current complexity without **Umgak** who has found herself in charge of the conflict resolution for the entire guide. Umgak is also our resident expert on all things modding.
+| Hardware   | My PC                                                    |
+| -------:   | -------------------------------------------------------- |
+|        CPU | Intel i5 7600k @4.2GHz, hybrid-cooled                    |
+|        GPU | EVGA GTX 1070 Founder’s Edition (8192MB VRAM)            |
+|        RAM | Corsair Vengeance 16GB DDR4-3200 Memory                  |
+|        SSD | Samsung 850 Evo Series 256GB SSD (OS)                    |
+|        SSD | Samsung 860 Evo Series 1TB SSD (Games)                   |
+|  Monitor 1 | LG 27GL850-B UltraGear 1440p @144Hz (my primary monitor) |
+|  Monitor 2 | Acer S242HL 1080p @60Hz (my secondary monitor)           |
 
-I would also like to give thanks to:
-- Faron, Cassi, Slim, and D1Z4STR (who are currently my Discord moderators).
-- Lively (thanks for that Wabbajack stuff bby).
-- alsa (for being a helpful presence).
-- DarkLadyLexy (use her guide if you are interested in LOTD).
-- All the current and past contributors.
-- Everyone who has been active on our server, leaving screenshots and feedback.
-- And of course my lovely Patreons!
+### Monitor Resolution
+
+Never underestimate the impact that high monitor resolutions have on performance. I would consider my setup to be on the higher end of the mid-tier spectrum, and when playing at 1080p I can get stable 60-100 FPS everywhere. At 1440p, I notice a considerable performance impact, losing 20 FPS on average. With the amount of additional pixels to render on resolutions like 1440p and upwards, the hardware requirement does go up quite harshly. And don’t expect 60FPS when playing on 4K with ENB.
+
+The guide includes instructions to change the game's resolution.
+
+## The Next Step
+
+Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
