@@ -146,14 +146,14 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.2 [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
-```css
-DOWNLOAD INSTRUCTIONS
+```markdown
+# DOWNLOAD INSTRUCTIONS
 ```
 
 - **Main File** - (Part 1) Engine Fixes
 
-```css
-PRELOADER
+```markdown
+# PRELOADER INSTALLATION
 ```
 
 - Download the following file manually:
@@ -165,8 +165,8 @@ PRELOADER
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
-```css
-ENGINE FIXES INI
+```markdown
+# ENGINE FIXES INI
 ```
 
 * Double-click **SSE Engine Fixes** in your mod order.
