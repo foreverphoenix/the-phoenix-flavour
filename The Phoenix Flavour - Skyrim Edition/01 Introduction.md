@@ -35,19 +35,16 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 
 ## About the guide
 
-###  :arrow_forward: Features
+### Features
 
 Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
 
 - **A Better Skyrim:** The guide includes hundreds of mods across forty-two categories, all carefully selected to fit my vision of a lore-friendly, improved but not radically changed Skyrim. The Phoenix Flavour strives to provide a solid upgrade of the vanilla experience with modern visuals and additional content.
-
 - **Custom Files and Patches:** Both the final patch as well as some patches and plugin replacers installed during the mod setup have been made specifically for the guide by Umgak and myself. They ensure compatibility as well as consistency between all included mods.
-
 - **Customisability:** In order to account for differences in taste among all users, a large amount of mods were marked as optional and are not required to be installed. Other mods come with extensive customisation options usually provided ingame through Mod Configuration Menus. A list of additional compatible mods and optional tweaks is available in a dedicated section of the guide.
-
 - **Performance:** The Phoenix Flavour was created for gameplay instead of screen-archery and will for most people deliver solid results on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as optional ENB installation and the choice to use low settings in DynDOLOD you can tweak your game until you reach a stable 60FPS.
 
-### :arrow_forward: Vanilla Plus
+### Vanilla Plus
 
 The concept of "vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay.
 
