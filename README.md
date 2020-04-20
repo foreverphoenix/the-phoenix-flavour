@@ -13,6 +13,9 @@
   - [Phoenix's Build](#phoenixs-build)
   - [Monitor Resolution](#monitor-resolution)
 - [The Next Step](#the-next-step)
+- [Discord](#discord)
+- [Future Plans](#future-plans)
+- [Credits](#credits)
 
 # Overview
 
@@ -114,3 +117,28 @@ The guide includes instructions to change the game's resolution.
 # The Next Step
 
 Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
+
+# Discord
+
+On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
+
+# Future Plans
+
+My primary concern is the main guide - The Phoenix Flavour for Skyrim SE. The guide is being updated regularly with new mods and improvements.
+
+I also work on a Beginner's Guide (SkyPlus) that I would like to continually expand. I am planning to add a "DIY Kit" section in the future which is supposed to provide resources for the building of a custom setup. While it cannot contain any specifics, there are still many general rules and tips to give about the creation of a setup. Because this is fairly complex, I've had it on the backburner for a long, long time.
+
+Whenever I'm fed up with Kyne's Peace and SKYRIM BELONGS TO THE NORDS, I hide in Boston for a bit. My Fallout 4 list is still in an early WIP stage but I am planning to release it as a Wabbajack installer eventually.
+
+# Credits
+
+The Phoenix Flavour guide could never exist in its current complexity without **Umgak** who has found herself in charge of the conflict resolution for the entire guide. Umgak is also our resident expert on all things modding.
+
+I would also like to give thanks to:
+- Faron, Cassi, Slim, and D1Z4STR (who are currently my Discord moderators).
+- Lively (thanks for that Wabbajack stuff bby).
+- alsa (for being a helpful presence).
+- DarkLadyLexy (use her guide if you are interested in LOTD).
+- All the current and past contributors.
+- Everyone who has been active on our server, leaving screenshots and feedback.
+- And of course my lovely Patreons!
