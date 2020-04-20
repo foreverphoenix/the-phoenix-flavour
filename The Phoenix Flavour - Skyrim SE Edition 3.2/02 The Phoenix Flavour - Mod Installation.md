@@ -1,6 +1,32 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
-- [00. Installation Instructions](#00-installation-instructions)
+- [Installation Instructions](#installation-instructions)
+  - [Overview](#overview)
+  - [General Instructions](#general-instructions)
+    - [Downloading Mods](#downloading-mods)
+    - [Installing Mods](#installing-mods)
+    - [FOMOD Instructions](#fomod-instructions)
+    - [Deleting Files](#deleting-files)
+    - [Manual Editing Instructions](#manual-editing-instructions)
+  - [Special Instructions](#special-instructions)
+    - [Convert Plugin](#convert-plugin)
+    - [Clean Plugin](#clean-plugin)
+    - [Extract BSA](#extract-bsa)
+    - [Optimise SLE Assets](#optimise-sle-assets)
+    - [Fix Meshes](#fix-meshes)
+    - [Resize Textures](#resize-textures)
+- [01. Essential Mods](#01-essential-mods)
+  - [1.1 Address Library for SKSE Plugins](#11-address-library-for-skse-plugins)
+  - [1.2 SSE Engine Fixes](#12-sse-engine-fixes)
+  - [1.3 .NET Script Framework (NSF)](#13-net-script-framework-nsf)
+  - [1.4 SSE Display Tweaks](#14-sse-display-tweaks)
+  - [1.5 Autorun Console Commands (ACC)](#15-autorun-console-commands-acc)
+  - [1.6 Performance Optimized Textures for SSE](#16-performance-optimized-textures-for-sse)
+  - [1.7 Unofficial High Definition Audio Project (optional)](#17-unofficial-high-definition-audio-project-optional)
+  - [1.8 Unofficial Skyrim Special Edition Patch (USSEP)](#18-unofficial-skyrim-special-edition-patch-ussep)
+  - [1.9 Alternate Start - Live Another Life (AS LAL)](#19-alternate-start---live-another-life-as-lal)
+  - [1.10 Skyrim Particle Patch](#110-skyrim-particle-patch)
+  - [1.11 Static Mesh Improvement Mod (SMIM)](#111-static-mesh-improvement-mod-smim)
 
 # Installation Instructions
 
@@ -140,7 +166,7 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
-```python
+```ruby
 # DOWNLOAD INSTRUCTIONS
 ```
 
@@ -148,13 +174,13 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.2 [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
-```markdown
+```yaml
 # DOWNLOAD INSTRUCTIONS
 ```
 
 - **Main File** - (Part 1) Engine Fixes
 
-```markdown
+```json
 # PRELOADER INSTALLATION
 ```
 
