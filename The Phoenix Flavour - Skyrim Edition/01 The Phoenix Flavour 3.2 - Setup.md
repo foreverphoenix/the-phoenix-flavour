@@ -1,7 +1,7 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
 **TABLE OF CONTENTS**
-- [01 // Getting Started](#01--getting-started)
+- [01. Getting Started](#01-getting-started)
   - [1.1 Requirements](#11-requirements)
   - [1.2 Show File Extensions](#12-show-file-extensions)
   - [1.3 Your Modding Folder](#13-your-modding-folder)
@@ -13,7 +13,7 @@
   - [1.5 Further Instructions](#15-further-instructions)
     - [1.5.1 Rules](#151-rules)
   - [1.5.2 Terminology](#152-terminology)
-- [02 // Skyrim SE](#02--skyrim-se)
+- [02. Skyrim SE](#02-skyrim-se)
   - [2.1 Recommended Directory](#21-recommended-directory)
   - [2.2 Uninstall Skyrim SE](#22-uninstall-skyrim-se)
   - [2.3 New Steam Library](#23-new-steam-library)
@@ -23,7 +23,7 @@
   - [2.6 Disable Auto Updates](#26-disable-auto-updates)
   - [2.7 Binaries Backup](#27-binaries-backup)
   - [2.8 Disable Steam Overlay](#28-disable-steam-overlay)
-- [03 // The Creation Kit](#03--the-creation-kit)
+- [03. The Creation Kit](#03-the-creation-kit)
   - [3.1 Acquisition](#31-acquisition)
   - [3.2 Installation](#32-installation)
   - [3.3 Disable Auto Updates](#33-disable-auto-updates)
@@ -32,7 +32,7 @@
   - [3.6 Vanilla Scripts](#36-vanilla-scripts)
     - [3.6.1 Unpacking Scripts.zip](#361-unpacking-scriptszip)
     - [3.6.2 Fixing Filepaths](#362-fixing-filepaths)
-- [04 // Mod Organizer 2](#04--mod-organizer-2)
+- [04. Mod Organizer 2](#04-mod-organizer-2)
   - [4.1 Installation](#41-installation)
   - [4.2 Configuration](#42-configuration)
     - [4.2.1 Mod Order Fix](#421-mod-order-fix)
@@ -50,7 +50,7 @@
     - [4.6.1 Installation](#461-installation)
     - [4.6.2 Configuration](#462-configuration)
   - [4.7 Separators](#47-separators)
-- [05 // Skyrim Script Extender](#05--skyrim-script-extender)
+- [05. Skyrim Script Extender](#05-skyrim-script-extender)
   - [5.1 Download](#51-download)
   - [5.2 Installation](#52-installation)
     - [5.2.1 Binaries](#521-binaries)
@@ -58,7 +58,7 @@
   - [5.3 SKSE INI](#53-skse-ini)
   - [5.4 SKSE Launcher](#54-skse-launcher)
   - [5.5 Verify Installation](#55-verify-installation)
-- [06 // INI Files](#06--ini-files)
+- [06. INI Files](#06-ini-files)
   - [6.1 Generate Fresh INI Files](#61-generate-fresh-ini-files)
     - [6.1.1 Remove old files](#611-remove-old-files)
     - [6.1.2 Generate new INIs](#612-generate-new-inis)
@@ -72,7 +72,7 @@
     - [6.3.6 BethINI - Visuals](#636-bethini---visuals)
     - [6.3.7 BethINI - Custom](#637-bethini---custom)
   - [6.4 Save Changes](#64-save-changes)
-- [07 // ADDITIONAL TOOLS](#07--additional-tools)
+- [07. ADDITIONAL TOOLS](#07-additional-tools)
   - [7.1 SSEEdit](#71-sseedit)
     - [7.1.1 Installation](#711-installation)
     - [7.1.2 SSEEdit Cache Output](#712-sseedit-cache-output)
@@ -88,7 +88,7 @@
     - [7.5.1 Installation](#751-installation)
   - [7.6 Modwatch](#76-modwatch)
 
-# 01 // Getting Started
+# 01. Getting Started
 
 ## 1.1 Requirements
 
@@ -178,7 +178,7 @@ The difference between these folders is significant. Do not confuse them.
 
 ![separator](Pictures/Separator.png)
 
-# 02 // Skyrim SE
+# 02. Skyrim SE
 
 ## 2.1 Recommended Directory
 
@@ -275,9 +275,9 @@ Since disabling the Steam Overlay will also prevent you from taking screenshots 
 * Uncheck **Enable the Steam Overlay while in-game**.
 * Close the window.
 
----
+![separator](Pictures/Separator.png)
 
-# 03 // The Creation Kit
+# 03. The Creation Kit
 
 ## 3.1 Acquisition
 
@@ -347,9 +347,9 @@ The Creation Kit installation includes a **Scripts.zip** which contains all sour
 - The resulting filepath should be:
   - `Skyrim Special Edition\Data\Scripts\Source`
 
----
+![separator](Pictures/Separator.png)
 
-# 04 // Mod Organizer 2
+# 04. Mod Organizer 2
 
 ## 4.1 Installation
 
@@ -505,9 +505,9 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **02 FIXES**
   * **…**
 
----
+![separator](Pictures/Separator.png)
 
-# 05 // Skyrim Script Extender
+# 05. Skyrim Script Extender
 
 ## 5.1 Download
 
@@ -563,9 +563,9 @@ If on the main page for SKSE there is a different version number than the one no
 
 ![Verify SKSE64](Pictures/Setup/verify_skse64.jpg)
 
----
+![separator](Pictures/Separator.png)
 
-# 06 // INI Files
+# 06. INI Files
 
 ## 6.1 Generate Fresh INI Files
 
@@ -678,9 +678,9 @@ Continue with the ninth tab, **Custom**.
 - Restart Mod Organizer 2.
 - You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
 
----
+![separator](Pictures/Separator.png)
 
-# 07 // ADDITIONAL TOOLS
+# 07. ADDITIONAL TOOLS
 
 ## 7.1 SSEEdit
 
@@ -792,3 +792,5 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Create a new folder: `Your Modding Folder\Tools\Modwat.ch`.
 * Open the downloaded archive.
 * Extract everything into the new folder.
+
+![separator](Pictures/Separator.png)
