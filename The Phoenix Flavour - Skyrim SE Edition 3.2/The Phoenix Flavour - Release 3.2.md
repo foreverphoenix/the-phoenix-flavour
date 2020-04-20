@@ -1,7 +1,7 @@
 ![Logo](Pictures/Logo%20Mockup.png)
 
 **TABLE OF CONTENTS**
-- [The Phoenix Flavour - Release 3.2](#the-phoenix-flavour---release-32)
+- [Release 3.2 Beta 1](#release-32-beta-1)
   - [Features](#features)
   - [Setup](#setup)
   - [Mod Installation](#mod-installation)
@@ -26,7 +26,7 @@
   - [Finalisation](#finalisation-3)
   - [New Game](#new-game-1)
 
-# The Phoenix Flavour - Release 3.2
+# Release 3.2 Beta 1
 
 ## Features
 
