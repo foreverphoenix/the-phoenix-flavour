@@ -96,6 +96,54 @@
   - [4.25 ReCleaned Menu (optional)](#425-recleaned-menu-optional)
   - [4.26 Loading Screen Smoke Removed (optional)](#426-loading-screen-smoke-removed-optional)
   - [4.27 KenMOD - Time on Loading Screen (optional)](#427-kenmod---time-on-loading-screen-optional)
+- [05. Main Visual Mods](#05-main-visual-mods)
+  - [5.1 Skyrim Realistic Overhaul (SRO)](#51-skyrim-realistic-overhaul-sro)
+  - [5.2 DynDOLOD Resources](#52-dyndolod-resources)
+  - [5.3 HD LODs Textures](#53-hd-lods-textures)
+  - [5.4 Noble Skyrim Mod HD-2K (NSM)](#54-noble-skyrim-mod-hd-2k-nsm)
+  - [5.5 Ruins Clutter Improved (RCI)](#55-ruins-clutter-improved-rci)
+  - [5.6 Ruins Clutter Improved – Fixes](#56-ruins-clutter-improved--fixes)
+  - [5.7 Revamped Assets Skyrim](#57-revamped-assets-skyrim)
+  - [5.8 High Poly Project (optional)](#58-high-poly-project-optional)
+  - [5.9 aMidianBorn Book of Silence - Dragonborn DLC (optional)](#59-amidianborn-book-of-silence---dragonborn-dlc-optional)
+  - [5.10 Caliente's Beautiful Bodies Enhancer (CBBE)](#510-calientes-beautiful-bodies-enhancer-cbbe)
+- [06. Weather](#06-weather)
+  - [6.1 Obsidian Weathers and Seasons](#61-obsidian-weathers-and-seasons)
+  - [6.2 Obsidian Weathers and Seasons MCM Patch (optional)](#62-obsidian-weathers-and-seasons-mcm-patch-optional)
+  - [6.3 Smooth Sky Mesh (optional)](#63-smooth-sky-mesh-optional)
+  - [6.4 ETHEREAL CLOUDS (optional)](#64-ethereal-clouds-optional)
+  - [6.5 Skyrim Textures Redone – Enhanced Night Sky (optional)](#65-skyrim-textures-redone--enhanced-night-sky-optional)
+  - [6.6 Night Skies – Stars and Galaxies (optional)](#66-night-skies--stars-and-galaxies-optional)
+  - [6.7 Skygazer Moons – Masser and Secunda (optional)](#67-skygazer-moons--masser-and-secunda-optional)
+  - [6.8 Storm Lightning (optional)](#68-storm-lightning-optional)
+  - [6.9 Yee – A New Snowflake Mod (optional)](#69-yee--a-new-snowflake-mod-optional)
+  - [6.10 Wonders of Weather (optional)](#610-wonders-of-weather-optional)
+  - [6.11 Wonders of Weather - Less Opaque Rain Splashes for ENB (optional)](#611-wonders-of-weather---less-opaque-rain-splashes-for-enb-optional)
+- [07. Lighting](#07-lighting)
+  - [7.1 Relighting Skyrim](#71-relighting-skyrim)
+  - [7.2 Relighting Skyrim – No Player Homes](#72-relighting-skyrim--no-player-homes)
+  - [7.3 Luminosity Lighting Overhaul](#73-luminosity-lighting-overhaul)
+  - [7.4 Luminosity – A Quality World Map Patch](#74-luminosity--a-quality-world-map-patch)
+  - [7.5 Interior Floating Fog Remover (optional)](#75-interior-floating-fog-remover-optional)
+  - [7.6 Smoking Torches and Candles (STAC)](#76-smoking-torches-and-candles-stac)
+  - [7.7 Embers HD](#77-embers-hd)
+  - [7.8 Inferno – Fire Effects Redux](#78-inferno--fire-effects-redux)
+  - [7.9 KD – Realistic Fireplaces](#79-kd--realistic-fireplaces)
+  - [7.10 Charred Logs for KD – Realistic Fireplaces (optional)](#710-charred-logs-for-kd--realistic-fireplaces-optional)
+- [08. Visual FX](#08-visual-fx)
+  - [8.1 Frozen Electrocuted Combustion (FEC) (optional)](#81-frozen-electrocuted-combustion-fec-optional)
+  - [8.2 Frozen Electrocuted Combustion - Extra Crispy Retexture (optional)](#82-frozen-electrocuted-combustion---extra-crispy-retexture-optional)
+  - [8.3 Enhanced Blood Textures](#83-enhanced-blood-textures)
+  - [8.4 GORECAP (optional)](#84-gorecap-optional)
+  - [8.5 Deadly Spell Impacts](#85-deadly-spell-impacts)
+  - [8.6 Arctic – Frost Effects Redux (optional)](#86-arctic--frost-effects-redux-optional)
+  - [8.7 Refracting Ice Form Debris (optional)](#87-refracting-ice-form-debris-optional)
+  - [8.8 Voltage (optional)](#88-voltage-optional)
+  - [8.9 ElSopa HD – Dirt Blast (optional)](#89-elsopa-hd--dirt-blast-optional)
+  - [8.10 Reduced Glow FX (optional)](#810-reduced-glow-fx-optional)
+  - [8.11 Fire Halo Remover (optional)](#811-fire-halo-remover-optional)
+  - [8.12 Subtle Wind FX (optional)](#812-subtle-wind-fx-optional)
+  - [8.13 Glow Be Gone - Updated (optional)](#813-glow-be-gone---updated-optional)
 
 # Installation Instructions
 
@@ -1104,3 +1152,581 @@ Below are my personal choices. Feel free to make your own!
 - **Main File** - Time on loading v5
 
 ![separator](Pictures/Separator.png)
+
+# 05. Main Visual Mods
+
+## 5.1 [Skyrim Realistic Overhaul (SRO)](https://www.moddb.com/mods/skyrim-realistic-overhaul)
+
+### Download Instructions
+
+- **Main File** - This mod has already been installed.
+
+## 5.2 [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files)
+
+### Download Instructions
+
+- **Main File** - DynDOLOD Resources SE
+
+### FOMOD Instructions
+
+- **Visual Options:**
+  * Whiterun Exterior
+  * Solitude Exterior
+  * High Hrothgar Window Glow
+  * DLC2 Vvardenfell 3D Plume
+- **Performance Options:**
+  * ~~Low-Res LOD Textures~~
+- **Misc Options:**
+  * Desync Birds of Prey
+  * ~~Holy Cow~~
+
+## 5.3 [HD LODs Textures](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=files)
+
+### Download Instructions
+
+- **Main File** - HD Lods Textures SE 1K V9.3 - DynDOLOD ONLY VERSION
+
+## 5.4 [Noble Skyrim Mod HD-2K (NSM)](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
+
+### Download Instructions
+
+- **Main File** - A. Noble Skyrim - FULL PACK_2K
+- **Update File** - NSM - SMIM Patch
+
+## 5.5 [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Ruins_Clutter_Improved_SE_NMM_v3-1
+* **Update Files** – Falmer Temple Chandelier ==merge with the main file==
+
+### FOMOD Instructions
+
+* **Options:**
+  * Custom
+* **Custom:**
+  * High Resolution Candles
+  * HD Catacomb Candles
+  * HD Enchanting Stations
+  * HD Spider Eggs
+  * HD Pots
+  * Improved Ruins Doors
+  * ~~Improved Dragonclaws~~
+  * ~~Subliminal Traps~~
+  * ~~Lantern~~
+
+## 5.6 [Ruins Clutter Improved – Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031?tab=files)
+
+### Download Instructions
+
+* **Main File** – Ruins Clutter Improved – Fixes 1.1
+
+## 5.7 [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380?tab=files)
+
+### Download Instructions
+
+- **Main File** - Revamped Assets Skyrim – High (FOMOD Package)
+
+### FOMOD Instructions
+
+- **Installation:**
+  * Custom Install
+- **Architecture:**
+  * ~~Install All~~
+- **Armor:**
+  * ~~Install All~~
+  * Mystic Tuning Gloves
+- **Clothes:**
+  * ~~Install All~~
+  * ~~Clavicus Vile Mask~~
+- **Clutter:**
+  * ~~Install All~~
+  * Clutter General
+  * Bones
+  * Dead Animals
+  * Display Cases
+  * ~~Firewood~~
+  * Pelagius Hipbone
+  * ~~Silver~~
+  * ~~Sovngarde~~
+  * ~~Statues~~
+  * Weapon Rack
+- **Furniture:**
+  * Install All
+- **Traps:**
+  * Install All
+- **Display Cases:**
+  * Light
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+
+## 5.8 [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - High Poly Project
+
+### FOMOD Instructions
+
+- **Installation Type:**
+  - ~~Install Everything~~
+  - Custom Installation
+- **Page 1:**
+  - Hearthfire Breads
+  - Vanilla Breads
+  - ~~Farmhouse Stonewalls~~
+  - ~~Solitude Ropes~~
+  - Tents
+  - ~~Whiterun Clutter~~
+  - Windhelm Throne
+  - Bones
+  - Burnt Corpses
+  - ~~Candles~~
+- **Page 2:**
+  - Common Clutter
+  - Dragon Parts
+  - ~~Food~~
+  - Hagraven
+  - Hay
+  - Horker Tusk
+  - Ingredients
+  - ~~Shrines~~
+  - ~~Silverware~~
+  - Smelter Coal
+- **Page 3:**
+  - ~~Statues~~
+  - ~~Wine Bottles~~
+  - ~~Dungeons~~
+  - ~~Funiture~~
+  - ~~Plants~~
+  - ~~Riften 3D Leaves~~
+- **No Snow Under the Roof Patch:**
+  - ~~Statues~~
+
+## 5.9 [aMidianBorn Book of Silence - Dragonborn DLC](https://www.nexusmods.com/skyrim/mods/24909/?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - aMidianBorn book of silence_DRAGONBORN DLC
+
+> There is no need to download and install the Bonemold Hotfix since it is included in the aMidianBorn Content Addon which will be installed later on.
+
+### FOMOD Instructions
+
+* **Options:**
+  * Custom
+* **Custom:**
+  * Nordic Carved Armor: None
+  * Bonemold Armor
+  * Acolyte Masks
+  * Dragon Priest Acolytes
+  * Hulking Draugr
+  * Ash Spawn
+  * Ash Guardian
+
+> We are not installing any retexture for the Nordic Carved Armor because the aMidianBorn Content Addon will add all three varieties.
+
+### Additional Instructions
+
+* Double-click **aMidianBorn – Dragonborn** in your mod order.
+* Switch to the **Filetree** tab.
+* Find the following folder:
+  * `textures\actors\dlc02\ash`
+* Rename the **ash** folder to **ashman**.
+* The resulting folder structure should be:
+  * `textures\actors\dlc02\ashman`
+
+## 5.10 [Caliente's Beautiful Bodies Enhancer (CBBE)](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files)
+
+### Download Instructions
+
+- **Main File** - Caliente's Beautiful Bodies Enhancer - v1.5.6
+
+### FOMOD Instructions
+
+* **Body Shape:**
+  * Vanilla Shape
+* **Underwear Options:**
+  * NeverNude
+* **Outfit Options:**
+  * Vanilla Outfits
+* **Face Options:**
+  * Face Pack
+  * ~~Dirt to Beauty Marks~~
+* **Eyebrow Options:**
+  * None
+* **Miscellaneous:**
+  * ~~Pubic Hair~~
+* **SKEE (RaceMenu):**
+  * ~~RaceMenu Morphs (BodyMorph)~~
+* **Morph Files:**
+  * ~~Morph Files (Body)~~
+  * ~~Morph Files (Outfits)~~
+
+![separator](Pictures/Separator.png)
+
+# 06. Weather
+
+## 6.1 [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125?tab=files)
+
+### Download Instructions
+
+* **Main File** – Obsidian Weathers – 1.07
+
+## 6.2 [Obsidian Weathers and Seasons MCM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20209?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Obsidian Weathers and Seasons MCM ESP-ESL
+
+## 6.3 [Smooth Sky Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/18350?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Smooth Sky Mesh 0_262
+
+## 6.4 [ETHEREAL CLOUDS](https://www.nexusmods.com/skyrimspecialedition/mods/2393?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – ETHEREAL CLOUDS – Special Edition – 2K
+
+## 6.5 [Skyrim Textures Redone – Enhanced Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/5561?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Download and install the main file.
+
+### FOMOD Instructions
+
+* **Stars:**
+  * 2K Stars
+* **Stars Type:**
+  * 2k only small stars
+* **Moons:**
+  * 2K Moons
+* **Nebula:**
+  * 4K Nebula
+* **Aurora:**
+  * 4K Aurora
+* **Constellations:**
+  * 2K Constellations
+
+## 6.6 [Night Skies – Stars and Galaxies](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Night Skies – Milky Realism (4K) – CP 1.01
+
+## 6.7 [Skygazer Moons – Masser and Secunda ](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files)(optional)
+
+### Download Instructions
+
+* **Main File** – Skygazer Moons SSE 2K – GLOW
+
+## 6.8 [Storm Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Storm Lightning for SSE and VR – Fomod Installer
+
+### FOMOD Instructions
+
+* **Select Game** – Skyrim Special Edition
+* **Select SSE Version –** 1.5.97
+* **Select Plugin:** ESL Flagged
+
+The next couple settings are depend on your choice of ENB as well as personal preferences. I selected the “Halo Dimmer” options and will add my personal recommendations here after more testing.
+
+## 6.9 [Yee – A New Snowflake Mod](https://www.nexusmods.com/skyrimspecialedition/mods/21559?tab=files) (optional)
+
+**DOWNLOAD INSTRUCTIONS**
+
+* **Main File** – Ultra Realistic Snowfall
+
+> Ignore the warning about the mod being outdated. It still works perfectly with Obsidian Weathers.
+
+## 6.10 [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Wonders of Weather v1_10
+
+### FOMOD Instructions
+
+* Change nothing, just click **Install**.
+
+##  6.11 [Wonders of Weather - Less Opaque Rain Splashes for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/32062?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Wonders Of Weather - Less opaque rain splashes for ENB
+
+### FOMOD Instructions
+
+- **Select Transpareny:** 95% (Personal Choice)
+
+![separator](Pictures/Separator.png)
+
+# 07. Lighting
+
+## 7.1 [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Relighting Skyrim SSE v1.1.0
+
+## 7.2 [Relighting Skyrim – No Player Homes](https://www.nexusmods.com/skyrimspecialedition/mods/26538?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Relighting Skyrim SSE – No Player Homes
+
+## 7.3 [Luminosity Lighting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/16830?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Luminosity – Lightweight Lighting
+
+## 7.4 [Luminosity – A Quality World Map Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30162?tab=files)
+
+### Download Instructions
+
+* **Main Files** – A Quality Worldmap – Luminosity Compatibility Patch
+
+### Mod Order Instructions
+
+* Place the mod below the **PATCHES** separator
+
+## 7.5 [Interior Floating Fog Remover](https://www.nexusmods.com/skyrimspecialedition/mods/4298?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – No Floating Fog
+
+## 7.6 [Smoking Torches and Candles (STAC)](https://www.nexusmods.com/skyrimspecialedition/mods/8607?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Smoking Torches and Candles
+
+### FOMOD Instructions
+
+* **Main Component:**
+  * Smoking Torches (Classic)
+* **Smoking Candles:**
+  * Max Quality
+* **Plugin Selection:**
+  * ESPFE
+  * ~~ESP~~
+  * ~~ESL~~
+
+## 7.7 [Embers HD](https://www.nexusmods.com/skyrimspecialedition/mods/14368?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Embers HD
+
+### FOMOD Instructions
+
+* **Main Component:**
+  * Embers HD 2K
+* **Embers HD Fireplaces:**
+  * Fireplaces Add-On
+* **Add-On Component:**
+  * Forges Add-On
+  * Lava Crater Add-On
+* **Compatibility Patches:**
+  * ~~Campfire Patch~~
+  * ~~Realistic HD Blacksmith Patch~~
+  * ~~Realistic Lighting Overhaul Patch~~
+  * ~~Smoking Torches Patch~~
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\furniture\workbenches\`
+  * `meshes\furniture\alchemyworkbench.nif`
+  * `meshes\furniture\alchemyworkstation.nif`
+
+## 7.8 [Inferno – Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Inferno – Fire Effects Redux – AIO
+
+### FOMOD Instructions
+
+* **Inferno Textures Resolution:**
+  * Lite
+* **Glow Options:**
+  * Brighter
+* **Color Options:**
+  * Freesia
+* **Flame Tile:**
+  * New
+* **Flame Size:**
+  * Regular
+* **Optional Patches:**
+  * KD – Realistic Fireplaces + Ember HD
+* **Optional Patches:**
+  * Smoking Torches and Candles
+* **Optional Plugin:**
+  * Flame Meshes Patch (ESL-Tagged)
+
+## 7.9 [KD – Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/28877?tab=files)
+
+### Download Instructions
+
+* **Main Files** – KD – Realistic Fireplaces SE – V3
+
+### FOMOD Instructions
+
+* **Necessary Information:**
+  * I have read it all!
+* **Cut Wire:**
+  * Yellow wire
+* **Installation core setting:**
+  * ESP Version(Highly Recommended)
+* **Texture Resolution Options:**
+  * KD – Realistic Fireplaces 2K
+* **Realistic Pulsating Glow Options:**
+  * KD – Fire Glow (Recommended)
+* **Implement Complex Particle Lights for ENB?:**
+  * Yes (Highly recommended if you are using ENB)
+* **Intensity of Complex Particle Lights:**
+  * Sweet Spot(Recommended)
+* **Compatibility Patches:**
+  * Embers HD Patch
+* **Embers HD Patch:**
+  * I trust Kenan’s taste.(Recommended)
+
+## 7.10 [Charred Logs for KD – Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/29376?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – KD – Realistic Fireplaces – Charred Logs 2K
+
+![separator](Pictures/Separator.png)
+
+# 08. Visual FX
+
+## 8.1 [Frozen Electrocuted Combustion (FEC)](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Frozen Electrocuted Combustion - 3.3
+
+## 8.2 [Frozen Electrocuted Combustion - Extra Crispy Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/25127?tab=files) (optional)
+
+### Download Instructions
+
+- **Main File** - Frozen Electrocuted Combustion - Extra Crispy Retexture
+
+> **Mod Dependency:** Only install this mod if you installed **Frozen Electrocuted Combustion**. Otherwise skip it.
+
+## 8.3 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files)
+
+### Download Instructions
+
+* **Main File** - Enhanced Blood Textures SE
+
+### FOMOD Instructions
+
+- **Compatibility Patch:**
+  - ~~Immersive Creatures~~
+- **Effects Distance:**
+  - Medium
+- **Blood Size:**
+  -  None
+- **Wounds:** 
+  - Reduced Wound Size (Optional)
+- **Textures:**
+  -  Reduced Res / Default Color
+- **Blurry Screen Blood:**
+  - ~~EBT Blurry Screen Blood (Optional)~~
+- **Alternate Textures:**
+  -  Reduced Res / Default Color
+
+## 8.4 [GORECAP](https://www.nexusmods.com/skyrimspecialedition/mods/16440?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – GORECAP
+
+## 8.5 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Deadly Spell Impacts v1_70
+
+### FOMOD Instructions
+
+* **Options:**
+  * Custom
+* **Custom:**
+  * One Fire Impact (Default)
+* **Fire:**
+  * Alternate 1
+* **Frost:**
+  * Default
+* **Lightning:**
+  * Alternate 1
+
+## 8.6 [Arctic – Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Arctic – Frost Effects Redux – AIO
+
+### FOMOD Instructions
+
+* **Resolution Options:** Lite
+* **Color Options:** Realistic Hue
+* **Icicles Size:** x.5
+* **Icicles Style:** Transparent
+* **Optional Plugin:** Frost Meshes Patch (ESL-Tagged)
+
+## 8.7 [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Refracting Ice Form Debris – SSE – 1.1
+
+## 8.8 [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Voltage 2K
+
+## 8.9 [ElSopa HD – Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – 1K ElSopa HD – Dirt Blast
+
+## 8.10 [Reduced Glow FX](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Reduced Glow FX SE
+
+## 8.11 [Fire Halo Remover ](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Fire Halo Remover
+
+## 8.12 [Subtle Wind FX](https://www.nexusmods.com/skyrimspecialedition/mods/24395?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Subtle Wind FX
+
+## 8.13 [Glow Be Gone - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – GlowBeGoneSSE-Updated
