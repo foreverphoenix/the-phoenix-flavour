@@ -3,18 +3,7 @@
 - [Installation Instructions](#installation-instructions)
   - [Overview](#overview)
   - [General Instructions](#general-instructions)
-    - [Downloading Mods](#downloading-mods)
-    - [Installing Mods](#installing-mods)
-    - [FOMOD Instructions](#fomod-instructions)
-    - [Deleting Files](#deleting-files)
-    - [Manual Editing Instructions](#manual-editing-instructions)
   - [Special Instructions](#special-instructions)
-    - [Convert Plugin](#convert-plugin)
-    - [Clean Plugin](#clean-plugin)
-    - [Extract BSA](#extract-bsa)
-    - [Optimise SLE Assets](#optimise-sle-assets)
-    - [Fix Meshes](#fix-meshes)
-    - [Resize Textures](#resize-textures)
 - [01. Essential Mods](#01-essential-mods)
   - [1.1 Address Library for SKSE Plugins](#11-address-library-for-skse-plugins)
   - [1.2 SSE Engine Fixes](#12-sse-engine-fixes)
@@ -166,23 +155,17 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
-```ruby
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main File** - All in one
 
 ## 1.2 [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
-```yaml
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main File** - (Part 1) Engine Fixes
 
-```json
-# PRELOADER INSTALLATION
-```
+### Preloader
 
 - Download the following file manually:
   * **(Part 2) Engine Fixes – skse64 Preloader and TBB Lib**
@@ -193,9 +176,7 @@ At times (re)textures are only available in a size unreasonably large for regula
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
-```markdown
-# ENGINE FIXES INI
-```
+### Engine Fixes INI
 
 * Double-click **SSE Engine Fixes** in your mod order.
 * Switch to the **INI-Files** tab and select the **EngineFixes.ini**.
@@ -205,41 +186,31 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.3 [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – NetScriptFramework SkyrimSE v13
 
 ## 1.4 [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main File** - SSE Display Tweaks
 
 ## 1.5 [Autorun Console Commands (ACC)](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – ACC – Autorun Console Commands
 
 ## 1.6 [Performance Optimized Textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – performance textures max res 1024 min res 512 v8
 
 ## 1.7 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files) (optional)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – Music – HQ
 - **Main Files** – Voices EN – Part 1
@@ -247,30 +218,24 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.8 [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – Unofficial Skyrim Special Edition Patch
 
-```markdown
-# ADDITIONAL INSTRUCTIONS
-```
+### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
   * `Unofficial Skyrim Special Edition Patch.modgroups`
 
 ## 1.9 [Alternate Start - Live Another Life (AS LAL)](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – Alternate Start – Live Another Life
 
 ## 1.10 [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
-==**INSTALLATION INSTRUCTIONS**==
+### Installation Instructions
 
 - Find the **SPECIAL EDITION** section in the forum post linked above and click the **GOOGLE DRIVE** link (see picture).
 - Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
@@ -279,9 +244,7 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ![Skyrim Particle Patch download link](..\Pictures\Mod Installation\Skyrim Particle Patch download link.png)
 
-```markdown
-# ADDITIONAL INSTRUCTIONS
-```
+### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
   * `Particle Patch for ENB SSE.esp`
@@ -290,21 +253,15 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.11 [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files)
 
-```markdown
-# DOWNLOAD INSTRUCTIONS
-```
+### Download Instructions
 
 - **Main Files** – SMIM SE 2-08
 
-```markdown
-# FOMOD INSTRUCTIONS
-```
+### FOMOD Instructions
 
 - **Main Installer Choice:** Skyrim 2016 Special Edition: Everything
 
-```markdown
-# ADDITIONAL INSTRUCTIONS
-```
+### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
   * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
