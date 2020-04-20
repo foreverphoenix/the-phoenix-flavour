@@ -140,7 +140,7 @@ At times (re)textures are only available in a size unreasonably large for regula
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
-```markdown
+```python
 # DOWNLOAD INSTRUCTIONS
 ```
 
@@ -226,8 +226,6 @@ At times (re)textures are only available in a size unreasonably large for regula
 ```
 
 - **Main Files** – Unofficial Skyrim Special Edition Patch
-
----
 
 ```markdown
 # ADDITIONAL INSTRUCTIONS
