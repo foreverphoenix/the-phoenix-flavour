@@ -1,7 +1,7 @@
 # The Phoenix Flavour
 
 - [The Phoenix Flavour](#the-phoenix-flavour)
-- [Introdution](#introdution)
+- [Introduction](#introduction)
 - [Misconceptions](#misconceptions)
 - [Getting Started](#getting-started)
   - [Building your own setup.](#building-your-own-setup)
@@ -11,7 +11,7 @@
 - [Future Plans](#future-plans)
 - [Credits](#credits)
 
-# Introdution
+# Introduction
 
 Hi there! I'm Phoenix.
 
@@ -55,7 +55,7 @@ Learning how to mod Skyrim may not be fun to everyone and if you do not enjoy th
 
 Thankfully there is **Wabbajack**, an auto installer that helps you re-create a more experienced modder’s setup on your computer with minimal effort. If you do decide to go down that route, I recommend reading (or at least skimming through) the "Introduction to Modding" section before installing [Wabbajack](https://www.wabbajack.org/).
 
-> By the way - my own guide, The Phoenix Flavour, is also available as a Wabbajack installer.
+> My own guide, The Phoenix Flavour, is also available as a Wabbajack installer.
 
 # Discord
 
@@ -74,9 +74,10 @@ Whenever I'm fed up with Kyne's Peace and SKYRIM BELONGS TO THE NORDS, I hide in
 The Phoenix Flavour guide could never exist in its current complexity without **Umgak** who has found herself in charge of the conflict resolution for the entire guide. Umgak is also our resident expert on all things modding.
 
 I would also like to give thanks to:
-- Faron, Cassi, Slim and D1Z4STR (who are currently my Discord moderators)
-- Lively (thanks for that Wabbajack stuff bby)
-- DarkLadyLexy (use her guide if you are interested in LOTD)
+- Faron, Cassi, Slim, and D1Z4STR (who are currently my Discord moderators).
+- Lively (thanks for that Wabbajack stuff bby).
+- alsa (for being a helpful presence).
+- DarkLadyLexy (use her guide if you are interested in LOTD).
 - All the current and past contributors.
 - Everyone who has been active on our server, leaving screenshots and feedback.
 - And of course my lovely Patreons!
