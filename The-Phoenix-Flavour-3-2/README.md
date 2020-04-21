@@ -315,6 +315,8 @@
 - **11.19:** Updated download instructions for Soul Cairn HD (file update).
 - **13.13:** Updated FOMOD instructions for Obscure's College of Winterhold and moved them here.
 - **24.10:** Added instructions to delete a normal map from Natural Eyes that overwrote Eye Normal Map Fix.
+- **26.4:** Clarified instructions for RDO - USSEP and CRF Patch.
+- **26.6:** Fixed customisation instructions (console command syntax) for Guard Dialogue Overhaul.
 - **29.10:** Updated FOMOD instructions for Reliquary of Myth.
 - **31.10:** Added additional instructions to Copy and Paste in Console.
 

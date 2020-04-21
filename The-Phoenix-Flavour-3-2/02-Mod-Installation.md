@@ -311,6 +311,113 @@
   - [19.24 Frankly HD Dragonbone and Dragonscale (optional)](#1924-frankly-hd-dragonbone-and-dragonscale-optional)
   - [19.25 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1925-sunhallowed-and-bloodcursed-arrows--hd-retexture)
   - [19.26 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
+- [20. Unique Artifacts](#20-unique-artifacts)
+  - [20.1 aMidianBorn Book of Silence – Unique Items](#201-amidianborn-book-of-silence--unique-items)
+  - [20.2 Unique Uniques](#202-unique-uniques)
+  - [20.3 Unique Uniques – Plugin Replacer](#203-unique-uniques--plugin-replacer)
+  - [20.4 Frankly HD Nightingale Armor and Weapons (optional)](#204-frankly-hd-nightingale-armor-and-weapons-optional)
+  - [20.5 Better Shrouded Armor – Ancient Replacer Only](#205-better-shrouded-armor--ancient-replacer-only)
+  - [20.6 Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer](#206-better-shrouded-armor---ancient-replacer-only---plugin-replacer)
+  - [20.7 Frankly HD Miraak](#207-frankly-hd-miraak)
+  - [20.8 Masks of the Dovah Sonaak (optional)](#208-masks-of-the-dovah-sonaak-optional)
+  - [20.9 Remiros’ Dawnbreaker HD (optional)](#209-remiros-dawnbreaker-hd-optional)
+  - [20.10 Remiros’ Wabbajack HD (optional)](#2010-remiros-wabbajack-hd-optional)
+  - [20.11 Spellbreaker Oblivionized Retexture in HD (optional)](#2011-spellbreaker-oblivionized-retexture-in-hd-optional)
+  - [20.12 Remiros’ Ancient Falmer Armor HD (optional)](#2012-remiros-ancient-falmer-armor-hd-optional)
+  - [20.13 Harkon’s Sword – HD Retexture (optional)](#2013-harkons-sword--hd-retexture-optional)
+  - [20.14 Unique Zephyr (optional)](#2014-unique-zephyr-optional)
+  - [20.15 Auriel’s Bow – HD Retexture (optional)](#2015-auriels-bow--hd-retexture-optional)
+  - [20.16 Auriel’s Shield – HD Retexture (optional)](#2016-auriels-shield--hd-retexture-optional)
+  - [20.17 Ghosu – Auriel’s Quiver Replacer (optional)](#2017-ghosu--auriels-quiver-replacer-optional)
+  - [20.18 Ghosu’s Auriel’s Quiver Retexture (optional)](#2018-ghosus-auriels-quiver-retexture-optional)
+  - [20.19 Bloodskaal Blade Redone (optional)](#2019-bloodskaal-blade-redone-optional)
+- [21. Creatures](#21-creatures)
+  - [21.1 Bellyache’s Animal and Creature Pack (optional)](#211-bellyaches-animal-and-creature-pack-optional)
+  - [21.2 aMidianBorn Book of Silence – Creatures (optional)](#212-amidianborn-book-of-silence--creatures-optional)
+  - [21.3 OH GOD BEES – HD Textures (optional)](#213-oh-god-bees--hd-textures-optional)
+  - [21.4 HD Rabbit by Pfuscher (optional)](#214-hd-rabbit-by-pfuscher-optional)
+  - [21.5 Better Than Nando’s (optional)](#215-better-than-nandos-optional)
+  - [21.6 Goat HD by Pfuscher (optional)](#216-goat-hd-by-pfuscher-optional)
+  - [21.7 Highland Cow HD by Pfuscher (optional)](#217-highland-cow-hd-by-pfuscher-optional)
+  - [21.8 HD Skeever by Pfuscher (optional)](#218-hd-skeever-by-pfuscher-optional)
+  - [21.9 True Wolves of Skyrim (optional)](#219-true-wolves-of-skyrim-optional)
+  - [21.10 SABRECAT (optional)](#2110-sabrecat-optional)
+  - [21.11 Horker by Pfuscher (optional)](#2111-horker-by-pfuscher-optional)
+  - [21.12 RUSTIC FROSTBITE SPIDER (optional)](#2112-rustic-frostbite-spider-optional)
+  - [21.13 HD Reworked Horses (optional)](#2113-hd-reworked-horses-optional)
+  - [21.14 Dawnguard Rewritten – Arvak (optional)](#2114-dawnguard-rewritten--arvak-optional)
+  - [21.15 ElSopa HD – Bristleback (optional)](#2115-elsopa-hd--bristleback-optional)
+  - [21.16 ElSopa HD – Strider and Netches (optional)](#2116-elsopa-hd--strider-and-netches-optional)
+  - [21.17 TROLL (optional)](#2117-troll-optional)
+  - [21.18 HAGRAVEN (optional)](#2118-hagraven-optional)
+  - [21.19 HD Reworked Mammoths (optional)](#2119-hd-reworked-mammoths-optional)
+  - [21.20 GIANT (optional)](#2120-giant-optional)
+  - [21.21 RUSTIC SPRIGGAN (optional)](#2121-rustic-spriggan-optional)
+  - [21.22 WISPMOTHER (optional)](#2122-wispmother-optional)
+  - [21.23 CC’s HD Dwemer Automatons – Remastered (optional)](#2123-ccs-hd-dwemer-automatons--remastered-optional)
+  - [21.24 Vampire Lord Retexture (optional)](#2124-vampire-lord-retexture-optional)
+  - [21.25 RUSTIC DEATH HOUND AND GARGOYLE (optional)](#2125-rustic-death-hound-and-gargoyle-optional)
+- [22. Daedra & Dragons](#22-daedra--dragons)
+  - [22.1 RUSTIC DAEDRA (optional)](#221-rustic-daedra-optional)
+  - [22.2 Unique Barbas Retexture (optional)](#222-unique-barbas-retexture-optional)
+  - [22.3 Bellyache’s HD Dragon Replacer Pack (optional)](#223-bellyaches-hd-dragon-replacer-pack-optional)
+  - [22.4 Splendor – Dragon Variants (optional)](#224-splendor--dragon-variants-optional)
+  - [22.5 Odahviing Enhanced (optional)](#225-odahviing-enhanced-optional)
+  - [22.6 The Decayed Dragon – Durnehviir Retex (optional)](#226-the-decayed-dragon--durnehviir-retex-optional)
+  - [22.7 HD Serpentine Dragon and Mesh Fix (optional)](#227-hd-serpentine-dragon-and-mesh-fix-optional)
+- [23. NPC Overhauls](#23-npc-overhauls)
+  - [23.1 Vanilla NPCs Ruhmastered](#231-vanilla-npcs-ruhmastered)
+  - [23.2 Windsong Immersive Character Overhaul (WICO)](#232-windsong-immersive-character-overhaul-wico)
+  - [23.3 Windsong Immersive Character Overhaul – Stripped BSA](#233-windsong-immersive-character-overhaul--stripped-bsa)
+  - [23.4 Windsong Immersive Character Overhaul – USSEP and CRF Patches](#234-windsong-immersive-character-overhaul--ussep-and-crf-patches)
+  - [23.5 Ethereal Elven Overhaul](#235-ethereal-elven-overhaul)
+  - [23.6 Ethereal Elven Overhaul – SSE Patch](#236-ethereal-elven-overhaul--sse-patch)
+  - [23.7 TK Children](#237-tk-children)
+  - [23.8 Simple Children](#238-simple-children)
+- [24. Appearance](#24-appearance)
+  - [24.1 Bijin Skin for CBBE (optional)](#241-bijin-skin-for-cbbe-optional)
+  - [24.2 Skysight Skins (optional)](#242-skysight-skins-optional)
+  - [24.3 Optimized Body Meshes for SkySight Skins (optional)](#243-optimized-body-meshes-for-skysight-skins-optional)
+  - [24.4 Forgotten Argonian Roots (FAR) (optional)](#244-forgotten-argonian-roots-far-optional)
+  - [24.5 Forgotten Argonian Roots – FOMOD (optional)](#245-forgotten-argonian-roots--fomod-optional)
+  - [24.6 Coverkhajiit (optional)](#246-coverkhajiit-optional)
+  - [24.7 Vanilla Makeup HD (optional)](#247-vanilla-makeup-hd-optional)
+  - [24.8 Painterly – A High Res Vanilla Warpaint Retexture (optional)](#248-painterly--a-high-res-vanilla-warpaint-retexture-optional)
+  - [24.9 Northborn Scars (optional)](#249-northborn-scars-optional)
+  - [24.10 Natural Eyes (optional)](#2410-natural-eyes-optional)
+  - [24.11 Khajiit Wild Eyes (optional)](#2411-khajiit-wild-eyes-optional)
+  - [24.12 Bed Head – A Vanilla Hair Replacement (optional)](#2412-bed-head--a-vanilla-hair-replacement-optional)
+  - [24.13 Argonian Improvements – Horns (optional)](#2413-argonian-improvements--horns-optional)
+  - [24.14 Just Fangs from BVFE (optional)](#2414-just-fangs-from-bvfe-optional)
+  - [24.15 Hvergelmir’s Aesthetics – Brows (optional)](#2415-hvergelmirs-aesthetics--brows-optional)
+  - [24.16 Hvergelmir’s Aesthetics – Beards (optional)](#2416-hvergelmirs-aesthetics--beards-optional)
+  - [24.17 Immersive Mouth and Teeth (optional)](#2417-immersive-mouth-and-teeth-optional)
+  - [24.18 Immersive Mouth and Teeth for Orcs (optional)](#2418-immersive-mouth-and-teeth-for-orcs-optional)
+- [25. Gameplay Overhauls](#25-gameplay-overhauls)
+  - [25.1 Mysticism – A Magic Overhaul](#251-mysticism--a-magic-overhaul)
+  - [25.2 Adamant - A Perk Overhaul](#252-adamant---a-perk-overhaul)
+  - [25.3 Complete Crafting Overhaul Remastered (CCOR)](#253-complete-crafting-overhaul-remastered-ccor)
+  - [25.4 Morningstar – Minimalistic Races of Skyrim (optional)](#254-morningstar--minimalistic-races-of-skyrim-optional)
+  - [25.5 Subtle But Classless (optional)](#255-subtle-but-classless-optional)
+  - [25.6 Subtle But Classless – USSEP and EEO Patch (optional)](#256-subtle-but-classless--ussep-and-eeo-patch-optional)
+  - [25.7 Growl – Werebeasts of Skyrim](#257-growl--werebeasts-of-skyrim)
+  - [25.8 Sacrosanct – Vampires of Skyrim](#258-sacrosanct--vampires-of-skyrim)
+  - [25.9 Carriage and Ferry Travel Overhaul (CFTO)](#259-carriage-and-ferry-travel-overhaul-cfto)
+  - [25.10 CFTO – Winterhold Carriage](#2510-cfto--winterhold-carriage)
+  - [25.11 Night Eye Overhaul (NEO)](#2511-night-eye-overhaul-neo)
+  - [25.12 Night Eye Overhaul – Plugin Replacer](#2512-night-eye-overhaul--plugin-replacer)
+- [26. Non-Player Characters](#26-non-player-characters)
+  - [26.1 AI Overhaul](#261-ai-overhaul)
+  - [26.2 AI Overhaul - Windsong Immersive Character Overhaul Patch](#262-ai-overhaul---windsong-immersive-character-overhaul-patch)
+  - [26.3 AI Overhaul - Ethereal Elven Overhaul Patch](#263-ai-overhaul---ethereal-elven-overhaul-patch)
+  - [26.4 Relationship Dialogue Overhaul (RDO)](#264-relationship-dialogue-overhaul-rdo)
+  - [26.5 Relationship Dialogue Overhaul – MCM Patch](#265-relationship-dialogue-overhaul--mcm-patch)
+  - [26.6 Guard Dialogue Overhaul (GDO)](#266-guard-dialogue-overhaul-gdo)
+  - [26.7 Misc Dialogue Edits](#267-misc-dialogue-edits)
+  - [26.8 More Dialogue Options](#268-more-dialogue-options)
+  - [26.9 Thugs Not Assassins](#269-thugs-not-assassins)
+  - [26.10 Nether’s Follower Framework (NFF)](#2610-nethers-follower-framework-nff)
+  - [26.11 Adopt Aventus Aretino](#2611-adopt-aventus-aretino)
 
 # 01. Essential Mods
 
@@ -3594,3 +3701,1086 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 * Run the mod through SSE NIF Optimizer.
 
 > Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliable fixes all meshes.
+
+![Separator](../Media/separator.png)
+
+# 20. Unique Artifacts
+
+## 20.1 [aMidianBorn Book of Silence – Unique Items](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
+
+### Download Instructions
+
+* **Main Files** – aMidianBorn book of silence_UNIQUE ITEMS
+
+### FOMOD Instructions
+
+* **Options:** Custom
+* **Targe of the Blooded:** Targe of the Blooded
+* **Wuuthrad:** Wuuthrad
+* **Savior’s Hide:** *choose one*
+* **Helm of Yngol:** Helm of Yngol
+* **Mace of Molag Bal:** Mace of Molag Bal
+* **Mehrune’s Razor:** Mehrune’s Razor
+* **Volendrug:** Volendrung
+* **Tsun’s Armor:** Tsun’s Armor
+* **Ebony Mail:** *choose one*
+* **Staff of Magnus:** Staff of Magnus
+* **Dragon Priest Masks:** ~~Dragon Priest Masks~~
+
+### Additional Instructions
+
+* Double-click **aMidianBorn – Unique Items** in your mod order.
+* Switch to the **Filetree** tab.
+* Right-click the **meshes** folder and select **New folder**.
+* Name the new folder **weapons**.
+* Drag the **staffofmagnus** folder into the new **weapons** folder.
+* Resulting file path:
+  * `meshes\weapons\staffofmagnus`
+
+## 20.2 [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Unique Uniques SE
+
+## 20.3 [Unique Uniques – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23614?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Unique Uniques – Replacer
+
+## 20.4 [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Frankly HD Nightingale Armor and Weapons 1.1
+* **Optional Files** – Frankly HD Nightingale Armor CBBE SE
+* **Optional Files** – Frankly HD Nightingale LeanWolfs Better-Shaped Weapons and Dual Sheath Redux Patch
+
+### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+* **Options:** *select any you like*
+
+## 20.5 [Better Shrouded Armor – Ancient Replacer Only](https://www.nexusmods.com/skyrimspecialedition/mods/26111?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Better Shrouded Armor SSE – Ancient Replacer Only
+
+## 20.6 [Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) 
+
+### Download Instructions
+
+* **Main Files** – Better Shrouded Armor – Ancient Replacer Only – Plugin Replacer
+
+## 20.7 [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Frankly HD Miraak 1.0
+* **Optional Files** – Frankly HD Miraak – CBBE SE
+
+> We are not installing the hotfix available in the file section as it only contains a single mesh that would be overwritten by the CBBE patch.
+
+### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+* **Alternative Colors:** Vanilla Green
+* **Other:** ~~Improved Closefaced Helmets Patch~~
+
+## 20.8 [Masks of the Dovah Sonaak](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Masks of the Dovah Sonaak
+
+### FOMOD Instructions
+
+* **Improved Closefaced Helmets Patch:** Don’t install
+* **Warmonger Armory Patch:** Don’t install
+* **Craftable Hoods:** Don’t install
+* **aMidianBorn Content Addon:** Nahkriin – Default Ebony
+* **Frankly HD Patch:** Konahrik – Frankly HD Gold
+
+## 20.9 [Remiros’ Dawnbreaker HD](https://www.nexusmods.com/skyrimspecialedition/mods/22334?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Remiros’ Dawnbreaker HD – Vanilla Colors
+
+### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE – Downsize Textures**).
+
+## 20.10 [Remiros’ Wabbajack HD ](https://www.nexusmods.com/skyrimspecialedition/mods/18853?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Remiros’ Wabbajack HD
+
+### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE – Downsize Textures**).
+
+## 20.11 [Spellbreaker Oblivionized Retexture in HD ](https://www.nexusmods.com/skyrimspecialedition/mods/32430?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Spell Breaker HD
+
+## 20.12 [Remiros’ Ancient Falmer Armor HD](https://www.nexusmods.com/skyrimspecialedition/mods/22458?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Remiros’ Ancient Falmer Armor
+
+### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE – Downsize Textures**).
+
+## 20.13 [Harkon’s Sword – HD Retexture](https://www.nexusmods.com/skyrim/mods/52004?tab=files) (optional)
+
+### Download Instructions
+
+* **Miscellaneous Files** – Harkons Sword – Scabbard 2k
+
+## 20.14 [Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/16956?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Unique Zephyr 1.0
+
+## 20.15 [Auriel’s Bow – HD Retexture](https://www.nexusmods.com/skyrim/mods/44333?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Auriels Bow HD Retexture 2k complete
+
+## 20.16 [Auriel’s Shield – HD Retexture](https://www.nexusmods.com/skyrim/mods/51148?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Auriels Shield HD Retexture 2k
+
+## 20.17 [Ghosu – Auriel’s Quiver Replacer](https://www.nexusmods.com/skyrim/mods/51822?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – MAIN FILE _ version 2
+
+## 20.18 [Ghosu’s Auriel’s Quiver Retexture](https://www.nexusmods.com/skyrim/mods/58218?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Ghosus Auriels Quiver Retexture corrected 1k
+* **Optional Files** – Mesh for my HD Retexture of the arrows
+
+## 20.19 [Bloodskaal Blade Redone](https://www.nexusmods.com/skyrim/mods/54229?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Bloodskal Blade Redone
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+
+![separator](../Media/separator.png)
+
+# 21. Creatures
+
+## 21.1 [Bellyache’s Animal and Creature Pack](https://www.nexusmods.com/skyrimspecialedition/mods/6839?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Bellyaches Animal and Creature Pack SSE
+
+### FOMOD Instructions
+
+* **Options:** Custom Install
+* **Bear (brown and black):** Bear replacers
+* **Chaurus:** None 
+* **Chicken:** None
+* **Dog:** Solid – Brown
+* **Dragonfly:** Dartwing replacers
+* **Deer:** Deer replacers
+* **Fox (Red):** Red
+* **Fox (Arctic):** Arctic
+* **Frostbite Spider (Brown):** None
+* **Frostbite Spider (Arctic):** None 
+* **Goat:** None
+* **Hawk:** Golden Eagle
+* **Highland Cow:** None 
+* **Horker:** None 
+* **Horse Tails:** None 
+* **Horse Textures:** None 
+* **Mammoth:** None 
+* **Mudcrab:** Muddy
+* **Rabbit:** ~~Rabbit replacer~~
+* **Sabre Cat (Brown):** None 
+* **Sabre Cat (Arctic):** None
+* **Skeever (Grey):** None
+* **Skeever (Arctic):** None 
+* **Wolf (Black):** None
+* **Wolf (Ice):** None
+* **Wolf (Red):** None
+* **Werewolf:** None
+* **Werewolf Eyes:** None
+
+## 21.2 [aMidianBorn Book of Silence – Creatures](https://www.nexusmods.com/skyrim/mods/24909?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – aMidianBorn book of silence_Creatures
+
+### FOMOD Instructions
+
+* **Options:** Custom
+* **Skeleton:** Skeleton
+* **Dragon Priest:** *choose either*
+* **Draugr:** *choose either*
+* **Falmer:** Falmer
+* **Chaurus:** Chaurus
+* **Spriggan:** ~~Spriggan~~
+
+## 21.3 [OH GOD BEES – HD Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2932?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – OH GOD BEES – HD Textures
+
+### FOMOD Instructions
+
+* **HD Bee Texture:** 512×512
+* **HD Beehive Texture:** 1024×1024
+* **HD Apiary Texture:** 2048×2048
+
+## 21.4 [HD Rabbit by Pfuscher ](https://www.nexusmods.com/skyrimspecialedition/mods/25280?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – HD Rabbit by Pfuscher
+
+## 21.5 [Better Than Nando’s](https://www.nexusmods.com/skyrimspecialedition/mods/1046?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Better than Nando’s
+
+## 21.6 [Goat HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/22802?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HD Goat by Pfuscher
+
+## 21.7 [Highland Cow HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/20758?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Highlandcow HD
+
+## 21.8 [HD Skeever by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/23262?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HD Skeevers
+
+## 21.9 [True Wolves of Skyrim](https://www.nexusmods.com/skyrim/mods/59174?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – True Wolves of Skyrim
+
+### FOMOD Instructions
+
+The selections below are my preference. Feel free to make your own choices!
+
+* **Texture Resolution:** 1k Texture
+* **Black Wolf Color Options:** Grey Wolves
+* **Black Wolf Eye Color Options:** Amber
+* **Ice Wolf Color Options:** Darker White Ice Wolves
+* **Ice Wolf Eye Color Options:** Yellow
+* **Red Wolf Color Options:** Timber Wolves
+* **Red Wolf Eye Color Options:** Gold
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+
+## 21.10 [SABRECAT](https://www.nexusmods.com/skyrimspecialedition/mods/5303?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Sabrecat.2k
+
+### FOMOD Instructions
+
+* **PLEASE SELECT AT LEAST ONE:**
+  * Install the Sabrecat and Sabrecat Snow
+  * Install the Valecat
+
+## 21.11 [Horker by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/28452?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Horker
+
+## 21.12 [RUSTIC FROSTBITE SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/18817?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC FROSTBITE SPIDER SSE – 2K
+
+## 21.13 [HD Reworked Horses](https://www.nexusmods.com/skyrimspecialedition/mods/28249?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HD Reworked Horses
+
+## 21.14 [Dawnguard Rewritten – Arvak](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Dawnguard Rewritten Arvak 1.1.1
+
+### FOMOD Instructions
+
+* **Texture Sizes:** Extreme Definition
+* **Model Options:** Undead
+
+> Choose the Soul Cairn option if you want Arvak to look like the vanilla version with better textures.
+
+## 21.15 [ElSopa HD – Bristleback](https://www.nexusmods.com/skyrimspecialedition/mods/22294?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – 2K ElSopa HD – Bristleback
+
+## 21.16 [ElSopa HD – Strider and Netches](https://www.nexusmods.com/skyrimspecialedition/mods/22238?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – 2K ElSopa HD Strider And Netches
+
+## 21.17 [TROLL](https://www.nexusmods.com/skyrimspecialedition/mods/4682?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – TROLL.4k-2k
+
+## 21.18 [HAGRAVEN](https://www.nexusmods.com/skyrimspecialedition/mods/7679?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Hagraven.2k
+
+## 21.19 [HD Reworked Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/23958?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HD Reworked Mammoths
+
+## 21.20 [GIANT](https://www.nexusmods.com/skyrimspecialedition/mods/6179?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Giant.4k
+
+## 21.21 [RUSTIC SPRIGGAN](https://www.nexusmods.com/skyrimspecialedition/mods/18107?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC SPRIGGAN – Special Edition – 2K
+* **Optional Files** – RUSTIC SPRIGGAN EFFECTS
+
+## 21.22 [WISPMOTHER](https://www.nexusmods.com/skyrimspecialedition/mods/7638?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Wispmother.4x2k
+
+### FOMOD Instructions
+
+* **Custom:** Full version – skin with a mesh fabric veil (RECOMMENDED)
+
+## 21.23 [CC’s HD Dwemer Automatons – Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/32267?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – CC’s HD Dwemer Automatons – Remastered – 2K – 1.0
+
+## 21.24 [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Vampire Lord Retextured (Demonic)
+
+## 21.25 [RUSTIC DEATH HOUND AND GARGOYLE](https://www.nexusmods.com/skyrimspecialedition/mods/17740?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC DEATH HOUND AND GARGOYLE SSE – 2K
+
+![separator](../Media/separator.png)
+
+# 22. Daedra & Dragons
+
+## 22.1 [RUSTIC DAEDRA](https://www.nexusmods.com/skyrimspecialedition/mods/19272?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC DAEDRA SSE – 2K
+
+## 22.2 [Unique Barbas Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/17540?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Unique Barbas_SSE_1.0
+
+### Additional Instructions
+
+The included plugin (required because Barbas doesn’t have a unique model in vanilla) also increases Barbas’ size by 50%. This can cause him to get stuck or block passages which is why I recommend reverting the edit.
+
+* Run SSEEdit through Mod Organizer 2.
+* When the plugin selection window comes up, just click **OK** to load your entire mod order.
+* Once your mods are all loaded up, double-click **UniqueBarbas.esp** in the left pane.
+* Double-click **Non-Player Character** and select **DA03 Barbas**.
+* Scroll down to **NAM6 – Height** which is set to **1.500000** in **UniqueBarbas.esp**.
+* Drag the value from Skyrim.esm / the USSEP (**1.000000**) into the **UniqueBarbas.esp** column (see picture below).
+* Click **Yes, I’m sure** when warning window shows up.
+* Close SSEEdit. Only **UniqueBarbas.esp** should appear in the next window.
+* Make sure it is checked, then click **OK** to save and close.
+
+![Unique Barbas xEdit](Pictures/mod_installation/unique_barbas_height.png)
+
+## 22.3 [Bellyache’s HD Dragon Replacer Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2636?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – BellyAches HD Dragon Replacer 1.4
+
+## 22.4 [Splendor – Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Splendor – Dragon Variants
+
+## 22.5 [Odahviing Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/5254?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Odahviing Enhanced
+
+## 22.6 [The Decayed Dragon – Durnehviir Retex](https://www.nexusmods.com/skyrim/mods/80454?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Durnehviir – Dragon Retex
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+
+## 22.7 [HD Serpentine Dragon and Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18370?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HD Serpentine Dragon
+
+### FOMOD Instructions
+
+* **Texture:** Smooth
+* **Mesh:** Fixed UVs
+
+![separator](../Media/separator.png)
+
+# 23. NPC Overhauls
+
+## 23.1 [Vanilla NPCs Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/25977?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Vanilla NPCs SSE Ruhmastered v2.1
+* **Optional Files** – Vanilla NPCs SSE Ruhmastered with Beast Glow v2.0 --- `merge with the main file`
+* **Optional Files** – Vanilla Vampire NPCs SSE Ruhmastered Vampire Red Glow v2.0 --- `merge with the main file`
+
+### Additional Instructions
+
+In order to be able to control the mod’s facegen files via load order, we need to pack the loose files in a BSA and activate it with an empty plugin.
+
+* Open **Cathedral Assets Optimizer**.
+* From the **Profiles** drop-down menu, select the **SSE – Create BSA** profile.
+* Click **Open Directory** and point it at the `Mod Organizer 2\mods\Vanilla NPCs SSE Ruhmastered` folder.
+* Click **Run** to start the process. You can check the progress in the **Log** tab.
+* Close Cathedral Assets Optimizer once it’s done. Refresh (F5) Mod Organizer 2 and you will see the assets are now packed.
+
+## 23.2 [Windsong Immersive Character Overhaul (WICO)](https://www.nexusmods.com/skyrimspecialedition/mods/2136?tab=files)
+
+### Download Instructions
+
+* **Main Files** – WICO Special Edition – VNL 0.9f
+
+### FOMOD Instructions
+
+* **Options:** Custom
+* **Patch Files:** ~~USSEP Compatible Patch~~
+* **Option 01:** ~~Additional Followers~~
+* **Option 02:** ~~Clean Body Textures~~
+* **Option 03:** ~~Less Flush Face Textures~~
+* **Option 04:** ~~The Witcher Gear Sets~~
+
+> We do not install the pre-packaged USSEP Patch because it is incomplete. 
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `WICO - Immersive Character.esp`
+  * `WICO - Immersive Character.bsa`
+  * `WICO - Immersive Character.bsl`
+  * `WICO - Immersive People.bsa`
+  * `WICO - Immersive People.bsl`
+
+> Basically this removes all vanilla texture replacers and the new player character presets, leaving only the changes to individual NPCs. A stripped BSA with matching facegen for those changes will be installed in the next step.
+
+## 23.3 [Windsong Immersive Character Overhaul – Stripped BSA](https://www.nexusmods.com/skyrimspecialedition/mods/5049?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Striped BSA for default settings
+
+## 23.4 [Windsong Immersive Character Overhaul – USSEP and CRF Patches](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Windsong Immersive Character Overhaul – USSEP and CRF Patches
+
+### FOMOD Instructions
+
+* Change nothing, simply click **Next** and **Install**.
+
+## 23.5 [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Ethereal Elven Overhaul
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\actors\character\facegendata\`
+  * `textures\actors\character\facegendata\`
+  * `ethereal_elven_overhaul.esp`
+
+## 23.6 [Ethereal Elven Overhaul – SSE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/7351?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Special Edition patch
+
+## 23.7 [TK Children](https://www.nexusmods.com/skyrimspecialedition/mods/5916?tab=files)
+
+### Download Instructions
+
+* **Main Files** – TK Children SE
+
+### FOMOD Instructions
+
+* Irrelevant, just click **Next** and **Install**. We are only interested in this mod’s TRI files which are required for Simple Children.
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\actors\characters\facegendata`
+  * `meshes\actors\characters\TKChildren`
+  * `textures\`
+  * `TKChildren.esp`
+  * `TKChildren.esm`
+
+Rename the mod to **TK Children – TRI Files** in order to indicate that it is not the full mod.
+
+## 23.8 [Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789?tab=files)
+
+### Download Instructions
+
+* **Main File** – Simple Children Main – FOMOD
+* **Update File** – Simple Children – Updated Textures
+* **Optional File** – Simple Children – Babette Glowing Eyes
+* **Optional File** – Patches for Simple Children – AIO
+
+### FOMOD Instructions - Main File
+
+* **Texture Choices:** Paler Eye Area
+
+### FOMOD Instructions - Updated Textures
+
+* **Texture Options:** Clean Face and Body Textures
+
+### FOMOD Instructions - Patches
+
+* **Patches Page 1:**
+  * ~~Beyond Reach~~
+  * ~~Beyond Skyrim Bruma~~
+  * ~~Blackthorn – A Buildable Town In The Rift~~
+  * ~~Books Of Skyrim~~
+  * ~~Cutting Room Floor~~
+  * ~~Dragons Keep SE~~
+  * ~~ETaC – Darkwater Crossing~~
+  * ~~ETaC – Dawnstar~~
+  * ~~ETaC – Riverwood~~
+  * ~~ETaC – Rorikstead~~
+  * ~~Expanded Towns and Cities – Complete~~
+  * ~~Falskaar~~
+  * ~~Gavrostead SE~~
+  * ~~Greater Skaal Village~~
+  * ~~Helgen Reborn~~
+  * ~~Immersive Weapon Integration~~
+  * ~~Immersive World Encounters~~
+* **Patches Page 2:** 
+  * ~~Inconsequential NPCs~~
+  * Interesting NPCs
+  * ~~Keld-Nar~~
+  * ~~Legacy of the Dragonborn~~
+  * ~~Moon and Star~~
+  * ~~Outlaws and Revolutionaries~~
+  * ~~Qaxe’s Questorium~~
+  * ~~Rigmor of Bruma~~
+  * ~~Rigmor of Cyrodiil~~
+  * ~~Settlements Expanded~~
+  * ~~Solitude Expansion~~
+  * The Forgotten City
+  * ~~The People of Skyrim Complete~~
+  * ~~Wyrmstooth~~
+* **Prince and Pauper:**
+  * USSEP Version
+* **Adopt Aventus Aretino:**
+  * Adopt Aventus Aretino + Prince and Pauper + USSEP
+* **Skaal Coat For Kids:**
+  * ~~Skaal Coat Addon~~
+
+### Mod Order
+
+* Place **Simple Children – Patches** below the **PATCHES** separator.
+
+![separator](../Media/separator.png)
+
+# 24. Appearance
+
+## 24.1 [Bijin Skin for CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Bijin Skin CBBE
+
+### FOMOD Instructions
+
+* **Body Diffuse Maps:** 2K – Pubic
+* **Body Normal Maps:** Default
+* **Head Diffuse:** 2K – Realistic
+* **Vampire Head Diffuse:** 2K – Realistic
+* **Nord Head Normal Map:** Keep Default
+* **Vampire Head Normal Map:** Keep Default
+* **Specular Maps:** 2K – Default
+* **Subsurface Maps:** Default
+* **Makeup:** Default (Recommendation)
+* **Cheek:** Pretty
+
+## 24.2 [Skysight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – SkySight Skins HD with Real Feet Meshes (HIGH – Recommended)
+* **Optional Files** – PATCH – Shoe Fixes (Less Shine) ==merge with the main file==
+
+### FOMOD Instructions
+
+* **Page 1 – Meshes:** Real Feet Meshes PLUS Less Shiny Body Meshes
+* **Page 2 – Body Textures:** *choose one*
+* **Page 3 – Body Veins:** Reduced Veins
+* **Page 4 – Faces:** Vanilla Age (default)
+
+## 24.3 [Optimized Body Meshes for SkySight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/11?tab=files) (optional)
+
+### Download Instructions
+
+* **Miscellaneous File** - SkySight Skins HD - Optimized Meshes
+
+## 24.4 [Forgotten Argonian Roots (FAR)](https://www.nexusmods.com/skyrimspecialedition/mods/1704?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – FAR 2k. all-in-one with readme
+
+**Do not install this mod yet.**
+
+## 24.5 [Forgotten Argonian Roots – FOMOD](https://www.nexusmods.com/skyrimspecialedition/mods/23322?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Forgotten Argonian Roots – FOMOD
+
+### Installation Instructions
+
+* Extract the archive to `Your Modding Folder\Temp`.
+* Find the **FAR 2k.all-in-one with readme.zip** archive in `Your Modding Folder\ARCHIVE\MO2 Downloads` and open it.
+* Move the following folders to  `Your Modding Folder\Temp\Forgotten Argonian Roots`:
+  * **Males**
+  * **Females**
+* Right-click the **Forgotten Argonian Roots** folder and select **Add to archive**.
+* Move the new archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+* Back in MO2, press F5 to refresh and it will show up in the **Downloads** tab.
+* Right-click it and select **Query Info** (Mod ID is **1704**), then double-click to install as usual.
+
+### FOMOD Instructions
+
+* **FAR – Main:**
+  * Males
+  * Females
+* **FAR – Males:**
+  * Vanilla body
+* **FAR – Females 1:**
+  * CBBE body
+* **FAR – Females 2 – CBBE body:**
+  * None
+
+## 24.6 [Coverkhajiit](https://www.nexusmods.com/skyrim/mods/5941?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – coverkhajiits female version
+* **Main Files** – coverkhajiits male version
+
+## 24.7 [Vanilla Makeup HD](https://www.nexusmods.com/skyrimspecialedition/mods/24482?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – VMHD – All Races – 2K
+* **Update Files** – VMHD – FemaleLowerEyeSocketFix – 2K ==merge with the main file==
+
+## 24.8 [Painterly – A High Res Vanilla Warpaint Retexture](https://www.nexusmods.com/skyrim/mods/67147?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Painterly_HighResVanillaWarpaint
+
+## 24.9 [Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Northborn Scars
+
+## 24.10 [Natural Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/10099?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Natural Eyes
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\`
+  * `textures\actors\character\eyes\eyebrown_n.dds`
+  * `textures\actors\character\eyes\eyewerewolf.dds`
+  * `textures\actors\character\eyes\eyewerewolfbeast_n.dds`
+  * `textures\actors\character\eyes\eyewerewolfbeastbrown.dds`
+  * `textures\actors\character\eyes\eyewolfenvironmentmask_m.dds`
+
+## 24.11 [Khajiit Wild Eyes](https://www.nexusmods.com/skyrim/mods/20118?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Wild eyes
+
+## 24.12 [Bed Head – A Vanilla Hair Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/8528?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Bed Head V.2.3 Brown Fabric
+
+## 24.13 [Argonian Improvements – Horns](https://www.nexusmods.com/skyrimspecialedition/mods/6104?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Argonian Improvements Horns SSE 1024 1 _0
+
+## 24.14 [Just Fangs from BVFE](https://www.nexusmods.com/skyrimspecialedition/mods/33779?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Just Fangs From BVFE
+
+## 24.15 [Hvergelmir’s Aesthetics – Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Hvergelmir’s Aesthetics – Brows 4.1
+
+### FOMOD Instructions
+
+* **Choose:** Full install
+* **Resolution:** Low: 512
+
+## 24.16 [Hvergelmir’s Aesthetics – Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Hvergelmir’s Aesthetics – Beards 5.0.1
+
+### FOMOD Instructions
+
+* **Choose:** Full
+* **Resolution:** Low: 1024
+
+## 24.17 [Immersive Mouth and Teeth](https://www.nexusmods.com/skyrimspecialedition/mods/12335?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Immersive Mouth and Teeth – Skyrim Version – 2.0
+
+## 24.18 [Immersive Mouth and Teeth for Orcs ](https://www.nexusmods.com/skyrimspecialedition/mods/27343?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Immersive Mouth and Teeth for Orcs – 1K – 1.0
+
+![separator](../Media/separator.png)
+
+# 25. Gameplay Overhauls
+
+## 25.1 [Mysticism – A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839?tab=files)
+
+### Download Instructions
+
+* **Main File** - Mysticism – A Magic Overhaul
+
+## 25.2 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files)
+
+### Download Instructions
+
+* **Main File** - Adamant - A Perk Overhaul
+
+## 25.3 [Complete Crafting Overhaul Remastered (CCOR)](https://www.nexusmods.com/skyrimspecialedition/mods/28608?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Complete Crafting Overhaul Remastered
+
+## 25.4 [Morningstar – Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Morningstar 1.4.0
+
+### Additional Instructions
+
+* Double-click **Morningstar – Minimalistic Races of Skyrim** in your mod order.
+* Switch to the **Filetree** tab and rename the plugin:
+  * Morningstar – Minimalistic Races of Skyrim.**esp**
+
+> This will turn the ESL into an ESP-Lite plugin, allowing us to manipulate its load order.
+
+## 25.5 [Subtle But Classless](https://www.nexusmods.com/skyrimspecialedition/mods/2744?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Subtle but Classless
+
+## 25.6 [Subtle But Classless – USSEP and EEO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Subtle but Classless – USSEP and EEO Patch
+
+>  Install this mod if you installed Subtle But Classless. Otherwise skip it.
+
+### Mod Order
+
+* Place the mod below the **PATCHES** separator.
+
+## 25.7 [Growl – Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Growl 1.4.0
+
+## 25.8 [Sacrosanct – Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Sacrosanct v515
+
+## 25.9 [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Carriage and Ferry Travel Overhaul
+* **Optional Files** – CFTO – Dawnstar by Arthmoor Patch
+
+### Mod Order
+
+* Place **CFTO – Dawnstar by Arthmoor Patch** below the **PATCHES** separator.
+
+## 25.10 [CFTO – Winterhold Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/27236?tab=files)
+
+### Download Instructions
+
+* **Main Files** – CFTO – Winterhold Carriage
+
+## 25.11 [Night Eye Overhaul (NEO)](https://www.nexusmods.com/skyrimspecialedition/mods/9177?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Night Eye Overhaul
+
+### FOMOD Instructions
+
+* Change nothing, click **Install**.
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `Night Eye Overhaul.esm`
+  * `Night Eye Overhaul.esp`
+
+## 25.12 [Night Eye Overhaul – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23794?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Night Eye Overhaul – Plugin Replacer – Sacrosanct Version
+
+![separator](../Media/separator.png)
+
+# 26. Non-Player Characters
+
+## 26.1 [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654?tab=files)
+
+### Download Instructions
+
+- **Main File** - AI Overhaul 1.4.1
+
+## 26.2 [AI Overhaul - Windsong Immersive Character Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+- **Main File** - AI Overhaul SSE - Windsong Immersive Character Overhaul Patch
+
+### Mod Order
+
+- Place the mod below the **PATCHES** separator.
+
+## 26.3 [AI Overhaul - Ethereal Elven Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+- **Main File** - AI Overhaul SSE - Ethereal Elven Overhaul Patch
+
+### Mod Order
+
+- Place the mod below the **PATCHES** separator.
+
+## 26.4 [Relationship Dialogue Overhaul (RDO)](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Relationship Dialogue Overhaul – RDO Final
+* **Optional Files** – RDO – CRF and USSEP Patches Final
+
+### Additional Instructions
+
+* Double-click the **RDO - USSEP and CRF Patch** file in your mod order.
+* Delete the following file(s) and/or folder(s):
+  * `RDO - CRF + USSEP Patch.esp`
+* Rename the file to **Relationship Dialogue Overhaul - USSEP Patch**.
+
+### Mod Order
+
+* Place the **Relationship Dialogue Overhaul – USSEP Patch** below the **PATCHES** separator.
+
+## 26.5 [Relationship Dialogue Overhaul – MCM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+### Download Instructions
+
+* **Main Files** – RDO – MCM Patch 1.3
+
+## 26.6 [Guard Dialogue Overhaul (GDO)](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Guard Dialogue Overhaul SE
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `Guard Dialogue Overhaul.modgroups`
+
+### Customisation
+
+A number of (vanilla) features can be disabled through GDO console commands.
+
+- Double-click **Autorun Console Commands** in your mod order.
+- Switch to the **Text Files** tab and select the **Autorun.txt**.
+- Add any of the following lines:
+  - `Set GDODisableWarning to 1`
+  - `Set GDODisableMemes to 1`
+- Close the window and click **Yes** when prompted.
+
+> **GDODisableWarning:** Stops guards from approaching and warning you when you Shout in their presence. These comments will be disabled automatically after defeating Alduin.
+> **GDODisableMemes:** This will disable all "no lollygagging", "curved swords", "someone stole your sweetroll" and "arrow in the knee" comments. The first three will be automatically disabled after completing certain quests or becoming Thane of a hold.
+
+## 26.7 [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Misc Dialogue Edits
+
+## 26.8 [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files)
+
+### Download Instructions
+
+* **Main Files** – More Dialogue Options – for Misc Dialogue Edits
+
+## 26.9 [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028?tab=files)
+
+### Download Instructions
+
+* **Main File** - Thugs Not Assassins
+* **Optional File** - Thugs Not Assassins - Timing Is Everything Patch
+
+### Mod Order
+
+- Place the **Timing Is Everything Patch** below the **PATCHES** separator.
+
+## 26.10 [Nether’s Follower Framework (NFF)](https://www.nexusmods.com/skyrimspecialedition/mods/18076?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Nether’s Follower Framework – Universal Installer (LE or SSE)
+
+### FOMOD Instructions
+
+* **Game Version:**
+  * Skyrim Special Edition
+* **Core Options:**
+  * Followers Avoid Traps
+  * ~~Replace Base Dialogue Scripts~~
+  * Vanilla SkyHaven Temple
+  * ~~Follower Leveling Bat File~~
+  * ~~Follower Class BAT Files~~
+* **Removed Scripts:**
+  * ~~Install Dummy Scripts~~
+* **Core Mod Support:**
+  * Interesting NPCs
+  * Relationship Dialogue Overhaul (RDO)
+  * RDO Comments
+  * ~~Misty Skye~~
+* **No Team Magic Damage Core (Beta):**
+  * ~~ESP for Skyrim Special Edition~~
+* **NTMD Mod Support (Beta):**
+  * ~~Apocalypse for SSE~~
+  * ~~Elemental Destruction Magic for SSE~~
+
+## 26.11 [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Adopt Aventus Aretino
