@@ -970,7 +970,7 @@ After completing the Setup, you are equipped with a correctly installed and conf
 
 ### 10.1.2 Mod Installation
 
-You can find all mod installation instructions in the [02 The Phoenix Flavour - Mod Installation.md](The%20Phoenix%20Flavour%20-%20Skyrim%20SE%20Edition%203.2/02%20The%20Phoenix%20Flavour%20-%20Mod%20Installation.md) file. I highly recommend opening it in a new tab or window while keeping this one open so that you are able to refer to the instructions detailed below while installing the mods.
+You can find all mod installation instructions in the [02 The Phoenix Flavour - Mod Installation.md](/The_Phoenix_Flavour_3_2/02_mod_installation.md) file. I highly recommend opening it in a new tab or window while keeping this one open so that you are able to refer to the instructions detailed below while installing the mods.
 
 ## 10.2 General Instructions
 
