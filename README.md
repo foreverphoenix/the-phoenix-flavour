@@ -132,7 +132,7 @@ Whenever I'm fed up with Kyne's Peace and SKYRIM BELONGS TO THE NORDS, I hide in
 
 # Credits
 
-The Phoenix Flavour guide could never exist in its current complexity without **Umgak**, our resident expert on all things modding, who has found herself in charge of the conflict resolution for the entire guide.
+The Phoenix Flavour guide could never exist in its current complexity without Umgak, our resident expert on all things modding, who has found herself in charge of the conflict resolution for the entire guide.
 
 I would also like to give thanks to:
 - Faron, Cassi, Slim, and D1Z4STR (who are currently our Discord moderators).
