@@ -28,7 +28,7 @@
   - [6.3 Import the preset](#63-import-the-preset)
   - [6.4 The Truth ENB](#64-the-truth-enb)
   - [6.5 Activate the preset](#65-activate-the-preset)
-- [60. DynDOLOD](#60-dyndolod)
+- [06. DynDOLOD](#06-dyndolod)
   - [6.1 DynDOLOD and Performance](#61-dyndolod-and-performance)
   - [6.2 DynDOLOD Setup](#62-dyndolod-setup)
   - [6.3 TexGen Configuration](#63-texgen-configuration)
@@ -399,7 +399,7 @@ You can skip this step and simply use Visceral ENB or install a different preset
 
 ![separator](../Media/separator.png)
 
-# 60. DynDOLOD
+# 06. DynDOLOD
 
 ## 6.1 DynDOLOD and Performance
 
