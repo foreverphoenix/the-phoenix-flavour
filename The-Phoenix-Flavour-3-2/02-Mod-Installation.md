@@ -1,4 +1,4 @@
-![Logo](Pictures/Logo%20Mockup.png)
+![Logo](../Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [01. Essential Mods](#01-essential-mods)
@@ -245,6 +245,72 @@
   - [15.14 ElSopa HD – Realistic Dark Elf Urns (optional)](#1514-elsopa-hd--realistic-dark-elf-urns-optional)
   - [15.15 Ancient Dwemer Metal (optional)](#1515-ancient-dwemer-metal-optional)
   - [15.16 HD Lava for Dawnguard (optional)](#1516-hd-lava-for-dawnguard-optional)
+- [16. Clutter](#16-clutter)
+  - [16.1 Forgotten Retex Project](#161-forgotten-retex-project)
+  - [16.2 Aetherial Crown by Saerileth – Plugin Replacer](#162-aetherial-crown-by-saerileth--plugin-replacer)
+  - [16.3 Skyrim 3D Misc (optional)](#163-skyrim-3d-misc-optional)
+  - [16.4 RUSTIC CLUTTER COLLECTION (optional)](#164-rustic-clutter-collection-optional)
+  - [16.5 Rudy HQ – Miscellaneous (optional)](#165-rudy-hq--miscellaneous-optional)
+  - [16.6 Frankly HD Dragon Bones (optional)](#166-frankly-hd-dragon-bones-optional)
+  - [16.7 Medieval Silverworks (optional)](#167-medieval-silverworks-optional)
+  - [16.8 Book Covers Skyrim (BCS)](#168-book-covers-skyrim-bcs)
+  - [16.9 Realistic Paper (optional)](#169-realistic-paper-optional)
+  - [16.10 MAPS (optional)](#1610-maps-optional)
+  - [16.11 Business Ledger HD Retexture (optional)](#1611-business-ledger-hd-retexture-optional)
+  - [16.12 JS Dragon Claws (optional)](#1612-js-dragon-claws-optional)
+  - [16.13 JS Dragon Claws – Patches (optional)](#1613-js-dragon-claws--patches-optional)
+  - [16.14 RUSTIC SOULGEMS](#1614-rustic-soulgems)
+  - [16.15 RUSTIC AZURAS STAR (optional)](#1615-rustic-azuras-star-optional)
+  - [16.16 ElSopa HD – Meridia’s Beacon (optional)](#1616-elsopa-hd--meridias-beacon-optional)
+  - [16.17 RUSTIC ELDERSCROLL (optional)](#1617-rustic-elderscroll-optional)
+  - [16.18 RUSTIC ANIMATED POTIONS AND POISONS (optional)](#1618-rustic-animated-potions-and-poisons-optional)
+  - [16.19 Rally's Werewolf Totems (optional)](#1619-rallys-werewolf-totems-optional)
+  - [16.20 BLOODSTONE CHALICE REBORN (optional)](#1620-bloodstone-chalice-reborn-optional)
+- [17. Food & Ingredients](#17-food--ingredients)
+  - [17.1 High Quality Food and Ingredients SE (optional)](#171-high-quality-food-and-ingredients-se-optional)
+  - [17.2 Medieval Spirits (optional)](#172-medieval-spirits-optional)
+  - [17.3 Boiled Creme Treat Sweet Roll and Pie (optional)](#173-boiled-creme-treat-sweet-roll-and-pie-optional)
+  - [17.4 Honey Pot (optional)](#174-honey-pot-optional)
+  - [17.5 HD Sabre Cat Tooth (optional)](#175-hd-sabre-cat-tooth-optional)
+  - [17.6 Falmer Ear and Hagraven Claw (optional)](#176-falmer-ear-and-hagraven-claw-optional)
+  - [17.7 ElSopa HD – Briar Heart (optional)](#177-elsopa-hd--briar-heart-optional)
+- [18. Clothes & Jewellery](#18-clothes--jewellery)
+  - [18.1 RUSTIC CLOTHING](#181-rustic-clothing)
+  - [18.2 Prince and the Pauper](#182-prince-and-the-pauper)
+  - [18.3 Gemling Queen Jewelry (optional)](#183-gemling-queen-jewelry-optional)
+  - [18.4 JS Circlet Replacer (optional)](#184-js-circlet-replacer-optional)
+  - [18.5 The Divine Amulets Retexture (optional)](#185-the-divine-amulets-retexture-optional)
+  - [18.6 Better Looking Amulets (optional)](#186-better-looking-amulets-optional)
+  - [18.7 ElSopa HD – Akatosh Amulet (optional)](#187-elsopa-hd--akatosh-amulet-optional)
+  - [18.8 ElSopa HD – Bonehawk Amulet (optional)](#188-elsopa-hd--bonehawk-amulet-optional)
+  - [18.9 JS Barenziah (optional)](#189-js-barenziah-optional)
+- [19. Weapons & Armour](#19-weapons--armour)
+  - [19.1 RUSTIC ARMOR AND WEAPONS (RAW) (optional)](#191-rustic-armor-and-weapons-raw-optional)
+  - [19.2 Practical Female Armors (optional)](#192-practical-female-armors-optional)
+  - [19.3 Warmth – Light Armor Replacer (optional)](#193-warmth--light-armor-replacer-optional)
+  - [19.4 aMidianBorn of Silence – Armors](#194-amidianborn-of-silence--armors)
+  - [19.5 aMidianBorn Blade Armor SSE Patch](#195-amidianborn-blade-armor-sse-patch)
+  - [19.6 aMidianBorn Book of Silence – Weapons](#196-amidianborn-book-of-silence--weapons)
+  - [19.7 Frankly HD Silver Sword](#197-frankly-hd-silver-sword)
+  - [19.8 LeanWolf’s Better-Shaped Weapons](#198-leanwolfs-better-shaped-weapons)
+  - [19.9 Open Face Guard Helmets (optional)](#199-open-face-guard-helmets-optional)
+  - [19.10 Open Face Guard Helmets – Plugin Replacer (optional)](#1910-open-face-guard-helmets--plugin-replacer-optional)
+  - [19.11 Frankly HD Stormcloaks and City Guards (optional)](#1911-frankly-hd-stormcloaks-and-city-guards-optional)
+  - [19.12 aMidianBorn Stormcloak Officer Armour (optional)](#1912-amidianborn-stormcloak-officer-armour-optional)
+  - [19.13 Frankly HD Imperial Armor and Weapons](#1913-frankly-hd-imperial-armor-and-weapons)
+  - [19.14 Frankly HD Dawnguard Armor and Weapons (optional)](#1914-frankly-hd-dawnguard-armor-and-weapons-optional)
+  - [19.15 Iron Things (optional)](#1915-iron-things-optional)
+  - [19.16 Elven Weapons for Silence (optional)](#1916-elven-weapons-for-silence-optional)
+  - [19.17 CC’s HD Dwemer Weapons and Armor (optional)](#1917-ccs-hd-dwemer-weapons-and-armor-optional)
+  - [19.18 Frankly HD Thieves Guild Armor (optional)](#1918-frankly-hd-thieves-guild-armor-optional)
+  - [19.19 Frankly HD Shrouded Armor (optional)](#1919-frankly-hd-shrouded-armor-optional)
+  - [19.20 Falmer Weapons for aMidianBorn Book of Silence (optional)](#1920-falmer-weapons-for-amidianborn-book-of-silence-optional)
+  - [19.21 Outlandish Stalhrim (optional)](#1921-outlandish-stalhrim-optional)
+  - [19.22 Outlandish Chitin Armour (optional)](#1922-outlandish-chitin-armour-optional)
+  - [19.23 Ebony Weapons 2017 Retexture (optional)](#1923-ebony-weapons-2017-retexture-optional)
+  - [19.24 Frankly HD Dragonbone and Dragonscale (optional)](#1924-frankly-hd-dragonbone-and-dragonscale-optional)
+  - [19.25 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1925-sunhallowed-and-bloodcursed-arrows--hd-retexture)
+  - [19.26 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
 
 # 01. Essential Mods
 
@@ -364,7 +430,7 @@
 
 > The first mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D.  Deleting the second mesh will allow you to use a different retexture for the gate.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 02. Fixes
 
@@ -608,7 +674,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 - **Main File** - ActorLimitPlugin v2
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 03. Tweaks
 
@@ -794,7 +860,7 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 
 - **Main File** - Uninterrupted Ethereal Form v2
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 04. Interface
 
@@ -1116,7 +1182,7 @@ Below are my personal choices. Feel free to make your own!
 
 - **Main File** - Time on loading v5
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 05. Main Visual Mods
 
@@ -1330,7 +1396,7 @@ Below are my personal choices. Feel free to make your own!
   * ~~Morph Files (Body)~~
   * ~~Morph Files (Outfits)~~
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 06. Weather
 
@@ -1433,7 +1499,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 - **Select Transpareny:** 95% (Personal Choice)
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 07. Lighting
 
@@ -1574,7 +1640,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 * **Optional Files** - KD - Realistic Fireplaces - Charred Logs 2K
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 08. Visual FX
 
@@ -1696,7 +1762,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 * **Main Files** - GlowBeGoneSSE-Updated
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 09. Landscape
 
@@ -2009,7 +2075,7 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 * **Main Files** - Immersive Dawnguard Dayspring Pass (IDDP)
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 10. Flora
 
@@ -2120,7 +2186,7 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 > Install this mod if you installed Immersive Fallen Trees. Otherwise skip it.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 11. Architecture
 
@@ -2270,7 +2336,7 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 * **Main File** – SSE 2K Textures
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 12. Misc Structures
 
@@ -2429,7 +2495,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 * **Main Files** – Astral Aspect – 2K – 1.4
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 13. Vanilla Locations
 
@@ -2611,7 +2677,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
   - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
   - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 14. Interiors
 
@@ -2675,7 +2741,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 * **Main Files** – JS Shrines of the Divines SE – 2K
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 15. Dungeons
 
@@ -2821,3 +2887,710 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 ### Download Instructions
 
 * **Main File** - HD Lava (4k)
+
+![separator](../Media/separator.png)
+
+# 16. Clutter
+
+## 16.1 [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Forgotten Retex Project
+
+### FOMOD Instructions
+
+* **Optional Files:** Draw Knife – with Carvings
+* **Optional Files:** Silver Mold – with Silver Frame
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\clutter\deadanimals\salmonmeat01.nif`
+  * `meshes\clutter\food\cookedsalmonsteak01.nif`
+  * `meshes\clutter\ingredients\beefmeatcooked.nif`
+  * `meshes\clutter\ingredients\pie01.nif`
+  * `meshes\clutter\kitchen\`
+  * `meshes\furniture\blacksmithforgemarker.nif`
+  * `meshes\furniture\blacksmithforgemarkerwr.nif`
+  * `meshes\furniture\blacksmithingskyforgemarker.nif`
+
+> The first five meshes conflict with and overwrite the arguably superior ones from Skyrim 3D Cooking.
+> The final three meshes overwrite Embers HD and prevent its forge textures from being applied.
+
+## 16.2 [Aetherial Crown by Saerileth – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23631?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Aetherial Crown – Plugin Replacer
+
+> The original mod is not required because the textures are included in Forgotten Retex Project.
+
+## 16.3 [Skyrim 3D Misc](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim 3D Misc – Giant Mortar and Pestle
+* **Main Files** – Skyrim 3D Misc – Mammoth Cheese
+* **Main Files** – Skyrim 3D Misc – Markarth Cage
+* **Main Files** – Skyrim 3D Misc – Tanning Rack
+* **Main Files** – Skyrim 3D Misc – Traps
+
+## 16.4 [RUSTIC CLUTTER COLLECTION](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC CLUTTER COLLECTION – Special Edition – 2K
+
+## 16.5 [Rudy HQ – Miscellaneous](https://www.nexusmods.com/skyrimspecialedition/mods/19867?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rudy HQ – Misc SE – The Rest
+
+## 16.6 [Frankly HD Dragon Bones](https://www.nexusmods.com/skyrimspecialedition/mods/25099?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Frankly HD Dragonbones 4k-2k
+
+## 16.7 [Medieval Silverworks](https://www.nexusmods.com/skyrimspecialedition/mods/23938?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Medieval Silverworks
+* **Miscellaneous Files** – Medieval Silverworks STAC Patch
+
+## 16.8 [Book Covers Skyrim (BCS)](https://www.nexusmods.com/skyrimspecialedition/mods/901?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Book Covers Skyrim SE – Desaturated
+
+## 16.9 [Realistic Paper](https://www.nexusmods.com/skyrim/mods/937?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Realistic Paper MAIN
+
+### Additional Instructions
+
+* Delete the following file:
+  * `textures\clutter\books\largebookpaper01.dds`
+
+> A much better texture is included with Book Covers Skyrim.
+
+## 16.10 [MAPS](https://www.nexusmods.com/skyrim/mods/66819?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – MAPS 2K
+
+## 16.11 [Business Ledger HD Retexture](https://www.nexusmods.com/skyrim/mods/38389?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Business Ledger HD Retexture
+
+## 16.12 [JS Dragon Claws ](https://www.nexusmods.com/skyrimspecialedition/mods/1394?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – 1k Textures
+
+## 16.13 [JS Dragon Claws – Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23833?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – JS Dragon Claws – Amethyst Patch
+
+> Only install this mods if you installed **JS Dragon Claws**. Otherwise skip it.
+
+## 16.14 [RUSTIC SOULGEMS](https://www.nexusmods.com/skyrimspecialedition/mods/5785?tab=files)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC SOULGEMS – Special Edition – FOMOD – English Only
+
+### FOMOD Instructions
+
+* **Texture Resolution:**
+  * 1k Textures
+* **Plugin:**
+  * Sorted + ESL + GIST Patch
+
+## 16.15 [RUSTIC AZURAS STAR](https://www.nexusmods.com/skyrimspecialedition/mods/18345) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC AZURA’S STAR – SSE – 2K
+
+## 16.16 [ElSopa HD – Meridia’s Beacon](https://www.nexusmods.com/skyrimspecialedition/mods/22046) (optional)
+
+### Download Instructions
+
+* **Main Files** – 1K HD Meridias Beacon
+
+## 16.17 [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC ELDERSCROLL – Special Edition – 2K
+* **Optional Files** – ELDERSCROLL SSE – FX – 1K
+
+## 16.18 [RUSTIC ANIMATED POTIONS AND POISONS](https://www.nexusmods.com/skyrimspecialedition/mods/2276/) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC ANIMATED POTIONS and POISONS 1K
+* **Update Files** – SSE Meshes
+
+## 16.19 [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rallys Werewolf Totems HQ 2K-1K
+
+## 16.20 [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551/) (optional)
+
+### Download Instructions
+
+* **Main Files** – BLOODSTONE CHALICE REBORN 1K
+
+![separator](../Media/separator.png)
+
+# 17. Food & Ingredients
+
+## 17.1 [High Quality Food and Ingredients SE](https://www.nexusmods.com/skyrimspecialedition/mods/10897?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – High Quality Food And Ingredients SE
+
+### FOMOD Instructions
+
+* **Select One:**
+  * Custom
+* **Options:**
+  * Baked Potatoes
+  * ~~Boiled Creme Treat~~
+  * ~~Bone Meal~~
+  * ~~Bread~~
+  * ~~Cabbage~~
+  * Carrots
+  * Charred Skeever Hide and Meat
+  * Chicken Breast
+  * ~~Chicken~~
+  * Cooked Beef
+  * Dead Hare
+  * Dead Pheasant
+  * Eider Cheese
+  * ~~Garlic~~
+  * Goat Cheese
+  * ~~Green Apple~~
+  * Grilled Chicken Breast
+  * Grilled Leaks
+  * Honey Nut Treat
+  * Long Taffy Treat
+  * ~~Mead~~
+  * ~~Moon Sugar~~
+  * ~~Mora Tapinella~~
+  * ~~Pie~~
+  * ~~Potatoes~~
+  * ~~Powdered Mannoth Tusk~~
+  * ~~Raw Beef~~
+  * ~~Red Apples~~
+  * Salmon Meat
+  * Salmon
+  * Salmon Steak
+  * ~~Salt Pile~~
+  * ~~Scaly Photiota~~
+  * Seared Slaugterfish
+  * Slaughterfish Scales
+  * ~~Sweet Roll~~
+  * Venison Chop
+  * Venison
+  * ~~Void Salts~~
+
+## 17.2 [Medieval Spirits](https://www.nexusmods.com/skyrimspecialedition/mods/24243?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Medieval Spirits
+
+## 17.3 [Boiled Creme Treat Sweet Roll and Pie](https://www.nexusmods.com/skyrimspecialedition/mods/9034?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Sweet Roll Boiled Creme Treat and Pie
+* **Optional Files** – MeatPie
+
+> The optional file retextures meat pies added by the USSEP which are not in fact vanilla food items.
+
+## 17.4 [Honey Pot](https://www.nexusmods.com/skyrimspecialedition/mods/3036?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Honey pot 1.3b Special Edition
+
+### FOMOD Instructions
+
+* **Core:** Honey dripped mesh
+* **Texture size:** 1k Texture
+
+## 17.5 [HD Sabre Cat Tooth](https://www.nexusmods.com/skyrimspecialedition/mods/9640?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Main File 1.0 (fixed normals thanks to renthal311 )
+
+## 17.6 [Falmer Ear and Hagraven Claw](https://www.nexusmods.com/skyrim/mods/74792?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Hagraven Claw
+* **Optional Files** – Falmer Ear 512
+
+## 17.7 [ElSopa HD – Briar Heart](https://www.nexusmods.com/skyrimspecialedition/mods/27983?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – ElSopa HD – Briarheart Red 512
+
+![separator](../Media/separator.png)
+
+# 18. Clothes & Jewellery
+
+## 18.1 [RUSTIC CLOTHING](https://www.nexusmods.com/skyrimspecialedition/mods/4703?tab=files)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC CLOTHING – Special Edition – 2K
+
+## 18.2 [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Prince and the Pauper SE 4.1
+
+### FOMOD Instructions
+
+* **Texture Options:** Rustic Clothing
+
+## 18.3 [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Gemling Queen Jewelry SE
+
+### FOMOD Instructions
+
+* **Main Modules:**
+  * Amulets
+  * ~~Circlets~~
+  * Rings
+* **DLC Addons:**
+  * Dawnguard Addon
+  * Dawnguard Addon – Unobtainable Items
+* **Amulet Textures:**
+  * Gamwich Amulet Textures – 512
+* **Ring Texture Options:**
+  * Gamwich Ring Textures – Combined – 1k
+* **Optional Mesh Packs:**
+  * None
+* **Optional Mesh Packs Dawnguard:**
+  * ~~Vampire Beast Blood Ring Left Hand~~
+
+### FOMOD Instructions
+
+The plugin contains one unnecessary edit to a scroll that can potentially conflict with other mods. We will delete the change.
+
+* Run **SSEEdit** through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all your mods.
+* Wait until SSEEdit returns `Background loader: finished`.
+* Find and double-click **GQJ_DG_vampireamuletfix.esp** in the left pane to expand the plugin.
+* Right-click **Scroll** and select **Remove**.
+* Close SSEEdit and click **OK** to save your changes.
+
+![Gemling Queen Jewelry - Delete Records in xEdit](..\Pictures\Mod Installation\Gemling Queen Jewelry - Delete Records in xEdit.png)
+
+## 18.4 [JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8686?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – JS Circlet Replacer
+
+### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE – Downsize Textures**).
+
+## 18.5 [The Divine Amulets Retexture](https://www.nexusmods.com/skyrim/mods/31731?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – The Divine Amulets Retexture – Dragonborn Amulets Final Version
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `textures\dlc02\armor\amulets\eastempirecompany\`
+
+## 18.6 [Better Looking Amulets](https://www.nexusmods.com/skyrimspecialedition/mods/10893?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Better Looking Amulets
+
+## 18.7 [ElSopa HD – Akatosh Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/24092?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – ElSopa HD – Akatosh Amulet 512
+
+## 18.8 [ElSopa HD – Bonehawk Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/21862?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – HS Bonehawk Amulet
+
+## 18.9 [JS Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22990?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – JS Barenziah SE – 2K Textures
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `JS Barenziah SE – Johnskyrim.esp`
+
+### About the mod
+
+ A similarly beautiful retexture of Barenziah’s Crown and the stones (made by Gamwich and Saerileth) is already included in Forgotten Retex Project. You can find screenshots of it [here on its original mod page](https://www.nexusmods.com/skyrim/mods/63902). Skip JS Barenziah if you prefer Gamwich and Saerileth’s retexture which you already have installed.
+
+ ![separator](../Media/separator.png)
+
+ # 19. Weapons & Armour
+
+## 19.1 [RUSTIC ARMOR AND WEAPONS (RAW)](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** RAW SSE 2K
+
+## 19.2 [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Practical Female Armors SE – All-In-One Installer – NMM BAIN
+
+### FOMOD Instructions
+
+* **Skyrim:**
+  * Steel Plate Armor
+  * Elven Light Armor
+  * Elven Armor
+  * Glass Armor
+  * ~~Dragon Scale Armor~~
+  * ~~Orcish Armor~~
+  * Ebony Armor
+  * Ebony Mail
+  * ~~Dragon Plate Armor~~
+  * ~~Ancient Nord Armor~~
+  * ~~Stormcloak Officer Armor~~
+  * Wolf Armor
+  * ~~Imperial Heavy Armor~~
+* **Dawnguard:**
+  * ~~Vampire Armor~~
+* **Dragonborn:**
+  * Chitin Heavy Armor
+  * Nordic Carved Armor
+* **Compatibility Patches:**
+  * ~~aMidianBorn Glass Variants~~
+  * ~~aMidianBorn Differently Ebony~~
+  * ~~Gilded Nordic Carved Armor~~
+  * ~~Bodyslide Presets~~
+  * ~~Ebony Armor Edit~~
+  * ~~aMidianBorn Content Addon~~
+  * ~~Sleeved Imperials~~
+
+## 19.3 [Warmth – Light Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2959?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Warmth – Light Armor Replacer
+
+### FOMOD Instructions
+
+* **Main:** Replace all armours.
+
+> There is no need to select the individual options at the bottom.
+
+## 19.4 [aMidianBorn of Silence – Armors](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
+
+### Download Instructions
+
+* **Main Files:** aMidianBorn book of silence_ARMORS
+
+### FOMOD Instructions
+
+* **Options:** Custom
+* **Iron and Banded:** Iron – White Fur
+* **Steel:** Steel
+* **Steel Plate:** Steel Plate
+* **Leather:** Leather
+* **Hide and Studded:** Hide
+* **Fur:** Fur
+* **Elven:** Elven – None
+* **Dwarven:** ~~Dwarven~~
+* **Ancient Nord:** Ancient Nord
+* **Orcish:** Orcish – Brighter
+* **Scaled:** Scaled – Brighter
+* **Wolf:** Wolf – Brown Fur
+* **Glass:** Glass – None
+* **Ebony:** Ebony – None
+* **Blades:** Blades
+* **Falmer:** Falmer
+
+> The Elven, Glass and Ebony options are skipped as they will be covered by the aMidianBorn Book of Silence – Content Addon later on.
+
+## 19.5 [aMidianBorn Blade Armor SSE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/12963?tab=files)
+
+### Download Instructions
+
+* **Main Files:** aMidianBorn Blades Armor SSE Patch
+
+## 19.6 [aMidianBorn Book of Silence – Weapons](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
+
+### Download Instructions
+
+* **Main Files:** aMidianBorn book of silence_WEAPONS
+
+### FOMOD Instructions
+
+* **Options:**
+  * Custom
+* **Weapons:**
+  * Draugr
+  * ~~Dwarven~~
+  * Iron
+  * Orcish
+  * ~~Silver~~
+  * ~~Skyforge~~
+  * Staves
+  * Steel
+
+### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `meshes\`
+
+> The meshes folder is completely empty but will cause MO2 to display that the mod contains meshes which may be confusing.
+
+## 19.7 [Frankly HD Silver Sword](https://www.nexusmods.com/skyrim/mods/29563?tab=files)
+
+### Download Instructions
+
+* **Optional Files:** UHSS – Main File Mid Res – 2k
+
+> No optimisation necessary as all meshes will be overwritten by the next mod.
+
+## 19.8 [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
+
+### Download Instructions
+
+* **Main Files:** LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
+
+### FOMOD Instructions
+
+- **All or Custom:**
+  - Install everything (default)
+- **Sheath Options:**
+  - Onehanded Sheaths
+  - Greatsword Sheaths
+- **Variants and Patches:**
+  - FrankFamily HD Imperial Armor and Weapons
+  - FrankFamily Ultra HD Silver Sword
+  - ~~Scimitar Bling~~
+  - Keening with Refraction
+  - ~~Runed Nord Hero Weapons~~
+- **Glass Refraction Options:**
+  - No Refraction
+- **Stalhrim Refraction Options:**
+  - No Refraction
+- **Dawnbreaker:**
+  - Dawnbreaker Sheath Elf
+- **Dawnbreaker ENB Option:**
+  - Dawnbreaker for ENB
+- **Dragonbone Options:**
+  - DragonBoring Weapons
+- **Left-hand Meshes:**
+  - No Dual Sheath
+
+## 19.9 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Open Face Guard Helmets
+
+## 19.10 [Open Face Guard Helmets – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Open Face Guard Helmets – Replacer Plugin
+
+> Install this mod if you installed Open Face Guard Helmets. Otherwise skip it.
+
+## 19.11 [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** UltraHD – Stormcloak and City Guards 2K version
+* **Optional Files:** Fix by SpriterSan for 2k version --- `merge with the main file`
+
+## 19.12 [aMidianBorn Stormcloak Officer Armour](https://www.nexusmods.com/skyrim/mods/45692?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** aMidianBorn Stormcloak officer
+
+## 19.13 [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files)
+
+### Download Instructions
+
+* **Main Files:** Frankly HD Imperial Armor And Weapons 2k
+* **Optional Files:** Frankly HD Imperial Armor And Weapons – Sleeves and Pants Edition
+
+### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `meshes\weapons\`
+
+## 19.14 [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** FranklyHD Dawnguard Armor and Weapons
+* **Optional Files:** Frankly HD Dawnguard Armor CBBE SE
+
+### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+
+## 19.15 [Iron Things](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Iron Things SE 1.2
+
+### Additional Instructions
+
+**This is optional.**
+
+Personally I prefer aMidianBorn’s retextures for the iron weapons for consistency’s sake, but I do like the Iron Things bow retexture (Imperial Bow) very much. The main file of Iron Things contains a fixed mesh for the bow. To use only the bow, follow the instructions below.
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\armor\`
+  * `meshes\weapons\iron\1stpersonironbattleaxe.nif`
+  * `meshes\weapons\iron\1stpersonironclaymore.nif`
+  * `meshes\weapons\iron\1stpersonirondagger.nif`
+  * `meshes\weapons\iron\1stpersonlongsword.nif`
+  * `meshes\weapons\iron\ironbattleaxe.nif`
+  * `meshes\weapons\iron\ironclaymore.nif`
+  * `meshes\weapons\iron\irondagger.nif`
+  * `meshes\weapons\iron\longsword.nif`
+
+> There is no need to delete the textures as well. They are in a custom directory that will only be accessed by the mod’s meshes and won’t overwrite any vanilla files or other retextures.
+
+## 19.16 [Elven Weapons for Silence ](https://www.nexusmods.com/skyrimspecialedition/mods/27994?tab=files)(optional)
+
+### Download Instructions
+
+* **Optional Files:** Leanwolf Elven – Default Silver
+
+## 19.17 [CC’s HD Dwemer Weapons and Armor ](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files:** CC’s HD Dwemer Weapons and Armor – 2K – 1.0
+
+## 19.18 [Frankly HD Thieves Guild Armor](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Frankly HD Thieves Guild Armors
+
+### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+
+## 19.19 [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Frankly HD Shrouded Armor _ 1.1
+
+### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+* **Options:** ~~Oblivion Style~~
+
+## 19.20 [Falmer Weapons for aMidianBorn Book of Silence](https://www.nexusmods.com/skyrim/mods/83950?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** falmerweapons4BoS
+
+## 19.21 [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Outlandish Stalhrim SSE
+* **Optional Files:** Outlandish Stalhrim SSE – Better Shaped Weapons Patch
+
+> If you want the vanilla blue colour back for Stalhrim armor, download the **Blue Cubemap** file from the Miscellaneous section.
+
+## 19.22 [Outlandish Chitin Armour](https://www.nexusmods.com/skyrim/mods/70681?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Outlandish Chitin Armour
+
+## 19.23 [Ebony Weapons 2017 Retexture ](https://www.nexusmods.com/skyrimspecialedition/mods/30029?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files:** Special Ebony Shiny Reflective Refractive Reshlective 2k 4k 5k 144Hz Immersive Overhaul Retexture Pack Collection Suite
+
+## 19.24 [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
+* **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch --- `merge with the main file`
+
+## 19.25 [Sunhallowed and Bloodcursed Arrows – HD Retexture](https://www.nexusmods.com/skyrim/mods/58118?tab=files)
+
+### Download Instructions
+
+* **Optional Files:** bloodcursed arrows 1k
+* **Optional Files:** Sunhallowed arrows 1k
+
+------
+
+### Porting Instructions
+
+* Run **Sunhallowed Arrows** through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+
+## 19.26 [Dragon Priest Weapons Improved](https://www.nexusmods.com/skyrim/mods/60075?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Dragon Priest Weapon Improved
+* **Update Files:** Quick Update --- `merge with the main file`
+
+### Porting Instructions
+
+* Run the mod through SSE NIF Optimizer.
+
+> Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliable fixes all meshes.

@@ -22,6 +22,7 @@
   - [Finalisation](#finalisation-2)
   - [Customisation](#customisation-2)
 - [Release 3.2 Beta 5](#release-32-beta-5)
+  - [Setup](#setup-3)
   - [Mod Installation](#mod-installation-4)
   - [Finalisation](#finalisation-3)
   - [New Game](#new-game-1)
@@ -293,6 +294,10 @@
 ![separator](Pictures/Separator.png)
 
 # Release 3.2 Beta 5
+
+## Setup
+
+- Moved the Mod Installation Instructions here (Step 10).
 
 ## Mod Installation
 

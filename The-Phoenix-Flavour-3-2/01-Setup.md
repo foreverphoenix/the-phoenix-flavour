@@ -1,4 +1,4 @@
-![Logo](Pictures/Logo%20Mockup.png)
+![Logo](../Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [01. Getting Started](#01-getting-started)
@@ -153,7 +153,7 @@ The difference between these folders is significant. Do not confuse them.
 | **root folder** | `Steam/steamapps/common/Skyrim Special Edition/`      | contains the executables |
 | **data folder** | `Steam/steamapps/common/Skyrim Special Edition/Data/` | contains the game files  |
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 02. Skyrim SE
 
@@ -252,7 +252,7 @@ Since disabling the Steam Overlay will also prevent you from taking screenshots 
 * Uncheck **Enable the Steam Overlay while in-game**.
 * Close the window.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 03. The Creation Kit
 
@@ -324,7 +324,7 @@ The Creation Kit installation includes a **Scripts.zip** which contains all sour
 - The resulting filepath should be:
   - `Skyrim Special Edition\Data\Scripts\Source`
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 04. Mod Organizer 2
 
@@ -482,7 +482,7 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **02 FIXES**
   * **…**
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 05. Skyrim Script Extender
 
@@ -540,7 +540,7 @@ If on the main page for SKSE there is a different version number than the one no
 
 ![Verify SKSE64](Pictures/Setup/verify_skse64.jpg)
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 06. INI Files
 
@@ -655,7 +655,7 @@ Continue with the ninth tab, **Custom**.
 - Restart Mod Organizer 2.
 - You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 07. Additional Tools
 
@@ -770,7 +770,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Open the downloaded archive.
 * Extract everything into the new folder.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 08. ESM Cleaning
 
@@ -890,7 +890,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 09. Skyrim Realistic Overhaul
 
@@ -950,7 +950,7 @@ In order to be able to control the mod order of SRO and ensure it can be overwri
 * **Skyrim Realistic Overhaul** should now appear at the bottom of your mod order.
 * Drag it up all the way below the **MAIN VISUAL MODS** separator and activate it.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # 10. Mod Installation Instructions
 
