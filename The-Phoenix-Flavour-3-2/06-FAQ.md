@@ -132,7 +132,7 @@ No.
 
 Maybe.
 
-Make sure the mod (or a comparable alternative) is not already part of the guide and that it fits our general Vanilla+ standards. Then check my dedicated **[Trello board](https://trello.com/b/Rv20fMdV/the-phoenix-flavour-additional-mods)** for mods that are already considered as potential additions. If your mod is not included there either, you are free to share it in our **#mod-suggestions** channel on Discord, preferably with an explanation as to why you would like to see it in the guide!
+Make sure the mod (or a comparable alternative) is not already part of the guide and that it fits our general Vanilla+ standards. Then check my dedicated **[Trello board](https://trello.com/b/Rv20fMdV/the-phoenix-flavour-additional-mods)** for mods that are already considered as potential additions. If your mod is not included there either, please submit it to our [Mod Suggestions Google Form](https://forms.gle/CeQ4ftmcwy2pQ7xa8)!
 
 #### Will The Phoenix Flavour ever include Needs / Survival mods?
 
