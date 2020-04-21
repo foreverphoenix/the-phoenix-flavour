@@ -12,6 +12,58 @@
   - [3.1 Notes](#31-notes)
   - [3.2 Mod Order](#32-mod-order)
   - [3.3 Recommendations](#33-recommendations)
+- [04. SkyUI Icon Replacer](#04-skyui-icon-replacer)
+  - [4.1 Notes](#41-notes)
+  - [4.2 Mod Order](#42-mod-order)
+  - [4.3 Inventory Category Icon Replacer](#43-inventory-category-icon-replacer)
+  - [4.4 Active Effects Icon Replacer](#44-active-effects-icon-replacer)
+- [05. Widescreen Support](#05-widescreen-support)
+  - [5.1 Notes](#51-notes)
+  - [5.2 Complete Widescreen Fix](#52-complete-widescreen-fix)
+  - [5.3 Remove QuickSave Button (optional)](#53-remove-quicksave-button-optional)
+- [06. Misc Mods](#06-misc-mods)
+  - [6.1 SkyUI Config Tweak - Equipped Items On Top (optional)](#61-skyui-config-tweak---equipped-items-on-top-optional)
+  - [6.2 Winterhold Statue - Animated with Light (optional)](#62-winterhold-statue---animated-with-light-optional)
+  - [6.3 DirtCliff Remaster (optional)](#63-dirtcliff-remaster-optional)
+  - [6.4 Trifle From Hiro – The Gate Solitude (optional)](#64-trifle-from-hiro--the-gate-solitude-optional)
+- [07. rougeshot's Skeleton Replacer](#07-rougeshots-skeleton-replacer)
+  - [7.1 About the mods](#71-about-the-mods)
+  - [7.2 Mod Order](#72-mod-order)
+  - [7.3 Already included](#73-already-included)
+  - [7.4 Can be added](#74-can-be-added)
+  - [7.5 Do not add](#75-do-not-add)
+- [08. Tree Tweaks](#08-tree-tweaks)
+  - [8.1 Notes](#81-notes)
+  - [8.2 Enhanced Vanilla Trees Tweaks](#82-enhanced-vanilla-trees-tweaks)
+  - [8.4 Green Aspen Trees](#84-green-aspen-trees)
+  - [8.5 Solstheim 3D Trees](#85-solstheim-3d-trees)
+  - [8.6 Whiterun Forest Borealis](#86-whiterun-forest-borealis)
+- [09. Arthmoor's New Towns](#09-arthmoors-new-towns)
+  - [9.1 The Dilemma](#91-the-dilemma)
+  - [9.2 Helarchen Creek (optional)](#92-helarchen-creek-optional)
+  - [9.3 Keld-Nar (optional)](#93-keld-nar-optional)
+  - [9.4 Simple Children - Keld-Nar Patch (optional)](#94-simple-children---keld-nar-patch-optional)
+  - [9.5 Telengard (optional)](#95-telengard-optional)
+  - [9.6 The Fall of Granite Hill (optional)](#96-the-fall-of-granite-hill-optional)
+  - [9.7 Oakwood (optional)](#97-oakwood-optional)
+  - [9.8 Landscape Fixes for Grass Mods - Oakwood (optional)](#98-landscape-fixes-for-grass-mods---oakwood-optional)
+  - [9.9 Arthmoor's Towns - Patch Pack](#99-arthmoors-towns---patch-pack)
+- [10. Removing ENB](#10-removing-enb)
+  - [10.1 Considerations](#101-considerations)
+  - [10.2 Getting rid of ENBSeries](#102-getting-rid-of-enbseries)
+  - [10.3 Related Mods](#103-related-mods)
+  - [10.4 INI Tweaks](#104-ini-tweaks)
+  - [10.5 Potential Replacements](#105-potential-replacements)
+- [11. Creation Club (WIP)](#11-creation-club-wip)
+  - [11.1 Official Stance](#111-official-stance)
+  - [11.2 Creations](#112-creations)
+  - [11.3 Saints & Seducers](#113-saints--seducers)
+- [12. DynDOLOD](#12-dyndolod)
+  - [12.1 Preparations](#121-preparations)
+  - [12.2 Running DynDOLOD](#122-running-dyndolod)
+  - [12.3 DynDOLOD Output](#123-dyndolod-output)
+
+![separator](../Media/separator.png)
 
 # 01. Preparations
 
@@ -90,7 +142,7 @@ Changing the primary font in Skyrim is not quite as simple as replacing `fonts_e
 
 The most popular and comprehensive font overhaul mod is **Sovngarde** which was created specifically for Skyrim SE. Before Sovngarde was released, I used and loved the **Fertigo Pro** font replacer and currently I am enjoying the simplicity of the **Roboto** font.
 
-I have compiled a list of font replacers that I like although you can find more on the Nexus. ==You can only use one of them at a time.==
+I have compiled a list of font replacers that I like although you can find more on the Nexus. **You can only use one of them at a time.**
 
 [Monospace fonts](https://en.wikipedia.org/wiki/Monospaced_font) are preferable since otherwise perk and inventory descriptions might be cut off. 
 
@@ -103,6 +155,7 @@ Irrelevant. I recommend grouping font replacers with the **INTERFACE** separator
 - [Sovngarde - Mist's Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files) - I highly recommend the "Light" version
 - [Main Font Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/14356?tab=files) - I recommend only the "Fertigo Pro" option
 - [Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files) - very clean, my current favourite
+- *Or search for more on the Nexus.*
 
 ![separator](../Media/separator.png)
 
@@ -437,7 +490,7 @@ It is therefore up to the individual user to decide what is more immersion-break
 
 > The record contains only one edit that is already made in the USSEP but overrides another one from Trade & Barter. The simplest solution is to just delete it.
 
-![Keld-Nar - Delete Record]
+![Keld-Nar - Delete Record](Pictures/customisation/keldnar_delete_record.png)
 
 ## 9.4 Simple Children - Keld-Nar Patch (optional)
 
@@ -527,3 +580,164 @@ It is therefore up to the individual user to decide what is more immersion-break
 
 - Place the mod below **Morrowloot Ultimate - INIGO Patch** in the mod order and active it.
 - Move all plugins below **MLU - Inigo.esp** in your load order.
+
+![separator](../Media/separator.png)
+
+# 10. Removing ENB
+
+## 10.1 Considerations
+
+### 10.1.1 Performance
+
+There are two reasons for removing ENBSeries: Either your machine has such low specs you cannot possibly run a preset while preserving an acceptable framerate, or you are among the few preferring vanilla visuals. Either way, by removing ENB you will most likely improve the game’s performance significantly.
+
+Keep in mind that it is possible to tweak ENB presets or swap to a less performance-hungry preset like The Truth ENB.
+
+You can also use the hotkey ingame to disable ENB completely without removing it outright. This will give you an idea of how the game would look and feel like without it. The default hotkey to toggle the effect is F12.
+
+### 10.1.2 What you will miss out on
+
+The obvious disadvantage of removing ENB is the improved visuals, snappier shadows, much improved Ambient Occlusion, more saturated colours and a bunch of ENB-exclusive features.
+
+One of those features is Complex Particle Lighting which is required for mods such as **ENB Light** and Rudy’s **More Lights for ENB** series of which most are included in The Phoenix Flavour. On the upside, you will also be able to lower the particle count when no longer using ENB Light which may improve performance further.
+
+### 10.1.3 Personal recommendation
+
+If you are considering to remove ENB because of the performance impact, I would definitely urge you to try other presets or tweak your  own to tone down the FPS loss. On all except the weakest systems, you should be able to reach mostly stable 60FPS with a (tweaked) ENB preset.
+
+## 10.2 Getting rid of ENBSeries
+
+* Open **ENB Man** (which we used to set up ENBSeries).
+* Double-click the **Skyrim SE** profile to open it.
+* Click the red button **Ø** at the bottom to remove all ENB related files (binaries, INIs, preset) from your root folder.
+* Close ENB Man.
+
+## 10.3 Related Mods
+
+Disable the following mods in your mod order:
+
+- ENB Light – QuickLight Patch
+- Rudy HQ – More Lights for ENB SE – Soul Gems for RUSTIC
+- Rudy HQ – More Lights for ENB SE – Moths
+- Rudy HQ – More Lights for ENB SE – Deathbells and Nirnroots
+- Rudy HQ – More Lights for ENB SE – Chaurus Eggs and Sacs
+- Rudy HQ – More Lights for ENB SE – Bthardamz
+- ENB Particle Lights – Dwemer Lanterns
+- ENB Helper SE
+
+> ENB Light cannot be disabled as it is required by the CRP. 
+>
+> The Skyrim Particle Patch (aka ENB Particle Patch) contains many improvements that you will benefit from with or without ENB which is why it should not be deactivated.
+
+## 10.4 INI Tweaks
+
+### 10.4.1 INI Editor
+
+Without ENBSeries, there are several graphical enhancements that can be forced directly in the game. These will give better performance (with lower quality) than similar effects that could be forced through ENB.
+
+In Mod Organizer 2, go to **Tools** > **INI Editor** in order to edit your INI files directly through MO2’s interface.
+
+### 10.4.2 Ambient Occlusion
+
+You now have the option to use Skyrim’s inbuilt Ambient  Occlusion (which has a performance impact of its own and does not look as good as ENB AO). Enabling Ambient Occlusion may result in a performance loss but not nearly as much as enabling ENB with AO would.
+
+In the [Display] section of your **SkyrimPrefs.ini**, change the following:
+
+`bSAOEnable=1`
+
+### 10.4.3 Particles
+
+ENB Light (and meshes utilising the ENB Complex Particle Lights  feature in general) required you to increase your particle count for  better visuals which may also potentially impact performance so we will reverse this.
+
+In the [Particles] section of your **SkyrimPrefs.ini**, change the following:
+
+`iMaxDesired=2000`
+
+## 10.5 Potential Replacements
+
+### 10.5.1 IMAGINATOR
+
+Even without ENBSeries there are ways to tweak the lighting and colours in your game to your liking. With the default guide setup, you can use the **Obsidian Weathers** MCM to tweak the general tone and colour settings. There are several presets to choose from.
+
+There is also the mod [IMAGINATOR](https://www.nexusmods.com/skyrimspecialedition/mods/4577) by Gopher, created to replace the colour customisation ENB offers. While it should not have a performance impact at all, it is not comparable to ENBSeries. For some people it may still be worth the performance gain. Feel free to try it out.
+
+Please note that IMAGINATOR is a not officially included in the guide, meaning I will provide no installation instructions and no support for issues with the mod.
+
+### 10.5.2 ReShade
+
+Unlike ENBSeries, ReShade was not specifically created for Skyrim SE and has no way to interact with the engine for advanced effects. It is however a very capable, customisable and performance-friendly FX injector that may replace ENBSeries for those with weaker hardware (or different preferences with regards to visuals).
+
+The [ReShade Framework](https://reshade.me/) is easy enough to install, however depending on your chose preset, you may require a certain version of it, or a specific set of shaders. To find presets, just search for **Reshade** on the  Special Edition Nexus. A word of warning though: There are still plenty of ENB-ReShade presets floating around which were made for both ENBSeries and ReShade to complement each other. Take care and read the mod page before installing.
+
+Creating your own preset is arguably easier to do than it is with ENBSeries. ReShade can also be edited and customised ingame.
+
+![separator](../Media/separator.png)
+
+# 11. Creation Club (WIP)
+
+## 11.1 Official Stance
+
+I am planning to officially support at least some "creations" in the future. Please check the list of "creations" here for more information on their compatibility with the guide.
+
+## 11.2 Creations
+
+| Name                  | Status         |
+| --------------------- | ------------   |
+| Saints & Seducers     | `incompatible` |
+
+## 11.3 Saints & Seducers
+
+This "creation" was added with the 1.5.97 update and came with some navmesh changes in Solitude. During the Setup of the guide, there are instructions to delete the new navmesh in order to prevent conflicts with other mods that can result in crashes.
+
+![separator](../Media/separator.png)
+
+# 12. DynDOLOD
+
+## 12.1 Preparations
+
+### 12.1.1 Old Output
+
+If you installed anything from **Tree Tweaks** or **Arthmoor's Towns**, you MUST re-generate LOD with DynDOLOD - either with 3D or regular tree LOD.
+
+- Re-running TexGen is **not required** so you can keep your **TexGen_Output** active.
+- Uncheck **DynDOLOD ({Preset})** in your mod order.
+
+### 12.1.2 Empty Cache
+
+- Navigate to `Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\cache`.
+- Delete everything inside (CTRL+A and DEL).
+
+### 12.1.3 Tree LOD Type
+
+- Navigate to `Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\`.
+- Open **DynDOLOD_SSE.ini** in Notepad++.
+- Find the following line: ==TreeLOD=<value>==.
+  - Set to 1 for regular tree LOD.
+  - Set to 0 for 3D tree LOD.
+
+## 12.2 Running DynDOLOD
+
+* Launch **DynDOLOD** through Mod Organizer 2.
+* A window will come up, click **Advanced**.
+* You can see a list of all worldspaces at the top. Right-click inside and **Select all**.
+* Select a preset:
+  * **Low** if you already struggle with performance.
+  * **Medium** as the default option plus regular tree LOD.
+  * **High** for modern machines and 3D tree LOD.
+* Under **Load rules for** check both **Candles** and **FXGlow**.
+* Double-check with the picture below that everything is configured correctly, then click **OK**.
+
+**Step away from your PC while DynDOLOD is working.**
+
+![DynDOLOD Settings](Pictures/finalisation/dyndolod_settings.png)
+
+## 12.3 DynDOLOD Output
+
+* Once DynDOLOD is done, click **Save & Exit**.
+* Go to `Your Modding Folder\Tools\DynDOLOD`.
+* Cut (CTRL+X) the **DynDOLOD_output** folder and paste it (CTRL+V) to `Mod Organizer 2\mods`.
+* Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
+* Rename the file and add the preset you selected, eg: `DynDOLOD - Customisation (Medium)`.
+* Place it last below the (deactivated) `DynDOLOD ({Preset})` and activate it.
+* Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
+* Leave **DynDOLOD.esp** at the very bottom as the last plugin.
