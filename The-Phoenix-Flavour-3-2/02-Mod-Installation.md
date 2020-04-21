@@ -418,6 +418,176 @@
   - [26.9 Thugs Not Assassins](#269-thugs-not-assassins)
   - [26.10 Nether’s Follower Framework (NFF)](#2610-nethers-follower-framework-nff)
   - [26.11 Adopt Aventus Aretino](#2611-adopt-aventus-aretino)
+- [27. Improved Vanilla Quests](#27-improved-vanilla-quests)
+  - [27.1 Timing Is Everything](#271-timing-is-everything)
+  - [27.2 Even Better Quest Objectives (EBQO)](#272-even-better-quest-objectives-ebqo)
+  - [27.3 Miscellaneous Quests … As Miscellaneous Quests (MQM)](#273-miscellaneous-quests--as-miscellaneous-quests-mqm)
+  - [27.4 A Lovely Letter – Alternate Route (optional)](#274-a-lovely-letter--alternate-route-optional)
+  - [27.5 Save the Icerunner - Lights Out Alternate Routes](#275-save-the-icerunner---lights-out-alternate-routes)
+  - [27.6 Finding Derkeethus](#276-finding-derkeethus)
+  - [27.7 Finding Helgi and Laelette – A Laid To Rest Overhaul](#277-finding-helgi-and-laelette--a-laid-to-rest-overhaul)
+  - [27.8 Finding Susanna Alive – A Blood on the Ice Trigger Revision (optional)](#278-finding-susanna-alive--a-blood-on-the-ice-trigger-revision-optional)
+  - [27.9 Gildergreen Regrown (optional)](#279-gildergreen-regrown-optional)
+  - [27.10 Improved Companions – Questline Tweaks (optional)](#2710-improved-companions--questline-tweaks-optional)
+  - [27.11 More Radiant Quests for the Companions](#2711-more-radiant-quests-for-the-companions)
+  - [27.12 No Thieves Guild Grind (optional)](#2712-no-thieves-guild-grind-optional)
+  - [27.13 Improved College Entry – Questline Tweaks](#2713-improved-college-entry--questline-tweaks)
+  - [27.14 Misc College of Winterhold Tweaks](#2714-misc-college-of-winterhold-tweaks)
+  - [27.15 Finding Velehk Sain](#2715-finding-velehk-sain)
+  - [27.16 The Paarthurnax Dilemma](#2716-the-paarthurnax-dilemma)
+  - [27.17 Castle Volkihar Rebuilt](#2717-castle-volkihar-rebuilt)
+- [28. Combat](#28-combat)
+  - [28.1 Wildcat – Combat of Skyrim](#281-wildcat--combat-of-skyrim)
+  - [28.2 Encounter Zones Unlocked (optional)](#282-encounter-zones-unlocked-optional)
+  - [28.3 Arena - An Encounter Zone Overhaul (optional)](#283-arena---an-encounter-zone-overhaul-optional)
+  - [28.4 Mortal Enemies (optional)](#284-mortal-enemies-optional)
+  - [28.5 Athletik Combat – Realistic Movement and Dodging (optional)](#285-athletik-combat--realistic-movement-and-dodging-optional)
+  - [28.6 Realistic Melee Range (optional)](#286-realistic-melee-range-optional)
+  - [28.7 No BS Projectile Dodge (optional)](#287-no-bs-projectile-dodge-optional)
+  - [28.8 Realistic AI Detection (optional)](#288-realistic-ai-detection-optional)
+  - [28.9 Simply Stronger Dragons (optional)](#289-simply-stronger-dragons-optional)
+  - [28.10 Improved Traps](#2810-improved-traps)
+  - [28.11 Disarming Traps Is Dangerous (optional)](#2811-disarming-traps-is-dangerous-optional)
+  - [28.12 VioLens – A Killmove Mod (optional)](#2812-violens--a-killmove-mod-optional)
+- [29. Balancing](#29-balancing)
+  - [29.1 Containers and Leveled Lists Fixes – Complete Loot Overhaul](#291-containers-and-leveled-lists-fixes--complete-loot-overhaul)
+  - [29.2 Lock Related Loot](#292-lock-related-loot)
+  - [29.3 Morrowloot Miscellania – Item Distribution](#293-morrowloot-miscellania--item-distribution)
+  - [29.4 Economy Overhaul and Speechcraft Improvements](#294-economy-overhaul-and-speechcraft-improvements)
+  - [29.5 Trade and Barter](#295-trade-and-barter)
+  - [29.6 Genuinely Intelligent Soul Traps (GIST)](#296-genuinely-intelligent-soul-traps-gist)
+  - [29.7 Skyrim Alchemy Fixed](#297-skyrim-alchemy-fixed)
+  - [29.8 Enchanting Adjustments and Price Bug Fix](#298-enchanting-adjustments-and-price-bug-fix)
+  - [29.9 More Expensive Transmute for Mysticism (optional)](#299-more-expensive-transmute-for-mysticism-optional)
+  - [29.10 Reliquary of Myth - Artifact Overhaul](#2910-reliquary-of-myth---artifact-overhaul)
+  - [29.11 Zim's Immersive Artifacts](#2911-zims-immersive-artifacts)
+  - [29.12 Unique Items Tweaks - Improved Less Known Artifacts](#2912-unique-items-tweaks---improved-less-known-artifacts)
+- [30. Immersion](#30-immersion)
+  - [30.1 Dragon Remains (optional)](#301-dragon-remains-optional)
+  - [30.2 Talkative Dragons (optional)](#302-talkative-dragons-optional)
+  - [30.3 Talkative Dragons – Audio Replacer (optional)](#303-talkative-dragons--audio-replacer-optional)
+  - [30.4 Durnehviir Resurrected (optional)](#304-durnehviir-resurrected-optional)
+  - [30.5 Improved Shadowmarks (optional)](#305-improved-shadowmarks-optional)
+  - [30.6 Keeper Carcette Survives](#306-keeper-carcette-survives)
+  - [30.7 Windhelm Segregation – Stay at New Gnisis Cornerclub (optional)](#307-windhelm-segregation--stay-at-new-gnisis-cornerclub-optional)
+  - [30.8 Alik’r Warriors Aren’t Welcome (optional)](#308-alikr-warriors-arent-welcome-optional)
+  - [30.9 Delphine’s Map Reveals Dragon Mounds (optional)](#309-delphines-map-reveals-dragon-mounds-optional)
+  - [30.10 Bring Meeko to Lod (optional)](#3010-bring-meeko-to-lod-optional)
+  - [30.11 Serana’s Blood Tomb Curse (optional)](#3011-seranas-blood-tomb-curse-optional)
+  - [30.12 Karstaag – The Frost King Reborn (optional)](#3012-karstaag--the-frost-king-reborn-optional)
+- [31. Quality of Life Improvements](#31-quality-of-life-improvements)
+  - [31.1 The Choice Is Yours (TCIY)](#311-the-choice-is-yours-tciy)
+  - [31.2 Whose Quest Is It Anyway (optional)](#312-whose-quest-is-it-anyway-optional)
+  - [31.3 Hide Those Futile Quests (optional)](#313-hide-those-futile-quests-optional)
+  - [31.4 Bounty Preview (optional)](#314-bounty-preview-optional)
+  - [31.5 Stackable Stones of Barenziah](#315-stackable-stones-of-barenziah)
+  - [31.6 Remember Lockpick Angle – Updated (optional)](#316-remember-lockpick-angle--updated-optional)
+  - [31.7 No Lockpick Activate – Updated (optional)](#317-no-lockpick-activate--updated-optional)
+  - [31.8 Yes I’m Sure (optional)](#318-yes-im-sure-optional)
+  - [31.9 More Informative Console](#319-more-informative-console)
+  - [31.10 Copy and Paste in Console (optional)](#3110-copy-and-paste-in-console-optional)
+  - [31.11 Keyboard Shortcuts Fix (optional)](#3111-keyboard-shortcuts-fix-optional)
+  - [31.12 Classic Sprinting Redone (optional)](#3112-classic-sprinting-redone-optional)
+  - [31.13 Better Jumping (optional)](#3113-better-jumping-optional)
+- [32. New Quests & Locations](#32-new-quests--locations)
+  - [32.1 The Forgotten City](#321-the-forgotten-city)
+  - [32.2 The Forgotten City – No Audio Books (optional)](#322-the-forgotten-city--no-audio-books-optional)
+  - [32.3 The Tools of Kagrenac](#323-the-tools-of-kagrenac)
+  - [32.4 It Beats For Her (optional)](#324-it-beats-for-her-optional)
+  - [32.5 Provincial Courier Service](#325-provincial-courier-service)
+  - [32.6 Unique Border Gates](#326-unique-border-gates)
+  - [32.7 Solstheim Lighthouse (optional)](#327-solstheim-lighthouse-optional)
+  - [32.8 Solstheim – Skaal Fishing Camp (optional)](#328-solstheim--skaal-fishing-camp-optional)
+- [33. New NPCs & Companions](#33-new-npcs--companions)
+  - [33.1 DIVERSE SKYRIM](#331-diverse-skyrim)
+  - [33.2 DIVERSE SKYRIM – Ethereal Elven Overhaul Patch](#332-diverse-skyrim--ethereal-elven-overhaul-patch)
+  - [33.3 Interesting NPCs (3DNPC)](#333-interesting-npcs-3dnpc)
+  - [33.4 Interesting NPCs - Zora Fair-Child Voice Enhanced (optional](#334-interesting-npcs---zora-fair-child-voice-enhanced-optional)
+  - [33.5 Cuyima Interesting NPCs (optional)](#335-cuyima-interesting-npcs-optional)
+  - [33.6 Immersive College NPCs](#336-immersive-college-npcs)
+  - [33.7 Inigo](#337-inigo)
+  - [33.8 Morrowloot Ultimate - INIGO Patch](#338-morrowloot-ultimate---inigo-patch)
+  - [33.9 Inigo Whistle Key (optional)](#339-inigo-whistle-key-optional)
+  - [33.10 Lucien – Fully Voiced Follower](#3310-lucien--fully-voiced-follower)
+  - [33.11 Pandorable’s Lucien Replacer (optional)](#3311-pandorables-lucien-replacer-optional)
+- [34. New Encounters & Creatures](#34-new-encounters--creatures)
+  - [34.1 Immersive Patrols (optional)](#341-immersive-patrols-optional)
+  - [34.2 Immersive Patrols Simplified (optional)](#342-immersive-patrols-simplified-optional)
+  - [34.3 Diverse Dragon Collection (DDC) (optional)](#343-diverse-dragon-collection-ddc-optional)
+  - [34.4 Diverse Werewolves Collection (DWC)](#344-diverse-werewolves-collection-dwc)
+  - [34.5 More Werewolves (optional)](#345-more-werewolves-optional)
+  - [34.6 Falkreath Hauntings (optional)](#346-falkreath-hauntings-optional)
+  - [34.7 Dwemer Spectres (optional)](#347-dwemer-spectres-optional)
+  - [34.8 Dwemer Spectres – EBT No Bleeding and Other Fixes (optional)](#348-dwemer-spectres--ebt-no-bleeding-and-other-fixes-optional)
+  - [34.9 Beast Skeletons (optional)](#349-beast-skeletons-optional)
+  - [34.10 Beast Skeletons - Plugin Replacer (optional)](#3410-beast-skeletons---plugin-replacer-optional)
+  - [34.11 Cannibal Draugr on Solstheim (optional)](#3411-cannibal-draugr-on-solstheim-optional)
+  - [34.12 The Blood Horker (optional)](#3412-the-blood-horker-optional)
+  - [34.13 Cliff Racers of Solstheim (optional)](#3413-cliff-racers-of-solstheim-optional)
+- [35. New Items & Equipment](#35-new-items--equipment)
+  - [35.1 Armor and Clothing Extension (ACE)](#351-armor-and-clothing-extension-ace)
+  - [35.2 Armor and Clothing Extension – MCM Fix](#352-armor-and-clothing-extension--mcm-fix)
+  - [35.3 Weapons Armor Clothing and Clutter Fixes – CBBE Patch](#353-weapons-armor-clothing-and-clutter-fixes--cbbe-patch)
+  - [35.4 aMidianBorn Content Addon](#354-amidianborn-content-addon)
+  - [35.5 aMidianBorn Content Addon – Plugin Replacer](#355-amidianborn-content-addon--plugin-replacer)
+  - [35.6 Practical Female Armors - AMB Content Addon](#356-practical-female-armors---amb-content-addon)
+  - [35.7 Common Clothes and Armors](#357-common-clothes-and-armors)
+  - [35.8 Common Clothes and Armors – CBBE Patch](#358-common-clothes-and-armors--cbbe-patch)
+  - [35.9 Cloaks of Skyrim](#359-cloaks-of-skyrim)
+  - [35.10 Cloaks of Skyrim – MLU-Friendly Fixes](#3510-cloaks-of-skyrim--mlu-friendly-fixes)
+  - [35.11 Cloaks of the Nords (optional)](#3511-cloaks-of-the-nords-optional)
+  - [35.12 Rally’s Five Cities Cloaks (optional)](#3512-rallys-five-cities-cloaks-optional)
+  - [35.13 Morrowloot Miscellania – Ancient Nordic Hero Weapons (optional)](#3513-morrowloot-miscellania--ancient-nordic-hero-weapons-optional)
+  - [35.14 Armor of Yngol](#3514-armor-of-yngol)
+  - [35.15 Unique Scimitars](#3515-unique-scimitars)
+  - [35.16 Kthonia’s Unique Weapon Pack – Dragonborn Weapons (optional)](#3516-kthonias-unique-weapon-pack--dragonborn-weapons-optional)
+- [36. New Mechanics & Features](#36-new-mechanics--features)
+  - [36.1 Simply Knock (optional)](#361-simply-knock-optional)
+  - [36.2 Simply Knock SKSE64 DLL (optional)](#362-simply-knock-skse64-dll-optional)
+  - [36.3 Quick Light (optional)](#363-quick-light-optional)
+  - [36.4 ENB Light – Quick Light Patch (optional)](#364-enb-light--quick-light-patch-optional)
+  - [36.5 Trua – Minimalistic Faiths of Skyrim (optional)](#365-trua--minimalistic-faiths-of-skyrim-optional)
+  - [36.6 Choose Your Own Arch-Mage](#366-choose-your-own-arch-mage)
+- [37. Sounds & Music](#37-sounds--music)
+  - [37.1 Audio Overhaul for Skyrim (AOS)](#371-audio-overhaul-for-skyrim-aos)
+  - [37.2 Improved Horse Step Sounds (optional)](#372-improved-horse-step-sounds-optional)
+  - [37.3 Heart of the Beast – Werewolf Sound and Texture Overhaul (optional)](#373-heart-of-the-beast--werewolf-sound-and-texture-overhaul-optional)
+  - [37.4 Realistic Husky Sounds (optional)](#374-realistic-husky-sounds-optional)
+  - [37.5 OMINOUS Dragon Soul Absorb Music (optional)](#375-ominous-dragon-soul-absorb-music-optional)
+  - [37.6 Soultrap Sound Edit – Calm Wind (optional)](#376-soultrap-sound-edit--calm-wind-optional)
+  - [37.7 Lower Sounding Thieves Guild Door (optional)](#377-lower-sounding-thieves-guild-door-optional)
+- [38. ENB Particle Lights](#38-enb-particle-lights)
+  - [38.1 ENB Light](#381-enb-light)
+  - [38.2 ENB Particle Lights – Dwemer Lanterns (optional)](#382-enb-particle-lights--dwemer-lanterns-optional)
+  - [38.3 Rudy HQ – More Lights for ENB – Soul Gems (optional)](#383-rudy-hq--more-lights-for-enb--soul-gems-optional)
+  - [38.4 Rudy HQ – More Lights for ENB – Deathbells and Nirnroots (optional)](#384-rudy-hq--more-lights-for-enb--deathbells-and-nirnroots-optional)
+  - [38.5 Rudy HQ – More Lights for ENB – Moths (optional)](#385-rudy-hq--more-lights-for-enb--moths-optional)
+  - [38.6 Rudy HQ – More Lights for ENB – Chaurus Eggs and Sacs (optional)](#386-rudy-hq--more-lights-for-enb--chaurus-eggs-and-sacs-optional)
+  - [38.7 Rudy HQ – More Lights for ENB – Bthardamz (optional)](#387-rudy-hq--more-lights-for-enb--bthardamz-optional)
+- [39 // SKELETON & ANIMATIONS](#39--skeleton--animations)
+  - [39.1 Fores New Idles in Skyrim (FNIS)](#391-fores-new-idles-in-skyrim-fnis)
+  - [39.2 XP32 Maximum Skeleton Special Extended (XPMSSE)](#392-xp32-maximum-skeleton-special-extended-xpmsse)
+  - [39.3 All Geared Up Derivative (AllGUD)](#393-all-geared-up-derivative-allgud)
+  - [39.4 No Heavy Muscular Walk and Idle (optional)](#394-no-heavy-muscular-walk-and-idle-optional)
+  - [39.5 3rd Person Dual Wielding Fix (optional)](#395-3rd-person-dual-wielding-fix-optional)
+  - [39.6 D13 Faster GET UP STAND UP Animation (optional)](#396-d13-faster-get-up-stand-up-animation-optional)
+  - [39.7 Dragon Animations Replacer (optional)](#397-dragon-animations-replacer-optional)
+  - [39.8 Immersive Dragons (optional)](#398-immersive-dragons-optional)
+  - [39.9 Supreme Vampire Lord (optional)](#399-supreme-vampire-lord-optional)
+  - [39.10 Werewolf Claws Affect Spider Webs (optional)](#3910-werewolf-claws-affect-spider-webs-optional)
+- [40. Utilities](#40-utilities)
+  - [40.1 Private Profile Redirector (optional)](#401-private-profile-redirector-optional)
+  - [40.2 PapyrusUtil](#402-papyrusutil)
+  - [40.3 JContainers](#403-jcontainers)
+  - [40.4 Papyrus Extender](#404-papyrus-extender)
+  - [40.5 FileAccess Interface for Skyrim SE Scripts (FISSES)](#405-fileaccess-interface-for-skyrim-se-scripts-fisses)
+  - [40.6 FISSES ESL-ified Patch](#406-fisses-esl-ified-patch)
+  - [40.7 Scaleform Translation Plus Plus](#407-scaleform-translation-plus-plus)
+  - [40.8 UIExtensions](#408-uiextensions)
+  - [40.9 ConsoleUtils](#409-consoleutils)
+  - [40.10 ENB Helper](#4010-enb-helper)
+  - [40.11 Fuz Ro D-oh – Silent Voice](#4011-fuz-ro-d-oh--silent-voice)
+  - [40.12 Console Commands Extender (optional)](#4012-console-commands-extender-optional)
 
 # 01. Essential Mods
 
@@ -4784,3 +4954,1423 @@ A number of (vanilla) features can be disabled through GDO console commands.
 ### Download Instructions
 
 * **Main Files** – Adopt Aventus Aretino
+
+![separator](../Media/separator.png)
+
+# 27. Improved Vanilla Quests
+
+## 27.1 [Timing Is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Timing is Everything SE – FISS version
+
+## 27.2 [Even Better Quest Objectives (EBQO)](https://www.nexusmods.com/skyrimspecialedition/mods/159?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Even Better Quest Objectives SE v1.8.4
+
+### FOMOD Instructions
+
+* **Optional Files:**
+  * ~~Dark Brotherhood Forever to Miscellaneous Quests~~ 
+* **Mod Patches:**
+  * Alternate Start – Live Another Life by Arthmoor
+  * ~~Amazing Follower Tweaks by Dheuster~~
+  * ~~aMidianborn Skyforge Weapons by CaBal~~
+  * ~~Better Skill and Quest Book Names by kevkas~~
+  * Book Covers Skyrim
+  * ~~Cutting Room Floor by Arthmoor~~
+  * ~~Dark Brotherhood for Good Guys~~
+  * ~~Extensible Follower Framework by Expired~~
+  * ~~Legacy of the Dragonborn SSE~~
+  * ~~Namira for Good Guys~~
+  * ~~Perkus Maximus SSE by T3nd0~~
+  * ~~Skyrim Redone by T3nd0~~
+  * The Paarthurnax Dilemma by Arthmoor
+  * ~~Thieves Guild For Good Guys~~
+  * ~~Wintersun – Faiths of Skyrim~~
+  * ~~Yet Another Skyrim Hardcore Mod (YASH)~~
+
+## 27.3 [Miscellaneous Quests … As Miscellaneous Quests (MQM)](https://www.nexusmods.com/skyrimspecialedition/mods/11626?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Miscellaneous Quests…as Miscellaneous Quests
+
+## 27.4 [A Lovely Letter – Alternate Route](https://www.nexusmods.com/skyrimspecialedition/mods/21916?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – A Lovely Letter Alternate Routes
+
+## 27.5 [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681?tab=files) 
+
+### Download Instructions
+
+* **Main File** – Save the Icerunner
+
+## 27.6 [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Finding Derkeethus
+
+### FOMOD Instructions
+
+* **Objective Patches:** None
+
+> If the EBQO patches are greyed out it’s because you haven’t activated that mod yet and the plugin was not detected. This is irrelevant since the conflicts between EBQO and Finding Derkeethus are covered in the TPF Conflict Resolution Patch and you should simply click Install without changing anything.
+
+## 27.7 [Finding Helgi and Laelette – A Laid To Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Finding Helgi and Laelette
+
+### FOMOD Instructions
+
+* Change nothing, click **Install**.
+
+## 27.8 [Finding Susanna Alive – A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Finding Susanna Alive
+
+### FOMOD Instructions
+
+* Change nothing, click **Install**.
+
+## 27.9 [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Gildergreen Regrown
+
+## 27.10 [Improved Companions – Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Companions Questline Tweaks
+
+## 27.11 [More Radiant Quests for the Companions](https://www.nexusmods.com/skyrimspecialedition/mods/24144?tab=files)
+
+### Download Instructions
+
+* **Main Files** – More Radiant Quests for the Companions
+
+### FOMOD Instructions
+
+* **Select your option:** Option 1 (see description)
+
+## 27.12 [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – No TG Grind
+
+## 27.13 [Improved College Entry – Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Improved College Entry
+
+## 27.14 [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Misc. College of Winterhold Tweaks
+
+### FOMOD Instructions
+
+* Simply click **Install**, we will reinstall the mod later on to pick the correct options.
+
+## 27.15 [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Finding Velehk Sain
+
+### FOMOD Instructions
+
+* Change nothing, click **Install**.
+
+## 27.16 [The Paarthurnax Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/365?tab=files)
+
+### Download Instructions
+
+* **Main Files** – The Paarthurnax Dilemma
+
+## 27.17 [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Castle Volkihar Rebuilt
+
+![separator](../Media/separator.png)
+
+# 28. Combat
+
+## 28.1 [Wildcat – Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Wildcat v700
+
+## 28.2 [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Encounter Zones Unlocked SE
+
+## 28.3 [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Arena - An Encounter Zone Overhaul
+
+## 28.4 [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Mortal Enemies SE – Rival Remix – No Run Walk Changes
+
+## 28.5 [Athletik Combat – Realistic Movement and Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/1151?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Athletik Combat
+
+> To clarify, this mod tweaks movement speed during combat (while blocking, retreating, side-stepping, and so on). It does NOT add a hotkeyed, animated dodging functionality.
+
+## 28.6 [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Realistic Melee Range
+
+## 28.7 [No BS Projectile Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/1763?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – No BS AI Projectile Dodge
+
+## 28.8 [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Realistic AI Detection 2 SE – Lite
+
+## 28.9 [Simply Stronger Dragons ](https://www.nexusmods.com/skyrimspecialedition/mods/9917?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Simply Stronger Dragons
+
+### FOMOD Instructions
+
+* Change nothing, just click **Install**.
+
+> This mod has a BAIN installer that looks different to regular FOMODs.
+
+### Additional Instructions
+
+If you also installed **Mortal Enemies**, there will be a conflict between the two mods in the **DragonRace** record. It’s fairly quick and easy to fix so there I am not uploading a separate patch. Follow the instructions below.
+
+* Run **SSEEdit** through Mod Organizer 2.
+* Click **OK** when the plugin selection window comes up to load all plugins.
+* Wait until **SSEEdit** returns `Background Loader: finished` before you proceed.
+* Scroll down in the left pane until you find **Simply Stronger Dragons.esp** and double-click the plugin.
+* Double-click the **Race** category and select the **DragonRace** record inside.
+* Scroll down to where the conflict is located (Angular Acceleration Rate, the value is increased by Mortal Enemies to prevent dragons from spinning around unreasonably fast).
+* Simply drag the conflicting value from the **Mortal Enemies** plugin into **Simply Stronger Dragons** (see picture below).
+* When the warning window pops up, click **Yes, I’m sure**.
+* The **DragonRace** record will turn green, confirming that no unresolved conflicts remain, and you can close **SSEEdit**.
+* Click **OK** to save your changes.
+
+![Fix Conflict between Mortal Enemies and Simply Stronger Dragons](Pictures/mod_installation/simply_smaller_wolves_conflict_2.png)
+
+## 28.10 [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Improved Traps (Dangerous Edition)
+
+## 28.11 [Disarming Traps Is Dangerous](https://www.nexusmods.com/skyrimspecialedition/mods/21691?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Disarming Traps Is Dangerous ESL Version
+
+### Additional Instructions
+
+* Double-click **Disarming Traps Is Dangerous** in your mod order.
+* Switch to the **Filetree** tab and rename the plugin:
+  * DisarmingTrapsIsDangerous.**esp**
+
+> This is faster than downloading and ESL-ifying the ESP version.
+
+## 28.12 [VioLens – A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – VioLens – A Killmove Mod SE 2.22a
+
+### FOMOD Instructions
+
+* Change nothing, simply click **Install**.
+
+### About the mod
+
+Even if you’re not looking to change anything about kill cams in general, VioLens is still very useful for toggling off kill cams against the player character. These often happen in situation where you could have survived the hit but because the kill cam triggers you instantly die which is especially annoying in (modded) lethal and fast-paced combat (which is achievable with the TPF setup).
+
+You can also use VioLens to disable kill cams altogether which I usually do.
+
+![separator](../Media/separator.png)
+
+# 29. Balancing
+
+## 29.1 [Containers and Leveled Lists Fixes – Complete Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26575?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Containers and Leveled Lists Fixes 1.2.3
+* **Optional Files** – CLLF – Lock Related Loot Addon 1.2
+
+## 29.2 [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Lock Related Loot
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `LockRelatedLoot.esp`
+
+## 29.3 [Morrowloot Miscellania – Item Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Morrowloot Miscellania – Item Distribution
+
+## 29.4 [Economy Overhaul and Speechcraft Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/9542?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Economy Overhaul and Speechcraft Improvements 3.0 Fomod Installer
+
+### FOMOD Instructions
+
+* **Mod Version:**
+  * Lite Version
+* **Patches:** 
+  * ~~Weapons Armor Clothing and Clutter Fixes Patch~~
+  * ~~Cutting Room Floor Patch~~
+  * ~~Missives Patch~~
+  * ~~Even Better Quest Objectives Patch~~
+  * ~~Quests Are In Skyrim Patch~~
+
+> All conflicts between this mod and other mods included in the guide are already covered on the TPF CRP.
+
+## 29.5 [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Trade and Barter SE
+
+## 29.6 [Genuinely Intelligent Soul Traps (GIST)](https://www.nexusmods.com/skyrimspecialedition/mods/15755?tab=files)
+
+### Download Instructions
+
+* **Main Files** – GIST Soul Trap
+
+## 29.7 [Skyrim Alchemy Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/2262?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Skyrim Alchemy Fixed
+
+## 29.8 [Enchanting Adjustments and Price Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/8473?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Enchanting Adjustments FOMOD V2.4 Installer
+
+### FOMOD Instructions
+
+* **Main File Choice:**
+  * Complete Version
+* **Patch Choice:**
+  * ~~Summermyst Patch~~
+  * WACCF Patch
+  * ~~Visual Animated Enchants Patch~~
+
+## 29.9 [More Expensive Transmute for Mysticism ](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)(optional)
+
+### Download Instructions
+
+* **Main File** - More Expensive Transmute for Mysticism
+
+## 29.10 [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612?tab=files)
+
+### Download Instructions
+
+* **Main File** - Reliquary of Myth - Artifact Overhaul
+
+### FOMOD Instructions
+
+* **Main Installation:**
+  * Reliquary of Myth - Artifact Overhaul
+  * RoM - Dragon Priest Masks Pack
+* **Patches:**
+  * *Unselect everything.*
+
+> Some patches will be selected by default and you need to **untick** them. All conflicts are handled in the guide's CRP.
+
+## 29.11 [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138?tab=files)
+
+### Download Instructions
+
+* **Main File** - Zim's Immersive Artifacts V1.5.3
+
+### FOMOD Instructions
+
+* **Complete Pack:**
+  * Choose artifacts
+* **Ancient Pack:**
+  * Choose ancient artifacts
+* **Daedric Pack:**
+  * Choose daedric artifacts
+* **Miraak Pack:**
+  * All Miraak's equipment
+* **Nightingale Pack:**
+  * All Nightingale Equipment
+* **Thane Pack:**
+  * All thane weapons
+* **Ancient Artifacts:**
+  * *select none*
+* **Daedric Artifacts:**
+  * *select none*
+* **Alternatives:**
+  * *select none*
+
+## 29.12 [Unique Items Tweaks - Improved Less Known Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/33723?tab=files)
+
+### Download Instructions
+
+* **Main File** - Unique Items Tweaks
+
+![separator](../Media/separator.png)
+
+# 30. Immersion
+
+## 30.1 [Dragon Remains](https://www.nexusmods.com/skyrimspecialedition/mods/21277?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Dragon Remains (Loose)
+
+### About the mod
+
+This will stop dragons from disintegrating upon death. You will still receive their soul as usual but the corpse will be untouched. Great if you want to check out the new dragon types and retextures.
+
+## 30.2 [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Talkative Dragons
+
+## 30.3 [Talkative Dragons – Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – TDReplacer
+
+> Install this mod if you installed **Talkative Dragons**. Otherwise skip it. 
+
+## 30.4 [Durnehviir Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/14272?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Durnehviir Resurrected
+
+### FOMOD Instructions
+
+* **Restoration Speed:**
+  * Normal
+* **Color:**
+  * *choose one*
+* **Degree of Restoration:**
+  * *choose one*
+* **Patches:**
+  * ~~Durnehviir: God of Death~~
+
+## 30.5 [Improved Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/17609?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Improved Shadowmarks (512)
+
+> This mod contains new textures for the Shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks if you installed that mod.
+
+## 30.6 [Keeper Carcette Survives](https://www.nexusmods.com/skyrimspecialedition/mods/9476?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Keeper Carcette Survives SSE 1.1
+
+## 30.7 [Windhelm Segregation – Stay at New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/21181?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Windhelm Segregation – Stay at New Gnisis Cornerclub
+
+## 30.8 [Alik’r Warriors Aren’t Welcome](https://www.nexusmods.com/skyrimspecialedition/mods/25384?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Alik’r Warriors Aren’t Welcome
+
+## 30.9 [Delphine’s Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Delphine’s Map Reveals Dragon Mounds SE v1.0
+
+## 30.10 [Bring Meeko to Lod ](https://www.nexusmods.com/skyrimspecialedition/mods/25246?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** – Bring Meeko to Lod SE
+
+## 30.11 [Serana’s Blood Tomb Curse](https://www.nexusmods.com/skyrimspecialedition/mods/26852?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – SeranasTombBloodCurse SE v1.1
+
+## 30.12 [Karstaag – The Frost King Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/14328?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Karstaag – The Frost King Reborn
+
+### FOMOD Instructions
+
+* **Plugin:** Transparency Reduced and Infinite Summons
+
+![separator](../Media/separator.png)
+
+# 31. Quality of Life Improvements
+
+## 31.1 [The Choice Is Yours (TCIY)](https://www.nexusmods.com/skyrimspecialedition/mods/3850?tab=files)
+
+### Download Instructions
+
+* **Main Files** – The Choice is Yours
+
+## 31.2 [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – WhoseQuestIsItAnyway
+
+## 31.3 [Hide Those Futile Quests](https://www.nexusmods.com/skyrimspecialedition/mods/23028?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Hide Those Futile Quests 64
+
+## 31.4 [Bounty Preview](https://www.nexusmods.com/skyrimspecialedition/mods/33877?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Bounty Preview
+
+## 31.5 [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Stackable Stones of Barenziah with Optional Quest Markers
+
+## 31.6 [Remember Lockpick Angle – Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Remember Lockpick Angle – Updated
+
+## 31.7 [No Lockpick Activate – Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26790?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – No Lockpick Activate (SKSE) – Updated
+
+## 31.8 [Yes I’m Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – YesImSure
+
+## 31.9 [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
+
+### Download Instructions
+
+* **Main Files** – More Informative Console for SKSE 2.17
+
+## 31.10 [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Copy and Paste in Console v1.0.0 for Skyrim SE 1597
+
+### Additional Instructions
+
+* Double-click the mod in your mod order.
+* Switch to the **INI Files** tab and select the **CopyPaste.ini**.
+* Change the following line:
+  * `PasteKeyCode=47`
+* Close the window and click **Yes** when asked to save.
+
+> This changes the default combination from CTRL+END to CTRL+V so that you can paste as usual.
+
+## 31.11 [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – KeyboardShortcutsFix_SKSE64
+
+## 31.12 [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Classic Sprinting Redone (SKSE64)
+
+## 31.13 [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Better Jumping SE
+
+![separator](../Media/separator.png)
+
+# 32. New Quests & Locations
+
+## 32.1 [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179?tab=files)
+
+### Download Instructions
+
+* **Main Files** – The Forgotten City
+
+## 32.2 [The Forgotten City – No Audio Books](https://www.nexusmods.com/skyrim/mods/83593?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Forgotten City – No Audiobooks
+
+## 32.3 [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
+
+### Download Instructions
+
+* **Main Files** – The Tools of Kagrenac V1.52Final SSE
+
+## 32.4 [It Beats For Her](https://www.nexusmods.com/skyrimspecialedition/mods/22956?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** - It Beats For Her SSE
+
+### Additional Instructions
+
+* Double-click **It Beats For Her** in your mod order.
+* Switch to the **Filetree** tab and rename the plugin:
+  * ItBeatsForHer.**esp**
+
+> This turns the plugin into an ESP-Lite and allows us to manipulate its position in the load order.
+
+## 32.5 [Provincial Courier Service](https://www.nexusmods.com/skyrimspecialedition/mods/10623?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Provincial Courier Service
+
+## 32.6 [Unique Border Gates](https://www.nexusmods.com/skyrimspecialedition/mods/4819?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Unique Border Gates All
+* **Optional Files** – Unique Border Gates All – Better DG Entrance – Patch
+* **Optional Files** – Unique Border Gates All – Point The Way – Patch
+
+### Mod Order
+
+* Place **both patches** below the **PATCHES** separator.
+
+## 32.7 [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Solstheim Lighthouse v1.2 ESL
+* **Optional Files** – HD Raven Rock Brick Texture Replacer
+
+### Additional Instructions
+
+* Double-click **Solstheim Lighthouse** in your mod order.
+* Switch to the **Filetree** tab and rename the plugin:
+  * SolstheimLighthouse.**esp**
+
+> This is faster than downloading and ESL-ifying the ESP version.
+
+## 32.8 [Solstheim – Skaal Fishing Camp](https://www.nexusmods.com/skyrimspecialedition/mods/14450?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Solstheim – Skaal Fishing Camp
+
+![separator](../Media/separator.png)
+
+# 33. New NPCs & Companions
+
+## 33.1 [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707?tab=files)
+
+### Download Instructions
+
+* **Main File** - DIVERSE SKYRIM SSE
+
+## 33.2 [DIVERSE SKYRIM – Ethereal Elven Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+* **Main File** - DIVERSE SKYRIM – Ethereal Elven Overhaul Patch
+
+## 33.3 [Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
+
+### Download Instructions
+
+* **Main File** - Interesting NPCs SE - BSAs
+* **Update File** - Interesting NPCs SE - 4.3.6 to 4.3.12 Hotfix
+* **Optional File** - Interesting NPCs SE - Alternative Locations - Flagged ESL
+
+## 33.4 [Interesting NPCs - Zora Fair-Child Voice Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448?tab=files) (optional
+
+### Download Instructions
+
+* **Main File** - Zora VO
+
+## 33.5 [Cuyima Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/27330?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Cuyima Interesting NPCs SE - Vanilla Hair
+
+## 33.6 [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
+
+### Download Instructions
+
+* **Main File** - Immersive College NPCs
+
+### FOMOD Instructions
+
+* Change nothing and click **Install**.
+
+## 33.7 [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=files)
+
+### Download Instructions
+
+* **Main File** - INIGO_V2.4C SE
+
+## 33.8 [Morrowloot Ultimate - INIGO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/3058?tab=files)
+
+### Download Instructions
+
+* **Optional File** - MLU ESL - Inigo
+
+### Mod Order
+
+- Place the mod below the **PATCHES** separator.
+
+### About the mod
+
+While we are not using MLU, our setup follows a similar logic and immediate access to Ebony weapons through Inigo breaks consistency. With this patch, he will no longer have 1000 Ebony Arrows, the Ebony Sword and 20 Vigorous Healing Potions by default. Instead there is more appropriate equipment in the nearby chest. He keeps his Ebony bow (but it can no longer be taken from him).
+
+## 33.9 [Inigo Whistle Key](https://www.nexusmods.com/skyrimspecialedition/mods/29406?tab=files) (optional)
+
+### Download Instructions
+
+* You can download **either** the main **or** the optional file. The difference is the hotkey (X or V) and this depends on your preferences.
+
+## 33.10 [Lucien – Fully Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files)
+
+### Download Instructions
+
+* **Main File** - Lucien
+
+## 33.11 [Pandorable’s Lucien Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/22598?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Pandorable’s Lucien SE
+
+![separator](../Media/separator.png)
+
+# 34. New Encounters & Creatures
+
+## 34.1 [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Immersive Patrols Lite
+
+## 34.2 [Immersive Patrols Simplified](https://www.nexusmods.com/skyrimspecialedition/mods/32765?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Immersive Patrols II Simplified No Merchants
+
+> **Mod Dependency:** Install this mod if you installed **Immersive Patrols**. Otherwise skip it. 
+
+## 34.3 [Diverse Dragon Collection (DDC)](https://www.nexusmods.com/skyrimspecialedition/mods/695?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Diverse Dragons Collection SE
+
+## 34.4 [Diverse Werewolves Collection (DWC)](https://www.nexusmods.com/skyrimspecialedition/mods/7009?tab=files)
+
+### Download Instructions
+
+* **Main File** - Diverse Werewolves Collection
+* **Optional File** - DWC Player Werewolf Replacer
+
+### FOMOD Instructions
+
+* Choose whichever options you like best for **Skin** and **Eyes and Mouth**. Refer to the picture below.
+
+![Diverse Werewolves Collection](Pictures/mod_installation/diverse_werewolves_collection.png)
+
+## 34.5 [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – More Werewolves
+
+### FOMOD Instructions
+
+* **Version:** DWC version
+* **Patches:** RFYL patch
+
+## 34.6 [Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – The Falkreath Hauntings
+
+## 34.7 [Dwemer Spectres](https://www.nexusmods.com/skyrimspecialedition/mods/8016?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Dwemer Spectres Special Edition
+
+## 34.8 [Dwemer Spectres – EBT No Bleeding and Other Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26954?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Dwemer Spectres EBT No Bleeding and Other Fixes
+
+> **Mod Dependency:** Install this mod if you installed **Dwemer Spectres**. Otherwise skip it. 
+
+## 34.9 [Beast Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/517?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Dwemer Spectres EBT No Bleeding and Other Fixes
+
+## 34.10 [Beast Skeletons - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Beast Skeletons - Plugin Replacer
+
+> **Mod Dependency:** Install this mod if you installed **Beast Skeletons**. Otherwise skip it.
+
+## 34.11 [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Cannibal Draugr on Solstheim
+
+## 34.12 [The Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File**  Blood Horker
+
+## 34.13 [Cliff Racers of Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/2168?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Cliff Racers on Solstheim
+
+![separator](../Media/separator.png)
+
+# 35. New Items & Equipment
+
+## 35.1 [Armor and Clothing Extension (ACE)](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Armor and Clothing Extension
+
+## 35.2 [Armor and Clothing Extension – MCM Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23471?tab=files)
+
+### Download Instructions
+
+* **Main Files** – WACCF_MCM_Fix
+
+## 35.3 [Weapons Armor Clothing and Clutter Fixes – CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19176?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Weapons Armor Clothing and Clutter Fixes – CBBE Patch
+
+### FOMOD Instructions
+
+Make sure **Armor and Clothing Extension** is activated before you proceed.
+
+* **WACCF:** WACCF + ACE
+
+### Mod Order
+
+* Place the mod below the **PATCHES** separator.
+
+## 35.4 [aMidianBorn Content Addon](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
+
+### Download Instructions
+
+* **Optional Files** – aMidianBorn – Content Addon
+
+## 35.5 [aMidianBorn Content Addon – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+* **Main File** - aMidianBorn Content Addon - Plugin Replacer
+
+## 35.6 Practical Female Armors - AMB Content Addon
+
+### Download Instructions
+
+- You already downloaded this file.
+
+### Installation Instructions
+
+* Find the following file in your **Downloads** tab:
+  * Practical Female Armors SE - All-In-One Installer - NMM BAIN-2628-1-3o
+* Double-click to install as usual.
+* Rename the file to **Practical Female Armors - AMB Content Addon** to prevent overwriting the original.
+* In the FOMOD installer, select only the **aMidianBorn Content Addon** option on the final page.
+
+## 35.7 [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305?tab=files)
+
+### Download Instructions
+
+* **Main File** - Common Clothes and Armors
+
+## 35.8 [Common Clothes and Armors – CBBE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31750?tab=files)
+
+### Download Instructions
+
+* **Main File** - Common Clothes and Armors – CBBE Patch
+
+### FOMOD Instructions
+
+* **Body Shape:** CBBE Vanilla
+
+## 35.9 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369?tab=files)
+
+### Download Instructions
+
+* **Main File** - Cloaks of Skyrim SSE – v1.2.1
+
+### FOMOD Instructions
+
+* Change nothing, just click **Install**.
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `Cloaks - Dawnguard.esp`
+  * `Cloaks - USSEP Patch.esp`
+
+> The content of these plugins has already been merged into Cloaks of Skyrim – MLU-Friendly Fixes.
+
+## 35.10 [Cloaks of Skyrim – MLU-Friendly Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18421?tab=files)
+
+### Download Instructions
+
+* **Main File** - Cloak of Skyrim – Fixes
+
+## 35.11 [Cloaks of the Nords](https://www.nexusmods.com/skyrimspecialedition/mods/8886?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Cloaks of the Nords
+
+## 35.12 [Rally’s Five Cities Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/20071?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Five Cities Cloaks – Sagecloaks and Worn cloaks
+
+## 35.13 [Morrowloot Miscellania – Ancient Nordic Hero Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Morrowloot Miscellania – Ancient Nord Hero Weapons
+
+## 35.14 [Armor of Yngol](https://www.nexusmods.com/skyrimspecialedition/mods/5006?tab=files)
+
+### Download Instructions
+
+* **Main File** - Yngol SSE
+
+## 35.15 [Unique Scimitars](https://www.nexusmods.com/skyrim/mods/60896?tab=files)
+
+### Download Instructions
+
+* **Main File** - Redguard unique scimitars 1.3 
+
+### Porting Instructions
+
+* Resave **Redguard_unique_swords.esp** in the Creation Kit.
+
+### Additional Instructions
+
+This will disable crafting of the four scimitars in order to make them truly unique.
+
+* Run SSEEdit through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all mods and wait.
+* Once everything is loaded up, double-click **Redguard_unique_swords.esp** (left pane – bottom).
+* Double-click the **Constructible Object** category.
+* Select the following four records, right-click and **Remove** (see picture):
+  * **RecipeWeaponRobin**
+  * **RecipeWeaponNajash**
+  * **RecipeWeaponRysh**
+  * **RecipeWeaponRysh2**
+* Close SSEEdit and click **OK** to save your changes.
+
+![Disable Crafting Unique Scimitars](Pictures/mod_installation/disable_crafting_unique_scimitars.png)
+
+## 35.16 [Kthonia’s Unique Weapon Pack – Dragonborn Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/15050?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Kthonia’s Weapon Pack SE – Smaller Textures (2K)
+
+### Additional Instructions
+
+* Run SSEEdit through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all mods and wait.
+* Once everything is loaded up, double-click **ktWeaponPackSE.esp** (left pane – bottom).
+* Double-click the **Weapon** category.
+* Select the **mkChitinBow01** record and scroll down to the **Keywords** section.
+* Right-click and remove the following keyword:
+  * `DLC2ArmorMaterialChitinLight [KYWD:04024102]`
+* Next, select the **mkChitinBow02_nopearls** record and scroll down to the **Keywords** section once again.
+* Right-click and remove the same keyword:
+  * `DLC2ArmorMaterialChitinLight [KYWD:04024102]`
+* Close SSEEdit and click **OK** to save your changes.
+
+> The bow with two perks would benefit twice as much from tempering which is unintended. This bug was found and fixed by [Kulharin](https://www.nexusmods.com/skyrimspecialedition/mods/29298) but the fix can easily be applied to your own copy of the plugin without an additional patch ESP.
+
+![Fix Kthonia Chitin Bow](Pictures/mod_installation/fix_kthonia_chitin_bow.png)
+
+![separator](../Media/separator.png)
+
+# 36. New Mechanics & Features
+
+## 36.1 [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Simply Knock SE 1.0.3 Release
+
+### Additional Instructions
+
+The mod includes outdated plugins for PapyrusUtil and Simply Knock, both of which are replaced with updated plugins in the guide.
+
+* Delete the following file(s) and/or folder(s):
+  * `SKSE`
+
+## 36.2 [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - SimplyKnockSE SKSE64 2.0.17 DLL
+
+> **Mod Dependency:** Install this mod if you installed **Simply Knock**. Otherwise skip it.
+
+## 36.3 [Quick Light ](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files)(optional)
+
+### Download Instructions
+
+* **Main File** - Quick Light SE
+
+## 36.4 [ENB Light – Quick Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional File** - ENB Light – patch for Quick Light SE
+
+## 36.5 [Trua – Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Trua 1.0.1
+
+## 36.6 [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
+
+### Download Instructions
+
+* **Main File** - Choose Your Own Arch-Mage
+
+![separator](../Media/separator.png)
+
+# 37. Sounds & Music
+
+## 37.1 [Audio Overhaul for Skyrim (AOS)](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files)
+
+### Download Instructions
+
+* **Main File** - Audio Overhaul Skyrim (3.2.0)
+* **Miscellaneous File** - Compatibility Patch for Enhanced Blood Textures
+* **Miscellaneous File** - Weather Patch for Obsidian Weathers and Seasons
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `SKSE`
+
+> The SKSE plugin included with AOS is outdated. SSE Engine Fixes includes its functionality now.
+
+### Mod Order
+
+* Place both patches below the **PATCHES** separator.
+
+## 37.2 [Improved Horse Step Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/848?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Improved Horse Step Sounds – Special Edition
+
+## 37.3 [Heart of the Beast – Werewolf Sound and Texture Overhaul](https://www.nexusmods.com/skyrim/mods/13779?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Werewolf Sounds – LOW AGGRESSION
+
+## 37.4 [Realistic Husky Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/11038?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Realistic Husky Sounds SE
+
+## 37.5 [OMINOUS Dragon Soul Absorb Music](https://www.nexusmods.com/skyrim/mods/60767?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – OMINOUS Dragon Soul Absorb Music
+
+## 37.6 [Soultrap Sound Edit – Calm Wind](https://www.nexusmods.com/skyrimspecialedition/mods/8017?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Soultrap Sound Edit – Calm Wind v1
+
+## 37.7 [Lower Sounding Thieves Guild Door](https://www.nexusmods.com/skyrim/mods/1826?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – LowerVolume
+
+![separator](../Media/separator.png)
+
+# 38. ENB Particle Lights
+
+## 38.1 [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files)
+
+### Download Instructions
+
+* **Update Files –** ENB Light 0.95 Release Candidate 2
+* **Update Files** – ENB Light 0.95 RC2 patch 1
+* **Update Files** – ENB Light 0.95 RC2 patch 2
+* **Update Files** – ENB Light 0.96 WIP 01 – Magic Staff lights
+* **Update Files** – ENB Light 0.96 WIP 02 – Glowing Caveworms and Blackreach Plants
+* **Optional Files** – ENB Light 0.96 WIP 04 – Inferno patch and Fire fixes
+
+### FOMOD Instructions
+
+* **Select your install type:**
+  * Candlelight, Magelight, Carry Torch only
+* **Additional options:**
+  * ~~Lanterns~~
+  * Smelter
+  * Minor effects
+  * ~~Extra light~~
+  * Magic hand effects
+  * ~~Magic effects – Low-Moderate cost~~
+  * Magic weapon effects – fairly low cost
+  * ~~Fire magic projectiles – Low-Moderate cost~~
+  * ~~Magic hazards and burning fires – Low to High cost~~
+  * ~~Magic effects – High cost~~
+  * ~~Dragon fire~~
+  * Creatures – Flame Atronarchs
+  * Creatures – Storm Atronarchs
+  * Creatures – Ice Wraith
+  * Creatures – Spriggans
+  * Creatures – Wispmother
+* **Dawnbreaker:**
+  * Lean Wolf’s Better Shaped Weapons Dawnbreaker – default sheath
+* **Dawnbreaker – DSR (Left hand):**
+  * NO Dawnbreaker DSR option
+* **Patches for mods:**
+  * STAC – Smoking Torches and Candles
+
+### Installation Instructions - RC 2 Patch 1
+
+* In the BAIN installer, check the **10 – MagicHandFx** option, then click **OK**.
+
+## 38.2 [ENB Particle Lights – Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – ENB-ParticleLights-DwemerLanterns-1-02
+
+## 38.3 [Rudy HQ – More Lights for ENB – Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Rudy HQ – More Lights for ENB SE – Patch for Rustic Soulgems
+
+## 38.4 [Rudy HQ – More Lights for ENB – Deathbells and Nirnroots](https://www.nexusmods.com/skyrimspecialedition/mods/22814?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rudy HQ – More Lights for ENB SE – Deathbells and Nirnroots
+
+## 38.5 [Rudy HQ – More Lights for ENB – Moths](https://www.nexusmods.com/skyrimspecialedition/mods/22819?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rudy HQ – More Lights for ENB SE – Moths
+
+## 38.6 [Rudy HQ – More Lights for ENB – Chaurus Eggs and Sacs](https://www.nexusmods.com/skyrimspecialedition/mods/22705?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rudy HQ – More Lights for ENB SE – Chaurus Eggs and Sacs
+
+## 38.7 [Rudy HQ – More Lights for ENB – Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Rudy HQ – More Lights for ENB SE – Bthardamz
+
+![separator](../Media/separator.png)
+
+# 39 // SKELETON & ANIMATIONS
+
+## 39.1 [Fores New Idles in Skyrim (FNIS)](https://www.nexusmods.com/skyrimspecialedition/mods/3038?tab=files)
+
+### Download Instructions
+
+* **Main Files** – FNIS Behavior SE 7_6
+
+### Installation Instructions
+
+This mod was not packaged correctly.
+
+* Install the mod as usual by double-clicking it in the **Downloads** tab.
+* Double-click the **FNIS Behavior SE 7.6** folder.
+* Right-click the **Data** folder and select **Set data directory**.
+* Click **OK**.
+
+## 39.2 [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files)
+
+### Download Instructions
+
+* **Main Files** – XP32 Maximum Skeleton Special Extended
+
+### FOMOD Instructions
+
+* **Animation Rig Map:**
+  * No Physics
+* **Character Creation:**
+  * Racemenu
+* **Weapon Style Randomizer for NPCs:**
+  * None
+* **Animation Variants:**
+  * *leave everything on None*
+* **First Person Animation - Axes:**
+  * ~~Axes on Back~~
+* **First Person Animation - Swords**
+  * None
+* **Mounted Combat Animation - Axes:**
+  * ~~Axes on Back~~
+* **Mounted Combat Animation - Bow:**
+  * ~~Belt-Fastened Quiver~~
+* **Mounted Combat Animation - Sword:**
+  * None
+* **The Joy of Perspective:**
+  * None
+* **Schlongs of Skyrim:**
+  * None
+* **Deadly Mutilation:**
+  * None
+* **Enderal:**
+  * None
+
+## 39.3 [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
+
+### Download Instructions
+
+* **Main Files** – All Geared Up Derivative SE
+
+> In order to get AllGUD up and running, there are quite a few more additional steps. These will be taken care of during the Finalisation.
+
+## 39.4 [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – No heavy muscular walk and idle
+
+## 39.5 [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – DWANIM
+
+## 39.6 [D13 Faster GET UP STAND UP Animation](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – D13 Faster Get Up Stand Up SSE
+
+## 39.7 [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – DragonAnimationReplace_inSE_1_01
+
+## 39.8 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Immersive Dragons SE
+
+## 39.9 [Supreme Vampire Lord](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Supreme Vampire Lords XP32 SE
+
+## 39.10 [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Werewolf Claws Affect Spider Webs – XPMSSE 4.71 version
+
+![separator](../Media/separator.png)
+
+# 40. Utilities
+
+## 40.1 [Private Profile Redirector](https://www.nexusmods.com/skyrimspecialedition/mods/18860?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File**-  PrivateProfileRedirector SE 0.5
+
+> Issues with some ENB presets appearing too dark should be fixed with the latest updates of PPR.
+
+## 40.2 [PapyrusUtil](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files)
+
+### Download Instructions
+
+* **Main File** - PapyrusUtil SE – Scripting Utility Functions
+
+## 40.3 [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
+
+### Download Instructions
+
+* **Main File** - JContainers SE
+
+## 40.4 [Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files)
+
+### Download Instructions
+
+* **Main File** - Papyrus Extender - SSE - 2.40
+
+## 40.5 [FileAccess Interface for Skyrim SE Scripts (FISSES)](https://www.nexusmods.com/skyrimspecialedition/mods/13956?tab=files)
+
+### Download Instructions
+
+* **Main Files** – FileAccess Interface for Skyrim SE Scripts – FISSES
+
+## 40.6 [FISSES ESL-ified Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27260?tab=files)
+
+### Download Instructions
+
+* **Main Files** – FISSES ESLified Patch
+
+## 40.7 [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603?tab=files)
+
+### Download Instructions
+
+* **Main Files** – ScaleformTranslationPP
+
+## 40.8 [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561?tab=files)
+
+### Download Instructions
+
+* **Main Files** – UIExtensions v1-2-0
+
+### Additional Instructions
+
+* Run SSEEdit through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all plugins.
+* Wait for the mods to be loaded up before you proceed.
+* Right-click **UIExtensions.esp** in the left pane and select **Add Masters**.
+* Check **Skyrim.esm** and click **OK**.
+* Click **Yes, I’m sure** when the warning pops up.
+* Close SSEEdit and click **OK** to save your changes.
+
+> The plugin had no masters assigned to it which can cause errors. Every plugin needs to have at least Skyrim.esm as a master.
+
+## 40.9 [ConsoleUtils](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
+
+### Download Instructions
+
+* **Main Files** – ConsoleUtilSSE
+
+## 40.10 [ENB Helper](https://www.nexusmods.com/skyrimspecialedition/mods/23174?tab=files)
+
+### Download Instructions
+
+* **Main Files** – ENB Helper SE 1.5 for SSE 1.5.97
+
+## 40.11 [Fuz Ro D-oh – Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Fuz Ro D’oh
+
+## 40.12 [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Console Commands Extender
+
+### About the mod
+
+This mod was added mostly for the **spp** console command which allows you to quickly cheat perk points. This can be useful for testing, since vanilla Skyrim has no command to directly add perk points.
