@@ -102,7 +102,7 @@
   - [5.3 HD LODs Textures](#53-hd-lods-textures)
   - [5.4 Noble Skyrim Mod HD-2K (NSM)](#54-noble-skyrim-mod-hd-2k-nsm)
   - [5.5 Ruins Clutter Improved (RCI)](#55-ruins-clutter-improved-rci)
-  - [5.6 Ruins Clutter Improved – Fixes](#56-ruins-clutter-improved--fixes)
+  - [5.6 Ruins Clutter Improved - Fixes](#56-ruins-clutter-improved---fixes)
   - [5.7 Revamped Assets Skyrim](#57-revamped-assets-skyrim)
   - [5.8 High Poly Project (optional)](#58-high-poly-project-optional)
   - [5.9 aMidianBorn Book of Silence - Dragonborn DLC (optional)](#59-amidianborn-book-of-silence---dragonborn-dlc-optional)
@@ -112,38 +112,143 @@
   - [6.2 Obsidian Weathers and Seasons MCM Patch (optional)](#62-obsidian-weathers-and-seasons-mcm-patch-optional)
   - [6.3 Smooth Sky Mesh (optional)](#63-smooth-sky-mesh-optional)
   - [6.4 ETHEREAL CLOUDS (optional)](#64-ethereal-clouds-optional)
-  - [6.5 Skyrim Textures Redone – Enhanced Night Sky (optional)](#65-skyrim-textures-redone--enhanced-night-sky-optional)
-  - [6.6 Night Skies – Stars and Galaxies (optional)](#66-night-skies--stars-and-galaxies-optional)
-  - [6.7 Skygazer Moons – Masser and Secunda (optional)](#67-skygazer-moons--masser-and-secunda-optional)
+  - [6.5 Skyrim Textures Redone - Enhanced Night Sky (optional)](#65-skyrim-textures-redone---enhanced-night-sky-optional)
+  - [6.6 Night Skies - Stars and Galaxies (optional)](#66-night-skies---stars-and-galaxies-optional)
+  - [6.7 Skygazer Moons - Masser and Secunda (optional)](#67-skygazer-moons---masser-and-secunda-optional)
   - [6.8 Storm Lightning (optional)](#68-storm-lightning-optional)
-  - [6.9 Yee – A New Snowflake Mod (optional)](#69-yee--a-new-snowflake-mod-optional)
+  - [6.9 Yee - A New Snowflake Mod (optional)](#69-yee---a-new-snowflake-mod-optional)
   - [6.10 Wonders of Weather (optional)](#610-wonders-of-weather-optional)
   - [6.11 Wonders of Weather - Less Opaque Rain Splashes for ENB (optional)](#611-wonders-of-weather---less-opaque-rain-splashes-for-enb-optional)
 - [07. Lighting](#07-lighting)
   - [7.1 Relighting Skyrim](#71-relighting-skyrim)
-  - [7.2 Relighting Skyrim – No Player Homes](#72-relighting-skyrim--no-player-homes)
+  - [7.2 Relighting Skyrim - No Player Homes](#72-relighting-skyrim---no-player-homes)
   - [7.3 Luminosity Lighting Overhaul](#73-luminosity-lighting-overhaul)
-  - [7.4 Luminosity – A Quality World Map Patch](#74-luminosity--a-quality-world-map-patch)
+  - [7.4 Luminosity - A Quality World Map Patch](#74-luminosity---a-quality-world-map-patch)
   - [7.5 Interior Floating Fog Remover (optional)](#75-interior-floating-fog-remover-optional)
   - [7.6 Smoking Torches and Candles (STAC)](#76-smoking-torches-and-candles-stac)
   - [7.7 Embers HD](#77-embers-hd)
-  - [7.8 Inferno – Fire Effects Redux](#78-inferno--fire-effects-redux)
-  - [7.9 KD – Realistic Fireplaces](#79-kd--realistic-fireplaces)
-  - [7.10 Charred Logs for KD – Realistic Fireplaces (optional)](#710-charred-logs-for-kd--realistic-fireplaces-optional)
+  - [7.8 Inferno - Fire Effects Redux](#78-inferno---fire-effects-redux)
+  - [7.9 KD - Realistic Fireplaces](#79-kd---realistic-fireplaces)
+  - [7.10 Charred Logs for KD - Realistic Fireplaces (optional)](#710-charred-logs-for-kd---realistic-fireplaces-optional)
 - [08. Visual FX](#08-visual-fx)
   - [8.1 Frozen Electrocuted Combustion (FEC) (optional)](#81-frozen-electrocuted-combustion-fec-optional)
   - [8.2 Frozen Electrocuted Combustion - Extra Crispy Retexture (optional)](#82-frozen-electrocuted-combustion---extra-crispy-retexture-optional)
   - [8.3 Enhanced Blood Textures](#83-enhanced-blood-textures)
   - [8.4 GORECAP (optional)](#84-gorecap-optional)
   - [8.5 Deadly Spell Impacts](#85-deadly-spell-impacts)
-  - [8.6 Arctic – Frost Effects Redux (optional)](#86-arctic--frost-effects-redux-optional)
+  - [8.6 Arctic - Frost Effects Redux (optional)](#86-arctic---frost-effects-redux-optional)
   - [8.7 Refracting Ice Form Debris (optional)](#87-refracting-ice-form-debris-optional)
   - [8.8 Voltage (optional)](#88-voltage-optional)
-  - [8.9 ElSopa HD – Dirt Blast (optional)](#89-elsopa-hd--dirt-blast-optional)
+  - [8.9 ElSopa HD - Dirt Blast (optional)](#89-elsopa-hd---dirt-blast-optional)
   - [8.10 Reduced Glow FX (optional)](#810-reduced-glow-fx-optional)
   - [8.11 Fire Halo Remover (optional)](#811-fire-halo-remover-optional)
   - [8.12 Subtle Wind FX (optional)](#812-subtle-wind-fx-optional)
   - [8.13 Glow Be Gone - Updated (optional)](#813-glow-be-gone---updated-optional)
+- [09. Landscape](#09-landscape)
+  - [9.1 Majestic Mountains](#91-majestic-mountains)
+  - [9.2 Landscapes - Cathedral Concept](#92-landscapes---cathedral-concept)
+  - [9.3 The Elder Scrolls - Veydosebrom (optional)](#93-the-elder-scrolls---veydosebrom-optional)
+  - [9.4 Cathedral Landscapes - Veydosebrom Swamp Grass Addon (optional)](#94-cathedral-landscapes---veydosebrom-swamp-grass-addon-optional)
+  - [9.5 Pfuscher's Rapid Rocks](#95-pfuschers-rapid-rocks)
+  - [9.6 Majestic Mountains - Northside (optional)](#96-majestic-mountains---northside-optional)
+  - [9.7 Realistic Water Two (RW2)](#97-realistic-water-two-rw2)
+  - [9.8 Skyrim SE Improved Puddles (optional)](#98-skyrim-se-improved-puddles-optional)
+  - [9.9 Better Dynamic Snow](#99-better-dynamic-snow)
+  - [9.10 Better Dynamic Majestic Mountains](#910-better-dynamic-majestic-mountains)
+  - [9.11 Skyrim 3D Icefloes (optional)](#911-skyrim-3d-icefloes-optional)
+  - [9.12 Better Dynamic Ash](#912-better-dynamic-ash)
+  - [9.13 Enhanced Landscapes - Dead Marsh](#913-enhanced-landscapes---dead-marsh)
+  - [9.14 Enhanced Landscapes - Dead Marsh Fixes](#914-enhanced-landscapes---dead-marsh-fixes)
+  - [9.15 Rorikstead Basalt Cliffs (optional)](#915-rorikstead-basalt-cliffs-optional)
+  - [9.16 Rorikstead Basalt Cliffs Patches (optional)](#916-rorikstead-basalt-cliffs-patches-optional)
+  - [9.17 Ashbound - Solstheim Enhanced](#917-ashbound---solstheim-enhanced)
+  - [9.18 Point The Way](#918-point-the-way)
+  - [9.19 Lanterns of Skyrim II](#919-lanterns-of-skyrim-ii)
+  - [9.20 Manor Roads (optional)](#920-manor-roads-optional)
+  - [9.21 Immersive Dawnguard Dayspring Pass (IDDP)](#921-immersive-dawnguard-dayspring-pass-iddp)
+- [10. Flora](#10-flora)
+  - [10.1 Enhanced Vanilla Trees (EVT)](#101-enhanced-vanilla-trees-evt)
+  - [10.2 Enhanced Vanilla Trees – Vurts Light Snow Trees](#102-enhanced-vanilla-trees--vurts-light-snow-trees)
+  - [10.3 Tree Bark in High Definition (optional)](#103-tree-bark-in-high-definition-optional)
+  - [10.4 Enhanced Landscapes – Oaks Standalone](#104-enhanced-landscapes--oaks-standalone)
+  - [10.5 Bent Pines II (optional)](#105-bent-pines-ii-optional)
+  - [10.6 Sacred Trees (optional)](#106-sacred-trees-optional)
+  - [10.7 Rudy HQ – Falling Leaves and Needles (optional)](#107-rudy-hq--falling-leaves-and-needles-optional)
+  - [10.8 Cathedral Plants (optional)](#108-cathedral-plants-optional)
+  - [10.9 Realistic HD Mushrooms Remastered (optional)](#109-realistic-hd-mushrooms-remastered-optional)
+  - [10.10 Less Ugly Tundra Grass (optional)](#1010-less-ugly-tundra-grass-optional)
+  - [10.11 Immersive Fallen Trees (optional)](#1011-immersive-fallen-trees-optional)
+  - [10.12 Immersive Fallen Trees Patch (optional)](#1012-immersive-fallen-trees-patch-optional)
+- [11. Architecture](#11-architecture)
+  - [11.1 MD's Farmhouses (optional)](#111-mds-farmhouses-optional)
+  - [11.2 The Streets of Whiterun HD (optional)](#112-the-streets-of-whiterun-hd-optional)
+  - [11.3 Riften in High Definition (optional)](#113-riften-in-high-definition-optional)
+  - [11.4 Marvelous Windhelm Gate (optional)](#114-marvelous-windhelm-gate-optional)
+  - [11.5 Windhelm Enhanced – HD Metalwork (optional)](#115-windhelm-enhanced--hd-metalwork-optional)
+  - [11.6 RUSTIC MONUMENTS AND TOMBSTONES (optional)](#116-rustic-monuments-and-tombstones-optional)
+  - [11.7 HQ Solitude (optional)](#117-hq-solitude-optional)
+  - [11.8 Pfuscher’s Manhole Texture (optional)](#118-pfuschers-manhole-texture-optional)
+  - [11.9 Skyland – Winterhold (optional)](#119-skyland--winterhold-optional)
+  - [11.10 Skyrim 3D Misc – Winterhold Gate (optional)](#1110-skyrim-3d-misc--winterhold-gate-optional)
+  - [11.11 Skyrim Textures Redone – High Hrothgar (optional)](#1111-skyrim-textures-redone--high-hrothgar-optional)
+  - [11.12 Skyrim 3D High Hrothgar Steps (optional)](#1112-skyrim-3d-high-hrothgar-steps-optional)
+  - [11.13 Pilgrim’s Delight – High Hrothgar Shrine Retexture](#1113-pilgrims-delight--high-hrothgar-shrine-retexture)
+  - [11.14 Skyrim Textures Redone – Skyhaven (optional)](#1114-skyrim-textures-redone--skyhaven-optional)
+  - [11.15 Spice of Life – Orc Strongholds (optional)](#1115-spice-of-life--orc-strongholds-optional)
+  - [11.16 Sovngarde HD (optional)](#1116-sovngarde-hd-optional)
+  - [11.17 Dawnguard Fortress Improved (optional)](#1117-dawnguard-fortress-improved-optional)
+  - [11.18 Castle Volkihar Reborn (optional)](#1118-castle-volkihar-reborn-optional)
+  - [11.19 Soul Cairn HD (optional)](#1119-soul-cairn-hd-optional)
+  - [11.20 Arri’s Snow Elf Ruins Retexture (optional)](#1120-arris-snow-elf-ruins-retexture-optional)
+- [12. Misc Structures](#12-misc-structures)
+  - [12.1 Fences of Skyrim (optional)](#121-fences-of-skyrim-optional)
+  - [12.2 Skyrim Landscape Overhaul – Stone Walls (optional)](#122-skyrim-landscape-overhaul--stone-walls-optional)
+  - [12.3 Skyrim 3D Signs (optional)](#123-skyrim-3d-signs-optional)
+  - [12.4 SkyFix – HD Blacksmith Signs (optional)](#124-skyfix--hd-blacksmith-signs-optional)
+  - [12.5 RUSTIC EAST EMPIRE COMPANY SIGNAGE (optional)](#125-rustic-east-empire-company-signage-optional)
+  - [12.6 Ennead – Shadowmarks (optional)](#126-ennead--shadowmarks-optional)
+  - [12.7 ElSopa HD – Glorious Dummies (optional)](#127-elsopa-hd--glorious-dummies-optional)
+  - [12.8 Stunning Statues of Skyrim (optional)](#128-stunning-statues-of-skyrim-optional)
+  - [12.9 LeanWolf’s Better-Shaped Talos Statue (optional)](#129-leanwolfs-better-shaped-talos-statue-optional)
+  - [12.10 Astral Aspects – Standing Stones (optional)](#1210-astral-aspects--standing-stones-optional)
+- [13. Vanilla Locations](#13-vanilla-locations)
+  - [13.1 JK’s Cities – Lite](#131-jks-cities--lite)
+  - [13.2 Arthmoor’s Dawnstar](#132-arthmoors-dawnstar)
+  - [13.3 Arthmoor’s Falkreath](#133-arthmoors-falkreath)
+  - [13.4 Arthmoor’s Dragon Bridge](#134-arthmoors-dragon-bridge)
+  - [13.5 Arthmoor’s Ivarstead](#135-arthmoors-ivarstead)
+  - [13.6 Arthmoor’s Rorikstead](#136-arthmoors-rorikstead)
+  - [13.7 Arthmoor’s Kynesgrove](#137-arthmoors-kynesgrove)
+  - [13.8 Arthmoor’s Karthwasten](#138-arthmoors-karthwasten)
+  - [13.9 Arthmoor’s Darkwater Crossing](#139-arthmoors-darkwater-crossing)
+  - [13.10 Arthmoor’s Shor’s Stone](#1310-arthmoors-shors-stone)
+  - [13.11 Arthmoor’s Soljund’s Sinkhole](#1311-arthmoors-soljunds-sinkhole)
+  - [13.12 Arthmoor’s Whistling Mine](#1312-arthmoors-whistling-mine)
+  - [13.13 Obscure’s College of Winterhold](#1313-obscures-college-of-winterhold)
+- [14. Interiors](#14-interiors)
+  - [14.1 RUSTIC WINDOWS](#141-rustic-windows)
+  - [14.2 Hall of the Dead - Stained Glass Windows (optional)](#142-hall-of-the-dead---stained-glass-windows-optional)
+  - [14.3 Ennead – Banners (optional)](#143-ennead--banners-optional)
+  - [14.4 PELTAPALOOZA (optional)](#144-peltapalooza-optional)
+  - [14.5 RUGNAROK (optional)](#145-rugnarok-optional)
+  - [14.6 Medieval Candlehorns and Sconces (optional)](#146-medieval-candlehorns-and-sconces-optional)
+  - [14.7 Skyrim 3D Cooking (optional)](#147-skyrim-3d-cooking-optional)
+  - [14.8 RUSTIC ALCHEMY AND ENCHANTING TABLES (optional)](#148-rustic-alchemy-and-enchanting-tables-optional)
+  - [14.9 JS Shrines of the Divines (optional)](#149-js-shrines-of-the-divines-optional)
+- [15. Dungeons](#15-dungeons)
+  - [15.1 Underground – A Dungeon Texture Overhaul](#151-underground--a-dungeon-texture-overhaul)
+  - [15.2 Rudy HQ – Nordic Ruins](#152-rudy-hq--nordic-ruins)
+  - [15.3 Ice Cave Parallax Improved (optional)](#153-ice-cave-parallax-improved-optional)
+  - [15.4 Gecko’s Dwarven Ruins Textures (optional)](#154-geckos-dwarven-ruins-textures-optional)
+  - [15.7 RUSTIC WORD WALLS (optional)](#157-rustic-word-walls-optional)
+  - [15.9 4K Nordic Murals (optional)](#159-4k-nordic-murals-optional)
+  - [15.10 CC’s Enhanced Ore Veins (optional)](#1510-ccs-enhanced-ore-veins-optional)
+  - [15.11 CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap (optional)](#1511-ccs-enhanced-ore-veins---fixed-iron-ore-cubemap-optional)
+  - [15.12 Metallurgy – Ingots and Ore HD (optional)](#1512-metallurgy--ingots-and-ore-hd-optional)
+  - [15.13 Ancient Pottery (optional)](#1513-ancient-pottery-optional)
+  - [15.14 ElSopa HD – Realistic Dark Elf Urns (optional)](#1514-elsopa-hd--realistic-dark-elf-urns-optional)
+  - [15.15 Ancient Dwemer Metal (optional)](#1515-ancient-dwemer-metal-optional)
+  - [15.16 HD Lava for Dawnguard (optional)](#1516-hd-lava-for-dawnguard-optional)
 
 # Installation Instructions
 
@@ -472,11 +577,9 @@ The commands will now be executed automatically when you start a new game or loa
 - **Optional File** - z Vanilla Military Camps
 - **Optional File** - Patches for Arthmoor’s Town add-ons
 
-----
-
 ### Download Instructions - Patches for Arthmoor's Towns
 
-- Select options:
+- **Select options:**
   * Patch for Alternate Start - Live Another Life
   * ~~Patch for Cutting Room Floor~~
   * Patch for Arthmoor’s Dragon Bridge
@@ -673,7 +776,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 ### Download Instructions
 
-- **Main File** - Move it Dammit – for Skyrim Special Edition v1.1.0b (Installation Script)
+- **Main File** - Move it Dammit - for Skyrim Special Edition v1.1.0b (Installation Script)
 
 ### FOMOD Instructions
 
@@ -723,7 +826,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 ### Download Instructions
 
-- **Main File** - Morrowloot Miscellania – Better Ancient Knowledge
+- **Main File** - Morrowloot Miscellania - Better Ancient Knowledge
 
 ## 3.12 [Merchants and Citizens Have No Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/2798?tab=files) (optional)
 
@@ -773,7 +876,7 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 
 ### Download Instructions
 
-- **Main File** - Quiet Dog – Sit
+- **Main File** - Quiet Dog - Sit
 
 ## 3.17 [Skeletons Don't Breathe](https://www.nexusmods.com/skyrimspecialedition/mods/18542?tab=files) (optional)
 
@@ -791,7 +894,7 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 
 ### Download Instructions
 
-- **Main File** - Bard Instrumentals Mostly – Sing Rarely
+- **Main File** - Bard Instrumentals Mostly - Sing Rarely
 
 ## 3.20 [No Crime Teleport](https://www.nexusmods.com/skyrimspecialedition/mods/13109?tab=files) (optional)
 
@@ -913,7 +1016,7 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 
 ### Download Instructions
 
-- **Main File** - Immersive HUD – iHUD
+- **Main File** - Immersive HUD - iHUD
 
 ## 4.9 [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=files)
 
@@ -963,7 +1066,7 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 * **Font choice:**
   * Custom font
 * **Which colored map marker mod have you installed?**
-  * Default – Skyrim SE
+  * Default - Skyrim SE
 * **Do you wish for enemies to be visible in the compass?**
   * Yes (*this can easily be disabled in SkyHUD in the future*)
 * **Which icon do you wish to use for undiscovered locations?**
@@ -1053,7 +1156,7 @@ Preview below:
 Below are my personal choices. Feel free to make your own!
 
 - **Background:**
-  - Background – Irradiant Stars – HDR Nebula
+  - Background - Irradiant Stars - HDR Nebula
 - **Perk Lines:**
   - Default
 - **Perk Line Colour:**
@@ -1090,11 +1193,11 @@ Below are my personal choices. Feel free to make your own!
 
 ### Download Instructions
 
-- **Main File** - 8.4 A Quality World Map – Classic with All Roads
+- **Main File** - 8.4 A Quality World Map - Classic with All Roads
 
 ### Additional Instructions, Part 1
 
-* Unpack **icepenguinworldmapclassic – textures.bsa** through Mod Organizer 2.
+* Unpack **icepenguinworldmapclassic - textures.bsa** through Mod Organizer 2.
 * Delete the following file(s) and/or folder(s):
   * `icepenguinworldmapclassic.esp`
 
@@ -1197,8 +1300,8 @@ Below are my personal choices. Feel free to make your own!
 
 ### Download Instructions
 
-* **Main Files** – Ruins_Clutter_Improved_SE_NMM_v3-1
-* **Update Files** – Falmer Temple Chandelier ==merge with the main file==
+* **Main Files** - Ruins_Clutter_Improved_SE_NMM_v3-1
+* **Update Files** - Falmer Temple Chandelier ==merge with the main file==
 
 ### FOMOD Instructions
 
@@ -1215,17 +1318,17 @@ Below are my personal choices. Feel free to make your own!
   * ~~Subliminal Traps~~
   * ~~Lantern~~
 
-## 5.6 [Ruins Clutter Improved – Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031?tab=files)
+## 5.6 [Ruins Clutter Improved - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031?tab=files)
 
 ### Download Instructions
 
-* **Main File** – Ruins Clutter Improved – Fixes 1.1
+* **Main File** - Ruins Clutter Improved - Fixes 1.1
 
 ## 5.7 [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380?tab=files)
 
 ### Download Instructions
 
-- **Main File** - Revamped Assets Skyrim – High (FOMOD Package)
+- **Main File** - Revamped Assets Skyrim - High (FOMOD Package)
 
 ### FOMOD Instructions
 
@@ -1330,7 +1433,7 @@ Below are my personal choices. Feel free to make your own!
 
 ### Additional Instructions
 
-* Double-click **aMidianBorn – Dragonborn** in your mod order.
+* Double-click **aMidianBorn - Dragonborn** in your mod order.
 * Switch to the **Filetree** tab.
 * Find the following folder:
   * `textures\actors\dlc02\ash`
@@ -1373,31 +1476,31 @@ Below are my personal choices. Feel free to make your own!
 
 ### Download Instructions
 
-* **Main File** – Obsidian Weathers – 1.07
+* **Main File** - Obsidian Weathers - 1.07
 
 ## 6.2 [Obsidian Weathers and Seasons MCM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20209?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – Obsidian Weathers and Seasons MCM ESP-ESL
+* **Main File** - Obsidian Weathers and Seasons MCM ESP-ESL
 
 ## 6.3 [Smooth Sky Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/18350?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – Smooth Sky Mesh 0_262
+* **Main File** - Smooth Sky Mesh 0_262
 
 ## 6.4 [ETHEREAL CLOUDS](https://www.nexusmods.com/skyrimspecialedition/mods/2393?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – ETHEREAL CLOUDS – Special Edition – 2K
+* **Main File** - ETHEREAL CLOUDS - Special Edition - 2K
 
-## 6.5 [Skyrim Textures Redone – Enhanced Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/5561?tab=files) (optional)
+## 6.5 [Skyrim Textures Redone - Enhanced Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/5561?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – Download and install the main file.
+* **Main File** - Download and install the main file.
 
 ### FOMOD Instructions
 
@@ -1414,37 +1517,37 @@ Below are my personal choices. Feel free to make your own!
 * **Constellations:**
   * 2K Constellations
 
-## 6.6 [Night Skies – Stars and Galaxies](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files) (optional)
+## 6.6 [Night Skies - Stars and Galaxies](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – Night Skies – Milky Realism (4K) – CP 1.01
+* **Main File** - Night Skies - Milky Realism (4K) - CP 1.01
 
-## 6.7 [Skygazer Moons – Masser and Secunda ](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files)(optional)
+## 6.7 [Skygazer Moons - Masser and Secunda ](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files)(optional)
 
 ### Download Instructions
 
-* **Main File** – Skygazer Moons SSE 2K – GLOW
+* **Main File** - Skygazer Moons SSE 2K - GLOW
 
 ## 6.8 [Storm Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** – Storm Lightning for SSE and VR – Fomod Installer
+* **Main File** - Storm Lightning for SSE and VR - Fomod Installer
 
 ### FOMOD Instructions
 
-* **Select Game** – Skyrim Special Edition
-* **Select SSE Version –** 1.5.97
+* **Select Game** - Skyrim Special Edition
+* **Select SSE Version -** 1.5.97
 * **Select Plugin:** ESL Flagged
 
 The next couple settings are depend on your choice of ENB as well as personal preferences. I selected the “Halo Dimmer” options and will add my personal recommendations here after more testing.
 
-## 6.9 [Yee – A New Snowflake Mod](https://www.nexusmods.com/skyrimspecialedition/mods/21559?tab=files) (optional)
+## 6.9 [Yee - A New Snowflake Mod](https://www.nexusmods.com/skyrimspecialedition/mods/21559?tab=files) (optional)
 
 **DOWNLOAD INSTRUCTIONS**
 
-* **Main File** – Ultra Realistic Snowfall
+* **Main File** - Ultra Realistic Snowfall
 
 > Ignore the warning about the mod being outdated. It still works perfectly with Obsidian Weathers.
 
@@ -1452,7 +1555,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main File** – Wonders of Weather v1_10
+* **Main File** - Wonders of Weather v1_10
 
 ### FOMOD Instructions
 
@@ -1462,7 +1565,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main File** – Wonders Of Weather - Less opaque rain splashes for ENB
+* **Main File** - Wonders Of Weather - Less opaque rain splashes for ENB
 
 ### FOMOD Instructions
 
@@ -1476,25 +1579,25 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** – Relighting Skyrim SSE v1.1.0
+* **Main Files** - Relighting Skyrim SSE v1.1.0
 
-## 7.2 [Relighting Skyrim – No Player Homes](https://www.nexusmods.com/skyrimspecialedition/mods/26538?tab=files)
+## 7.2 [Relighting Skyrim - No Player Homes](https://www.nexusmods.com/skyrimspecialedition/mods/26538?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Relighting Skyrim SSE – No Player Homes
+* **Main Files** - Relighting Skyrim SSE - No Player Homes
 
 ## 7.3 [Luminosity Lighting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/16830?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Luminosity – Lightweight Lighting
+* **Main Files** - Luminosity - Lightweight Lighting
 
-## 7.4 [Luminosity – A Quality World Map Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30162?tab=files)
+## 7.4 [Luminosity - A Quality World Map Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30162?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – A Quality Worldmap – Luminosity Compatibility Patch
+* **Main Files** - A Quality Worldmap - Luminosity Compatibility Patch
 
 ### Mod Order Instructions
 
@@ -1504,13 +1607,13 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** – No Floating Fog
+* **Main Files** - No Floating Fog
 
 ## 7.6 [Smoking Torches and Candles (STAC)](https://www.nexusmods.com/skyrimspecialedition/mods/8607?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Smoking Torches and Candles
+* **Main Files** - Smoking Torches and Candles
 
 ### FOMOD Instructions
 
@@ -1527,7 +1630,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** – Embers HD
+* **Main Files** - Embers HD
 
 ### FOMOD Instructions
 
@@ -1551,11 +1654,11 @@ The next couple settings are depend on your choice of ENB as well as personal pr
   * `meshes\furniture\alchemyworkbench.nif`
   * `meshes\furniture\alchemyworkstation.nif`
 
-## 7.8 [Inferno – Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files)
+## 7.8 [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Inferno – Fire Effects Redux – AIO
+* **Main Files** - Inferno - Fire Effects Redux - AIO
 
 ### FOMOD Instructions
 
@@ -1570,17 +1673,17 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 * **Flame Size:**
   * Regular
 * **Optional Patches:**
-  * KD – Realistic Fireplaces + Ember HD
+  * KD - Realistic Fireplaces + Ember HD
 * **Optional Patches:**
   * Smoking Torches and Candles
 * **Optional Plugin:**
   * Flame Meshes Patch (ESL-Tagged)
 
-## 7.9 [KD – Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/28877?tab=files)
+## 7.9 [KD - Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/28877?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – KD – Realistic Fireplaces SE – V3
+* **Main Files** - KD - Realistic Fireplaces SE - V3
 
 ### FOMOD Instructions
 
@@ -1591,9 +1694,9 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 * **Installation core setting:**
   * ESP Version(Highly Recommended)
 * **Texture Resolution Options:**
-  * KD – Realistic Fireplaces 2K
+  * KD - Realistic Fireplaces 2K
 * **Realistic Pulsating Glow Options:**
-  * KD – Fire Glow (Recommended)
+  * KD - Fire Glow (Recommended)
 * **Implement Complex Particle Lights for ENB?:**
   * Yes (Highly recommended if you are using ENB)
 * **Intensity of Complex Particle Lights:**
@@ -1603,11 +1706,11 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 * **Embers HD Patch:**
   * I trust Kenan’s taste.(Recommended)
 
-## 7.10 [Charred Logs for KD – Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/29376?tab=files) (optional)
+## 7.10 [Charred Logs for KD - Realistic Fireplaces](https://www.nexusmods.com/skyrimspecialedition/mods/29376?tab=files) (optional)
 
 ### Download Instructions
 
-* **Optional Files** – KD – Realistic Fireplaces – Charred Logs 2K
+* **Optional Files** - KD - Realistic Fireplaces - Charred Logs 2K
 
 ![separator](Pictures/Separator.png)
 
@@ -1654,13 +1757,13 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** – GORECAP
+* **Main Files** - GORECAP
 
 ## 8.5 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Deadly Spell Impacts v1_70
+* **Main Files** - Deadly Spell Impacts v1_70
 
 ### FOMOD Instructions
 
@@ -1675,11 +1778,11 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 * **Lightning:**
   * Alternate 1
 
-## 8.6 [Arctic – Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files) (optional)
+## 8.6 [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Arctic – Frost Effects Redux – AIO
+* **Main Files** - Arctic - Frost Effects Redux - AIO
 
 ### FOMOD Instructions
 
@@ -1693,40 +1796,1166 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** – Refracting Ice Form Debris – SSE – 1.1
+* **Main Files** - Refracting Ice Form Debris - SSE - 1.1
 
 ## 8.8 [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files) (optional)
 
 ### Download Instructions
 
-* **Optional Files** – Voltage 2K
+* **Optional Files** - Voltage 2K
 
-## 8.9 [ElSopa HD – Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files) (optional)
+## 8.9 [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – 1K ElSopa HD – Dirt Blast
+* **Main Files** - 1K ElSopa HD - Dirt Blast
 
 ## 8.10 [Reduced Glow FX](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Reduced Glow FX SE
+* **Main Files** - Reduced Glow FX SE
 
 ## 8.11 [Fire Halo Remover ](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)(optional)
 
 ### Download Instructions
 
-* **Main Files** – Fire Halo Remover
+* **Main Files** - Fire Halo Remover
 
 ## 8.12 [Subtle Wind FX](https://www.nexusmods.com/skyrimspecialedition/mods/24395?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Subtle Wind FX
+* **Main Files** - Subtle Wind FX
 
 ## 8.13 [Glow Be Gone - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – GlowBeGoneSSE-Updated
+* **Main Files** - GlowBeGoneSSE-Updated
+
+![separator](Pictures/Separator.png)
+
+# 09. Landscape
+
+## 9.1 [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052?tab=files)
+
+### Download Instructions
+
+* **Main Files** - 1. Majestic Mountains Main File
+
+> The LOD Pack is not required as the same textures are already packaged with HD LOD Textures which we installed in Step 5.
+
+### FOMOD Instructions
+
+* **Snow Mountain Type:**
+  * Snow Mountain New version ESL
+* **Optionals:**
+  * ~~Landscape Textures~~
+  * Moss Rocks ESL Version
+  * ~~Moss Rocks ESP Version~~
+* **Sun Direction:**
+  * None
+* **Compatibility Patches:**
+  * SMIM
+
+## 9.2 [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Landscapes - Cathedral Concept
+
+### FOMOD Instructions
+
+* **Select Install:** Full Install, Brown Tundra
+* **Select Roads:** REALly Blended Roads
+
+### ADditional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `textures\landscape\coastbeach01.dds`
+  * `textures\landscape\coastbeach01_n.dds`
+  * `textures\landscape\coastbeach02.dds`
+  * `textures\landscape\coastbeach02_n.dds`
+  * `textures\landscape\coastbeachgrass01.dds`
+  * `textures\landscape\coastbeachgrass01_n.dds`
+  * `textures\landscape\coastoceanfloor01.dds`
+  * `textures\landscape\coastoceanfloor01_n.dds`
+  * `textures\plants\`
+
+> Cath Landscapes' **coast textures** unfortunately have extremely bad tiling.
+> **Plants** will be covered by another mod later on.
+
+### INI Tweak
+
+* Double-click **Landscapes - Cathedral Concept** in your mod order.
+* Switch to the **INI-Files** tab and select the **Cathedral Landscapes.ini**.
+* Edit the following line:
+  * `iMinGrassSize=40`
+* Close the window and confirm when asked to save.
+
+> A lower value means higher grass density and potentially decreased FPS.  You may want to experiment with it a little to find your sweet spot.
+
+## 9.3 [The Elder Scrolls - Veydosebrom](https://www.nexusmods.com/skyrimspecialedition/mods/26293?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - The Elder Scrolls - Veydosebrom
+
+### FOMOD Instructions
+
+* **Veydosebrom - Grasses and Groundcover:**
+  * Packed
+* **Choose your season:**
+  * Vanilla Season
+* **Choose your INI:**
+  * None
+* **Choose your landscape:**
+  * Vanilla Landscape
+* **Choose your quality:**
+  * 1k Quality
+* **BSA Archive:**
+  * 1k Full
+
+### About the mod
+
+While Cathedral Landscape features incredibly performance friendly grasses, the type growing in the Morthal swamp area is famously ugly. Unfortunately, no other grass overhaul really features silver-white swamp grass. Veydosebrom's grass is somewhat desatured and looks great except it won't blend as well as Cath grass in the distance. Users will have to decide for themselves whether they consider much better looking grass overall worth the more noticeable grass fade-in.
+
+I uploaded a comparison slider [here](https://imgsli.com/MTQ2OTc).
+
+Be aware that Vey is not built for performance like Cath Landscapes so especially people playing on weaker machines may notice a drop in the swamp area (which is already notoriously performance intense).
+
+## 9.4 [Cathedral Landscapes - Veydosebrom Swamp Grass Addon](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - The Elder Scrolls - Veydosebrom
+
+> **Mod Dependency:** Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Otherwise skip it.
+
+## 9.5 [Pfuscher's Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532?tab=files)
+
+### Download Instructions
+
+* **Main File** - Dark grey Rapid Rocks
+* **Main File** - Update for both versions ==merge with the main file==
+
+## 9.6 [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Majestic Mountains - Northside
+
+### FOMOD Instructions
+
+* **Mountain Textures:**
+  * Northside
+* **Normal Maps:**
+  * Default Normal Maps
+* **Wet Rocks:**
+  * Tweaked Wet Rock Meshes
+  * Tweaked Rapid Rocks Textures
+* **Northside Tweaks:**
+  * ~~Northside Tweaks for (Majestic Mountains ESP version)~~
+  * Northside Tweaks for (Majestic Mountains ESL version)
+
+## 9.7 [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
+
+### Download Instructions
+
+* **Main File** - Realistic Water Two v2.2.2
+
+### FOMOD Instructions
+
+* Change nothing. Click **Next** and **Install**.
+
+> On the second page (Mod Patches) the patch for Landscape Fixes for Grass Mods will automatically be ticked. This is intended.
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `meshes\effects\fxrapidsrocks01.nif`
+
+> The mesh is overwriting Pfuscher's new one included with Rapid Rocks.
+
+## 9.8 [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** - Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
+
+### FOMOD Instructions
+
+* **Textures:** 2048×2048 Resolution
+
+## 9.9 [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Better Dynamic Snow SE v2.10.0
+
+### FOMOD Instructions
+
+* **Meshes:**
+  * SMIM
+* **Optional Addons:**
+  * Snowy Farmhouses
+* **Patches:**
+  * ~~No Snow Under the Roof~~
+
+## 9.10 [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Better Dynamic Majestic Mountains - MM ESL Version
+
+## 9.11 [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** - Skyrim 3D Icefloes
+
+## 9.12 [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Better Dynamic Ash SE
+
+## 9.13 [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
+
+### Download Instructions
+
+* **Main File** - Main File v1.65
+
+### FOMOD Instructions
+
+* **Optional Files**: Dead Marsh
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `DynDOLOD\`
+  * `Enhanced Landscapes.esp`
+  * `Enhanced Landscapes - Dead Marsh.esp`
+
+Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that only that module is installed.
+
+## 9.14 [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Enhanced Landscapes - Dead Marsh Fixes
+
+## 9.15 [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** - Rorikstead Basalt Cliffs
+
+## 9.16 [Rorikstead Basalt Cliffs Patches ](https://www.nexusmods.com/skyrimspecialedition/mods/31981?tab=files)(optional)
+
+### Download Instructions
+
+* **Main Files** - Rorikstead Basalt Cliffs Patches
+
+> Install this mod if you installed Rorikstead Basalt Cliffs. Otherwise skip it.
+
+### FOMOD Instructions
+
+* **Patches:** Rorikstead Basalt Cliffs + Alternate Start - Live Another Life + Landscape Fixes for Grass Mods
+
+### Mod Order
+
+* Place the mod below the **PATCHES** separator.
+
+## 9.17 [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Ashbound 1.1
+
+## 9.18 [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Point The Way
+
+## 9.19 [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Lanterns Of Skyrim II - FOMOD
+
+### FOMOD Instructions
+
+* **Addons:**
+  * ~~LoS II - Lantern Workers Addon~~
+  * ~~LoS II - Tamriel Master Lights (No Cities) Addon~~
+  * ~~LoS II - Tamriel Master Lights (Cities version) Addon~~
+* **Main Patches:**
+  * LoS II - SMIM patch
+  * ~~LoS II TML - Guards Armor Replacer patch~~
+* **Patches (A):**
+  * ~~LoS II - Beginner’s Shack in Riverwood patch~~
+  * ~~LoS II - Blackthorn Manor patch~~
+  * ~~LoS II - Bruma patch~~
+  * ~~LoS II - Camp Argentum patch~~
+  * ~~LoS II - Camp Varglya patch~~
+  * ~~LoS II - City Entrances Overhaul - Windhelm patch~~
+  * ~~LoS II - Convenient Bridges -Beta- patch~~
+  * ~~LoS II - Eli’s Breezehome patch~~
+  * ~~LoS II - Enhanced Solitude SSE patch~~
+  * ~~LoS II - JK’s Skyrim patch~~
+  * ~~LoS II - Northern Marsh Bridges patch~~
+  * ~~LoS II - Old Hroldan Ruins SE patch~~
+  * ~~LoS II - Overstead SE patch~~
+  * ~~LoS II - Solitude Expansion patch~~
+* **Patches (B):**
+  * ~~LoS II - Expanded Towns and Cities (SSE) patch~~
+  * ~~LoS II - Hunters Cabin of Riverwood SE patch~~
+  * ~~LoS II - Legacy of the Dragonborn V5 patch~~
+  * ~~LoS II - Run of the Mill Inn patch~~
+  * ~~LoS II - Settlements Expanded patch~~
+  * ~~LoS II - Solitude Docks patch~~
+  * ~~LoS II - Umbra Island SSE patch~~
+  * ~~LoS II - Weathered Road Signs patch~~
+* **Patches (C):**
+  * LoS II - Darkwater Crossing patch
+  * LoS II - Dragon Bridge patch
+  * LoS II - Falkreath patch
+  * ~~LoS II - Helarchen Creek patch~~
+  * LoS II - Ivarstead patch
+  * LoS II - Karthwasten patch
+  * LoS II - Kynesgrove patch
+  * ~~LoS II - Oakwood patch~~
+  * LoS II - Provincial Courier Service patch
+  * LoS II - Shor’s Stone patch
+  * LoS II - Soljund’s Sinkhole patch
+  * ~~LoS II - Telengard patch~~
+  * ~~LoS II - The Fall of Granite Hill patch~~
+  * LoS II - Whistling Mine patch
+
+## 9.20 [Manor Roads](https://www.nexusmods.com/skyrimspecialedition/mods/24715?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** - Manor Roads
+
+## 9.21 [Immersive Dawnguard Dayspring Pass (IDDP)](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
+
+### Download Instructions
+
+* **Main Files** - Immersive Dawnguard Dayspring Pass (IDDP)
+
+![separator](Pictures/Separator.png)
+
+# 10. Flora
+
+## 10.1 [Enhanced Vanilla Trees (EVT)](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files)
+
+### Download Instructions
+
+* **Main File** – Enhanced Vanilla Trees SE v1.9.0
+
+------
+
+==**FOMOD INSTRUCTIONS**==
+
+* **Mesh Options:**
+  * Enhanced Darker Meshes
+* **Tree Options:**
+  * Lush Trees (small)
+* **Clutter:**
+  * Enhanced Tree Clutter (recommended)
+  * ~~Firewood Textures~~
+* **SFO Branch Textures:**
+  * SFO Branch Textures - Version 4
+* **Alternative Trees:**
+  * ~~Realistic Aspen Trees~~
+  * SFO Snowy Pine Trees
+
+## 10.2 [Enhanced Vanilla Trees – Vurts Light Snow Trees](https://www.nexusmods.com/skyrim/mods/76086?tab=files)
+
+### Download Instructions
+
+* **Optional File** – Light Snow Trees Replacer (for Vurts snow tree option users)
+
+### FOMOD Instructions
+
+* Resave **EVT_LightSnowTrees_Replacer (For Vurts).esp** in the Creation Kit.
+
+## 10.3 [Tree Bark in High Definition](https://www.nexusmods.com/skyrimspecialedition/mods/20336?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Tree Bark in High Definition
+
+> While tree bark retextures are generally incompatible with the new meshes from EVT, this retexture, even though it wasn't made for EVT, looks perfectly fine. There are no textures cut off, or stretching.
+
+### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `textures\landscape\trees\treeaspenbarkcomp.dds`
+  * `textures\landscape\trees\treeaspenbarkcomp_n.dds`
+
+> I prefer the aspen bark textures from Enhanced Vanilla Trees.
+
+## 10.4 [Enhanced Landscapes – Oaks Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/27367?tab=files)
+
+### Download Instructions
+
+* **Main File** – ELOS Oaks mixed greens
+
+## 10.5 [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Bent Pines II
+
+## 10.6 [Sacred Trees](https://www.nexusmods.com/skyrimspecialedition/mods/26214?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Sacred Trees
+
+## 10.7 [Rudy HQ – Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Rudy HQ - Falling Leaves and Needles for ENB SE
+
+## 10.8 [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Cathedral - Plants
+
+## 10.9 [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Realistic HD Mushrooms Remastered
+
+## 10.10 [Less Ugly Tundra Grass](https://www.nexusmods.com/skyrimspecialedition/mods/26740?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Less Ugly Tundragrass – Redder Variant
+
+> I am recommending the "Redder Variant" because we are not using any green Whiterun tundra mods.
+
+## 10.11 [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Immersive Fallen Trees SSE
+
+## 10.12 [Immersive Fallen Trees Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27834?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Immersive Fallen Trees Patch
+
+> Install this mod if you installed Immersive Fallen Trees. Otherwise skip it.
+
+![separator](Pictures/Separator.png)
+
+# 11. Architecture
+
+## 11.1 [MD's Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/32160?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – MD's Farmhouses - 2K
+
+## 11.2 [The Streets of Whiterun HD](https://www.nexusmods.com/skyrimspecialedition/mods/20396?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – The Streets of Whiterun in HD – 2k Mossier
+
+## 11.3 [Riften in High Definition](https://www.nexusmods.com/skyrimspecialedition/mods/20296?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Riften in High Definition 2K
+
+## 11.4 [Marvelous Windhelm Gate](https://www.nexusmods.com/skyrimspecialedition/mods/24349?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Marvelous Windhelm Gate SE 4K
+
+## 11.5 [Windhelm Enhanced – HD Metalwork](https://www.nexusmods.com/skyrim/mods/74830?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Windhelm Enhanced Metalwork 2k
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**Optimsise SLE Assets**).
+
+## 11.6 [RUSTIC MONUMENTS AND TOMBSTONES](https://www.nexusmods.com/skyrim/mods/68884/?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC MONUMENTS and TOMBSTONES V2.6
+
+### FOMOD Instructions
+
+* **Monument Textures:** 2k
+* **Tomb Textures:** 4k
+* **Meshes:** SMIM
+
+## 11.7 [HQ Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/23937?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – HQ Solitude – 2K
+* **Optional File** - 4K Blue Palace Floor
+
+### Additional Instructions
+
+* Delete the following files:
+  * `textures\architecture\solitude\sdoorgate01.dds`
+  * `textures\architecture\solitude\sdoorgate01_n.dds`
+
+ > The gate retexture included with **Noble Skyrim** looks much better.
+
+## 11.8 [Pfuscher’s Manhole Texture](https://www.nexusmods.com/skyrimspecialedition/mods/19799?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Super duper manhole
+
+## 11.9 [Skyland – Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/22757?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyland – Winterhold
+
+## 11.10 [Skyrim 3D Misc – Winterhold Gate](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim 3D Misc – Winterhold Gate
+
+## 11.11 [Skyrim Textures Redone – High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/13621?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – STR – High Hrothgar 2K
+
+## 11.12 [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim 3D High Hrothgar Steps
+
+## 11.13 [Pilgrim’s Delight – High Hrothgar Shrine Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/3273?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Pilgrim’s Delight
+
+## 11.14 [Skyrim Textures Redone – Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – STR – SkyHaven 2K
+
+## 11.15 [Spice of Life – Orc Strongholds](https://www.nexusmods.com/skyrimspecialedition/mods/22178?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Spice of Life – Orc Longhouses
+
+### FOMOD Instructions
+
+* **Core Files:**
+  * 2k Textures
+* **Optional Extras:**
+  * LODs 512
+
+## 11.16 [Sovngarde HD](https://www.nexusmods.com/skyrimspecialedition/mods/15891?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Sovngarde HD 2K
+
+## 11.17 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Dawnguard Fortress Improved SE v1.0
+
+## 11.18 [Castle Volkihar Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/10729?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – CC’s Castle Volkihar Reborn – 2K – 2.0
+
+## 11.19 [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Soul Cairn HD 2K
+
+## 11.20 [Arri’s Snow Elf Ruins Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/7292?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – SSE 2K Textures
+
+![separator](Pictures/Separator.png)
+
+# 12. Misc Structures
+
+## 12.1 [Fences of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/5664?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Fences of Skyrim – Weathered Edition 2K
+
+## 12.2 [Skyrim Landscape Overhaul – Stone Walls](https://www.nexusmods.com/skyrim/mods/76359?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim Landscape Overhaul – Stone Walls (All-In-One FOMOD Installer)
+
+### FOMOD Instructions
+
+* **Optionals:**
+  * New Ivy
+  * ~~ENHANCED LANDSCAPES PATCH~~
+  * ~~New Farm Walls Plugin (and Meshes)~~
+  * New Terrace Stone Walls
+* **Stone Wall Textures:**
+  * Texture Variant 2 – Med
+* **New Ivy Textures:**
+  * Low
+* **New Terrace Textures:**
+  * Med
+
+### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+
+### About the mod
+
+While it is optional, I do highly recommend this mod. If you skip it, the new mesh and, more importantly, the new textures from High Poly Project will be used ingame for the stone walls, and they don't look quite as good.
+
+## 12.3 [Skyrim 3D Signs](https://www.nexusmods.com/skyrimspecialedition/mods/21338?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim 3D Signs
+
+## 12.4 [SkyFix – HD Blacksmith Signs](https://www.nexusmods.com/skyrimspecialedition/mods/10606?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – SkyFix SE – HD Blacksmith Signs 1.0
+
+## 12.5 [RUSTIC EAST EMPIRE COMPANY SIGNAGE](https://www.nexusmods.com/skyrim/mods/68196?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC EAST EMPIRE COMPANY SIGNAGE – Dark Version
+
+## 12.6 [Ennead – Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/9264?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Sekmet Shadowmarks 1K
+
+## 12.7 [ElSopa HD – Glorious Dummies](https://www.nexusmods.com/skyrimspecialedition/mods/20865?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Desaturated Glorious Dummies
+
+### FOMOD Instructions
+
+* **Resolution:** 2K
+
+## 12.8 [Stunning Statues of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3375?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – SSoS – Installer Fix
+
+### FOMOD Instructions
+
+* **Choose your statues:**
+  * Bella Dibella
+  * Neat Nocturnal
+  * Astonich Azura
+  * ~~Terrific Talos~~
+  * Ysterical Ysgramor
+  * Melancholic Meridia
+  * Madness Malacath
+  * Wakened Winterhold
+  * Clever Clavicus
+  * Bucolic Boethiah
+  * Necrotic Namira
+  * Magnetic Mara
+  * Malefic Mehrunes
+  * Vehement Vaermina
+  * ~~Spicy Skyforge~~
+  * Fancy Falmer
+  * ~~Sweet Sovngarde~~
+* **Bella Dibella:**
+  * HD Meshe
+  * Dibella 2k
+* **Neat Nocturnal:**
+  * HD Meshe
+  * Nocturnal 2k
+* **Astonich Azura:**
+  * HD Meshe
+  * Azura 2k
+* **Ysterical Ysgramor:**
+  * HD Meshe
+  * Ysgramor 2k
+* **Melancholic Meridia:**
+  * HD Meshe
+  * Meridia white 4k
+* **Madness Malacath:**
+  * HD Meshe No Glow (for stone texture)
+  * Malacath Stone 2k
+* **Wakened Winterhold:**
+  * HD Meshe
+  * Winterhold 4k
+* **Clever Clavicus:**
+  * HD Meshe Default Mask
+  * Clavicus 2k
+* **Bucolic Boethiah:**
+  * HD Meshe
+  * Boethiah 4k
+* **Necrotic Namira:**
+  * HD Meshe
+  * Namira 2k
+* **Magnetic Mara:**
+  * HD Meshe
+  * Mara 2k
+* **Malefic Mehrunes:**
+  * HD Meshes
+  * Mehrunes Green 2k
+* **Vehement Vaermina:**
+  * HD Meshe
+  * Vaermina 4k
+* **Fancy Falmer:**
+  * HD Meshe
+  * Falmer Rusty Copper 4k
+
+## 12.9 [LeanWolf’s Better-Shaped Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/4752?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – LeanWolf’s Better-Shaped Talos with Greatsword SE
+
+### FOMOD Instructions
+
+* **Talos Statue:** High-Poly Statue
+* **Weapon:** Nord Hero Greatsword
+* **Patches:** ~~No Snow Under the Roof~~
+
+## 12.10 [Astral Aspects – Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/18098?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Astral Aspect – 2K – 1.4
+
+![separator](Pictures/Separator.png)
+
+# 13. Vanilla Locations
+
+## 13.1 [JK’s Cities – Lite](https://www.nexusmods.com/skyrim/mods/71018?tab=files)
+
+### Download Instructions
+
+* **Main Files** – JKs Cities – Lite and SuperLite – Installer – 1.3
+
+### FOMOD Instructions
+
+* **Main:** LITE – Merged
+* **Optional:** None
+* **JKs Lite - Towns:** ~~Towns - BETA - READ DESCRIPTION ON THE LEFT~~
+
+### Porting Instructions
+
+* Resave **JKs LITE – Cities.esp** in the Creation Kit.
+
+## 13.2 [Arthmoor’s Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/13607?tab=files)
+
+### Download Instructions
+
+* **Main File** – Dawnstar
+
+## 13.3 [Arthmoor’s Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/21266?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Falkreath
+
+## 13.4 [Arthmoor’s Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/8683?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Dragon Bridge
+
+## 13.5 [Arthmoor’s Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/349?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Ivarstead
+
+## 13.6 [Arthmoor’s Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/16881?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Rorikstead
+
+## 13.7 [Arthmoor’s Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/351?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Kynesgrove
+
+## 13.8 [Arthmoor’s Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/350?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Karthwasten
+
+## 13.9 [Arthmoor’s Darkwater Crossing](https://www.nexusmods.com/skyrimspecialedition/mods/326?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Darkwater Crossing
+
+## 13.10 [Arthmoor’s Shor’s Stone](https://www.nexusmods.com/skyrimspecialedition/mods/354?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Shor’s Stone
+
+## 13.11 [Arthmoor’s Soljund’s Sinkhole](https://www.nexusmods.com/skyrimspecialedition/mods/358?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Soljund’s Sinkhole
+
+## 13.12 [Arthmoor’s Whistling Mine](https://www.nexusmods.com/skyrimspecialedition/mods/367?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Whistling Mine
+
+## 13.13 [Obscure’s College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Obscure’s College of Winterhold
+
+### FOMOD Instructions
+
+* **Immersive College NPCs:**
+  - Immersive College NPCs Integration
+* **Optional Lighting Adjustments:**
+  - Recommended Interiors
+* **Music Options:**
+  - New Music Plus Vanilla Music
+* **Other Files:**
+  - ~~Hall of Diligence FPS Help~~
+* **Recommendations:**
+  - Mannequins Stay Put Detected
+* **iNeed:**
+  * ~~iNeed - Food Water and Sleep~~
+  * ~~iNeed - Extended~~
+* **Lighting:**
+  - ~~Enhanced Lights and FX~~
+  - ~~ELFX - Exteriors~~
+  - Relighting Skyrim
+  - ~~Lanterns of Skyrim II - Tamriel Master Lights~~
+* **The Lost Library:**
+  - Book Covers Skyrim
+  - ~~Book Covers Skyrim - Lost Library~~
+  - ~~Legacy of the Dragonborn~~
+* **Map Markers:**
+  * ~~Atlas Map Markers (port by SlaterMan)~~
+  * ~~Atlas Map Markers (port by kryptopyr)~~
+  * ~~Map Markers Complete~~
+* **Morrowloot:**
+  - Morrowloot Miscellania - Item Distribution
+* **Quest Mods:**
+  - Quests are in Skyrim
+* **Sound Mods:**
+  - Audio Overhaul
+  - ~~Sounds of Skyrim Complete (SE port by Arthmoor)~~
+  - ~~Sounds of Skyrim Complete (SE port by tonycubed2)~~
+* **Various Mods:**
+  - ~~Arcanum - A New Age of Magic~~
+  - ~~Artifacts - The Tournament of the Ten Bloods~~
+  - ~~BadGremlin's Collection~~
+  - Better Dynamic Snow
+  - ~~Better Spell Learning~~
+  - ~~Black Mage Armor~~
+  - ~~Blacksmith Forge Water Fix~~
+  - ~~College Modifications~~
+  - ~~Cutting Room Floor~~
+  - ~~Dynamic Firewood Stacks~~
+  - ~~Enlightened College of Winterhold~~
+  - ~~Equippable Spell Tomes~~
+  - ~~Female Mannequins~~
+  - ~~Flora Respawn Fix~~
+  - ~~Humans, Mer, and Beastfolk~~
+  - ~~Immersive Laundry~~
+  - Immersive NPCs
+  - ~~Konahrik's Accountrements~~
+  - ~~Lootable Wood Piles~~
+  - ~~M'rissi's Tails of Troubles~~
+  - ~~Mystic Condenser~~
+  - Mysticism - A Magic Overhaul
+  - ~~Scrollwriting in Skyrim~~
+  - ~~Skyrim 3D Trees and Plants~~
+  - ~~Snazzy Furniture and Clutter Overhaul~~
+  - ~~Spell Crafting in Skyrim~~
+  - ~~Spell Research~~
+  - ~~Tamrielic Culture~~
+  - ~~The Midden - Expanded (Lite)~~
+  - The Tools of Kagrenac
+  - ~~Viewable Faction Ranks~~
+  - WACCF - Armor and Clothing Extension
+  - Weapons Armor Clothing and Clutter Fixes 2.0+
+* **Readme:**
+  * Readme
+* **Winterhold City:**
+  * ~~Realistic Winterhold~~
+  * ~~The Great Cities - Minor Cities and Towns~~
+  * ~~The Great City of Winterhold~~
+  * ~~The People of Skyrim 2 Full~~
+  * ~~The People of Skyrim 2 Partial~~
+  * ~~Winterhold Restored 2.x~~
+  * ~~Winterhold Restored 2.x - JK's Skyrim Patch Patch~~
+* **Arch-Mage's Quarters:**
+  * None
+* **Asset Patches:**
+  - ~~Rudy HQ Misc. for Superior Silverware~~
+  - ~~Improved Eyes Complete - Only Default~~
+* **Solitude Temple Frescoes:**
+  - ~~Solitude Temple Frescoes 2019~~
+  - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
+  - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
+
+![separator](Pictures/Separator.png)
+
+# 14. Interiors
+
+## 14.1 [RUSTIC WINDOWS](https://www.nexusmods.com/skyrimspecialedition/mods/1937?tab=files)
+
+### Download Instructions
+
+* **Main Files** – RUSTIC WINDOWS – Special Edition – 2K
+
+## 14.2 [Hall of the Dead - Stained Glass Windows](https://www.nexusmods.com/skyrimspecialedition/mods/30066?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – WiZkiD - Hall of the Dead Stained Glass Windows
+
+## 14.3 [Ennead – Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Ennead – Banners 2K
+* **Miscellaneous Files** – Ennead Banners – 2K Riften Silver
+
+## 14.4 [PELTAPALOOZA](https://www.nexusmods.com/skyrimspecialedition/mods/5442?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – PELTAPALOOZA Special Edition – FULL
+
+## 14.5 [RUGNAROK](https://www.nexusmods.com/skyrimspecialedition/mods/5436?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – RUGNAROK – Special Edition – 2K
+
+## 14.6 [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Download and install the main file.
+
+### FOMOD Instructions
+
+* **Smoke Effect:** Smoke Effect (STAC Compatible)
+* **Lantern:** Version_1
+
+## 14.7 [Skyrim 3D Cooking](https://www.nexusmods.com/skyrimspecialedition/mods/23007?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – Skyrim 3D Cooking
+
+## 14.8 [RUSTIC ALCHEMY AND ENCHANTING TABLES](https://www.nexusmods.com/skyrim/mods/62328?tab=files) (optional)
+
+### Download Instructions
+
+* **Optional Files** – Retex of Revamped Alchemy Lab HD – 2K
+
+## 14.9 [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files** – JS Shrines of the Divines SE – 2K
+
+![separator](Pictures/Separator.png)
+
+# 15. Dungeons
+
+## 15.1 [Underground – A Dungeon Texture Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files)
+
+### Download Instructions
+
+* **Main Files** – Underground FOMOD
+
+> There is no need to download the Whiterun Tower Fix because regenerating DynDOLOD later on will correct the issue.
+
+### FOMOD Instructions
+
+* **Main Options:**
+  * Custom installation
+* **Options:**
+  * 00 Caves
+  * 01 Mines
+  * 02 Nordic
+  * ~~03 Dwemer~~
+  * 04 Imperial
+  * 05 Riften
+  * 06 Apocrypha
+
+### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `textures\dlc02\dungeons\apocrypha\apocryphabanner01.dds`
+  - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_g.dds`
+  - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_n.dds`
+  - `textures\dungeons\riften\ratwaywood01.dds`
+  - `textures\dungeons\riften\ratwaywood01_n.dds`
+
+## 15.2 [Rudy HQ – Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/19365?tab=files)
+
+### Download Instructions
+
+* **Main File** - Rudy HQ - Nordic Ruins SE version
+* **Optional File** - Chests addon
+* **Optional File** - Ruin Levers addon SE version
+
+### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `meshes\clutter\ruins\ruinscandlesconceoff01.nif`
+  - `meshes\clutter\ruins\ruinscandlesconceon01.nif`
+  - `meshes\clutter\ruins\ruinscandlesconceon02.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampmidoff.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampmidoff02.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampmidon.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampmidon02.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff02.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampsmon.nif`
+  - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
+  - `textures\effects\`
+
+## 15.3 [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Ice Cave Parallax Improved 1.4.1
+
+## 15.4 [Gecko’s Dwarven Ruins Textures](https://www.nexusmods.com/skyrimspecialedition/mods/10738?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Gecko’s Dwarven Ruins Textures
+
+## 15.7 [RUSTIC WORD WALLS](https://www.nexusmods.com/skyrim/mods/68561?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – RUSTIC WORD WALLS 2K
+
+## 15.9 [4K Nordic Murals ](https://www.nexusmods.com/skyrimspecialedition/mods/32379?tab=files)(optional)
+
+### Download Instructions
+
+* **Main File** – 4K Nordic Murals
+
+## 15.10 [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Enhanced Ore Veins – 2K – 7.2
+
+### FOMOD Instructions
+
+* **Stone Color:** Grey
+* **Type:** Normal
+* **Mined Ores:** Keep Old Ones
+* **Ingots:** No new ingots
+* **Patches:** Hearthfire
+* **Format:** ESL
+
+### Additional Instructions
+
+* Double-click **CC’s Enhanced Ore Veins** in your mod order.
+* Switch to the **Filetree** tab.
+* Rename the plugin’s file extension:
+  * CC’sEnhancedOreVeinsSSE-HearthfirePatch.**esp**
+
+> This is faster than ESL-ifying the ESP version.
+
+## 15.11 [CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap](https://drive.google.com/open?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8) (optional)
+
+### Installation Instructions
+
+* Download **CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap** from Google Drive.
+* Move the file to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+* In Mod Organizer 2, press F5 to refresh and the file will appear in your **Downloads** tab.
+* Double-click the file to install it as usual.
+
+> Unfortunately the issue persists in the latest version of CC's Enhanced Ore Veins. I uploaded a direct [comparison](https://imgsli.com/MTMyOTE) - before and after installing the fixed cube map.
+
+## 15.12 [Metallurgy – Ingots and Ore HD ](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)(optional)
+
+### Download Instructions
+
+* **Main File** – Metallurgy – Ingots and Ore HD 1K (LOOSE)
+
+## 15.13 [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – Ancient Pottery
+
+## 15.14 [ElSopa HD – Realistic Dark Elf Urns](https://www.nexusmods.com/skyrimspecialedition/mods/21717?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** – HD Dark Elf Urns 2k
+
+## 15.15 [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - Ancient Dwemer Metal 2K
+
+## 15.16 [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files) (optional)
+
+### Download Instructions
+
+* **Main File** - HD Lava (4k)
