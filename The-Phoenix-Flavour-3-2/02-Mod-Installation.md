@@ -567,14 +567,15 @@
 - [39 // SKELETON & ANIMATIONS](#39--skeleton--animations)
   - [39.1 Fores New Idles in Skyrim (FNIS)](#391-fores-new-idles-in-skyrim-fnis)
   - [39.2 XP32 Maximum Skeleton Special Extended (XPMSSE)](#392-xp32-maximum-skeleton-special-extended-xpmsse)
-  - [39.3 All Geared Up Derivative (AllGUD)](#393-all-geared-up-derivative-allgud)
-  - [39.4 No Heavy Muscular Walk and Idle (optional)](#394-no-heavy-muscular-walk-and-idle-optional)
-  - [39.5 3rd Person Dual Wielding Fix (optional)](#395-3rd-person-dual-wielding-fix-optional)
-  - [39.6 D13 Faster GET UP STAND UP Animation (optional)](#396-d13-faster-get-up-stand-up-animation-optional)
-  - [39.7 Dragon Animations Replacer (optional)](#397-dragon-animations-replacer-optional)
-  - [39.8 Immersive Dragons (optional)](#398-immersive-dragons-optional)
-  - [39.9 Supreme Vampire Lord (optional)](#399-supreme-vampire-lord-optional)
-  - [39.10 Werewolf Claws Affect Spider Webs (optional)](#3910-werewolf-claws-affect-spider-webs-optional)
+  - [39.3 XPMSSE Fixes - Automated Patcher](#393-xpmsse-fixes---automated-patcher)
+  - [39.4 All Geared Up Derivative (AllGUD)](#394-all-geared-up-derivative-allgud)
+  - [39.5 No Heavy Muscular Walk and Idle (optional)](#395-no-heavy-muscular-walk-and-idle-optional)
+  - [39.6 3rd Person Dual Wielding Fix (optional)](#396-3rd-person-dual-wielding-fix-optional)
+  - [39.7 D13 Faster GET UP STAND UP Animation (optional)](#397-d13-faster-get-up-stand-up-animation-optional)
+  - [39.8 Dragon Animations Replacer (optional)](#398-dragon-animations-replacer-optional)
+  - [39.9 Immersive Dragons (optional)](#399-immersive-dragons-optional)
+  - [39.10 Supreme Vampire Lord (optional)](#3910-supreme-vampire-lord-optional)
+  - [39.11 Werewolf Claws Affect Spider Webs (optional)](#3911-werewolf-claws-affect-spider-webs-optional)
 - [40. Utilities](#40-utilities)
   - [40.1 Private Profile Redirector (optional)](#401-private-profile-redirector-optional)
   - [40.2 PapyrusUtil](#402-papyrusutil)
@@ -6233,7 +6234,28 @@ This mod was not packaged correctly.
 * **Enderal:**
   * None
 
-## 39.3 [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
+## 39.3 [XPMSSE Fixes - Automated Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+### Download Instructions
+
+- **Main Files:** XPMSSE Fixes - Automated Patcher `--download the file manually--`
+
+### Special Instructions
+
+- Find **XP32 Maximum Skeleton Special Extended** in your mod order.
+- Right-click it and select **Open in Explorer**.
+- Double-click the **scripts** folder.
+- Open the downloaded archive and xtract all files into this folder.
+- Double-click **patch-xpmse.bat** to start the process of applying the delta patch.
+- The patcher will delete themselves when it's done.
+
+### About the mod
+
+Like many mod authors, Groovtama does not allow anyone to upload modified versions of his mod, XP32 Maximum Skeleton. At the same time he unfortunately refuses to fix some bugs in his mod so we will have to do that ourselves with our own copies of the mod. Instructions were posted [here](https://www.nexusmods.com/skyrim/articles/52373) by Kriffin, the author of All Geared Up Derivative, which is my source for the instructions below.
+
+The automated version is a delta patcher to apply the changes automatically to your scripts (so there is no need for everyone to follow Kriffin's instructions).
+
+## 39.4 [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
 
 ### Download Instructions
 
@@ -6241,43 +6263,43 @@ This mod was not packaged correctly.
 
 > In order to get AllGUD up and running, there are quite a few more additional steps. These will be taken care of during the Finalisation.
 
-## 39.4 [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files) (optional)
+## 39.5 [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – No heavy muscular walk and idle
 
-## 39.5 [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
+## 39.6 [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – DWANIM
 
-## 39.6 [D13 Faster GET UP STAND UP Animation](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files) (optional)
+## 39.7 [D13 Faster GET UP STAND UP Animation](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – D13 Faster Get Up Stand Up SSE
 
-## 39.7 [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files) (optional)
+## 39.8 [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – DragonAnimationReplace_inSE_1_01
 
-## 39.8 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files) (optional)
+## 39.9 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – Immersive Dragons SE
 
-## 39.9 [Supreme Vampire Lord](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files) (optional)
+## 39.10 [Supreme Vampire Lord](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – Supreme Vampire Lords XP32 SE
 
-## 39.10 [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files) (optional)
+## 39.11 [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files) (optional)
 
 ### Download Instructions
 

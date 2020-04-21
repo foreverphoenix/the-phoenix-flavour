@@ -185,7 +185,7 @@
 - **37.1:** Added instructions to download the Enhanced Blood Textures patch for Audio Overhaul Skyrim.
 - **38.1:** ENB Light is no longer optional.
 - **38.2:** Removed AOS+ENB Light+Mysticism patch (conflicts are resolved in the guide's CRP now).
-- **39.3:** Added All Geared Up Derivative - AllGUD.
+- **39.4:** Added All Geared Up Derivative - AllGUD.
 
 ## Finalisation
 
@@ -213,7 +213,7 @@
 - Moved ENB Shader Cache instructions to Step 1.
 - Instructions to turn down the DOF slider ingame were moved to the Finalisation.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # Release 3.2 Beta 2
 
@@ -243,7 +243,7 @@
 
 - **Interface:** Fleshed out the Widescreen Support section.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # Release 3.2 Beta 3
 
@@ -260,7 +260,7 @@
 - **33.3:** Updated download instructions for 3DNPC (hotfix was updated).
 - **33.6:** Added missing FOMOD instructions for Immersive College NPCs.
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # Release 3.2 Beta 4
 
@@ -291,7 +291,7 @@
 
 - **Interface:** Added new "Main Menu Mods" section (to be expanded in the future).
 
-![separator](Pictures/Separator.png)
+![separator](../Media/separator.png)
 
 # Release 3.2 Beta 5
 
@@ -319,9 +319,11 @@
 - **26.6:** Fixed customisation instructions (console command syntax) for Guard Dialogue Overhaul.
 - **29.10:** Updated FOMOD instructions for Reliquary of Myth.
 - **31.10:** Added additional instructions to Copy and Paste in Console.
+- **39.3:** Moved XPMSSE Fixes - Automated Patcher here.
 
 ## Finalisation
 
+- Removed manual instructions for fixing XPMSSE. Moved the automated patcher to the Mod Installation.
 - **1.1:** Moved FOMOD instructions for Obscure's College of Winterhold to the mod's instructions.
 
 ## New Game
