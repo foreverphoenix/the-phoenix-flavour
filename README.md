@@ -1,4 +1,4 @@
-![Logo](The%20Phoenix%20Flavour%20-%20Skyrim%20SE%20Edition%203.2/Pictures/Logo%20Mockup.png)
+![Logo](Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [Overview](#overview)

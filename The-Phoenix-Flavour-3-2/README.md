@@ -1,4 +1,4 @@
-![Logo](Pictures/Logo%20Mockup.png)
+![Logo](../Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [Release 3.2 Beta 1](#release-32-beta-1)
