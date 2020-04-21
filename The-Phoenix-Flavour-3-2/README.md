@@ -93,6 +93,7 @@
 - **1.4:** Added SSE Display Tweaks.
 - **1.6:** Updated download instructions for Performance Optimised Textures.
 - **2.7:** Updated FOMOD instructions for Landscape Fixes For Grass Mods - Patches for Arthmoor's Mods.
+- **2.8:** Updated download instructions for NARC Remade (file update).
 - **2.8:** Added instructions to select The Forgotten City patch in the NARC FOMOD.
 - **2.23:** Added Bug Fixes (the mod, by meh321).
 - **3.2:** Changed FOMOD instructions for Dwemer Gates Don't Reset (using the Dwemer Only USSEP version now).

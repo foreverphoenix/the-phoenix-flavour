@@ -806,7 +806,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 ### Download Instructions
 
-- **Main File** - NARC Remade 1.0.1 - Standard edition
+- **Main File** - NARC Remade 1.0.2
 
 ### FOMOD Instructions
 
