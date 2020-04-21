@@ -2920,7 +2920,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
   - ~~Flora Respawn Fix~~
   - ~~Humans, Mer, and Beastfolk~~
   - ~~Immersive Laundry~~
-  - Immersive NPCs
+  - Interesting NPCs
   - ~~Konahrik's Accountrements~~
   - ~~Lootable Wood Piles~~
   - ~~M'rissi's Tails of Troubles~~
