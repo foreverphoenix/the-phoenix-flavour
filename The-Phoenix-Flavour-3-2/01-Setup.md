@@ -970,7 +970,7 @@ After completing the Setup, you are equipped with a correctly installed and conf
 
 ### 10.1.2 Mod Installation
 
-You can find all mod installation instructions in the [02_Mod_Installation.md](/The_Phoenix_Flavour_3_2/02_mod_installation.md). I highly recommend opening it in a new tab or window while keeping the current document so that you are able to refer to the instructions detailed below while installing the mods.
+You can find all mod installation instructions in the [02_Mod_Installation.md](/The-Phoenix-Flavour-3-2/02-Mod-Installation.md). I highly recommend opening it in a new tab or window while keeping the current document so that you are able to refer to the instructions detailed below while installing the mods.
 
 ## 10.2 General Instructions
 
