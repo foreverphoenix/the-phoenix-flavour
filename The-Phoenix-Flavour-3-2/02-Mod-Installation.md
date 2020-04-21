@@ -589,6 +589,8 @@
   - [40.11 Fuz Ro D-oh – Silent Voice](#4011-fuz-ro-d-oh--silent-voice)
   - [40.12 Console Commands Extender (optional)](#4012-console-commands-extender-optional)
 
+![separator](../Media/separator.png)
+
 # 01. Essential Mods
 
 ## 1.1 [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
