@@ -7,18 +7,18 @@
   - [Skyrim launches fine but the main menu doesn't load.](#skyrim-launches-fine-but-the-main-menu-doesnt-load)
 - [PERFORMANCE](#performance)
   - [Playing on a resolution of 1440p or higher.](#playing-on-a-resolution-of-1440p-or-higher)
-- [FEATURED MODS](#featured-mods)
-  - [Will you add Legacy of the Dragonborn to The Phoenix Flavour?](#will-you-add-legacy-of-the-dragonborn-to-the-phoenix-flavour)
-  - [Will you add Ordinator to The Phoenix Flavour?](#will-you-add-ordinator-to-the-phoenix-flavour)
-  - [Will you add {my favourite mod} to The Phoenix Flavour?](#will-you-add-my-favourite-mod-to-the-phoenix-flavour)
-  - [Does The Phoenix Flavour include Needs / Survival mods?](#does-the-phoenix-flavour-include-needs--survival-mods)
-- [GAMEPLAY](#gameplay)
-  - [How difficult is combat in Skyrim with The Phoenix Flavour?](#how-difficult-is-combat-in-skyrim-with-the-phoenix-flavour)
 - [MISC QUESTIONS](#misc-questions)
   - [Is ENBoost a thing in Skyrim SE?](#is-enboost-a-thing-in-skyrim-se)
   - [Can I play with a controller instead of mouse and keyboard?](#can-i-play-with-a-controller-instead-of-mouse-and-keyboard)
   - [Why don't all Classic Skyrim mods that included meshes have CAO instructions?](#why-dont-all-classic-skyrim-mods-that-included-meshes-have-cao-instructions)
   - [Is it still necessary to roll back to an older version of the Creation Kit?](#is-it-still-necessary-to-roll-back-to-an-older-version-of-the-creation-kit)
+- [GAMEPLAY](#gameplay)
+  - [How difficult is combat in Skyrim with The Phoenix Flavour?](#how-difficult-is-combat-in-skyrim-with-the-phoenix-flavour)
+- [FEATURED MODS](#featured-mods)
+  - [Will you add Legacy of the Dragonborn to The Phoenix Flavour?](#will-you-add-legacy-of-the-dragonborn-to-the-phoenix-flavour)
+  - [Will you add Ordinator to The Phoenix Flavour?](#will-you-add-ordinator-to-the-phoenix-flavour)
+  - [Will you add {my favourite mod} to The Phoenix Flavour?](#will-you-add-my-favourite-mod-to-the-phoenix-flavour)
+  - [Does The Phoenix Flavour include Needs / Survival mods?](#does-the-phoenix-flavour-include-needs--survival-mods)
 
 ![separator](../Media/separator.png)
 
@@ -68,49 +68,6 @@ iSize H=1080
 iSize W=1920
 ```
 
-![separator](/Media/separator.png)
-
-# FEATURED MODS
-
-## Will you add Legacy of the Dragonborn to The Phoenix Flavour?
-
-No.
-
-
-## Will you add Ordinator to The Phoenix Flavour?
-
-No.
-
-## Will you add {my favourite mod} to The Phoenix Flavour?
-
-Maybe.
-
-Make sure the mod (or a comparable alternative) is not already part of the guide and that it fits our general Vanilla+ standards. Then check my dedicated **[Trello board](https://trello.com/b/Rv20fMdV/the-phoenix-flavour-additional-mods)** for mods that are already considered as potential additions. If your mod is not included there either, you are free to share it in our **#mod-suggestions** channel on Discord, preferably with an explanation as to why you would like to see it in the guide!
-
-## Does The Phoenix Flavour include Needs / Survival mods?
-
-Needs mods for Skyrim implement Survival features such as hunger, thirst, and fatigue. There are also mods that add exposure as an additional factor, forcing you to keep dry and warm. Examples are Realistic Needs and Diseases, iNeed, Frostfall and, by extension, Campsite, or the Creation Club’s Survival Mode.
-
-None of these mods are included in the main guide, and they never will be.
-
-That being said, it is possible that I will at some point down the line, add these mods to the Customisation section. No promises.
-
-There is a new light-weight survival mod - [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068) by Parapets - that may eventually be added to the mian guide.
-
-![Separator](../Media/separator.png)
-
-# GAMEPLAY
-
-## How difficult is combat in Skyrim with The Phoenix Flavour?
-
-With 3.0 - unlike previous versions - combat is not much harder than in vanilla. **[Wildcat – Combat in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)** helps diversify the behaviours of enemies as well as make combat a lot more interesting with timed blocks, attacks of opportunity and higher Stamina consumption. By adjusting the damage multipliers, users are free to tweak their own combat pacing and lethality. Playing on regular Adept with no custom changes will yield similarly "easy" but overall more enjoyable combat as vanilla.
-
-Some additional, smaller mods that the guide includes help with making combat feel fresh – such as **[Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378)** which finally allows you to reliably side-step enemy attacks but also requires you to come in close and personal for your own attacks.
-
-Enemy levels will be slightly higher than in vanilla, depending on their type. With SimonMagus' encounter zone overhaul [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) you will still be able to comfortably quest in Whiterun in the early game but some enemy types – such as Vampires, Falmer, Draugr lords – will have higher levels than regular bandits and require more preparation and caution on your part.
-
-> Looking for significantly more challenging combat? Try [Lexy’s Legacy of the Dragonborn](https://lexyslotd.com/) instead.
-
 ![separator](../Media/separator.png)
 
 # MISC QUESTIONS
@@ -134,3 +91,45 @@ There is also the possibility that I simply forgot to add those instructions to 
 No, this is no longer necessary. You should be running the latest version of the Creation Kit. Go into your **root** folder, right-click **CreationKit.exe**, switch to the **Details** tab and you should have **Product version 1.5.73.0**.
 
 For a time it was necessary to use the executable and DLLs of the previous version (1.5.53) because **CK Fixes** was only working with that version of the Creation Kit. CK Fixes has since been updated.
+
+![Separator](../Media/separator.png)
+
+# GAMEPLAY
+
+## How difficult is combat in Skyrim with The Phoenix Flavour?
+
+With 3.0 - unlike previous versions - combat is not much harder than in vanilla. **[Wildcat – Combat in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)** helps diversify the behaviours of enemies as well as make combat a lot more interesting with timed blocks, attacks of opportunity and higher Stamina consumption. By adjusting the damage multipliers, users are free to tweak their own combat pacing and lethality. Playing on regular Adept with no custom changes will yield similarly "easy" but overall more enjoyable combat as vanilla.
+
+Some additional, smaller mods that the guide includes help with making combat feel fresh – such as **[Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378)** which finally allows you to reliably side-step enemy attacks but also requires you to come in close and personal for your own attacks.
+
+Enemy levels will be slightly higher than in vanilla, depending on their type. With SimonMagus' encounter zone overhaul [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) you will still be able to comfortably quest in Whiterun in the early game but some enemy types – such as Vampires, Falmer, Draugr lords – will have higher levels than regular bandits and require more preparation and caution on your part.
+
+> Looking for significantly more challenging combat? Try [Lexy’s Legacy of the Dragonborn](https://lexyslotd.com/) instead.
+
+![separator](/Media/separator.png)
+
+# FEATURED MODS
+
+## Will you add Legacy of the Dragonborn to The Phoenix Flavour?
+
+No.
+
+## Will you add Ordinator to The Phoenix Flavour?
+
+No.
+
+## Will you add {my favourite mod} to The Phoenix Flavour?
+
+Maybe.
+
+Make sure the mod (or a comparable alternative) is not already part of the guide and that it fits our general Vanilla+ standards. Then check my dedicated **[Trello board](https://trello.com/b/Rv20fMdV/the-phoenix-flavour-additional-mods)** for mods that are already considered as potential additions. If your mod is not included there either, you are free to share it in our **#mod-suggestions** channel on Discord, preferably with an explanation as to why you would like to see it in the guide!
+
+## Does The Phoenix Flavour include Needs / Survival mods?
+
+Needs mods for Skyrim implement Survival features such as hunger, thirst, and fatigue. There are also mods that add exposure as an additional factor, forcing you to keep dry and warm. Examples are Realistic Needs and Diseases, iNeed, Frostfall and, by extension, Campsite, or the Creation Club’s Survival Mode.
+
+None of these mods are included in the main guide, and they never will be.
+
+That being said, it is possible that I will at some point down the line, add these mods to the Customisation section. No promises.
+
+There is a new light-weight survival mod - [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068) by Parapets - that may eventually be added to the mian guide.
