@@ -124,9 +124,11 @@ On our dedicated Discord server for The Phoenix Flavour, we are providing suppor
 
 # Future Plans
 
-My primary concern is the main guide - The Phoenix Flavour for Skyrim SE. The guide is being updated regularly with new mods and improvements.
+My primary concern is the main guide - The Phoenix Flavour for Skyrim SE. It is being updated regularly with new mods and improvements.
 
 I also work on a Beginner's Guide (SkyPlus) that I would like to continually expand. I am planning to add a "DIY Kit" section in the future which is supposed to provide resources for the building of a custom setup. While it cannot contain any specifics, there are still many general rules and tips to give about the creation of a setup. Because this is fairly complex, I've had it on the backburner for a long, long time.
+
+For the Wabbajack guys I'm working on a general Quickstart guide that covers the setup and preparations before a Wabbajack list can be installed.
 
 Whenever I'm fed up with Kyne's Peace and SKYRIM BELONGS TO THE NORDS, I hide in Boston for a bit. My Fallout 4 list is still in an early WIP stage but I am planning to release it as a Wabbajack installer eventually.
 
