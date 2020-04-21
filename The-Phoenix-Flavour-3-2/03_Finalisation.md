@@ -44,6 +44,8 @@
   - [7.5 Overwrite Cleanup](#75-overwrite-cleanup)
   - [7.6 What now?](#76-what-now)
 
+![separator](../Media/separator.png)
+
 # 01. Wrapping Up
 
 ## 1.1 Misc College of Winterhold Tweaks
