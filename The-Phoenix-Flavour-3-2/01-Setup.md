@@ -461,7 +461,8 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
 
 ### 4.6.2 Configuration
 
-- In Mod Organizer 2, open the **Settings** (Tools > Settings or CTRL+S).
+- Close and re-open Mod Organizer 2.
+- Open the **Settings** (Tools > Settings or CTRL+S).
 - Switch to the **Plugins** tab and select **Merged Plugins Hide** in the list.
 - Double-click **hide-type** and enter **optional**.
 - Click OK to save and close the window.
@@ -587,7 +588,7 @@ Continue with regenerating the INI files from scratch:
   * **Mod Organizer** should point at your MO2 folder, `{Your File Path}\Mod Organizer 2`.
   * **INI Path** should point at your MO2 profile: ==ModOrganizer 2 > The Phoenix Flavour==.
 
-> Changing the INI Path will prompt BethINI to restart.
+> Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
 
 ### 6.3.2 BethINI - Basic
 
@@ -691,7 +692,7 @@ In order to store the cached files with the program files themselves, we need to
 
 * Click the tiny blue plus icon to add another new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEditQuickAutoClean.exe**.
-* **Optional:** Change the title to something less verbose (like "SSEEdit – QuickAutoClean").
+* **Optional:** Change the title to something less verbose (like "SSEEdit – Quick Cleaning").
 * Under **Arguments**, enter the following:
   * `-DontCache`
 * Click **OK** to save and close the window.
@@ -726,15 +727,15 @@ In order to store the cached files with the program files themselves, we need to
 
 * Select **zMerge** from the drop-down menu in zEdit and hit **Start Session**.
 * Click the gears icon in the top right to open the settings.
-* Switch to the ==Integration Settings== tab and apply these settings:
+* Switch to the **Integration Settings** tab and apply these settings:
   * **Mod manager:** Mod Organizer 2
   * **MO2 instance:** portable
   * **Mod manager path:** `{Your File Path}\Mod Organizer 2`
   * **Mod manager mods path:** `{Your File Path}\Mod Organizer 2\mods`
-* Switch to the ==Merge Settings== tab:
+* Switch to the **Merge Settings** tab:
   * **Merge output path:** `{Your File Path}\Mod Organizer 2\mods`
   * **Integration:** uncheck **Disable plugins** and **Disable mods**
-* Once you have made sure everything is configured correctly, you may close zEdit.
+* Once you have made sure everything is configured correctly, hit **OK** and close zEdit.
 
 ## 7.4 Cathedral Assets Optimizer (CAO)
 
@@ -750,7 +751,7 @@ In order to store the cached files with the program files themselves, we need to
 
 With the latest versions of CAO, you can set up dedicated profiles to switch between the two primary uses of CAO at will. I created several profiles for different purposes to be used during the installation of  the guide.
 
-* Download [The Phoenix Flavour – Cathedral Assets Optimizer Profiles](https://www.nexusmods.com/skyrimspecialedition/mods/14223) from the guide’s Nexus page.
+* Download [The Phoenix Flavour - CAO Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223) from the guide’s Nexus page.
 * Open the downloaded archive.
 * Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 
@@ -767,7 +768,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 
 * Download [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) manually from the Nexus.
 * Create a new folder: `Your Modding Folder\Tools\Modwat.ch`.
-* Open the downloaded archive.
+* Open the downloaded archive and double-click the "Modwatch-win32-ia32" folder within.
 * Extract everything into the new folder.
 
 ![separator](../Media/separator.png)
