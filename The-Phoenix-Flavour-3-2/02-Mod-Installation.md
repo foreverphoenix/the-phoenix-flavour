@@ -2050,7 +2050,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** - 1. Majestic Mountains Main File
+* **Main Files:** 1. Majestic Mountains Main File
 
 > The LOD Pack is not required as the same textures are already packaged with HD LOD Textures which we installed in Step 5.
 
@@ -2071,7 +2071,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main Files** - Landscapes - Cathedral Concept
+* **Main Files:** Landscapes - Cathedral Concept
 
 ### FOMOD Instructions
 
@@ -2108,7 +2108,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 ### Download Instructions
 
-* **Main File** - The Elder Scrolls - Veydosebrom
+* **Main Files:** The Elder Scrolls - Veydosebrom
 
 ### FOMOD Instructions
 
@@ -2137,7 +2137,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main File** - The Elder Scrolls - Veydosebrom
+* **Main Files:** Cathedral Landscapes - Veydosebrom Swamp Grass Addon
 
 > **Mod Dependency:** Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Otherwise skip it.
 
@@ -2145,14 +2145,14 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main File** - Dark grey Rapid Rocks
-* **Main File** - Update for both versions ==merge with the main file==
+* **Main Files:** Dark grey Rapid Rocks
+* **Main Files:** Update for both versions ==merge with the main file==
 
 ## 9.6 [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main File** - Majestic Mountains - Northside
+* **Main Files:** Majestic Mountains - Northside
 
 ### FOMOD Instructions
 
@@ -2171,7 +2171,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main File** - Realistic Water Two v2.2.2
+* **Main Files:** Realistic Water Two v2.2.2
 
 ### FOMOD Instructions
 
@@ -2190,7 +2190,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main Files** - Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
+* **Main Files:** Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
 
 ### FOMOD Instructions
 
@@ -2200,7 +2200,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main Files** - Better Dynamic Snow SE v2.10.0
+* **Main Files:** Better Dynamic Snow SE v2.10.0
 
 ### FOMOD Instructions
 
@@ -2215,29 +2215,29 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main Files** - Better Dynamic Majestic Mountains - MM ESL Version
+* **Main Files:** Better Dynamic Majestic Mountains - MM ESL Version
 
 ## 9.11 [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** - Skyrim 3D Icefloes
+* **Main Files:** Skyrim 3D Icefloes
 
 ## 9.12 [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
 
 ### Download Instructions
 
-* **Main Files** - Better Dynamic Ash SE
+* **Main Files:** Better Dynamic Ash SE
 
 ## 9.13 [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
 
 ### Download Instructions
 
-* **Main File** - Main File v1.65
+* **Main Files:** Main File v1.65
 
 ### FOMOD Instructions
 
-* **Optional Files**: Dead Marsh
+* **Optional Files:** Dead Marsh
 
 ### Additional Instructions
 
@@ -2252,19 +2252,19 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Download Instructions
 
-* **Main Files** - Enhanced Landscapes - Dead Marsh Fixes
+* **Main Files:** Enhanced Landscapes - Dead Marsh Fixes
 
 ## 9.15 [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** - Rorikstead Basalt Cliffs
+* **Main Files:** Rorikstead Basalt Cliffs
 
 ## 9.16 [Rorikstead Basalt Cliffs Patches ](https://www.nexusmods.com/skyrimspecialedition/mods/31981?tab=files)(optional)
 
 ### Download Instructions
 
-* **Main Files** - Rorikstead Basalt Cliffs Patches
+* **Main Files:** Rorikstead Basalt Cliffs Patches
 
 > Install this mod if you installed Rorikstead Basalt Cliffs. Otherwise skip it.
 
@@ -2280,19 +2280,19 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Download Instructions
 
-* **Main Files** - Ashbound 1.1
+* **Main Files:** Ashbound 1.1
 
 ## 9.18 [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 
 ### Download Instructions
 
-* **Main Files** - Point The Way
+* **Main Files:** Point The Way
 
 ## 9.19 [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
 
 ### Download Instructions
 
-* **Main Files** - Lanterns Of Skyrim II - FOMOD
+* **Main Files:** Lanterns Of Skyrim II - FOMOD
 
 ### FOMOD Instructions
 
@@ -2347,13 +2347,13 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Download Instructions
 
-* **Main Files** - Manor Roads
+* **Main Files:** Manor Roads
 
 ## 9.21 [Immersive Dawnguard Dayspring Pass (IDDP)](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
 
 ### Download Instructions
 
-* **Main Files** - Immersive Dawnguard Dayspring Pass (IDDP)
+* **Main Files:** Immersive Dawnguard Dayspring Pass (IDDP)
 
 ![separator](../Media/separator.png)
 
