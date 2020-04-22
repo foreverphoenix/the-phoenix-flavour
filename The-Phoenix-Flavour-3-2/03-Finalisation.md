@@ -317,7 +317,7 @@ The `enblocal.ini` stores your personal settings and it’s completely independe
 * Back in ENB Man, click the arrow under **Binaries** and select **Add**.
 * Enter **ENBSeries** and the version number as name (eg **ENBSeries 0.390**).
 * Click the green checkmark to confirm.
-* From the archive’s **WrapperVersion** folder, drag the following files into the emtpy **Binaries** window:
+* From the archive’s **WrapperVersion** folder, drag the following files into the empty **Binaries** window:
   * `d3d11.dll`
   * `d3dcompiler_46e.dll`
   * `enblocal.ini`
