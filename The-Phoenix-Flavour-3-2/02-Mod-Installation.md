@@ -5788,7 +5788,7 @@ While we are not using MLU, our setup follows a similar logic and immediate acce
 
 ### Download Instructions
 
-* **Main File** - Dwemer Spectres EBT No Bleeding and Other Fixes
+* **Main File** - Beast Skeletons 6.1
 
 ## 34.10 [Beast Skeletons - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
 
