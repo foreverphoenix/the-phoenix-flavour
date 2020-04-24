@@ -15,7 +15,7 @@
   - [2.4 Reinstallation](#24-reinstallation)
   - [2.5 Version Number](#25-version-number)
   - [2.6 Disable Auto Updates](#26-disable-auto-updates)
-  - [2.7 Binaries Backup](#27-binaries-backup)
+  - [2.7 Executables Backup](#27-executables-backup)
   - [2.8 Disable Steam Overlay](#28-disable-steam-overlay)
 - [03. The Creation Kit](#03-the-creation-kit)
   - [3.1 Acquisition](#31-acquisition)
@@ -229,7 +229,7 @@ However you can continue playing the previous version with SKSE64 and all your m
 
 ![Disable Auto Updates](Pictures/Setup/sse_disable_auto_updates.png)
 
-## 2.7 Binaries Backup
+## 2.7 Executables Backup
 
 Although Steam will no longer update Skyrim SE automatically, I still recommend keeping backups of the two executables (**SkyrimSE.exe** and **SkyrimSELauncher.exe**), just in case. If you accidentally updated, all you need to do to roll back is replace the executables in your **root** folder with the ones you backed up. This also comes in handy if you had to regenerate INI files or validate game files through Steam for whatever reason and were forced to update.
 
