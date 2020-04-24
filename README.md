@@ -46,7 +46,7 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 
 ## Features
 
-Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Guide**, here is what the resulting mod setup will feature:
+Regardless of whether you build the setup manually with the **Classic Guide** or automated with the **Wabbajack Installer**, here is what the resulting mod setup will feature:
 
 - **A Better Skyrim:** The guide includes hundreds of mods across forty categories, all carefully selected to fit my vision of a lore-friendly, improved but not radically changed Skyrim. The Phoenix Flavour strives to provide a solid upgrade of the vanilla experience with modern visuals and additional content.
 - **Custom Files and Patches:** Both the final patch as well as some patches and plugin replacers installed during the mod setup have been made specifically for the guide by Umgak and myself. They ensure compatibility as well as consistency between all included mods.
