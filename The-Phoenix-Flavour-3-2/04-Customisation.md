@@ -585,7 +585,7 @@ It is therefore up to the individual user to decide what is more immersion-break
 
 ## Dwemer Spectres - Remove Beards
 
-By default, Dwemer Spectres includes the beards from [this mod](https://www.nexusmods.com/skyrim/mods/30062). Personally, I dislike these beards a lot so I recommend removing the 'Playable' flag from them. This is easy to do in xEdit.
+By default, Dwemer Spectres includes the beards from [this mod](https://www.nexusmods.com/skyrim/mods/30062). Personally, I dislike these beards a lot and I recommend removing the 'Playable' flag from them so that they no longer appear in the character creation menu. This is easy to do in xEdit.
 
 - Run SSEEdit through Mod Organizer 2.
 - Click **OK** to load all your plugins and wait for SSEEdit to return `Background loader: finished`.
