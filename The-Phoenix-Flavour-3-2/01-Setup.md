@@ -142,7 +142,7 @@ Before we finally jump into the actual guide, here are some critical pieces of i
 
 - **Which parts are required?** All instructions and mods are mandatory unless they are clearly marked otherwise. A large portion of mods is marked as(optional) and you may safely skip them. **Do not skip required mods**. There are instructions for all mods with FOMOD installers and you are expected to follow them.
 
-- **About additional mods:** Please wait until **after** you finished and tested your setup before adding more mods. Otherwise you will no longer be eligible to receive support on our Discord should you need it. We do not offer support for setups that are not 100% TPF.
+- **About additional mods:** Please wait until **after** you finished and tested your setup before adding more mods, otherwise you will no longer be eligible to receive support on our Discord server should you need it. We do not - and cannot - offer support for setups that are not 100% TPF. This includes **Creation Club** content.
 
 ## 1.5.2 Terminology
 
