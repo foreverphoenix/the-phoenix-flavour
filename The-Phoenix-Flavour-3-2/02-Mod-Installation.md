@@ -776,6 +776,7 @@ The commands will now be executed automatically when you start a new game or loa
 - **Main Plugin:** ESM
 - **Patches:** *select nothing*
 - **Walkway Wall FIX:** Walkway Wall FIX SMIM
+- **Optional:** Missing Lights Fix
 
 ## 2.7 [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
@@ -5193,7 +5194,7 @@ If you also installed **Mortal Enemies**, there will be a conflict between the t
 * The **DragonRace** record will turn green, confirming that no unresolved conflicts remain, and you can close **SSEEdit**.
 * Click **OK** to save your changes.
 
-![Fix Conflict between Mortal Enemies and Simply Stronger Dragons](Pictures/mod_installation/simply_smaller_wolves_conflict_2.png)
+![Fix Conflict between Mortal Enemies and Simply Stronger Dragons](Pictures/mod_installation/mortal_enemies_simply_stronger_dragons_cr.png)
 
 ## 28.10 [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files)
 

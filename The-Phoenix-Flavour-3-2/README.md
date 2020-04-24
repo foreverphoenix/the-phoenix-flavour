@@ -92,6 +92,7 @@
 - Removed the entirety of the ENB Particle Lights step (all added to the ENBSeries Customisation section now).
 - **1.4:** Added SSE Display Tweaks.
 - **1.6:** Updated download instructions for Performance Optimised Textures.
+- **2.6:** Updated FOMOD instructions for Skyrim Landscape and Water Fixes.
 - **2.7:** Updated FOMOD instructions for Landscape Fixes For Grass Mods - Patches for Arthmoor's Mods.
 - **2.8:** Updated download instructions for NARC Remade (file update).
 - **2.8:** Added instructions to select The Forgotten City patch in the NARC FOMOD.
