@@ -156,6 +156,8 @@
 - **24.3:** Added Optimised Body Meshes for SkySight Skins.
 - **24.10:** Added instructions to delete a normal map from Natural Eyes that overwrote Eye Normal Map Fix.
 - **24.14:** Added Just Fangs From BVFE (to replace the full mod we used and butchered for the fang TRIs previously).
+- **24.16:** Changed FOMOD instructions for Beards (selecting Vanilla Only instead of Full).
+  - The "full" version adds some braided beards that were clearly cut for a reason from the vanilla game. Most of them look strange. One of the braids has some transparency issues.
 - **25.2:** Added Adamant - A Perk Overhaul.
 - **26.1:** Added AI Overhaul.
 - **26.2:** Added AI Overhaul - Windsong Immersive Character Overhaul Patch.
@@ -214,7 +216,9 @@
 
 - Basically re-did this section and expanded it at least with WIP directories.
 - Updated list of of rougeshot's skeleton replacers.
-- Added new Interface section with several sub-sections.
+- Added several new Interface related sections.
+- Added Tree Tweaks section.
+- Added Arthmoor's New Towns section.
 
 
 ## New Game

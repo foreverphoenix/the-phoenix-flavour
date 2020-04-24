@@ -377,7 +377,7 @@
 - [24. Appearance](#24-appearance)
   - [24.1 Bijin Skin for CBBE (optional)](#241-bijin-skin-for-cbbe-optional)
   - [24.2 Skysight Skins (optional)](#242-skysight-skins-optional)
-  - [24.3 Optimized Body Meshes for SkySight Skins (optional)](#243-optimized-body-meshes-for-skysight-skins-optional)
+  - [24.3 High Poly Male Meshes - Vanilla plus Seamless Head SSE (optional)](#243-high-poly-male-meshes---vanilla-plus-seamless-head-sse-optional)
   - [24.4 Forgotten Argonian Roots (FAR) (optional)](#244-forgotten-argonian-roots-far-optional)
   - [24.5 Forgotten Argonian Roots – FOMOD (optional)](#245-forgotten-argonian-roots--fomod-optional)
   - [24.6 Coverkhajiit (optional)](#246-coverkhajiit-optional)
@@ -4572,11 +4572,11 @@ Rename the mod to **TK Children – TRI Files** in order to indicate that it is 
 * **Page 3 – Body Veins:** Reduced Veins
 * **Page 4 – Faces:** Vanilla Age (default)
 
-## 24.3 [Optimized Body Meshes for SkySight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/11?tab=files) (optional)
+## 24.3 [High Poly Male Meshes - Vanilla plus Seamless Head SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11?tab=files) (optional)
 
 ### Download Instructions
 
-* **Miscellaneous File** - SkySight Skins HD - Optimized Meshes
+* **Miscellaneous Files:** High Poly Male Meshes - Vanilla plus Seamless Head SSE
 
 ## 24.4 [Forgotten Argonian Roots (FAR)](https://www.nexusmods.com/skyrimspecialedition/mods/1704?tab=files) (optional)
 
@@ -4701,7 +4701,7 @@ Rename the mod to **TK Children – TRI Files** in order to indicate that it is 
 
 ### FOMOD Instructions
 
-* **Choose:** Full
+* **Choose:** Vanilla only
 * **Resolution:** Low: 1024
 
 ## 24.17 [Immersive Mouth and Teeth](https://www.nexusmods.com/skyrimspecialedition/mods/12335?tab=files) (optional)
