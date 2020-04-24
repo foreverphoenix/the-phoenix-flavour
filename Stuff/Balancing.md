@@ -65,3 +65,6 @@ Hybrid Loot *unlevels* unique items.
 ### Dremora Bound Weapons
 
 Dremora no longer drop fire enchanted leveled weapons and iron daggers. The daggers were removed entirely and the leveled weapons replaced by bound weapons (bow and arrow for the archers, sword and battleaxe for the melees). This is a MLU feature, but with a slightly different implementation.
+
+- Added a bound dagger for the Dremora mages for when they run out of magicka.
+- The bound weapons were all edited to have Ebony-tier stats.

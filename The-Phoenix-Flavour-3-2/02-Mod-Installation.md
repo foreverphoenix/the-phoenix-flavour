@@ -2878,7 +2878,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 * **Other Files:**
   - ~~Hall of Diligence FPS Help~~
 * **Recommendations:**
-  - Mannequins Stay Put Detected
+  - Mannequins Stay Put Detected --- `this will be greyed out if you skipped Mannequins Stay Put`
 * **iNeed:**
   * ~~iNeed - Food Water and Sleep~~
   * ~~iNeed - Extended~~
