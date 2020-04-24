@@ -3,7 +3,7 @@
 **TABLE OF CONTENTS**
 - [Error message when trying to launch the Creation Kit.](#error-message-when-trying-to-launch-the-creation-kit)
 - [Skyrim immediately crashes after launching it through Mod Organizer 2.](#skyrim-immediately-crashes-after-launching-it-through-mod-organizer-2)
-- [Skyrim launches fine but the main menu doesn't load.](#skyrim-launches-fine-but-the-main-menu-doesnt-load)
+- [Skyrim gets stuck in the main menu.](#skyrim-gets-stuck-in-the-main-menu)
 - [Grass looks strangely dull and flat.](#grass-looks-strangely-dull-and-flat)
 - [Low FPS when playing on a resolution of 1440p or higher.](#low-fps-when-playing-on-a-resolution-of-1440p-or-higher)
 - [Miscellaneous Questions](#miscellaneous-questions)
@@ -44,11 +44,13 @@ To quickly check for that, expand the Filter in MO2, filter by **Contains Bethes
 
 ![separator](../Media/separator.png)
 
-# Skyrim launches fine but the main menu doesn't load.
+# Skyrim gets stuck in the main menu.
 
 One of the more recent updates for the Unofficial Skyrim Special Edition Patch removed an AI package record from Aventus Aretino. None of the mods in the guide that touch Aventus (Prince and the Pauper, Simply Children, Adopt Aventus Aretino) have been updated since to incorporate that fix and they all have an unresolved error instead. This is fixed in the **Conflict Resolution Patch.esp**.
 
 If the main menu won't load, your load order is messed up, or you aren't using the CRP.
+
+![Stuck in Main Menu](Pictures/faq/stuck_in_main_menu.jpg)
 
 ![separator](../Media/separator.png)
 
@@ -143,3 +145,7 @@ None of these mods are included in the main guide, and it's unlikely that they e
 That being said, it is possible that I will at some point down the line, add these mods to the Customisation section. No promises.
 
 There is a new light-weight survival mod - [**The Frozen North**](https://www.nexusmods.com/skyrimspecialedition/mods/33068) by Parapets - that may eventually be added to the main guide.
+
+#### Will The Phoenix Flavour ever support Creation Club content?
+
+While I personally dislike the Creation Club, there may be support for certain "creations" in the Customisation section at some point.
