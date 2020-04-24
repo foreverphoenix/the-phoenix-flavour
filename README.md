@@ -19,7 +19,7 @@
 
 # Overview
 
-The Phoenix Flavour, at it's core, is a modding guide like many others, teaching you how to set up a certain set of tools and mods for best results. Unlike other modding guides, it contains many optional mods as well as extensive customisation option.
+The Phoenix Flavour, at it's core, is a modding guide like many others, teaching you how to set up a certain set of tools and mods for best results. Unlike other modding guides, it contains many optional mods as well as a dedicated Customisation section.
 
 Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything carefully.
 

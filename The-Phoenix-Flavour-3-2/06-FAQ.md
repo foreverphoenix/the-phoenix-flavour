@@ -6,6 +6,7 @@
 - [Skyrim gets stuck in the main menu.](#skyrim-gets-stuck-in-the-main-menu)
 - [Grass looks strangely dull and flat.](#grass-looks-strangely-dull-and-flat)
 - [Low FPS when playing on a resolution of 1440p or higher.](#low-fps-when-playing-on-a-resolution-of-1440p-or-higher)
+- [Some beards look strange on Elven player characters.](#some-beards-look-strange-on-elven-player-characters)
 - [Miscellaneous Questions](#miscellaneous-questions)
   - [I have over 300 plugins active in Mod Organizer 2. Is that intended?](#i-have-over-300-plugins-active-in-mod-organizer-2-is-that-intended)
   - [Some plugins in my load order are deactivated. Is that intended?](#some-plugins-in-my-load-order-are-deactivated-is-that-intended)
@@ -73,6 +74,14 @@ In order to change the resolution, go into the **INI Editor** in Mod Organizer 2
 iSize H=1080
 iSize W=1920
 ```
+
+![separator](../Media/separator.png)
+
+# Some beards look strange on Elven player characters.
+
+This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.
+
+Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/issues/8) for details and pictures.
 
 ![separator](../Media/separator.png)
 
