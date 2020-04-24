@@ -254,7 +254,7 @@ Thanks to the FISSES support, it is also possible to load, save and share custom
 
 ## 2.19 Wonders of Weather MCM
 
-* Under **Rainsplashes**, set **Level** to **None** to disable the effect (I personally think it looks odd most of the time). This is optional.
+* Under **Rainsplashes**, set **Level** to **Disabled** to disable the effect (I personally think it looks odd most of the time). This is optional.
 
 ## 2.20 Starting the game
 
