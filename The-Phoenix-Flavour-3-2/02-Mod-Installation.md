@@ -7,7 +7,7 @@
   - [1.3 .NET Script Framework (NSF)](#13-net-script-framework-nsf)
   - [1.4 SSE Display Tweaks](#14-sse-display-tweaks)
   - [1.5 Autorun Console Commands (ACC)](#15-autorun-console-commands-acc)
-  - [1.6 Performance Optimized Textures for SSE](#16-performance-optimized-textures-for-sse)
+  - [1.6 Unofficial Performance Optimized Textures AKA (UPOT)](#16-performance-optimized-textures-for-sse)
   - [1.7 Unofficial High Definition Audio Project (optional)](#17-unofficial-high-definition-audio-project-optional)
   - [1.8 Unofficial Skyrim Special Edition Patch (USSEP)](#18-unofficial-skyrim-special-edition-patch-ussep)
   - [1.9 Alternate Start - Live Another Life (AS LAL)](#19-alternate-start---live-another-life-as-lal)
@@ -643,11 +643,11 @@
 
 - **Main File** - ACC - Autorun Console Commands
 
-## 1.6 [Performance Optimized Textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
+## 1.6 [Unofficial Performance Optimized Textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
 
 ### Download Instructions
 
-- **Main File** - performance textures max res 1024 min res 512 v8
+- **Main File** - UPOT 1024 max 512 min textures v9
 
 ## 1.7 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files) (optional)
 
