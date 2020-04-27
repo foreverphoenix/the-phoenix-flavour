@@ -647,7 +647,7 @@
 
 ### Download Instructions
 
-- **Main File** - UPOT 1024 max 512 min textures v9
+- **Main File** - v9 fixed 1024 max 512 min
 
 ## 1.7 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files) (optional)
 
@@ -4830,7 +4830,7 @@ Rename the mod to **TK Children – TRI Files** in order to indicate that it is 
 
 ### Download Instructions
 
-- **Main File** - AI Overhaul 1.4.1
+- **Main File** - AI Overhaul 1.5
 
 ## 26.2 [AI Overhaul - Windsong Immersive Character Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
@@ -4899,6 +4899,7 @@ A number of (vanilla) features can be disabled through GDO console commands.
 - Close the window and click **Yes** when prompted.
 
 > **GDODisableWarning:** Stops guards from approaching and warning you when you Shout in their presence. These comments will be disabled automatically after defeating Alduin.
+
 > **GDODisableMemes:** This will disable all "no lollygagging", "curved swords", "someone stole your sweetroll" and "arrow in the knee" comments. The first three will be automatically disabled after completing certain quests or becoming Thane of a hold.
 
 ## 26.7 [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files)
