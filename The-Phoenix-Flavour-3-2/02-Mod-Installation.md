@@ -3053,6 +3053,8 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_g.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_n.dds`
+  - `textures\dungeons\imperial\impwooddoorsingle01.dds`
+  - `textures\dungeons\imperial\impwooddoorsingle01_n.dds`
   - `textures\dungeons\riften\ratwaywood01.dds`
   - `textures\dungeons\riften\ratwaywood01_n.dds`
 
