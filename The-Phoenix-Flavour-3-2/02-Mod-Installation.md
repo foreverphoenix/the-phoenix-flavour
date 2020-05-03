@@ -3488,7 +3488,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 * **Optional Mesh Packs Dawnguard:**
   * ~~Vampire Beast Blood Ring Left Hand~~
 
-### FOMOD Instructions
+### Additional Instructions
 
 The plugin contains one unnecessary edit to a scroll that can potentially conflict with other mods. We will delete the change.
 
@@ -3499,7 +3499,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 * Right-click **Scroll** and select **Remove**.
 * Close SSEEdit and click **OK** to save your changes.
 
-![Gemling Queen Jewelry - Delete Records in xEdit](..\Pictures\Mod Installation\Gemling Queen Jewelry - Delete Records in xEdit.png)
+![Gemling Queen Jewelry - Delete Records in xEdit](/The-Phoenix-Flavour-3-2/Pictures/mod_installation/gqj_delete_wild_edit.png)
 
 ## 18.4 [JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8686?tab=files) (optional)
 
@@ -4471,8 +4471,8 @@ In order to be able to control the mod’s facegen files via load order, we need
 ### Additional Instructions
 
 * Delete the following file(s) and/or folder(s):
-  * `meshes\actors\characters\facegendata`
-  * `meshes\actors\characters\TKChildren`
+  * `meshes\actors\character\facegendata`
+  * `meshes\actors\character\TKChildren`
   * `textures\`
   * `TKChildren.esp`
   * `TKChildren.esm`
