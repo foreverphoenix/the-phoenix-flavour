@@ -1263,10 +1263,10 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 ### FOMOD Instructions
 
 * **Main:**
-  * Both the Compass and the Map
+  * Only the Compass
 * **Do you wish for the player's location to be marked on the map?**
   * Yes
-* **SkyUI**:
+* **Have you installed SkyUI?**
   * Yes
 * **Have you installed a HUD-altering mod?**
   * SkyHUD
@@ -1277,9 +1277,9 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 * **Which colored map marker mod have you installed?**
   * Default - Skyrim SE
 * **Do you wish for enemies to be visible in the compass?**
-  * Yes (*this can easily be disabled in SkyHUD in the future*)
+  * Yes *(this can easily be disabled in SkyHUD in the future)*
 * **Which icon do you wish to use for undiscovered locations?**
-  * Nothing
+  * Nothing (an Invisible Icon)
 
 ## 4.11 [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files) (optional)
 
@@ -2052,21 +2052,22 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 ### Download Instructions
 
 * **Main Files:** 1. Majestic Mountains Main File
+* **Optional Files:** Lod Pack for DynDoLod (all versions)
 
-> The LOD Pack is not required as the same textures are already packaged with HD LOD Textures which we installed in Step 5.
-
-### FOMOD Instructions
+### FOMOD Instructions - Main File
 
 * **Snow Mountain Type:**
   * Snow Mountain New version ESL
 * **Optionals:**
-  * ~~Landscape Textures~~
   * Moss Rocks ESL Version
   * ~~Moss Rocks ESP Version~~
 * **Sun Direction:**
   * None
-* **Compatibility Patches:**
-  * SMIM
+
+### FOMOD Instructions - LOD Pack
+
+* **Lod Textures:**
+  * Main
 
 ## 9.2 [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=files)
 
@@ -2201,7 +2202,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main Files:** Better Dynamic Snow SE v2.10.0
+* **Main Files:** Better Dynamic Snow SE v2.11.0
 
 ### FOMOD Instructions
 
@@ -2211,12 +2212,15 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
   * Snowy Farmhouses
 * **Patches:**
   * ~~No Snow Under the Roof~~
+  * ~~Majestic Mountains~~
+
+> We are not selecting the Majestic Mountains patch as the next mod has a more comprehensive solution to those two mods' incompatibilities.
 
 ## 9.10 [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files)
 
 ### Download Instructions
 
-* **Main Files:** Better Dynamic Majestic Mountains - MM ESL Version
+* **Main Files:** Better Dynamic Majestic Mountains - v8
 
 ## 9.11 [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
 
@@ -4832,7 +4836,7 @@ Rename the mod to **TK Children – TRI Files** in order to indicate that it is 
 
 ### Download Instructions
 
-- **Main File** - AI Overhaul 1.5
+- **Main File** - AI Overhaul 1.5.2
 
 ## 26.2 [AI Overhaul - Windsong Immersive Character Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 

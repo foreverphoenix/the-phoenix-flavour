@@ -114,7 +114,7 @@
 - **8.1:** Updated download instructions and removed CTD warning for Frozen Electrocuted Combustion.
 - **8.3:** Now using the full version of Enhanced Blood Textures.
 - **8.13:** Added Glow Be Gone - Updated.
-- **9.1:** Updated download instructions for Majestic Mountains.
+- **9.1:** Updated instructions for Majestic Mountains.
 - **9.2:** Updated additional instructions for Cathedral Landscapes (deleting the entire textures\plants folder for Cath Plants).
 - **9.3:** Added The Elder Scrolls - Veydosebrom.
 - **9.4:** Added Cathedral Landscapes - Veydosebrom Swamp Grass Addon.
