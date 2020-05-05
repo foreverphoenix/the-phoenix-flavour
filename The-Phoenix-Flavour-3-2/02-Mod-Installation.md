@@ -4477,7 +4477,7 @@ In order to be able to control the mod’s facegen files via load order, we need
   * `TKChildren.esp`
   * `TKChildren.esm`
 
-Rename the mod to **TK Children – TRI Files** in order to indicate that it is not the full mod.
+Rename the mod to **TK Children - TRI Files** in order to indicate that it is not the full mod.
 
 ## 23.8 [Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789?tab=files)
 

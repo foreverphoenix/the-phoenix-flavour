@@ -996,19 +996,26 @@ You can find all mod installation instructions in the [02_Mod_Installation.md](/
 * After installing a mod you may want to rename it in order to reflect the version you downloaded or options you selected in the FOMOD:
   * For retextures it is useful to add the texture resolution: **Embers HD 2k**.
   * If there are different versions, note down which one you downloaded: **Less Ugly Tundragrass - Redder Variant**.
-* When installing more than one file from the same mod page, always click **Rename** when prompted and give the file a unique name to install it separately. **Do not select Merge or Replace**.
 
-### 10.2.3 FOMOD Instructions
+### 10.2.3 Installing multiple files from the same mod page
+
+Occasionally we will be downloading multiple files from the same page (usually the main mod with updates or patches). When installing them, always install the main file first. The second file will by default have the same name and MO2 will ask how you want to proceed:
+
+* Unless otherwise specified, always select **Rename** and give the file a unique name so that it doesn't clash with the main file. For instance, if the main file was `Simple Children` and you install the patch pack from the same mod page, click **Rename** and enter `Simple Children - Patches`.
+* On occasion you will be instructed to "merge with the main file" in which case you select the **Merge** option. This will move all installed files into the mod folder of the main file, overwriting existing files.
+* Only when updating mods to a new version should you select **Replace** which, of course, replaces all original files.
+
+### 10.2.4 FOMOD Instructions
 
 Some mods come with a FOMOD Installer in which case instructions are provided. Occasionally the choices do not have to be strictly followed (particularly when they are related to texture resolution or variations) however there are some FOMODs that you have to install exactly as indicated in the instructions. Please do follow the provided instructions.
 
-### 10.2.4 Deleting Files
+### 10.2.5 Deleting Files
 
 * When instructed to delete one or several files, double-click the mod in your mod order.
 * Switch to the **Filetree** tab and find the files you need to remove.
 * Simply right-click them and select **Remove** (or select them and hit DELETE on your keyboard).
 
-### 10.2.5 Manual Editing Instructions
+### 10.2.6 Manual Editing Instructions
 
 Very rarely you will be instructed to edit a plugin directly in SSEEdit. If you never touched this program before, it may be somewhat  confusing at first. The edits you will be asked to make are quite simple and straight-forward however. Mods with such instructions are always optional and may be skipped.
 
