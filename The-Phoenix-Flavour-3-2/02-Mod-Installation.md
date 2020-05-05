@@ -2159,15 +2159,12 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 ### FOMOD Instructions
 
 * **Mountain Textures:**
-  * Northside
+  * Main Northside
 * **Normal Maps:**
-  * Default Normal Maps
+  * Main Rocky
 * **Wet Rocks:**
   * Tweaked Wet Rock Meshes
   * Tweaked Rapid Rocks Textures
-* **Northside Tweaks:**
-  * ~~Northside Tweaks for (Majestic Mountains ESP version)~~
-  * Northside Tweaks for (Majestic Mountains ESL version)
 
 ## 9.7 [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
@@ -5338,6 +5335,8 @@ You can also use VioLens to disable kill cams altogether which I usually do.
   * RoM - Dragon Priest Masks Pack
 * **Patches:**
   * *Unselect everything.*
+* **Optional Patches:**
+  * *Unselect everything.*
 
 > Some patches will be selected by default and you need to **untick** them. All conflicts are handled in the guide's CRP.
 
@@ -5591,7 +5590,9 @@ This will stop dragons from disintegrating upon death. You will still receive th
 
 ### Download Instructions
 
-* **Main Files** - It Beats For Her SSE
+* **Old Files** - It Beats For Her SSE
+
+> Make sure you download 1.1 from **Old Files**. The BSA in the 2.0 version was packed in the Classic Skyrim Creation Kit and will crash Skyrim SE on launch.
 
 ### Additional Instructions
 
