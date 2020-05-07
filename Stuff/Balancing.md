@@ -36,6 +36,10 @@
 
 Another way to obtain Daedric equipment would be to buy it off the Dremora Merchant which you can summon after acquiring one of the Black Books on Solstheim. I was considering to restrict his inventory to Daedric equipment which would then allow non-smithing characters to buy Daedric stuff.
 
+### Hooded Robes
+
+Since WACCF splits up robes and hoods, I remove the hooded robe variants from the leveled lists in Hybrid Loot.
+
 ## Leveled Items
 
 Should either be unleveled or leveled with the option to *upgrade* them. See Blessings of the Daedra.
