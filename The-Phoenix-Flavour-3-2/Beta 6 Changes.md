@@ -1,0 +1,24 @@
+## Mod Installation
+
+- Removed Merchants and Citizens Have No Lockpicks (similar tweaks included in upcoming loot overhaul).
+- Removed ElSopa HD - Meridia's Beacon (replaced with Meridia's Luxon Beacon Replacer).
+- Removed HD Sabre Cat Tooth Mesh and Texture (included in HD Meshes and Textures for Animal and Creature Drops).
+- Removed The Divine Amulets Retexture - Dragonborn Amulets (in favour of RUSTIC AMULETS).
+- Removed Better Looking Amulets (in favour of RUSTIC AMULETS).
+- Removed ElSopa HD - Akatosh Amulet (in favour of RUSTIC AMULETS).
+- Removed ElSopa HD - Bonehawk Amulet (in favour of RUSTIC AMULETS).
+- 3.3: Added Andrealphus' Gameplay Tweaks.
+- 3.5: Added Helgen Keep Bandit Chief Executioner.
+- 3.10: Added note to Random Encounter Tweaks about which parts of the mod are actually used.
+- 7.6: Changed FOMOD instructions for STAC to use the "Optimized" option for candles and prevent FPS drops.
+- 7.11: Added Medieval Torch.
+- 16.16: Added instructions to merge main and optional files.
+- 16.17: Added instructions to merge main and optional files.
+- 16.19: Added Meridia's Luxon Beacon Replacer.
+- 17.5: Added True Homecooked Meal.
+- 17.6: Added HD Meshes and Textures for Animal and Creature Drops.
+- 17.7: Removed instructions to download Hagraven Claw file (included in previous mod).
+- 17.8: Added Improved Dragonfly.
+- 18.5: Added RUSTIC AMULETS.
+- 26.9: Added Hunters Not Bandits.
+- 27.5: Added instructions to delete the modgroups file from Save The Icerunner.

@@ -41,29 +41,30 @@
 - [03. Tweaks](#03-tweaks)
   - [3.1 Run For Your Lives](#31-run-for-your-lives)
   - [3.2 Dwemer Gates Don't Reset (optional)](#32-dwemer-gates-dont-reset-optional)
-  - [3.3 Calcelmo Has Standards (optional)](#33-calcelmo-has-standards-optional)
-  - [3.4 Move It Dammit (optional)](#34-move-it-dammit-optional)
-  - [3.5 NPCs Run and Walk at Your Pace (optional)](#35-npcs-run-and-walk-at-your-pace-optional)
-  - [3.6 No More Standing Too Close (optional)](#36-no-more-standing-too-close-optional)
-  - [3.7 Realistic Conversations (optional)](#37-realistic-conversations-optional)
-  - [3.8 No NPC Greetings (optional)](#38-no-npc-greetings-optional)
-  - [3.9 Don't Talk With Your Mouth Full (optional)](#39-dont-talk-with-your-mouth-full-optional)
-  - [3.10 Random Encounter Tweaks (optional)](#310-random-encounter-tweaks-optional)
-  - [3.11 Morrowloot Miscellania - Better Ancient Knowledge (optional)](#311-morrowloot-miscellania---better-ancient-knowledge-optional)
-  - [3.12 Merchants and Citizens Have No Lockpicks (optional)](#312-merchants-and-citizens-have-no-lockpicks-optional)
-  - [3.13 No Spinning Death Animation (optional)](#313-no-spinning-death-animation-optional)
-  - [3.14 Improved Weapon Impact Effects (optional)](#314-improved-weapon-impact-effects-optional)
-  - [3.15 Simply Smaller Wolves (optional)](#315-simply-smaller-wolves-optional)
-  - [3.16 Quiet Dog (optional)](#316-quiet-dog-optional)
-  - [3.17 Skeletons Don't Breathe (optional)](#317-skeletons-dont-breathe-optional)
-  - [3.18 Remove Sneak Attack Sound (optional)](#318-remove-sneak-attack-sound-optional)
-  - [3.19 Bard Instrumentals Mostly - Sing Rarely (optional)](#319-bard-instrumentals-mostly---sing-rarely-optional)
-  - [3.20 No Crime Teleport (optional)](#320-no-crime-teleport-optional)
-  - [3.21 Better Dialogue Controls (optional)](#321-better-dialogue-controls-optional)
-  - [3.22 Better MessageBox Controls (optional)](#322-better-messagebox-controls-optional)
-  - [3.23 Better Stealing (optional)](#323-better-stealing-optional)
-  - [3.24 Uninterrupted Invisibility (optional)](#324-uninterrupted-invisibility-optional)
-  - [3.25 Uninterrupted Ethereal Form (optional)](#325-uninterrupted-ethereal-form-optional)
+  - [3.3 Andrealphus' Gameplay Tweaks (optional)](#33-andrealphus-gameplay-tweaks-optional)
+  - [3.4 Calcelmo Has Standards (optional)](#34-calcelmo-has-standards-optional)
+  - [3.5 Helgen Keep Bandit Chief Executioner (optional)](#35-helgen-keep-bandit-chief-executioner-optional)
+  - [3.6 Move It Dammit (optional)](#36-move-it-dammit-optional)
+  - [3.7 NPCs Run and Walk at Your Pace (optional)](#37-npcs-run-and-walk-at-your-pace-optional)
+  - [3.8 No More Standing Too Close (optional)](#38-no-more-standing-too-close-optional)
+  - [3.9 Realistic Conversations (optional)](#39-realistic-conversations-optional)
+  - [3.10 No NPC Greetings (optional)](#310-no-npc-greetings-optional)
+  - [3.11 Don't Talk With Your Mouth Full (optional)](#311-dont-talk-with-your-mouth-full-optional)
+  - [3.12 Random Encounter Tweaks (optional)](#312-random-encounter-tweaks-optional)
+  - [3.13 Morrowloot Miscellania - Better Ancient Knowledge (optional)](#313-morrowloot-miscellania---better-ancient-knowledge-optional)
+  - [3.14 No Spinning Death Animation (optional)](#314-no-spinning-death-animation-optional)
+  - [3.15 Improved Weapon Impact Effects (optional)](#315-improved-weapon-impact-effects-optional)
+  - [3.16 Simply Smaller Wolves (optional)](#316-simply-smaller-wolves-optional)
+  - [3.17 Quiet Dog (optional)](#317-quiet-dog-optional)
+  - [3.18 Skeletons Don't Breathe (optional)](#318-skeletons-dont-breathe-optional)
+  - [3.19 Remove Sneak Attack Sound (optional)](#319-remove-sneak-attack-sound-optional)
+  - [3.20 Bard Instrumentals Mostly - Sing Rarely (optional)](#320-bard-instrumentals-mostly---sing-rarely-optional)
+  - [3.21 No Crime Teleport (optional)](#321-no-crime-teleport-optional)
+  - [3.22 Better Dialogue Controls (optional)](#322-better-dialogue-controls-optional)
+  - [3.23 Better MessageBox Controls (optional)](#323-better-messagebox-controls-optional)
+  - [3.24 Better Stealing (optional)](#324-better-stealing-optional)
+  - [3.25 Uninterrupted Invisibility (optional)](#325-uninterrupted-invisibility-optional)
+  - [3.26 Uninterrupted Ethereal Form (optional)](#326-uninterrupted-ethereal-form-optional)
 - [04. Interface](#04-interface)
   - [4.1 SkyUI](#41-skyui)
   - [4.2 Fix Note Icon for SkyUI (optional)](#42-fix-note-icon-for-skyui-optional)
@@ -126,6 +127,7 @@
   - [7.8 Inferno - Fire Effects Redux](#78-inferno---fire-effects-redux)
   - [7.9 KD - Realistic Fireplaces](#79-kd---realistic-fireplaces)
   - [7.10 Charred Logs for KD - Realistic Fireplaces (optional)](#710-charred-logs-for-kd---realistic-fireplaces-optional)
+  - [7.11 Medieval Torch (optional)](#711-medieval-torch-optional)
 - [08. Visual FX](#08-visual-fx)
   - [8.1 Frozen Electrocuted Combustion (FEC) (optional)](#81-frozen-electrocuted-combustion-fec-optional)
   - [8.2 Frozen Electrocuted Combustion - Extra Crispy Retexture (optional)](#82-frozen-electrocuted-combustion---extra-crispy-retexture-optional)
@@ -261,29 +263,29 @@
   - [16.13 JS Dragon Claws – Patches (optional)](#1613-js-dragon-claws--patches-optional)
   - [16.14 RUSTIC SOULGEMS](#1614-rustic-soulgems)
   - [16.15 RUSTIC AZURAS STAR (optional)](#1615-rustic-azuras-star-optional)
-  - [16.16 ElSopa HD – Meridia’s Beacon (optional)](#1616-elsopa-hd--meridias-beacon-optional)
-  - [16.17 RUSTIC ELDERSCROLL (optional)](#1617-rustic-elderscroll-optional)
-  - [16.18 RUSTIC ANIMATED POTIONS AND POISONS (optional)](#1618-rustic-animated-potions-and-poisons-optional)
-  - [16.19 Rally's Werewolf Totems (optional)](#1619-rallys-werewolf-totems-optional)
+  - [16.16 RUSTIC ELDERSCROLL (optional)](#1616-rustic-elderscroll-optional)
+  - [16.17 RUSTIC ANIMATED POTIONS AND POISONS (optional)](#1617-rustic-animated-potions-and-poisons-optional)
+  - [16.18 Rally's Werewolf Totems (optional)](#1618-rallys-werewolf-totems-optional)
+  - [16.19 Meridia's Luxon Beacon Replacer (optional)](#1619-meridias-luxon-beacon-replacer-optional)
   - [16.20 BLOODSTONE CHALICE REBORN (optional)](#1620-bloodstone-chalice-reborn-optional)
+  - [16.21 ElSopa HD - Dragonborn Skull Variants (optional)](#1621-elsopa-hd---dragonborn-skull-variants-optional)
 - [17. Food & Ingredients](#17-food--ingredients)
   - [17.1 High Quality Food and Ingredients SE (optional)](#171-high-quality-food-and-ingredients-se-optional)
   - [17.2 Medieval Spirits (optional)](#172-medieval-spirits-optional)
   - [17.3 Boiled Creme Treat Sweet Roll and Pie (optional)](#173-boiled-creme-treat-sweet-roll-and-pie-optional)
   - [17.4 Honey Pot (optional)](#174-honey-pot-optional)
-  - [17.5 HD Sabre Cat Tooth (optional)](#175-hd-sabre-cat-tooth-optional)
-  - [17.6 Falmer Ear and Hagraven Claw (optional)](#176-falmer-ear-and-hagraven-claw-optional)
-  - [17.7 ElSopa HD – Briar Heart (optional)](#177-elsopa-hd--briar-heart-optional)
+  - [17.5 True Homecooked Meal (optional)](#175-true-homecooked-meal-optional)
+  - [17.6 HD Meshes and Textures for Animal and Creature Drops (optional)](#176-hd-meshes-and-textures-for-animal-and-creature-drops-optional)
+  - [17.7 Falmer Ear and Hagraven Claw (optional)](#177-falmer-ear-and-hagraven-claw-optional)
+  - [17.8 Improved Dragonfly (optional)](#178-improved-dragonfly-optional)
+  - [17.9 ElSopa HD – Briar Heart (optional)](#179-elsopa-hd--briar-heart-optional)
 - [18. Clothes & Jewellery](#18-clothes--jewellery)
   - [18.1 RUSTIC CLOTHING](#181-rustic-clothing)
   - [18.2 Prince and the Pauper](#182-prince-and-the-pauper)
   - [18.3 Gemling Queen Jewelry (optional)](#183-gemling-queen-jewelry-optional)
   - [18.4 JS Circlet Replacer (optional)](#184-js-circlet-replacer-optional)
-  - [18.5 The Divine Amulets Retexture (optional)](#185-the-divine-amulets-retexture-optional)
-  - [18.6 Better Looking Amulets (optional)](#186-better-looking-amulets-optional)
-  - [18.7 ElSopa HD – Akatosh Amulet (optional)](#187-elsopa-hd--akatosh-amulet-optional)
-  - [18.8 ElSopa HD – Bonehawk Amulet (optional)](#188-elsopa-hd--bonehawk-amulet-optional)
-  - [18.9 JS Barenziah (optional)](#189-js-barenziah-optional)
+  - [18.5 RUSTIC AMULETS (optional)](#185-rustic-amulets-optional)
+  - [18.6 JS Barenziah (optional)](#186-js-barenziah-optional)
 - [19. Weapons & Armour](#19-weapons--armour)
   - [19.1 RUSTIC ARMOR AND WEAPONS (RAW) (optional)](#191-rustic-armor-and-weapons-raw-optional)
   - [19.2 Practical Female Armors (optional)](#192-practical-female-armors-optional)
@@ -415,9 +417,10 @@
   - [26.6 Guard Dialogue Overhaul (GDO)](#266-guard-dialogue-overhaul-gdo)
   - [26.7 Misc Dialogue Edits](#267-misc-dialogue-edits)
   - [26.8 More Dialogue Options](#268-more-dialogue-options)
-  - [26.9 Thugs Not Assassins](#269-thugs-not-assassins)
-  - [26.10 Nether’s Follower Framework (NFF)](#2610-nethers-follower-framework-nff)
-  - [26.11 Adopt Aventus Aretino](#2611-adopt-aventus-aretino)
+  - [26.9 Hunters Not Bandits (optional)](#269-hunters-not-bandits-optional)
+  - [26.10 Thugs Not Assassins](#2610-thugs-not-assassins)
+  - [26.11 Nether’s Follower Framework (NFF)](#2611-nethers-follower-framework-nff)
+  - [26.12 Adopt Aventus Aretino](#2612-adopt-aventus-aretino)
 - [27. Improved Vanilla Quests](#27-improved-vanilla-quests)
   - [27.1 Timing Is Everything](#271-timing-is-everything)
   - [27.2 Even Better Quest Objectives (EBQO)](#272-even-better-quest-objectives-ebqo)
@@ -963,25 +966,40 @@ The commands will now be executed automatically when you start a new game or loa
 
 ### Download Instructions
 
-- **Main File** - Run For Your Lives
+- **Main Files:** Run For Your Lives
 
 ## 3.2 [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files) (optional)
 
 ### Download Instructions
 
-- **Main File** - Dwemer Gates Don't Reset
+- **Main Files:** Dwemer Gates Don't Reset
 
 ### FOMOD Instructions
 
 - **Versions:** Dwemer Only USSEP
 
-## 3.3 [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files) (optional)
+## 3.3 [Andrealphus' Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/27939?tab=files) (optional)
+
+### Download instructions
+
+* **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
+* **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
+* **Main Files:** ANDR Tweaks 07 - Only Dead Lover's Cause Inheritance Letters
+* **Main Files:** ANDR Tweaks 13A - Stones of Barenziah - Dawnguard
+
+## 3.4 [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files) (optional)
 
 ### Download Instructions
 
-- **Main File** - Calcelmo Has Standards SE
+- **Main Files:** - Calcelmo Has Standards SE
 
-## 3.4 [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files) (optional)
+## 3.5 [Helgen Keep Bandit Chief Executioner](https://www.nexusmods.com/skyrimspecialedition/mods/26816?tab=files) (optional)
+
+### Download Instructions
+
+- **Main Files:** HelgenKeepBanditChiefExecutioner SE v1.0
+
+## 3.6 [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files) (optional)
 
 ### Download Instructions
 
@@ -991,25 +1009,25 @@ The commands will now be executed automatically when you start a new game or loa
 
 - **Custom:** Move it Dammit
 
-## 3.5 [NPCs Run and Walk at Your Pace](https://www.nexusmods.com/skyrimspecialedition/mods/2482?tab=files) (optional)
+## 3.7 [NPCs Run and Walk at Your Pace](https://www.nexusmods.com/skyrimspecialedition/mods/2482?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Run and Walk at your Pace
 
-## 3.6 [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784) (optional)
+## 3.8 [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784) (optional)
 
 ### Download Instructions
 
 - **Main File** - No More Standing Too Close SSE
 
-## 3.7 [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files) (optional)
+## 3.9 [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Realistic Conversations
 
-## 3.8 [No NPC Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1044?tab=files) (optional)
+## 3.10 [No NPC Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1044?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1019,43 +1037,39 @@ The commands will now be executed automatically when you start a new game or loa
 
 - **Select an Option:** Reduced Distance (Recommended)
 
-## 3.9 [Don't Talk With Your Mouth Full](https://www.nexusmods.com/skyrimspecialedition/mods/17715?tab=files) (optional)
+## 3.11 [Don't Talk With Your Mouth Full](https://www.nexusmods.com/skyrimspecialedition/mods/17715?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Don’t Talk With Your Mouth Full
 
-## 3.10 [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files) (optional)
+## 3.12 [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Random Encounter Tweaks
 
-## 3.11 [Morrowloot Miscellania - Better Ancient Knowledge](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
+> Please be aware that the only part of the mod that will come into effect is the addition of Shivs for Skooma dealers. Everything else will eventually be overwritten by Timing Is Everything.
+
+## 3.13 [Morrowloot Miscellania - Better Ancient Knowledge](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Morrowloot Miscellania - Better Ancient Knowledge
 
-## 3.12 [Merchants and Citizens Have No Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/2798?tab=files) (optional)
-
-### Download Instructions
-
-- **Main File** - Merchants and Citizens Have No Lockpicks SE
-
-## 3.13 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files) (optional)
+## 3.14 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - No Spinning Death Animation MERGED
 
-## 3.14 [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files) (optional)
+## 3.15 [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Sparkles
 
-## 3.15 [Simply Smaller Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/10935?tab=files) (optional)
+## 3.16 [Simply Smaller Wolves](https://www.nexusmods.com/skyrimspecialedition/mods/10935?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1081,61 +1095,61 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 
 ![Simply Smaller Wolves 2](Pictures/mod_installation/simply_smaller_wolves_conflict_2.png)
 
-## 3.16 [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files) (optional)
+## 3.17 [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Quiet Dog - Sit
 
-## 3.17 [Skeletons Don't Breathe](https://www.nexusmods.com/skyrimspecialedition/mods/18542?tab=files) (optional)
+## 3.18 [Skeletons Don't Breathe](https://www.nexusmods.com/skyrimspecialedition/mods/18542?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - skeletons don’t breathe SSE loose files version
 
-## 3.18 [Remove Sneak Attack Sound](https://www.nexusmods.com/skyrimspecialedition/mods/17496?tab=files) (optional)
+## 3.19 [Remove Sneak Attack Sound](https://www.nexusmods.com/skyrimspecialedition/mods/17496?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Remove Sneak Attack Sound - Loose
 
-## 3.19 [Bard Instrumentals Mostly - Sing Rarely](https://www.nexusmods.com/skyrimspecialedition/mods/10927?tab=files) (optional)
+## 3.20 [Bard Instrumentals Mostly - Sing Rarely](https://www.nexusmods.com/skyrimspecialedition/mods/10927?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Bard Instrumentals Mostly - Sing Rarely
 
-## 3.20 [No Crime Teleport](https://www.nexusmods.com/skyrimspecialedition/mods/13109?tab=files) (optional)
+## 3.21 [No Crime Teleport](https://www.nexusmods.com/skyrimspecialedition/mods/13109?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - No Crime Teleport
 
-## 3.21 [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files) (optional)
+## 3.22 [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Better Dialogue Controls v1_2
 
-## 3.22 [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files) (optional)
+## 3.23 [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Better MessageBox Controls v1_2
 
-## 3.23 [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295?tab=files) (optional)
+## 3.24 [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - BetterStealing v2
 
-## 3.24 [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files) (optional)
+## 3.25 [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Uninterrupted Invisibility v2
 
-## 3.25 [Uninterrupted Ethereal Form](https://www.nexusmods.com/skyrimspecialedition/mods/21765?tab=files) (optional)
+## 3.26 [Uninterrupted Ethereal Form](https://www.nexusmods.com/skyrimspecialedition/mods/21765?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1829,7 +1843,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 * **Main Component:**
   * Smoking Torches (Classic)
 * **Smoking Candles:**
-  * Max Quality
+  * Optimized
 * **Plugin Selection:**
   * ESPFE
   * ~~ESP~~
@@ -1920,6 +1934,17 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 ### Download Instructions
 
 * **Optional Files** - KD - Realistic Fireplaces - Charred Logs 2K
+
+## 7.11 [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Medieval Torch
+
+### FOMOD Instructions
+
+* **Smoke Effect and Wield:** Smoke Effect (STAC Compatible Meshes) - Proper Wield
+* **Style:** Version 1
 
 ![separator](../Media/separator.png)
 
@@ -2626,13 +2651,13 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Download Instructions
 
-* **Optional Files** – Fences of Skyrim – Weathered Edition 2K
+* **Optional Files:** Fences of Skyrim - Weathered Edition 2K
 
 ## 12.2 [Skyrim Landscape Overhaul – Stone Walls](https://www.nexusmods.com/skyrim/mods/76359?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Skyrim Landscape Overhaul – Stone Walls (All-In-One FOMOD Installer)
+* **Main Files:** Skyrim Landscape Overhaul - Stone Walls (All-In-One FOMOD Installer)
 
 ### FOMOD Instructions
 
@@ -2650,7 +2675,7 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
 
 ### About the mod
 
@@ -2660,31 +2685,31 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – Skyrim 3D Signs
+* **Main Files:** Skyrim 3D Signs
 
 ## 12.4 [SkyFix – HD Blacksmith Signs](https://www.nexusmods.com/skyrimspecialedition/mods/10606?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – SkyFix SE – HD Blacksmith Signs 1.0
+* **Main Files:** SkyFix SE - HD Blacksmith Signs 1.0
 
 ## 12.5 [RUSTIC EAST EMPIRE COMPANY SIGNAGE](https://www.nexusmods.com/skyrim/mods/68196?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – RUSTIC EAST EMPIRE COMPANY SIGNAGE – Dark Version
+* **Main Files:** RUSTIC EAST EMPIRE COMPANY SIGNAGE - Dark Version
 
 ## 12.6 [Ennead – Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/9264?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Sekmet Shadowmarks 1K
+* **Main Files:** - Sekmet Shadowmarks 1K
 
 ## 12.7 [ElSopa HD – Glorious Dummies](https://www.nexusmods.com/skyrimspecialedition/mods/20865?tab=files) (optional)
 
 ### Download Instructions
 
-* **Optional Files** – Desaturated Glorious Dummies
+* **Optional Files:** - Desaturated Glorious Dummies
 
 ### FOMOD Instructions
 
@@ -2694,7 +2719,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – SSoS – Installer Fix
+* **Main Files:** SSoS - Installer Fix
 
 ### FOMOD Instructions
 
@@ -2763,7 +2788,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – LeanWolf’s Better-Shaped Talos with Greatsword SE
+* **Main Files:** LeanWolf’s Better-Shaped Talos with Greatsword SE
 
 ### FOMOD Instructions
 
@@ -2775,7 +2800,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – Astral Aspect – 2K – 1.4
+* **Main Files:** Astral Aspect - 2K - 1.4
 
 ![separator](../Media/separator.png)
 
@@ -3309,37 +3334,48 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 * **Main Files** – RUSTIC AZURA’S STAR – SSE – 2K
 
-## 16.16 [ElSopa HD – Meridia’s Beacon](https://www.nexusmods.com/skyrimspecialedition/mods/22046) (optional)
-
-### Download Instructions
-
-* **Main Files** – 1K HD Meridias Beacon
-
-## 16.17 [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757) (optional)
+## 16.16 [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757) (optional)
 
 ### Download Instructions
 
 * **Main Files** – RUSTIC ELDERSCROLL – Special Edition – 2K
-* **Optional Files** – ELDERSCROLL SSE – FX – 1K
+* **Optional Files** – ELDERSCROLL SSE – FX – 1K --- `merge with the main file`
 
-## 16.18 [RUSTIC ANIMATED POTIONS AND POISONS](https://www.nexusmods.com/skyrimspecialedition/mods/2276/) (optional)
+## 16.17 [RUSTIC ANIMATED POTIONS AND POISONS](https://www.nexusmods.com/skyrimspecialedition/mods/2276/) (optional)
 
 ### Download Instructions
 
 * **Main Files** – RUSTIC ANIMATED POTIONS and POISONS 1K
-* **Update Files** – SSE Meshes
+* **Update Files** – SSE Meshes --- `merge with the main file`
 
-## 16.19 [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882) (optional)
+## 16.18 [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882) (optional)
 
 ### Download Instructions
 
 * **Main Files** – Rallys Werewolf Totems HQ 2K-1K
+
+## 16.19 [Meridia's Luxon Beacon Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/34782/?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Meridia's Luxon Beacon
+* **Optional Files:** No Handles Option --- `merge with the main file`
 
 ## 16.20 [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551/) (optional)
 
 ### Download Instructions
 
 * **Main Files** – BLOODSTONE CHALICE REBORN 1K
+
+## 16.21 [ElSopa HD - Dragonborn Skull Variants](https://www.nexusmods.com/skyrimspecialedition/mods/21917?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** 1K Dragonborn Skull Variant
+
+### FOMOD Instructions
+
+* **Step 1:** White Gold
 
 ![separator](../Media/separator.png)
 
@@ -3349,7 +3385,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – High Quality Food And Ingredients SE
+* **Main Files:** High Quality Food And Ingredients SE
 
 ### FOMOD Instructions
 
@@ -3400,14 +3436,14 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – Medieval Spirits
+* **Main Files:** Medieval Spirits
 
 ## 17.3 [Boiled Creme Treat Sweet Roll and Pie](https://www.nexusmods.com/skyrimspecialedition/mods/9034?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Sweet Roll Boiled Creme Treat and Pie
-* **Optional Files** – MeatPie
+* **Main Files:** Sweet Roll Boiled Creme Treat and Pie
+* **Optional Files:** MeatPie
 
 > The optional file retextures meat pies added by the USSEP which are not in fact vanilla food items.
 
@@ -3415,31 +3451,56 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – Honey pot 1.3b Special Edition
+* **Main Files:** Honey pot 1.3b Special Edition
 
 ### FOMOD Instructions
 
 * **Core:** Honey dripped mesh
 * **Texture size:** 1k Texture
 
-## 17.5 [HD Sabre Cat Tooth](https://www.nexusmods.com/skyrimspecialedition/mods/9640?tab=files) (optional)
+## 17.5 [True Homecooked Meal](https://www.nexusmods.com/skyrimspecialedition/mods/33785?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Main File 1.0 (fixed normals thanks to renthal311 )
+* **Main Files:** Main File Homecooked Meals
 
-## 17.6 [Falmer Ear and Hagraven Claw](https://www.nexusmods.com/skyrim/mods/74792?tab=files) (optional)
+### Additional Instructions
+
+- Run SSEEdit through Mod Organizer 2.
+- In the plugin selection window, click **OK** and wait for SSEEdit to return:
+  - `Background loader: finished`
+- When it's done, find **homeymealyum.esp** in the left pane and double-click it.
+- Double-click **Ingestibles** and select the record inside:
+  - `FoodMarriageMeal`
+- Forward all USSEP changes into the plugin via drag and drop until it turns green.
+- When the warning window pops up, click **Yes I'm absolutely sure**.
+- Close SSEEdit and click **OK** to save your changes.
+
+![True Homecooked Meal USSEP](/The-Phoenix-Flavour-3-2/Pictures/mod_installation/true_homecooked_meal_ussep.png)
+
+## 17.6 [HD Meshes and Textures for Animal and Creature Drops](https://www.nexusmods.com/skyrimspecialedition/mods/33791/) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Hagraven Claw
-* **Optional Files** – Falmer Ear 512
+* **Main Files:** SSE HD Animal and Creature Drops
 
-## 17.7 [ElSopa HD – Briar Heart](https://www.nexusmods.com/skyrimspecialedition/mods/27983?tab=files) (optional)
+## 17.7 [Falmer Ear and Hagraven Claw](https://www.nexusmods.com/skyrim/mods/74792?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – ElSopa HD – Briarheart Red 512
+* **Optional Files:** Falmer Ear 512
+
+## 17.8 [Improved Dragonfly](https://www.nexusmods.com/skyrimspecialedition/mods/34159?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:**  Improved Dragonfly
+
+## 17.9 [ElSopa HD – Briar Heart](https://www.nexusmods.com/skyrimspecialedition/mods/27983?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** ElSopa HD - Briarheart Red 512
 
 ![separator](../Media/separator.png)
 
@@ -3449,13 +3510,13 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – RUSTIC CLOTHING – Special Edition – 2K
+* **Main Files:** RUSTIC CLOTHING – Special Edition – 2K
 
 ## 18.2 [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Prince and the Pauper SE 4.1
+* **Main Files:** Prince and the Pauper SE 4.1
 
 ### FOMOD Instructions
 
@@ -3465,7 +3526,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 ### Download Instructions
 
-* **Main Files** – Gemling Queen Jewelry SE
+* **Main Files:** Gemling Queen Jewelry SE
 
 ### FOMOD Instructions
 
@@ -3502,46 +3563,23 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 ### Download Instructions
 
-* **Main Files** – JS Circlet Replacer
+* **Main Files:** JS Circlet Replacer
 
 ### Additional Instructions
 
 * Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE – Downsize Textures**).
 
-## 18.5 [The Divine Amulets Retexture](https://www.nexusmods.com/skyrim/mods/31731?tab=files) (optional)
+## 18.5 [RUSTIC AMULETS](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files) (optional)
 
 ### Download Instructions
 
-* **Optional Files** – The Divine Amulets Retexture – Dragonborn Amulets Final Version
+* **Main Files:** RUSTIC AMULETS SE
 
-### Additional Instructions
-
-* Delete the following file(s) and/or folder(s):
-  * `textures\dlc02\armor\amulets\eastempirecompany\`
-
-## 18.6 [Better Looking Amulets](https://www.nexusmods.com/skyrimspecialedition/mods/10893?tab=files) (optional)
+## 18.6 [JS Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22990?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Better Looking Amulets
-
-## 18.7 [ElSopa HD – Akatosh Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/24092?tab=files) (optional)
-
-### Download Instructions
-
-* **Main Files** – ElSopa HD – Akatosh Amulet 512
-
-## 18.8 [ElSopa HD – Bonehawk Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/21862?tab=files) (optional)
-
-### Download Instructions
-
-* **Main Files** – HS Bonehawk Amulet
-
-## 18.9 [JS Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22990?tab=files) (optional)
-
-### Download Instructions
-
-* **Main Files** – JS Barenziah SE – 2K Textures
+* **Main Files:** JS Barenziah SE – 2K Textures
 
 ### Additional Instructions
 
@@ -4917,7 +4955,13 @@ A number of (vanilla) features can be disabled through GDO console commands.
 
 * **Main Files** – More Dialogue Options – for Misc Dialogue Edits
 
-## 26.9 [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028?tab=files)
+## 26.9 [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547?tab=files) (optional)
+
+### Download Instructions
+
+* **Main Files:** Hunters Not Bandits for RDO
+
+## 26.10 [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028?tab=files)
 
 ### Download Instructions
 
@@ -4928,7 +4972,7 @@ A number of (vanilla) features can be disabled through GDO console commands.
 
 - Place the **Timing Is Everything Patch** below the **PATCHES** separator.
 
-## 26.10 [Nether’s Follower Framework (NFF)](https://www.nexusmods.com/skyrimspecialedition/mods/18076?tab=files)
+## 26.11 [Nether’s Follower Framework (NFF)](https://www.nexusmods.com/skyrimspecialedition/mods/18076?tab=files)
 
 ### Download Instructions
 
@@ -4957,7 +5001,7 @@ A number of (vanilla) features can be disabled through GDO console commands.
   * ~~Apocalypse for SSE~~
   * ~~Elemental Destruction Magic for SSE~~
 
-## 26.11 [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
+## 26.12 [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 
 ### Download Instructions
 
@@ -5018,6 +5062,11 @@ A number of (vanilla) features can be disabled through GDO console commands.
 ### Download Instructions
 
 * **Main File** – Save the Icerunner
+
+### Additional Instructions
+
+* Delete the follwoing file(s) and / or folder(s):
+  * `SaveTheIcerunner.modgroups`
 
 ## 27.6 [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550?tab=files)
 
