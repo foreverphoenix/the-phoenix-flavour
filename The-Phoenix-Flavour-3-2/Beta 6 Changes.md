@@ -1,12 +1,20 @@
 ## Mod Installation
 
-- Removed Merchants and Citizens Have No Lockpicks (similar tweaks included in upcoming loot overhaul).
+- Removed Unofficial Performance Optimised Textures.
+- Removed Merchants and Citizens Have No Lockpicks (similar tweaks included in upcoming loot tweaks).
 - Removed ElSopa HD - Meridia's Beacon (replaced with Meridia's Luxon Beacon Replacer).
 - Removed HD Sabre Cat Tooth Mesh and Texture (included in HD Meshes and Textures for Animal and Creature Drops).
 - Removed The Divine Amulets Retexture - Dragonborn Amulets (in favour of RUSTIC AMULETS).
 - Removed Better Looking Amulets (in favour of RUSTIC AMULETS).
 - Removed ElSopa HD - Akatosh Amulet (in favour of RUSTIC AMULETS).
 - Removed ElSopa HD - Bonehawk Amulet (in favour of RUSTIC AMULETS).
+- Removed Container and Levelled List Fixes - Complete Loot Overhaul.
+- Removed Lock Related Loot.
+- Removed Cloaks of Skyrim (they just look ugly).
+- Removed Cloaks of Skyrim - MLU-Friendly Fixes.
+- Removed Cloaks of the Nords.
+- Removed Rally's Five Cities Cloaks.
+- Removed Morrowloot Miscellania - Ancient Nord Hero Weapons (similar functionality included in Hybrid Loot).
 - 3.3: Added Andrealphus' Gameplay Tweaks.
 - 3.5: Added Helgen Keep Bandit Chief Executioner.
 - 3.10: Added note to Random Encounter Tweaks about which parts of the mod are actually used.
@@ -22,3 +30,7 @@
 - 18.5: Added RUSTIC AMULETS.
 - 26.9: Added Hunters Not Bandits.
 - 27.5: Added instructions to delete the modgroups file from Save The Icerunner.
+- 29.1: Added Hybrid Loot.
+- 29.3: Added Morrowloot Miscellania - Dremora Bound Weapons.
+- 33.8: Updated instructions for the MLU Inigo Patch (different file name).
+- 35.4: Updated instructions to prevent further confusion over where to download the AMB Content Addon SSE Patch.
