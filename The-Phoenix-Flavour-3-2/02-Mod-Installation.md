@@ -647,7 +647,7 @@
 
 ### Download Instructions
 
-- **Main File** - v9 fixed 1024 max 512 min
+- **Main File** - UPOT for high end machines v9
 
 ## 1.7 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files) (optional)
 
