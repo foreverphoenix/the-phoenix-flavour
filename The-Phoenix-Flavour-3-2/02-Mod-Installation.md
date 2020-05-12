@@ -236,15 +236,15 @@
   - [15.2 Rudy HQ – Nordic Ruins](#152-rudy-hq--nordic-ruins)
   - [15.3 Ice Cave Parallax Improved (optional)](#153-ice-cave-parallax-improved-optional)
   - [15.4 Gecko’s Dwarven Ruins Textures (optional)](#154-geckos-dwarven-ruins-textures-optional)
-  - [15.7 RUSTIC WORD WALLS (optional)](#157-rustic-word-walls-optional)
-  - [15.9 4K Nordic Murals (optional)](#159-4k-nordic-murals-optional)
-  - [15.10 CC’s Enhanced Ore Veins (optional)](#1510-ccs-enhanced-ore-veins-optional)
-  - [15.11 CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap (optional)](#1511-ccs-enhanced-ore-veins---fixed-iron-ore-cubemap-optional)
-  - [15.12 Metallurgy – Ingots and Ore HD (optional)](#1512-metallurgy--ingots-and-ore-hd-optional)
-  - [15.13 Ancient Pottery (optional)](#1513-ancient-pottery-optional)
-  - [15.14 ElSopa HD – Realistic Dark Elf Urns (optional)](#1514-elsopa-hd--realistic-dark-elf-urns-optional)
-  - [15.15 Ancient Dwemer Metal (optional)](#1515-ancient-dwemer-metal-optional)
-  - [15.16 HD Lava for Dawnguard (optional)](#1516-hd-lava-for-dawnguard-optional)
+  - [15.5 RUSTIC WORD WALLS (optional)](#157-rustic-word-walls-optional)
+  - [15.6 4K Nordic Murals (optional)](#159-4k-nordic-murals-optional)
+  - [15.7 CC’s Enhanced Ore Veins (optional)](#1510-ccs-enhanced-ore-veins-optional)
+  - [15.8 CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap (optional)](#1511-ccs-enhanced-ore-veins---fixed-iron-ore-cubemap-optional)
+  - [15.9 Metallurgy – Ingots and Ore HD (optional)](#1512-metallurgy--ingots-and-ore-hd-optional)
+  - [15.10 Ancient Pottery (optional)](#1513-ancient-pottery-optional)
+  - [15.11 ElSopa HD – Realistic Dark Elf Urns (optional)](#1514-elsopa-hd--realistic-dark-elf-urns-optional)
+  - [15.12 Ancient Dwemer Metal (optional)](#1515-ancient-dwemer-metal-optional)
+  - [15.13 HD Lava for Dawnguard (optional)](#1516-hd-lava-for-dawnguard-optional)
 - [16. Clutter](#16-clutter)
   - [16.1 Forgotten Retex Project](#161-forgotten-retex-project)
   - [16.2 Aetherial Crown by Saerileth – Plugin Replacer](#162-aetherial-crown-by-saerileth--plugin-replacer)
@@ -3095,19 +3095,19 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 * **Main File** – Gecko’s Dwarven Ruins Textures
 
-## 15.7 [RUSTIC WORD WALLS](https://www.nexusmods.com/skyrim/mods/68561?tab=files) (optional)
+## 15.5 [RUSTIC WORD WALLS](https://www.nexusmods.com/skyrim/mods/68561?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – RUSTIC WORD WALLS 2K
 
-## 15.9 [4K Nordic Murals ](https://www.nexusmods.com/skyrimspecialedition/mods/32379?tab=files)(optional)
+## 15.6 [4K Nordic Murals ](https://www.nexusmods.com/skyrimspecialedition/mods/32379?tab=files)(optional)
 
 ### Download Instructions
 
 * **Main File** – 4K Nordic Murals
 
-## 15.10 [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files) (optional)
+## 15.7 [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3131,7 +3131,7 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 > This is faster than ESL-ifying the ESP version.
 
-## 15.11 [CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap](https://drive.google.com/open?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8) (optional)
+## 15.8 [CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap](https://drive.google.com/open?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8) (optional)
 
 ### Installation Instructions
 
@@ -3142,31 +3142,31 @@ While it is optional, I do highly recommend this mod. If you skip it, the new me
 
 > Unfortunately the issue persists in the latest version of CC's Enhanced Ore Veins. I uploaded a direct [comparison](https://imgsli.com/MTMyOTE) - before and after installing the fixed cube map.
 
-## 15.12 [Metallurgy – Ingots and Ore HD ](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)(optional)
+## 15.9 [Metallurgy – Ingots and Ore HD ](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)(optional)
 
 ### Download Instructions
 
 * **Main File** – Metallurgy – Ingots and Ore HD 1K (LOOSE)
 
-## 15.13 [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files) (optional)
+## 15.10 [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – Ancient Pottery
 
-## 15.14 [ElSopa HD – Realistic Dark Elf Urns](https://www.nexusmods.com/skyrimspecialedition/mods/21717?tab=files) (optional)
+## 15.11 [ElSopa HD – Realistic Dark Elf Urns](https://www.nexusmods.com/skyrimspecialedition/mods/21717?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – HD Dark Elf Urns 2k
 
-## 15.15 [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files) (optional)
+## 15.12 [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** - Ancient Dwemer Metal 2K
 
-## 15.16 [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files) (optional)
+## 15.13 [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files) (optional)
 
 ### Download Instructions
 
