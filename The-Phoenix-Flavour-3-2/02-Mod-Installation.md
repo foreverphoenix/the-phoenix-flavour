@@ -126,7 +126,6 @@
   - [7.8 Inferno - Fire Effects Redux](#78-inferno---fire-effects-redux)
   - [7.9 KD - Realistic Fireplaces](#79-kd---realistic-fireplaces)
   - [7.10 Charred Logs for KD - Realistic Fireplaces (optional)](#710-charred-logs-for-kd---realistic-fireplaces-optional)
-  - [7.11 Medieval Torch (optional)](#711-medieval-torch-optional)
 - [08. Visual FX](#08-visual-fx)
   - [8.1 Frozen Electrocuted Combustion (FEC) (optional)](#81-frozen-electrocuted-combustion-fec-optional)
   - [8.2 Frozen Electrocuted Combustion - Extra Crispy Retexture (optional)](#82-frozen-electrocuted-combustion---extra-crispy-retexture-optional)
@@ -452,9 +451,9 @@
   - [28.11 Disarming Traps Is Dangerous (optional)](#2811-disarming-traps-is-dangerous-optional)
   - [28.12 VioLens – A Killmove Mod (optional)](#2812-violens--a-killmove-mod-optional)
 - [29. Balancing](#29-balancing)
-  - [29.1 Hybrid Loot](#291-hybrid-loot)
+  - [29.1 Morrowloot Miscellania - Hybrid Loot](#291-morrowloot-miscellania---hybrid-loot)
   - [29.2 Morrowloot Miscellania – Item Distribution](#292-morrowloot-miscellania--item-distribution)
-  - [29.3 Morrowloot Miscellania - Dremora Bound Weapons](#293-morrowloot-miscellania---dremora-bound-weapons)
+  - [29.3 Morrowloot Miscellania - Dremora Bound Weapons (optional)](#293-morrowloot-miscellania---dremora-bound-weapons-optional)
   - [29.4 Economy Overhaul and Speechcraft Improvements](#294-economy-overhaul-and-speechcraft-improvements)
   - [29.5 Trade and Barter](#295-trade-and-barter)
   - [29.6 Genuinely Intelligent Soul Traps (GIST)](#296-genuinely-intelligent-soul-traps-gist)
@@ -561,7 +560,7 @@
   - [38.5 Rudy HQ – More Lights for ENB – Moths (optional)](#385-rudy-hq--more-lights-for-enb--moths-optional)
   - [38.6 Rudy HQ – More Lights for ENB – Chaurus Eggs and Sacs (optional)](#386-rudy-hq--more-lights-for-enb--chaurus-eggs-and-sacs-optional)
   - [38.7 Rudy HQ – More Lights for ENB – Bthardamz (optional)](#387-rudy-hq--more-lights-for-enb--bthardamz-optional)
-- [39 // SKELETON & ANIMATIONS](#39--skeleton--animations)
+- [39. Skeleton & Animations](#39-skeleton--animations)
   - [39.1 Fores New Idles in Skyrim (FNIS)](#391-fores-new-idles-in-skyrim-fnis)
   - [39.2 XP32 Maximum Skeleton Special Extended (XPMSSE)](#392-xp32-maximum-skeleton-special-extended-xpmsse)
   - [39.3 XPMSSE Fixes - Automated Patcher](#393-xpmsse-fixes---automated-patcher)
@@ -1922,17 +1921,6 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 ### Download Instructions
 
 * **Optional Files** - KD - Realistic Fireplaces - Charred Logs 2K
-
-## 7.11 [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files) (optional)
-
-### Download Instructions
-
-* **Main Files:** Medieval Torch
-
-### FOMOD Instructions
-
-* **Smoke Effect and Wield:** Smoke Effect (STAC Compatible Meshes) - Proper Wield
-* **Style:** Version 1
 
 ![separator](../Media/separator.png)
 
@@ -5277,7 +5265,7 @@ You can also use VioLens to disable kill cams altogether which I usually do.
 
 # 29. Balancing
 
-## 29.1 Hybrid Loot
+## 29.1 Morrowloot Miscellania - Hybrid Loot
 
 ### Download Instructions
 
@@ -5291,11 +5279,15 @@ You can also use VioLens to disable kill cams altogether which I usually do.
 
 * **Main Files:** Morrowloot Miscellania - Item Distribution
 
-## 29.3 [Morrowloot Miscellania - Dremora Bound Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
+## 29.3 [Morrowloot Miscellania - Dremora Bound Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Morrowloot Miscellania - Dremora Bound Weapons
+
+### FOMOD Instructions
+
+* **Patches:** AOS Patch
 
 ## 29.4 [Economy Overhaul and Speechcraft Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/9542?tab=files)
 
@@ -6188,7 +6180,7 @@ The mod includes outdated plugins for PapyrusUtil and Simply Knock, both of whic
 
 ![separator](../Media/separator.png)
 
-# 39 // SKELETON & ANIMATIONS
+# 39. Skeleton & Animations
 
 ## 39.1 [Fores New Idles in Skyrim (FNIS)](https://www.nexusmods.com/skyrimspecialedition/mods/3038?tab=files)
 
