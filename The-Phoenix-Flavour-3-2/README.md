@@ -22,9 +22,12 @@
 - Fully integrated the highly requested Interesting NPCs.
 - Expanded the Customisation section with multiple new categories.
 - Removed Cutting Room Floor. It is not worth the gazillion patches it requires.
+- Added an automated patcher to fix bugs in the XPMSSE scripts.
+- Replaced Container and Levelled List Fixes with our own, custom loot overhaul.
 - Major new additions:
   - Adamant - A Perk Overhaul
   - AI Overhaul SSE
+  - Morrowloot Miscellania - Hybrid Loot
   - Reliquary of Myth - Artifact Overhaul
   - Interesting NPCs (3DNPC)
   - All Geared Up Derivative
@@ -61,9 +64,17 @@
 - Removed Real 3D Walls (doesn't blend well with other retextures).
 - Removed Smithing Perk Overhaul (replaced by Adamant).
 - Removed Spider Webs and Particles for ENB.
+- Removed ElSopa HD - Meridia's Beacon (replaced with Meridia's Luxon Beacon Replacer).
+- Removed HD Sabre Cat Tooth Mesh and Texture (included in HD Meshes and Textures for Animal and Creature Drops).
+- Removed The Divine Amulets Retexture - Dragonborn Amulets (in favour of RUSTIC AMULETS).
+- Removed Better Looking Amulets (in favour of RUSTIC AMULETS).
+- Removed ElSopa HD - Akatosh Amulet (in favour of RUSTIC AMULETS).
+- Removed ElSopa HD - Bonehawk Amulet (in favour of RUSTIC AMULETS).
 - Removed Fangs and Eyes - A Vampire Appearance Mod (replaced with standalone version of the TRI files we need).
 - Removed Encounter Zones Reborn (replaced with Arena - An Encounter Zone Overhaul).
 - Removed College of Winterhold - Missing Apprentices Fix (requires Cutting Room Floor which was removed).
+- Removed Container and Levelled List Fixes - Complete Loot Overhaul.
+- Removed Lock Related Loot.
 - Removed Helarchen Creek (moved to Customisation).
 - Removed Telengard (moved to Customisation).
 - Removed Keld-Nar (moved to Customisation).
@@ -72,6 +83,11 @@
 - Removed Immersive Patrols - Plugin Replacer (replaced with Immersive Patrols Simplified).
 - Removed Beast Skeletons (Bitter Edition) (replaced with custom replacer plugin).
 - Removed AMB Content Addon Fixes (replaced with a scratch-made replacer plugin of our own).
+- Removed Cloaks of Skyrim (they just look ugly).
+- Removed Cloaks of Skyrim - MLU-Friendly Fixes.
+- Removed Cloaks of the Nords.
+- Removed Rally's Five Cities Cloaks.
+- Removed Morrowloot Miscellania - Ancient Nord Hero Weapons (similar functionality included in Hybrid Loot).
 - Moved Step 5 - Skyrim Realistic Overhaul to Setup. Now the separator numbers align with the Steps.
 - Moved Quality of Life Improvements below Immersion.
 - Moved Reduced Glow FX from Step 7 to Step 8.
@@ -98,8 +114,11 @@
 - **2.8:** Added instructions to select The Forgotten City patch in the NARC FOMOD.
 - **2.23:** Added Bug Fixes (the mod, by meh321).
 - **3.2:** Changed FOMOD instructions for Dwemer Gates Don't Reset (using the Dwemer Only USSEP version now).
-- **3.8:** Re-added No NPC Greetings (to replace the previously removed To Your Face which is suspected of causing crashes).
-- **3.15:** Updated instructions for Simply Smaller Wolves (removed CRF related instructions, added screenshots).
+- **3.3:** Added Andrealphus' Gameplay Tweaks.
+- **3.5:** Added Helgen Keep Bandit Chief Executioner.
+- **3.10:** Re-added No NPC Greetings (to replace the previously removed To Your Face which is suspected of causing crashes).
+- **3.12:** Added note to Random Encounter Tweaks about which parts of the mod are actually used.
+- **3.16:** Updated instructions for Simply Smaller Wolves (removed CRF related instructions, added screenshots).
 - **4.3:** Added Remove QuickSave Button from SkyUI Systems Menu.
 - **4.5:** Added Favorite Things - Extended Favorites Menu for SkyUI.
 - **4.10:** Updated FOMOD instructions for Undiscovered Means Unknown.
@@ -111,6 +130,7 @@
 - **5.8:** Added instructions for the new FOMOD for High Poly Project, and removed now obsolete Additional Instructions.
 - **5.9:** Updated FOMOD instructions for aMidianBorn - Dragonborn DLC.
 - **5.10:** Updated download instructions for CBBE.
+- **7.6:** Changed FOMOD instructions for STAC to use the "Optimized" option for candles and prevent FPS drops.
 - **8.1:** Updated download instructions and removed CTD warning for Frozen Electrocuted Combustion.
 - **8.3:** Now using the full version of Enhanced Blood Textures.
 - **8.13:** Added Glow Be Gone - Updated.
@@ -139,9 +159,17 @@
 - **15.3:** Added Ice Cave Parallax Improved.
 - **15.11:** Re-added CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap.
 - **15.15:** Removed CAO processing instructions from Ancient Dwemer Metal (not actually required).
-- **16.19:** Added Rally's Werewolf Totems.
+- **16.16:** Added instructions to merge main and optional files.
+- **16.17:** Added instructions to merge main and optional files.
+- **16.18:** Added Rally's Werewolf Totems.
+- **16.19:** Added Meridia's Luxon Beacon Replacer.
+- **17.5:** Added True Homecooked Meal.
+- **17.6:** Added HD Meshes and Textures for Animal and Creature Drops.
+- **17.7:** Removed instructions to download Hagraven Claw file (included in previous mod).
+- **17.8:** Added Improved Dragonfly.
 - **18.3:** Updated the FOMOD instructions for Gemling Queen Jewelry (merely updated to use the same logic as all others).
 - **18.3:** Added a screenshot to the Additional Instructions section for Gemling Queen Jewelry.
+- **18.5:** Added RUSTIC AMULETS.
 - **19.2:** No longer installing the AMB Content Addon Patch with Practical Female Armors (will be installed separately later).
 - **19.4:** Removed CAO processing instructions from AMB Armors (all processed meshes will be replaced by the SSE Patch).
 - **19.4:** AMB Armors is no longer optional.
@@ -166,13 +194,15 @@
 - **26.4:** Updated instructions for Relationship Dialogue Overhaul (CRF Patch is no longer needed).
 - **26.6:** The Autorun.txt is located in the Text Files tab, not the INI Files tab (fixed typo).
 - **26.6:** Fixed customisation instructions (console command syntax) for Guard Dialogue Overhaul.
-- **26.9:** Added Thugs Not Assassins.
+- **26.9:** Added Hunters Not Bandits.
+- **26.10:** Added Thugs Not Assassins.
 - **26.10:** Updated FOMOD instructions for Nether's Follower Framework (now selecting the Interesting NPCs Patch).
 - **27.2:** Updated FOMOD instructions for Even Better Quest Objectives (selecting the BCS Patch, skipping CRF Patch).
 - **27.5:** Added Save the Icerunner - Lights Out Alternate Routes.
 - **27.15:** Updated FOMOD instructions for Finding Velehk Sain (no selecting College Apprentices Fix option).
 - **28.3:** Added Arena - An Encounter Zone Overhaul.
-- **29.1:** Updated download instructions for CLLF (version numbers increased for recent updates).
+- **29.1:** Added Morrowloot Miscellania - Hybrid Loot.
+- **29.3:** Added Morrowloot Miscellania - Dremora Bound Weapons.
 - **29.10:** Added Reliquary of Myth - Artifact Overhaul
 - **29.11:** Re-added Zim's Artifacts (not using all modules).
 - **29.12:** Added Unique Items Tweaks - Improved Less Known Artifacts.
@@ -187,8 +217,7 @@
 - **34.2:** Added Immersive Patrols Simplified.
 - **34.4:** Added numbers to the overview picture for the DWC Player Werewolf Replacer FOMOD.
 - **34.10:** Added Beast Skeletons - Plugin Replacer.
-- **35.4:** Removed unnecessary porting instructions from AMB Content Addon.
-- **35.5:** Added AMB Content Addon - Plugin Replacer.
+- **35.5:** Added AMB Content Addon - SSE Patch.
 - **35.6:** Added Practical Female Armors - aMidianBorn Content Addon as a separate file.
 - **36.6:** Added Choose Your Own Arch-Mage.
 - **37.1:** Added instructions to download the Enhanced Blood Textures patch for Audio Overhaul Skyrim.
@@ -220,7 +249,6 @@
 - Added several new Interface related sections.
 - Added Tree Tweaks section.
 - Added Arthmoor's New Towns section.
-
 
 ## New Game
 
