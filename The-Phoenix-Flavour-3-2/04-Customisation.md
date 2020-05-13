@@ -358,14 +358,14 @@ When you go through the FOMOD options, add your changes to the mod name. This wi
   - Custom Trees (large) `performance-intense but looks amazing`
 - **Clutter:**
   - Enhanced Tree Clutter (recommended)
-  - ~~Firewood Textures~~ `I dislike the textures personally and prefer Cover Wood (Installed in the main guide)`
+  - ~~Firewood Textures~~ `I dislike the textures personally and prefer Tree Bark in HD (Installed in the main guide)`
 - **Skyrim Flora Overhaul - Branches:**
   - *These new branch textures change Skyrim more than you would probably expect. I love Option 4 which is the guide's default choice. Option 2 is lovely as well. Take a good look at them all and make your own choice.*
 - **Alternative Trees:**
   - Realistic Aspen Trees `choose this if you want RAT (differently coloured aspens) OR green aspens (will be covered later)`
   - SFO Snowy Pine Trees `default choice in the guide, they just look amazing`
 - **Greener Bark Texture:**
-  - *Personally I just skip all options here. If you'd like to try the different bark textures, tick the All-in-one option.*
+  - *Depending on the options you chose, this might not appear. Personally I just skip all options here. If you'd like to try the different bark textures, tick the All-in-one option.*
 
 ### Mod Order
 
