@@ -207,7 +207,7 @@ Before we can generate weapon meshes for all mods, there are three mods that use
 
 > This will patch records from **Zim's Immersive Artifacts - Thane Weapons**, **Tools of Kagrenac** and the **AMB Content Addon**.
 
-### 4.2.2 Output
+### 3.2.2 Output
 
 - Back in Mod Organizer 2, scroll down all the way to the***Overwrite***folder which contains the new plugin and meshes.
 - Right-click it and select **Create Mod**.
