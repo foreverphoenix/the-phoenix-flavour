@@ -13,7 +13,7 @@
 
 ## What's new?
 
-**Disclaimer:** Release 3.2 is fairly substantial so I am bound to have missed some changes. Not everything is documented. Installing the guide from scratch is HIGHLY recommended!
+**Disclaimer:** Release 3.2 is fairly substantial so I am bound to have missed some changes and not everything is fully documented. Installing the guide from scratch is required.
 
 - Added many new screenshots and replaced outdated ones.
 - Many instructions were similarly added or updated.
@@ -56,9 +56,9 @@
 - Removed Multiple Floors Sandboxing (it can be toggled in the NFF MCM).
 - Removed Sovngarde - Mist's Font Replacer (it was added to the new Interface Customisation section).
 - Removed SkyUI - Flashing Savegame Fix (included in Remove QuickSave Button from SkyUI Systems Menu).
+- Removed Extended UI. People constantly missed instructions to delete the BSA plus it seems a little buggy at times.
 - Removed Cutting Room Floor - Lighting Overhaul.
 - Removed Enhanced Landscapes - Solstheim 3D Trees (moved to the 3D Tree LOD Customisation section)
-- Removed Papyrus Extender (only required for Frozen Electrocuted Combustion which was removed).
 - Removed MD's Alternate Farmhouse Textures (replaced by newer version).
 - Removed Trifle from Hiro - Solitude Gate (moved to Retextures Customisation section).
 - Removed Real 3D Walls (doesn't blend well with other retextures).
@@ -188,6 +188,7 @@
 - **24.16:** Changed FOMOD instructions for Beards (selecting Vanilla Only instead of Full).
   - The "full" version adds some braided beards that were clearly cut for a reason from the vanilla game. Most of them look strange. One of the braids has some transparency issues.
 - **25.2:** Added Adamant - A Perk Overhaul.
+- **25.4:** Added Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch.
 - **26.1:** Added AI Overhaul.
 - **26.2:** Added AI Overhaul - Windsong Immersive Character Overhaul Patch.
 - **26.3:** Added AI Overhaul - Ethereal Elven Overhaul Patch.
@@ -217,7 +218,8 @@
 - **34.2:** Added Immersive Patrols Simplified.
 - **34.4:** Added numbers to the overview picture for the DWC Player Werewolf Replacer FOMOD.
 - **34.10:** Added Beast Skeletons - Plugin Replacer.
-- **35.5:** Added AMB Content Addon - SSE Patch.
+- **35.4:** Updated AMB Content Addon (LE version) instructions.
+- **35.5:** Added aMidianBorn Content Addon - SSE Port.
 - **35.6:** Added Practical Female Armors - aMidianBorn Content Addon as a separate file.
 - **36.6:** Added Choose Your Own Arch-Mage.
 - **37.1:** Added instructions to download the Enhanced Blood Textures patch for Audio Overhaul Skyrim.
@@ -257,6 +259,7 @@
 - Instructions to turn down the DOF slider ingame were moved to the Finalisation.
 - Add / updated MCM recommendations for multiple mods:
   - All Geared Up Derivative
+  - Complete Crafting Overhaul Remastered
   - moreHUD
   - Realistic Water Two
   - Relationship Dialogue Overhaul
