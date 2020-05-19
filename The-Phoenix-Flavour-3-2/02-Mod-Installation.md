@@ -80,18 +80,17 @@
   - [4.13 A Matter of Time - A Clock HUD Widget (optional)](#413-a-matter-of-time---a-clock-hud-widget-optional)
   - [4.14 A Matter of Time - Phoenix Preset (optional)](#414-a-matter-of-time---phoenix-preset-optional)
   - [4.15 Shouts in the Dragon Tongue (SIDT) (optional)](#415-shouts-in-the-dragon-tongue-sidt-optional)
-  - [4.16 Extended UI (optional)](#416-extended-ui-optional)
-  - [4.17 Skyrim SE Skill Interface Retexture (SSIRT) (optional)](#417-skyrim-se-skill-interface-retexture-ssirt-optional)
-  - [4.18 No More Laser-Printed Book (optional)](#418-no-more-laser-printed-book-optional)
-  - [4.19 Immersive Bookreading and Lockpicking (optional)](#419-immersive-bookreading-and-lockpicking-optional)
-  - [4.20 JS Lockpicking UI (optional)](#420-js-lockpicking-ui-optional)
-  - [4.21 A Quality World Map](#421-a-quality-world-map)
-  - [4.22 Dynamic Snow for Map (optional)](#422-dynamic-snow-for-map-optional)
-  - [4.23 Dawnguard Map Markers (optional)](#423-dawnguard-map-markers-optional)
-  - [4.24 Smaller Vanilla Cursor (optional)](#424-smaller-vanilla-cursor-optional)
-  - [4.25 ReCleaned Menu (optional)](#425-recleaned-menu-optional)
-  - [4.26 Loading Screen Smoke Removed (optional)](#426-loading-screen-smoke-removed-optional)
-  - [4.27 KenMOD - Time on Loading Screen (optional)](#427-kenmod---time-on-loading-screen-optional)
+  - [4.16 Skyrim SE Skill Interface Retexture (SSIRT) (optional)](#416-skyrim-se-skill-interface-retexture-ssirt-optional)
+  - [4.17 No More Laser-Printed Book (optional)](#417-no-more-laser-printed-book-optional)
+  - [4.18 Immersive Bookreading and Lockpicking (optional)](#418-immersive-bookreading-and-lockpicking-optional)
+  - [4.19 JS Lockpicking UI (optional)](#419-js-lockpicking-ui-optional)
+  - [4.20 A Quality World Map](#420-a-quality-world-map)
+  - [4.21 Dynamic Snow for Map (optional)](#421-dynamic-snow-for-map-optional)
+  - [4.22 Dawnguard Map Markers (optional)](#422-dawnguard-map-markers-optional)
+  - [4.23 Smaller Vanilla Cursor (optional)](#423-smaller-vanilla-cursor-optional)
+  - [4.24 ReCleaned Menu (optional)](#424-recleaned-menu-optional)
+  - [4.25 Loading Screen Smoke Removed (optional)](#425-loading-screen-smoke-removed-optional)
+  - [4.26 KenMOD - Time on Loading Screen (optional)](#426-kenmod---time-on-loading-screen-optional)
 - [05. Main Visual Mods](#05-main-visual-mods)
   - [5.1 Skyrim Realistic Overhaul (SRO)](#51-skyrim-realistic-overhaul-sro)
   - [5.2 DynDOLOD Resources](#52-dyndolod-resources)
@@ -397,15 +396,16 @@
   - [25.1 Mysticism – A Magic Overhaul](#251-mysticism--a-magic-overhaul)
   - [25.2 Adamant - A Perk Overhaul](#252-adamant---a-perk-overhaul)
   - [25.3 Complete Crafting Overhaul Remastered (CCOR)](#253-complete-crafting-overhaul-remastered-ccor)
-  - [25.4 Morningstar – Minimalistic Races of Skyrim (optional)](#254-morningstar--minimalistic-races-of-skyrim-optional)
-  - [25.5 Subtle But Classless (optional)](#255-subtle-but-classless-optional)
-  - [25.6 Subtle But Classless – USSEP and EEO Patch (optional)](#256-subtle-but-classless--ussep-and-eeo-patch-optional)
-  - [25.7 Growl – Werebeasts of Skyrim](#257-growl--werebeasts-of-skyrim)
-  - [25.8 Sacrosanct – Vampires of Skyrim](#258-sacrosanct--vampires-of-skyrim)
-  - [25.9 Carriage and Ferry Travel Overhaul (CFTO)](#259-carriage-and-ferry-travel-overhaul-cfto)
-  - [25.10 CFTO – Winterhold Carriage](#2510-cfto--winterhold-carriage)
-  - [25.11 Night Eye Overhaul (NEO)](#2511-night-eye-overhaul-neo)
-  - [25.12 Night Eye Overhaul – Plugin Replacer](#2512-night-eye-overhaul--plugin-replacer)
+  - [25.4 Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch (optional)](#254-complete-crafting-overhaul-remastered---js-circlet-replacer-patch-optional)
+  - [25.5 Morningstar – Minimalistic Races of Skyrim (optional)](#255-morningstar--minimalistic-races-of-skyrim-optional)
+  - [25.6 Subtle But Classless (optional)](#256-subtle-but-classless-optional)
+  - [25.7 Subtle But Classless – USSEP and EEO Patch (optional)](#257-subtle-but-classless--ussep-and-eeo-patch-optional)
+  - [25.8 Growl – Werebeasts of Skyrim](#258-growl--werebeasts-of-skyrim)
+  - [25.9 Sacrosanct – Vampires of Skyrim](#259-sacrosanct--vampires-of-skyrim)
+  - [25.10 Carriage and Ferry Travel Overhaul (CFTO)](#2510-carriage-and-ferry-travel-overhaul-cfto)
+  - [25.11 CFTO – Winterhold Carriage](#2511-cfto--winterhold-carriage)
+  - [25.12 Night Eye Overhaul (NEO)](#2512-night-eye-overhaul-neo)
+  - [25.13 Night Eye Overhaul – Plugin Replacer](#2513-night-eye-overhaul--plugin-replacer)
 - [26. Non-Player Characters](#26-non-player-characters)
   - [26.1 AI Overhaul](#261-ai-overhaul)
   - [26.2 AI Overhaul - Windsong Immersive Character Overhaul Patch](#262-ai-overhaul---windsong-immersive-character-overhaul-patch)
@@ -530,7 +530,7 @@
   - [35.2 Armor and Clothing Extension – MCM Fix](#352-armor-and-clothing-extension--mcm-fix)
   - [35.3 Weapons Armor Clothing and Clutter Fixes – CBBE Patch](#353-weapons-armor-clothing-and-clutter-fixes--cbbe-patch)
   - [35.4 aMidianBorn Content Addon](#354-amidianborn-content-addon)
-  - [35.5 aMidianBorn Content Addon – SSE Patch](#355-amidianborn-content-addon--sse-patch)
+  - [35.5 aMidianBorn Content Addon – SSE Port](#355-amidianborn-content-addon--sse-port)
   - [35.6 Practical Female Armors - AMB Content Addon](#356-practical-female-armors---amb-content-addon)
   - [35.7 Common Clothes and Armors](#357-common-clothes-and-armors)
   - [35.8 Common Clothes and Armors – CBBE Patch](#358-common-clothes-and-armors--cbbe-patch)
@@ -1342,20 +1342,7 @@ Preview below:
 
 - **Main File** - SIDT - Words Only
 
-## 4.16 [Extended UI](https://www.nexusmods.com/skyrim/mods/57873?tab=files) (optional)
-
-### Download Instructions
-
-- **Main File** - Extended UI
-
-### Porting Instructions
-
-- Resave **Extended UI.esp** in the Creation Kit.
-- Unpack **Extended UI.bsa** through Mod Organizer 2.
-
-> Don't forget to delete the BSA after unpacking it.
-
-## 4.17 [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files) (optional)
+## 4.16 [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1380,26 +1367,26 @@ Below are my personal choices. Feel free to make your own!
 - **Vampire Background:**
   - HDR Nebula
 
-##  4.18 [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files) (optional)
+##  4.17 [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - No More Laser-Printed Book
 
-## 4.19 [Immersive Bookreading and Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541?tab=files) (optional)
+## 4.18 [Immersive Bookreading and Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Immersive Bookreading
 - **Main File** - Immersive Lockpicking
 
-## 4.20 [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files) (optional)
+## 4.19 [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - 2k Textures
 
-## 4.21 [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804?tab=files)
+## 4.20 [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804?tab=files)
 
 ### Download Instructions
 
@@ -1422,19 +1409,19 @@ Below are my personal choices. Feel free to make your own!
 
 > Since we just deleted the plugin, it can no longer load the INI file. By renaming it, the INI will now be loaded by the Luminosity map lighting patch (installed later on).
 
-## 4.22 [Dynamic Snow for Map](https://www.nexusmods.com/skyrim/mods/29877?tab=files) (optional)
+## 4.21 [Dynamic Snow for Map](https://www.nexusmods.com/skyrim/mods/29877?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Type 1
 
-## 4.23 [Dawnguard Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/20931?tab=files) (optional)
+## 4.22 [Dawnguard Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/20931?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Dawnguard Map Markers
 
-## 4.24 [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files) (optional)
+## 4.23 [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1446,19 +1433,19 @@ Below are my personal choices. Feel free to make your own!
 
 > If you are left-handed, feel free to select the "Left" option.
 
-## 4.25 [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files) (optional)
+## 4.24 [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - ReCleanedMenus
 
-## 4.26 [Loading Screen Smoke Removed](https://www.nexusmods.com/skyrimspecialedition/mods/4634?tab=files) (optional)
+## 4.25 [Loading Screen Smoke Removed](https://www.nexusmods.com/skyrimspecialedition/mods/4634?tab=files) (optional)
 
 ### Download Instructions
 
 - **Main File** - Loading Screen Smoke Removed v1.0
 
-## 4.27 [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files) (optional)
+## 4.26 [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1714,24 +1701,20 @@ Below are my personal choices. Feel free to make your own!
 
 ### FOMOD Instructions
 
-* **Stars:**
-  * 2K Stars
-* **Stars Type:**
-  * 2k only small stars
-* **Moons:**
-  * 2K Moons
-* **Nebula:**
-  * 4K Nebula
-* **Aurora:**
-  * 4K Aurora
-* **Constellations:**
-  * 2K Constellations
+* **Stars:** 2K Stars
+* **Stars Type:** 2k only small stars
+* **Moons:** 2K Moons
+* **Nebula:** 4K Nebula
+* **Aurora:** 4K Aurora
+* **Constellations:** 2K Constellations
 
 ## 6.6 [Night Skies - Stars and Galaxies](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** - Night Skies - Milky Realism (4K) - CP 1.01
+
+> You can choose any one of the main files but Milky Realism is my personal favourite and I think 8K is a little overkill.
 
 ## 6.7 [Skygazer Moons - Masser and Secunda ](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files)(optional)
 
@@ -1747,15 +1730,15 @@ Below are my personal choices. Feel free to make your own!
 
 ### FOMOD Instructions
 
-* **Select Game** - Skyrim Special Edition
-* **Select SSE Version -** 1.5.97
+* **Select Game:** Skyrim Special Edition
+* **Select SSE Version:** 1.5.97
 * **Select Plugin:** ESL Flagged
 
-The next couple settings are depend on your choice of ENB as well as personal preferences. I selected the “Halo Dimmer” options and will add my personal recommendations here after more testing.
+The next couple settings depend on your choice of ENB as well as personal preferences. I selected the “Halo Dimmer” options and will add my personal recommendations here after more testing.
 
 ## 6.9 [Yee - A New Snowflake Mod](https://www.nexusmods.com/skyrimspecialedition/mods/21559?tab=files) (optional)
 
-**DOWNLOAD INSTRUCTIONS**
+### Download Instructions
 
 * **Main File** - Ultra Realistic Snowfall
 
@@ -1809,7 +1792,7 @@ The next couple settings are depend on your choice of ENB as well as personal pr
 
 * **Main Files** - A Quality Worldmap - Luminosity Compatibility Patch
 
-### Mod Order Instructions
+### Mod Order
 
 * Place the mod below the **PATCHES** separator
 
@@ -4742,25 +4725,38 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
 
 ### Download Instructions
 
-* **Main File** - Mysticism – A Magic Overhaul
+* **Main Files:** Mysticism – A Magic Overhaul
 
 ## 25.2 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files)
 
 ### Download Instructions
 
-* **Main File** - Adamant - A Perk Overhaul
+* **Main Files:** Adamant - A Perk Overhaul
 
 ## 25.3 [Complete Crafting Overhaul Remastered (CCOR)](https://www.nexusmods.com/skyrimspecialedition/mods/28608?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Complete Crafting Overhaul Remastered
+* **Main Files:** Complete Crafting Overhaul Remastered
 
-## 25.4 [Morningstar – Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298?tab=files) (optional)
+## 25.4 [Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19518?tab=files) (optional)
+
+### Download Instructions 
+
+* **Miscellaneous Files:**
+  * JS Circlet Replacer __ CCOR
+
+> **Mod Dependency:** Only install this mod if you installed **JS Circlet Replacer**. Otherwise skip it.
+
+### Mod Order
+
+* Move below the **PATCHES** separator.
+
+## 25.5 [Morningstar – Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Morningstar 1.4.0
+* **Main Files:** Morningstar 1.4.0
 
 ### Additional Instructions
 
@@ -4770,13 +4766,13 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
 
 > This will turn the ESL into an ESP-Lite plugin, allowing us to manipulate its load order.
 
-## 25.5 [Subtle But Classless](https://www.nexusmods.com/skyrimspecialedition/mods/2744?tab=files) (optional)
+## 25.6 [Subtle But Classless](https://www.nexusmods.com/skyrimspecialedition/mods/2744?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – Subtle but Classless
 
-## 25.6 [Subtle But Classless – USSEP and EEO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+## 25.7 [Subtle But Classless – USSEP and EEO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
 
 ### Download Instructions
 
@@ -4788,19 +4784,19 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
 
 * Place the mod below the **PATCHES** separator.
 
-## 25.7 [Growl – Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
+## 25.8 [Growl – Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
 
 ### Download Instructions
 
 * **Main Files** – Growl 1.4.0
 
-## 25.8 [Sacrosanct – Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928?tab=files)
+## 25.9 [Sacrosanct – Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928?tab=files)
 
 ### Download Instructions
 
 * **Main Files** – Sacrosanct v515
 
-## 25.9 [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
+## 25.10 [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
 
 ### Download Instructions
 
@@ -4811,13 +4807,13 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
 
 * Place **CFTO – Dawnstar by Arthmoor Patch** below the **PATCHES** separator.
 
-## 25.10 [CFTO – Winterhold Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/27236?tab=files)
+## 25.11 [CFTO – Winterhold Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/27236?tab=files)
 
 ### Download Instructions
 
 * **Main Files** – CFTO – Winterhold Carriage
 
-## 25.11 [Night Eye Overhaul (NEO)](https://www.nexusmods.com/skyrimspecialedition/mods/9177?tab=files)
+## 25.12 [Night Eye Overhaul (NEO)](https://www.nexusmods.com/skyrimspecialedition/mods/9177?tab=files)
 
 ### Download Instructions
 
@@ -4833,7 +4829,7 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
   * `Night Eye Overhaul.esm`
   * `Night Eye Overhaul.esp`
 
-## 25.12 [Night Eye Overhaul – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23794?tab=files)
+## 25.13 [Night Eye Overhaul – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23794?tab=files)
 
 ### Download Instructions
 
@@ -5886,13 +5882,9 @@ Make sure **Armor and Clothing Extension** is activated before you proceed.
 
 ### Download Instructions
 
-* **Optional Files** – aMidianBorn – Content Addon
+* **Optional Files:** aMidianBorn – Content Addon
 
-### Porting Instructions
-
-- Re-save the plugin in the Creation Kit.
-
-## 35.5 aMidianBorn Content Addon – SSE Patch
+## 35.5 [aMidianBorn Content Addon – SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/35390?tab=files)
 
 ### Download Instructions
 
