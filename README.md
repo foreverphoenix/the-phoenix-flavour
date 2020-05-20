@@ -116,7 +116,7 @@ The guide includes instructions to change the game's resolution.
 
 # The Next Step
 
-Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
+Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** [here](/The-Phoenix-Flavour-3-2/01-Setup.md) to install the guide manually or find the **Wabbajack** installer with instructions [here](https://www.wabbajack.org/modlist/tpf).
 
 # Discord
 
