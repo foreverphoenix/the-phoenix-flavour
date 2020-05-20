@@ -530,7 +530,7 @@
   - [35.2 Armor and Clothing Extension – MCM Fix](#352-armor-and-clothing-extension--mcm-fix)
   - [35.3 Weapons Armor Clothing and Clutter Fixes – CBBE Patch](#353-weapons-armor-clothing-and-clutter-fixes--cbbe-patch)
   - [35.4 aMidianBorn Content Addon](#354-amidianborn-content-addon)
-  - [35.5 aMidianBorn Content Addon – SSE Port](#355-amidianborn-content-addon--sse-port)
+  - [35.5 aMidianBorn Content Addon](#355-amidianborn-content-addon)
   - [35.6 Practical Female Armors - AMB Content Addon](#356-practical-female-armors---amb-content-addon)
   - [35.7 Common Clothes and Armors](#357-common-clothes-and-armors)
   - [35.8 Common Clothes and Armors – CBBE Patch](#358-common-clothes-and-armors--cbbe-patch)
@@ -5884,13 +5884,15 @@ Make sure **Armor and Clothing Extension** is activated before you proceed.
 
 * **Optional Files:** aMidianBorn – Content Addon
 
-## 35.5 [aMidianBorn Content Addon – SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/35390?tab=files)
+## 35.5 [aMidianBorn Content Addon](https://www.nexusmods.com/skyrimspecialedition/mods/35390?tab=files)
 
 ### Download Instructions
 
-* **Main Files:** aMidianBorn Content Addon Fixes
+* **Main Files:** aMidianBorn Content Addon
 
-> Available on Discord in #beta-files.
+### About the mod
+
+This is kryptopyr's official AMB CA SSE port which includes an updated plugin and some fixed assets. The original AMB CA is still required which is why we installed it in the previous step.
 
 ## 35.6 Practical Female Armors - AMB Content Addon
 
