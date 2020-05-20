@@ -2374,7 +2374,7 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 * **Optional File** – Light Snow Trees Replacer (for Vurts snow tree option users)
 
-### FOMOD Instructions
+### Additional Instructions
 
 * Resave **EVT_LightSnowTrees_Replacer (For Vurts).esp** in the Creation Kit.
 
