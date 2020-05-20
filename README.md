@@ -69,7 +69,7 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **Perk Overhaul:** Featuring Adamant - A Perk Overhaul, vanilla-plus-style and very light-weight.
 - **Combat:** Based around Wildcat, both vanilla difficulty as well as lethal, fast-paced combat are possible.
 - **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
-- **New Companions:** custom-voiced companions of (arguably) the highest quality are included: Inigo, Lucien and 3DNPCs
+- **New Companions:** Custom-voiced companions of (arguably) the highest quality are included: Inigo, Lucien and 3DNPCs.
 - **DLC-Sized Mods:** None included (although 3DNPC could be described as such).
 - **Needs and Survival Mods:** None included.
 
