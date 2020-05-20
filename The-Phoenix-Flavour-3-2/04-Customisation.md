@@ -221,7 +221,11 @@ Download the **Remove QuickSave Button - UltraWide** main file and replace the o
 
 ### Mod Order
 
-- Place above **RaceMenu** in the mod order.
+- Place below the **INTERFACE** separator.
+
+### About the mod
+
+It keeps the equipped items "stickied" to the top of the inventory page. Personally I find it very annoying but it's an easy addition for those who like it.
 
 ## Winterhold Statue - Animated with Light (optional)
 
