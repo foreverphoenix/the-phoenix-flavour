@@ -833,6 +833,8 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
+![Update ESM Cleaned](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_cleaned.png)
+
 ## 8.4 Manual Cleaning - Update ESM
 
 ### 8.4.1 Source
@@ -843,9 +845,9 @@ Instructions are copied with permission from Lexy's LOTD.
 
 ### 8.4.2 Instructions
 
-- Run SSEEdit through Mod Organizer 2 (==do **not** use the Quick Cleaning version==).
+- Run SSEEdit through Mod Organizer 2 (do **not** use the Quick Cleaning version).
 - In the plugin selection window, right-click and **Select None**.
-- Check only **Update.esm** and hit **OK**.
+- Check only **Update.esm** and hit **OK** (Skyrim.esm will be loaded automatically as well because it is a master).
 - Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
 - Double-click **Update.esm** and navigate to the following section:
   - `Worldspace \ 0000003C Tamriel \ Block 1, -1 \ Sub-Block 5, -4 \ 0000BDC9 \ Temporary`
@@ -856,6 +858,8 @@ Instructions are copied with permission from Lexy's LOTD.
 - Make sure **Update.esm** is checked, then click **OK**.
 - You’re done!
 
+![Update ESM Manual Edit](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_manual_edit.png)
+
 ## 8.5 Manual Cleaning - Dawnguard ESM
 
 ### 8.5.1 Source
@@ -864,11 +868,11 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 ### 8.5.2 Apply Filter
 
-* Run **SSEEdit** through Mod Organizer 2 (==do not use the Quick Cleaning version==).
+* Run **SSEEdit** through Mod Organizer 2 (do not use the Quick Cleaning version).
 * In the plugin selection window, right-click and **Select None**.
-* Check only **Dawnguard.esm** and hit **OK**.
+* Check only **Dawnguard.esm** and hit **OK** (its masters, Skyrim.esm and Update.esm, will be loaded automatically).
 * Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
-* Right-click anywhere in the left pane and select **Apply** **Filter**.
+* Right-click anywhere in the left pane and select **Apply Filter**.
 * Change nothing in the window that comes up next, but simply click **Filter** to confirm.
 * This will take a moment and you need to wait until it is done.
 
@@ -877,7 +881,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Proceed once SSEEdit returns `Done: Applying Filter`.
 * Double-click **Dawnguard.esm** (now displayed in orange), then double-click **Cell**.
 * Find the following cell (highlighted in red) in the list and select it:
-  * ==00016BCF RiftenRaggedFlagon==
+  * `00016BCF RiftenRaggedFlagon`
 * Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
@@ -971,7 +975,7 @@ After completing the Setup, you are equipped with a correctly installed and conf
 
 ### 10.1.2 Mod Installation
 
-You can find all mod installation instructions in the [02_Mod_Installation.md](/The-Phoenix-Flavour-3-2/02-Mod-Installation.md). I highly recommend opening it in a new tab or window while keeping the current document so that you are able to refer to the instructions detailed below while installing the mods.
+You can find all mod installation instructions in the [02_Mod_Installation.md](/The-Phoenix-Flavour-3-2/02-Mod-Installation.md). I highly recommend opening it in a new tab or window while keeping the current document open here so that you are able to refer to the instructions detailed below while installing the mods.
 
 ## 10.2 General Instructions
 
