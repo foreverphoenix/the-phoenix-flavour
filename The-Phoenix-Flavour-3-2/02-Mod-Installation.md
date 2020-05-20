@@ -5267,7 +5267,12 @@ You can also use VioLens to disable kill cams altogether which I usually do.
 
 * **Main Files:** Hybrid Loot
   
-> File available on Discord in the #beta-files channel.
+> File available on Discord in the #guide-files channel.
+
+### Installation Instructions
+
+- In Mod Organizer 2, hit CTRL+M to install a new mod.
+- Navigate to your Downloads folder and double click Hybrid Loot archive.
 
 ## 29.2 [Morrowloot Miscellania – Item Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 
