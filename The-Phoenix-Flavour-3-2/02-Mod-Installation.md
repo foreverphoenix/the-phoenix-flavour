@@ -5810,7 +5810,7 @@ While we are not using MLU, our setup follows a similar logic and immediate acce
 
 ### Download Instructions
 
-* **Main Files:** Dwemer Spectres EBT No Bleeding and Other Fixes
+* **Main Files:** Dwemer Spectres EBT No Blood Patch and Other Fixes
 
 > **Mod Dependency:** Install this mod if you installed **Dwemer Spectres**. Otherwise skip it. 
 
