@@ -193,7 +193,7 @@ While we install the base mod already in Step 38, there is a number of additiona
 
 ### 3.2.1 Running the script
 
-Before we can generate weapon meshes for all mods, there are three mods that use Alternate Textures for some new weapons which doesn't work with AllGUD. Thankfully, one of the AllGUD xEdit scripts was created to patch these mods.
+Before we can generate weapon meshes for all mods, there are three mods that use Alternate Textures for some new weapons which doesn't work with AllGUD. Thankfully, one of the AllGUD SSEEdit scripts was created to patch these mods.
 
 - Run SSEEdit through Mod Organizer 2.
 - In the plugin selection window, simply click **OK** to load all plugins.
@@ -205,11 +205,9 @@ Before we can generate weapon meshes for all mods, there are three mods that use
 - Leave the next two windows blank and only click **OK** both times.
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
 
-> This will patch records from **Zim's Immersive Artifacts - Thane Weapons**, **Tools of Kagrenac** and the **AMB Content Addon**.
-
 ### 3.2.2 Output
 
-- Back in Mod Organizer 2, scroll down all the way to the***Overwrite***folder which contains the new plugin and meshes.
+- Back in Mod Organizer 2, scroll down all the way to the **Overwrite** folder which contains the new plugin and meshes.
 - Right-click it and select **Create Mod**.
 - Enter **AllGUD - Alternate Textures Patch** as the name and click **OK**.
 - Activate the new mod in your mod order.
@@ -249,6 +247,8 @@ Unfortunately the plugin was assigned half our load order as master files so we 
 - Click **Start** to begin generating the meshes.
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
 
+![AllGUD Weapon Patcher](/The-Phoenix-Flavour-3-2/Pictures/finalisation/allgud_weapon_meshes.png)
+
 ## 3.4 Skeleton Patcher
 
 ### 3.4.1 New Mod Folder
@@ -268,6 +268,8 @@ Unfortunately the plugin was assigned half our load order as master files so we 
 - Select the **AllGUD - Skeleton Meshes** folder you created in the previous step and click **OK**.
 - Click **Start** to begin generating the meshes.
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
+
+![AllGUD Skeleton Patcher](/The-Phoenix-Flavour-3-2/Pictures/finalisation/allgud_skeleton_patcher.png)
 
 ![separator](../Media/separator.png)
 
@@ -442,7 +444,7 @@ More hardware-taxing is however what is typically referred to as "ultra tree LOD
 TexGen is a component of DynDOLOD, used to generate textures based on your mod setup.
 
 * Launch **TexGen** through Mod Organizer 2.
-* Set **LOD Texture Size** to ==512== if you have 4GB of VRAM or more.
+* Set **LOD Texture Size** to `512` if you have 4GB of VRAM or more.
 * Hit **Start**.
 
 > The generation will take a while (about 10 minutes for me) and I recommend you step away from your PC in the meantime.
