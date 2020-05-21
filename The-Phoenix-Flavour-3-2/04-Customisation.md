@@ -421,8 +421,6 @@ Enhanced Landscapes contains an optional set of textures and LOD files for impro
 - Open the archive and double-click the **3 - Solstheim3DTrees** file inside.
 - Extract the **textures** and **meshes** folders to `Mod Organizer 2\mods\Enhanced Landscapes - Solstheim 3D Trees`.
 - Close the archive and the Explorer window.
-- Go back to Mod Organizer 2 and press F5 to refresh.
-- Move the new mod below **Enhanced Vanilla Trees - Vurts Light Snow Tree Replacer** in your mod order and activate it.
 
 ![Solstheim Trees Installation](Pictures/customisation/solstheim_tree_installation.png)
 
