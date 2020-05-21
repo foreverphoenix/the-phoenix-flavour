@@ -351,11 +351,13 @@
   - [21.18 HAGRAVEN (optional)](#2118-hagraven-optional)
   - [21.19 HD Reworked Mammoths (optional)](#2119-hd-reworked-mammoths-optional)
   - [21.20 GIANT (optional)](#2120-giant-optional)
-  - [21.21 RUSTIC SPRIGGAN (optional)](#2121-rustic-spriggan-optional)
-  - [21.22 WISPMOTHER (optional)](#2122-wispmother-optional)
-  - [21.23 CC’s HD Dwemer Automatons – Remastered (optional)](#2123-ccs-hd-dwemer-automatons--remastered-optional)
-  - [21.24 Vampire Lord Retexture (optional)](#2124-vampire-lord-retexture-optional)
-  - [21.25 RUSTIC DEATH HOUND AND GARGOYLE (optional)](#2125-rustic-death-hound-and-gargoyle-optional)
+  - [21.21 Realistic Skin and Hair Shaders - Falmer and Hagravens (optional)](#2121-realistic-skin-and-hair-shaders---falmer-and-hagravens-optional)
+  - [21.22 Realistic Skin and Hair Shaders - Giants (optional)](#2122-realistic-skin-and-hair-shaders---giants-optional)
+  - [21.23 RUSTIC SPRIGGAN (optional)](#2123-rustic-spriggan-optional)
+  - [21.24 WISPMOTHER (optional)](#2124-wispmother-optional)
+  - [21.25 CC’s HD Dwemer Automatons – Remastered (optional)](#2125-ccs-hd-dwemer-automatons--remastered-optional)
+  - [21.26 Vampire Lord Retexture (optional)](#2126-vampire-lord-retexture-optional)
+  - [21.27 RUSTIC DEATH HOUND AND GARGOYLE (optional)](#2127-rustic-death-hound-and-gargoyle-optional)
 - [22. Daedra & Dragons](#22-daedra--dragons)
   - [22.1 RUSTIC DAEDRA (optional)](#221-rustic-daedra-optional)
   - [22.2 Unique Barbas Retexture (optional)](#222-unique-barbas-retexture-optional)
@@ -1915,7 +1917,8 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 
 ### Download Instructions
 
-- **Main File** - Frozen Electrocuted Combustion - 3.3
+- **Main Files:** Frozen Electrocuted Combustion - 3.4
+- **Update Files:**  Frozen Electrocuted Combustion - 3.4.1 (bug fix) --- `merge with the main file`
 
 ## 8.2 [Frozen Electrocuted Combustion - Extra Crispy Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/25127?tab=files) (optional)
 
@@ -4263,14 +4266,26 @@ The selections below are my preference. Feel free to make your own choices!
 
 * **Main Files** – Giant.4k
 
-## 21.21 [RUSTIC SPRIGGAN](https://www.nexusmods.com/skyrimspecialedition/mods/18107?tab=files) (optional)
+## 21.21 [Realistic Skin and Hair Shaders - Falmer and Hagravens](https://www.nexusmods.com/skyrimspecialedition/mods/16310?tab=files) (optional)
+
+### Download Instructions
+
+- **Main Files:** Realistic Skin Shaders - Falmer and Hagravens
+
+## 21.22 [Realistic Skin and Hair Shaders - Giants](https://www.nexusmods.com/skyrimspecialedition/mods/15511?tab=files) (optional)
+
+### Download Instructions
+
+- **Main Files:** Realistic Skin and Hair Shaders - Giants
+
+## 21.23 [RUSTIC SPRIGGAN](https://www.nexusmods.com/skyrimspecialedition/mods/18107?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – RUSTIC SPRIGGAN – Special Edition – 2K
 * **Optional Files** – RUSTIC SPRIGGAN EFFECTS
 
-## 21.22 [WISPMOTHER](https://www.nexusmods.com/skyrimspecialedition/mods/7638?tab=files) (optional)
+## 21.24 [WISPMOTHER](https://www.nexusmods.com/skyrimspecialedition/mods/7638?tab=files) (optional)
 
 ### Download Instructions
 
@@ -4280,19 +4295,19 @@ The selections below are my preference. Feel free to make your own choices!
 
 * **Custom:** Full version – skin with a mesh fabric veil (RECOMMENDED)
 
-## 21.23 [CC’s HD Dwemer Automatons – Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/32267?tab=files) (optional)
+## 21.25 [CC’s HD Dwemer Automatons – Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/32267?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – CC’s HD Dwemer Automatons – Remastered – 2K – 1.0
 
-## 21.24 [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files) (optional)
+## 21.26 [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** – Vampire Lord Retextured (Demonic)
 
-## 21.25 [RUSTIC DEATH HOUND AND GARGOYLE](https://www.nexusmods.com/skyrimspecialedition/mods/17740?tab=files) (optional)
+## 21.27 [RUSTIC DEATH HOUND AND GARGOYLE](https://www.nexusmods.com/skyrimspecialedition/mods/17740?tab=files) (optional)
 
 ### Download Instructions
 
@@ -5612,7 +5627,7 @@ This will stop dragons from disintegrating upon death. You will still receive th
 
 ### Download Instructions
 
-* **Main Files** – The Tools of Kagrenac V1.52Final SSE
+* **Main Files** – The Tools of Kagrenac V1.53a SSE
 
 ## 32.4 [It Beats For Her](https://www.nexusmods.com/skyrimspecialedition/mods/22956?tab=files) (optional)
 
