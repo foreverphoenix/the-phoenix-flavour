@@ -666,7 +666,7 @@
 
 ## 1.9 [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
-**ENB Forums are currently down:** [Temporary directly link](https://mega.nz/file/r0Ei1QwB#wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU).
+**ENB Forums are currently down:** [Temporary directly link](https://drive.google.com/file/d/12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw/view).
 
 ### Installation Instructions
 
