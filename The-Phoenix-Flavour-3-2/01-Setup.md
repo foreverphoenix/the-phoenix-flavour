@@ -16,7 +16,8 @@
   - [2.5 Version Number](#25-version-number)
   - [2.6 Disable Auto Updates](#26-disable-auto-updates)
   - [2.7 Executables Backup](#27-executables-backup)
-  - [2.8 Disable Steam Overlay](#28-disable-steam-overlay)
+  - [2.8 Creations](#28-creations)
+  - [2.9 Disable Steam Overlay](#29-disable-steam-overlay)
 - [03. The Creation Kit](#03-the-creation-kit)
   - [3.1 Acquisition](#31-acquisition)
   - [3.2 Installation](#32-installation)
@@ -238,7 +239,15 @@ Although Steam will no longer update Skyrim SE automatically, I still recommend 
   * **SkyrimSE.exe**
   * **SkyrimSELauncher.exe**
 
-## 2.8 Disable Steam Overlay
+## 2.8 Creations
+
+If you bought anything from the Creation Club (or grabbed 'creations' while they were up for free), they will be re-installed alongside Skyrim. The guide does not currently support any of them so you will have to move them away from the game files.
+
+- Create a new folder: `Your Modding Folder\Backups\Creation Club`.
+- Select all files beginning with **cc** (ESLs and BSAs) in your Data folder and hit CTRL+X.
+- Navigate to your new Creation Club folder and paste them there (CTRL+V)
+
+## 2.9 Disable Steam Overlay
 
 **This step is optional.**
 
