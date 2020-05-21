@@ -98,7 +98,7 @@ Re-doing INI files from scratch can be necessary when BethINI got a significant 
 - Copy the **Skyrim.ini** and **SkyrimPrefs.ini** located inside this folder, they are completely untouched and vanilla.
 - Paste both files into the profiles folder.
 
-Now all you have to do is run BethINI again, make sure it points at the correct MO2 profile and redo the instructions listed in Setup, Step 6.3.
+Now all you have to do is close Mod Organizer 2, launch BethINI and follow the instructions under [Setup, Step 6.3](https://github.com/foreverphoenix/the-phoenix-flavour/blob/master/The-Phoenix-Flavour-3-2/01-Setup.md#63-bethini-configuration).
 
 ![separator](../Media/separator.png)
 
