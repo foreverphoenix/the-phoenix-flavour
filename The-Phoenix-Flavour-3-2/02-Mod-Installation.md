@@ -6327,7 +6327,7 @@ The automated version is a delta patcher to apply the changes automatically to y
 
 ### Download Instructions
 
-* **Main File**-  PrivateProfileRedirector SE 0.5
+* **Main Files:**  PrivateProfileRedirector SE 0.5
 
 > Issues with some ENB presets appearing too dark should be fixed with the latest updates of PPR.
 
@@ -6335,43 +6335,43 @@ The automated version is a delta patcher to apply the changes automatically to y
 
 ### Download Instructions
 
-* **Main File** - PapyrusUtil SE – Scripting Utility Functions
+* **Main Files:** PapyrusUtil SE – Scripting Utility Functions
 
 ## 40.3 [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
 
 ### Download Instructions
 
-* **Main File** - JContainers SE
+* **Main Files:** JContainers SE
 
 ## 40.4 [Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files)
 
 ### Download Instructions
 
-* **Main File** - Papyrus Extender - SSE - 2.40
+* **Main Files:** Papyrus Extender - SSE - 2.5
 
 ## 40.5 [FileAccess Interface for Skyrim SE Scripts (FISSES)](https://www.nexusmods.com/skyrimspecialedition/mods/13956?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – FileAccess Interface for Skyrim SE Scripts – FISSES
+* **Main Files:** FileAccess Interface for Skyrim SE Scripts – FISSES
 
 ## 40.6 [FISSES ESL-ified Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27260?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – FISSES ESLified Patch
+* **Main Files:** FISSES ESLified Patch
 
 ## 40.7 [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – ScaleformTranslationPP
+* **Main Files:** ScaleformTranslationPP
 
 ## 40.8 [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – UIExtensions v1-2-0
+* **Main Files:** UIExtensions v1-2-0
 
 ### Additional Instructions
 
@@ -6389,25 +6389,25 @@ The automated version is a delta patcher to apply the changes automatically to y
 
 ### Download Instructions
 
-* **Main Files** – ConsoleUtilSSE
+* **Main Files:** ConsoleUtilSSE
 
 ## 40.10 [ENB Helper](https://www.nexusmods.com/skyrimspecialedition/mods/23174?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – ENB Helper SE 1.5 for SSE 1.5.97
+* **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
 
 ## 40.11 [Fuz Ro D-oh – Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files)
 
 ### Download Instructions
 
-* **Main Files** – Fuz Ro D’oh
+* **Main Files:** Fuz Ro D’oh
 
 ## 40.12 [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files) (optional)
 
 ### Download Instructions
 
-* **Main Files** – Console Commands Extender
+* **Main Files:** Console Commands Extender
 
 ### About the mod
 
