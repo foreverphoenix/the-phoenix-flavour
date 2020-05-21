@@ -127,18 +127,17 @@
   - [7.10 Charred Logs for KD - Realistic Fireplaces (optional)](#710-charred-logs-for-kd---realistic-fireplaces-optional)
 - [08. Visual FX](#08-visual-fx)
   - [8.1 Frozen Electrocuted Combustion (FEC) (optional)](#81-frozen-electrocuted-combustion-fec-optional)
-  - [8.2 Frozen Electrocuted Combustion - Extra Crispy Retexture (optional)](#82-frozen-electrocuted-combustion---extra-crispy-retexture-optional)
-  - [8.3 Enhanced Blood Textures](#83-enhanced-blood-textures)
-  - [8.4 GORECAP (optional)](#84-gorecap-optional)
-  - [8.5 Deadly Spell Impacts](#85-deadly-spell-impacts)
-  - [8.6 Arctic - Frost Effects Redux (optional)](#86-arctic---frost-effects-redux-optional)
-  - [8.7 Refracting Ice Form Debris (optional)](#87-refracting-ice-form-debris-optional)
-  - [8.8 Voltage (optional)](#88-voltage-optional)
-  - [8.9 ElSopa HD - Dirt Blast (optional)](#89-elsopa-hd---dirt-blast-optional)
-  - [8.10 Reduced Glow FX (optional)](#810-reduced-glow-fx-optional)
-  - [8.11 Fire Halo Remover (optional)](#811-fire-halo-remover-optional)
-  - [8.12 Subtle Wind FX (optional)](#812-subtle-wind-fx-optional)
-  - [8.13 Glow Be Gone - Updated (optional)](#813-glow-be-gone---updated-optional)
+  - [8.2 Enhanced Blood Textures](#82-enhanced-blood-textures)
+  - [8.3 GORECAP (optional)](#83-gorecap-optional)
+  - [8.4 Deadly Spell Impacts](#84-deadly-spell-impacts)
+  - [8.5 Arctic - Frost Effects Redux (optional)](#85-arctic---frost-effects-redux-optional)
+  - [8.6 Refracting Ice Form Debris (optional)](#86-refracting-ice-form-debris-optional)
+  - [8.7 Voltage (optional)](#87-voltage-optional)
+  - [8.8 ElSopa HD - Dirt Blast (optional)](#88-elsopa-hd---dirt-blast-optional)
+  - [8.9 Reduced Glow FX (optional)](#89-reduced-glow-fx-optional)
+  - [8.10 Fire Halo Remover (optional)](#810-fire-halo-remover-optional)
+  - [8.11 Subtle Wind FX (optional)](#811-subtle-wind-fx-optional)
+  - [8.12 Glow Be Gone - Updated (optional)](#812-glow-be-gone---updated-optional)
 - [09. Landscape](#09-landscape)
   - [9.1 Majestic Mountains](#91-majestic-mountains)
   - [9.2 Landscapes - Cathedral Concept](#92-landscapes---cathedral-concept)
@@ -1919,15 +1918,7 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 - **Main Files:** Frozen Electrocuted Combustion - 3.4
 - **Update Files:**  Frozen Electrocuted Combustion - 3.4.1 (bug fix) --- `merge with the main file`
 
-## 8.2 [Frozen Electrocuted Combustion - Extra Crispy Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/25127?tab=files) (optional)
-
-### Download Instructions
-
-- **Main File** - Frozen Electrocuted Combustion - Extra Crispy Retexture
-
-> **Mod Dependency:** Only install this mod if you installed **Frozen Electrocuted Combustion**. Otherwise skip it.
-
-## 8.3 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files)
+## 8.2 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files)
 
 ### Download Instructions
 
@@ -1950,13 +1941,13 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 - **Alternate Textures:**
   -  Reduced Res / Default Color
 
-## 8.4 [GORECAP](https://www.nexusmods.com/skyrimspecialedition/mods/16440?tab=files) (optional)
+## 8.3 [GORECAP](https://www.nexusmods.com/skyrimspecialedition/mods/16440?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** - GORECAP
 
-## 8.5 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files)
+## 8.4 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files)
 
 ### Download Instructions
 
@@ -1975,7 +1966,7 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 * **Lightning:**
   * Alternate 1
 
-## 8.6 [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files) (optional)
+## 8.5 [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files) (optional)
 
 ### Download Instructions
 
@@ -1989,43 +1980,43 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 * **Icicles Style:** Transparent
 * **Optional Plugin:** Frost Meshes Patch (ESL-Tagged)
 
-## 8.7 [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files) (optional)
+## 8.6 [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** - Refracting Ice Form Debris - SSE - 1.1
 
-## 8.8 [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files) (optional)
+## 8.7 [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files) (optional)
 
 ### Download Instructions
 
 * **Optional Files** - Voltage 2K
 
-## 8.9 [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files) (optional)
+## 8.8 [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** - 1K ElSopa HD - Dirt Blast
 
-## 8.10 [Reduced Glow FX](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files) (optional)
+## 8.9 [Reduced Glow FX](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** - Reduced Glow FX SE
 
-## 8.11 [Fire Halo Remover ](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)(optional)
+## 8.10 [Fire Halo Remover ](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)(optional)
 
 ### Download Instructions
 
 * **Main Files** - Fire Halo Remover
 
-## 8.12 [Subtle Wind FX](https://www.nexusmods.com/skyrimspecialedition/mods/24395?tab=files) (optional)
+## 8.11 [Subtle Wind FX](https://www.nexusmods.com/skyrimspecialedition/mods/24395?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files** - Subtle Wind FX
 
-## 8.13 [Glow Be Gone - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files) (optional)
+## 8.12 [Glow Be Gone - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files) (optional)
 
 ### Download Instructions
 
