@@ -5278,7 +5278,7 @@ You can also use VioLens to disable kill cams altogether which I usually do.
 
 # 29. Balancing
 
-## 29.1 Morrowloot Miscellania - Hybrid Loot
+## 29.1 [Morrowloot Miscellania - Hybrid Loot](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 
 ### Download Instructions
 
