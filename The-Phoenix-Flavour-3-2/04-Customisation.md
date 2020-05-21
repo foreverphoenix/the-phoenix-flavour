@@ -52,7 +52,7 @@
   - [Dwemer Spectres - Remove Beards](#dwemer-spectres---remove-beards)
 - [Removing ENB](#removing-enb)
   - [Considerations](#considerations)
-  - [Getting rid of ENBSeries](#getting-rid-of-enbseries)
+  - [Uninstalling ENBSeries](#uninstalling-enbseries)
   - [Related Mods](#related-mods)
   - [INI Tweaks](#ini-tweaks)
   - [Potential Replacements](#potential-replacements)
@@ -639,7 +639,7 @@ One of those features is Complex Particle Lighting which is required for mods su
 
 If you are considering to remove ENB because of the performance impact, I would definitely urge you to try other presets or tweak your  own to tone down the FPS loss. On all except the weakest systems, you should be able to reach mostly stable 60FPS with a (tweaked) ENB preset.
 
-## Getting rid of ENBSeries
+## Uninstalling ENBSeries
 
 * Open **ENB Man** (which we used to set up ENBSeries).
 * Double-click the **Skyrim SE** profile to open it.
