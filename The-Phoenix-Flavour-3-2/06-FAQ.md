@@ -100,6 +100,8 @@ Re-doing INI files from scratch can be necessary when BethINI got a significant 
 
 Now all you have to do is close Mod Organizer 2, launch BethINI and follow the instructions under [Setup, Step 6.3](https://github.com/foreverphoenix/the-phoenix-flavour/blob/master/The-Phoenix-Flavour-3-2/01-Setup.md#63-bethini-configuration).
 
+If you run more than one profile (Base TPF, TPF Customised, Playthrough), you can simply copy the tweaked INI files from your Base TPF profiles folder into the folders of the other profiles after re-running BethINI, and replace the existing ones.
+
 ![separator](../Media/separator.png)
 
 # Miscellaneous Questions
