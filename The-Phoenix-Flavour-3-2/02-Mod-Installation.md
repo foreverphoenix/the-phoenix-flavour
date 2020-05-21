@@ -2354,24 +2354,48 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 ### Download Instructions
 
-* **Main File** – Enhanced Vanilla Trees SE v1.9.0
+- **Main Files:** Enhanced Vanilla Trees SE - Custom Trees
+- **Optional Files:** Enhanced Vanilla Trees SE - Alternative Branch Textures
+- **Optional Files:** Enhanced Vanilla Trees SE - Alternative Trees
 
-------
+### FOMOD Instructions - Main File
 
-==**FOMOD INSTRUCTIONS**==
-
-* **Mesh Options:**
+- **Mesh Options:**
   * Enhanced Darker Meshes
-* **Tree Options:**
-  * Lush Trees (small)
-* **Clutter:**
+- **Clutter:**
   * Enhanced Tree Clutter (recommended)
-  * ~~Firewood Textures~~
-* **SFO Branch Textures:**
-  * SFO Branch Textures - Version 4
-* **Alternative Trees:**
-  * ~~Realistic Aspen Trees~~
-  * SFO Snowy Pine Trees
+  * Firewood Textures
+- **Greener Bark Textures:**
+  * *Select nothing on this page.*
+
+After the installation, rename the file to **Enhanced Vanilla Trees - Small Custom Trees**.
+
+### FOMOD Instructions - Alternative Branch Textures
+
+- **Custom Tree Options:**
+  - Yes
+- **Custom Trees - Greener Bark Textures:**
+  - *Select nothing on this page.*
+- **Skyrim Flora Overhaul - Branches:**
+  - *Read the text below.*
+
+I personally love SFO v4 which significantly darkens the tree branch textures so that is what I recommend. If you prefer the vanilla colours, choose the Vanilla option which is still an improvement over the default textures. You can select any of the other options as well, check the pictures in the FOMOD to see which one you like best.
+
+After the installation, rename the file to **Enhanced Vanilla Trees - Alternative Tree Branch Textures - {version you chose}**.
+
+### FOMOD Instructions - Alternative Trees
+
+- **Select a version:**
+  - Enhanced Darker Meshes
+- **Select a tree option:**
+  - Custom Trees (small)
+- **Custom Trees - Greener Bark Textures**
+  - *Select nothing on this page.*
+- **Alternative Trees:**
+  - ~~Realistic Aspen Trees~~
+  - SFO Snowy Pine Trees
+
+After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine Trees**.
 
 ## 10.2 [Enhanced Vanilla Trees – Vurts Light Snow Trees](https://www.nexusmods.com/skyrim/mods/76086?tab=files)
 
