@@ -32,12 +32,21 @@
   - [Already included](#already-included)
   - [Can be added](#can-be-added)
   - [Do not add](#do-not-add)
-- [Tree Tweaks](#tree-tweaks)
-  - [Notes](#notes-3)
-  - [Enhanced Vanilla Trees Tweaks](#enhanced-vanilla-trees-tweaks)
+- [Larger Trees](#larger-trees)
+  - [Performance](#performance)
+  - [Main File](#main-file)
+  - [Alternative Trees](#alternative-trees)
+- [Different Aspen Trees](#different-aspen-trees)
+  - [Variants](#variants)
+  - [Realistic Aspen Trees](#realistic-aspen-trees)
   - [Green Aspen Trees](#green-aspen-trees)
-  - [Solstheim 3D Trees](#solstheim-3d-trees)
-  - [Whiterun Forest Borealis](#whiterun-forest-borealis)
+  - [Aspen Leaves](#aspen-leaves)
+- [Solstheim 3D Trees](#solstheim-3d-trees)
+  - [Requirements](#requirements)
+  - [Instructions](#instructions)
+- [Bent Pines](#bent-pines)
+  - [About](#about)
+  - [Bent Pines II](#bent-pines-ii)
 - [Arthmoor's New Towns](#arthmoors-new-towns)
   - [The Dilemma](#the-dilemma)
   - [Helarchen Creek (optional)](#helarchen-creek-optional)
@@ -333,55 +342,102 @@ All of the skeleton replacers have to be below **XPMSSE** (XP32 Maximum Skeleton
 
 ![separator](../Media/separator.png)
 
-# Tree Tweaks
+# Larger Trees
 
-## Notes
+## Performance
 
-There are a number of tweaks and mods you can add to customise the trees and landscape that are all easy to do except they require you to re-run DynDOLOD. We will go through these tweaks and generate new tree LOD afterwards. To clarfiy: **If you follow any of the steps in this section, you must regenerate DynDOLOD.**
+The guide installs the 'small' (vanilla-sized) version of EVT Custom Trees by default. While the 'large' ones significantly boost *immersion* and that feeling of being a small thing in a huge world, they also have a noticeable performance impact, at least on weaker machines. This is due to the fact that they cast larger shadows.
 
-Each step is optional but you do need to follow all instructions if you choose one.
+For those who enjoy very good performance with their existing TPF setup, I highly recommend installing the Large Custom Trees. This will require you to re-install the main file as well as the Alternative Trees file.
 
-## Enhanced Vanilla Trees Tweaks
+## Main File
 
-### Reinstallation
+### Instructions
 
-While the guide includes my default recommended options for EVT, there are plenty of customisation options in the FOMOD, so we will go through them one by one. Find **Enhanced Vanilla Trees** in your mod order, right-click it and select **Reinstall**.
+- Right-click **Enhanced Vanilla Trees - Small Custom Trees** in your mod order and select **Reinstall**.
+- Change the name to **Enhanced Vanilla Trees - Custom Large Trees** and follow the FOMOD instructions below.
 
-When you go through the FOMOD options, add your changes to the mod name. This will have two advantages: one, you won't overwrite your default installation of EVT, and two, you can easily see which option you used later on. For example I entered:
-
-`Enhanced Vanilla Trees - Custom Large, Branches 2, RAT`
-
-### FOMOD Choices
+### FOMOD Instructions
 
 - **Mesh Options:**
-  - Enhanced Darker Meshes `I always recommend this as the trunks can look strange and bright with the first version`
-- **Select a tree option:**
-  - *The guide recommends the "Lush Trees (small)" option here which is a solid upgrade over the vanilla option. If you have frames to spare, I highly recommend the (large) options (either Lush or Custom). They make the world feel larger and the woods seem like actual forests. Because of their size, shadows will be larger as well which will impact performance.*
-  - Enhanced 'Vanilla' Trees `if you struggle with performance`
-  - Lush Trees (small) `the guide's default choice`
-  - Custom Trees (large) `performance-intense but looks amazing`
+  - Enhanced Darker Meshes
 - **Clutter:**
   - Enhanced Tree Clutter (recommended)
-  - ~~Firewood Textures~~ `I dislike the textures personally and prefer Tree Bark in HD (Installed in the main guide)`
-- **Skyrim Flora Overhaul - Branches:**
-  - *These new branch textures change Skyrim more than you would probably expect. I love Option 4 which is the guide's default choice. Option 2 is lovely as well. Take a good look at them all and make your own choice.*
-- **Alternative Trees:**
-  - Realistic Aspen Trees `choose this if you want RAT (differently coloured aspens) OR green aspens (will be covered later)`
-  - SFO Snowy Pine Trees `default choice in the guide, they just look amazing`
-- **Greener Bark Texture:**
-  - *Depending on the options you chose, this might not appear. Personally I just skip all options here. If you'd like to try the different bark textures, tick the All-in-one option.*
+  - Firewood Texture
+- **Greener Bark Textures:**
+  - *Select nothing on this page.*
 
 ### Mod Order
 
-After redoing the FOMOD and installing the customised version of EVT, move it up in your mod order below the original EVT installation (below the **FLORA** separator) and activate it. Disable the original EVT version. Since these changes were made on your **The Phoenix Flavour - Customised** profile, they won't affect your default installation on the main profile.
+- Move the mod below **Enhanced Vanilla Trees - Small Custom Trees** in your mod order.
+- Activate it and disable the other version.
+
+## Alternative Trees
+
+### Instructions
+
+- Right-click **Enhanced Vanilla Trees - Snowy Pine Trees (Small Custom)** in your mod order and select **Reinstall**.
+- Change the name to **Enhanced Vanilla Trees - Snowy Pine Trees (Large Custom)** and follow the FOMOD instructions below.
+
+### FOMOD Instructions
+
+- **Mesh Options:**
+  - Enhanced Darker Meshes
+- **Tree Options:**
+  - Custom Trees (large)
+- **Custom Trees - Greener Bark Textures:**
+  - *Select nothing on this page.*
+- **Alternative Trees:**
+  - ~~Realistic Aspen Trees~~
+  - SFO Snowy Pine Trees
+
+### Mod Order
+
+- Move the mod below the **Enhanced Vanilla Trees - Snowy Pine Trees (Small Custom)** in your mod order.
+- Activate it and disable the other version.
+
+![separator](../Media/separator.png)
+
+# Different Aspen Trees
+
+## Variants
+
+There are two alternatives to the vanilla yellow aspen trees:
+
+- **Realistic Aspen Trees** adds red and orange variations to the vanilla yellow. It's packaged with Enhanced Vanilla Trees as part of the Alternative Trees optional file. Check the screenshots on the [official mod page](https://www.nexusmods.com/skyrimspecialedition/mods/4423).
+- **Green Aspen Trees** replaces, as the name suggests, the yellow with green leaves. There are screenshots in the [image section](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=images) of the Enhanced Landscapes mod page.
+
+Green Aspen Trees *requires* Realistic Aspen Trees so you have to install it either way.
+
+## Realistic Aspen Trees
+
+### Instructions
+
+- Right-click **Enhanced Vanilla Trees - Snowy Pine Trees (Custom Small)** in your mod order and select **Reinstall**.
+- Change the name to **Enhanced Vanilla Trees - Realistic Aspen Trees** and follow the FOMOD instructions below.
+
+### FOMOD Instructions
+
+- **Mesh Options:**
+  - Enhanced Darker Meshes
+- **Tree Options:**
+  - Custom Trees (small) *if you didn't install the Large Trees section*
+  - Custom Trees (large) *if you did install the Large Trees section*
+- **Custom Trees - Greener Bark Textures:**
+  - *Select nothing on this page.*
+- **Alternative Trees:**
+  - Realistic Aspen Trees
+  - ~~SFO Snowy Pine Trees~~
+
+After the installation, add the tree version to the mod name, e.g.: **Enhanced Vanilla Trees - Realistic Aspen Trees (Custom Large)**.
+
+### Mod Order
+
+- Move the mod below **Enhanced Vanilla Trees - Vurts Light Snow Tree Replacer** in your mod order and activate it.
+
+If you don't want Green Aspen Trees, skip ahead to the Aspen Leaves section.
 
 ## Green Aspen Trees
-
-### Notes
-
-If you chose the **Realistic Aspen Trees** option in the EVT FOMOD, you can now use the **Green Aspen Trees for EVT** optional module from Enhanced Landscapes.
-
-You can find some pictures in the [image section](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=images) of the Enhanced Landscapes mod page.
 
 ### Instructions
 
@@ -396,23 +452,33 @@ You can find some pictures in the [image section](https://www.nexusmods.com/skyr
 ### Mod Order
 
 - Go back to Mod Organizer 2 and press F5 to refresh.
-- Move the new mod below **Enhanced Vanilla Trees - Vurts Light Snow Tree Replacer** in your mod order and activate it.
+- Move the new mod below **Enhanced Vanilla Trees - Realistic Aspen Trees (Custom Small / Large)** in your mod order and activate it.
 
-### Aspen Leaves
+## Aspen Leaves
 
-If you installed [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939) during the main guide, follow these instructions:
+If you installed [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939) during the main guide, you will have yellow leaves that don't match the new aspen trees.
+
+For **Realistic Aspen Trees** you can keep it installed anyway but you will only get yellow leaves, no orange or red ones. This may look strange at times and you may want to disable Falling Leaves and Needles entirely.
+
+For **Green Aspen Trees** theres is actually a matching retexture available on the mod page. Follow the instructions below.
+
+### Green Aspen Leaves
 
 - Download the following file from the [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) Nexus page:
   - Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 1K
 - Place it below **Rudy HQ - Falling Leaves and Needles (ENB)** in your mod order and activate it.
 
-## Solstheim 3D Trees
+![separator](../Media/separator.png)
 
-### Requirements
+# Solstheim 3D Trees
+
+## Requirements
 
 Enhanced Landscapes contains an optional set of textures and LOD files for improved ash trees on Solstheim. Unfortunately, **the LOD files only support 3D tree LOD**. If you have more than 4GB VRAM and some frames to spare, I highly recommend installing these textures and generating 3D tree LOD later on. Otherwise skip this step.
 
-### Instructions
+## Instructions
+
+### Installation
 
 - Create an empty mod in Mod Organizer 2 and name it **Enhanced Landscapes - Solstheim 3D Trees**.
 - Right-click it and select **Open in Explorer**.
@@ -429,18 +495,24 @@ Enhanced Landscapes contains an optional set of textures and LOD files for impro
 - Go back to Mod Organizer 2 and press F5 to refresh.
 - Move the new mod above **Enhanced Landscapes - Oaks Standalone (Mixed Greens)** in your mod order and activate it.
 
-## Whiterun Forest Borealis
+![separator](../Media/separator.png)
 
-### About
+# Bent Pines
 
-This mod will turn the Whiterun tundra into a boreal forest. It will change the familiar valley into a completely different place. Be sure to watch [hodilton's video showcase](https://youtu.be/bntU_zFPWzg) first before you decide whether or not to install it. Note that the distant terrain with TPF will look a good deal better than hodilton's in the video.
+## About
 
-### Installation
+This mod sprinkles large, bent pines across the plains of Whiterun. They look majestic from a distance and sometimes a little weird close up. The author, Vurts, (who is also behind Skyrim Flora Overhaul) uploaded a [showcase video](https://www.youtube.com/watch?v=UF9zQKEXHbU) that you should check out before deciding to install this mod.
 
-- Download and install the following file from the [Whiterun Forest Borealis](https://www.nexusmods.com/skyrimspecialedition/mods/11343?tab=files) Nexus page:
-  - Whiterun Forest Borealis v2.1.2
-- Place the mod below **Bent Pines II** in the mod order and activate it.
-- Move the plugin below **BentPines.esp** in the load order and make sure it's checked.
+## [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306?tab=files)
+
+### Download Instructions
+
+- **Main Files:** Bent Pines II
+
+### Mod and Load Order
+
+- Place the mod below **Enhanced Landscapes - Oaks Standalone** in the mod order and activate it.
+- Move the plugin below **ELOS Oaks Mixed Greens SSE.esp** in your load order and make sure it's checked.
 
 ![separator](../Media/separator.png)
 

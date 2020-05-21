@@ -2395,7 +2395,7 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Alternativ
   - ~~Realistic Aspen Trees~~
   - SFO Snowy Pine Trees
 
-After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine Trees**.
+After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine Trees (Custom Small)**.
 
 ## 10.2 [Enhanced Vanilla Trees – Vurts Light Snow Trees](https://www.nexusmods.com/skyrim/mods/76086?tab=files)
 
