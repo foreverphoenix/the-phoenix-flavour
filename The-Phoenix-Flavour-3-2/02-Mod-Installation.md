@@ -666,6 +666,8 @@
 
 ## 1.9 [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
+**ENB Forums are currently down:** [Temporary directly link](https://mega.nz/file/r0Ei1QwB#wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU).
+
 ### Installation Instructions
 
 - Find the **SPECIAL EDITION** section in the forum post linked above and click the **GOOGLE DRIVE** link (see picture).
