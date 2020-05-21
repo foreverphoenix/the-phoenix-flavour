@@ -8,14 +8,9 @@
 - [Low FPS when playing on a resolution of 1440p or higher.](#low-fps-when-playing-on-a-resolution-of-1440p-or-higher)
 - [Some beards look strange on Elven player characters.](#some-beards-look-strange-on-elven-player-characters)
 - [Miscellaneous Questions](#miscellaneous-questions)
-  - [I have over 300 plugins active in Mod Organizer 2. Is that intended?](#i-have-over-300-plugins-active-in-mod-organizer-2-is-that-intended)
-  - [Some plugins in my load order are deactivated. Is that intended?](#some-plugins-in-my-load-order-are-deactivated-is-that-intended)
-  - [Is ENBoost a thing in Skyrim SE?](#is-enboost-a-thing-in-skyrim-se)
-  - [Can I play with a controller instead of mouse and keyboard?](#can-i-play-with-a-controller-instead-of-mouse-and-keyboard)
-  - [Why don't all Classic Skyrim mods that included meshes have CAO instructions?](#why-dont-all-classic-skyrim-mods-that-included-meshes-have-cao-instructions)
-  - [Is it still necessary to roll back to an older version of the Creation Kit?](#is-it-still-necessary-to-roll-back-to-an-older-version-of-the-creation-kit)
 - [How difficult is combat in Skyrim with The Phoenix Flavour?](#how-difficult-is-combat-in-skyrim-with-the-phoenix-flavour)
 - [Future Additions - Will you add X mod?](#future-additions---will-you-add-x-mod)
+- [Creation Club](#creation-club)
 
 ![separator](../Media/separator.png)
 
@@ -87,29 +82,29 @@ Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/is
 
 # Miscellaneous Questions
 
-## I have over 300 plugins active in Mod Organizer 2. Is that intended?
+### I have over 300 plugins active in Mod Organizer 2. Is that intended?
 
 Yes, that is definitely intended. While it's true that Skyrim has a limit of 255 plugins, this applies only to ESP and ESM plugins. Many plugins in TPF are ESL-ified though, and do not count toward the limit. When you hover over the counter above the load order in MO2, you can see how many ESM + ESP plugins you have, and how close you really are to the limit.
 
-## Some plugins in my load order are deactivated. Is that intended?
+### Some plugins in my load order are deactivated. Is that intended?
 
 No, this happens when renaming plugin extensions from ESL to ESP (in order to turn full ESLs into ESP-FE plugins). Make sure to check them again after renaming them. Eventually all plugins should be checked and active in your load order.
 
-## Is ENBoost a thing in Skyrim SE?
+### Is ENBoost a thing in Skyrim SE?
 
 No. Because of the 64bit upgrade, Skyrim SE is able to allocate more RAM for itself which is essentially what ENBoost used to do for Classic Skyrim. The current ENB binaries for SE contain no ENBoost features.
 
-## Can I play with a controller instead of mouse and keyboard?
+### Can I play with a controller instead of mouse and keyboard?
 
 Yep, it's as easy as connecting a controller. The only potential issue would be lack of bindable hotkeys for mods.
 
-## Why don't all Classic Skyrim mods that included meshes have CAO instructions?
+### Why don't all Classic Skyrim mods that included meshes have CAO instructions?
 
 This is a good question. Generally, meshes created for LE need to be optimised before they can be used in SE. However, not all meshes actually need optimisation! When running a mod through Cathedral Assets Optimiser, check the **Log** tab to see if there are any changes being made to specific files. If not, there is no need to use CAO on it. This is how I determined which mods need CAO instructions in the guide.
 
 There is also the possibility that I simply forgot to add those instructions to a particular mod in the guide. When in doubt, you may run the mod through CAO with the **Optimise SLE Assets** profile and check the log. If changes are indeed made, the lack of instructions are an oversight in which case I would ask you to report the mod on our Discord!
 
-## Is it still necessary to roll back to an older version of the Creation Kit?
+### Is it still necessary to roll back to an older version of the Creation Kit?
 
 No, this is no longer necessary. You should be running the latest version of the Creation Kit. Go into your **root** folder, right-click **CreationKit.exe**, switch to the **Details** tab and you should have **Product version 1.5.73.0**.
 
@@ -131,21 +126,21 @@ Enemy levels will be slightly higher than in vanilla, depending on their type. W
 
 # Future Additions - Will you add X mod?
 
-#### Will you add Legacy of the Dragonborn to The Phoenix Flavour?
+### Will you add Legacy of the Dragonborn to The Phoenix Flavour?
 
 No.
 
-#### Will you add Ordinator to The Phoenix Flavour?
+### Will you add Ordinator to The Phoenix Flavour?
 
 No.
 
-#### Will you add {my favourite mod} to The Phoenix Flavour?
+### Will you add {my favourite mod} to The Phoenix Flavour?
 
 Maybe.
 
 Make sure the mod (or a comparable alternative) is not already part of the guide and that it fits our general Vanilla+ standards. Then check my dedicated **[Trello board](https://trello.com/b/Rv20fMdV/the-phoenix-flavour-additional-mods)** for mods that are already considered as potential additions. If your mod is not included there either, please submit it to our [Mod Suggestions Google Form](https://forms.gle/CeQ4ftmcwy2pQ7xa8)!
 
-#### Will The Phoenix Flavour ever include Needs / Survival mods?
+### Will The Phoenix Flavour ever include Needs / Survival mods?
 
 Needs mods for Skyrim implement Survival features such as hunger, thirst, and fatigue. There are also mods that add exposure as an additional factor, forcing you to keep dry and warm. Examples are Realistic Needs and Diseases, iNeed, Frostfall and, by extension, Campsite, or the Creation Club’s Survival Mode.
 
@@ -155,6 +150,14 @@ That being said, it is possible that I will at some point down the line, add the
 
 There is a new light-weight survival mod - [**The Frozen North**](https://www.nexusmods.com/skyrimspecialedition/mods/33068) by Parapets - that may eventually be added to the main guide.
 
-#### Will The Phoenix Flavour ever support Creation Club content?
+![separator](/Media/separator.png)
+
+# Creation Club
+
+### Will The Phoenix Flavour ever support Creation Club content?
 
 While I personally dislike the Creation Club, there may be support for certain "creations" in the Customisation section at some point.
+
+### What do I do if I want to play vanilla with 'creations' if I have TPF installed?
+
+In order to play vanilla, you simply have to launch SkyrimSE.exe through the Default profile in MO2 where no mods are active. You can add your 'creations' like any other mod to MO2 by creating a new folder inside `Mod Organizer 2\mods` and pasting the ESLs and BSAs inside.
