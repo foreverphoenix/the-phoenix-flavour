@@ -7,6 +7,7 @@
 - [Grass looks strangely dull and flat.](#grass-looks-strangely-dull-and-flat)
 - [Low FPS when playing on a resolution of 1440p or higher.](#low-fps-when-playing-on-a-resolution-of-1440p-or-higher)
 - [Some beards look strange on Elven player characters.](#some-beards-look-strange-on-elven-player-characters)
+- [How to redo INI files from scratch.](#how-to-redo-ini-files-from-scratch)
 - [Miscellaneous Questions](#miscellaneous-questions)
 - [How difficult is combat in Skyrim with The Phoenix Flavour?](#how-difficult-is-combat-in-skyrim-with-the-phoenix-flavour)
 - [Future Additions - Will you add X mod?](#future-additions---will-you-add-x-mod)
@@ -77,6 +78,27 @@ iSize W=1920
 This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.
 
 Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/issues/8) for details and pictures.
+
+![separator](../Media/separator.png)
+
+# How to redo INI files from scratch.
+
+Re-doing INI files from scratch can be necessary when BethINI got a significant update or when you get a crash upon launch / starting a new game caused by faulty INI edits. This is how to easily re-do INIs on a TPF setup.
+
+- In MO2, click the folder icon to the right of the profiles selection drop-down
+- Select **Open Profile folder** (see screenshot).
+
+![Open Profiles folder](Pictures/faq/open_profiles_folder.png)
+
+- Delete the following folder and files:
+  - BethINI Cache
+  - Skyrim.ini
+  - SkyrimPrefs.ini
+- Navigate to `C:\Users\Username\Documents\My Games\Skyrim Special Edition`.
+- Copy the **Skyrim.ini** and **SkyrimPrefs.ini** located inside this folder, they are completely untouched and vanilla.
+- Paste both files into the profiles folder.
+
+Now all you have to do is run BethINI again, make sure it points at the correct MO2 profile and redo the instructions listed in Setup, Step 6.3.
 
 ![separator](../Media/separator.png)
 
