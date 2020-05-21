@@ -595,9 +595,13 @@ Continue with regenerating the INI files from scratch:
 * All filepaths should be configured correctly out of the box, however it’s best to double-check:
   * **Game Path** should point at your **root** folder, `steamapps\common\Skyrim Special Edition`.
   * **Mod Organizer** should point at your MO2 folder, `{Your File Path}\Mod Organizer 2`.
-  * **INI Path** should point at your MO2 profile: ==ModOrganizer 2 > The Phoenix Flavour==.
+  * **INI Path** should point at your MO2 profile: `ModOrganizer 2 > The Phoenix Flavour`.
 
 > Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
+
+![BethINI Setup](/The-Phoenix-Flavour-3-2/Pictures/setup/bethini_setup.png)
+
+---
 
 ### 6.3.2 BethINI - Basic
 
@@ -609,33 +613,53 @@ Continue with the second tab, **Basic**.
 - Select the **Medium** preset.
 - Disable both **VSYNC** and **Lock Frame Rate**.
 
+> Note that 1920x1080 is the recommended resolution. The performance impact of 1440p over 1080p is considerable.
+
+![BethINI Basic](/The-Phoenix-Flavour-3-2/Pictures/setup/bethini_basic.png)
+
+---
+
 ### 6.3.3 BethINI - Interface
 
 Continue with the fifth tab, **Interface**.
 
-- I prefer my **Lock Sensitivity** at ==**0.0450**== but this will come down to personal taste and your mouse configuration.
+- Uncheck **Mod Manager Menu**. This will disable the menu entry leading to the Bethnet mods.
 - **Dialogue Subtitles** and **General Subtitles** are unchecked by default, toggle them on if you need them.
+- I prefer my **Lock Sensitivity** at `0.0450` but this will come down to personal taste and your mouse configuration.
 
-> You can always turn on the subtitles in the ingame settings as well.
+> You can always turn the subtitles back on in the ingame settings.
+
+![BethINI Interface](Pictures/setup/bethini_interface.png)
+
+---
 
 ### 6.3.4 BethINI - Detail
 
 Continue with the sixth tab, **Detail**.
 
+- **Water:** Check 'Reflect Objects' (object LOD reflections were fixed by SSE Engine Fixes).
 - **Decal Quantity:** Set to `High`.
 - **Godrays**: I recommend setting them to `None`, they don’t look great and eat frames for breakfast.
 - **Field of View:** Increase this if you prefer a wider FoV.
 - **Particles:** Set to `7500` (which is the recommended value for Complex Particle Lights, an ENB feature).
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
-- **Shadow Resolution:** Set to `2048` (unless your CPU is a slow dual core).
-- **Ambient Occlusion:** Recommended to set this to `None` in favour of ENB AO.
+- **Shadow Resolution:** Set to `2048` (unless your CPU is very slow).
+- **Ambient Occlusion:** Uncheck this in favour of ENB AO.
+
+![BethINI Detail](Pictures/setup/bethini_detail.png)
+
+---
 
 ### 6.3.5 BethINI - View Distance
 
 Continue with the seventh tab, **View Distance**.
 
 - **Grass Fade:** Set to `15000` or higher.
+
+![BethINI View Distance](Pictures/setup/bethini_view_distance.png)
+
+---
 
 ### 6.3.6 BethINI - Visuals
 
@@ -645,19 +669,9 @@ Continue with the eighth tab, **Visuals**.
 
 > This should eliminate the "black crush" some people are experiencing in Skyrim SE.
 
-### 6.3.7 BethINI - Custom
+![BethINI Visuals](Pictures/setup/bethini_visuals.png)
 
-Continue with the ninth tab, **Custom**.
-
-* Select the following:
-  * **Section:** General
-  * **Setting:** bModManagerMenuEnabled
-* Change the value to `0`.
-* Click **Save**.
-
-> This will disable the **MODS** entry in the ingame pause menu. You should not be using the in-built Bethesda mod manager or Beth.net platform at all. The Creation Club shenanigans will be hidden by mods later on.
-
-![Disable Mod Manager Menu](Pictures/setup/bethini_disable_mod_manager_menu.png)
+---
 
 ## 6.4 Save Changes
 
