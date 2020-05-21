@@ -166,14 +166,13 @@
   - [10.2 Enhanced Vanilla Trees – Vurts Light Snow Trees](#102-enhanced-vanilla-trees--vurts-light-snow-trees)
   - [10.3 Tree Bark in High Definition (optional)](#103-tree-bark-in-high-definition-optional)
   - [10.4 Enhanced Landscapes – Oaks Standalone](#104-enhanced-landscapes--oaks-standalone)
-  - [10.5 Bent Pines II (optional)](#105-bent-pines-ii-optional)
-  - [10.6 Sacred Trees (optional)](#106-sacred-trees-optional)
-  - [10.7 Rudy HQ – Falling Leaves and Needles (optional)](#107-rudy-hq--falling-leaves-and-needles-optional)
-  - [10.8 Cathedral Plants (optional)](#108-cathedral-plants-optional)
-  - [10.9 Realistic HD Mushrooms Remastered (optional)](#109-realistic-hd-mushrooms-remastered-optional)
-  - [10.10 Less Ugly Tundra Grass (optional)](#1010-less-ugly-tundra-grass-optional)
-  - [10.11 Immersive Fallen Trees (optional)](#1011-immersive-fallen-trees-optional)
-  - [10.12 Immersive Fallen Trees Patch (optional)](#1012-immersive-fallen-trees-patch-optional)
+  - [10.5 Sacred Trees (optional)](#105-sacred-trees-optional)
+  - [10.6 Rudy HQ – Falling Leaves and Needles (optional)](#106-rudy-hq--falling-leaves-and-needles-optional)
+  - [10.7 Cathedral Plants (optional)](#107-cathedral-plants-optional)
+  - [10.8 Realistic HD Mushrooms Remastered (optional)](#108-realistic-hd-mushrooms-remastered-optional)
+  - [10.9 Less Ugly Tundra Grass (optional)](#109-less-ugly-tundra-grass-optional)
+  - [10.10 Immersive Fallen Trees (optional)](#1010-immersive-fallen-trees-optional)
+  - [10.11 Immersive Fallen Trees Patch (optional)](#1011-immersive-fallen-trees-patch-optional)
 - [11. Architecture](#11-architecture)
   - [11.1 MD's Farmhouses (optional)](#111-mds-farmhouses-optional)
   - [11.2 The Streets of Whiterun HD (optional)](#112-the-streets-of-whiterun-hd-optional)
@@ -2420,8 +2419,12 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 * Delete the following file(s) and/or folder(s):
   * `textures\landscape\trees\treeaspenbarkcomp.dds`
   * `textures\landscape\trees\treeaspenbarkcomp_n.dds`
+  * `textures\landscape\trees\treepineforestbarkcompsnow.dds`
+  * `textures\landscape\trees\treepineforestbarkcompsnow_n.dds`
+  * `textures\landscape\trees\treepineforestbarkcompsnowl.dds`
+  * `textures\landscape\trees\treepineforestbarkcompsnowl_n.dds`
 
-> I prefer the aspen bark textures from Enhanced Vanilla Trees.
+> I prefer the snowy pine and aspen bark textures from Enhanced Vanilla Trees.
 
 ## 10.4 [Enhanced Landscapes – Oaks Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/27367?tab=files)
 
@@ -2429,37 +2432,31 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 
 * **Main File** – ELOS Oaks mixed greens
 
-## 10.5 [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306?tab=files) (optional)
-
-### Download Instructions
-
-* **Main File** – Bent Pines II
-
-## 10.6 [Sacred Trees](https://www.nexusmods.com/skyrimspecialedition/mods/26214?tab=files) (optional)
+## 10.5 [Sacred Trees](https://www.nexusmods.com/skyrimspecialedition/mods/26214?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – Sacred Trees
 
-## 10.7 [Rudy HQ – Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) (optional)
+## 10.6 [Rudy HQ – Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** - Rudy HQ - Falling Leaves and Needles for ENB SE
 
-## 10.8 [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files) (optional)
+## 10.7 [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – Cathedral - Plants
 
-## 10.9 [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996?tab=files) (optional)
+## 10.8 [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – Realistic HD Mushrooms Remastered
 
-## 10.10 [Less Ugly Tundra Grass](https://www.nexusmods.com/skyrimspecialedition/mods/26740?tab=files) (optional)
+## 10.9 [Less Ugly Tundra Grass](https://www.nexusmods.com/skyrimspecialedition/mods/26740?tab=files) (optional)
 
 ### Download Instructions
 
@@ -2467,13 +2464,13 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 
 > I am recommending the "Redder Variant" because we are not using any green Whiterun tundra mods.
 
-## 10.11 [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files) (optional)
+## 10.10 [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main File** – Immersive Fallen Trees SSE
 
-## 10.12 [Immersive Fallen Trees Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27834?tab=files) (optional)
+## 10.11 [Immersive Fallen Trees Patch](https://www.nexusmods.com/skyrimspecialedition/mods/27834?tab=files) (optional)
 
 ### Download Instructions
 
