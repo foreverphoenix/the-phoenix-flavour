@@ -1613,9 +1613,9 @@ Below are my personal choices. Feel free to make your own!
 
 - **Main File** - aMidianBorn book of silence_DRAGONBORN DLC
 
-> There is no need to download and install the Bonemold Hotfix since it is included in the aMidianBorn Content Addon which will be installed later on.
-
 ### FOMOD Instructions
+
+Rename the file to **aMidianBorn Book of Silence - Dragonborn DLC**.
 
 * **Options:**
   * Custom
@@ -1628,17 +1628,7 @@ Below are my personal choices. Feel free to make your own!
   * Ash Spawn
   * Ash Guardian
 
-> We are not installing any retexture for the Nordic Carved Armor because the aMidianBorn Content Addon will add all three varieties.
-
-### Additional Instructions
-
-* Double-click **aMidianBorn - Dragonborn** in your mod order.
-* Switch to the **Filetree** tab.
-* Find the following folder:
-  * `textures\actors\dlc02\ash`
-* Rename the **ash** folder to **ashman**.
-* The resulting folder structure should be:
-  * `textures\actors\dlc02\ashman`
+> We are not installing any retexture for the Nordic Carved Armor because the aMidianBorn Content Addon will add all three variants.
 
 ## 5.10 [Caliente's Beautiful Bodies Enhancer (CBBE)](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files)
 
@@ -3905,28 +3895,22 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 ### FOMOD Instructions
 
+Rename the file to **aMidianBorn Book of Silence - Unique Items**.
+
 * **Options:** Custom
 * **Targe of the Blooded:** Targe of the Blooded
 * **Wuuthrad:** Wuuthrad
-* **Savior’s Hide:** *choose one*
+* **Savior’s Hide:** None
 * **Helm of Yngol:** Helm of Yngol
 * **Mace of Molag Bal:** Mace of Molag Bal
 * **Mehrune’s Razor:** Mehrune’s Razor
 * **Volendrug:** Volendrung
 * **Tsun’s Armor:** Tsun’s Armor
-* **Ebony Mail:** *choose one*
+* **Ebony Mail:** None
 * **Staff of Magnus:** Staff of Magnus
 * **Dragon Priest Masks:** ~~Dragon Priest Masks~~
 
-### Additional Instructions
-
-* Double-click **aMidianBorn – Unique Items** in your mod order.
-* Switch to the **Filetree** tab.
-* Right-click the **meshes** folder and select **New folder**.
-* Name the new folder **weapons**.
-* Drag the **staffofmagnus** folder into the new **weapons** folder.
-* Resulting file path:
-  * `meshes\weapons\staffofmagnus`
+> The textures for the Savior's Hide and Ebony Mail as well as the variants are included in the aMidianBorn Content Addon.
 
 ## 20.2 [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334?tab=files)
 
