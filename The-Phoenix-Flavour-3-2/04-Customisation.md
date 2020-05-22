@@ -348,7 +348,7 @@ All of the skeleton replacers have to be below **XPMSSE** (XP32 Maximum Skeleton
 
 The guide installs the 'small' (vanilla-sized) version of EVT Custom Trees by default. While the 'large' ones significantly boost *immersion* and that feeling of being a small thing in a huge world, they also have a noticeable performance impact, at least on weaker machines. This is due to the fact that they cast larger shadows.
 
-For those who enjoy very good performance with their existing TPF setup, I highly recommend installing the Large Custom Trees. This will require you to re-install the main file as well as the Alternative Trees file.
+For those who enjoy very good performance with their existing TPF setup, I highly recommend installing the Large Custom Trees. This will require you to re-install the main file as well as the Alternative Trees file. Note that the Alternative Branch textures file does not have to be reinstalled as it supports both small and large versions of the custom trees.
 
 ## Main File
 
