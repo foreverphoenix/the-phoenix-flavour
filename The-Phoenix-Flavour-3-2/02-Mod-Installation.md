@@ -147,20 +147,20 @@
   - [9.6 Majestic Mountains - Northside (optional)](#96-majestic-mountains---northside-optional)
   - [9.7 Realistic Water Two (RW2)](#97-realistic-water-two-rw2)
   - [9.8 Realistic Water Two Patch Hub](#98-realistic-water-two-patch-hub)
-  - [9.8 Skyrim SE Improved Puddles (optional)](#98-skyrim-se-improved-puddles-optional)
-  - [9.9 Better Dynamic Snow](#99-better-dynamic-snow)
-  - [9.10 Better Dynamic Majestic Mountains](#910-better-dynamic-majestic-mountains)
-  - [9.11 Skyrim 3D Icefloes (optional)](#911-skyrim-3d-icefloes-optional)
-  - [9.12 Better Dynamic Ash](#912-better-dynamic-ash)
-  - [9.13 Enhanced Landscapes - Dead Marsh](#913-enhanced-landscapes---dead-marsh)
-  - [9.14 Enhanced Landscapes - Dead Marsh Fixes](#914-enhanced-landscapes---dead-marsh-fixes)
-  - [9.15 Rorikstead Basalt Cliffs (optional)](#915-rorikstead-basalt-cliffs-optional)
-  - [9.16 Rorikstead Basalt Cliffs Patches (optional)](#916-rorikstead-basalt-cliffs-patches-optional)
-  - [9.17 Ashbound - Solstheim Enhanced](#917-ashbound---solstheim-enhanced)
-  - [9.18 Point The Way](#918-point-the-way)
-  - [9.19 Lanterns of Skyrim II](#919-lanterns-of-skyrim-ii)
-  - [9.20 Manor Roads (optional)](#920-manor-roads-optional)
-  - [9.21 Immersive Dawnguard Dayspring Pass (IDDP)](#921-immersive-dawnguard-dayspring-pass-iddp)
+  - [9.9 Skyrim SE Improved Puddles (optional)](#99-skyrim-se-improved-puddles-optional)
+  - [9.10 Better Dynamic Snow](#910-better-dynamic-snow)
+  - [9.11 Better Dynamic Majestic Mountains](#911-better-dynamic-majestic-mountains)
+  - [9.12 Skyrim 3D Icefloes (optional)](#912-skyrim-3d-icefloes-optional)
+  - [9.13 Better Dynamic Ash](#913-better-dynamic-ash)
+  - [9.14 Enhanced Landscapes - Dead Marsh](#914-enhanced-landscapes---dead-marsh)
+  - [9.15 Enhanced Landscapes - Dead Marsh Fixes](#915-enhanced-landscapes---dead-marsh-fixes)
+  - [9.16 Rorikstead Basalt Cliffs (optional)](#916-rorikstead-basalt-cliffs-optional)
+  - [9.17 Rorikstead Basalt Cliffs Patches (optional)](#917-rorikstead-basalt-cliffs-patches-optional)
+  - [9.18 Ashbound - Solstheim Enhanced](#918-ashbound---solstheim-enhanced)
+  - [9.19 Point The Way](#919-point-the-way)
+  - [9.20 Lanterns of Skyrim II](#920-lanterns-of-skyrim-ii)
+  - [9.21 Manor Roads (optional)](#921-manor-roads-optional)
+  - [9.22 Immersive Dawnguard Dayspring Pass (IDDP)](#922-immersive-dawnguard-dayspring-pass-iddp)
 - [10. Flora](#10-flora)
   - [10.1 Enhanced Vanilla Trees (EVT)](#101-enhanced-vanilla-trees-evt)
   - [10.2 Enhanced Vanilla Trees – Vurts Light Snow Trees](#102-enhanced-vanilla-trees--vurts-light-snow-trees)
@@ -2171,7 +2171,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 - Place the mod below the **PATCHES** separator.
 
-## 9.8 [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files) (optional)
+## 9.9 [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files) (optional)
 
 ### Download Instructions
 
@@ -2181,7 +2181,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 * **Textures:** 2048×2048 Resolution
 
-## 9.9 [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
+## 9.10 [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 
 ### Download Instructions
 
@@ -2199,25 +2199,25 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 > We are not selecting the Majestic Mountains patch as the next mod has a more comprehensive solution to those two mods' incompatibilities.
 
-## 9.10 [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files)
+## 9.11 [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files)
 
 ### Download Instructions
 
 * **Main Files:** Better Dynamic Majestic Mountains - v8
 
-## 9.11 [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
+## 9.12 [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Skyrim 3D Icefloes
 
-## 9.12 [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
+## 9.13 [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
 
 ### Download Instructions
 
 * **Main Files:** Better Dynamic Ash SE
 
-## 9.13 [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
+## 9.14 [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
 
 ### Download Instructions
 
@@ -2236,19 +2236,19 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that only that module is installed.
 
-## 9.14 [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+## 9.15 [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
 
 ### Download Instructions
 
 * **Main Files:** Enhanced Landscapes - Dead Marsh Fixes
 
-## 9.15 [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718?tab=files) (optional)
+## 9.16 [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Rorikstead Basalt Cliffs
 
-## 9.16 [Rorikstead Basalt Cliffs Patches ](https://www.nexusmods.com/skyrimspecialedition/mods/31981?tab=files)(optional)
+## 9.17 [Rorikstead Basalt Cliffs Patches ](https://www.nexusmods.com/skyrimspecialedition/mods/31981?tab=files)(optional)
 
 ### Download Instructions
 
@@ -2264,19 +2264,19 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 * Place the mod below the **PATCHES** separator.
 
-## 9.17 [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
+## 9.18 [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
 
 ### Download Instructions
 
 * **Main Files:** Ashbound 1.1
 
-## 9.18 [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
+## 9.19 [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 
 ### Download Instructions
 
 * **Main Files:** Point The Way
 
-## 9.19 [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
+## 9.20 [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
 
 ### Download Instructions
 
@@ -2331,13 +2331,13 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
   * ~~LoS II - The Fall of Granite Hill patch~~
   * LoS II - Whistling Mine patch
 
-## 9.20 [Manor Roads](https://www.nexusmods.com/skyrimspecialedition/mods/24715?tab=files) (optional)
+## 9.21 [Manor Roads](https://www.nexusmods.com/skyrimspecialedition/mods/24715?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Manor Roads
 
-## 9.21 [Immersive Dawnguard Dayspring Pass (IDDP)](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
+## 9.22 [Immersive Dawnguard Dayspring Pass (IDDP)](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
 
 ### Download Instructions
 
