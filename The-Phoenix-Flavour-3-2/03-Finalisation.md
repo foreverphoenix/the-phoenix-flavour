@@ -469,7 +469,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 - Double-click **DynDOLOD_SSE.ini**.
 - Edit the following line to disable traditional tree LOD:
   * `TreeLOD=0`
-- Save and close **DynDOLOD_SSE.ini**.67^{Mod}  [Karleen 2.0] [Rose]8
+- Save and close **DynDOLOD_SSE.ini**.
 
 ## 6.6 DynDOLOD - LOD Generation
 
