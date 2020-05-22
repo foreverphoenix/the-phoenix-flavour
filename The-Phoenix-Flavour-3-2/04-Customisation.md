@@ -4,7 +4,7 @@
 - [Preparations](#preparations)
   - [Notes and Warning](#notes-and-warning)
   - [New Profile](#new-profile)
-  - [Customisation](#customisation)
+  - [DynDOLOD](#dyndolod)
 - [Main Menu Mods](#main-menu-mods)
   - [General Notes](#general-notes)
   - [Some Recommendations](#some-recommendations)
@@ -65,7 +65,7 @@
   - [Related Mods](#related-mods)
   - [INI Tweaks](#ini-tweaks)
   - [Potential Replacements](#potential-replacements)
-- [DynDOLOD](#dyndolod)
+- [DynDOLOD](#dyndolod-1)
   - [Preparations](#preparations-1)
   - [Running DynDOLOD](#running-dyndolod)
   - [DynDOLOD Output](#dyndolod-output)
@@ -90,9 +90,11 @@ Of course the Customisation sections is completely optional. You are free to ski
 
 > This way your original profile remains untouched and you can go back to your default TPF setup anytime.
 
-## Customisation
+## DynDOLOD
 
-You are now free to go through the Customisation steps. Pick and choose 
+Some steps contain a warning to "**Regenerate DynDOLOD.**". Instructions on how to do that can be found in the very last section. If you followed any of the steps with that warning, regenerating DynDOLOD at the end is mandatory.
+
+You are now free to go through the Customisation steps. Pick and choose.
 
 ![separator](../Media/separator.png)
 
@@ -159,10 +161,10 @@ Irrelevant. I recommend grouping font replacers with the **INTERFACE** separator
 
 ## Recommendations
 
-- [Sovngarde - Mist's Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files) - I highly recommend the "Light" version
-- [Main Font Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/14356?tab=files) - I recommend only the "Fertigo Pro" option
-- [Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files) - very clean, my current favourite
-- *Or search for more on the Nexus.*
+- [Sovngarde - Mist's Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files) - I recommend the "Light" version.
+- [Main Font Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/14356?tab=files) - I recommend the "Fertigo Pro" option.
+- [Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files) - Very clean, my current favourite.
+- *Or search for fonts on the Nexus.*
 
 ![separator](../Media/separator.png)
 
@@ -799,9 +801,9 @@ If you installed anything from **Tree Tweaks** or **Arthmoor's Towns**, you MUST
 
 - Navigate to `Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\`.
 - Open **DynDOLOD_SSE.ini** in Notepad++.
-- Find the following line: ==TreeLOD=<value>==.
-  - Set to 1 for regular tree LOD.
-  - Set to 0 for 3D tree LOD.
+- Find the following line: `TreeLOD=<value>`.
+  - Set to `1` for regular tree LOD.
+  - Set to `0` for 3D tree LOD.
 
 ## Running DynDOLOD
 
