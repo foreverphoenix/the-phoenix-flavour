@@ -56,6 +56,7 @@
   - [The Fall of Granite Hill (optional)](#the-fall-of-granite-hill-optional)
   - [Oakwood (optional)](#oakwood-optional)
   - [Landscape Fixes for Grass Mods - Oakwood (optional)](#landscape-fixes-for-grass-mods---oakwood-optional)
+  - [Lanterns of Skyrim II - Patches for Arthmoor's Towns](#lanterns-of-skyrim-ii---patches-for-arthmoors-towns)
   - [Arthmoor's Towns - Patch Pack](#arthmoors-towns---patch-pack)
 - [Plugin Edits](#plugin-edits)
   - [Dwemer Spectres - Remove Beards](#dwemer-spectres---remove-beards)
@@ -633,12 +634,46 @@ It is therefore up to the individual user to decide what is more immersion-break
 - Find **Landscape Fixes For Grass Mods - Patches for Arthmoor's Town** in your mod order, right-click it and select **Reinstall**.
 - In the FOMOD, select only the **Patch for Oakwood** option.
 - After clicking **Install**, select **Rename** (we do not want to replace the original file).
-- Rename the file to ==Landscape Fixes for Grass Mods - Oakwood Patch== and click **OK**.
+- Rename the file to **Landscape Fixes for Grass Mods - Oakwood Patch** and click **OK**.
 
 ### Mod & Load Order
 
 - Place the mod below **Landscape Fixes For Grass Mods - Patches for Arthmoor's Town** in the mod order and active it.
 - Move the plugin below **Landscape For Grass Mods -Provincial Courier PATCH.esp** in your load order.
+
+## Lanterns of Skyrim II - Patches for Arthmoor's Towns
+
+### Download Instructions
+
+- You already downloaded the necessary file during the main guide.
+
+### Installation Instructions
+
+- Click the spanner icon to the right of the profile drop-down and select **Create empty mod** (see screenshot below).
+- Enter **Lanterns of Skyrim II - Patches for Arthmoor's Towns** as the name and click **OK**.
+- Right-click the new, empty mod and select **Open in Explorer**.
+- In your **Downloads** tab, find the **Lanterns Of Skyrim II - FOMOD v2.0** archive.
+- Right-click it and select **Open File**.
+
+![Create empty mod](/The-Phoenix-Flavour-3-2/Pictures/finalisation/create_empty_mod.png)
+
+At this point you need to extract the patches for the town mods you installed. Move all files from the respective folder into your new mod folder.
+
+- **Helarchen Creek:** Extract the meshes, textures, and plugin from the `LoS II - HC` folder.
+- **Oakwood:** Extract the meshes, textures, and plugin from the `LoS II - Oak` folder.
+- **Telengard:** Extract the plugin from the `LoS II - Tel` folder.
+- **The Fall of Granite Hill:** Extract the meshes, textures, and plugin from the `LoS II - TFGH` folder.
+- There is no patch for Keld-Nar.
+
+If you installed multiple town mods, you will be asked whether you want to merge folders. Click **Yes**. If you installed all four town mods and all the patches, the mod folder should look like this:
+
+![LoS II Town Patches](/The-Phoenix-Flavour-3-2/Pictures/customisation/los_ii_town_patches.png)
+
+### Mod Order
+
+- Back in Mod Organizer 2, press F5 to refresh.
+- Place the mod below the **Morrowloot Ultimate - INIGO Patch** in the mod order and activate it.
+- Move the plugin(s) below **MLU - Inigo.esp** in the load order.
 
 ## [Arthmoor's Towns - Patch Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
