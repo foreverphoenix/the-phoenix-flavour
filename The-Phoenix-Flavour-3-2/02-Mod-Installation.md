@@ -146,6 +146,7 @@
   - [9.5 Pfuscher's Rapid Rocks](#95-pfuschers-rapid-rocks)
   - [9.6 Majestic Mountains - Northside (optional)](#96-majestic-mountains---northside-optional)
   - [9.7 Realistic Water Two (RW2)](#97-realistic-water-two-rw2)
+  - [9.8 Realistic Water Two Patch Hub](#98-realistic-water-two-patch-hub)
   - [9.8 Skyrim SE Improved Puddles (optional)](#98-skyrim-se-improved-puddles-optional)
   - [9.9 Better Dynamic Snow](#99-better-dynamic-snow)
   - [9.10 Better Dynamic Majestic Mountains](#910-better-dynamic-majestic-mountains)
@@ -680,9 +681,10 @@
 ### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
-  * `Particle Patch for ENB SSE.esp`
+  - `textures\effects\gradients\gradwhitewater.dss`
+  - `Particle Patch for ENB SSE.esp`
 
-> The plugin is not needed. Its functionality was replaced by ENB Helper.
+> The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
 
 ## 1.10 [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files)
 
@@ -2139,13 +2141,16 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 ### Download Instructions
 
-* **Main Files:** Realistic Water Two v2.2.2
+* **Main Files:** Realistic Water Two SE v3.0.0
 
 ### FOMOD Instructions
 
-* Change nothing. Click **Next** and **Install**.
-
-> On the second page (Mod Patches) the patch for Landscape Fixes for Grass Mods will automatically be ticked. This is intended.
+- **Optional Textures:**
+  - ~~Half Resolution~~
+  - ~~Smaller Water Drops~~
+  - ~~ENB Rain~~
+- **Ambience:**
+  -  ~~Extended Ambience~~
 
 ### Additional Instructions
 
@@ -2153,6 +2158,18 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
   * `meshes\effects\fxrapidsrocks01.nif`
 
 > The mesh is overwriting Pfuscher's new one included with Rapid Rocks.
+
+## 9.8 [Realistic Water Two Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/35744?tab=files)
+
+### Download Instructions 
+
+- **Miscellaneous Files:** Landscape Fixes for Grass Mods Patch v1.0
+
+> The patch for Luminosity is simple conflict resolution which is covered in the guide's CRP.
+
+### Mod Order
+
+- Place the mod below the **PATCHES** separator.
 
 ## 9.8 [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files) (optional)
 
