@@ -307,7 +307,7 @@
   - [19.22 Ebony Weapons 2017 Retexture (optional)](#1922-ebony-weapons-2017-retexture-optional)
   - [19.23 Frankly HD Dragonbone and Dragonscale (optional)](#1923-frankly-hd-dragonbone-and-dragonscale-optional)
   - [19.24 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1924-sunhallowed-and-bloodcursed-arrows--hd-retexture)
-  - [19.26 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
+  - [19.25 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
 - [20. Unique Artifacts](#20-unique-artifacts)
   - [20.1 aMidianBorn Book of Silence – Unique Items](#201-amidianborn-book-of-silence--unique-items)
   - [20.2 Unique Uniques](#202-unique-uniques)
