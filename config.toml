@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "The Phoenix Flavour"
+theme = "docsy"

@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.71.0" />
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+
+<link rel="shortcut icon" href="/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
+
+<title>My New Hugo Site</title><meta property="og:title" content="" />
+<meta property="og:description" content="TABLE OF CONTENTS
+ 01. Wrapping Up  1.1 Misc College of Winterhold Tweaks 1.2 Conflict Resolution Patch 1.3 Load Order TXT 1.4 Check for MO2 Warnings 1.5 Flag Plugins as ESL   02. Fores New Idles  2.1 Add FNIS to MO2 2.2 Generate FNIS 2.3 FNIS Output   03. All Geared Up Derivative  3.1 xEdit Scripts 3.2 Alternate Textures Patches 3.3 Weapon Mesh Generator 3.4 Skeleton Patcher   04." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/03-finalisation/" />
+
+<meta itemprop="name" content="">
+<meta itemprop="description" content="TABLE OF CONTENTS
+ 01. Wrapping Up  1.1 Misc College of Winterhold Tweaks 1.2 Conflict Resolution Patch 1.3 Load Order TXT 1.4 Check for MO2 Warnings 1.5 Flag Plugins as ESL   02. Fores New Idles  2.1 Add FNIS to MO2 2.2 Generate FNIS 2.3 FNIS Output   03. All Geared Up Derivative  3.1 xEdit Scripts 3.2 Alternate Textures Patches 3.3 Weapon Mesh Generator 3.4 Skeleton Patcher   04.">
+
+<meta itemprop="wordCount" content="4457">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="TABLE OF CONTENTS
+ 01. Wrapping Up  1.1 Misc College of Winterhold Tweaks 1.2 Conflict Resolution Patch 1.3 Load Order TXT 1.4 Check for MO2 Warnings 1.5 Flag Plugins as ESL   02. Fores New Idles  2.1 Add FNIS to MO2 2.2 Generate FNIS 2.3 FNIS Output   03. All Geared Up Derivative  3.1 xEdit Scripts 3.2 Alternate Textures Patches 3.3 Weapon Mesh Generator 3.4 Skeleton Patcher   04."/>
+
+
+
+
+
+<link rel="preload" href="/scss/main.min.937c13c28665d99b02207771e5feb84de69365957c53b56e95bea4079566e84a.css" as="style">
+<link href="/scss/main.min.937c13c28665d99b02207771e5feb84de69365957c53b56e95bea4079566e84a.css" rel="stylesheet" integrity="">
+
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+
+  </head>
+  <body class="td-page">
+    <header>
+      
+<nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/">
+		<span class="navbar-logo"></span><span class="text-uppercase font-weight-bold">My New Hugo Site</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			
+			
+			
+			
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+</div>
+</nav>
+
+    </header>
+    <div class="container-fluid td-default td-outer">
+      <main role="main" class="td-main">
+        
+
+<p><img src="../Media/tpf_logo.png" alt="Logo"></p>
+<p><strong>TABLE OF CONTENTS</strong></p>
+<ul>
+<li><a href="#01-wrapping-up">01. Wrapping Up</a>
+<ul>
+<li><a href="#11-misc-college-of-winterhold-tweaks">1.1 Misc College of Winterhold Tweaks</a></li>
+<li><a href="#12-conflict-resolution-patch">1.2 Conflict Resolution Patch</a></li>
+<li><a href="#13-load-order-txt">1.3 Load Order TXT</a></li>
+<li><a href="#14-check-for-mo2-warnings">1.4 Check for MO2 Warnings</a></li>
+<li><a href="#15-flag-plugins-as-esl">1.5 Flag Plugins as ESL</a></li>
+</ul>
+</li>
+<li><a href="#02-fores-new-idles">02. Fores New Idles</a>
+<ul>
+<li><a href="#21-add-fnis-to-mo2">2.1 Add FNIS to MO2</a></li>
+<li><a href="#22-generate-fnis">2.2 Generate FNIS</a></li>
+<li><a href="#23-fnis-output">2.3 FNIS Output</a></li>
+</ul>
+</li>
+<li><a href="#03-all-geared-up-derivative">03. All Geared Up Derivative</a>
+<ul>
+<li><a href="#31-xedit-scripts">3.1 xEdit Scripts</a></li>
+<li><a href="#32-alternate-textures-patches">3.2 Alternate Textures Patches</a></li>
+<li><a href="#33-weapon-mesh-generator">3.3 Weapon Mesh Generator</a></li>
+<li><a href="#34-skeleton-patcher">3.4 Skeleton Patcher</a></li>
+</ul>
+</li>
+<li><a href="#04-enbseries">04. ENBSeries</a>
+<ul>
+<li><a href="#41-general-notes">4.1 General Notes</a></li>
+<li><a href="#42-enbseries-overview">4.2 ENBSeries Overview</a></li>
+<li><a href="#43-enb-man-setup">4.3 ENB Man Setup</a></li>
+<li><a href="#44-enbseries-binaries">4.4 ENBSeries Binaries</a></li>
+<li><a href="#45-global-ini-settings">4.5 Global INI Settings</a></li>
+</ul>
+</li>
+<li><a href="#05-enb-presets">05. ENB Presets</a>
+<ul>
+<li><a href="#51-preset-selection">5.1 Preset Selection</a></li>
+<li><a href="#52-create-a-new-preset">5.2 Create a new preset</a></li>
+<li><a href="#63-import-the-preset">6.3 Import the preset</a></li>
+<li><a href="#64-the-truth-enb">6.4 The Truth ENB</a></li>
+<li><a href="#65-activate-the-preset">6.5 Activate the preset</a></li>
+</ul>
+</li>
+<li><a href="#06-dyndolod">06. DynDOLOD</a>
+<ul>
+<li><a href="#61-dyndolod-and-performance">6.1 DynDOLOD and Performance</a></li>
+<li><a href="#62-dyndolod-setup">6.2 DynDOLOD Setup</a></li>
+<li><a href="#63-texgen-configuration">6.3 TexGen Configuration</a></li>
+<li><a href="#64-texgen-output">6.4 TexGen Output</a></li>
+<li><a href="#65-tweak-for-3d-tree-lod">6.5 Tweak for 3D Tree LOD</a></li>
+<li><a href="#66-dyndolod---lod-generation">6.6 DynDOLOD - LOD Generation</a></li>
+<li><a href="#67-dyndolod-output">6.7 DynDOLOD Output</a></li>
+</ul>
+</li>
+<li><a href="#07-first-launch">07. First Launch</a>
+<ul>
+<li><a href="#71-the-final-step">7.1 The Final Step</a></li>
+<li><a href="#72-start-a-test-game">7.2 Start a test game</a></li>
+<li><a href="#73-configuration">7.3 Configuration</a></li>
+<li><a href="#74-testing-suggestions">7.4 Testing Suggestions</a></li>
+<li><a href="#75-overwrite-cleanup">7.5 Overwrite Cleanup</a></li>
+<li><a href="#76-what-now">7.6 What now?</a></li>
+</ul>
+</li>
+</ul>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="01-wrapping-up">01. Wrapping Up</h1>
+<h2 id="11-misc-college-of-winterhold-tweaks">1.1 Misc College of Winterhold Tweaks</h2>
+<p>We were previously unable to properly install <strong>Misc College of Winterhold Tweaks</strong> by SomethingObscure in Step 27 because the FOMOD options required the matching plugins to be available in the load order. These plugins are now in your available so we can re-install the mod.</p>
+<p>Find <strong>Misc College of Winterhold Tweaks</strong> in your mod order, right-click it and select <strong>Reinstall</strong>.</p>
+<h3 id="12-fomod-instructions">1.2 FOMOD Instructions</h3>
+<ul>
+<li><strong>Arniel&rsquo;s Appeals:</strong>
+<ul>
+<li>Arniel&rsquo;s Appeals</li>
+</ul>
+</li>
+<li><strong>A College Coup:</strong>
+<ul>
+<li>A College Coup</li>
+<li>Obscure&rsquo;s College of Winterhold Add-on</li>
+<li>Immersive College NPCs Add-on</li>
+<li>Interesting NPCs Add-on</li>
+</ul>
+</li>
+<li><strong>Dead Dunmer Delivery:</strong>
+<ul>
+<li>Dead Dunmer Delivery</li>
+</ul>
+</li>
+<li><strong>Governable Gatekeeper:</strong>
+<ul>
+<li>Governable Gatekeeper</li>
+</ul>
+</li>
+<li><strong>Expedite the Expirate:</strong>
+<ul>
+<li>Expedite the Expirate</li>
+</ul>
+</li>
+<li><strong>Unflappable Faculty:</strong>
+<ul>
+<li>Unflappable Faculty</li>
+</ul>
+</li>
+<li><strong>The Early Elementalist:</strong>
+<ul>
+<li>None</li>
+</ul>
+</li>
+<li><strong>Inescapable Insights:</strong>
+<ul>
+<li>Merged Version</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>The <strong>Early Elementalist</strong> module allows you to Wait in the Hall of Elements. This is done by removing the &ldquo;Can&rsquo;t Wait&rdquo; flag in that cell and only this cell record is edited. Because this record has to be forwarded into the Conflict Resolution Patch anyway (to patch it with changes from other mods, namely Luminosity), there is no point in keeping the original ESP. In short - skip the option, it is already implemented through the CRP.</p>
+</blockquote>
+<h2 id="12-conflict-resolution-patch">1.2 Conflict Resolution Patch</h2>
+<ul>
+<li>Download the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/14223">Conflict Resolution Patch</a> from the guide’s Nexus page.</li>
+<li>Install it as usual and place it last below the <strong>PATCHES</strong> separator.</li>
+</ul>
+<h2 id="13-load-order-txt">1.3 Load Order TXT</h2>
+<p>The pre-made TXT will arrange your plugins exactly like the way they are sorted in my personal setup. This is much faster than adjusting the load order manually or setting up LOOT with custom rules.</p>
+<ul>
+<li>Download the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/14223">Universal Load Order TXT</a> from the guide’s Nexus page.</li>
+<li>Open the archive and extract the <strong>loadorder.txt</strong> to <code>Mod Organizer 2\profiles\The Phoenix Flavour</code>.</li>
+<li>Restart Mod Organizer 2 and the changes will be applied.</li>
+</ul>
+<p>After applying the loadorder.txt and restarting MO2, there should be no plugins below <strong>Conflict Resolution Patch.esp</strong> in the load order (right pane). If there are plugins, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. If this happens, please join us on Discord and post your Modwat.ch link in the #request-support channel.</p>
+<h2 id="14-check-for-mo2-warnings">1.4 Check for MO2 Warnings</h2>
+<p>MO2 has inbuilt functionality that checks for plugins with Form 43 (Skyrim LE plugins that have not been re-saved in the Creation Kit). If any are detected, the <strong>Notifications</strong> icon in MO2 will no longer be greyed out.</p>
+<ul>
+<li>Open the <strong>Notifications</strong> window and check its contents.</li>
+<li>Any plugins that are listed must be re-saved in the Creation Kit now.</li>
+</ul>
+<p><img src="Pictures/finalisation/check_for_form43_plugin.png" alt="Check for Form43 Plugins"></p>
+<h2 id="15-flag-plugins-as-esl">1.5 Flag Plugins as ESL</h2>
+<h3 id="151-general-instructions">1.5.1 General Instructions</h3>
+<p>While at this point many installed plugins are already flagged as ESL (ESP-Lite) and we are not exceeding the maximum of 255 ESP+ESM plugins, there are several more plugins that may easily be flagged as ESL in order to save plugin slots. This completely removes the need to merge some plugins.</p>
+<ul>
+<li>Run <strong>SSEEdit</strong> through Mod Organizer 2.</li>
+<li>Click <strong>OK</strong> in the plugin selection window to load all your mods.</li>
+<li>Wait until SSEEdit has finished loading up your plugins and returns <code>Background loader: finished</code>.</li>
+<li>Right-click <strong>UniqueBorderGates-All-PointTheWay.esp</strong> in the left pane (near the bottom) and select <strong>Compact FormIDs for ESL</strong>.</li>
+<li>A warning window will pop up, click <strong>Yes, I’m absolutely sure</strong>.</li>
+<li>Another warning will inform you that there are indeed FormIDs to renumber. Click <strong>Yes</strong>.</li>
+<li>The process itself takes a mere second. When it’s done, switch back to the <strong>View</strong> tab at the bottom to see the plugin’s file header.</li>
+<li>Right-click the empty space to the right of <strong>Record Flags</strong> and select <strong>Edit</strong>.</li>
+<li>In the next window, check only <strong>ESL</strong> and click <strong>OK</strong>.</li>
+<li>The plugin is now successfully flagged as ESL! <strong>Don’t close SSEEdit yet.</strong></li>
+</ul>
+<blockquote>
+<p>Plugins that contain no new records with new FormIDs and only edit existing records (from the official master files or other mods) do not need to have their FormIDs renumbered. When you attempt to renumber them, a window will pop up informing you that there was <strong>Nothing to do</strong>.</p>
+</blockquote>
+<h3 id="152-remaining-plugins">1.5.2 Remaining Plugins</h3>
+<p>You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it.</p>
+<ul>
+<li>QuestsAreInSkyrimUSSEP.esp</li>
+<li>SIDT - Special Edition.esp</li>
+<li>Improved Snow – Obsidian Weathers.esp</li>
+<li>dD-Medium Script Range.esp</li>
+<li>dD-Reduced Wound Size.esp</li>
+<li>DeadlySpellImpacts.esp</li>
+<li>Enhanced Vanilla Trees SSE.esp</li>
+<li>EVT_LightSnowTrees_Replacer (For Vurts).esp</li>
+<li>GQJ_DG_vampireamuletfix.esp</li>
+<li>CBBE.esp</li>
+<li>Subtle but Classless.esp</li>
+<li>Miscellaneous Quests…as Miscellaneous Quests.esp</li>
+<li><del>UniqueBorderGates-All-PointTheWay.esp</del></li>
+<li>UniqueBorderGates-All-BetterDGEntrance.esp ==<strong>compact FormIDs</strong>==</li>
+<li>CFTO – Arthmoor Danwstar Patch.esp</li>
+<li>RDO – USSEP.esp</li>
+</ul>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="02-fores-new-idles">02. Fores New Idles</h1>
+<h2 id="21-add-fnis-to-mo2">2.1 Add FNIS to MO2</h2>
+<p>In Step 38 we installed <strong>Fores New Idles in Skyrim</strong> (FNIS) which is a tool used to add custom animations to Skyrim. It is required by XPMSSE and needs to be run on our mod order before it is properly installed.</p>
+<ul>
+<li>Open the <strong>Executables</strong> window in Mod Organizer 2 (Tools &gt; Executables or CTRL + E).</li>
+<li>Click the blue plus icon and select <strong>Add from file</strong>.</li>
+<li>Navigate to <code>Mod Organizer 2\mods\Fores New Idles in Skyrim\tools</code>.</li>
+<li>Double-click <strong>GenerateFNISforUsers.exe</strong>.</li>
+<li>Change the Title to <strong>Generate FNIS</strong>.</li>
+<li>Click <strong>OK</strong>.</li>
+</ul>
+<p><img src="Pictures/finalisation/add_fnis_to_tools.png" alt="Add FNIS to Tools"></p>
+<h2 id="22-generate-fnis">2.2 Generate FNIS</h2>
+<ul>
+<li>Run FNIS (the executable we just added) through Mod Organizer 2.</li>
+<li>In the window that comes up, check the following two patches in the bottom list:
+<ul>
+<li><code>&quot;GENDER Specific Animations&quot;</code></li>
+<li><code>&quot;SKELETON Arm Fix&quot;</code></li>
+</ul>
+</li>
+<li>Click <strong>Update FNIS Behaviour</strong> to generate the new files.</li>
+<li>Wait until FNIS confirms that animations were succesfully included, then close the window.</li>
+<li>If asked to create a Desktop shortcut, click <strong>Cancel</strong>.</li>
+</ul>
+<h2 id="23-fnis-output">2.3 FNIS Output</h2>
+<p>After running FNIS, all generated files will be located inside the MO2 <em><strong>Overwrite</strong></em>.</p>
+<ul>
+<li>Right-click the <em><strong>Overwrite</strong></em> located at the bottom of your mod order.</li>
+<li>Select <strong>Create Mod,</strong> enter <strong>FNIS Output</strong> as the name and click <strong>OK</strong>.</li>
+<li>Check the mod in your mod order.</li>
+</ul>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="03-all-geared-up-derivative">03. All Geared Up Derivative</h1>
+<h2 id="31-xedit-scripts">3.1 xEdit Scripts</h2>
+<p>While we install the base mod already in Step 38, there is a number of additional steps to complete before the mod is fully implemented.</p>
+<ul>
+<li>Download the <strong>AllGUD xEdit Scripts</strong> main file from the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files">AllGUD</a> mod page.</li>
+<li>Open the downloaded archive and double-click the folder inside.</li>
+<li>Extract all files from the <strong>Edit Scripts</strong> folder to <code>Your Modding Folder\Tools\SSEEdit\Edit Scripts</code>.</li>
+</ul>
+<h2 id="32-alternate-textures-patches">3.2 Alternate Textures Patches</h2>
+<h3 id="321-running-the-script">3.2.1 Running the script</h3>
+<p>Before we can generate weapon meshes for all mods, there are three mods that use Alternate Textures for some new weapons which doesn&rsquo;t work with AllGUD. Thankfully, one of the AllGUD SSEEdit scripts was created to patch these mods.</p>
+<ul>
+<li>Run SSEEdit through Mod Organizer 2.</li>
+<li>In the plugin selection window, simply click <strong>OK</strong> to load all plugins.</li>
+<li>Wait until SSEEdit returns <strong>Background loader: finished</strong>.</li>
+<li>Click anywhere in the left pane (plugin list) and hit CTRL + A to select all plugins.</li>
+<li>Right-click the selected plugins and select <strong>Apply Script</strong>.</li>
+<li>Select the <strong>AllGUD AlternateTextureModelsplosion</strong> script and click <strong>OK</strong>.</li>
+<li>Enter <strong>AllGUD - Alternate Textures Patch</strong> as file name and click <strong>OK</strong>.</li>
+<li>Leave the next two windows blank and only click <strong>OK</strong> both times.</li>
+<li>Eventually SSEEdit will return <strong>Done: Applying script</strong>, and you can close the window.</li>
+</ul>
+<h3 id="322-output">3.2.2 Output</h3>
+<ul>
+<li>Back in Mod Organizer 2, scroll down all the way to the <strong>Overwrite</strong> folder which contains the new plugin and meshes.</li>
+<li>Right-click it and select <strong>Create Mod</strong>.</li>
+<li>Enter <strong>AllGUD - Alternate Textures Patch</strong> as the name and click <strong>OK</strong>.</li>
+<li>Activate the new mod in your mod order.</li>
+<li>The plugin will now show up at the bottom of your load order, make sure it is checked.</li>
+</ul>
+<h3 id="323-clean-masters">3.2.3 Clean Masters</h3>
+<p>Unfortunately the plugin was assigned half our load order as master files so we will use SSEEdit to clean out master files that are not direct dependencies. Only the relevant plugins will remain master files to the plugin.</p>
+<ul>
+<li>Run SSEEdit through Mod Organizer 2.</li>
+<li>In the plugin selection window, simply click <strong>OK</strong> to load all plugins.</li>
+<li>Wait until SSEEdit returns <strong>Background loader: finished</strong>.</li>
+<li>Scroll down to the bottom and right-click <strong>AllGUD - Alternate Textures Patch.esp</strong>.</li>
+<li>Select <strong>Clean Masters</strong> and click <strong>Yes I&rsquo;m absolutely sure</strong> when the warning window pops up.</li>
+<li>Close SSEEdit and click <strong>OK</strong> to save the changes.</li>
+</ul>
+<h2 id="33-weapon-mesh-generator">3.3 Weapon Mesh Generator</h2>
+<h3 id="331-new-mod-folder">3.3.1 New Mod Folder</h3>
+<ul>
+<li>In Mod Organizer 2, click the spanner icon above the mod order pane and select <strong>Create empty mod</strong>.</li>
+<li>Enter <strong>AllGUD - Weapon Meshes</strong> as the name and click <strong>OK</strong>.</li>
+<li>Leave the new mod at the bottom of your mod order and activate it.</li>
+</ul>
+<p><img src="Pictures/finalisation/create_empty_mod.png" alt="Create empty mod"></p>
+<h3 id="332-running-the-script">3.3.2 Running the script</h3>
+<ul>
+<li>Run SSEEdit through Mod Organizer 2.</li>
+<li>In the plugin selection window, simply click <strong>OK</strong> to load all plugins.</li>
+<li>Wait until SSEEdit returns <strong>Background loader: finished</strong>.</li>
+<li>Click anywhere in the left pane (plugin list) and hit CTRL + A to select all plugins.</li>
+<li>Right-click the selected plugins and select <strong>Apply Script</strong>.</li>
+<li>Select the <strong>AllGUD Weapon Mesh Generator</strong> script and click <strong>OK</strong>.</li>
+<li>Click on the empty field below <strong>Output Meshes Folder</strong> and navigate to <code>Mod Organizer 2\mods</code>.</li>
+<li>Select the <strong>AllGUD - Weapon Meshes</strong> folder you created in the previous step and click <strong>OK</strong>.</li>
+<li>Click <strong>Start</strong> to begin generating the meshes.</li>
+<li>Eventually SSEEdit will return <strong>Done: Applying script</strong>, and you can close the window.</li>
+</ul>
+<p><img src="/The-Phoenix-Flavour-3-2/Pictures/finalisation/allgud_weapon_meshes.png" alt="AllGUD Weapon Patcher"></p>
+<h2 id="34-skeleton-patcher">3.4 Skeleton Patcher</h2>
+<h3 id="341-new-mod-folder">3.4.1 New Mod Folder</h3>
+<ul>
+<li>In Mod Organizer 2, click the spanner icon above the mod order pane and select <strong>Create empty mod</strong>.</li>
+<li>Enter <strong>AllGUD - Skeleton Meshes</strong> as the name and click <strong>OK</strong>.</li>
+<li>Leave the new mod at the bottom of your mod order and activate it.</li>
+</ul>
+<h3 id="342-running-the-script">3.4.2 Running the script</h3>
+<ul>
+<li>Run SSEEdit through Mod Organizer 2.</li>
+<li>In the plugin selection window, simply click <strong>OK</strong> to load all plugins.</li>
+<li>Wait until SSEEdit returns <strong>Background loader: finished</strong>.</li>
+<li>Right-click anywhere in the left pane and select <strong>Apply Script</strong>.</li>
+<li>Select the <strong>AllGUD Skeleton Patcher</strong> script and click <strong>OK</strong>.</li>
+<li>Click on the empty field below <strong>Output Meshes Folder</strong> and navigate to <code>Mod Organizer 2\mods</code>.</li>
+<li>Select the <strong>AllGUD - Skeleton Meshes</strong> folder you created in the previous step and click <strong>OK</strong>.</li>
+<li>Click <strong>Start</strong> to begin generating the meshes.</li>
+<li>Eventually SSEEdit will return <strong>Done: Applying script</strong>, and you can close the window.</li>
+</ul>
+<p><img src="/The-Phoenix-Flavour-3-2/Pictures/finalisation/allgud_skeleton_patcher.png" alt="AllGUD Skeleton Patcher"></p>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="04-enbseries">04. ENBSeries</h1>
+<h2 id="41-general-notes">4.1 General Notes</h2>
+<p>ENBSeries with a decent preset is the most performance-intense graphical improvement. It can also have a huge impact visually. To get stable 60FPS with an ENB preset you need a decently strong PC and quite possibly tone down some settings but it is very doable. Even if you’re not interested in all the bells and whistles, ENB ambient occlusion, complex particle lights and colour correction alone are certainly worthwhile.</p>
+<p>With ENB Man - the preset management tool we will be using - you can easily switch between presets. ENB presets can be edited and toggled directly ingame at any time.</p>
+<h2 id="42-enbseries-overview">4.2 ENBSeries Overview</h2>
+<h3 id="421-enbseries-binaries">4.2.1 ENBSeries binaries</h3>
+<p>These are the core files required to run ENBSeries. They are forbidden to be shared with presets and can only be acquired from the official website. They consist of two plugins, <code>d3d11.dll</code> and <code>d3dcompiler_46e.dll</code>, that belong into your <strong>root</strong> folder.</p>
+<h3 id="422-enbseriesini">4.2.2 enbseries.ini</h3>
+<p>The bulk of configuration changes are stored in the ==enbseries.ini== file in which you can tweak all general settings and toggle them on or  off. This INI is unique to its preset and also belongs into your <strong>root</strong> folder.</p>
+<h3 id="423-enbseries-folder">4.2.3 enbseries folder</h3>
+<p>This folder should be located in your <strong>root</strong> folder and it includes all additional effect files (INI files and additional folders). The included effects vary from preset to preset, depending on what the author is utilising. In rare cases, the effect INIs are outside the <strong>enbseries</strong> folder and kept in the <strong>root</strong> folder as well (this is the case for the guide’s preset, Visceral ENB).</p>
+<h3 id="424-enblocalini">4.2.4 enblocal.ini</h3>
+<p>The <code>enblocal.ini</code> stores your personal settings and it’s completely independent from your preset which is why we are going to set up a global configuration that you can easily tweak and apply at any time for any preset. Settings you can control through the INI file are hotkeys, forcing VSYNC / frame lock, preset shader cache, some fixes and additional graphical options such as antialiasing.</p>
+<h2 id="43-enb-man-setup">4.3 ENB Man Setup</h2>
+<ul>
+<li>Download <a href="https://www.nexusmods.com/skyrim/mods/57620">ENB Man</a> (the main file) manually from the Nexus.</li>
+<li>Extract <strong>ENBMan.exe</strong> to <code>Your Modding Folder\Tools\ENB Man</code>.</li>
+<li><strong>(Optional)</strong> Add <strong>ENBMan.exe</strong> to your Desktop / Taskbar.</li>
+<li>Run <strong>ENBMan.exe</strong> and click the green plus to add a new game.</li>
+<li>Click the folder icon and point ENBMan at your <strong>SkyrimSE.exe</strong> (located in your root folder).</li>
+<li>You might want to edit the name to indicate that it’s the Special Edition (I’ve changed it to <strong>Skyrim SE</strong>).</li>
+<li>Click the green checkmark to confirm.</li>
+<li>Double-click the new <strong>Skyrim SE</strong> profile.</li>
+</ul>
+<p><img src="Pictures/finalisation/enb1_game_setup.png" alt="ENB Man 1 - Game Setup"></p>
+<h2 id="44-enbseries-binaries">4.4 ENBSeries Binaries</h2>
+<ul>
+<li>Download the latest version of <a href="http://enbdev.com/download_mod_tesskyrimse.htm">ENBSeries for Skyrim SE</a>.</li>
+<li>Open the downloaded archive and double-click the <strong>WrapperVersion</strong> folder.</li>
+<li>Back in ENB Man, click the arrow under <strong>Binaries</strong> and select <strong>Add</strong>.</li>
+<li>Enter <strong>ENBSeries</strong> and the version number as name (eg <strong>ENBSeries 0.390</strong>).</li>
+<li>Click the green checkmark to confirm.</li>
+<li>From the archive’s <strong>WrapperVersion</strong> folder, drag the following files into the empty <strong>Binaries</strong> window:
+<ul>
+<li><code>d3d11.dll</code></li>
+<li><code>d3dcompiler_46e.dll</code></li>
+<li><code>enblocal.ini</code></li>
+</ul>
+</li>
+<li>Click the green checkmark to confirm.</li>
+</ul>
+<p><img src="Pictures/finalisation/enb2_binaries.png" alt="ENB Man 2 - Binaries"></p>
+<h2 id="45-global-ini-settings">4.5 Global INI Settings</h2>
+<h3 id="451-import-enblocal-ini">4.5.1 Import enblocal INI</h3>
+<ul>
+<li>Click the gears icon under <strong>Global Settings</strong>.</li>
+<li>A new window will come up. Click the green plus icon.</li>
+<li>Enter <strong>enblocal.ini</strong> as name. It will now appear in the list.</li>
+<li>Double-click your new <strong>enblocal.ini</strong>.</li>
+<li>In the new window, click <strong>Import Settings</strong> in the top bar.</li>
+<li>Navigate to <code>Your Modding Folder\Tools\ENBMan\Games\Skyrim SE\Binaries\ENBSeries 0.4xx</code>.</li>
+<li>Double-click the <strong>enblocal.ini</strong> inside to import it and check all boxes.</li>
+</ul>
+<h3 id="452-save-global-configuration">4.5.2 Save Global Configuration</h3>
+<ul>
+<li>Click <strong>Save</strong> in the top bar (the hard drive icon) and close the window.</li>
+<li>Back in the <strong>Global Configuration Files</strong> window, check <strong>enblocal.ini.</strong></li>
+<li>Click the green checkmark to close the window.</li>
+</ul>
+<p><img src="Pictures/finalisation/enb3_global_ini_settings.png" alt="ENB Man 3 - Global INI Settings"></p>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="05-enb-presets">05. ENB Presets</h1>
+<h2 id="51-preset-selection">5.1 Preset Selection</h2>
+<p>For the purposes of this guide we will be using my personal favourite preset – <strong>Visceral ENB</strong>, warm and dreamy but still natural enough and quite performance-friendly. Afterwards, we will also install a second preset, <strong>The Truth ENB</strong>, which is among the most presets with the least impact on performance out there for everyone with less modern hardware.</p>
+<p>You can install any other preset the same way. The <strong>Customisation</strong> section includes a list of other recommended presets.</p>
+<h2 id="52-create-a-new-preset">5.2 Create a new preset</h2>
+<ul>
+<li>In ENB Man, click the arrow under <strong>Presets</strong> and select <strong>Blank preset</strong>.</li>
+<li>Enter a name for the new preset, e.g. <strong>Visceral ENB – for Obsidian Weathers [1.5]</strong>.</li>
+<li>Click the green checkmark to confirm.</li>
+</ul>
+<p><img src="Pictures/finalisation/enb4_create_new_profile.png" alt="ENB Man 4 - Create New Profile"></p>
+<h2 id="63-import-the-preset">6.3 Import the preset</h2>
+<ul>
+<li>Download <a href="https://www.nexusmods.com/skyrimspecialedition/mods/21779?tab=files">Visceral ENB</a> (Visceral ENB – Obsidian Weathers and Seasons) manually.</li>
+<li>Navigate to <code>Your Modding Folder\temp</code>.</li>
+<li>Open the downloaded ENB Preset archive.</li>
+<li>Double-click the folder inside, then extract all files into the <strong>temp</strong> folder.</li>
+<li>Drag-and-drop all files from the <strong>temp</strong> folder into ENB Man.</li>
+<li>Remove all files inside the <strong>temp</strong> folder.</li>
+</ul>
+<blockquote>
+<p>Extracting the files into <strong>temp</strong> before importing them into ENB Man is done because importing directly from the ZIP archive can be a little buggy at times (skipping files and such).</p>
+</blockquote>
+<p><img src="Pictures/finalisation/enb5_import_preset_files.png" alt="ENB Man 5 - Import Preset Files"></p>
+<h2 id="64-the-truth-enb">6.4 The Truth ENB</h2>
+<p><strong>This is optional.</strong></p>
+<p>You can skip this step and simply use Visceral ENB or install a different preset later on if you have decent hardware. The Truth preset is for those that struggle to maintain 60FPS. People who prefer vanilla visuals (especially colour and lighting) over stylised ENB presets may also want to use The Truth.</p>
+<ul>
+<li>Create a new preset in ENB Man for The Truth ENB.</li>
+<li>Download <a href="https://www.nexusmods.com/skyrimspecialedition/mods/9162?tab=files">The Truth ENB</a> (the main file) from the Nexus page.</li>
+<li>Extract all files (enbseries folder, enbseries.ini, enblocal.ini) to <code>Your Modding Folder\temp</code>.</li>
+<li>Drag the files from there into the empty <strong>Files</strong> field in your new ENB Man profile.</li>
+<li>Click <strong>No</strong> when asked to import palettes.</li>
+<li>Delete all files in the <strong>temp</strong> folder.</li>
+</ul>
+<h2 id="65-activate-the-preset">6.5 Activate the preset</h2>
+<p>(The screenshot shows Visceral ENB but you can activate The Truth ENB instead if you installed it).</p>
+<ul>
+<li>Select the latest version of ENBSeries under <strong>Binary</strong> and tick the checkbox.</li>
+<li>Click the green checkmark at the bottom of the window to install the preset.</li>
+</ul>
+<p><img src="Pictures/finalisation/enb6_enable_preset.png" alt="ENB Man 6 - Enable Preset"></p>
+<p><img src="../Media/separator.png" alt="separator"></p>
+<h1 id="06-dyndolod">06. DynDOLOD</h1>
+<h2 id="61-dyndolod-and-performance">6.1 DynDOLOD and Performance</h2>
+<p>Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the <strong>Low</strong> or <strong>Medium</strong> presets and regular tree LOD, you will hardly notice any performance impact, even on weaker machines, while still drastically improving distant terrain.</p>
+<p>More hardware-taxing is however what is typically referred to as &ldquo;ultra tree LOD&rdquo; or simply 3D tree LOD. This is a DynDOLOD feature which disables regular tree LOD, the two dimensional, flat &ldquo;cut-outs&rdquo;. Instead, object LOD is generated for distant trees, utilising 3D meshes which drastically improve the visual quality of tree LOD to the point where you can barely tell fully-rendered trees and distant trees apart anymore.</p>
+<p>3D tree LOD is not recommended for people with less than 4GB VRAM. There is a potential performance impact but it is usually negligible on most modern machines (and very much worth the visual improvement).</p>
+<p><strong>You will have the option to generate either regular or 3D tree LOD.</strong> Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.</p>
+<h2 id="62-dyndolod-setup">6.2 DynDOLOD Setup</h2>
+<h3 id="621-file-download">6.2.1 File Download</h3>
+<ul>
+<li>Download the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/32382"><strong>DynDOLOD</strong></a> main file manually.</li>
+<li>Navigate to <code>Your Modding Folder\Tools</code> and create a new <strong>DynDOLOD</strong> folder.</li>
+<li>Open the downloaded <strong>DynDOLOD</strong> archive and move all files into your new directory.</li>
+</ul>
+<h3 id="622-texgen-executable">6.2.2 TexGen Executable</h3>
+<ul>
+<li>Switch back to Mod Organizer 2 and open the <strong>Executables</strong> window (Tools &gt; Executables or CTRL + E).</li>
+<li>Click the blue plus icon to add a new executable and select <strong>Add from file</strong>.</li>
+<li>Navigate to <code>Your Modding Folder\Tools\DynDOLOD</code>and double-click <strong>TexGenx64.exe</strong>.</li>
+<li>Under <strong>Arguments</strong>, add the following:
+<ul>
+<li>-sse</li>
+</ul>
+</li>
+</ul>
+<h3 id="623-dyndolod-executable">6.2.3 DynDOLOD Executable</h3>
+<ul>
+<li>Once again, click the blue plus icon to add a new executable and select <strong>Add from file</strong>.</li>
+<li>Navigate to <code>Your Modding Folder\Tools\DynDOLOD</code>and double-click <strong>DynDOLODx64.exe</strong>.</li>
+<li>Under <strong>Arguments</strong>, add the following:
+<ul>
+<li>-sse</li>
+</ul>
+</li>
+<li>Click <strong>OK</strong> to save and close the <strong>Executables</strong> window.</li>
+</ul>
+<p><img src="Pictures/finalisation/texgen_dyndolod_executables.png" alt="Texgen DynDOLOD Executables"></p>
+<h2 id="63-texgen-configuration">6.3 TexGen Configuration</h2>
+<p>TexGen is a component of DynDOLOD, used to generate textures based on your mod setup.</p>
+<ul>
+<li>Launch <strong>TexGen</strong> through Mod Organizer 2.</li>
+<li>Set <strong>LOD Texture Size</strong> to <code>512</code> if you have 4GB of VRAM or more.</li>
+<li>Hit <strong>Start</strong>.</li>
+</ul>
+<blockquote>
+<p>The generation will take a while (about 10 minutes for me) and I recommend you step away from your PC in the meantime.</p>
+</blockquote>
+<p><img src="Pictures/finalisation/texgen_settings.png" alt="TexGen Settings"></p>
+<h2 id="64-texgen-output">6.4 TexGen Output</h2>
+<ul>
+<li>Once TexGen has finished, click <strong>Save and Exit</strong>.</li>
+<li>Navigate to <code>Your Modding Folder\Tools\DynDOLOD</code>.</li>
+<li>Cut (CTRL + X) the <strong>TexGen_Output</strong> folder and paste (CTRL+V) it to <code>Mod Organizer 2\mods</code>.</li>
+<li>Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your mod order.</li>
+<li>Place it right above the <strong>WEATHER</strong> separator and activate it.</li>
+</ul>
+<p><img src="Pictures/finalisation/texgen_mod_order.png" alt="TexGen Output Mod Order"></p>
+<h2 id="65-tweak-for-3d-tree-lod">6.5 Tweak for 3D Tree LOD</h2>
+<blockquote>
+<p>Only follow these instructions if you are planning to generate 3D tree LOD.</p>
+</blockquote>
+<ul>
+<li>Navigate to <code>Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD</code>.</li>
+<li>Double-click <strong>DynDOLOD_SSE.ini</strong>.</li>
+<li>Edit the following line to disable traditional tree LOD:
+<ul>
+<li><code>TreeLOD=0</code></li>
+</ul>
+</li>
+<li>Save and close <strong>DynDOLOD_SSE.ini</strong>.67^{Mod}  [Karleen 2.0] [Rose]8</li>
+</ul>
+<h2 id="66-dyndolod---lod-generation">6.6 DynDOLOD - LOD Generation</h2>
+<ul>
+<li>Launch <strong>DynDOLOD</strong> through Mod Organizer 2.</li>
+<li>A window will come up, click <strong>Advanced</strong>.</li>
+<li>You can see a list of all worldspaces at the top. Right-click inside and <strong>Select all</strong>.</li>
+<li>Select one preset:
+<ul>
+<li><strong>Low</strong> if you already struggle with performance.</li>
+<li><strong>Medium</strong> as the default option plus regular tree LOD.</li>
+<li><strong>High</strong> for modern machines and 3D tree LOD.</li>
+</ul>
+</li>
+<li>Under <strong>Load rules for</strong> check both <strong>Candles</strong> and <strong>FXGlow</strong>.</li>
+<li>Double-check with the picture below that everything is configured correctly, then click <strong>OK</strong>.</li>
+</ul>
+<p><strong>Step away from your PC while DynDOLOD is working.</strong></p>
+<p><img src="Pictures/finalisation/dyndolod_settings.png" alt="DynDOLOD Settings"></p>
+<h2 id="67-dyndolod-output">6.7 DynDOLOD Output</h2>
+<ul>
+<li>Once DynDOLOD is done, click <strong>Save &amp; Exit</strong>.</li>
+<li>Go to <code>Your Modding Folder\Tools\DynDOLOD</code>.</li>
+<li>Cut (CTRL+X) the <strong>DynDOLOD_output</strong> folder and paste it (CTRL+V) to <code>Mod Organizer 2\mods</code>.</li>
+<li>Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.</li>
+<li>Rename the file and add the preset you selected, eg: <code>DynDOLOD (Medium)</code>.</li>
+<li>Place it last below the <strong>PATCHER OUTPUT</strong> separator and activate it.</li>
+<li>Move <strong>DynDOLOD.esm</strong> below your other ESMs at the top of your load order.</li>
+<li>Leave <strong>DynDOLOD.esp</strong> at the very bottom as the last plugin.</li>
+</ul>
+<p><img src="../Media/separator.png" alt="separators"></p>
+<h1 id="07-first-launch">07. First Launch</h1>
+<h2 id="71-the-final-step">7.1 The Final Step</h2>
+<p>All mods are installed. Your ENB preset is configured correctly. DynDOLOD is generated. Now comes the moment of truth.</p>
+<p>Once arrived at this point it is important to thoroughly test your setup in order to make sure your game looks beautiful, performs well and runs stable so that you can finally start a new playthrough without a high risk for nasty surprises.</p>
+<h2 id="72-start-a-test-game">7.2 Start a test game</h2>
+<ul>
+<li>In Mod Organizer 2, select <strong>SKSE</strong> in the exectuables drop-down and hit <strong>Run</strong>.</li>
+<li>In the main menu, select <strong>New</strong> to start your test save.</li>
+<li>After the initial loading screen you will find yourself in the AS LAL cell where you can customise your (testing) character.</li>
+<li>When you’re done, talk to the Statue of Mara and select the <strong>I am camping in the woods</strong> option.</li>
+<li>Go to the bed in the back in the cell and interact with it to &ldquo;sleep&rdquo;.</li>
+</ul>
+<h2 id="73-configuration">7.3 Configuration</h2>
+<h3 id="731-immersive-hud">7.3.1 Immersive HUD</h3>
+<p><strong>Both of these changes are completely optional but recommended.</strong></p>
+<p>Changes to MCM settings do not carry over across save games so it would be a waste of time to configure all MCMs for a test run. There are merely two changes in the Immersive HUD MCM that I recommend for now.</p>
+<ul>
+<li>Press <strong>ESCAPE</strong> and select the <strong>MCM</strong> Option.</li>
+<li>Scroll down and click on <strong>Immersive HUD</strong> to open the mod&rsquo;s MCM.</li>
+<li>In the <strong>Activation</strong> tab, select the following two options:
+<ul>
+<li>Key press toggles</li>
+<li>Link ALL SkyUI Widgets</li>
+</ul>
+</li>
+<li>You can also change the hotkey to a different one if its inconvenient for you (default is X).</li>
+</ul>
+<blockquote>
+<p>This will make it so that the clock widget from A Matter of Time is toggled along with iHUD (and therefore hidden most of the time). Pressing the hotkey once to toggle is more convenient than having to keep pressing it in my opinion.</p>
+</blockquote>
+<h3 id="732-depth-of-field">7.3.2 Depth of Field</h3>
+<p>While the default Depth of Field effect is fairly ugly, you will have noticed that we specifically left it turned on while configuring INI settings way back during the Setup section. This is because the DoF effect is tied to the underwater blur effect - turn off DoF and going underwater you will be able to see as clearly as above the surface. The solution to this is leaving the effect on but turning it down all the way so that the DoF doesn&rsquo;t actually show up.</p>
+<ul>
+<li>Press <strong>ESCAPE</strong> and go into <strong>Settings</strong> &gt; <strong>Display</strong>.</li>
+<li>Turn down <strong>Depth of Field</strong> all the way.</li>
+</ul>
+<p><img src="Pictures/finalisation/turn_down_dof.jpg" alt="Turn down DoF"></p>
+<h2 id="74-testing-suggestions">7.4 Testing Suggestions</h2>
+<ul>
+<li>You will spawn near Helgen in an area you likely know well. Take some time to look around.</li>
+<li>Activate the ENBSeries FPS counter if you installed ENB (default hotkey: Numpad *). Otherwise use the Steam overlay or something similar.</li>
+<li>Travel around Skyrim and visit your favourite locations (open the console and type <code>tmm</code> to enable all map markers).</li>
+<li>Especially intense areas where you frame rate might drop are:
+<ul>
+<li>the southern forest, especially when looking down at Falkreath</li>
+<li>the swamp surrounding Morthal</li>
+<li>the bridge looking at Riverwood</li>
+<li>the Rift, particularly when approaching Riften from the south</li>
+</ul>
+</li>
+</ul>
+<p>I recommend spending at least 10 to 20 minutes ingame. Enjoy the improved graphics and take some screenshots! Once you have quit the game, proceed with the next step.</p>
+<h2 id="75-overwrite-cleanup">7.5 Overwrite Cleanup</h2>
+<h3 id="751-about-the-overwrite">7.5.1 About the Overwrite</h3>
+<p>As mentioned before, the <em><strong>Overwrite</strong></em> folder in Mod Organizer 2 catches all files generated by mods or applications that would normally land in your <strong>root</strong> folder. After the first launch, you will find quite a few files in your <em><strong>Overwrite</strong></em> that were generated by mods.</p>
+<p>Now if you delete these, they’ll just be regenerated when you next launch the game, but we don’t want them to clutter up the <em><strong>Overwrite</strong></em> either. The best solution is to keep these files with the mods they belong, inside their mod folders. This way they will also be removed and regenerated when the mod is updated.</p>
+<h3 id="752-open-in-explorer">7.5.2 Open in Explorer</h3>
+<ul>
+<li>Right-click the <em><strong>Overwrite</strong></em> and select <strong>Open in Explorer</strong>.</li>
+<li>Navigate to <code>SKSE\Plugins</code> which may contain files for Simply Knock, Keyboard Shortcuts Fix, and Fuz Ro D’oh.</li>
+<li>Drag the window to the side or your second monitor.</li>
+</ul>
+<h3 id="753-keyboard-shortcuts-fix">7.5.3 Keyboard Shortcuts Fix</h3>
+<blockquote>
+<p>Skip this step if you did not install Keyboard Shortcuts Fix.</p>
+</blockquote>
+<ul>
+<li>Find <strong>Keyboard Shortcuts Fix</strong> in your mod order, right-click it and select <strong>Open in Explorer</strong>.</li>
+<li>Navigate to <code>Keyboard Shortcuts Fix\SKSE\Plugins</code>.</li>
+<li>Drag the <strong>KeyboardShortcutsFix.log</strong> file from the <em><strong>Overwrite</strong></em> into that folder.</li>
+<li>The resulting file path should be:
+<ul>
+<li><code>Mod Organizer 2\mods\Keyboard Shortcuts Fix\SKSE\Plugins\KeyboardShortcutsFix.log</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="754-fuz-ro-d-oh">7.5.4 Fuz Ro D-oh</h3>
+<ul>
+<li>Find <strong>Fuz Ro D-oh</strong> in your mod order, right-click it and select <strong>Open in Explorer</strong>.</li>
+<li>Navigate to <code>Fuz Ro D-oh\SKSE\Plugins</code>.</li>
+<li>Drag the <strong>Fuz Ro D’oh.ini</strong> file from the <em><strong>Overwrite</strong></em> into that folder.</li>
+<li>The resulting file path should be:
+<ul>
+<li><code>Mod Organizer 2\mods\Fuz Ro D-oh\SKSE\Plugins\Fuz Ro D'oh.ini</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="755-simply-knock">7.5.5 Simply Knock</h3>
+<blockquote>
+<p>Skip this step if you did not install Simply Knock.</p>
+</blockquote>
+<ul>
+<li>Find <strong>Simply Knock</strong> in your mod order, right-click it and select <strong>Open in Explorer</strong>.</li>
+<li>Return to the root of the <em><strong>Overwrite</strong></em> – <code>Mod Organizer 2\overwrite</code>.</li>
+<li>Move the entire <strong>SKSE</strong> folder into the <strong>Simply Knock</strong> mod folder.</li>
+<li>The resulting file path should be:
+<ul>
+<li><code>Mod Organizer 2\mods\Simply Knock\SKSE\</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="756-clean-up">7.5.6 Clean-up</h3>
+<ul>
+<li>Close all Explorer windows and return to Mod Organizer 2.</li>
+<li>Double-click the <em><strong>Overwrite</strong></em> and delete any left-over files (there probably aren&rsquo;t any).</li>
+</ul>
+<h2 id="76-what-now">7.6 What now?</h2>
+<p><strong>Congratulations, you have completed The Phoenix Flavour!</strong></p>
+<p>I hope you had a great time, found the instructions easy to follow, and didn’t run into any frustrating issues. Your game is now thoroughly overhauled and you learned plenty about modding in the meantime.</p>
+<p>You will notice two additional sections following this one: In the <strong>Customisation</strong>, you may find many options to expand or tweak your current setup. This includes changes to improve performance so don’t be discouraged if you find your game running at less than 60FPS upon your first launch!</p>
+<p>The final section, <strong>New Game</strong>, will help you get started with your next playthrough. It contains recommended changes to the Mod Configuration Menus.</p>
+<p>So you see - your journey is not over yet.</p>
+<p><strong>Happy modding!</strong></p>
+
+
+
+      </main>
+      
+<footer class="bg-dark py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        
+        
+	
+		
+	
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    </div>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+<script src="/js/main.min.e2081313840f629d5c183f26a9340d3fb9365d1e35d3a1fa01ad00849ac11949.js" integrity="sha256-4ggTE4QPYp1cGD8mqTQNP7k2XR4106H6Aa0AhJrBGUk=" crossorigin="anonymous"></script>
+
+
+
+  </body>
+</html>
