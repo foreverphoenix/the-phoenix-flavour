@@ -212,7 +212,6 @@ This should cover the majority of affected mods from the guide. Download and ins
 - **Main File** - Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
 - **Optional File** - Better Dialogue Control Widescreen Fix `replaces the original mod`
 - **Optional File** - Better MessageBox Control Widescreen Fix `replaces the original mod`
-- **Optional File** - Race Menu SE - WIdescreen Fix
 - **Optional File** - SkyHud - High Resolution Widescreen Fix
 - **Optional File** - Wider MCM Menu for SkyUI - Widescreen Fix `optional in the guide`
 
