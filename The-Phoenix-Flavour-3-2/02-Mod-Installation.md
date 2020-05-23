@@ -287,27 +287,26 @@
   - [19.2 Practical Female Armors (optional)](#192-practical-female-armors-optional)
   - [19.3 Warmth – Light Armor Replacer (optional)](#193-warmth--light-armor-replacer-optional)
   - [19.4 aMidianBorn of Silence – Armors](#194-amidianborn-of-silence--armors)
-  - [19.5 aMidianBorn Blade Armor SSE Patch](#195-amidianborn-blade-armor-sse-patch)
-  - [19.6 aMidianBorn Book of Silence – Weapons](#196-amidianborn-book-of-silence--weapons)
-  - [19.7 Frankly HD Silver Sword](#197-frankly-hd-silver-sword)
-  - [19.8 LeanWolf’s Better-Shaped Weapons](#198-leanwolfs-better-shaped-weapons)
-  - [19.9 Open Face Guard Helmets (optional)](#199-open-face-guard-helmets-optional)
-  - [19.10 Open Face Guard Helmets – Plugin Replacer (optional)](#1910-open-face-guard-helmets--plugin-replacer-optional)
-  - [19.11 Frankly HD Stormcloaks and City Guards (optional)](#1911-frankly-hd-stormcloaks-and-city-guards-optional)
-  - [19.12 aMidianBorn Stormcloak Officer Armour (optional)](#1912-amidianborn-stormcloak-officer-armour-optional)
-  - [19.13 Frankly HD Imperial Armor and Weapons](#1913-frankly-hd-imperial-armor-and-weapons)
-  - [19.14 Frankly HD Dawnguard Armor and Weapons (optional)](#1914-frankly-hd-dawnguard-armor-and-weapons-optional)
-  - [19.15 Iron Things (optional)](#1915-iron-things-optional)
-  - [19.16 Elven Weapons for Silence (optional)](#1916-elven-weapons-for-silence-optional)
-  - [19.17 CC’s HD Dwemer Weapons and Armor (optional)](#1917-ccs-hd-dwemer-weapons-and-armor-optional)
-  - [19.18 Frankly HD Thieves Guild Armor (optional)](#1918-frankly-hd-thieves-guild-armor-optional)
-  - [19.19 Frankly HD Shrouded Armor (optional)](#1919-frankly-hd-shrouded-armor-optional)
-  - [19.20 Falmer Weapons for aMidianBorn Book of Silence (optional)](#1920-falmer-weapons-for-amidianborn-book-of-silence-optional)
-  - [19.21 Outlandish Stalhrim (optional)](#1921-outlandish-stalhrim-optional)
-  - [19.22 Outlandish Chitin Armour (optional)](#1922-outlandish-chitin-armour-optional)
-  - [19.23 Ebony Weapons 2017 Retexture (optional)](#1923-ebony-weapons-2017-retexture-optional)
-  - [19.24 Frankly HD Dragonbone and Dragonscale (optional)](#1924-frankly-hd-dragonbone-and-dragonscale-optional)
-  - [19.25 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1925-sunhallowed-and-bloodcursed-arrows--hd-retexture)
+  - [19.5 aMidianBorn Book of Silence – Weapons](#195-amidianborn-book-of-silence--weapons)
+  - [19.6 Frankly HD Silver Sword](#196-frankly-hd-silver-sword)
+  - [19.7 LeanWolf’s Better-Shaped Weapons](#197-leanwolfs-better-shaped-weapons)
+  - [19.8 Open Face Guard Helmets (optional)](#198-open-face-guard-helmets-optional)
+  - [19.9 Open Face Guard Helmets – Plugin Replacer (optional)](#199-open-face-guard-helmets--plugin-replacer-optional)
+  - [19.10 Frankly HD Stormcloaks and City Guards (optional)](#1910-frankly-hd-stormcloaks-and-city-guards-optional)
+  - [19.11 aMidianBorn Stormcloak Officer Armour (optional)](#1911-amidianborn-stormcloak-officer-armour-optional)
+  - [19.12 Frankly HD Imperial Armor and Weapons](#1912-frankly-hd-imperial-armor-and-weapons)
+  - [19.13 Frankly HD Dawnguard Armor and Weapons (optional)](#1913-frankly-hd-dawnguard-armor-and-weapons-optional)
+  - [19.14 Iron Things (optional)](#1914-iron-things-optional)
+  - [19.15 Elven Weapons for Silence (optional)](#1915-elven-weapons-for-silence-optional)
+  - [19.16 CC’s HD Dwemer Weapons and Armor (optional)](#1916-ccs-hd-dwemer-weapons-and-armor-optional)
+  - [19.17 Frankly HD Thieves Guild Armor (optional)](#1917-frankly-hd-thieves-guild-armor-optional)
+  - [19.18 Frankly HD Shrouded Armor (optional)](#1918-frankly-hd-shrouded-armor-optional)
+  - [19.19 Falmer Weapons for aMidianBorn Book of Silence (optional)](#1919-falmer-weapons-for-amidianborn-book-of-silence-optional)
+  - [19.20 Outlandish Stalhrim (optional)](#1920-outlandish-stalhrim-optional)
+  - [19.21 Outlandish Chitin Armour (optional)](#1921-outlandish-chitin-armour-optional)
+  - [19.22 Ebony Weapons 2017 Retexture (optional)](#1922-ebony-weapons-2017-retexture-optional)
+  - [19.23 Frankly HD Dragonbone and Dragonscale (optional)](#1923-frankly-hd-dragonbone-and-dragonscale-optional)
+  - [19.24 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1924-sunhallowed-and-bloodcursed-arrows--hd-retexture)
   - [19.26 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
 - [20. Unique Artifacts](#20-unique-artifacts)
   - [20.1 aMidianBorn Book of Silence – Unique Items](#201-amidianborn-book-of-silence--unique-items)
@@ -3659,13 +3658,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 > The Elven, Glass and Ebony options are skipped as they will be covered by the aMidianBorn Book of Silence – Content Addon later on.
 
-## 19.5 [aMidianBorn Blade Armor SSE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/12963?tab=files)
-
-### Download Instructions
-
-* **Main Files:** aMidianBorn Blades Armor SSE Patch
-
-## 19.6 [aMidianBorn Book of Silence – Weapons](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
+## 19.5 [aMidianBorn Book of Silence – Weapons](https://www.nexusmods.com/skyrim/mods/24909?tab=files)
 
 ### Download Instructions
 
@@ -3692,7 +3685,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 > The meshes folder is completely empty but will cause MO2 to display that the mod contains meshes which may be confusing.
 
-## 19.7 [Frankly HD Silver Sword](https://www.nexusmods.com/skyrim/mods/29563?tab=files)
+## 19.6 [Frankly HD Silver Sword](https://www.nexusmods.com/skyrim/mods/29563?tab=files)
 
 ### Download Instructions
 
@@ -3700,7 +3693,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 > No optimisation necessary as all meshes will be overwritten by the next mod.
 
-## 19.8 [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
+## 19.7 [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
 
 ### Download Instructions
 
@@ -3732,13 +3725,13 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 - **Left-hand Meshes:**
   - No Dual Sheath
 
-## 19.9 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files) (optional)
+## 19.8 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Open Face Guard Helmets
 
-## 19.10 [Open Face Guard Helmets – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
+## 19.9 [Open Face Guard Helmets – Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3746,20 +3739,20 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 > Install this mod if you installed Open Face Guard Helmets. Otherwise skip it.
 
-## 19.11 [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files) (optional)
+## 19.10 [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** UltraHD – Stormcloak and City Guards 2K version
 * **Optional Files:** Fix by SpriterSan for 2k version --- `merge with the main file`
 
-## 19.12 [aMidianBorn Stormcloak Officer Armour](https://www.nexusmods.com/skyrim/mods/45692?tab=files) (optional)
+## 19.11 [aMidianBorn Stormcloak Officer Armour](https://www.nexusmods.com/skyrim/mods/45692?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** aMidianBorn Stormcloak officer
 
-## 19.13 [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files)
+## 19.12 [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files)
 
 ### Download Instructions
 
@@ -3771,7 +3764,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 - Delete the following file(s) and/or folder(s):
   - `meshes\weapons\`
 
-## 19.14 [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files) (optional)
+## 19.13 [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3782,7 +3775,7 @@ The plugin contains one unnecessary edit to a scroll that can potentially confli
 
 * **Texture Resolution:** 2K Resolution
 
-## 19.15 [Iron Things](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files) (optional)
+## 19.14 [Iron Things](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3807,19 +3800,19 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 > There is no need to delete the textures as well. They are in a custom directory that will only be accessed by the mod’s meshes and won’t overwrite any vanilla files or other retextures.
 
-## 19.16 [Elven Weapons for Silence ](https://www.nexusmods.com/skyrimspecialedition/mods/27994?tab=files)(optional)
+## 19.15 [Elven Weapons for Silence ](https://www.nexusmods.com/skyrimspecialedition/mods/27994?tab=files)(optional)
 
 ### Download Instructions
 
 * **Optional Files:** Leanwolf Elven – Default Silver
 
-## 19.17 [CC’s HD Dwemer Weapons and Armor ](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)(optional)
+## 19.16 [CC’s HD Dwemer Weapons and Armor ](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)(optional)
 
 ### Download Instructions
 
 * **Main Files:** CC’s HD Dwemer Weapons and Armor – 2K – 1.0
 
-## 19.18 [Frankly HD Thieves Guild Armor](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files) (optional)
+## 19.17 [Frankly HD Thieves Guild Armor](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3829,7 +3822,7 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 * **Texture Resolution:** 2K Resolution
 
-## 19.19 [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files) (optional)
+## 19.18 [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3840,13 +3833,13 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 * **Texture Resolution:** 2K Resolution
 * **Options:** ~~Oblivion Style~~
 
-## 19.20 [Falmer Weapons for aMidianBorn Book of Silence](https://www.nexusmods.com/skyrim/mods/83950?tab=files) (optional)
+## 19.19 [Falmer Weapons for aMidianBorn Book of Silence](https://www.nexusmods.com/skyrim/mods/83950?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** falmerweapons4BoS
 
-## 19.21 [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562?tab=files) (optional)
+## 19.20 [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562?tab=files) (optional)
 
 ### Download Instructions
 
@@ -3855,33 +3848,31 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 > If you want the vanilla blue colour back for Stalhrim armor, download the **Blue Cubemap** file from the Miscellaneous section.
 
-## 19.22 [Outlandish Chitin Armour](https://www.nexusmods.com/skyrim/mods/70681?tab=files) (optional)
+## 19.21 [Outlandish Chitin Armour](https://www.nexusmods.com/skyrim/mods/70681?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Outlandish Chitin Armour
 
-## 19.23 [Ebony Weapons 2017 Retexture ](https://www.nexusmods.com/skyrimspecialedition/mods/30029?tab=files)(optional)
+## 19.22 [Ebony Weapons 2017 Retexture ](https://www.nexusmods.com/skyrimspecialedition/mods/30029?tab=files)(optional)
 
 ### Download Instructions
 
 * **Main Files:** Special Ebony Shiny Reflective Refractive Reshlective 2k 4k 5k 144Hz Immersive Overhaul Retexture Pack Collection Suite
 
-## 19.24 [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files) (optional)
+## 19.23 [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files) (optional)
 
 ### Download Instructions
 
 * **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
 * **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch --- `merge with the main file`
 
-## 19.25 [Sunhallowed and Bloodcursed Arrows – HD Retexture](https://www.nexusmods.com/skyrim/mods/58118?tab=files)
+## 19.24 [Sunhallowed and Bloodcursed Arrows – HD Retexture](https://www.nexusmods.com/skyrim/mods/58118?tab=files)
 
 ### Download Instructions
 
 * **Optional Files:** bloodcursed arrows 1k
 * **Optional Files:** Sunhallowed arrows 1k
-
-------
 
 ### Porting Instructions
 
@@ -3898,7 +3889,7 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 * Run the mod through SSE NIF Optimizer.
 
-> Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliable fixes all meshes.
+> Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliably fixes all meshes.
 
 ![Separator](../Media/separator.png)
 
