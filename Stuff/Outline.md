@@ -1,0 +1,25 @@
+- GUIDE HUB
+  - Start Here
+  - Wabbajack
+    - About Wabbajack
+    - Quickstart
+    - SE Lists
+    - FAQ
+  - SkyPlus
+    - Getting Started
+    - Introduction to Modding
+    - Modding Basics
+    - Initial Setup
+    - Essential Mods
+  - The Phoenix Flavour
+    - Getting Started
+    - Mod Installation
+    - Finalisation
+    - Customisation
+    - New Game
+  - Appendix
+    - FAQ
+    - Troubleshooting
+    - Future Plans
+    - Contribute
+    - Credits
