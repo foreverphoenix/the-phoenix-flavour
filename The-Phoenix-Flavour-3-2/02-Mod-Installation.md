@@ -680,7 +680,7 @@
 ### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
-  - `textures\effects\gradients\gradwhitewater.dss`
+  - `textures\effects\gradients\gradwhitewater.dds`
   - `Particle Patch for ENB SSE.esp`
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
