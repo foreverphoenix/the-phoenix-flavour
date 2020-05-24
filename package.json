@@ -1,0 +1,29 @@
+{
+  "name": "the-phoenix-flavour",
+  "version": "1.0.0",
+  "description": "Guide for Skyrim modding",
+  "main": "none.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foreverphoenix/the-phoenix-flavour.git"
+  },
+  "keywords": [
+    "Skyrim",
+    "Modding",
+    "Guide"
+  ],
+  "author": "Phoenix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foreverphoenix/the-phoenix-flavour/issues"
+  },
+  "homepage": "https://github.com/foreverphoenix/the-phoenix-flavour#readme"
+}
