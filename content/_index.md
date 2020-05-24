@@ -1,4 +1,13 @@
-![Logo](../Media/tpf_logo.png)
+---
+title: "Home"
+linkTitle: "Home"
+weight: 20
+menu:
+  main:
+    weight: 20
+---
+
+![Logo](Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [Release 3.2](#release-32)
