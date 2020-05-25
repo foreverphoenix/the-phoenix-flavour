@@ -307,7 +307,7 @@
   - [19.22 Ebony Weapons 2017 Retexture (optional)](#1922-ebony-weapons-2017-retexture-optional)
   - [19.23 Frankly HD Dragonbone and Dragonscale (optional)](#1923-frankly-hd-dragonbone-and-dragonscale-optional)
   - [19.24 Sunhallowed and Bloodcursed Arrows – HD Retexture](#1924-sunhallowed-and-bloodcursed-arrows--hd-retexture)
-  - [19.25 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
+  - [19.26 Dragon Priest Weapons Improved (optional)](#1926-dragon-priest-weapons-improved-optional)
 - [20. Unique Artifacts](#20-unique-artifacts)
   - [20.1 aMidianBorn Book of Silence – Unique Items](#201-amidianborn-book-of-silence--unique-items)
   - [20.2 Unique Uniques](#202-unique-uniques)
@@ -1906,8 +1906,7 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 
 ### Download Instructions
 
-- **Main Files:** Frozen Electrocuted Combustion - 3.4
-- **Update Files:**  Frozen Electrocuted Combustion - 3.4.2 (bug fix) --- `merge with the main file`
+- **Main Files:** Frozen Electrocuted Combustion - 3.4.5
 
 ## 8.2 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files)
 
@@ -6344,7 +6343,7 @@ The automated version is a delta patcher to apply the changes automatically to y
 
 ### Download Instructions
 
-* **Main Files:** Papyrus Extender - SSE - 2.5
+* **Main Files:** Papyrus Extender - SSE - 2.6
 
 ## 40.5 [FileAccess Interface for Skyrim SE Scripts (FISSES)](https://www.nexusmods.com/skyrimspecialedition/mods/13956?tab=files)
 
