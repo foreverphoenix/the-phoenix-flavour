@@ -7,7 +7,7 @@ menu:
     weight: 20
 ---
 
-![Logo](Media/tpf_logo.png)
+![Logo](../Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [Release 3.2](#release-32)
