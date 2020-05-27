@@ -1905,6 +1905,7 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 ### Download Instructions
 
 - **Main Files:** Frozen Electrocuted Combustion - 3.4.5
+- **Update Files:** Frozen Electrocuted Combustion - 3.4.6 (update)
 
 ## 8.2 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files)
 
