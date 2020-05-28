@@ -1,4 +1,13 @@
-![Logo](../Media/tpf_logo.png)
+---
+title: "Setup Instructions"
+linkTitle: "Setup Instructions"
+date: 2020-05-28
+weight: 3
+description: >
+  I customised the customisation.
+---
+
+![Logo](/Pictures/Media/tpf_logo.png)
 
 **TABLE OF CONTENTS**
 - [01. Getting Started](#01-getting-started)
@@ -68,6 +77,8 @@
 
 # 01. Getting Started
 
+==Test==
+
 ## 1.1 Requirements
 
 - [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
@@ -87,7 +98,7 @@ By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows E
 - Click the **View** tab at the top.
 - Make sure **File name extensions** is checked.
 
-![File Extensions Visible](/The-Phoenix-Flavour-3-2/Pictures/setup/file_extensions_visible.png)
+![File Extensions Visible](/Pictures/setup/file_extensions_visible.png)
 
 ## 1.3 Your Modding Folder
 
@@ -101,7 +112,7 @@ Throughout the guide I will refer to this folder as **Your Modding Folder**.
 - Name it whatever you like, for example **Skyrim SE Modding**.
 - Add several more new folders inside as shown below:
 
-![Modding Folder](Pictures/setup/modding_folder.png)
+![Modding Folder](/Pictures/setup/modding_folder.png)
 
 ### 1.3.2 Mod Archive
 
@@ -109,7 +120,7 @@ Proper organisation is key when modding Skyrim. You will come back many times to
 
 - Create several more folders inside the **ARCHIVE** folder:
 
-![Archive Folder](Pictures/setup/archive_folder.png)
+![Archive Folder](/Pictures/setup/archive_folder.png)
 
 ## 1.4 Monitor Calibration
 
@@ -154,7 +165,7 @@ The difference between these folders is significant. Do not confuse them.
 | **root folder** | `Steam/steamapps/common/Skyrim Special Edition/`      | contains the executables |
 | **data folder** | `Steam/steamapps/common/Skyrim Special Edition/Data/` | contains the game files  |
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 02. Skyrim SE
 
@@ -215,7 +226,7 @@ The currently supported version of Skyrim SE is: **1.5.97**.
 * Right-click **SkyrimSE.exe** and select **Properties**.
 * Switch to the **Details** tab and check under **Product version**.
 
-![Skyrim SE 1.5.97.0](Pictures/setup/skyrim_se_1_5_97_0.png)
+![Skyrim SE 1.5.97.0](/Pictures/setup/skyrim_se_1_5_97_0.png)
 
 ## 2.6 Disable Auto Updates
 
@@ -228,7 +239,7 @@ However you can continue playing the previous version with SKSE64 and all your m
 * Make sure **Automatic updates** is set to **Only update this game when I launch it**.
 * Problem solved!
 
-![Disable Auto Updates](Pictures/setup/sse_disable_auto_updates.png)
+![Disable Auto Updates](/Pictures/setup/sse_disable_auto_updates.png)
 
 ## 2.7 Executables Backup
 
@@ -261,7 +272,7 @@ Since disabling the Steam Overlay will also prevent you from taking screenshots 
 * Uncheck **Enable the Steam Overlay while in-game**.
 * Close the window.
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 03. The Creation Kit
 
@@ -276,7 +287,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 - Click the **Download** button in the **Bethesda Launcher** section.
 - Double-click the downloaded executable.
 
-![Download Beth Launcher](Pictures/setup/download_beth_launcher.png)
+![Download Beth Launcher](/Pictures/setup/download_beth_launcher.png)
 
 ## 3.2 Installation
 
@@ -288,7 +299,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * The CK should be installed directly into your **root** folder (see picture).
 * Wait for the files to download.
 
-![Creation Kit Installation Path](Pictures/setup/ck_installation_path.png)
+![Creation Kit Installation Path](/Pictures/setup/ck_installation_path.png)
 
 ## 3.3 Disable Auto Updates
 
@@ -296,7 +307,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * Toggle off **Auto Updates**.
 * Close the Bethesda Launcher.
 
-![Disable Auto Updates](Pictures/setup/ck_disable_auto_updates.png)
+![Disable Auto Updates](/Pictures/setup/ck_disable_auto_updates.png)
 
 ## 3.4 Custom INI
 
@@ -333,7 +344,7 @@ The Creation Kit installation includes a **Scripts.zip** which contains all sour
 - The resulting filepath should be:
   - `Skyrim Special Edition\Data\Scripts\Source`
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 04. Mod Organizer 2
 
@@ -350,7 +361,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Confirm when asked to associate NXM links with MO2.
 * Click **No** when prompted with the tutorial option.
 
-![MO2 Choose Instance](Pictures/setup/mo2_choose_instance.png)
+![MO2 Choose Instance](/Pictures/setup/mo2_choose_instance.png)
 
 ## 4.2 Configuration
 
@@ -378,7 +389,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Click **Authorise**. You can revoke this any time in your Nexus settings.
 * Mod Organizer 2 may ask you to restart. Click **OK**.
 
-![Authorise MO2](Pictures/setup/authorise_mo2.png)
+![Authorise MO2](/Pictures/setup/authorise_mo2.png)
 
 ## 4.3 Manage Mod Downloads
 
@@ -394,7 +405,7 @@ Here is where our **ARCHIVE** comes into play, the directory inside **Your Moddi
 * Switch to the **Paths** tab.
 * Point **Downloads** to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 
-![MO2 Archive](Pictures/setup/mo2_archive.png)
+![MO2 Archive](/Pictures/setup/mo2_archive.png)
 
 ## 4.4 User Interface
 
@@ -421,7 +432,7 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 * **Source Game**
 * **Priority**
 
-![MO2 Customized](Pictures/setup/mo2_customised.png)
+![MO2 Customized](/Pictures/setup/mo2_customised.png)
 
 ## 4.5 Custom Profiles
 
@@ -466,7 +477,7 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **pySyncModOrder.py**
 * Confirm when asked to merge the **data** folders.
 
-![Install Deorders Plugins](Pictures/setup/install_deorders_plugins.png)
+![Install Deorders Plugins](/Pictures/setup/install_deorders_plugins.png)
 
 ### 4.6.2 Configuration
 
@@ -492,18 +503,19 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **02 FIXES**
   * **…**
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 05. Skyrim Script Extender
 
 ## 5.1 Download
 
-* Download **[SKSE64](http://skse.silverlock.org/)**. You need build ==**2.0.17**== for the current version of Skyrim SE.
+* Download **[SKSE64](http://skse.silverlock.org/)**. You need build **2.0.17** for the current version of Skyrim SE.
 * Save the downloaded archive to `Your Modding Folder\ARCHIVE\SKSE64`.
+
 
 If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).
 
-![SKSE Download](Pictures/setup/skse_download.png)
+![SKSE Download](/Pictures/setup/skse_download.png)
 
 ## 5.2 Installation
 
@@ -511,7 +523,7 @@ If on the main page for SKSE there is a different version number than the one no
 
 * Extract the archive’s contents to `Your Modding Folder\temp`.
 * Move the following three files into your Skyrim SE **root** folder:
-  * **skse64_**skyrim version number**.dll**
+  * **skse64_skyrim version number.dll**
   * **skse64_loader.exe**
   * **skse64_steam_loader.dll**
 
@@ -548,9 +560,9 @@ If on the main page for SKSE there is a different version number than the one no
 * Type in ``getskseversion`` and hit Enter. It should return the version number of your SKSE64 installation.
 * After confirming that SKSE64 was installed correctly, type **qqq** in the console and hit Enter to quickly close the game.
 
-![Verify SKSE64](Pictures/setup/verify_skse64.jpg)
+![Verify SKSE64](/Pictures/setup/verify_skse64.jpg)
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 06. INI Files
 
@@ -576,7 +588,7 @@ Continue with regenerating the INI files from scratch:
 * A window will come up, informing you that Skyrim SE will now be configured based on your hardware.
 * Click **OK** twice to confirm and hit **Exit** once it’s done.
 
-![Regenerating INIs](Pictures/setup/regenerating_inis.png)
+![Regenerating INIs](/Pictures/setup/regenerating_inis.png)
 
 ## 6.2 Install BethINI
 
@@ -599,7 +611,7 @@ Continue with regenerating the INI files from scratch:
 
 > Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
 
-![BethINI Setup](/The-Phoenix-Flavour-3-2/Pictures/setup/bethini_setup.png)
+![BethINI Setup](/Pictures/setup/bethini_setup.png)
 
 ---
 
@@ -629,7 +641,7 @@ Continue with the fifth tab, **Interface**.
 
 > You can always turn the subtitles back on in the ingame settings.
 
-![BethINI Interface](Pictures/setup/bethini_interface.png)
+![BethINI Interface](/Pictures/setup/bethini_interface.png)
 
 ---
 
@@ -647,7 +659,7 @@ Continue with the sixth tab, **Detail**.
 - **Shadow Resolution:** Set to `2048` (unless your CPU is very slow).
 - **Ambient Occlusion:** Uncheck this in favour of ENB AO.
 
-![BethINI Detail](Pictures/setup/bethini_detail.png)
+![BethINI Detail](/Pictures/setup/bethini_detail.png)
 
 ---
 
@@ -657,7 +669,7 @@ Continue with the seventh tab, **View Distance**.
 
 - **Grass Fade:** Set to `15000` or higher.
 
-![BethINI View Distance](Pictures/setup/bethini_view_distance.png)
+![BethINI View Distance](/Pictures/setup/bethini_view_distance.png)
 
 ---
 
@@ -669,7 +681,7 @@ Continue with the eighth tab, **Visuals**.
 
 > This should eliminate the "black crush" some people are experiencing in Skyrim SE.
 
-![BethINI Visuals](Pictures/setup/bethini_visuals.png)
+![BethINI Visuals](/Pictures/setup/bethini_visuals.png)
 
 ---
 
@@ -679,7 +691,7 @@ Continue with the eighth tab, **Visuals**.
 - Restart Mod Organizer 2.
 - You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 07. Additional Tools
 
@@ -695,7 +707,7 @@ Continue with the eighth tab, **Visuals**.
 * Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEdit.exe**.
 * Click **Apply** to save the new executable.
 
-![Add SSEEdit to MO2](Pictures/setup/add_sseedit_to_mo2.png)
+![Add SSEEdit to MO2](/Pictures/setup/add_sseedit_to_mo2.png)
 
 ### 7.1.2 SSEEdit Cache Output
 
@@ -722,7 +734,7 @@ In order to store the cached files with the program files themselves, we need to
 
 > The **-DontCache** argument will prevent an obscure bug that destroys parts of Apocrypha during the cleaning of Dragonborn.esm.
 
-![Add QuickAutoClean to MO2](Pictures/setup/add_quickautoclean_to_mo2.png)
+![Add QuickAutoClean to MO2](/Pictures/setup/add_quickautoclean_to_mo2.png)
 
 ## 7.2 zEdit
 
@@ -737,7 +749,7 @@ In order to store the cached files with the program files themselves, we need to
 * Navigate to `Your Modding Folder\Tools\zEdit` and double-click **zEdit.exe**.
 * Click **OK** to close the window.
 
-![zEdit Download](Pictures/setup/zedit_download.png)
+![zEdit Download](/Pictures/setup/zedit_download.png)
 
 ### 7.2.2 Configuration
 
@@ -794,7 +806,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Open the downloaded archive and double-click the "Modwatch-win32-ia32" folder within.
 * Extract everything into the new folder.
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 08. ESM Cleaning
 
@@ -856,7 +868,7 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
-![Update ESM Cleaned](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_cleaned.png)
+![Update ESM Cleaned](/Pictures/setup/update_esm_cleaned.png)
 
 ## 8.4 Manual Cleaning - Update ESM
 
@@ -881,7 +893,7 @@ Instructions are copied with permission from Lexy's LOTD.
 - Make sure **Update.esm** is checked, then click **OK**.
 - You’re done!
 
-![Update ESM Manual Edit](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_manual_edit.png)
+![Update ESM Manual Edit](/Pictures/setup/update_esm_manual_edit.png)
 
 ## 8.5 Manual Cleaning - Dawnguard ESM
 
@@ -909,7 +921,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
 
-![ESM Cleaning - Manual Edit](Pictures/setup/esm_cleaning_manual_edit.png)
+![ESM Cleaning - Manual Edit](/Pictures/setup/esm_cleaning_manual_edit.png)
 
 ### 8.5.4 Save Changes
 
@@ -918,7 +930,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 09. Skyrim Realistic Overhaul
 
@@ -951,7 +963,7 @@ Otherwise you can also continue with the Mod Installation section for now as the
 * This will take a while. **Make sure to merge and overwrite when asked.**
 * Eventually you will have a single **textures** folder with the size of a solid **10.2GB**.
 
-![SRO Textures Folder](Pictures/setup/sro_textures_folder.png)
+![SRO Textures Folder](/Pictures/setup/sro_textures_folder.png)
 
 ## 9.3 Processing with CAO
 
@@ -966,7 +978,7 @@ In order to be able to control the mod order of SRO and ensure it can be overwri
 - This will take a while! You can monitor the progress in the **Logs** tab.
 - Wait until the CAO log returns: `[INFO] Process completed`.
 
-![Process SRO in CAO](Pictures/setup/process_sro_in_cao.png)
+![Process SRO in CAO](/Pictures/setup/process_sro_in_cao.png)
 
 ## 9.4 Installation
 
@@ -978,7 +990,7 @@ In order to be able to control the mod order of SRO and ensure it can be overwri
 * **Skyrim Realistic Overhaul** should now appear at the bottom of your mod order.
 * Drag it up all the way below the **MAIN VISUAL MODS** separator and activate it.
 
-![separator](../Media/separator.png)
+![separator](/Pictures/Media/separator.png)
 
 # 10. Mod Installation Instructions
 
