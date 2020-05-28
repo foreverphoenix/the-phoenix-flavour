@@ -77,8 +77,6 @@ description: >
 
 # 01. Getting Started
 
-==Test==
-
 ## 1.1 Requirements
 
 - [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
