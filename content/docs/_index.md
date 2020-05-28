@@ -11,6 +11,7 @@ menu:
 
 **TABLE OF CONTENTS**
 - [Release 3.2](#release-32)
+- [LOOK AT ME I CAN DO WHATEVER I WANT IN HERE!!](#look-at-me-i-can-do-whatever-i-want-in-here)
   - [What's new?](#whats-new)
   - [Setup](#setup)
   - [Mod Installation](#mod-installation)
@@ -19,6 +20,8 @@ menu:
   - [New Game](#new-game)
 
 # Release 3.2
+
+# LOOK AT ME I CAN DO WHATEVER I WANT IN HERE!!
 
 ## What's new?
 
