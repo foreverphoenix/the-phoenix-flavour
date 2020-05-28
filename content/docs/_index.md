@@ -23,6 +23,8 @@ menu:
 
 # LOOK AT ME I CAN DO WHATEVER I WANT IN HERE!!
 
+am not funny
+
 ## What's new?
 
 **Disclaimer:** Release 3.2 is fairly substantial so I am bound to have missed some changes and not everything is fully documented. Installing the guide from scratch is required.
