@@ -2,7 +2,7 @@
 title: "Setup Instructions"
 linkTitle: "Setup Instructions"
 date: 2020-05-28
-weight: 3
+weight: 4
 description: >
   I customised the customisation.
 ---
