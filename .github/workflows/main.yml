@@ -20,18 +20,24 @@ jobs:
         with:
           node-version: '12.x'
 
-      - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - run: npm ci
+      - run: hugo --minify
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PAGES_TOKEN }}
           external_repository: foreverphoenix/foreverphoenix.github.io
           publish_dir: ./public
-          #   keep_files: true
           user_name: foreverphoenix
           user_email: admin@thephoenixflavour.com
           publish_branch: master
-        #   cname: example.com
+         #cname: example.com
