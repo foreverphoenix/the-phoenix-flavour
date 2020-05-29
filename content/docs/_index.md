@@ -25,6 +25,8 @@ menu:
 
 am not funny
 
+test
+
 ## What's new?
 
 **Disclaimer:** Release 3.2 is fairly substantial so I am bound to have missed some changes and not everything is fully documented. Installing the guide from scratch is required.
