@@ -15,14 +15,14 @@ $black:    #000 !default;
 // Material Scheme Colors
 
 $primary-main:    #54919e !default;
-$primary-light:   #84c1cf !default;
-$primary-dark:    #226370 !default;
-$primary-text:    #000000 !default;
+$primary-light:   #55b6c9 !default;
+$primary-dark:    #163440 !default;
+$primary-text:    #FFFFFF !default;
 
-$secondary-main:  #424242 !default;
-$secondary-light: #6d6d6d !default;
+$secondary-main:  #163440 !default;
+$secondary-light: #235163 !default;
 $secondary-dark:  #1b1b1b !default;
-$secondary-text:  #ffffff !default;
+$secondary-text:  #FFFFFF !default;
 
 // Theme colours
 
@@ -32,12 +32,12 @@ $secondary: $secondary-main !default;
 
 // UI element colors
 
-$border-color: #484848;
+$border-color: darken($secondary-main, 10%);
 $td-sidebar-border-color: $secondary-dark;
 
 // Body
 
-$body-bg: darken($secondary-light, 22%) !default;
+$body-bg: darken($secondary-main, 5%) !default;
 $body-color: $white !default;
 
 // Sidebar
@@ -51,7 +51,7 @@ $td-sidebar-hover-color: saturate($primary-light, 10%) !default;
 
 $td-toc-text-color: $secondary-text;
 $td-toc-text-hover-color: $primary-light;
-$td-toc-bg-color: $secondary-main;
+$td-toc-bg-color: desaturate($primary-dark, 10%);
 
 // Links
 // Only affects text links and breadcrumbs, not the sidebars.
