@@ -17,36 +17,32 @@
     var body = document.body;
 	var switcher = document.getElementsByClassName('js-toggle')[0];
 
-	//Click on dark mode icon. Add dark mode classes and wrappers. Store user preference through sessions
+    body.classList.add('theme--default');
+
+	//Click on light mode icon. Add light mode classes and wrappers. Store user preference through sessions
 	switcher.addEventListener("click", function() {
         this.classList.toggle('js-toggle--checked');
         this.classList.add('js-toggle--focus');
-		//If dark mode is selected
+		//If light mode is selected
 		if (this.classList.contains('js-toggle--checked')) {
-			body.classList.add('dark-mode');
+			body.classList.add('theme--light');
+			body.classList.remove('theme--default');
 			//Save user preference in storage
-			localStorage.setItem('darkMode', 'true');
+			localStorage.setItem('lightMode', 'true');
 		} else {
-			body.classList.remove('dark-mode');
+			body.classList.remove('theme--light');
+			body.classList.add('theme--default');
 			setTimeout(function() {
-				localStorage.removeItem('darkMode');
+				localStorage.removeItem('lightMode');
 			}, 100);
 		}
 	})
 
 	//Check Storage. Keep user preference on page reload
-	if (localStorage.getItem('darkMode')) {
-		//body.classList.add('dark-mode');
+	if (localStorage.getItem('lightMode')) {
         switcher.classList.add('js-toggle--checked');
-        body.classList.add('dark-mode');
+        body.classList.add('theme--light');
+        body.classList.remove('theme--default');
 	}
 
 </script>
-
-<style>
-	body.dark-mode, 
-	body.dark-mode main * {
-	    background: #FFFFFF;
-	    color: #000000;
-	}
-</style>

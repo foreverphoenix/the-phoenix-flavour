@@ -2,8 +2,10 @@
 // Right side toc
 //
 .td-toc {
-    border-left: 1px solid $border-color;
-    background-color: $td-toc-bg-color;
+  @include themed() {
+    border-left: 1px solid t($theme-border-color);
+    background-color: t($theme-td-toc-bg-color);
+  }
 
     @supports (position: sticky) {
         position: sticky;
@@ -43,11 +45,15 @@
         > ul > li > ul > li > a {}
 
         a {
-            color: $td-toc-text-color;
+          @include themed() {
+            color: t($theme-td-toc-text-color);
+          }
 
             &:hover {
-                color: $td-toc-text-hover-color;
-                text-decoration: none;
+              @include themed() {
+                color: t($theme-td-toc-text-hover-color);
+              }
+              text-decoration: none;
             }
         }
     }
