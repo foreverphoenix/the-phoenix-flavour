@@ -63,20 +63,20 @@ The currently supported version of Skyrim SE is: **1.5.97**.
 * Right-click **SkyrimSE.exe** and select **Properties**.
 * Switch to the **Details** tab and check under **Product version**.
 
-![Skyrim SE 1.5.97.0](Pictures/setup/skyrim_se_1_5_97_0.png)
+![Skyrim SE 1.5.97.0](/Pictures/setup/skyrim_se_1_5_97_0.png)
 
 ## 2.6 Disable Auto Updates
 
-When Skyrim SE receives another update – which happens regularly because of the Creation Club – SKSE64 and all SKSE plugins will need to be updated as well. This usually takes around a week at least.
+When Skyrim SE receives another update - which, thanks to the Creation Club, happens every once in a while - SKSE64 and all SKSE plugins will need to be updated as well. This usually takes at least a week.
 
-However you can continue playing the previous version with SKSE64 and all your mods by simply setting Skyrim SE to only update when launching the game – since you start the game through the SKSE64 launcher, Steam will never update.
+However, you can continue playing the previous version with SKSE64 and all your mods by simply setting Skyrim SE to only update when launching the game. Since you start the game through the SKSE64 launcher, Steam will never update.
 
 * Open Steam and find **The Elder Scrolls V: Skyrim Special Edition** in your **Game Library**.
 * Right-click it, select **Properties** and switch to the **Updates** tab.
 * Make sure **Automatic updates** is set to **Only update this game when I launch it**.
 * Problem solved!
 
-![Disable Auto Updates](Pictures/setup/sse_disable_auto_updates.png)
+![Disable Auto Updates](/Pictures/setup/sse_disable_auto_updates.png)
 
 ## 2.7 Executables Backup
 

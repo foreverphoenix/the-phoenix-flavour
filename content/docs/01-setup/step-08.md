@@ -64,7 +64,7 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
-![Update ESM Cleaned](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_cleaned.png)
+![Update ESM Cleaned](/Pictures/setup/update_esm_cleaned.png)
 
 ## 8.4 Manual Cleaning - Update ESM
 
@@ -89,7 +89,7 @@ Instructions are copied with permission from Lexy's LOTD.
 - Make sure **Update.esm** is checked, then click **OK**.
 - You’re done!
 
-![Update ESM Manual Edit](/The-Phoenix-Flavour-3-2/Pictures/setup/update_esm_manual_edit.png)
+![Update ESM Manual Edit](/Pictures/setup/update_esm_manual_edit.png)
 
 ## 8.5 Manual Cleaning - Dawnguard ESM
 
@@ -117,7 +117,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
 
-![ESM Cleaning - Manual Edit](Pictures/setup/esm_cleaning_manual_edit.png)
+![ESM Cleaning - Manual Edit](/Pictures/setup/esm_cleaning_manual_edit.png)
 
 ### 8.5.4 Save Changes
 

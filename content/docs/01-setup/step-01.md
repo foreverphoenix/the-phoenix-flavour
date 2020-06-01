@@ -15,7 +15,7 @@ description: >
 - Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
 - A free (or Premium) account on [Nexus Mods](https://www.nexusmods.com/).
 
-> With a **Nexus Premium** subscription you will be able to complete the guide in significantly less time since you will benefit from the uncapped download speeds (which obviously depend on your internet connection as well). A one month subscription costs £2.99, giving you more than enough time to complete the guide.
+> With a **Nexus Premium** subscription you will be able to complete the guide in significantly less time since you will benefit from the uncapped download speeds. Of course the actual download speeds will depend on your internet connection as well. A one-month subscription costs £2.99, giving you more than enough time to complete the guide.
 
 ## 1.2 Show File Extensions
 
@@ -25,7 +25,7 @@ By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows E
 - Click the **View** tab at the top.
 - Make sure **File name extensions** is checked.
 
-![File Extensions Visible](/The-Phoenix-Flavour-3-2/Pictures/setup/file_extensions_visible.png)
+![File Extensions Visible](/Pictures/setup/file_extensions_visible.png)
 
 ## 1.3 Your Modding Folder
 
@@ -39,7 +39,7 @@ Throughout the guide I will refer to this folder as **Your Modding Folder**.
 - Name it whatever you like, for example **Skyrim SE Modding**.
 - Add several more new folders inside as shown below:
 
-![Modding Folder](Pictures/setup/modding_folder.png)
+![Modding Folder](/Pictures/setup/modding_folder.png)
 
 ### 1.3.2 Mod Archive
 
@@ -47,7 +47,7 @@ Proper organisation is key when modding Skyrim. You will come back many times to
 
 - Create several more folders inside the **ARCHIVE** folder:
 
-![Archive Folder](Pictures/setup/archive_folder.png)
+![Archive Folder](/Pictures/setup/archive_folder.png)
 
 ## 1.4 Monitor Calibration
 
@@ -83,7 +83,7 @@ Before we finally jump into the actual guide, here are some critical pieces of i
 
 - **About additional mods:** Please wait until **after** you finished and tested your setup before adding more mods, otherwise you will no longer be eligible to receive support on our Discord server should you need it. We do not - and cannot - offer support for setups that are not 100% TPF. This includes **Creation Club** content.
 
-## 1.5.2 Terminology
+### 1.5.2 Terminology
 
 The difference between these folders is significant. Do not confuse them.
 

@@ -3,17 +3,17 @@ title: "Skyrim Script Extender"
 weight: 5
 type: docs
 description: >
-  Setting up and configuring Mod Organizer 2.
+  Properly installing the Skyrim Script Extender.
 ---
 
 ## 5.1 Download
 
-* Download **[SKSE64](http://skse.silverlock.org/)**. You need build ==**2.0.17**== for the current version of Skyrim SE.
+* Download [SKSE64](http://skse.silverlock.org/). You need build **2.0.17** for the current version of Skyrim SE.
 * Save the downloaded archive to `Your Modding Folder\ARCHIVE\SKSE64`.
 
 If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).
 
-![SKSE Download](Pictures/setup/skse_download.png)
+![SKSE Download](/Pictures/setup/skse_download.png)
 
 ## 5.2 Installation
 
@@ -58,4 +58,4 @@ If on the main page for SKSE there is a different version number than the one no
 * Type in ``getskseversion`` and hit Enter. It should return the version number of your SKSE64 installation.
 * After confirming that SKSE64 was installed correctly, type **qqq** in the console and hit Enter to quickly close the game.
 
-![Verify SKSE64](Pictures/setup/verify_skse64.jpg)
+![Verify SKSE64](/Pictures/setup/verify_skse64.jpg)

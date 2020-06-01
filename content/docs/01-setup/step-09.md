@@ -35,7 +35,7 @@ Otherwise you can also continue with the Mod Installation section for now as the
 * This will take a while. **Make sure to merge and overwrite when asked.**
 * Eventually you will have a single **textures** folder with the size of a solid **10.2GB**.
 
-![SRO Textures Folder](Pictures/setup/sro_textures_folder.png)
+![SRO Textures Folder](/Pictures/setup/sro_textures_folder.png)
 
 ## 9.3 Processing with CAO
 
@@ -50,7 +50,7 @@ In order to be able to control the mod order of SRO and ensure it can be overwri
 - This will take a while! You can monitor the progress in the **Logs** tab.
 - Wait until the CAO log returns: `[INFO] Process completed`.
 
-![Process SRO in CAO](Pictures/setup/process_sro_in_cao.png)
+![Process SRO in CAO](/Pictures/setup/process_sro_in_cao.png)
 
 ## 9.4 Installation
 

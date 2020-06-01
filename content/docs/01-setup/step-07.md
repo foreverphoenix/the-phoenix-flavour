@@ -10,7 +10,7 @@ description: >
 
 ### 7.1.1 Installation
 
-* Download **[SSEEdit ](https://www.nexusmods.com/skyrimspecialedition/mods/164/)**manually from the Nexus.
+* Download [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164/) manually from the Nexus.
 * Create a new folder: `Your Modding Folder\Tools\SSEEdit`.
 * Open the downloaded archive and extract everything into the new folder.
 * Open Mod Organizer 2 and go into the **Executables** settings (Tools > Executables or CTRL + E).
@@ -18,7 +18,7 @@ description: >
 * Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEdit.exe**.
 * Click **Apply** to save the new executable.
 
-![Add SSEEdit to MO2](Pictures/setup/add_sseedit_to_mo2.png)
+![Add SSEEdit to MO2](/Pictures/setup/add_sseedit_to_mo2.png)
 
 ### 7.1.2 SSEEdit Cache Output
 
@@ -45,7 +45,7 @@ In order to store the cached files with the program files themselves, we need to
 
 > The **-DontCache** argument will prevent an obscure bug that destroys parts of Apocrypha during the cleaning of Dragonborn.esm.
 
-![Add QuickAutoClean to MO2](Pictures/setup/add_quickautoclean_to_mo2.png)
+![Add QuickAutoClean to MO2](/Pictures/setup/add_quickautoclean_to_mo2.png)
 
 ## 7.2 zEdit
 
@@ -60,7 +60,7 @@ In order to store the cached files with the program files themselves, we need to
 * Navigate to `Your Modding Folder\Tools\zEdit` and double-click **zEdit.exe**.
 * Click **OK** to close the window.
 
-![zEdit Download](Pictures/setup/zedit_download.png)
+![zEdit Download](/Pictures/setup/zedit_download.png)
 
 ### 7.2.2 Configuration
 

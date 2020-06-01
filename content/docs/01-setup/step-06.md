@@ -29,11 +29,11 @@ Continue with regenerating the INI files from scratch:
 * A window will come up, informing you that Skyrim SE will now be configured based on your hardware.
 * Click **OK** twice to confirm and hit **Exit** once it’s done.
 
-![Regenerating INIs](Pictures/setup/regenerating_inis.png)
+![Regenerating INIs](/Pictures/setup/regenerating_inis.png)
 
 ## 6.2 Install BethINI
 
-* Download the latest version of **[BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)** manually from the Nexus.
+* Download the latest version of [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) manually from the Nexus.
 * Extract the downloaded archive to `Your Modding Folder\Tools\BethINI`.
 * Close Mod Organizer 2.
 * Double-click **BethINI.exe**.
@@ -52,9 +52,7 @@ Continue with regenerating the INI files from scratch:
 
 > Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
 
-![BethINI Setup](/The-Phoenix-Flavour-3-2/Pictures/setup/bethini_setup.png)
-
----
+![BethINI Setup](/Pictures/setup/bethini_setup.png)
 
 ### 6.3.2 BethINI - Basic
 
@@ -68,9 +66,7 @@ Continue with the second tab, **Basic**.
 
 > Note that 1920x1080 is the recommended resolution. The performance impact of 1440p over 1080p is considerable.
 
-![BethINI Basic](/The-Phoenix-Flavour-3-2/Pictures/setup/bethini_basic.png)
-
----
+![BethINI Basic](/Pictures/setup/bethini_basic.png)
 
 ### 6.3.3 BethINI - Interface
 
@@ -82,9 +78,7 @@ Continue with the fifth tab, **Interface**.
 
 > You can always turn the subtitles back on in the ingame settings.
 
-![BethINI Interface](Pictures/setup/bethini_interface.png)
-
----
+![BethINI Interface](/Pictures/setup/bethini_interface.png)
 
 ### 6.3.4 BethINI - Detail
 
@@ -100,9 +94,7 @@ Continue with the sixth tab, **Detail**.
 - **Shadow Resolution:** Set to `2048` (unless your CPU is very slow).
 - **Ambient Occlusion:** Uncheck this in favour of ENB AO.
 
-![BethINI Detail](Pictures/setup/bethini_detail.png)
-
----
+![BethINI Detail](/Pictures/setup/bethini_detail.png)
 
 ### 6.3.5 BethINI - View Distance
 
@@ -110,9 +102,7 @@ Continue with the seventh tab, **View Distance**.
 
 - **Grass Fade:** Set to `15000` or higher.
 
-![BethINI View Distance](Pictures/setup/bethini_view_distance.png)
-
----
+![BethINI View Distance](/Pictures/setup/bethini_view_distance.png)
 
 ### 6.3.6 BethINI - Visuals
 
@@ -122,9 +112,7 @@ Continue with the eighth tab, **Visuals**.
 
 > This should eliminate the "black crush" some people are experiencing in Skyrim SE.
 
-![BethINI Visuals](Pictures/setup/bethini_visuals.png)
-
----
+![BethINI Visuals](/Pictures/setup/bethini_visuals.png)
 
 ## 6.4 Save Changes
 

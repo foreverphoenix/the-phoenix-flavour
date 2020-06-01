@@ -8,17 +8,13 @@ description: >
 
 ## Address Library for SKSE Plugins
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
 - **Main Files:** All in one
 
 ## SSE Engine Fixes
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
 - **Main Files:** (Part 1) Engine Fixes
 
@@ -43,33 +39,25 @@ description: >
 
 ## .NET Script Framework (NSF)
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
 - **Main Files:** NetScriptFramework SkyrimSE v13
 
 ## SSE Display Tweaks
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
 - **Main Files:** SSE Display Tweaks
 
 ## Autorun Console Commands (ACC)
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
 
 - **Main Files:** ACC - Autorun Console Commands
 
 ## Unofficial High Definition Audio Project
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)
 
 - **Main Files:** Music - HQ
 - **Main Files:** Voices EN - Part 1
@@ -77,9 +65,7 @@ description: >
 
 ## Unofficial Skyrim Special Edition Patch (USSEP)
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
 - **Main Files:** Unofficial Skyrim Special Edition Patch
 
@@ -90,24 +76,20 @@ description: >
 
 ## Alternate Start - Live Another Life (AS LAL)
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
 
 - **Main Files:** Alternate Start - Live Another Life
 
 ## Skyrim Particle Patch
 
-<button type="button" class="btn btn-primary">[Download](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)</button>
-
-#### Installation Instructions
+#### [Download Instructions](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 - Find the **SPECIAL EDITION** section in the forum post linked above and click the **GOOGLE DRIVE** link (see picture).
 - Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
 - I recommend renaming it simply to **Skyrim Particle Patch** after the installation.
 
-![Skyrim Particle Patch download link](Pictures/mod_installation/skyrim_particle_patch_download.png)
+![Skyrim Particle Patch download link](/Pictures/mod_installation/skyrim_particle_patch_download.png)
 
 #### Additional Instructions
 
@@ -117,11 +99,9 @@ description: >
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
 
-## [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files)
+## Static Mesh Improvement Mod (SMIM)
 
-<button type="button" class="btn btn-primary">[Download](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)</button>
-
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
 - **Main Files:** SMIM SE 2-08
 

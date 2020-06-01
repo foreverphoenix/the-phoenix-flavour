@@ -10,7 +10,7 @@ description: >
 
 Installing MO2 with a portable instance means all of its subdirectories will be located inside the MO2 root folder which is required for some modding tools to work properly.
 
-* Download **[Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)** (the **Archive** version) manually from the Nexus.
+* Download [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) (the **Archive** version) manually from the Nexus.
 * Extract the archive to a new folder on the same hard drive as your Skyrim SE installation, outside the UAC protected folders.
 * Run **ModOrganizer.exe**.
 * A window will come up – select **Portable** (see picture below).
@@ -19,7 +19,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Confirm when asked to associate NXM links with MO2.
 * Click **No** when prompted with the tutorial option.
 
-![MO2 Choose Instance](Pictures/setup/mo2_choose_instance.png)
+![MO2 Choose Instance](/Pictures/setup/mo2_choose_instance.png)
 
 ## 4.2 Configuration
 
@@ -47,7 +47,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Click **Authorise**. You can revoke this any time in your Nexus settings.
 * Mod Organizer 2 may ask you to restart. Click **OK**.
 
-![Authorise MO2](Pictures/setup/authorise_mo2.png)
+![Authorise MO2](/Pictures/setup/authorise_mo2.png)
 
 ## 4.3 Manage Mod Downloads
 
@@ -63,7 +63,7 @@ Here is where our **ARCHIVE** comes into play, the directory inside **Your Moddi
 * Switch to the **Paths** tab.
 * Point **Downloads** to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 
-![MO2 Archive](Pictures/setup/mo2_archive.png)
+![MO2 Archive](/Pictures/setup/mo2_archive.png)
 
 ## 4.4 User Interface
 
@@ -90,7 +90,7 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 * **Source Game**
 * **Priority**
 
-![MO2 Customized](Pictures/setup/mo2_customised.png)
+![MO2 Customized](/Pictures/setup/mo2_customised.png)
 
 ## 4.5 Custom Profiles
 
@@ -135,7 +135,7 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **pySyncModOrder.py**
 * Confirm when asked to merge the **data** folders.
 
-![Install Deorders Plugins](Pictures/setup/install_deorders_plugins.png)
+![Install Deorders Plugins](/Pictures/setup/install_deorders_plugins.png)
 
 ### 4.6.2 Configuration
 
@@ -149,7 +149,7 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
 
 ## 4.7 Separators
 
-* Download the **[The Phoenix Flavour - MO2 Separator Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223)** manually from the Nexus.
+* Download the [The Phoenix Flavour - MO2 Separator Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223) manually from the Nexus.
 * Open the downloaded archive.
 * Extract all folders ending on **_separator** to `Mod Organizer 2\mods`.
 * Switch back to Mod Organizer 2 and press F5 to refresh. The new separators will now appear in your mod order.

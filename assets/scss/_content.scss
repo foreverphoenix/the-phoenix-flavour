@@ -12,10 +12,13 @@
   > h1 {
     font-weight: $font-weight-bold;
     margin-bottom: 1rem;
+    font-size: 2.7rem;
   }
 
   > h2 {
     margin-bottom: 1rem;
+    font-weight: $font-weight-bold;
+    font-size: 1.9rem;
   }
 
   > h2:not(:first-child) {

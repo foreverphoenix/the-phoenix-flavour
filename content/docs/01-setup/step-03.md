@@ -17,7 +17,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 - Click the **Download** button in the **Bethesda Launcher** section.
 - Double-click the downloaded executable.
 
-![Download Beth Launcher](Pictures/setup/download_beth_launcher.png)
+![Download Beth Launcher](/Pictures/setup/download_beth_launcher.png)
 
 ## 3.2 Installation
 
@@ -29,7 +29,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * The CK should be installed directly into your **root** folder (see picture).
 * Wait for the files to download.
 
-![Creation Kit Installation Path](Pictures/setup/ck_installation_path.png)
+![Creation Kit Installation Path](/Pictures/setup/ck_installation_path.png)
 
 ## 3.3 Disable Auto Updates
 
@@ -37,20 +37,20 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * Toggle off **Auto Updates**.
 * Close the Bethesda Launcher.
 
-![Disable Auto Updates](Pictures/setup/ck_disable_auto_updates.png)
+![Disable Auto Updates](/Pictures/setup/ck_disable_auto_updates.png)
 
 ## 3.4 Custom INI
 
 The custom INI file will allow you to load mods with multiple master files as well as fix some Creation Kit issues and crashes.
 
-* Download this tweaked **[Creation Kit Custom INI](https://www.nexusmods.com/skyrimspecialedition/mods/19817)** (the main file) manually from the Nexus.
+* Download this tweaked [Creation Kit Custom INI](https://www.nexusmods.com/skyrimspecialedition/mods/19817) (the main file) manually from the Nexus.
 * Extract the INI file into your **root** folder.
 
 ## 3.5 Creation Kit Fixes
 
 It’s Bethesda, what did you expect?
 
-- Download **[SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061)** (CK64 Fixes release 2.x) manually from the Nexus.
+- Download [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) (CK64 Fixes release 2.x) manually from the Nexus.
 - Extract the three DLL files and the INI into your **root** folder.
 - **Optional:** Move the archive to `Your Modding Folder\ARCHIVE\CK Fixes` to keep as a backup.
 

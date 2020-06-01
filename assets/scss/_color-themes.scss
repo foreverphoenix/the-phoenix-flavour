@@ -19,12 +19,12 @@ $themes: (
 
           // Sidebar
                 theme-td-sidebar-bg-color: desaturate($primary-dark, 10%),
-                theme-td-sidebar-text-color: $secondary-text,
+                theme-td-sidebar-text-color: darken($secondary-text, 30%),
                 theme-td-sidebar-link-color: darken($secondary-text, 10%),
                 theme-td-sidebar-hover-color: saturate($primary-light, 10%),
 
           //Table of Contents
-                theme-td-toc-text-color: $secondary-text,
+                theme-td-toc-text-color: $secondary-dark,
                 theme-td-toc-text-hover-color: $primary-light,
                 theme-td-toc-bg-color: desaturate($primary-dark, 10%),
 
@@ -47,7 +47,7 @@ $themes: (
                 theme-dark: $white,
 
           // Theme colours
-                theme-primary: darken($primary-light, 10%),
+                theme-primary: $primary-dark,
                 theme-primary-light: lighten($primary-dark, 75%),
                 theme-secondary: $secondary-main,
 
@@ -56,23 +56,23 @@ $themes: (
                 theme-td-sidebar-border-color: $secondary-main,
 
           // Body
-                theme-body-bg: darken($white, 5%),
+                theme-body-bg: darken($white, 30%),
                 theme-body-color: $primary-dark,
 
           // Sidebar
-                theme-td-sidebar-bg-color: desaturate($secondary-text, 10%),
+                theme-td-sidebar-bg-color: desaturate($primary-light, 30%),
                 theme-td-sidebar-text-color: $primary-dark,
                 theme-td-sidebar-link-color: darken($primary, 10%),
-                theme-td-sidebar-hover-color: saturate($primary-dark, 10%),
+                theme-td-sidebar-hover-color: darken($primary-light, 30%),
 
           //Table of Contents
                 theme-td-toc-text-color: $secondary-text,
                 theme-td-toc-text-hover-color: $primary-light,
-                theme-td-toc-bg-color: desaturate($primary-light, 10%),
+                theme-td-toc-bg-color: desaturate($secondary-text, 10%),
 
           // Links
           // Only affects text links and breadcrumbs, not the sidebars.
-                theme-link-color: $primary-light,
+                theme-link-color: darken($primary-main, 10%),
                 theme-link-decoration: none,
                 theme-link-hover-color: lighten($link-color, 15%),
                 theme-link-hover-decoration: none,
