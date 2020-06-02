@@ -21,7 +21,7 @@ If on the main page for SKSE there is a different version number than the one no
 
 * Extract the archive’s contents to `Your Modding Folder\temp`.
 * Move the following three files into your Skyrim SE **root** folder:
-  * **skse64_**skyrim version number**.dll**
+  * **skse64_skyrim version number.dll**
   * **skse64_loader.exe**
   * **skse64_steam_loader.dll**
 

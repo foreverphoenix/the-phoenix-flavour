@@ -1,6 +1,6 @@
 ---
-title: "Full Guide"
-linkTitle: "Full Guide"
+title: "Skyrim SE"
+linkTitle: "Skyrim SE"
 weight: 1
 menu:
   main:

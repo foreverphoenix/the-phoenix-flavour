@@ -6,13 +6,13 @@ description: >
   Basic mods and frameworks.
 ---
 
-## Address Library for SKSE Plugins
+## 1.1 Address Library for SKSE Plugins
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
 - **Main Files:** All in one
 
-## SSE Engine Fixes
+## 1.2 SSE Engine Fixes
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 
@@ -37,25 +37,25 @@ description: >
   * `SleepWaitTime = true`
 * Close the window and click **Yes** when asked to save your change.
 
-## .NET Script Framework (NSF)
+## 1.3 .NET Script Framework (NSF)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
 - **Main Files:** NetScriptFramework SkyrimSE v13
 
-## SSE Display Tweaks
+## 1.4 SSE Display Tweaks
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
 - **Main Files:** SSE Display Tweaks
 
-## Autorun Console Commands (ACC)
+## 1.5 Autorun Console Commands (ACC)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
 
 - **Main Files:** ACC - Autorun Console Commands
 
-## Unofficial High Definition Audio Project
+## 1.6 Unofficial High Definition Audio Project
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)
 
@@ -63,7 +63,7 @@ description: >
 - **Main Files:** Voices EN - Part 1
 - **Main Files:** Voices EN - Part 2
 
-## Unofficial Skyrim Special Edition Patch (USSEP)
+## 1.7 Unofficial Skyrim Special Edition Patch (USSEP)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
@@ -74,13 +74,13 @@ description: >
 - Delete the following file(s) and/or folder(s):
   * `Unofficial Skyrim Special Edition Patch.modgroups`
 
-## Alternate Start - Live Another Life (AS LAL)
+## 1.8 Alternate Start - Live Another Life (AS LAL)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
 
 - **Main Files:** Alternate Start - Live Another Life
 
-## Skyrim Particle Patch
+## 1.9 Skyrim Particle Patch
 
 #### [Download Instructions](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
@@ -99,7 +99,7 @@ description: >
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
 
-## Static Mesh Improvement Mod (SMIM)
+## 1.10 Static Mesh Improvement Mod (SMIM)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
 

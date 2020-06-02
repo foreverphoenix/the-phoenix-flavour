@@ -1,18 +1,18 @@
 ---
 title: "Credits"
-weight: 2
+weight: 4
 type: docs
 description: >
   Acknowledgements for everyone involved in the creation of the guide.
 ---
 
-### The team
+### The Team
 
 - **Phoenix** - that's me! - published the guide initially way back in 2017 and stuck with it since. I do all the writing, basically.
 - **Umgak** is in charge of all our custom patches, conflict resolution and consistency edits.
 - **Lively** created and maintains the Wabbajack installer for TPF, and puts up with all the related help requests.
 
-### Past and present contributors
+### Past & Present Contributors
 
 - Faron
 - Madi
@@ -21,15 +21,18 @@ description: >
 - D1Z4STR
 - zDas
 - jdsmith2816
+- Nth
+- Raven
+- nihues
 
-### The website
+### The Website
 
 - Thanks to **Step** for setting up Hugo and Docsy, for creating the dark theme, and for putting up with my constant pestering and feature requests.
 - Thanks to **Kai** for implementing the theme toggle so that alsa and I and that one other user can use light mode, yay!
 - Thanks to **vaecors** for reminding me that Hugo would work perfectly with the markdown version of the guide and supporting us in setting it up.
 - Thanks to **erri120** without whom I might never have tried Github which turned out to be the perfect solution.
 
-### Further acknowledgements
+### Further Acknowledgements
 
 - Thanks to **Lexy** whose guide inspired me in many ways and with whom I've enjoyed some great conversations about the woes of maintaining a modding guide.
 - Thanks to **halgari** and the Wabbajack team with whom we've been in touch since its inception and who have been very accomodating and supportive.

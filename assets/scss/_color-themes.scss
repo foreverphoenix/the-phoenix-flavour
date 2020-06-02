@@ -24,7 +24,7 @@ $themes: (
                 theme-td-sidebar-hover-color: saturate($primary-light, 10%),
 
           //Table of Contents
-                theme-td-toc-text-color: $secondary-dark,
+                theme-td-toc-text-color: darken($secondary-text, 10%),
                 theme-td-toc-text-hover-color: $primary-light,
                 theme-td-toc-bg-color: desaturate($primary-dark, 10%),
 
@@ -68,11 +68,11 @@ $themes: (
           //Table of Contents
                 theme-td-toc-text-color: $secondary-text,
                 theme-td-toc-text-hover-color: $primary-light,
-                theme-td-toc-bg-color: desaturate($secondary-text, 10%),
+                theme-td-toc-bg-color: saturate($primary-dark, 30%),
 
           // Links
           // Only affects text links and breadcrumbs, not the sidebars.
-                theme-link-color: darken($primary-main, 10%),
+                theme-link-color: darken($primary-text, 10%),
                 theme-link-decoration: none,
                 theme-link-hover-color: lighten($link-color, 15%),
                 theme-link-hover-decoration: none,

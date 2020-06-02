@@ -3,10 +3,10 @@ title: "Fixes"
 weight: 1
 type: docs
 description: >
-  Fixes for any issues / bugs that the USSEP doesn't touch.
+  Fixes for any issues or inconsistencies untouched by the USSEP.
 ---
 
-## Weapons, Armor, Clothing and Clutter Fixes (WACCF) 
+## 2.1 Weapons, Armor, Clothing and Clutter Fixes (WACCF) 
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=files)
 
