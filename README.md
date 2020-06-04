@@ -1,4 +1,4 @@
-![Logo](Media/tpf_logo.png)
+![Logo](/Pictures/tpf_logo.png)
 
 ## The Phoenix Flavour
 
