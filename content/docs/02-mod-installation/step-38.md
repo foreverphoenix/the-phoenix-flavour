@@ -3,7 +3,7 @@ title: "ENB Particle Lights"
 weight: 38
 type: docs
 description: >
-  Retextures for ingestibles.
+  Meshes edited for the Complex Particle Lights feature of ENBSeries.
 ---
 
 ## 38.1 ENB Light

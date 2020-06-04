@@ -3,7 +3,7 @@ title: "Quality of Life Improvements"
 weight: 31
 type: docs
 description: >
-  Retextures for ingestibles.
+  General improvements to help with certain annoyances.
 ---
 
 ## 31.1 The Choice Is Yours (TCIY)

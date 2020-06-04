@@ -3,7 +3,7 @@ title: "Interface"
 weight: 4
 type: docs
 description: >
-  Interface improvements, most of them optional and customisable.
+  UI improvements, most of them optional and customisable.
 ---
 
 ## 4.1 SkyUI

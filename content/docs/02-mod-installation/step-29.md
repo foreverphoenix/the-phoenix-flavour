@@ -3,7 +3,7 @@ title: "Balancing"
 weight: 29
 type: docs
 description: >
-  Retextures for ingestibles.
+  Mods that affect loot rarity, economy, etc.
 ---
 
 ## 29.1 Morrowloot Miscellania - Hybrid Loot

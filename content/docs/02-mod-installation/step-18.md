@@ -3,7 +3,7 @@ title: "Clothes & Jewellery"
 weight: 18
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for general attire.
 ---
 
 ## 18.1 RUSTIC CLOTHING

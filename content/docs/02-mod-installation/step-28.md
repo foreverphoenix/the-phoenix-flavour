@@ -3,7 +3,7 @@ title: "Combat"
 weight: 28
 type: docs
 description: >
-  Retextures for ingestibles.
+  Mods to improve and diversify combat.
 ---
 
 ## 28.1 Wildcat – Combat of Skyrim

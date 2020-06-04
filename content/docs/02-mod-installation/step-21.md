@@ -3,7 +3,7 @@ title: "Creatures"
 weight: 21
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for animals and monsters.
 ---
 
 ## 21.1 Bellyache’s Animal and Creature Pack (optional)

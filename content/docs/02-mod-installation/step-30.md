@@ -3,7 +3,7 @@ title: "Immersion"
 weight: 30
 type: docs
 description: >
-  Retextures for ingestibles.
+  Any miscellaneous mods for niche features.
 ---
 
 ## 30.1 Dragon Remains (optional)

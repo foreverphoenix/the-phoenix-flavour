@@ -3,7 +3,7 @@ title: "Fixes"
 weight: 1
 type: docs
 description: >
-  Fixes for any issues or inconsistencies untouched by the USSEP.
+  Covering issues and inconsistencies untouched by the USSEP.
 ---
 
 ## 2.1 Weapons, Armor, Clothing and Clutter Fixes (WACCF) 

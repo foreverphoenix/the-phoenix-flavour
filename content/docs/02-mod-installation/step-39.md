@@ -3,16 +3,16 @@ title: "Skeleton & Animations"
 weight: 39
 type: docs
 description: >
-  Retextures for ingestibles.
+  Skeleton replacer and improved animations.
 ---
 
-## 39.1 [Fores New Idles in Skyrim (FNIS)](https://www.nexusmods.com/skyrimspecialedition/mods/3038?tab=files)
+## 39.1 Fores New Idles in Skyrim (FNIS)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/3038?tab=files)
 
 * **Main Files:** FNIS Behavior SE 7_6
 
-### Installation Instructions
+#### Installation Instructions
 
 This mod was not packaged correctly.
 
@@ -21,13 +21,13 @@ This mod was not packaged correctly.
 * Right-click the **Data** folder and select **Set data directory**.
 * Click **OK**.
 
-## 39.2 [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files)
+## 39.2 XP32 Maximum Skeleton Special Extended (XPMSSE)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files)
 
 * **Main Files:** XP32 Maximum Skeleton Special Extended
 
-### FOMOD Instructions
+#### FOMOD Instructions
 
 * **Animation Rig Map:**
   * No Physics
@@ -56,13 +56,13 @@ This mod was not packaged correctly.
 * **Enderal:**
   * None
 
-## 39.3 [XPMSSE Fixes - Automated Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+## 39.3 XPMSSE Fixes - Automated Patcher
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 - **Main Files:** XPMSSE Fixes - Automated Patcher --- `download the file manually`
 
-### Special Instructions
+#### Special Instructions
 
 - Find **XP32 Maximum Skeleton Special Extended** in your mod order.
 - Right-click it and select **Open in Explorer**.
@@ -71,58 +71,58 @@ This mod was not packaged correctly.
 - Double-click **patch-xpmse.bat** to start the process of applying the delta patch.
 - The patcher will delete themselves when it's done.
 
-### About the mod
+#### About the mod
 
 Like many mod authors, Groovtama does not allow anyone to upload modified versions of his mod, XP32 Maximum Skeleton. At the same time he unfortunately refuses to fix some bugs in his mod so we will have to do that ourselves with our own copies of the mod. Instructions were posted [here](https://www.nexusmods.com/skyrim/articles/52373) by Kriffin, the author of All Geared Up Derivative, which is my source for the instructions below.
 
 The automated version is a delta patcher to apply the changes automatically to your scripts (so there is no need for everyone to follow Kriffin's instructions).
 
-## 39.4 [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
+## 39.4 All Geared Up Derivative (AllGUD)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
 
 * **Main Files:** All Geared Up Derivative SE
 
 > In order to get AllGUD up and running, there are quite a few more additional steps. These will be taken care of during the Finalisation.
 
-## 39.5 [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files) (optional)
+## 39.5 No Heavy Muscular Walk and Idle (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
 
 * **Main Files:** No heavy muscular walk and idle
 
-## 39.6 [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
+## 39.6 3rd Person Dual Wielding Fix (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files)
 
 * **Main Files:** DWANIM
 
-## 39.7 [D13 Faster GET UP STAND UP Animation](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files) (optional)
+## 39.7 D13 Faster GET UP STAND UP Animation (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files)
 
 * **Main Files:** D13 Faster Get Up Stand Up SSE
 
-## 39.8 [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files) (optional)
+## 39.8 Dragon Animations Replacer (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files)
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
 
-## 39.9 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files) (optional)
+## 39.9 Immersive Dragons (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 
 * **Main Files:** Immersive Dragons SE
 
-## 39.10 [Supreme Vampire Lord](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files) (optional)
+## 39.10 Supreme Vampire Lord (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files)
 
 * **Main Files:** Supreme Vampire Lords XP32 SE
 
-## 39.11 [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files) (optional)
+## 39.11 Werewolf Claws Affect Spider Webs (optional)
 
-### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files)
 
 * **Optional Files:** Werewolf Claws Affect Spider Webs - XPMSSE 4.71 version

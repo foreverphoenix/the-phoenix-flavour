@@ -3,7 +3,7 @@ title: "Sounds & Music"
 weight: 37
 type: docs
 description: >
-  Retextures for ingestibles.
+  New and improved sound effects and music.
 ---
 
 ## 37.1 Audio Overhaul for Skyrim (AOS)

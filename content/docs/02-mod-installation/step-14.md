@@ -3,7 +3,7 @@ title: "Interiors"
 weight: 14
 type: docs
 description: >
-  Overhauls and expansions of vanilla cities and towns as well as the College of Winterhold.
+  Retextures for windows, furniture, and decoration.
 ---
 
 ## 14.1 RUSTIC WINDOWS

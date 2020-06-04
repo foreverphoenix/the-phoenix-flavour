@@ -3,7 +3,7 @@ title: "New Items & Equipment"
 weight: 35
 type: docs
 description: >
-  Retextures for ingestibles.
+  More armor variants and unique equipment.
 ---
 
 ## 35.1 Armor and Clothing Extension (ACE)

@@ -3,7 +3,7 @@ title: "Weapons & Armor"
 weight: 19
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for generic equipment.
 ---
 
 ## 19.1 RUSTIC ARMOR AND WEAPONS (RAW) (optional)

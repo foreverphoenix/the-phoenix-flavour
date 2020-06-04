@@ -3,7 +3,7 @@ title: "New Mechanics & Features"
 weight: 36
 type: docs
 description: >
-  Retextures for ingestibles.
+  Additional gameplay mechanics not present in the vanilla game.
 ---
 
 ## 36.1 Simply Knock (optional)

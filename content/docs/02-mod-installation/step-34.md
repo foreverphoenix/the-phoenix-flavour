@@ -3,7 +3,7 @@ title: "New Encounters & Creatures"
 weight: 34
 type: docs
 description: >
-  Retextures for ingestibles.
+  Additional world encounters and enemies.
 ---
 
 ## 34.1 Immersive Patrols (optional)

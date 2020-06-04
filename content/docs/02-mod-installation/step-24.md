@@ -3,7 +3,7 @@ title: "Appearance"
 weight: 24
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for skin, hair, eyes, and so on.
 ---
 
 ## 24.1 Bijin Skin for CBBE (optional)

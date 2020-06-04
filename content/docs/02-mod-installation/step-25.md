@@ -3,7 +3,7 @@ title: "Gameplay Overhauls"
 weight: 25
 type: docs
 description: >
-  Retextures for ingestibles.
+  Larger mods affecting gameplay.
 ---
 
 ## 25.1 Mysticism – A Magic Overhaul

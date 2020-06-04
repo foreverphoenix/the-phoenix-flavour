@@ -3,7 +3,7 @@ title: "Improved Vanilla Quests"
 weight: 27
 type: docs
 description: >
-  Retextures for ingestibles.
+  Mods to tweak or expand basegame quests.
 ---
 
 ## 27.1 Timing Is Everything

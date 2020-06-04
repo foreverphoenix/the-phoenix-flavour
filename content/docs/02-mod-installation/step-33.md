@@ -3,7 +3,7 @@ title: "New NPCs & Companions"
 weight: 33
 type: docs
 description: >
-  Retextures for ingestibles.
+  New generic NPCs and unique companions.
 ---
 
 ## 33.1 DIVERSE SKYRIM

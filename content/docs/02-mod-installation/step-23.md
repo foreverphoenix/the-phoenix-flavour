@@ -3,7 +3,7 @@ title: "NPC Overhauls"
 weight: 23
 type: docs
 description: >
-  Retextures for ingestibles.
+  Facegen overhauls for specific NPCs.
 ---
 
 ## 23.1 Vanilla NPCs Ruhmastered

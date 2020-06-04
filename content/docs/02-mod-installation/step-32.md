@@ -3,7 +3,7 @@ title: "New Quests & Locations"
 weight: 32
 type: docs
 description: >
-  Retextures for ingestibles.
+  Additional locations and completely new quests.
 ---
 
 ## 32.1 The Forgotten City

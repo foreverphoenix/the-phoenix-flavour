@@ -3,7 +3,7 @@ title: "Landscape"
 weight: 9
 type: docs
 description: >
-  Mods affecting various effects including spell and combat effects.
+  Overhauling mountains, grass, water, and roads.
 ---
 
 ## 9.1 Majestic Mountains

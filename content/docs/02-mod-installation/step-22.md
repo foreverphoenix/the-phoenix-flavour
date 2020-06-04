@@ -3,7 +3,7 @@ title: "Daedra & Dragons"
 weight: 22
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for Daedra, their followers, and various dragons.
 ---
 
 ## 22.1 RUSTIC DAEDRA (optional)

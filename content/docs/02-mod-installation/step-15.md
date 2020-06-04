@@ -3,7 +3,7 @@ title: "Dungeons"
 weight: 15
 type: docs
 description: >
-  Overhauls and expansions of vanilla cities and towns as well as the College of Winterhold.
+  Retextures for underground areas, ruins, barrows, and related clutter.
 ---
 
 ## 15.1 Underground – A Dungeon Texture Overhaul

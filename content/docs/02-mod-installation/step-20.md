@@ -3,7 +3,7 @@ title: "Unique Artifacts"
 weight: 20
 type: docs
 description: >
-  Retextures for ingestibles.
+  Retextures for unique equipment.
 ---
 
 ## 20.1 aMidianBorn Book of Silence – Unique Items

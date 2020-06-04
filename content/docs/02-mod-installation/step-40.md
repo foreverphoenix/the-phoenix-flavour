@@ -3,7 +3,7 @@ title: "Utilities"
 weight: 40
 type: docs
 description: >
-  Retextures for ingestibles.
+  Various modder's resources and extenders.
 ---
 
 ## 40.1 Private Profile Redirector (optional)

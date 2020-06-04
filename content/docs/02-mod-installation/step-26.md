@@ -3,7 +3,7 @@ title: "Non-Player Characters"
 weight: 26
 type: docs
 description: >
-  Retextures for ingestibles.
+  Mods affecting NPCs and their behaviour.
 ---
 
 ## 26.1 AI Overhaul
