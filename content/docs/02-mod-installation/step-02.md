@@ -18,30 +18,30 @@ description: >
   * `WACCF_BashedPatchLvlListFix.esp`
   * `Weapons Armor Clothing & Clutter Fixes.modgroups`
 
-## 2.2 [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
+## 2.2 Wiseman303's Flora Fixes - Revamped
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 
-- **Main File** - WM’s Flora Fixes - Revamped
-- **Optional File** - WM’s Flora Fixes - SMIM Patch
+- **Main Files:** WM’s Flora Fixes - Revamped
+- **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
-## 2.3 [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
+## 2.3 Weapon Speed Effects Fix
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
 
-- **Main File** - Weapon Speed Effects Fix
+- **Main Files:** Weapon Speed Effects Fix
 
-## 2.4 [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
+## 2.4 Quests Are In Skyrim
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
 
-- **Main File** - QuestsAreInSkyrim_USSEP_1_2_reupload
+- **Main Files:** QuestsAreInSkyrim_USSEP_1_2_reupload
 
-## 2.5 [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files) (optional)
+## 2.5 Tavern AI Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 
-- **Main File** - TavernAIFix
+- **Main Files:** TavernAIFix
 
 #### Additional Instructions
 
@@ -55,26 +55,26 @@ The mod comes with two optional console commands to customise it.  Fortunately w
 
 The commands will now be executed automatically when you start a new game or load your save.
 
-## 2.6 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files)
+## 2.6 Skyrim Landscape and Water Fixes
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files)
 
-- **Main File** - Skyrim Landscape and Water Fixes - FOMOD Installer
+- **Main Files:** Skyrim Landscape and Water Fixes - FOMOD Installer
 
-### FOMOD Instructions
+#### FOMOD Instructions
 
 - **Main Plugin:** ESM
 - **Patches:** *select nothing*
 - **Walkway Wall FIX:** Walkway Wall FIX SMIM
 - **Optional:** Missing Lights Fix
 
-## 2.7 [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
+## 2.7 [Landscape Fixes for Grass Mods
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
-- **Main File** - Landscape Fixes For Grass Mods
-- **Optional File** - z Vanilla Military Camps
-- **Optional File** - Patches for Arthmoor’s Town add-ons
+- **Main Files:** Landscape Fixes For Grass Mods
+- **Optional Files:** z Vanilla Military Camps
+- **Optional Files:** Patches for Arthmoor’s Town add-ons
 
 #### Download Instructions - Patches for Arthmoor's Towns
 
@@ -93,11 +93,11 @@ The commands will now be executed automatically when you start a new game or loa
 
 - Place **Landscape Fixes for Grass Mods - Arthmoor’s Towns Patches** below the **PATCHES** separator.
 
-## 2.8 [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
+## 2.8 No Animals Report Crimes (NARC)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
-- **Main File** - NARC Remade 1.0.2
+- **Main Files:** NARC Remade 1.0.2
 
 #### FOMOD Instructions
 
@@ -114,55 +114,55 @@ The commands will now be executed automatically when you start a new game or loa
   - ~~Patch for Immersive Horses~~
   - ~~Patch for Skyrim Immersive Creatures~~
 
-## 2.9 [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075?tab=files) (optional)
+## 2.9 Raven Rock - Fix Exit on Horseback (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/14075?tab=files)
 
-- **Main File** - Raven Rock - Fix Exit on Horseback SE
+- **Main Files:** Raven Rock - Fix Exit on Horseback SE
 
-## 2.10 [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files) (optional)
+## 2.10 Dawnguard Don't Hunt Cured Vampires (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files)
 
-- **Main File** - Dawnguard Dont Hunt Cured Vampires 1_0
+- **Main Files:** Dawnguard Dont Hunt Cured Vampires 1_0
 
-## 2.11 [Charge Dialogue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/17716) (optional)
+## 2.11 Charge Dialogue Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17716)
 
-- **Main File** - Charge Dialogue Fix
+- **Main Files:** Charge Dialogue Fix
 
-## 2.12 [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/894?tab=files) (optional)
+## 2.12 Rude Imperial Soldiers Escort Prisoner Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/894?tab=files)
 
-- **Main File** - ImperialSoldiersEscortFix_v10
+- **Main Files:** ImperialSoldiersEscortFix_v10
 
-### Porting Instructions
+#### Porting Instructions
 
 - Resave **ImperialSoldiersEscortFix.esp** in the Creation Kit.
 
-## 2.13 [Mannequins Stay Put](https://www.nexusmods.com/skyrimspecialedition/mods/6414?tab=files) (optional)
+## 2.13 Mannequins Stay Put (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/6414?tab=files)
 
-- **Main File** - Mannequin Stay Put
+- **Main Files:** Mannequin Stay Put
 
-## 2.14 [Eye Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/5445?tab=files) (optional)
+## 2.14 Eye Normal Map Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5445?tab=files)
 
-- **Optional File** - Eye Normal Map Fix SSE BC7
+- **Optional Files:** Eye Normal Map Fix SSE BC7
 
-## 2.15 [Skyrim Ultimate Eyemeshes Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/18147?tab=files)
+## 2.15 Skyrim Ultimate Eyemeshes Ruhmastered
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18147?tab=files)
 
-- **Main File** - SUEMR SSE v3.0 Meshes
-- **Main File** - SUEMR v3.0 Simple Vampire Fixes SSE
-- **Optional File** - SUEMR Optional Red Vampire Eye Meshes SSE
+- **Main Files:** SUEMR SSE v3.0 Meshes
+- **Main Files:** SUEMR v3.0 Simple Vampire Fixes SSE
+- **Optional Files:** SUEMR Optional Red Vampire Eye Meshes SSE
 
-### Additional Instructions
+#### Additional Instructions
 
 - Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
 - Switch to the **Filetree** tab and rename the following file:
@@ -170,11 +170,11 @@ The commands will now be executed automatically when you start a new game or loa
 
 > This changes the plugin from ESL to ESP-Lite in order to allow us to manipulate its load order position.
 
-## 2.16 [Eyes AO Clipping Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25753?tab=files) (optional)
+## 2.16 Eyes AO Clipping Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/25753?tab=files)
 
-- **Optional File** - Eyes AO Clipping Fix - Ruhmastered
+- **Optional Files:** Eyes AO Clipping Fix - Ruhmastered
 
 #### Additional Instructions
 
@@ -184,35 +184,35 @@ The commands will now be executed automatically when you start a new game or loa
 
 > These meshes conflict with SUEMR - Vampire Eye Glow.
 
-## 2.17 [ENB Brow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18783?tab=files) (optional)
+## 2.17 ENB Brow Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18783?tab=files)
 
-- **Main File** - ENB Brow Fix SE 1.2
+- **Main Files:** ENB Brow Fix SE 1.2
 
-## 2.18 [Double Sided Vertex Human Mouth Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25938?tab=files) (optional)
+## 2.18 Double Sided Vertex Human Mouth Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/25938?tab=files)
 
-- **Main File** - Double Sided Human Mouth Fix SSE
+- **Main Files:** Double Sided Human Mouth Fix SSE
 
-## 2.19 [WoodElf - MaleHair - Fix](https://www.nexusmods.com/skyrimspecialedition/mods/9271?tab=files) (optional)
+## 2.19 WoodElf - MaleHair - Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/9271?tab=files)
 
-- **Main File** - WoodElf - MaleHair - Fix
+- **Main Files:** WoodElf - MaleHair - Fix
 
-## 2.20 [Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592?tab=files) (optional)
+## 2.20 Sound Hammering Sounds (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5592?tab=files)
 
-- **Main File** - Sound Hammering Sounds
+- **Main Files:** Sound Hammering Sounds
 
-## 2.21 [Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14060?tab=files) (optional)
+## 2.21 Dragon Stalking Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/14060?tab=files)
 
-- **Main File** - Dragon Stalking Fix
+- **Main Files:** Dragon Stalking Fix
 
 #### Additional Instructions
 
@@ -223,24 +223,24 @@ The commands will now be executed automatically when you start a new game or loa
 
 > The plugin is empty and only serves to load the archive which is now unpacked.
 
-## 2.22 [Serana's Hood Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files) (optional)
+## 2.22 Serana's Hood Fix (optional)
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files)
 
-- **Main File** - Serana’s Hood Fix
+- **Main Files:** Serana’s Hood Fix
 
 #### FOMOD Instructions
 
 * **Choose Version:** Realistic
 
-## 2.23 [Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
+## 2.23 Bug Fixes
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
 
-- **Main File** - Bug Fixes SSE v2
+- **Main Files:** Bug Fixes SSE v2
 
-## 2.24 [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
+## 2.24 Actor Limit Fix
 
-#### Download Instructions
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
 
-- **Main File** - ActorLimitPlugin v2
+- **Main Files:** ActorLimitPlugin v2

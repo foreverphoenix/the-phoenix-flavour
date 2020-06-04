@@ -3,7 +3,7 @@ title: "Interface"
 weight: 4
 type: docs
 description: >
-  Small edits that do not qualify as fixes.
+  Interface improvements, most of them optional and customisable.
 ---
 
 ## 4.1 SkyUI
