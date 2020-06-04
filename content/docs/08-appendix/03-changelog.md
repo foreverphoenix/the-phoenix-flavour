@@ -292,7 +292,7 @@ Most notably, BethINI and the guide's instructions for it were updated. The proc
 - **39.3:** Added XPMSSE Fixes - Automated Patcher.
 - **39.4:** Added All Geared Up Derivative - AllGUD.
 
-## Finalisation
+#### Finalisation
 
 - Moved FNIS instructions to Step 2.
 - Added Step 3 for All Geared Up Derivative.
