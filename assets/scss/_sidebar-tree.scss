@@ -97,7 +97,7 @@
 
       @include themed() {
         background-color: t($theme-td-sidebar-bg-color);
-        border-right: 1px solid t($td-sidebar-border-color);
+        border-right: 1px solid t($theme-td-sidebar-border-color);
       }
     }
 

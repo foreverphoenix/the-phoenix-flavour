@@ -11,7 +11,7 @@ $themes: (
 
           // UI element colors
                 theme-border-color: darken($secondary-main, 10%),
-                theme-sidebar-border-color: $secondary-dark,
+                theme-td-sidebar-border-color: $td-sidebar-border-color,
 
           // Body
                 theme-body-bg: darken($secondary-main, 5%),
@@ -53,7 +53,7 @@ $themes: (
 
           // UI element colors
                 theme-border-color: darken($secondary-light, 10%),
-                theme-td-sidebar-border-color: $secondary-main,
+                theme-td-sidebar-border-color: $secondary-dark,
 
           // Body
                 theme-body-bg: darken($white, 30%),
