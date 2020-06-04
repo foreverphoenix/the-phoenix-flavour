@@ -78,8 +78,7 @@
     height: 24px;
     padding: 0;
     border-radius: 30px;
-    background-color: hsl(222, 14%, 7%);
-    transition: all 0.2s ease;
+    background-color: #000000;
   }
   
   .js-toggle-track-check {
@@ -87,18 +86,17 @@
     width: 17px;
     height: 17px;
     left: 5px;
-    top: 0px;
+    top: 2px;
     bottom: 0px;
     margin-top: auto;
     margin-bottom: auto;
     line-height: 0;
-    opacity: 0;
-    transition: opacity 0.25s ease;
+    opacity: 1;
+    color: #fafafa;
   }
   
   .js-toggle--checked .js-toggle-track-check {
     opacity: 1;
-    transition: opacity 0.25s ease;
   }
   
   .js-toggle-track-x {
@@ -106,42 +104,31 @@
     width: 17px;
     height: 17px;
     right: 5px;
-    top: 0px;
+    top: 2px;
     bottom: 0px;
     margin-top: auto;
     margin-bottom: auto;
     line-height: 0;
     opacity: 1;
-    transition: opacity 0.25s ease;
+    color: #fafafa;
   }
   
   .js-toggle--checked .js-toggle-track-x {
-    opacity: 0;
+    opacity: 1;
   }
   
   .js-toggle-thumb {
     position: absolute;
-    top: 0px;
+    top: 0.7px;
     left: 1px;
     width: 22px;
     height: 22px;
     border-radius: 50%;
     background-color: #fafafa;
     box-sizing: border-box;
-    transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1) 0ms;
-    transform: translateX(0);
   }
   
   .js-toggle--checked .js-toggle-thumb {
     transform: translateX(26px);
-    border-color: #19ab27;
-  }
-  
-  .js-toggle--focus .js-toggle-thumb {
-    box-shadow: 0px 0px 2px 3px rgb(0, 167, 196);
-  }
-  
-  .js-toggle:active .js-toggle-thumb {
-    box-shadow: 0px 0px 5px 5px rgb(0, 167, 196);
   }
 </style>
