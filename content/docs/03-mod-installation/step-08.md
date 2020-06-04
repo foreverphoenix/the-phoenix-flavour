@@ -11,7 +11,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files)
 
 - **Main Files:** Frozen Electrocuted Combustion - 3.4.5
-- **Update Files:** Frozen Electrocuted Combustion - 3.4.6 (update)
+- **Update Files:** Frozen Electrocuted Combustion - 3.4.7 (update) --- `merge with the main file`
 
 ## 8.2 Enhanced Blood Textures
 

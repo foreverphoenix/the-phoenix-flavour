@@ -22,7 +22,7 @@ description: >
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
-* **Main Files:** The Tools of Kagrenac V1.53a SSE
+* **Main Files:** The Tools of Kagrenac V1.56 SSE
 
 ## 32.4 It Beats For Her (optional)
 
