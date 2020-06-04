@@ -6,6 +6,17 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.2.3
+
+Maintenance update.
+
+#### Mod Installation
+
+- **8.1:** Updated download instructions for Frozen Electrocuted Combustion (file update).
+- **10.1:** Updated FOMOD instructions for EVT Alternate Branch Textures (file update).
+- **37.1:** Updated download instructions for Audio Overhaul for Skyrim, removed instructions to download the EBT Patch (now integrated into the CRP).
+- **37.1:** Removed instructions to delete the SKSE folder (no longer preset) and added instructions to delete the modgroups file for Audio Overhaul for Skyrim.
+
 ## Release 3.2.2
 
 Just a small maintenance update. Realistic Water Two received a big update today, then got hidden to fix oversights. It's back up now. You can probably expect a CRP update soon, but for now here are the updated instructions.

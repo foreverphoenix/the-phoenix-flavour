@@ -68,7 +68,7 @@ The commands will now be executed automatically when you start a new game or loa
 - **Walkway Wall FIX:** Walkway Wall FIX SMIM
 - **Optional:** Missing Lights Fix
 
-## 2.7 [Landscape Fixes for Grass Mods
+## 2.7 Landscape Fixes for Grass Mods
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 

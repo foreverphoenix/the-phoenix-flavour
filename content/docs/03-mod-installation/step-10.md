@@ -32,6 +32,8 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Small Cust
   - Yes
 - **Custom Trees - Greener Bark Textures:**
   - *Select nothing on this page.*
+- **Darker EVT Textures:**
+  - *Select nothing on this page.*
 - **Skyrim Flora Overhaul - Branches:**
   - *Read the text below.*
 

@@ -10,16 +10,13 @@ description: >
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files)
 
-* **Main Files:** - Audio Overhaul Skyrim (3.2.0)
-* **Miscellaneous Files:** - Compatibility Patch for Enhanced Blood Textures
-* **Miscellaneous Files:** - Weather Patch for Obsidian Weathers and Seasons
+* **Main Files:** Audio Overhaul Skyrim (3.3.2)
+* **Miscellaneous Files:** Weather Patch for Obsidian Weathers and Seasons
 
 #### Additional Instructions
 
 * Delete the following file(s) and/or folder(s):
-  * `SKSE`
-
-> The SKSE plugin included with AOS is outdated. SSE Engine Fixes includes its functionality now.
+  * `Audio Overhaul Skyrim.modgroups`
 
 #### Mod Order
 

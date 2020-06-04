@@ -10,7 +10,7 @@ description: >
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21654?tab=files)
 
-- **Main Files:** AI Overhaul 1.5.2
+- **Main Files:** AI Overhaul 1.5.3
 
 ## 26.2 AI Overhaul - Windsong Immersive Character Overhaul Patch
 
