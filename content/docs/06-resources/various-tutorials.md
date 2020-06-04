@@ -19,7 +19,7 @@ Any such mod would be downloaded from the Skyrim LE Nexus and will display **Sky
 - The loose assets might need optimizing with CAO (check the guide instructions for the mod).
 - To disable the filter again, click the **Clear** button at the bottom and close the filter settings by clicking the arrows `<<`.
 
-![Find LE BSA](/Pictures/resources/find_le_bsa.png)
+![Find LE BSA](/Pictures/guide-resources/find_le_bsa.png)
 
 ## How to re-generate INI files from scratch
 
@@ -28,7 +28,7 @@ Re-doing INI files from scratch can be necessary when BethINI got an update. It 
 - In MO2, click the folder icon to the right of the profiles selection drop-down
 - Select **Open Profile folder** (see screenshot).
 
-![Open Profiles folder](/Pictures/faq/open_profiles_folder.png)
+![Open Profiles folder](/Pictures/guide-resources/open_profiles_folder.png)
 
 - Delete the following folder and files:
   - BethINI Cache
@@ -57,4 +57,4 @@ iSize W=1920
 
 - Afterwards, click the **Save** button and close the window. 
 
-![Change Game Resolution](/Pictures/resources/change_game_resolution.png)
+![Change Game Resolution](/Pictures/guide-resources/change_game_resolution.png)
