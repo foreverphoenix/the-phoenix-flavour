@@ -53,7 +53,7 @@ Proper organisation is key when modding Skyrim. You will come back many times to
 
 ### 1.4.1 Gamma and Brightness
 
-Assuming you already have your monitor configured with your preferred settings for resolution and refresh rate (in my case that is 60Hz and 1920x1080), you might still want to adjust the brightness and / or gamma either through your graphics card control panel or Windows' inbuilt calibration tool.
+Assuming you already have your monitor configured with your preferred settings for resolution and refresh rate (in my case that is 60Hz and 1920x1080), you might still want to adjust the brightness and/or gamma either through your graphics card control panel or Windows' inbuilt calibration tool.
 
 > Your monitor should have been running for at least 30 minutes before you adjust it.
 
@@ -69,7 +69,7 @@ To help you find the sweet spot for your monitor, check out these resources:
 
 ### 1.4.2 Dynamic Range
 
-It is recommended that you ensure your monitor's **Dynamic Range** to "Full" if it is connected to your PC via DisplayPort or HDMI. Instructions for both NVIDIA and AMD based systems can be found [here](https://pcmonitors.info/articles/correcting-hdmi-colour-on-nvidia-and-amd-gpus/).
+It is recommended that you ensure your monitor's **Dynamic Range** is set to "Full" if it is connected to your PC via DisplayPort or HDMI. Instructions for both NVIDIA and AMD based systems can be found [here](https://pcmonitors.info/articles/correcting-hdmi-colour-on-nvidia-and-amd-gpus/).
 
 It turns out I actually had my monitor set to "Limited" for many years and grew so used to it that setting the Dynamic Range to "Full" only irritated me. Eventually I set it back to "Limited" with no regrets. Your mileage may vary.
 
