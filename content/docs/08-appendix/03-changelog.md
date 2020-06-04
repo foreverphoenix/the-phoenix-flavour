@@ -6,6 +6,17 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.3
+
+#### Setup
+
+- **Step 7:** Removed the zEdit section. zEdit will be re-added to the guide once mator provides ESL support.
+
+#### Mod Installation
+
+- **37.2:** Added Immersive Sounds - Compendium.
+- **37.3:** Added Audio Overhaul - Immersive Sounds Integration.
+
 ## Release 3.2.3
 
 Maintenance update.
