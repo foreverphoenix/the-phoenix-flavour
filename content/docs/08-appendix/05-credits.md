@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-weight: 4
+weight: 5
 type: docs
 description: >
   Acknowledgements for everyone involved in the creation of the guide.

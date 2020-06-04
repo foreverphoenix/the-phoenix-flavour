@@ -7,4 +7,3 @@ menu:
     weight: 1
 ---
 
-This would be the home page.

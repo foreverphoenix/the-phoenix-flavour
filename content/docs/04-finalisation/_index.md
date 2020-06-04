@@ -1,7 +1,7 @@
 ---
 title: "Finalisation"
-weight: 3
+weight: 4
 type: docs
 description: >
-  A special section with a docs layout.
+  Final steps to wrap up the installaion.
 ---

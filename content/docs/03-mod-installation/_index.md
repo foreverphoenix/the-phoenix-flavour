@@ -1,7 +1,7 @@
 ---
 title: "Mod Installation"
-weight: 2
+weight: 3
 type: docs
 description: >
-  A special section with a docs layout.
+  Installation instructions for all mods.
 ---

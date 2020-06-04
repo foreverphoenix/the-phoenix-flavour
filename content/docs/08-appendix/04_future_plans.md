@@ -1,9 +1,9 @@
 ---
 title: "Future Plans"
-weight: 3
+weight: 4
 type: docs
 description: >
-  A special section with a docs layout.
+  Upcoming features for The Phoenix Flavour.
 ---
 
 I am working on the guide in my free time of which I admittedly have plenty.

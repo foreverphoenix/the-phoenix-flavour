@@ -1,7 +1,7 @@
 ---
 title: "Appendix"
-weight: 7
+weight: 6
 type: docs
 description: >
-  A special section with a docs layout.
+  FAQ, credits, changelog, etc.
 ---

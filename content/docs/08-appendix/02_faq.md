@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 weight: 2
 type: docs
 description: >
-  A special section with a docs layout.
+  Various guide-related questions & answers.
 ---
 
 ### I have over 300 plugins active in Mod Organizer 2. Is that intended?
