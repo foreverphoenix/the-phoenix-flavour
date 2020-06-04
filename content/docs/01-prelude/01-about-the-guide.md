@@ -104,7 +104,7 @@ The guide includes instructions to change the game's resolution.
 
 ## Getting Started
 
-Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** [here](https://foreverphoenix.github.io/docs/01-setup/step-01/) to install the guide manually or find the **Wabbajack** installer with instructions [here](https://docs.google.com/document/d/1wl3p-Nd0JZLohjJjDAV6SmxHDW6O4fYt7pngn8Es8DU/edit#heading=h.vqn9sw772v98).
+Now that you have an idea of what the guide can offer you, it is your turn to decide which route to take. Continue with the **Setup** [here](https://foreverphoenix.github.io/docs/02-setup/step-01/) to install the guide manually or find the **Wabbajack** installer with instructions [here](https://docs.google.com/document/d/1wl3p-Nd0JZLohjJjDAV6SmxHDW6O4fYt7pngn8Es8DU/edit#heading=h.vqn9sw772v98).
 
 ## Discord
 
