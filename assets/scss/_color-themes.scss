@@ -47,7 +47,7 @@ $themes: (
           theme-dark: $white,
 
     // Theme colours
-          theme-primary: $primary-dark,
+          theme-primary: darken($primary-dark, 10%),
           theme-primary-light: lighten($primary-dark, 75%),
           theme-secondary: $secondary-main,
 
