@@ -101,7 +101,7 @@ description: >
 
 ## 1.10 Static Mesh Improvement Mod (SMIM)
 
-#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files)
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
 - **Main Files:** SMIM SE 2-08
 
