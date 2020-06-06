@@ -14,7 +14,7 @@ description: >
 
 ## 3.2 Dwemer Gates Don't Reset (optional)
 
-#### [Download Instructions]((https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files) )
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files)
 
 - **Main Files:** Dwemer Gates Don't Reset
 
@@ -67,7 +67,7 @@ description: >
 
 ## 3.9 Realistic Conversations (optional)
 
-#### [Download Instructions](](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files))
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files)
 
 - **Main Files:** Realistic Conversations
 
