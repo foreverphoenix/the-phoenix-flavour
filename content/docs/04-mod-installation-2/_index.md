@@ -3,5 +3,5 @@ title: "Mod Installation, Part 2"
 weight: 4
 type: docs
 description: >
-  Installation instructions for all mods.
+  Installation instructions for Steps 11-24.
 ---
