@@ -63,7 +63,7 @@
   > blockquote {
     padding: 0 0 0 1rem;
     margin-bottom: $spacer;
-    line-height: 2.5;
+    line-height: 1.7;
 
     @include themed() {
       color: t($theme-quote-text-color);
