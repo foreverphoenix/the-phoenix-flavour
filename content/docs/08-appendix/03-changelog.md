@@ -24,6 +24,7 @@ Some mods are now flagged as **(Conditional)**, meaning they are optional but de
 - Removed Dwemer Spectres - EBT No Bleeding and Other Fixes.
 - Moved Adopt Aventus Aretino from Non-Player Characters (Step 26) to New Mechanics & Features (Step 36).
 - **3.9:** Changed download instructions for Realistic Conversation (using a different main file).
+- **8.5:** Arctic - Frost Effects Redux is no longer optional (conflict with ISC had to be resolved in the CRP).
 - **36.8:** Re-added Irondusk's Saddlebags.
 - **37.2:** Added Immersive Sounds - Compendium.
 - **37.3:** Added Audio Overhaul - Immersive Sounds Integration.

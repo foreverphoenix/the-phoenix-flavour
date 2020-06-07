@@ -49,7 +49,7 @@ description: >
 * **Frost:** Default
 * **Lightning:** Alternate 1
 
-## 8.5 Arctic - Frost Effects Redux (optional)
+## 8.5 Arctic - Frost Effects Redux
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files)
 
