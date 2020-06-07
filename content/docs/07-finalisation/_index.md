@@ -1,6 +1,6 @@
 ---
 title: "Finalisation"
-weight: 4
+weight: 7
 type: docs
 description: >
   Final steps to wrap up the installaion.
