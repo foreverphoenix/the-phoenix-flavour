@@ -6,9 +6,12 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+
 ## Release 3.3
 
-I re-added the mod installation instructions that I completely missed in the original website setup. Whoops! It's not like they're important or anything. You can find them in the [mod installation parent page](https://foreverphoenix.github.io/docs/03-mod-installation/). It's not a straight copy-paste, I re-structured it and re-wrote parts as well. All "generic instructions" (using CAO, resaving plugins, etc) were moved to the [Basic Instructions](https://foreverphoenix.github.io/docs/07-resources/basic-instructions/) page under Resources.
+I re-added the mod installation instructions that I completely missed in the original website setup. Whoops! It's not like they're important or anything. You can find them [here](https://foreverphoenix.github.io/docs/02-setup/step-10/). It's not a straight copy-paste, I re-structured it and re-wrote parts as well. All "generic instructions" (using CAO, resaving plugins, etc) were moved to the [Basic Instructions](https://foreverphoenix.github.io/docs/07-resources/basic-instructions/) page under Resources.
+
+The Mod Installation section itself was split up into four parts to avoid the ugly scrollbar.
 
 The "Unpack Example.bsa" instructions previously contained instructions to delete the BSA afterwards. Some users missed this step and others got confused so I removed it and added instructions to delete the BSA directly to the mod instructions where appropriate. Should be pretty hard to miss now.
 
@@ -34,6 +37,17 @@ And finally I added several new mods: **Immersive Sounds Compendium** with Dylan
 #### Customisation
 
 - **New Music:** Added this new section with five new music mods and a merged patch.
+
+## Release 3.2.3
+
+Maintenance update.
+
+#### Mod Installation
+
+- **8.1:** Updated download instructions for Frozen Electrocuted Combustion (file update).
+- **10.1:** Updated FOMOD instructions for EVT Alternate Branch Textures (file update).
+- **37.1:** Updated download instructions for Audio Overhaul for Skyrim, removed instructions to download the EBT Patch (now integrated into the CRP).
+- **37.1:** Removed instructions to delete the SKSE folder (no longer preset) and added instructions to delete the modgroups file for Audio Overhaul for Skyrim.
 
 ## Release 3.2.3
 
