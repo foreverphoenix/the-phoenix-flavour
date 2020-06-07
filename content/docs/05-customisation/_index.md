@@ -1,6 +1,6 @@
 ---
 title: "Customisation"
-weight: 8
+weight: 5
 type: docs
 description: >
   Additional tweaks and mods for the main setup.
