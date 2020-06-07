@@ -176,17 +176,20 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 
 - **Main Files:** AMatterOfTime_v3_0_0_alpha_4
 
-## 4.14 A Matter of Time - Phoenix Preset (optional)
+## 4.14 A Matter of Time - Phoenix Preset (conditional)
 
-This is my personal preset for AMOT. It uses the slim clock widget to match the slim compass from SkyHUD and has a small 24h clock with the ingame time centered below. You can change the clock to 12h through the MCM at any time.
-
-Even if you have the preset installed, you can configure the AMOT settings to your liking. It will only be applied if you load it through the MCM specifically.
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **A Matter of Time**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 - **Main Files:** A Matter of Time - Phoenix Preset
 
-> **Mod Dependency:** Only install this mod if you installed A Matter of Time. Otherwise skip it.
+#### About the mod
+
+This is my personal preset for AMOT. It uses the slim clock widget to match the slim compass from SkyHUD and has a small 24h clock with the ingame time centered below. You can change the clock to 12h through the MCM at any time.
+
+Even if you have the preset installed, you can configure the AMOT settings to your liking. It will only be applied if you load it through the MCM specifically.
 
 ![My AMOT Preset Preview](/Pictures/mod_installation/amot_preset_preview.jpg)
 
@@ -206,20 +209,13 @@ Even if you have the preset installed, you can configure the AMOT settings to yo
 
 Below are my personal choices. Feel free to make your own!
 
-- **Background:**
-  - Background - Irradiant Stars - HDR Nebula
-- **Perk Lines:**
-  - Default
-- **Perk Line Colour:**
-  - Default
-- **Constellations:**
-  - HD Default
-- **Perk Stars:**
-  - Option 2
-- **Dawnguard:**
-  - HD Masser and Secunda and More Stars
-- **Vampire Background:**
-  - HDR Nebula
+- **Background:** Background - Irradiant Stars - HDR Nebula
+- **Perk Lines:** Default
+- **Perk Line Colour:** Default
+- **Constellations:** HD Default
+- **Perk Stars:** Option 2
+- **Dawnguard:** HD Masser and Secunda and More Stars
+- **Vampire Background:** HDR Nebula
 
 ##  4.17 No More Laser-Printed Book (optional)
 
@@ -250,6 +246,7 @@ Below are my personal choices. Feel free to make your own!
 
 * Unpack **icepenguinworldmapclassic - textures.bsa** through Mod Organizer 2.
 * Delete the following file(s) and/or folder(s):
+  * `icepenguinworldmapclassic - textures.bsa`
   * `icepenguinworldmapclassic.esp`
 
 > The BSA is deleted in order to allow A Quality World Map to overwrite some LOD files from Cathedral Landscapes. The plugin only contains one record which is completely overwritten by the AQWM+Luminosity lighting patch and it is no longer needed to load the BSA so it is redundant.

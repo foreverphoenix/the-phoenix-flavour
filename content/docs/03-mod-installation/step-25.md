@@ -24,14 +24,15 @@ description: >
 
 * **Main Files:** Complete Crafting Overhaul Remastered
 
-## 25.4 Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch (optional)
+## 25.4 Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **JS Circlet Replacer**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/19518?tab=files)
 
 * **Miscellaneous Files:**
   * JS Circlet Replacer_CCOR
-
-> **Mod Dependency:** Only install this mod if you installed **JS Circlet Replacer**. Otherwise skip it.
 
 #### Mod Order
 
@@ -46,7 +47,7 @@ description: >
 #### Additional Instructions
 
 * Double-click **Morningstar – Minimalistic Races of Skyrim** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin:
+* Switch to the **Filetree** tab and rename the plugin to:
   * Morningstar – Minimalistic Races of Skyrim.**esp**
 
 > This will turn the ESL into an ESP-Lite plugin, allowing us to manipulate its load order.
@@ -57,13 +58,15 @@ description: >
 
 * **Main Files:** Subtle but Classless
 
-## 25.7 Subtle But Classless – USSEP and EEO Patch (optional)
+## 25.7 Subtle But Classless – USSEP and EEO Patch (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **Subtle But Classless**. Otherwise skip it.
+{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 * **Main Files:** Subtle but Classless – USSEP and EEO Patch
-
-> Install this mod if you installed Subtle But Classless. Otherwise skip it.
 
 #### Mod Order
 

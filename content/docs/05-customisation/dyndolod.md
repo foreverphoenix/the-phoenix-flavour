@@ -1,6 +1,6 @@
 ---
 title: "DynDOLOD"
-weight: 11
+weight: 30
 type: docs
 description: >
   Instructions for re-generating DynDOLOD.

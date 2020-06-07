@@ -59,7 +59,7 @@ This is kryptopyr's official AMB CA SSE port which includes an updated plugin an
 #### Installation Instructions
 
 * Find the following file in your **Downloads** tab:
-  * Practical Female Armors SE - All-In-One Installer - NMM BAIN-2628-1-3o
+  * `Practical Female Armors SE - All-In-One Installer - NMM BAIN-2628-1-3o`
 * Double-click to install as usual.
 * Rename the file to **Practical Female Armors - AMB Content Addon** to prevent overwriting the original.
 * In the FOMOD installer, select only the **aMidianBorn Content Addon** option on the final page.

@@ -65,7 +65,7 @@ description: >
 
 * **Main Files:** Skyrim Alchemy Fixed
 
-## 29.8 [Enchanting Adjustments and Price Bug Fix
+## 29.8 Enchanting Adjustments and Price Bug Fix
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/8473?tab=files)
 

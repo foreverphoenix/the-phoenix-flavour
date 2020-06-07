@@ -14,8 +14,8 @@ description: >
 
 #### FOMOD Instructions
 
-* **Optional Files:** Draw Knife – with Carvings
-* **Optional Files:** Silver Mold – with Silver Frame
+* **Optional Files:** Draw Knife - with Carvings
+* **Optional Files:** Silver Mold - with Silver Frame
 
 #### Additional Instructions
 
@@ -32,11 +32,11 @@ description: >
 > The first five meshes conflict with and overwrite the arguably superior ones from Skyrim 3D Cooking.
 > The final three meshes overwrite Embers HD and prevent its forge textures from being applied.
 
-## 16.2 Aetherial Crown by Saerileth – Plugin Replacer
+## 16.2 Aetherial Crown by Saerileth - Plugin Replacer
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/23631?tab=files)
 
-* **Main Files:** Aetherial Crown – Plugin Replacer
+* **Main Files:** Aetherial Crown - Plugin Replacer
 
 > The original mod is not required because the textures are included in Forgotten Retex Project.
 
@@ -112,13 +112,11 @@ description: >
 
 * **Main Files:** 1k Textures
 
-## 16.13 JS Dragon Claws – Patches (optional)
+## 16.13 JS Dragon Claws - Patches (conditional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/23833?tab=files)
 
 * **Main Files:** JS Dragon Claws - Amethyst Patch
-
-> Only install this mods if you installed **JS Dragon Claws**. Otherwise skip it.
 
 ## 16.14 RUSTIC SOULGEMS
 
@@ -144,14 +142,14 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17757)
 
 * **Main Files:** RUSTIC ELDERSCROLL - Special Edition - 2K
-* **Optional Files:** ELDERSCROLL SSE - FX - 1K --- `merge with the main file`
+* **Optional Files:** ELDERSCROLL SSE - FX - 1K >> `merge with the main file`
 
 ## 16.17 RUSTIC ANIMATED POTIONS AND POISONS (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/2276/)
 
 * **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
-* **Update Files:** SSE Meshes --- `merge with the main file`
+* **Update Files:** SSE Meshes >> `merge with the main file`
 
 ## 16.18 Rally's Werewolf Totems (optional)
 
@@ -164,7 +162,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/34782/?tab=files)
 
 * **Main Files:** Meridia's Luxon Beacon
-* **Optional Files:** No Handles Option --- `merge with the main file`
+* **Optional Files:** No Handles Option >> `merge with the main file`
 
 ## 16.20 BLOODSTONE CHALICE REBORN (optional)
 

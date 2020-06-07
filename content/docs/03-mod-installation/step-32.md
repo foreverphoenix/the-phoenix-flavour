@@ -68,7 +68,7 @@ description: >
 #### Additional Instructions
 
 * Double-click **Solstheim Lighthouse** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin:
+* Switch to the **Filetree** tab and rename the plugin to:
   * SolstheimLighthouse.**esp**
 
 > This is faster than downloading and ESL-ifying the ESP version.

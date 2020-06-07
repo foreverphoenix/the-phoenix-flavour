@@ -29,32 +29,19 @@ This mod was not packaged correctly.
 
 #### FOMOD Instructions
 
-* **Animation Rig Map:**
-  * No Physics
-* **Character Creation:**
-  * Racemenu
-* **Weapon Style Randomizer for NPCs:**
-  * None
-* **Animation Variants:**
-  * *leave everything on None*
-* **First Person Animation - Axes:**
-  * ~~Axes on Back~~
-* **First Person Animation - Swords**
-  * None
-* **Mounted Combat Animation - Axes:**
-  * ~~Axes on Back~~
-* **Mounted Combat Animation - Bow:**
-  * ~~Belt-Fastened Quiver~~
-* **Mounted Combat Animation - Sword:**
-  * None
-* **The Joy of Perspective:**
-  * None
-* **Schlongs of Skyrim:**
-  * None
-* **Deadly Mutilation:**
-  * None
-* **Enderal:**
-  * None
+* **Animation Rig Map:** No Physics
+* **Character Creation:** Racemenu
+* **Weapon Style Randomizer for NPCs:** None
+* **Animation Variants:** *leave everything on None*
+* **First Person Animation - Axes:** ~~Axes on Back~~
+* **First Person Animation - Swords** None
+* **Mounted Combat Animation - Axes:** ~~Axes on Back~~
+* **Mounted Combat Animation - Bow:** ~~Belt-Fastened Quiver~~
+* **Mounted Combat Animation - Sword:** None
+* **The Joy of Perspective:** None
+* **Schlongs of Skyrim:** None
+* **Deadly Mutilation:** None
+* **Enderal:** None
 
 ## 39.3 XPMSSE Fixes - Automated Patcher
 

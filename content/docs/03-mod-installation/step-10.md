@@ -129,10 +129,11 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 
 * **Main Files:** Immersive Fallen Trees SSE
 
-## 10.11 Immersive Fallen Trees Patch (optional)
+## 10.11 Immersive Fallen Trees Patch (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **Immersive Fallen Trees**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/27834?tab=files) 
 
 * **Main Files:** Immersive Fallen Trees Patch
-
-> Install this mod if you installed Immersive Fallen Trees. Otherwise skip it.

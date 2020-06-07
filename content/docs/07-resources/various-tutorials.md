@@ -1,6 +1,6 @@
 ---
 title: "Quick Tutorials"
-weight: 1
+weight: 2
 type: docs
 description: >
   Brief instructions for different problems.

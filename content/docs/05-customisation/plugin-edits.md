@@ -1,6 +1,6 @@
 ---
 title: "Plugin Edits"
-weight: 9
+weight: 28
 type: docs
 description: >
   Tweaking instructions for some of the guide's plugins.

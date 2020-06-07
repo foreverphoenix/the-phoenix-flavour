@@ -107,7 +107,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26532?tab=files)
 
 * **Main Files:** Dark grey Rapid Rocks
-* **Main Files:** Update for both versions --- `merge with the main file`
+* **Main Files:** Update for both versions >> `merge with the main file`
 
 ## 9.6 Majestic Mountains - Northside (optional)
 
@@ -129,7 +129,7 @@ Be aware that Vey is not built for performance like Cath Landscapes so especiall
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
-* **Main Files:** Realistic Water Two SE v3.0.2
+* **Main Files:** Realistic Water Two SE v3.0.3
 
 #### FOMOD Instructions
 
@@ -236,13 +236,14 @@ Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that on
 
 * **Main Files:** Rorikstead Basalt Cliffs
 
-## 9.17 Rorikstead Basalt Cliffs Patches (optional)
+## 9.17 Rorikstead Basalt Cliffs Patches (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **Rorikstead Basalt Cliffs**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/31981?tab=files)
 
 * **Main Files:** Rorikstead Basalt Cliffs Patches
-
-> Install this mod if you installed Rorikstead Basalt Cliffs. Otherwise skip it.
 
 #### FOMOD Instructions
 

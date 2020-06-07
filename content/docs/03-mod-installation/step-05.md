@@ -49,7 +49,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 
 * **Main Files:** Ruins_Clutter_Improved_SE_NMM_v3-1
-* **Update Files:** Falmer Temple Chandelier --- `merge with the main file`
+* **Update Files:** Falmer Temple Chandelier >> `merge with the main file`
 
 #### FOMOD Instructions
 

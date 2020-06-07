@@ -11,7 +11,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files)
 
 - **Main Files:** Frozen Electrocuted Combustion - 3.4.5
-- **Update Files:** Frozen Electrocuted Combustion - 3.4.7 (update) --- `merge with the main file`
+- **Update Files:** Frozen Electrocuted Combustion - 3.4.7 (update) >> `merge with the main file`
 
 ## 8.2 Enhanced Blood Textures
 
@@ -21,20 +21,13 @@ description: >
 
 #### FOMOD Instructions
 
-- **Compatibility Patch:**
-  - ~~Immersive Creatures~~
-- **Effects Distance:**
-  - Medium
-- **Blood Size:**
-  -  None
-- **Wounds:** 
-  - Reduced Wound Size (Optional)
-- **Textures:**
-  -  Reduced Res / Default Color
-- **Blurry Screen Blood:**
-  - ~~EBT Blurry Screen Blood (Optional)~~
-- **Alternate Textures:**
-  -  Reduced Res / Default Color
+- **Compatibility Patch:** ~~Immersive Creatures~~
+- **Effects Distance:** Medium
+- **Blood Size:** None
+- **Wounds:** Reduced Wound Size (Optional)
+- **Textures:** Reduced Res / Default Color
+- **Blurry Screen Blood:** ~~EBT Blurry Screen Blood (Optional)~~
+- **Alternate Textures:** Reduced Res / Default Color
 
 ## 8.3 GORECAP (optional)
 
@@ -50,18 +43,13 @@ description: >
 
 #### FOMOD Instructions
 
-* **Options:**
-  * Custom
-* **Custom:**
-  * One Fire Impact (Default)
-* **Fire:**
-  * Alternate 1
-* **Frost:**
-  * Default
-* **Lightning:**
-  * Alternate 1
+* **Options:** Custom
+* **Custom:** One Fire Impact (Default)
+* **Fire:** Alternate 1
+* **Frost:** Default
+* **Lightning:** Alternate 1
 
-## 8.5 Arctic - Frost Effects Redux (optional)
+## 8.5 Arctic - Frost Effects Redux
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files)
 
