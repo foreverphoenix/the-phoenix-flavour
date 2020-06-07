@@ -1,9 +1,9 @@
 ---
 title: "Mod Installation"
-weight: 3
+weight: 10
 type: docs
 description: >
-  Installation instructions for all mods.
+  Rules, tips, and tricks for the Mod Installation section.
 ---
 
 After completing the Setup, you are equipped with a correctly installed and configured instance of Mod Organizer 2 that is properly set up with the Skyrim Script Extender. It is now time to dive into the by far longest section in the guide - the mod installation.
@@ -78,7 +78,3 @@ You will also be instructed to delete, rename, or move files through the MO2 int
 - Double-click the mod in your mod order (left pane of Mod Organizer 2).
 - Switch to the **Filetree** tab and find the files you need to delete/rename/move.
 - Right-click to remove/rename or move them per drag-and-drop.
-
-## All Steps
-
-**Begin now with Essential Mods.**
