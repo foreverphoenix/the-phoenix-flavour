@@ -20,7 +20,7 @@ description: >
 
 #### Mod Order
 
-* Place both patches below the **PATCHES** separator.
+* Place the patch below the **PATCHES** separator.
 
 ## 37.2 Immersive Sounds - Compendium (ISC)
 
