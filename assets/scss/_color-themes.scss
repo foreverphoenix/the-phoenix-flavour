@@ -78,7 +78,7 @@ $themes: (
     theme-td-sidebar-text-color: $primary-dark,
     theme-td-sidebar-link-color: darken($primary, 10%),
     theme-td-sidebar-hover-color: darken($primary-light, 30%),
-    theme-td-sidebar-scroll-color: lighten($primary-main, 30%),
+    theme-td-sidebar-scroll-color: lighten($primary-main, 20%),
 
     // Table of Contents
     theme-td-toc-text-color: $secondary-text,
@@ -88,7 +88,7 @@ $themes: (
 
     // Links
     // Only affects text links and breadcrumbs, not the sidebars.
-    theme-link-color: darken($primary-text, 10%),
+    theme-link-color: darken($primary-light, 30%),
     theme-link-decoration: none,
     theme-link-hover-color: lighten($link-color, 15%),
     theme-link-hover-decoration: none,
