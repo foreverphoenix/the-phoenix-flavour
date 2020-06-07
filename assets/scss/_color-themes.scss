@@ -40,6 +40,14 @@ $themes: (
 
     // Alerts
           theme-alert-bg-color: darken($secondary-main, 5%),
+          alert-primary:    $primary,
+          alert-secondary:  $secondary,
+          alert-success:    $success,
+          alert-info:       $info,
+          alert-warning:    $warning,
+          alert-danger:     $danger,
+          alert-light:      $light,
+          alert-dark:       $dark,
   ),
 
   light: (
@@ -81,6 +89,14 @@ $themes: (
           theme-navbar-color: rgba($black, 0.75),
     // Alerts
           theme-alert-bg-color: $gray-400,
+          alert-primary:    $primary,
+          alert-secondary:  $secondary,
+          alert-success:    $success,
+          alert-info:       $info,
+          alert-warning:    $warning,
+          alert-danger:     $danger,
+          alert-light:      $light,
+          alert-dark:       $dark,
   ),
 );
 
