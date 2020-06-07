@@ -6,6 +6,35 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.3
+
+I re-added the mod installation instructions that I completely missed in the original website setup. Whoops! It's not like they're important or anything. You can find them in the [mod installation parent page](https://foreverphoenix.github.io/docs/03-mod-installation/). It's not a straight copy-paste, I re-structured it and re-wrote parts as well. All "generic instructions" (using CAO, resaving plugins, etc) were moved to the [Basic Instructions](https://foreverphoenix.github.io/docs/07-resources/basic-instructions/) page under Resources.
+
+The "Unpack Example.bsa" instructions previously contained instructions to delete the BSA afterwards. Some users missed this step and others got confused so I removed it and added instructions to delete the BSA directly to the mod instructions where appropriate. Should be pretty hard to miss now.
+
+Some mods are now flagged as **(Conditional)**, meaning they are optional but depend on other mods. You must install a **(Conditional)** mod if you installed the mod that it depends on. Otherwise you must skip it.
+
+And finally I added several new mods: **Immersive Sounds Compendium** with DylanJames' new AOS integration patch to the main guide and my favourite new music mods with a merged patch to the Customisation.
+
+#### Setup
+
+- **Step 7:** Removed the zEdit section. zEdit will be re-added to the guide once mator provides ESL support.
+
+#### Mod Installation
+
+- Removed Dwemer Spectres.
+- Removed Dwemer Spectres - EBT No Bleeding and Other Fixes.
+- Moved Adopt Aventus Aretino from Non-Player Characters (Step 26) to New Mechanics & Features (Step 36).
+- **3.9:** Changed download instructions for Realistic Conversation (using a different main file).
+- **8.5:** Arctic - Frost Effects Redux is no longer optional (conflict with ISC had to be resolved in the CRP).
+- **36.8:** Re-added Irondusk's Saddlebags.
+- **37.2:** Added Immersive Sounds - Compendium.
+- **37.3:** Added Audio Overhaul - Immersive Sounds Integration.
+
+#### Customisation
+
+- **New Music:** Added this new section with five new music mods and a merged patch.
+
 ## Release 3.2.3
 
 Maintenance update.
