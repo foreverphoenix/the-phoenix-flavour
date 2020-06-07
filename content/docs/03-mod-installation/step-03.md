@@ -69,7 +69,7 @@ description: >
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files)
 
-- **Main Files:** Realistic Conversations - No greetings compatible - longer pause between sentences
+- **Optional Files:** Realistic Conversations - No greetings compatible - longer pause between sentences
 
 ## 3.10 No NPC Greetings (optional)
 
