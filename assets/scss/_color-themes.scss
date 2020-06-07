@@ -88,7 +88,7 @@ $themes: (
 
     // Links
     // Only affects text links and breadcrumbs, not the sidebars.
-    theme-link-color: darken($primary-text, 10%),
+    theme-link-color: darken(saturate($primary-light, 100%), 20%),
     theme-link-decoration: none,
     theme-link-hover-color: lighten($link-color, 15%),
     theme-link-hover-decoration: none,
