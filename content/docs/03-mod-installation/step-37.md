@@ -84,25 +84,25 @@ description: >
 
 * **Main Files:** Werewolf Sounds - LOW AGGRESSION
 
-## 37.4 Realistic Husky Sounds (optional)
+## 37.6 Realistic Husky Sounds (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/11038?tab=files)
 
 * **Main Files:** Realistic Husky Sounds SE
 
-## 37.6 OMINOUS Dragon Soul Absorb Music (optional)
+## 37.7 OMINOUS Dragon Soul Absorb Music (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/60767?tab=files)
 
 * **Main Files:** OMINOUS Dragon Soul Absorb Music
 
-## 37.7 Soultrap Sound Edit – Calm Wind (optional)
+## 37.8 Soultrap Sound Edit – Calm Wind (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/8017?tab=files)
 
 * **Main Files:** Soultrap Sound Edit Calm Wind v1
 
-## 37.8 Lower Sounding Thieves Guild Door (optional)
+## 37.9 Lower Sounding Thieves Guild Door (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/1826?tab=files)
 
