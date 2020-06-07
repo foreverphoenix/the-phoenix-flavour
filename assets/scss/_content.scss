@@ -57,11 +57,14 @@
   > blockquote {
     padding: 0 0 0 1rem;
     margin-bottom: $spacer;
-    color: $gray-600;
+    line-height: 2.5;
 
     @include themed() {
-      border-left: 6px solid t($theme-secondary);
+      color: t($theme-quote-text-color);
+      background-color: t($theme-quote-background-color);
     }
+
+    border-left: 6px solid $primary-highlight;
   }
 
   > ul li, > ol li {

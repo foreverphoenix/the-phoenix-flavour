@@ -24,6 +24,10 @@ $secondary-light: #235163 !default;
 $secondary-dark:  #1b1b1b !default;
 $secondary-text:  #E2E8E9 !default;
 
+$primary-highlight: #FFA10A !default;
+$secondary-highlight-light: rgba(255, 170, 0, 0.1) !default;
+$secondary-highlight-dark: rgba(17, 51, 68, 0.3) !default;
+
 $dark:    		  darken($primary-dark, 8%) !default;
 
 // Theme colours
