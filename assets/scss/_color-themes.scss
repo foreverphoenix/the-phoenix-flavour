@@ -1,86 +1,115 @@
 
 $themes: (
   default: (
-          theme-white: $white,
-          theme-dark: $dark,
+    theme-white: $white,
+    theme-dark: $dark,
 
     // Theme colours
-          theme-primary: darken($primary-dark, 10%),
-          theme-primary-light: lighten($primary, 75%),
-          theme-secondary: $secondary-main,
+    theme-primary: darken($primary-dark, 10%),
+    theme-primary-light: lighten($primary, 75%),
+    theme-secondary: $secondary-main,
 
     // UI element colors
-          theme-border-color: darken($secondary-main, 10%),
-          theme-td-sidebar-border-color: $td-sidebar-border-color,
+    theme-border-color: darken($secondary-main, 10%),
+    theme-td-sidebar-border-color: $td-sidebar-border-color,
 
     // Body
-          theme-body-bg: darken($secondary-main, 5%),
-          theme-body-color: $white,
+    theme-body-bg: darken($secondary-main, 5%),
+    theme-body-color: $white,
 
     // Sidebar
-          theme-td-sidebar-bg-color: desaturate($primary-dark, 10%),
-          theme-td-sidebar-text-color: darken($secondary-text, 30%),
-          theme-td-sidebar-link-color: darken($secondary-text, 10%),
-          theme-td-sidebar-hover-color: saturate($primary-light, 10%),
+    theme-td-sidebar-bg-color: desaturate($primary-dark, 10%),
+    theme-td-sidebar-text-color: darken($secondary-text, 30%),
+    theme-td-sidebar-link-color: darken($secondary-text, 10%),
+    theme-td-sidebar-hover-color: saturate($primary-light, 10%),
+    theme-td-sidebar-scroll-color: darken($primary-main, 10%),
 
     //Table of Contents
-          theme-td-toc-text-color: darken($secondary-text, 10%),
-          theme-td-toc-text-hover-color: $primary-light,
-          theme-td-toc-bg-color: desaturate($primary-dark, 10%),
+    theme-td-toc-text-color: darken($secondary-text, 10%),
+    theme-td-toc-text-hover-color: $primary-light,
+    theme-td-toc-bg-color: desaturate($primary-dark, 10%),
+    theme-td-toc-border-color: $primary-highlight,
 
     // Links
     // Only affects text links and breadcrumbs, not the sidebars.
-          theme-link-color: $primary-light,
-          theme-link-decoration: none,
-          theme-link-hover-color: lighten($link-color, 15%),
-          theme-link-hover-decoration: none,
+    theme-link-color: $primary-light,
+    theme-link-decoration: none,
+    theme-link-hover-color: lighten($link-color, 15%),
+    theme-link-hover-decoration: none,
 
     // Navbar
-          theme-navbar-color: rgba($white, 0.75),
+    theme-navbar-color: rgba($white, 0.75),
 
     // Alerts
-          theme-alert-bg-color: darken($secondary-main, 5%),
+    theme-alert-bg-color: darken($secondary-main, 5%),
+    alert-primary:    $primary,
+    alert-secondary:  $secondary,
+    alert-success:    $success,
+    alert-info:       $info,
+    alert-warning:    $primary-highlight,
+    alert-danger:     $danger,
+    alert-light:      $light,
+    alert-dark:       $dark,
+
+    // Quotes
+    theme-quote-text-color: darken($secondary-text, 20%),
+    theme-quote-background-color: $secondary-highlight-dark,
   ),
 
   light: (
-          theme-white: $dark,
-          theme-dark: $white,
+    theme-white: $dark,
+    theme-dark: $white,
 
     // Theme colours
-          theme-primary: darken($primary-dark, 10%),
-          theme-primary-light: lighten($primary-dark, 75%),
-          theme-secondary: $secondary-main,
+    theme-primary: darken($primary-dark, 10%),
+    theme-primary-light: lighten($primary-dark, 75%),
+    theme-secondary: $secondary-main,
 
     // UI element colors
-          theme-border-color: darken($secondary-light, 10%),
-          theme-td-sidebar-border-color: $secondary-dark,
+    theme-border-color: darken($secondary-light, 10%),
+    theme-td-sidebar-border-color: $secondary-dark,
 
     // Body
-          theme-body-bg: darken($white, 30%),
-          theme-body-color: $primary-dark,
+    theme-body-bg: darken($white, 30%),
+    theme-body-color: $primary-dark,
 
     // Sidebar
-          theme-td-sidebar-bg-color: desaturate($primary-light, 30%),
-          theme-td-sidebar-text-color: $primary-dark,
-          theme-td-sidebar-link-color: darken($primary, 10%),
-          theme-td-sidebar-hover-color: darken($primary-light, 30%),
+    theme-td-sidebar-bg-color: desaturate($primary-light, 30%),
+    theme-td-sidebar-text-color: $primary-dark,
+    theme-td-sidebar-link-color: darken($primary, 10%),
+    theme-td-sidebar-hover-color: darken($primary-light, 30%),
+    theme-td-sidebar-scroll-color: lighten($primary-main, 20%),
 
     // Table of Contents
-          theme-td-toc-text-color: $secondary-text,
-          theme-td-toc-text-hover-color: $primary-light,
-          theme-td-toc-bg-color: saturate($primary-dark, 30%),
+    theme-td-toc-text-color: $secondary-text,
+    theme-td-toc-text-hover-color: $primary-light,
+    theme-td-toc-bg-color: saturate($primary-dark, 30%),
+    theme-td-toc-border-color: $primary-highlight,
 
     // Links
     // Only affects text links and breadcrumbs, not the sidebars.
-          theme-link-color: darken($primary-text, 10%),
-          theme-link-decoration: none,
-          theme-link-hover-color: lighten($link-color, 15%),
-          theme-link-hover-decoration: none,
+    theme-link-color: darken($primary-light, 20%),
+    theme-link-decoration: none,
+    theme-link-hover-color: lighten($link-color, 25%),
+    theme-link-hover-decoration: none,
 
     // Navbar
-          theme-navbar-color: rgba($black, 0.75),
+    theme-navbar-color: rgba($black, 0.75),
+
     // Alerts
-          theme-alert-bg-color: $gray-400,
+    theme-alert-bg-color: $gray-400,
+    alert-primary:    $primary,
+    alert-secondary:  $secondary,
+    alert-success:    $success,
+    alert-info:       $info,
+    alert-warning:    darken($primary-highlight, 10%),
+    alert-danger:     $danger,
+    alert-light:      $light,
+    alert-dark:       $dark,
+
+    // Quotes
+    theme-quote-text-color: lighten($secondary-dark, 20%),
+    theme-quote-background-color: $secondary-highlight-light,
   ),
 );
 
@@ -129,6 +158,7 @@ $theme-td-sidebar-bg-color:      'theme-td-sidebar-bg-color';
 $theme-td-sidebar-text-color:    'theme-td-sidebar-text-color';
 $theme-td-sidebar-link-color:    'theme-td-sidebar-link-color';
 $theme-td-sidebar-hover-color:   'theme-td-sidebar-hover-color';
+$theme-td-sidebar-scroll-color:  'theme-td-sidebar-scroll-color';
 $theme-td-toc-text-color:        'theme-td-toc-text-color';
 $theme-td-toc-text-hover-color:  'theme-td-toc-text-hover-color';
 $theme-td-toc-bg-color:          'theme-td-toc-bg-color';
@@ -138,7 +168,9 @@ $theme-link-hover-color:         'theme-link-hover-color';
 $theme-link-hover-decoration:    'theme-link-hover-decoration';
 $theme-navbar-color:             'theme-navbar-color';
 $theme-alert-bg-color:           'theme-alert-bg-color';
-
+$theme-quote-text-color:         'theme-quote-text-color';
+$theme-quote-background-color:   'theme-quote-background-color';
+$theme-td-toc-border-color:      'theme-td-toc-border-color';
 
 body {
   @include themedBody() {

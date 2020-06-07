@@ -24,6 +24,10 @@ $secondary-light: #235163 !default;
 $secondary-dark:  #1b1b1b !default;
 $secondary-text:  #E2E8E9 !default;
 
+$primary-highlight: #FFA10A !default;
+$secondary-highlight-light: rgba(255, 170, 0, 0.1) !default;
+$secondary-highlight-dark: rgba(17, 51, 68, 0.3) !default;
+
 $dark:    		  darken($primary-dark, 8%) !default;
 
 // Theme colours
@@ -62,6 +66,19 @@ $link-color: $primary-light !default;
 $link-decoration: none !default;
 $link-hover-color: lighten($link-color, 15%) !default;
 $link-hover-decoration: none !default;
+
+
+// Alerts
+$primary: #30638E !default;
+$primary-light: lighten($primary, 75%) !default;
+$secondary: #FFA630 !default;
+$success: #3772FF !default;
+$info: #50ACBE !default;
+$warning: #179CB4 !default;
+$danger: #ED6A5A !default;
+$white: #fff !default;
+$light: #D3F3EE !default;
+
 
 // Colour scheme
 @import "color-themes";
