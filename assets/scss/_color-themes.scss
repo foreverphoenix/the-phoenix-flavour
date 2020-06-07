@@ -22,6 +22,7 @@ $themes: (
     theme-td-sidebar-text-color: darken($secondary-text, 30%),
     theme-td-sidebar-link-color: darken($secondary-text, 10%),
     theme-td-sidebar-hover-color: saturate($primary-light, 10%),
+    theme-td-sidebar-scroll-color: darken($primary-main, 10%),
 
     //Table of Contents
     theme-td-toc-text-color: darken($secondary-text, 10%),
@@ -41,6 +42,14 @@ $themes: (
 
     // Alerts
     theme-alert-bg-color: darken($secondary-main, 5%),
+    alert-primary:    $primary,
+    alert-secondary:  $secondary,
+    alert-success:    $success,
+    alert-info:       $info,
+    alert-warning:    $primary-highlight,
+    alert-danger:     $danger,
+    alert-light:      $light,
+    alert-dark:       $dark,
 
     // Quotes
     theme-quote-text-color: darken($secondary-text, 20%),
@@ -69,6 +78,7 @@ $themes: (
     theme-td-sidebar-text-color: $primary-dark,
     theme-td-sidebar-link-color: darken($primary, 10%),
     theme-td-sidebar-hover-color: darken($primary-light, 30%),
+    theme-td-sidebar-scroll-color: lighten($primary-main, 30%),
 
     // Table of Contents
     theme-td-toc-text-color: $secondary-text,
@@ -88,6 +98,14 @@ $themes: (
 
     // Alerts
     theme-alert-bg-color: $gray-400,
+    alert-primary:    $primary,
+    alert-secondary:  $secondary,
+    alert-success:    $success,
+    alert-info:       $info,
+    alert-warning:    darken($primary-highlight, 10%),
+    alert-danger:     $danger,
+    alert-light:      $light,
+    alert-dark:       $dark,
 
     // Quotes
     theme-quote-text-color: lighten($secondary-dark, 20%),
@@ -140,6 +158,7 @@ $theme-td-sidebar-bg-color:      'theme-td-sidebar-bg-color';
 $theme-td-sidebar-text-color:    'theme-td-sidebar-text-color';
 $theme-td-sidebar-link-color:    'theme-td-sidebar-link-color';
 $theme-td-sidebar-hover-color:   'theme-td-sidebar-hover-color';
+$theme-td-sidebar-scroll-color:  'theme-td-sidebar-scroll-color';
 $theme-td-toc-text-color:        'theme-td-toc-text-color';
 $theme-td-toc-text-hover-color:  'theme-td-toc-text-hover-color';
 $theme-td-toc-bg-color:          'theme-td-toc-bg-color';

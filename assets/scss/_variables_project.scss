@@ -67,6 +67,19 @@ $link-decoration: none !default;
 $link-hover-color: lighten($link-color, 15%) !default;
 $link-hover-decoration: none !default;
 
+
+// Alerts
+$primary: #30638E !default;
+$primary-light: lighten($primary, 75%) !default;
+$secondary: #FFA630 !default;
+$success: #3772FF !default;
+$info: #50ACBE !default;
+$warning: #179CB4 !default;
+$danger: #ED6A5A !default;
+$white: #fff !default;
+$light: #D3F3EE !default;
+
+
 // Colour scheme
 @import "color-themes";
 

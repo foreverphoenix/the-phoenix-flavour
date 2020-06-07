@@ -6,6 +6,7 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+
 ## Release 3.3
 
 I re-added the mod installation instructions that I completely missed in the original website setup. Whoops! It's not like they're important or anything. You can find them [here](https://foreverphoenix.github.io/docs/02-setup/step-10/). It's not a straight copy-paste, I re-structured it and re-wrote parts as well. All "generic instructions" (using CAO, resaving plugins, etc) were moved to the [Basic Instructions](https://foreverphoenix.github.io/docs/07-resources/basic-instructions/) page under Resources.
@@ -36,6 +37,17 @@ And finally I added several new mods: **Immersive Sounds Compendium** with Dylan
 #### Customisation
 
 - **New Music:** Added this new section with five new music mods and a merged patch.
+
+## Release 3.2.3
+
+Maintenance update.
+
+#### Mod Installation
+
+- **8.1:** Updated download instructions for Frozen Electrocuted Combustion (file update).
+- **10.1:** Updated FOMOD instructions for EVT Alternate Branch Textures (file update).
+- **37.1:** Updated download instructions for Audio Overhaul for Skyrim, removed instructions to download the EBT Patch (now integrated into the CRP).
+- **37.1:** Removed instructions to delete the SKSE folder (no longer preset) and added instructions to delete the modgroups file for Audio Overhaul for Skyrim.
 
 ## Release 3.2.3
 
