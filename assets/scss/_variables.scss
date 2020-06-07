@@ -22,7 +22,7 @@ $primary-light: lighten($primary, 75%) !default;
 $secondary: #FFA630 !default;
 $success: #3772FF !default;
 $info: #50ACBE !default;
-$warning: #179CB4 !default;
+$warning: $primary-highlight !default;
 $danger: #ED6A5A !default;
 $white: #fff !default;
 $light: #D3F3EE !default;

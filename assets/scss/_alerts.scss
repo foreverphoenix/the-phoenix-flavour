@@ -11,7 +11,7 @@
     @each $color, $value in $theme-colors {
         &-#{$color} {
             & .alert-heading {
-                color: $value;
+                color: darken($value, 10%);
             }
 
             border-style: solid;
