@@ -100,7 +100,7 @@ If you also installed **Mortal Enemies**, there will be a conflict between the t
 #### Additional Instructions
 
 * Double-click **Disarming Traps Is Dangerous** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin:
+* Switch to the **Filetree** tab and rename the plugin to:
   * DisarmingTrapsIsDangerous.**esp**
 
 > This is faster than downloading and ESL-ifying the ESP version.

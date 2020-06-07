@@ -14,7 +14,7 @@ description: >
 
 ## 3.2 Dwemer Gates Don't Reset (optional)
 
-#### [Download Instructions]((https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files) )
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files)
 
 - **Main Files:** Dwemer Gates Don't Reset
 
@@ -67,9 +67,9 @@ description: >
 
 ## 3.9 Realistic Conversations (optional)
 
-#### [Download Instructions](](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files))
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files)
 
-- **Main Files:** Realistic Conversations
+- **Main Files:** Realistic Conversations - No greetings compatible - longer pause between sentences
 
 ## 3.10 No NPC Greetings (optional)
 
@@ -93,7 +93,7 @@ description: >
 
 - **Main Files:** Random Encounter Tweaks
 
-> Please be aware that the only part of the mod that will come into effect is the addition of Shivs for Skooma dealers. Everything else will eventually be overwritten by Timing Is Everything.
+> Be aware that the only part of the mod that will come into effect is the addition of Shivs for Skooma dealers. Everything else will eventually be overwritten by Timing Is Everything.
 
 ## 3.13 Morrowloot Miscellania - Better Ancient Knowledge (optional)
 

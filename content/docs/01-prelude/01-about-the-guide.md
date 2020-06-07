@@ -81,10 +81,12 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 - **CPU:** Processor with high single core performance (3.2GHz or more).
 - **RAM:** 8-16 GB of DDR3 or DDR4 memory, running at 2400MHz or faster.
 - **GPU:** A modern card with at least 4GB of VRAM (ideally 6-8GB).
-- **Hard Drive:** At least 100GB of free space on a fast HDD or SSD.
+- **Hard Drive:** At least 80GB of free space, ideally on an SSD.
 - **Monitor:** With a standard (16:9) or widescreen (21:9) aspect ratio.
 
-> Widescreen support can be found in the Customisation section.
+**Free space:** The full TPF installation is about 60GB large, excluding downloads (they can easily be saved to a different hard drive). Skyrim SE is another 13GB. Obviously you need to remember that your hard drive needs to have some free space left, around 20% for optimal performance.
+
+**Widescreen support:** UI patches and replacers can be found in the Customisation section to be installed after the main guide.
 
 ### Phoenix's Build
 

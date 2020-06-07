@@ -22,13 +22,14 @@ This will stop dragons from disintegrating upon death. You will still receive th
 
 * **Main Files:** Talkative Dragons
 
-## 30.3 Talkative Dragons – Audio Replacer (optional)
+## 30.3 Talkative Dragons - Audio Replacer (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **Talkative Dragons**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/27269?tab=files)
 
 * **Main Files:** TDReplacer
-
-> Install this mod if you installed **Talkative Dragons**. Otherwise skip it. 
 
 ## 30.4 Durnehviir Resurrected (optional)
 

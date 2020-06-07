@@ -30,7 +30,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/6580?tab=files)
 
 * **Main Files:** SkySight Skins HD with Real Feet Meshes (HIGH - Recommended)
-* **Optional Files:** PATCH - Shoe Fixes (Less Shine) --- `merge with the main file`
+* **Optional Files:** PATCH - Shoe Fixes (Less Shine) >> `merge with the main file`
 
 #### FOMOD Instructions
 
@@ -95,7 +95,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/24482?tab=files)
 
 * **Main Files:** VMHD - All Races - 2K
-* **Update Files:** VMHD - FemaleLowerEyeSocketFix - 2K --- `merge with the main file`
+* **Update Files:** VMHD - FemaleLowerEyeSocketFix - 2K >> `merge with the main file`
 
 ## 24.8 Painterly – A High Res Vanilla Warpaint Retexture (optional)
 

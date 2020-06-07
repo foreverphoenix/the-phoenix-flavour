@@ -3,7 +3,7 @@ title: "Sounds & Music"
 weight: 37
 type: docs
 description: >
-  New and improved sound effects and music.
+  New and improved sounds with additional sliders.
 ---
 
 ## 37.1 Audio Overhaul for Skyrim (AOS)
@@ -55,7 +55,7 @@ description: >
 - **Nirnroot Options:**
   - *Feel free to make your own choice.*
 - **Misc Options:**
-  - More Rustling Heavy Armor --- `this may get annoying, feel free to skip it`
+  - More Rustling Heavy Armor >> `this may get annoying, feel free to skip it`
   - ~~Oblivion Skillup Sound~~
   - Dungeon Ambiance
   - ~~TESO Summoning~~

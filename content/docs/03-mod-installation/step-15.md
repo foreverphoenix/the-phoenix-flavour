@@ -106,7 +106,7 @@ description: >
 * Double-click **CC’s Enhanced Ore Veins** in your mod order.
 * Switch to the **Filetree** tab.
 * Rename the plugin’s file extension:
-  * CC’sEnhancedOreVeinsSSE-HearthfirePatch.**esp**
+  * `CC’sEnhancedOreVeinsSSE-HearthfirePatch.esl` >> `CC’sEnhancedOreVeinsSSE-HearthfirePatch.esp`
 
 > This is faster than ESL-ifying the ESP version.
 

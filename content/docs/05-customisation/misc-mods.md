@@ -1,6 +1,6 @@
 ---
 title: "Misc Mods"
-weight: 8
+weight: 27
 type: docs
 description: >
   Installation instructions for various, smaller mods.

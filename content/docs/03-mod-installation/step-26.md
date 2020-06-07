@@ -139,9 +139,3 @@ A number of (vanilla) features can be disabled through GDO console commands.
 * **NTMD Mod Support (Beta):**
   * ~~Apocalypse for SSE~~
   * ~~Elemental Destruction Magic for SSE~~
-
-## 26.12 Adopt Aventus Aretino
-
-#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
-
-* **Main Files:** Adopt Aventus Aretino

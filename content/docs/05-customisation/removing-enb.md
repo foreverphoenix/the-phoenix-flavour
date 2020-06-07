@@ -1,6 +1,6 @@
 ---
 title: "Removing ENB"
-weight: 10
+weight: 29
 type: docs
 description: >
   Instructions to completely uninstall ENBSeries.

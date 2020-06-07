@@ -161,20 +161,21 @@ description: >
 
 * **Main Files:** Open Face Guard Helmets
 
-## 19.9 Open Face Guard Helmets – Plugin Replacer (optional)
+## 19.9 Open Face Guard Helmets – Plugin Replacer (conditional)
+
+{{% alert title="Mod Dependency" color="warning" %}}
+Only install this mod if you installed **Open Face Guard Helmets**. Otherwise skip it.{{% /alert %}}
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 * **Main Files:** Open Face Guard Helmets - Replacer Plugin
-
-> Install this mod if you installed Open Face Guard Helmets. Otherwise skip it.
 
 ## 19.10 Frankly HD Stormcloaks and City Guards (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/42404?tab=files)
 
 * **Main Files:** UltraHD - Stormcloak and City Guards 2K version
-* **Optional Files:** Fix by SpriterSan for 2k version --- `merge with the main file`
+* **Optional Files:** Fix by SpriterSan for 2k version >> `merge with the main file`
 
 ## 19.11 aMidianBorn Stormcloak Officer Armour (optional)
 
@@ -295,7 +296,7 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files)
 
 * **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
-* **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch --- `merge with the main file`
+* **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch >> `merge with the main file`
 
 ## 19.24 Sunhallowed and Bloodcursed Arrows – HD Retexture
 
@@ -306,14 +307,14 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 #### Porting Instructions
 
-* Run **Sunhallowed Arrows** through Cathedral Assets Optimizer (**SSE – Optimise SLE Assets**).
+* Run **Sunhallowed Arrows** through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
 
 ## 19.26 Dragon Priest Weapons Improved (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/60075?tab=files)
 
 * **Main Files:** Dragon Priest Weapon Improved
-* **Update Files:** Quick Update --- `merge with the main file`
+* **Update Files:** Quick Update >> `merge with the main file`
 
 #### Porting Instructions
 
