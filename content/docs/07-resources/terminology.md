@@ -8,8 +8,26 @@ description: >
 
 ## General
 
+| Term           | Definition                                                   |
+| -------------- | ------------------------------------------------------------ |
+| CC             | Creation Club                                                |
+| CK             | Creation Kit                                                 |
+| Data folder    | `Steam\steamapps\common\Skyrim Special Edition\Data\`        |
+| ENB            | ENBSeries, a post-processing FX injector.                    |
+| ENB Binaries   | d3d11.dll, d3dcompiler_46e.dll (core part of ENBSeries)      |
+| Form Version   | Plugin component, 43 for SLE, 44 for SSE. Update SLE plugins to SSE by resaving them. |
+| INI Folder     | `C:\Users\Username\Documents\My Games\Skyrim Special Edition\` |
+| LOOT           | Load Order Optimisation Tool, sorts plugins based on a masterlist. |
+| MO2            | Mod Organizer 2                                              |
+| NMM            | Nexus Mod Manager (deprecated, superceded by Vortex)         |
+| Particle Patch | Mesh fix collection by mindflux, only available on the ENB forums. |
+| Resaving       | Loading and saving a plugin into the CK without editing it, updates to Form Version 44 |
+| Root folder    | `Steam\steamapps\common\Skyrim Special Edition\`             |
+| xEdit          | Community-made plugin editing software, available for many Beth games (SSEEdit, FO4Edit, etc). |
 
 ## Mod Acronyms
+
+The table below contains many popular abbreviations for certain mods, including mods that are not in the guide. 
 
 | Acronym | Mod                                                          |
 | ------- | ------------------------------------------------------------ |
@@ -22,6 +40,7 @@ description: >
 | AS LAL  | Alternate Start - Live Another Life                          |
 | BDS     | Better Dynamic Snow                                          |
 | BSW     | (LeanWolf's) Better-Shaped Weapons                           |
+| CACO    | Complete Alchemy and Cooking overhaul                        |
 | CBBE    | Caliente's Beautiful Bodies Enhancer                         |
 | CCOR    | Complete Crafting Overhaul Redone (SLE), Complete Crafting Overhaul Remastered (SSE) |
 | CFTO    | Carriage and Ferry Travel Overhaul (formerly Complete Fast Travel Overhaul) |
