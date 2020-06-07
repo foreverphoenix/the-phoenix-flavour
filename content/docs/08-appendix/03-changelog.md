@@ -14,6 +14,8 @@ The "Unpack Example.bsa" instructions previously contained instructions to delet
 
 Some mods are now flagged as **(Conditional)**, meaning they are optional but depend on other mods. You must install a **(Conditional)** mod if you installed the mod that it depends on. Otherwise you must skip it.
 
+And finally I added several new mods: **Immersive Sounds Compendium** with DylanJames' new AOS integration patch to the main guide and my favourite new music mods with a merged patch to the Customisation.
+
 #### Setup
 
 - **Step 7:** Removed the zEdit section. zEdit will be re-added to the guide once mator provides ESL support.
