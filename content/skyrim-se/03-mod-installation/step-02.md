@@ -63,10 +63,16 @@ The commands will now be executed automatically when you start a new game or loa
 
 #### FOMOD Instructions
 
-- **Main Plugin:** ESM
-- **Patches:** *select nothing*
-- **Walkway Wall FIX:** Walkway Wall FIX SMIM
-- **Optional:** Missing Lights Fix
+- **Main Plugin:**
+  - ESM
+- **Patches:**
+  - ~~ELFX~~
+  - ~~Relighting Skyrim~~
+- **Walkway Wall FIX:**
+  - Walkway Wall FIX SMIM
+- **Optional:**
+  - Missing Lights Fix
+  - ~~ELFX - Exteriors Fixed Mesh~~
 
 ## 2.7 Landscape Fixes for Grass Mods
 
