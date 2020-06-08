@@ -12,7 +12,7 @@ description: >
 
 * **Main Files:** Obsidian Weathers - 1.07
 
-## 6.2 Obsidian Weathers and Seasons MCM Patch (optional)
+## 6.2 Obsidian Weathers and Seasons MCM Patch
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/20209?tab=files)
 

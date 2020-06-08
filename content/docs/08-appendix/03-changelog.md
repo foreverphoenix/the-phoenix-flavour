@@ -6,6 +6,14 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.3.1
+
+#### Mod Installation
+
+- Removed Remove Sneak Attack Sounds (feature included in Immersive Sounds - Compendium).
+- **2.6:** Updated FOMOD instructions for Skyrim Water and Landscape Fixes (file update).
+- **6.2:** Obsidian Weathers and Seasons MCM Patch is no longer optional.
+- **21.21:** Realistic Skin Shader for Falmer and Hagravens is no longer optional.
 
 ## Release 3.3
 

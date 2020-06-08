@@ -151,49 +151,43 @@ Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts 
 
 - **Main Files:** skeletons don’t breathe SSE loose files version
 
-## 3.19 Remove Sneak Attack Sound (optional)
-
-#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17496?tab=files)
-
-- **Main Files:** Remove Sneak Attack Sound - Loose
-
-## 3.20 Bard Instrumentals Mostly - Sing Rarely (optional)
+## 3.19 Bard Instrumentals Mostly - Sing Rarely (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/10927?tab=files)
 
 - **Main Files:** Bard Instrumentals Mostly - Sing Rarely
 
-## 3.21 No Crime Teleport (optional)
+## 3.20 No Crime Teleport (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/13109?tab=files)
 
 - **Main Files:** No Crime Teleport
 
-## 3.22 Better Dialogue Controls (optional)
+## 3.21 Better Dialogue Controls (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
 
 - **Main Files:** Better Dialogue Controls v1_2
 
-## 3.23 Better MessageBox Controls (optional)
+## 3.22 Better MessageBox Controls (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files)
 
 - **Main Files:** Better MessageBox Controls v1_2
 
-## 3.24 Better Stealing (optional)
+## 3.23 Better Stealing (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/32295?tab=files)
 
 - **Main Files:** BetterStealing v2
 
-## 3.25 Uninterrupted Invisibility (optional)
+## 3.24 Uninterrupted Invisibility (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files)
 
 - **Main Files:** Uninterrupted Invisibility v2
 
-## 3.26 Uninterrupted Ethereal Form (optional)
+## 3.25 Uninterrupted Ethereal Form (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21765?tab=files)
 

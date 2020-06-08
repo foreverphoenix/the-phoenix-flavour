@@ -203,7 +203,7 @@ The selections below are my preference. Feel free to make your own choices!
 
 * **Main Files:** Giant.4k
 
-## 21.21 Realistic Skin and Hair Shaders - Falmer and Hagravens (optional)
+## 21.21 Realistic Skin and Hair Shaders - Falmer and Hagravens
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/16310?tab=files)
 
