@@ -16,7 +16,6 @@
 				{{ $baseurl := urls.Parse $.Site.Params.Baseurl }}
 				<a class="nav-link{{if $active }} active{{end}}" href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}" {{ if ne $url.Host $baseurl.Host }}target="_blank" {{ end }}><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
 			</li>
-			{{ partial "toggle.html" . }}
 			{{ end }}
 			{{ if  .Site.Params.versions }}
 			<li class="nav-item dropdown d-none d-lg-block">
@@ -28,6 +27,9 @@
 				{{ partial "navbar-lang-selector.html" . }}
 			</li>
 			{{ end }}
+      <li>
+        {{ partial "toggle.html" . }}
+      </li>
 		</ul>
 	</div>
 	<div class="navbar-nav d-none d-lg-block">{{ partial "search-input.html" . }}</div>
