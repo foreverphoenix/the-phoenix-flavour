@@ -1,9 +1,9 @@
 ---
 title: "Skyrim SE"
 linkTitle: "Skyrim SE"
-weight: 1
+weight: 5
 menu:
   main:
-    weight: 1
+    weight: 5
 ---
 
