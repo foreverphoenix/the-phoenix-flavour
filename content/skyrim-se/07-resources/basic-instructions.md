@@ -1,6 +1,6 @@
 ---
 title: "Basic Instructions"
-weight: 1
+weight: 2
 type: docs
 description: >
   Detailed instructions for certain procedures such as porting mods.
