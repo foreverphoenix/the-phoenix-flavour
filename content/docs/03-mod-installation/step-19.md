@@ -309,7 +309,7 @@ Personally I prefer aMidianBorn’s retextures for the iron weapons for consiste
 
 * Run **Sunhallowed Arrows** through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
 
-## 19.26 Dragon Priest Weapons Improved (optional)
+## 19.25 Dragon Priest Weapons Improved (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/60075?tab=files)
 
