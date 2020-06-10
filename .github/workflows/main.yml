@@ -47,7 +47,7 @@ jobs:
           user_name: foreverphoenix
           user_email: admin@thephoenixflavour.com
           publish_branch: master
-          #cname: example.com
+          cname: thephoenixflavour.com
       
       - name: Purge cache
         uses: jakejarvis/cloudflare-purge-action@master
