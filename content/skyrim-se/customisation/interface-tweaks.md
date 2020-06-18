@@ -99,3 +99,23 @@ SkyUI Config Tweak keeps the equipped items "stickied" to the top of the invento
 #### Mod Order
 
 - Place below the **INTERFACE** separator.
+
+## SkyUI AIO Survival (SAS)
+
+The title is a bit misleading, this mod by no means only works for survival playthroughs or mods. 
+
+It makes the SkyUI menu wider and adds custom columns for useful information like Total Weight, Weapon stats like Reach, Speed and a lot more.
+
+This mod supports ultrawide as well as no ultrawide natively.
+
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17601)
+
+- **Main File** - SkyUI AIO Survival (SAS) SE
+
+#### Mod Order
+
+- Place below the **INTERFACE** separator. Nothing should overwrite it.
+
+#### Notes
+
+It is not be compatible with mods that change the SkyUI theme, especially those that invert the color of fonts and icons.
