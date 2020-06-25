@@ -70,8 +70,7 @@ This mod adds different effects to dead bodies, depending on how they were kille
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files)
 
-- **Main Files:** Frozen Electrocuted Combustion - 3.4.5
-- **Update Files:** Frozen Electrocuted Combustion - 3.4.7 (update) >> `merge with the main file`
+- **Main Files:** Frozen Electrocuted Combustion - 3.5
 
 #### Mod & Load Order
 

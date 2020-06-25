@@ -33,3 +33,7 @@ There is also the possibility that I simply forgot to add those instructions to 
 No, this is no longer necessary. You should be running the latest version of the Creation Kit. Go into your **root** folder, right-click **CreationKit.exe**, switch to the **Details** tab and you should have **Product version 1.5.73.0**.
 
 For a time it was necessary to use the executable and DLLs of the previous version (1.5.53) because **CK Fixes** was only working with that version of the Creation Kit. CK Fixes has since been updated.
+
+### Why don't Dragons burn away and turn to bones when I kill them?
+
+That's actually intended behaviour. If you dislike it, uncheck **Dragon Remains** in your mod order (30 IMMERSION).

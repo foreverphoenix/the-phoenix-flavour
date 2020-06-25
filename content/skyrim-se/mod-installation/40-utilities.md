@@ -30,7 +30,7 @@ description: >
 
 ####  [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files)
 
-* **Main Files:** Papyrus Extender - SSE - 2.6
+* **Main Files:** Papyrus Extender - SSE - 3.0
 
 ## 40.5 FileAccess Interface for Skyrim SE Scripts (FISSES)
 

@@ -14,6 +14,8 @@ description: >
 * **Optional Files:** Vanilla NPCs SSE Ruhmastered with Beast Glow v2.0 --- `merge with the main file`
 * **Optional Files:** Vanilla Vampire NPCs SSE Ruhmastered Vampire Red Glow v2.0 --- `merge with the main file`
 
+> Make sure the resulting file is called **Vanilla NPCs SSE Ruhmastered** in Mod Organizer 2. The name will later be used for a dummy ESP which in turn will not be recognised by the loadorder.txt if it isn't called exactly this.
+
 #### Additional Instructions
 
 In order to be able to control the mod’s facegen files via load order, we need to pack the loose files in a BSA and activate it with an empty plugin.

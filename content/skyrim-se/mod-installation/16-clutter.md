@@ -106,19 +106,32 @@ description: >
 
 * **Main Files:** Business Ledger HD Retexture
 
-## 16.12 JS Dragon Claws (optional)
+## 16.12 JS Purses and Septims (optional)
+
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/37306/?tab=files)
+
+- **Main Files:** JS Purses and Septims SE - FOMOD
+
+#### FOMOD Instructions
+
+- **Purse Textures:** 1K
+- **Coin Textures:** Dirty - 1k Textures
+- **Coin Pile Textures:** Dirty - 2k Textures
+- **Replacer Options:** Vanilla Overwrite
+
+## 16.13 JS Dragon Claws (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/1394?tab=files)
 
 * **Main Files:** 1k Textures
 
-## 16.13 JS Dragon Claws - Patches (conditional)
+## 16.14 JS Dragon Claws - Patches (conditional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/23833?tab=files)
 
 * **Main Files:** JS Dragon Claws - Amethyst Patch
 
-## 16.14 RUSTIC SOULGEMS
+## 16.15 RUSTIC SOULGEMS
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/5785?tab=files)
 
@@ -131,46 +144,46 @@ description: >
 * **Plugin:**
   * Sorted + ESL + GIST Patch
 
-## 16.15 RUSTIC AZURAS STAR (optional)
+## 16.16 RUSTIC AZURAS STAR (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/18345)
 
 * **Main Files:** RUSTIC AZURA’S STAR - SSE - 2K
 
-## 16.16 RUSTIC ELDERSCROLL (optional)
+## 16.17 RUSTIC ELDERSCROLL (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/17757)
 
 * **Main Files:** RUSTIC ELDERSCROLL - Special Edition - 2K
 * **Optional Files:** ELDERSCROLL SSE - FX - 1K >> `merge with the main file`
 
-## 16.17 RUSTIC ANIMATED POTIONS AND POISONS (optional)
+## 16.18 RUSTIC ANIMATED POTIONS AND POISONS (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/2276/)
 
 * **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
 * **Update Files:** SSE Meshes >> `merge with the main file`
 
-## 16.18 Rally's Werewolf Totems (optional)
+## 16.19 Rally's Werewolf Totems (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/28882)
 
 * **Main Files:** Rallys Werewolf Totems HQ 2K-1K
 
-## 16.19 Meridia's Luxon Beacon Replacer (optional)
+## 16.20 Meridia's Luxon Beacon Replacer (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/34782/?tab=files)
 
 * **Main Files:** Meridia's Luxon Beacon
 * **Optional Files:** No Handles Option >> `merge with the main file`
 
-## 16.20 BLOODSTONE CHALICE REBORN (optional)
+## 16.21 BLOODSTONE CHALICE REBORN (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrim/mods/63551/)
 
 * **Main Files:** BLOODSTONE CHALICE REBORN 1K
 
-## 16.21 ElSopa HD - Dragonborn Skull Variants (optional)
+## 16.22 ElSopa HD - Dragonborn Skull Variants (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/21917?tab=files)
 

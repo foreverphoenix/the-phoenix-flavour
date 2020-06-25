@@ -31,11 +31,14 @@ description: >
 
 #### Engine Fixes INI
 
-* Double-click **SSE Engine Fixes** in your mod order.
-* Switch to the **INI-Files** tab and select the **EngineFixes.ini**.
-* Edit the following line:
-  * `SleepWaitTime = true`
-* Close the window and click **Yes** when asked to save your change.
+- Double-click **SSE Engine Fixes** in your mod order.
+- Switch to the **Filetree** tab and navigate to `SKSE\Plugins`.
+- Open the **EngineFixes.toml** file inside.
+- If asked how you want to open the file, select **Notepad++** or another editor capable of opening TOML files.
+- Edit the following line in the config file:
+  - `SleepWaitTime = true`
+- Save your changes (CTRL + S) and close the editor.
+- Close the window and click **Yes** when asked to save your change.
 
 ## 1.3 .NET Script Framework (NSF)
 
@@ -48,6 +51,14 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
 - **Main Files:** SSE Display Tweaks
+
+#### INI Tweaks
+
+- Double-click the mod in your mod order and switch to the **INI Files** tab.
+- Select the **SSEDisplayTweaks.ini** and edit the following:
+  - `BorderlessUpscale=true` if you play at a lower resolution than your monitor's default (Skyrim @1080p on a 1440p monitor).
+  - `EnableVSync=false` if you want uncapped FPS. Will cause screentearing on monitors without G-Sync or FreeSync.
+- Hit CTRL+S to save and close the window.
 
 ## 1.5 Autorun Console Commands (ACC)
 

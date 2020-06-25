@@ -12,6 +12,7 @@ description: >
 | -------------- | ------------------------------------------------------------ |
 | CC             | Creation Club                                                |
 | CK             | Creation Kit                                                 |
+| CRP            | Conflict Resolution Patch                                    |
 | Data folder    | `Steam\steamapps\common\Skyrim Special Edition\Data\`        |
 | ENB            | ENBSeries, a post-processing FX injector.                    |
 | ENB Binaries   | d3d11.dll, d3dcompiler_46e.dll (core part of ENBSeries)      |
@@ -27,7 +28,7 @@ description: >
 
 ## Mod Acronyms
 
-The table below contains many popular abbreviations for certain mods, including mods that are not in the guide. 
+The table below contains many popular abbreviations for certain mods, including mods that are not in the guide.
 
 | Acronym | Mod                                                          |
 | ------- | ------------------------------------------------------------ |

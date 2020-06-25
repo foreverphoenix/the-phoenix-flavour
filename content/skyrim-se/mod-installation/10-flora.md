@@ -91,6 +91,11 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 
 * **Main Files:** ELOS Oaks mixed greens
 
+#### FOMOD Instructions
+
+- **Tree Type:** GKB's Trees
+- **Plugin Format:** ESPFE
+
 ## 10.5 Sacred Trees (optional)
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26214?tab=files)
@@ -102,6 +107,7 @@ After the installation, rename the file to **Enhanced Vanilla Trees - Snowy Pine
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files)
 
 * **Main Files:** Rudy HQ - Falling Leaves and Needles for ENB SE
+* **Optional Files:** Rudy HQ - Falling Leaves and Needles SE - Yellow Leaves Texture 512
 
 ## 10.7 Cathedral Plants (optional)
 

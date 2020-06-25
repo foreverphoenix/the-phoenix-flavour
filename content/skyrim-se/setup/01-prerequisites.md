@@ -79,4 +79,15 @@ To help you find the sweet spot for your monitor, check out these resources:
 
 It is recommended that you ensure your monitor's **Dynamic Range** is set to "Full" if it is connected to your PC via DisplayPort or HDMI. Instructions for both NVIDIA and AMD based systems can be found [here](https://pcmonitors.info/articles/correcting-hdmi-colour-on-nvidia-and-amd-gpus/).
 
-> It turns out I actually had my monitor set to "Limited" for many years and grew so used to it that setting the Dynamic Range to "Full" only irritated me. Eventually I set it back to "Limited" with no regrets. Your mileage may vary.
+> It turns out I actually had my monitor set to "Limited" for many years and grew so used to it that setting the Dynamic Range to "Full" only irritated me. I ended up setting it back to "Limited" with no regrets. Your mileage may vary.
+
+## 1.5 Visual C++ Redist
+
+The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed but it's best to make sure.
+
+- Open the official [Microsoft Visual C++ website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
+- Download the following file: ` vc_redist.x64.exe`.
+- Run the executable, it will guide you through the installation process.
+
+![VC Redist](/Pictures/setup/vc-redists.png)

@@ -58,15 +58,9 @@ description: >
 
 ## 28.9 Simply Stronger Dragons (optional)
 
-#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/9917?tab=files)
+#### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
-* **Main Files:** Simply Stronger Dragons
-
-#### FOMOD Instructions
-
-* Change nothing, just click **Install**.
-
-> This mod has a BAIN installer that looks different to regular FOMODs.
+* **Main Files:** Simply Stronger Dragons - TPF Repack
 
 #### Additional Instructions
 

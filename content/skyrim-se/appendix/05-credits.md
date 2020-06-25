@@ -36,7 +36,7 @@ description: >
 ### Further Acknowledgements
 
 - Thanks to **Lexy** whose guide inspired me in many ways and with whom I've enjoyed some great conversations about the woes of maintaining a modding guide.
-- Thanks to **halgari** and the Wabbajack team with whom we've been in touch since its inception and who have been very accomodating and supportive.
+- Thanks to **halgari** and the Wabbajack team with whom we've been in touch since its inception and who have been very accommodating and supportive.
 - Thanks to **alt3rn1ty** for their manual ESM cleaning instructions (included in Setup, Step 8.5).
 - Thanks to **Dodger** for gifting me lifetime Nexus Premium and **Kedavix** for the Snagit license.
 - Thanks to all the mod authors and fellow guide authors who have collaborated / communicated with us: SimonMagus, VictorF, mnikjom, Nathan, Slidikins, and all the others.

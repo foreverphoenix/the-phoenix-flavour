@@ -86,7 +86,7 @@ description: >
 
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
 
-* **Main Files:** Classic Sprinting Redone (SKSE64)
+* **Main Files:** Classic Sprinting Redone - Version Independent
 
 ## 31.13 Better Jumping (optional)
 

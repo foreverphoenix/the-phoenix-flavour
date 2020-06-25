@@ -145,6 +145,14 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 
 ![Obsidian Weathers MCM](/Pictures/new_game/obsidian_weathers_mcm.jpg)
 
+### Relationship Dialogue Overhaul
+
+* Under **Other Options** > **Toggle NPCs**, disable:
+  * Allow RDO Added Followers
+  * Allow Terek
+
+![Relationship Dialogue Overhaul MCM](/Pictures/new_game/rdo_mcm.jpg)
+
 ### Realistic Water Two
 
 * Under **Mod Options** > **Blacksmith Forge Water**, toggle the following options:
@@ -153,14 +161,6 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
   * Rorikstead
 
 ![Realistic Water 2 MCM](/Pictures/new_game/rwt_mcm.jpg)
-
-### Relationship Dialogue Overhaul
-
-* Under **Other Options** > **Toggle NPCs**, disable:
-  * Allow RDO Added Followers
-  * Allow Terek
-
-![Relationship Dialogue Overhaul MCM](/Pictures/new_game/rdo_mcm.jpg)
 
 ### Timing Is Everything
 

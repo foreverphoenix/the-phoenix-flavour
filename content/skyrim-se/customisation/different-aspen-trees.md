@@ -73,5 +73,5 @@ If you installed [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.co
 #### Green Aspen Leaves
 
 - Download the following file from the [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) Nexus page:
-  - Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 1K
-- Place it below **Rudy HQ - Falling Leaves and Needles (ENB)** in your mod order and activate it.
+  - Rudy HQ - Falling Leaves and Needles SE - Green Leaves Texture 512
+- Place it below **Rudy HQ - Falling Leaves and Needles (ENB)** in your mod order and activate it. Disable the Yellow Leaves texture.

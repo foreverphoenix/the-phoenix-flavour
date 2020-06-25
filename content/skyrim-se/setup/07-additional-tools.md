@@ -63,7 +63,7 @@ CAO is a unified asset processing tool that can be used to extract or create BSA
 
 With the latest versions of CAO, you can set up dedicated profiles to switch between the two primary uses of CAO at will. I created several profiles for different purposes to be used during the installation of the guide.
 
-* Download the latest version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually from the Nexus.
+* Download the latest version of the [Cathedral Assets Optimizer - Basic Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually from the Nexus.
 * Open the downloaded archive.
 * Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 

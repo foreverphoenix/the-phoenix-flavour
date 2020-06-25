@@ -6,7 +6,7 @@ description: >
   Rules, tips, and tricks for the Mod Installation section.
 ---
 
-## The Mod Installation
+## 10.1 The Mod Installation
 
 After completing the Setup, you are equipped with a correctly installed and configured instance of Mod Organizer 2 that is properly set up with the Skyrim Script Extender. It is now time to dive into the by far longest section in the guide - the mod installation.
 
@@ -20,15 +20,15 @@ It may be faster to download all mods of a page first, then install them, and fi
 
 > Keep this page open in a separate tab so you can refer back to it.
 
-## Installation Instructions
+## 10.2 Installation Instructions
 
-### Flags
+### 10.2.1 Flags
 
 - Mods marked as **(optional)** may freely be skipped.
 - Mods marked as **(conditional)** depend on other mods. Only install them if you installed the mod they depend on.
 - All other mods are required and must be installed.
 
-### Mod Instructions
+### 10.2.2 Mod Instructions
 
 Each mod has its own section with the following instructions:
 
@@ -38,7 +38,7 @@ Each mod has its own section with the following instructions:
 
 Not all mods strictly follow this template. Some have sections unique to them with extra explanations or instructions. Just follow those instructions one by one and to the letter. Sometimes they are optional (which is then clearly stated) and you can skip them.
 
-### Download Instructions
+### 10.2.3 Download Instructions
 
 * Almost all mods are hosted on the Nexus.
 * The link to the mod's file section is in the **Download Instructions** header (CTRL+Click to open in new tab.)
@@ -50,7 +50,7 @@ Not all mods strictly follow this template. Some have sections unique to them wi
   * Old Files
 * Download the file(s) by clicking **Mod Manager Download**. It will automatically be downloaded through Mod Organizer 2. If a mod has special requirements, they are listed in a pop-up window where you will have to click the **Download** button again. Don’t worry about these requirements, they are included in the guide or otherwise taken care of.
 
-### Mod Installation
+### 10.2.4 Mod Installation
 
 * After downloading a mod, switch to the **Downloads** tab in the right pane of Mod Organizer 2 and double-click the file(s) to install.
 * This may open a FOMOD installer if the mod includes one. **FOMOD Instructions** are provided in the guide.
@@ -64,9 +64,9 @@ Occasionally you will be instructed to download multiple files from the same pag
 * Rarely, you will be told to "merge with the main file" in which case you select the **Merge** option. This will move all installed files into the mod folder of the main file, overwriting existing files.
 * Only when updating mods to a new version should you select **Replace** which, of course, replaces all original files.
 
-### Basic Instructions
+### 10.2.5 Basic Instructions
 
-Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](https://thephoenixflavour.com/skyrim-se/resources/basic-instructions/) page (keep it open in a separate tab).
+Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](https://thephoenixflavour.com/skyrim-se/guide-resources/basic-instructions/) page (keep it open in a separate tab).
 
 The linked page includes detailed instructions for the following operators:
 

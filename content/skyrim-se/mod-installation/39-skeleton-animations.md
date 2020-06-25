@@ -39,15 +39,19 @@ This mod was not packaged correctly.
 * **Mounted Combat Animation - Bow:** ~~Belt-Fastened Quiver~~
 * **Mounted Combat Animation - Sword:** None
 * **The Joy of Perspective:** None
-* **Schlongs of Skyrim:** None
+* **Schlongs of Skyrim:** None >> `defaults to SOS, set to None`
 * **Deadly Mutilation:** None
 * **Enderal:** None
 
 ## 39.3 XPMSSE Fixes - Automated Patcher
 
+Like many mod authors, Groovtama does not allow anyone to upload modified versions of his mod, XP32 Maximum Skeleton. At the same time he unfortunately refuses to fix some bugs in his mod so we will have to do that ourselves with our own copies of the mod. Instructions were posted [here](https://www.nexusmods.com/skyrim/articles/52373) by Kriffin, the author of All Geared Up Derivative, which is my source for the instructions below.
+
+The automated version is a delta patcher to apply the changes automatically to your scripts (so there is no need for everyone to follow Kriffin's instructions).
+
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
-- **Main Files:** XPMSSE Fixes - Automated Patcher --- `download the file manually`
+- **Main Files:** XPMSSE Fixes - Automated Patcher >> `download the file manually`
 
 #### Special Instructions
 
@@ -57,12 +61,6 @@ This mod was not packaged correctly.
 - Open the downloaded archive and extract all files into this folder.
 - Double-click **patch-xpmse.bat** to start the process of applying the delta patch.
 - The patcher will delete themselves when it's done.
-
-#### About the mod
-
-Like many mod authors, Groovtama does not allow anyone to upload modified versions of his mod, XP32 Maximum Skeleton. At the same time he unfortunately refuses to fix some bugs in his mod so we will have to do that ourselves with our own copies of the mod. Instructions were posted [here](https://www.nexusmods.com/skyrim/articles/52373) by Kriffin, the author of All Geared Up Derivative, which is my source for the instructions below.
-
-The automated version is a delta patcher to apply the changes automatically to your scripts (so there is no need for everyone to follow Kriffin's instructions).
 
 ## 39.4 All Geared Up Derivative (AllGUD)
 

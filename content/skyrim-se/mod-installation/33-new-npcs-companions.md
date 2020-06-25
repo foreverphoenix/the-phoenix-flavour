@@ -23,7 +23,7 @@ description: >
 #### [Download Instructions](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
 
 * **Main Files:** Interesting NPCs SE - BSAs
-* **Update Files:** Interesting NPCs SE - 4.3.6 to 4.3.14 Hotfix
+* **Update Files:** Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
 * **Optional Files:** Interesting NPCs SE - Alternative Locations - Flagged ESL
 
 ## 33.4 Interesting NPCs - Zora Fair-Child Voice Enhanced (optional)

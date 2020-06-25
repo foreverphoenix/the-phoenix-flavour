@@ -6,6 +6,44 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.3.3
+
+This is a maintenance update, I fixed some broken links and updated instructions.
+
+#### Setup
+
+- **7.2.2:** Fixed download instructions for the CAO Basic Profiles pack.
+- **10.2.5:** Fixed the link to the Basic Instructions page.
+
+#### Mod Installation
+
+- **1.2:** Updated SSE Engine Fixes configuration instructions for the new TOML file.
+- **10.4:** Added FOMOD instructions for the updated Enhanced Landscapes - Oaks Standalone.
+- **10.6:** Added instructions to download the 512px leave textures for Rudy's Fallen Leaves and Needles.
+- **16.12:** Added JS Purses and Septims.
+
+#### Customisation
+
+- **Different Aspen Trees:** Updated the instructions for the Green Aspen Leaves textures.
+- **Misc Mods:** Updated download instructions for Frozen Electrocuted Combustion.
+
+## Release 3.3.2
+
+#### Setup
+
+- **1.5:** Added instructions to install the Visual C++ redists required by Mod Organizer 2.
+
+#### Mod Installation
+
+- **1.4:** Finally added some INI tweak instructions for SSE Display Fixes.
+- **23.1:** Added note to Vanilla NPCs Ruhmastered to use a specific file name.
+- **28.9:** Replaced Simply Stronger Dragons with a repack of the double health / vanilla damage version that is easier to install.
+- **33.3:** Updated Interesting NPCs download instructions (new hotfix).
+
+#### Customisation
+
+- **Large Trees:** Fixed instructions (the Custom Large trees option is contained in a spearate main file now).
+
 ## Release 3.3.1
 
 In this update, I primarily focused on restructuring the guide. A *lot* has happened behind the scenes. Step improved much of the theming, especially the dark theme and fixed some remaining issues. We are back on the old domain - thephoenixflavour.com - now with free loudflare SSL. It just redirects from foreverphoenix.github.io so it doesn't matter which URL you use. I've tinkering with more stuff for the guide content but realised fairly soon I was picking up way too many projects at once so most things were put on the backburner until the next update.

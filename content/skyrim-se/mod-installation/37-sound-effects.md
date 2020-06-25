@@ -1,5 +1,5 @@
 ---
-title: "37 Sounds Effects"
+title: "37 Sound Effects"
 weight: 37
 type: docs
 description: >
