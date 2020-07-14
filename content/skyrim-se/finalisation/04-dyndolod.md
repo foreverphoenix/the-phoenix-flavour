@@ -1,12 +1,12 @@
 ---
-title: "04 DynDOLOD"
+title: "DynDOLOD"
 weight: 4
 type: docs
 description: >
   Improving distant terrain and tree LOD with TexGen and DynDOLOD.
 ---
 
-## 4.1 DynDOLOD and Performance
+## DynDOLOD and Performance
 
 Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the **Low** or **Medium** presets and regular tree LOD, you will hardly notice any performance impact, even on weaker machines, while still drastically improving distant terrain.
 
@@ -16,15 +16,15 @@ More hardware-taxing is however what is typically referred to as "ultra tree LOD
 
 **You will have the option to generate either regular or 3D tree LOD.** Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.
 
-## 4.2 DynDOLOD Setup
+## DynDOLOD Setup
 
-### 4.2.1 File Download
+### File Download
 
-* Download the [**DynDOLOD**](https://www.nexusmods.com/skyrimspecialedition/mods/32382) main file manually.
+* Download the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) main file manually.
 * Navigate to `Your Modding Folder\Tools` and create a new **DynDOLOD** folder.
 * Open the downloaded **DynDOLOD** archive and move all files into your new directory.
 
-### 4.2.2 TexGen Executable
+### TexGen Executable
 
 * Switch back to Mod Organizer 2 and open the **Executables** window (Tools > Executables or CTRL + E).
 * Click the blue plus icon to add a new executable and select **Add from file**.
@@ -32,7 +32,7 @@ More hardware-taxing is however what is typically referred to as "ultra tree LOD
 * Under **Arguments**, add the following:
   * `-sse`
 
-### 4.2.3 DynDOLOD Executable
+### DynDOLOD Executable
 
 * Once again, click the blue plus icon to add a new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\DynDOLOD`and double-click **DynDOLODx64.exe**.
@@ -42,7 +42,7 @@ More hardware-taxing is however what is typically referred to as "ultra tree LOD
 
 ![Texgen DynDOLOD Executables](/Pictures/finalisation/texgen_dyndolod_executables.png)
 
-## 4.3 TexGen Configuration
+## TexGen Configuration
 
 TexGen is a component of DynDOLOD, used to generate textures based on your mod setup.
 
@@ -54,19 +54,19 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 ![TexGen Settings](/Pictures/finalisation/texgen_settings.png)
 
-## 4.4 TexGen Output
+## TexGen Output
 
 * Once TexGen has finished, click **Save and Exit**.
 * Navigate to `Your Modding Folder\Tools\DynDOLOD`.
 * Cut (CTRL + X) the **TexGen_Output** folder and paste (CTRL+V) it to `Mod Organizer 2\mods`.
 * Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your mod order.
-* Place it right above the **WEATHER** separator and activate it.
+* Place it below the **PATCHER OUTPUT** separator and activate it.
 
-![TexGen Output Mod Order](/Pictures/finalisation/texgen_mod_order.png)
-
-## 4.5 Tweak for 3D Tree LOD
+## Tweaks for 3D Tree LOD
 
 > Only follow these instructions if you are planning to generate 3D tree LOD.
+
+### INI Tweak
 
 - Navigate to `Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD`.
 - Double-click **DynDOLOD_SSE.ini**.
@@ -74,7 +74,11 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
   * `TreeLOD=0`
 - Save and close **DynDOLOD_SSE.ini**.
 
-## 4.6 DynDOLOD - LOD Generation
+### Solstheim Trees
+
+- Check **Enhanced Landscapes - Solstheim 3D Trees** in your mod order (**09 TREES & PLANTS** separator).
+
+## DynDOLOD - LOD Generation
 
 * Launch **DynDOLOD** through Mod Organizer 2.
 * A window will come up, click **Advanced**.
@@ -90,13 +94,12 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 ![DynDOLOD Settings](/Pictures/finalisation/dyndolod_settings.png)
 
-## 4.7 DynDOLOD Output
+## DynDOLOD Output
 
 * Once DynDOLOD is done, click **Save & Exit**.
 * Go to `Your Modding Folder\Tools\DynDOLOD`.
 * Cut (CTRL+X) the **DynDOLOD_output** folder and paste it (CTRL+V) to `Mod Organizer 2\mods`.
 * Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
-* Rename the file and add the preset you selected, eg: `DynDOLOD (Medium)`.
 * Place it last below the **PATCHER OUTPUT** separator and activate it.
 * Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
 * Leave **DynDOLOD.esp** at the very bottom as the last plugin.

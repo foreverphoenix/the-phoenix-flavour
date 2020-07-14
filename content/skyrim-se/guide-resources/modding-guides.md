@@ -30,7 +30,7 @@ Owing to its complexity and the use of many advanced modding tools, Lexy's LOTD 
 LOTD Plus is a fork / expansion of Lexy's LOTD by Evertiro. It is even more difficult gameplay-wise than Lexy's as well as more performance-intense and intended for high-end PCs.
 
 - [LOTD Plus - Official Website](https://lotdplus.com/)
-- [Official Discord Server](https://discord.com/invite/DFrVZgM)
+- [Official Discord Server](https://discord.gg/E6QUeu2)
 - [Trello board](https://trello.com/b/4frV9G6X/suggested-mods)
 - [Evertiro's Patreon](https://www.patreon.com/lotdplus)
 

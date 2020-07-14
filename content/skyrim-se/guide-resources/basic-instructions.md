@@ -26,7 +26,7 @@ Plugins with Form Version 43 (typically downloaded from the Classic Skyrim Nexus
 
 Very rarely a plugin may contain ITMs or deleted records in which case you need to run it through the QuickAutoClean version of SSEEdit (just like we did with the official master files).
 
-* Run **SSEEdit - QuickAutoClean** through Mod Organizer 2.
+* Run **SSEEdit - Quick Cleaning** through Mod Organizer 2.
 * Check only the plugin you were instructed to clean in the plugin list.
 * Click **OK** and wait for the process to complete (`Quick Clean mode finished`).
 * Close SSEEdit.

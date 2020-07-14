@@ -48,6 +48,17 @@
     font-size: 1.3rem;
   }
 
+  > h5 {
+    margin-bottom: 1rem;
+    font-weight: $font-weight-bold;
+    font-size: 1.75rem;
+    a {
+      @include themed() {
+      color: t($theme-link-mod);
+      }
+    }
+  }
+
   img {
     @extend .img-fluid;
   }
