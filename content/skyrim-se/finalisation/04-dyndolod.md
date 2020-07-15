@@ -80,6 +80,8 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 ## DynDOLOD - LOD Generation
 
+> Continue here for either 2D or 3D LOD.
+
 * Launch **DynDOLOD** through Mod Organizer 2.
 * A window will come up, click **Advanced**.
 * You can see a list of all worldspaces at the top. Right-click inside and **Select all**.

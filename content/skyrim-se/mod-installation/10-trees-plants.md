@@ -10,9 +10,8 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Enhanced Vanilla Trees SE - Lush Large Trees
+- **Main Files:** Enhanced Vanilla Trees SE - Lush Trees
 - **Optional Files:** Enhanced Vanilla Trees SE - Alternative Branch Textures
-- **Optional Files:** Enhanced Vanilla Trees SE - Alternative Trees
 
 #### FOMOD Instructions - Main File
 
@@ -21,55 +20,71 @@ description: >
 - **Clutter:**
   * Enhanced Tree Clutter (recommended)
   * Firewood Textures
-- **Greener Bark Textures:**
-  * *Select nothing on this page.*
+* **Tree LODs:**
+  * Billboards
 
 #### FOMOD Instructions - Alternative Branch Textures
 
 - **Custom Tree Options:**
   - No
-- **Custom Trees - Greener Bark Textures:**
-  - *Select nothing on this page.*
 - **Darker EVT Textures:**
   - *Select nothing on this page.*
 - **Skyrim Flora Overhaul - Branches:**
   - SFO Branch Texture - Version 4
 
-#### FOMOD Instructions - Alternative Trees
-
-- **Select a version:**
-  - Enhanced Darker Meshes
-- **Select a tree option:**
-  - Lush Trees (large)
-- **Custom Trees - Greener Bark Textures**
-  - *Select nothing on this page.*
-- **Alternative Trees:**
-  - ~~Realistic Aspen Trees~~
-  - SFO Snowy Pine Trees
-
-##### [Enhanced Vanilla Trees - Vurts Light Snow Trees](https://www.nexusmods.com/skyrim/mods/76086?tab=files)
+##### [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306?tab=files) (optional)
 
 #### Download Instructions
 
-* **Optional Files:** Light Snow Trees Replacer (for Vurts snow tree option users)
+- **Main Files:** Bent Pines II
+- **Optional Files:** Navmesh .esp by CakeofHonor
+
+##### [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Main File v1.65
+
+#### FOMOD Instructions
+
+* **Optional Files:**
+  * ~~Better Plant Textures~~
+  * ~~Grass Overhaul~~
+  * ~~Enhanced Solstheim Ash Trees 4k with 3D Tree LOD~~
+  * ~~Green Aspen Trees for EVT~~
+  * ~~Barren Marsh~~
+  * Dead Marsh
+  * ~~Green Fields~~
+  * ~~LOD Noise Texture~~
+* **Patches:**
+  * ~~Immersive Citizens Patch~~
 
 #### Additional Instructions
 
-* Resave **EVT_LightSnowTrees_Replacer (For Vurts).esp** in the Creation Kit.
+* Delete the following file(s) and/or folder(s):
+  * `DynDOLOD\`
+  * `Enhanced Landscapes.esp`
+  * `Enhanced Landscapes - Dead Marsh.esp`
+* Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that only that module is installed.
+
+##### [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Enhanced Landscapes - Dead Marsh Fixes
 
 ##### [Enhanced Landscapes - Solstheim 3D Trees](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files) (optional)
 
 #### Download Instructions
 
-- You already downloaded the required file.
+- You already downloaded this mod.
 
 #### Installation Instructions
 
 - Create an empty mod in Mod Organizer 2 and name it **Enhanced Landscapes - Solstheim 3D Trees**.
 - Right-click it and select **Open in Explorer**.
-- Go to `Your Modding Folder\ARCHIVE\MO2 Downloads` and find the following archive:
-  - Main File v1.65-18162-1-65.7z
-- Open the archive and double-click the **3 - Solstheim3DTrees** file inside.
+- Go to `Your Modding Folder\ARCHIVE\MO2 Downloads` and find the **Main File v1.65-18162-1-65.7z** archive. 
+- Open it and double-click the **3 - Solstheim3DTrees** file inside.
 - Extract the **textures** and **meshes** folders to `Mod Organizer 2\mods\Enhanced Landscapes - Solstheim 3D Trees`.
 - Close the archive and the Explorer window.
 
@@ -80,33 +95,6 @@ description: >
 - Do NOT check this mod in the mod order (left pane). Keep it disabled for now.
 
 > You will have the choice to generate 3D tree LOD with DynDOLOD later on which is when you will be instructed to re-enable this mod. If you don't choose to generate 3D tree LOD this mod will stay disabled as it does not support regular tree LOD.
-
-##### [Tree Bark in High Definition](https://www.nexusmods.com/skyrimspecialedition/mods/20336?tab=files) (optional)
-
-#### Download Instructions
-
-* **Main Files:** Tree Bark in High Definition
-
-> While tree bark retextures are generally incompatible with the new meshes from EVT, this retexture, even though it wasn't made for EVT, looks perfectly fine. There are no textures cut off, or stretching.
-
-#### Additional Instructions
-
-* Delete the following file(s) and/or folder(s):
-  * `textures\landscape\trees\treeaspenbarkcomp.dds`
-  * `textures\landscape\trees\treeaspenbarkcomp_n.dds`
-  * `textures\landscape\trees\treepineforestbarkcompsnow.dds`
-  * `textures\landscape\trees\treepineforestbarkcompsnow_n.dds`
-  * `textures\landscape\trees\treepineforestbarkcompsnowl.dds`
-  * `textures\landscape\trees\treepineforestbarkcompsnowl_n.dds`
-
-> I prefer the snowy pine and aspen bark textures from Enhanced Vanilla Trees.
-
-##### [Bent Pines II](https://www.nexusmods.com/skyrimspecialedition/mods/8306?tab=files) (optional)
-
-#### Download Instructions
-
-- **Main Files:** Bent Pines II
-- **Optional Files:** Navmesh .esp by CakeofHonor
 
 ##### [Enhanced Landscapes - Oaks Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/27367?tab=files)
 
@@ -125,7 +113,7 @@ description: >
 
 * **Main File:** Sacred Trees
 
-##### [Rudy HQ – Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) (optional)
+##### [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files) (optional)
 
 #### Download Instructions
 
@@ -137,6 +125,14 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Cathedral - Plants
+
+##### [Flora Mod Collection](https://www.nexusmods.com/skyrim/mods/80722/?tab=files) (optional)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Fern - 2K
+- **Miscellaneous Files:** Green Ivy - 2K
+- **Miscellaneous Files:** Swamp Fungal Pod - 2K
 
 ##### [Rally's Hanging Moss](https://www.nexusmods.com/skyrimspecialedition/mods/33225?tab=files) (optional)
 
@@ -158,7 +154,7 @@ description: >
 
 > I am recommending the "Redder Variant" because we are not using any green Whiterun tundra mods.
 
-##### [Rally's Solstheim Plants](https://www.nexusmods.com/skyrimspecialedition/mods/35081) (optional)
+##### [Rally's Solstheim Plants](https://www.nexusmods.com/skyrimspecialedition/mods/35081?tab=files) (optional)
 
 #### Download Instructions
 

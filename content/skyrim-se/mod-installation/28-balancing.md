@@ -6,25 +6,15 @@ description: >
   Mods that affect loot rarity, economy, etc.
 ---
 
-##### [Morrowloot Miscellania - Hybrid Loot](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
+##### [Morrowloot Miscellania](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Hybrid Loot
-  
-##### [Morrowloot Miscellania - Item Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
-
-#### Download Instructions
-
+* **Main Files:** Morrowloot Miscellania - Hybrid Loot
 * **Main Files:** Morrowloot Miscellania - Item Distribution
-
-##### [Morrowloot Miscellania - Dremora Bound Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
-
-#### Download Instructions
-
 * **Main Files:** Morrowloot Miscellania - Dremora Bound Weapons
 
-#### FOMOD Instructions
+#### FOMOD Instructions - Dremora Bound Weapons
 
 * **Patches:** AOS Patch
 

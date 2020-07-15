@@ -51,7 +51,7 @@ description: >
 
 - **Main Files:** HelgenKeepBanditChiefExecutioner SE v1.0
 
-##### [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files)  (optional)
+##### [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files) (optional)
 
 #### Download Instructions
 
@@ -67,7 +67,7 @@ description: >
 
 - **Main Files:** Run and Walk at your Pace
 
-##### [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784) (optional)
+##### [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784?tab=files) (optional)
 
 #### Download Instructions
 

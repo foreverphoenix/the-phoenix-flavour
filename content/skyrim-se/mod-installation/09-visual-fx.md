@@ -46,7 +46,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Arctic - Frost Effects Redux - AIO
+* **Main Files:** Arctic - Frost Effects Redux
 
 #### FOMOD Instructions
 

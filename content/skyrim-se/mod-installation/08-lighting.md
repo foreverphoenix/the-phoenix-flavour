@@ -30,10 +30,6 @@ description: >
 
 * **Main Files:** A Quality Worldmap - Luminosity Compatibility Patch
 
-#### Mod Order
-
-* Place the mod below the **PATCHES** separator
-
 ##### [Interior Floating Fog Remover](https://www.nexusmods.com/skyrimspecialedition/mods/4298?tab=files) (optional)
 
 #### Download Instructions
@@ -89,7 +85,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Inferno - Fire Effects Redux - AIO
+* **Main Files:** Inferno - Fire Effects Redux
 
 #### FOMOD Instructions
 

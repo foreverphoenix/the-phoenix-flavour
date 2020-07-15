@@ -6,12 +6,6 @@ description: >
   Large texture packs, LOD resources, and CBBE.
 ---
 
-##### Skyrim Realistic Overhaul (SRO)
-
-#### Download Instructions
-
-- This mod has already been installed.
-
 ##### [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files)
 
 #### Download Instructions
@@ -170,7 +164,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.5.6
+- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.5.7
 
 #### FOMOD Instructions
 

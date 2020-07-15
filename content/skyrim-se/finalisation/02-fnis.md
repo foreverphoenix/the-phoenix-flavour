@@ -26,7 +26,7 @@ description: >
   - `"GENDER Specific Animations"`
   - `"SKELETON Arm Fix"`
 - Click **Update FNIS Behaviour** to generate the new files.
-- Wait until FNIS confirms that animations were succesfully included, then close the window.
+- Wait until FNIS confirms that animations were successfully included, then close the window.
 - If asked to create a Desktop shortcut, click **Cancel**.
 
 ## FNIS Output

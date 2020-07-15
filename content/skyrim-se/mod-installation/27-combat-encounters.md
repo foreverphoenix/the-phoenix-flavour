@@ -24,12 +24,6 @@ description: >
 
 * **Main File:** Arena - An Encounter Zone Overhaul
 
-##### [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Mortal Enemies SE - Rival Remix - No Run Walk Changes
-
 ##### [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files) (optional)
 
 #### Download Instructions
@@ -118,7 +112,7 @@ Only install this mod if you installed **Beast Skeletons**. Otherwise skip it.
 
 #### Download Instructions
 
-* **Main Filess:** Cannibal Draugr on Solstheim
+* **Main Files:** Cannibal Draugr on Solstheim
 
 ##### [The Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files) (optional)
 

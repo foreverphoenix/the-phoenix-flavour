@@ -147,27 +147,27 @@ Only install this mod if you installed **JS Dragon Claws**. Otherwise skip it.{{
 * **Plugin:**
   * Sorted + ESL + GIST Patch
 
-##### [RUSTIC AZURAS STAR](https://www.nexusmods.com/skyrimspecialedition/mods/18345) (optional)
+##### [RUSTIC AZURAS STAR](https://www.nexusmods.com/skyrimspecialedition/mods/18345?tab=files) (optional)
 
 #### Download Instructions
 
 * **Main Files:** RUSTIC AZURA’S STAR - SSE - 2K
 
-##### [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757) (optional)
+##### [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757?tab=files) (optional)
 
 #### Download Instructions
 
 * **Main Files:** RUSTIC ELDERSCROLL - Special Edition - 2K
 * **Optional Files:** ELDERSCROLL SSE - FX - 1K >> `merge with the main file`
 
-##### [RUSTIC ANIMATED POTIONS AND POISONS](https://www.nexusmods.com/skyrimspecialedition/mods/2276/) (optional)
+##### [RUSTIC ANIMATED POTIONS AND POISONS](https://www.nexusmods.com/skyrimspecialedition/mods/2276?tab=files) (optional)
 
 #### Download Instructions
 
 * **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
 * **Update Files:** SSE Meshes >> `merge with the main file`
 
-##### [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882) (optional)
+##### [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882?tab=files) (optional)
 
 #### Download Instructions
 
@@ -180,7 +180,7 @@ Only install this mod if you installed **JS Dragon Claws**. Otherwise skip it.{{
 * **Main Files:** Meridia's Luxon Beacon
 * **Optional Files:** No Handles Option >> `merge with the main file`
 
-##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551/) (optional)
+##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files) (optional)
 
 #### Download Instructions
 

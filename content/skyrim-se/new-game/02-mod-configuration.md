@@ -8,23 +8,11 @@ description: >
 
 ## Initialisation
 
-After starting a new game, you will be dropped in the **Alternate Start – Live Another Life** cell where you can customise your character, then configure your mods before you actually start playing.
+After starting a new game, you will be dropped in the **Alternate Start - Live Another Life** cell where you can customise your character, then configure your mods before you actually start playing.
 
 Stand still and wait until all messages have run through in the upper left corner (check the screenshot below). Then hit **ESCAPE** and create a manual save before you continue.
 
 ![Initialisation complete](/Pictures/new_game/Initialisation_complete.jpg)
-
-## Wildcat - Configuration Power
-
-While  Wildcat (the main combat overhaul) comes with a fantastic MCM, it also adds a lesser power for configuration purposes to your character. For SkyUI users, this is unneccesary clutter since it's much easier to just use the MCM.
-
-- Open your Magic/Powers menu (TAB > Magic) and equip the **Wildcat Config** lesser power.
-- Press your Powers hotkey (the default key is Z) and click your way through the menu always selecting the **Default** option.
-- The very last option is **Disable Configuration Power**. Click **Remove** and it will be gone from your Powers menu.
-
-You can customise the mod later on through the MCM.
-
-![Wildcat Config Power](/Pictures/new_game/wildcat_config_power.jpg)
 
 ## Mod Configuration Menus
 
@@ -45,11 +33,17 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
 
 ![AllGUD MCM](/Pictures/new_game/allgud_mcm.jpg)
 
-### Complete Crafting Overhaul Remastered
+### Cathedral Weathers
+
+- Uncheck **Configuration Spell** (redundant when you can access the MCM).
+
+![Cathedral Weathers MCM](/Pictures/new_game/cw-mcm.jpg)
+
+### Complete Crafting (CCOR)
 
 #### Menu Filters (optional)
 
-* Under **Recipe Display** > **Crafting Menu Filters**, disable:
+* Under **Recipe Display** >> **Crafting Menu Filters**, disable:
   * Crafting Categories
   * Item Type Filters
 
@@ -57,14 +51,14 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
 
 #### More Jewelry
 
-* Under **Crafting Options** > **Additional Items**, disable:
+* Under **Crafting Options** >> **Additional Items**, disable:
   * More Jewelry
 
 The added circlets would use vanilla models and textures, inconsistent with the vanilla cirlcets changed by JS Circlet Replacer.
 
 #### Equipment Breakdown (optional)
 
-* Under **Crafting Options** > **Breakdown Equipment**, disable:
+* Under **Crafting Options** >> **Breakdown Equipment**, disable:
   * At Smelter
   * At Tanning Rack
 
@@ -72,20 +66,22 @@ The added circlets would use vanilla models and textures, inconsistent with the 
 
 #### Upgrading Leveled Items
 
-* Under **Miscellaneous** > **Leveled Items**, disable:
+* Under **Miscellaneous** >> **Leveled Items**, disable:
   * Upgrade via Crafting
 
 ![CCOR MCM](/Pictures/new_game/ccor_crafting_optiosn.jpg)
 
 ### Diverse Dragons Collection
 
-By simply opening the MCM once, the mod will recognise that you have SKSE and SkyUI installed, and automatically removes its configuration tool from your Powers menu.
+- Open the MCM once, then exit it.
+
+> By doing so, the mod will recognise that you have SKSE and SkyUI installed and automatically removes its configuration tool from your Powers menu.
 
 ### Nether's Follower Framework
 
 #### NPC Behaviour
 
-* Turn on the following options under **Activity** > **Sandboxing**:
+* Turn on the following options under **Activity** >> **Sandboxing**:
   * Ignore Special Furniture
   * Stop During Player Dialogue
   * Only Sandbox In Town
@@ -99,7 +95,7 @@ By simply opening the MCM once, the mod will recognise that you have SKSE and Sk
 
 #### Additional Powers (optional)
 
-* You can disable the **Command Followers** ability under **System** > **Casted Abilities** to further de-clutter your Powers menu.
+* You can disable the **Command Followers** ability under **System** >> **Casted Abilities** to further de-clutter your Powers menu.
 
 #### ConsoleUtil Support
 
@@ -131,23 +127,16 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 ### moreHUD
 
 - In the **Enemy's Level** tab, uncheck the following options:
-  - Show Magicky Meter
+  - Show Magicka Meter
   - Show Stamina Meter
 
 > These only clutter up the interface in my opinion. You can also disable Health numbers if you like.
 
 ![moreHUD MCM](/Pictures/new_game/morehud_mcm.jpg)
 
-### Obsidian Weathers
-
-* Click **Remove Spell** to get rid of the spell that was added for non-SkyUI users. All options can be configured through the MCM.
-* Click **Enable Season FX** if you would like to have seasonal weathers (more snow in winter etc).
-
-![Obsidian Weathers MCM](/Pictures/new_game/obsidian_weathers_mcm.jpg)
-
 ### Relationship Dialogue Overhaul
 
-* Under **Other Options** > **Toggle NPCs**, disable:
+* Under **Other Options** >> **Toggle NPCs**, disable:
   * Allow RDO Added Followers
   * Allow Terek
 
@@ -155,8 +144,7 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 
 ### Realistic Water Two
 
-* Under **Mod Options** > **Blacksmith Forge Water**, toggle the following options:
-  * The Fall of Granite Hill `if you installed that mod during the Customisation section`
+* Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following options:
   * Kynesgrove
   * Rorikstead
 
@@ -167,16 +155,6 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 Another large MCM, and one you should configure now, at the start of the game as it affects many quests that start very early on in Vanilla. I’ve personally increased the Dawnguard level requirements to 30+ and set Dragonborn to start only after Alduin’s defeat but this is all down to your preferences and plans for this playthrough.
 
 Thanks to the FISSES support, it is also possible to load, save and share custom presets through the MCM (**Extra Options** tab).
-
-### VioLens
-
-* Under **Melee**, enable **Player Killmove Immunity**.
-  * Killcams against the player character often trigger and kill you even if you could have survived the hit HP-wise.
-* If you like, you can also disable Killmoves entirely (Melee and/or Ranged).
-
-### Wildcat - Combat in Skyrim
-
-* Personal recommendation: Disable **Injuries**.
 
 ### Wonders of Weather
 

@@ -31,7 +31,7 @@ This method has the added benefit of keeping the vanilla files available as back
   - **Dragonborn.esm**
 - Paste them into your new **Official Master Files – Cleaned** folder.
 - In Mod Organizer 2, press F5 to refresh and your new "mod" will appear at the bottom of the mod order.
-- Drag it up above *DLC: Dragonborn* in your mod order and activate it.
+- Drag it up below *DLC: Dragonborn* in your mod order and activate it.
 
 ## Automated Cleaning Process
 

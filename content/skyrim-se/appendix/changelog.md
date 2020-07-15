@@ -6,6 +6,61 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.4.1
+
+> 15.07.2020
+
+This is basically just 3.4, but fixed. As usual, the big release had plenty of oversights and little errors that were hunted down by the wonderful people on our Discord server, in particular Lively who went through the entire guide once again with a fine-toothed comb. Thanks!
+
+#### Initial Setup
+
+- **The Creation Kit:** Updated instructions with latest version number for CK Fixes (3.x).
+- **INI Files:** Fixed file path to INI folder in "Remove old files" step.
+- **INI Files:** Added instructions to check the Tree Shadows box (otherwise trees will look extremely ugly).
+- **Additional Tools:** Updated the Cathedral Assets Overhaul profiles screenshot.
+- **ESM Cleaning:** Fixed a really dumb typo (move cleaned ESMs BELOW the uncleaned ones in MO2).
+
+#### Mod Installation
+- Fixed a lot of version numbers, file names, and links.
+- **Fixes:** Updated FOMOD instructions for Landscape Fixes for Grass Mods  (no longer selecting the Provincial Courier Service patch).
+- **Fixes:** Removed Mannequins Stay Put.
+- **Fixes:** Added Mannequin Management.
+- **Graphics Baseline:** Removed the leftover and now redundant Skyrim Realistic Overhaul section.
+- **Lighting:** Removed leftover, redundant mod order instructions for the Luminosity - A Quality World Map Patch.
+- **Trees & Plants:** Swapped from Lush Large to Lush trees for EVT (good compromise for less powerful systems).
+- **Trees & Plants:** Fixed FOMOD instructions for EVT Lush.
+- **Trees & Plants:** Fixed FOMOD instructions for EVT - Alternative Branch Textures.
+- **Trees & Plants:** No longer installing EVT Alternative Trees (I'm tired of the snowy pines, found myself missing the vanilla snow trees).
+- **Trees & Plants:** Removed EVT Vurts Light Snow Trees (since we're no longer using the big ones).
+- **Trees & Plants:** Moved Enhanced Landscapes - Dead Marsh here.
+- **Trees & Plants:** Updated the FOMOD instructions for Enhanced Landscapes (they ahd an ancient pre-3.0 format).
+- **Trees & Plants:** Moved Enhanced Landscapes - Dead Marsh Fixes here.
+- **Trees & Plants:** Removed HQ Tree Bark.
+- **Trees & Plants:** Added Flora Mod Collection.
+- **Landscape:** Updated FOMOD instructions for LoS II (no longer selecting the Provincial Courier Service patch). 
+- **Buildings & Interiors:** Removed Provincial Courier Service.
+- **Architecture:** Removed MD's Farmhouses.
+- **Architecture:** Added True Nordic Farmhouses (by Spiffyskytrooper who primarily does incredible retextures for Fallout games.)
+- **Gameplay Overhauls:** Removed leftover, redundant mod order instructions for the CCOR - JS Circlets Patch.
+- **Gameplay Overhauls:** Removed leftover, redundant mod order instructions for the CFTO - Dawnstar Patch.
+- **Combat & Encounters:** Removed Mortal Enemies (for real this time).
+- **Balancing:** Moved all Morrowloot Miscellania file into one step.
+- **New Gear:** Removed leftover, redundant mod order instructions for the WACCF - CBBE Patch.
+
+#### Finalisation
+
+- **Wrapping Up:** Updated instructions for the renamed separator (PATCHES >> FINAL PATCHES).
+- **Wrapping Up:** Added instructions to enable all plugins before applying the loadorder.txt.
+- **Wrapping Up:** Updated instructions regarding plugins below the CRP.
+
+#### New Game
+
+- **Mod Configuration:** Removed Wildcat - Configuration Power section.
+- **Mod Configuration:** Added Cathedral Weathers MCM instructions.
+- **Mod Configuration:** Removed Obsidian Weathers MCM instructions.
+- **Mod Configuration:** Removed VioLens MCM Instructions.
+- **Mod Configuration:** Removed Wildcat MCM instructions.
+
 ## Release 3.4
 
 > 14/07/2020

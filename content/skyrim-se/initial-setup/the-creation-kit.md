@@ -48,7 +48,7 @@ The custom INI file will allow you to load mods with multiple master files as we
 
 ## Creation Kit Fixes
 
-- Download [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) (CK64 Fixes release 2.x) manually from the Nexus.
+- Download [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) (CK64Fixes Release 3.x) manually from the Nexus.
 - Extract the three DLL files and the INI into your **root** folder.
 - **Optional:** Move the archive to `Your Modding Folder\ARCHIVE\CK Fixes` to keep as a backup.
 

@@ -59,7 +59,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 #### Download Instructions
 
-- **Main Files:** Skyrim Landscape and Water Fixes - FOMOD Installer
+- **Main Files:** Skyrim Landscape and Water Fixes
 
 #### FOMOD Instructions
 
@@ -91,7 +91,7 @@ The commands will now be executed automatically when you start a new game or loa
   * Patch for Arthmoor’s Falkreath
   * Patch for Arthmoor’s Rorikstead
   * Patch for Arthmoor’s Ivarstead
-  * Patch for Provincial Courier
+  * ~~Patch for Provincial Courier~~
   * ~~Patch for Oakwood~~
 
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
@@ -143,11 +143,11 @@ The commands will now be executed automatically when you start a new game or loa
 
 - Resave **ImperialSoldiersEscortFix.esp** in the Creation Kit.
 
-##### [Mannequins Stay Put](https://www.nexusmods.com/skyrimspecialedition/mods/6414?tab=files) (optional)
+##### [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221?tab=files) (optional)
 
 #### Download Instructions
 
-- **Main Files:** Mannequin Stay Put
+- **Main Files:** Mannequin Management
 
 ##### [Eye Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/5445?tab=files) (optional)
 

@@ -8,18 +8,30 @@ description: >
 
 ## Conflict Resolution Patch
 
-* Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223) from the guide’s Nexus page.
-* Install it as usual and place it last below the **PATCHES** separator.
+* Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
+* Install it as usual and place it last below the **FINAL PATCHES** separator.
 
 ## Load Order TXT
 
 The pre-made TXT will arrange your plugins exactly like the way they are sorted in my personal setup. This is much faster than adjusting the load order manually or setting up LOOT with custom rules.
 
-* Download the [Universal Load Order TXT](https://www.nexusmods.com/skyrimspecialedition/mods/14223) from the guide’s Nexus page.
+### Enabling all plugins
+
+- Click anywhere in the right pane (load order) and select **Enable all**.
+
+> This will ensure all plugins are active prior to sorting them. Plugins may be unchecked automatically when renaming their file extensions.
+
+### Applying the load order
+
+* Download the [Universal Load Order TXT](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
 * Open the archive and extract the **loadorder.txt** to `Mod Organizer 2\profiles\The Phoenix Flavour`.
 * Restart Mod Organizer 2 and the changes will be applied.
 
-After applying the loadorder.txt and restarting MO2, there should be no plugins below **Conflict Resolution Patch.esp** in the load order (right pane). If there are plugins, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. If this happens, please join us on Discord and post your Modwat.ch link in the #request-support channel.
+After applying the loadorder.txt and restarting MO2, there should be no plugins below the **Conflict Resolution Patch.esp** and the other official but optional patches in the load order (right pane).
+
+If there are other plugins below, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. If this happens, please join us on Discord and post your Modwat.ch link in the `#guide-support` channels.
+
+![Load Order Final Plugins](/Pictures/finalisation/loadorder-final-plugins.png)
 
 ## Check for MO2 Warnings
 
@@ -66,7 +78,7 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * CBBE.esp
 * Subtle but Classless.esp
 * CFTO - Arthmoor Danwstar Patch.esp
-* RDO - USSEP.esp
+* RDO - USSEP Patch.esp
 * Miscellaneous Quests…as Miscellaneous Quests.esp
 * Northerner Diaries in Skyrim.esp **compact FormIDs**
 * Still.esp

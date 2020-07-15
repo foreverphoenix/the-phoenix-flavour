@@ -193,7 +193,7 @@ Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Othe
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Majestic Mountains - v8
+* **Main Files:** Better Dynamic Majestic Mountains
 
 ##### [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files) (optional)
 
@@ -206,31 +206,6 @@ Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Othe
 #### Download Instructions
 
 * **Main Files:** Better Dynamic Ash SE
-
-##### [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Main File v1.65
-
-#### FOMOD Instructions
-
-* **Optional Files:** Dead Marsh
-
-#### Additional Instructions
-
-* Delete the following file(s) and/or folder(s):
-  * `DynDOLOD\`
-  * `Enhanced Landscapes.esp`
-  * `Enhanced Landscapes - Dead Marsh.esp`
-
-Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that only that module is installed.
-
-##### [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Enhanced Landscapes - Dead Marsh Fixes
 
 ##### [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files) (optional)
 
@@ -326,7 +301,7 @@ Only install this mod if you installed **Rorikstead Basalt Cliffs**. Otherwise s
   * LoS II - Karthwasten patch
   * LoS II - Kynesgrove patch
   * ~~LoS II - Oakwood patch~~
-  * LoS II - Provincial Courier Service patch
+  * ~~LoS II - Provincial Courier Service patch~~
   * LoS II - Shor’s Stone patch
   * LoS II - Soljund’s Sinkhole patch
   * ~~LoS II - Telengard patch~~

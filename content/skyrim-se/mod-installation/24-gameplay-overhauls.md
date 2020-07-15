@@ -34,10 +34,6 @@ Only install this mod if you installed **JS Circlet Replacer**. Otherwise skip i
 * **Miscellaneous Files:**
   * JS Circlet Replacer_CCOR
 
-#### Mod Order
-
-* Move below the **PATCHES** separator.
-
 ##### [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298?tab=files) (optional)
 
 #### Download Instructions
@@ -86,10 +82,6 @@ Only install this mod if you installed **Subtle But Classless**. Otherwise skip 
 
 * **Main Files:** Carriage and Ferry Travel Overhaul
 * **Optional Files:** CFTO - Dawnstar by Arthmoor Patch
-
-#### Mod Order
-
-* Place **CFTO - Dawnstar by Arthmoor Patch** below the **PATCHES** separator.
 
 ##### [CFTO - Winterhold Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/27236?tab=files)
 

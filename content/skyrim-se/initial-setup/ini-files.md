@@ -15,7 +15,7 @@ The basic game settings are saved in two INI files, **Skyrim.ini** and **SkyrimP
 If you had Skyrim SE installed previously, follow these steps:
 
 * Locate your default INI files in the following directory:
-  * `C:\Users\{USERNAME}\My Games\Skyrim Special Edition`
+  * `C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition`
 * If you have old save games you wish to keep, back up the **saves** folder now.
 * Delete everything inside the **Skyrim Special Edition** folder.
 
@@ -91,6 +91,7 @@ Continue with the sixth tab, **Detail**.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
 - **Shadow Resolution:** Set to `2048` (unless you have a very slow CPU).
 - **Exterior Draw Distance:** Set to `8000`.
+- **Tree Shadows:** Check the box for this setting.
 
 > **Object LOD** reflections are broken in SSE, but the mod SSE Engine Fixes includes a fix. **Depth of Field** should not be disabled in the INI as it will make underwater look perfectly clear. By turning DOF all the way down in the ingame settings, you can disable it without breaking underwater visuals (if you dislike the DOF and/or want to use an ENB DOF effect instead).
 

@@ -103,7 +103,7 @@ description: >
 
 ![True Homecooked Meal USSEP](/Pictures/mod_installation/true_homecooked_meal_ussep.png)
 
-##### [HD Meshes and Textures for Animal and Creature Drops](https://www.nexusmods.com/skyrimspecialedition/mods/33791/) (optional)
+##### [HD Meshes and Textures for Animal and Creature Drops](https://www.nexusmods.com/skyrimspecialedition/mods/33791?tab=files) (optional)
 
 #### Download Instructions
 

@@ -93,7 +93,7 @@ A number of (vanilla) features can be disabled through GDO console commands.
 #### Download Instructions
 
 * **Main Files:** Thugs Not Assassins
-* **Optional Files:** Thugs Not Assassins - Timing Is Everything Patch
+* **Optional Files:** Thugs Not Assassins - Timing Is Everything
 
 > Even though Timing Is Everything will be installed later on and lower in the mod order, the scripts from the TNA patch BSA will still override it because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
 

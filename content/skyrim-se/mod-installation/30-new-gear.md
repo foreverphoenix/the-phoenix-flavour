@@ -30,10 +30,6 @@ description: >
 
 * **WACCF:** WACCF + ACE
 
-#### Mod Order
-
-* Place the mod below the **PATCHES** separator.
-
 ##### [aMidianBorn Content Addon](https://www.nexusmods.com/skyrimspecialedition/mods/35390?tab=files)
 
 #### Download Instructions

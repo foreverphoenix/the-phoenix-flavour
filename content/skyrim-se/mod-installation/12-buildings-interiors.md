@@ -6,7 +6,7 @@ description: >
   Overhauls and expansions of various locations.
 ---
 
-##### [JK’s Cities – Lite](https://www.nexusmods.com/skyrim/mods/71018?tab=files)
+##### [JK’s Cities - Lite](https://www.nexusmods.com/skyrim/mods/71018?tab=files)
 
 #### Download Instructions
 
@@ -183,12 +183,6 @@ description: >
   - ~~Solitude Temple Frescoes 2019~~
   - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
   - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
-
-##### [Provincial Courier Service](https://www.nexusmods.com/skyrimspecialedition/mods/10623?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Provincial Courier Service
 
 ##### [Unique Border Gates](https://www.nexusmods.com/skyrimspecialedition/mods/4819?tab=files)
 

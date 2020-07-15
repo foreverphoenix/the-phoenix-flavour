@@ -6,17 +6,26 @@ description: >
   Retextures for buildings and elements unique to certain cities.
 ---
 
-##### [MD's Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/32160?tab=files) (optional)
+##### [True Nordic Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files) (optional)
 
 #### Download Instructions
 
-* **Main Files:** MD's Farmhouses - 2K
+* **Main Files:**  True Nordic Farmhouses - Standard
+
+#### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `meshes\`
+  - `textures\architecture\farmhouse\stonewall01.dds`
+  - `textures\architecture\farmhouse\stonewall01_n.dds`
+
+> The stone walls will be covered by another mod later on. The stone wall doesn't look quite right in my opinion and by removing it, the game will revert to the Noble Skyrim textures which blends in better.
 
 ##### [The Streets of Whiterun HD](https://www.nexusmods.com/skyrimspecialedition/mods/20396?tab=files) (optional)
 
 #### Download Instructions
 
-* **Main Files:** The Streets of Whiterun in HD – 2k Mossier
+* **Main Files:** The Streets of Whiterun in HD - 2k Mossier
 
 ##### [Riften in High Definition](https://www.nexusmods.com/skyrimspecialedition/mods/20296?tab=files) (optional)
 
@@ -56,7 +65,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** HQ Solitude – 2K
+* **Main Files:** HQ Solitude - 2K
 * **Optional Files:** 4K Blue Palace Floor
 
 #### Additional Instructions
@@ -171,7 +180,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Soul Cairn HD 2K
+* **Main Files:** Soul Cairn 2K
 
 ##### [Arri’s Snow Elf Ruins Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/7292?tab=files) (optional)
 
