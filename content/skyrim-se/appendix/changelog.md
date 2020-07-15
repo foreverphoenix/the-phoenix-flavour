@@ -59,7 +59,7 @@ This is basically just 3.4, but fixed. As usual, the big release had plenty of o
 - **Mod Configuration:** Added Cathedral Weathers MCM instructions.
 - **Mod Configuration:** Removed Obsidian Weathers MCM instructions.
 - **Mod Configuration:** Removed VioLens MCM Instructions.
-- **Mod Configuration:** Removed Wildcat MCM instructions.
+- **Mod Configuration:** Removed Wildcat MCM instructions
 
 ## Release 3.4
 
