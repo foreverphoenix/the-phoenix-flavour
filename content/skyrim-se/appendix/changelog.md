@@ -10,6 +10,8 @@ description: >
 
 > 30/07/2020
 
+Maintenance update.
+
 #### Initial Setup
 
 - **Skyrim SE:** Added a note that non-English installations of Skyrim SE are not supported.
