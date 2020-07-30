@@ -34,7 +34,7 @@ In order to update CAO without removing the custom TPF profiles, simply do the f
 - Navigate to `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
 - Delete everything except for the **profiles** folder.
 - Download the new version of Cathedral Assets Optimizer.
-- Open the archive and move everything except into the CAO folder.
+- Open the archive and move everything into the CAO folder.
 - Merge and overwrite when prompted.
 
 > This will leave the TPF profiles intact but overwrite the default profiles in case anything was changed about them.
