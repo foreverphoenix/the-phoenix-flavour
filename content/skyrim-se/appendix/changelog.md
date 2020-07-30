@@ -10,6 +10,8 @@ description: >
 
 > 30/07/2020
 
+Maintenance update.
+
 #### Initial Setup
 
 - **Skyrim SE:** Added a note that non-English installations of Skyrim SE are not supported.
@@ -21,7 +23,7 @@ description: >
 - **Buildings & Interiors:** Updated FOMOD instructions for Obscure's College of Winterhold (no longer using Mannequins Stay Put).
 - **Dungeons:** Updated download instructions for CC's Enhanced Ore Veins.
 - **Dungeons:** Added instructions to remove Heartstone meshes/textures from Metallurgy.
-- **Dungeons:** Added instructions to remove the scathecrow textures from Forgotten Retex Overhaul.
+- **Clutter:** Added instructions to remove the scathecrow textures from Forgotten Retex Overhaul.
 - **Apparel & Weapons:** Added Male Horns for Female Iron Helmet.
 - **Unique Artifacts:** Unique Zephyr is no longer optional (needs a conflict fixed in the CRP).
 - **Miscellaneous:** Added Ish's Respec Mod.
