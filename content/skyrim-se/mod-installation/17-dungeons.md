@@ -90,7 +90,8 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Enhanced Ore Veins - 2K - 7.2
+* **Main Files:** Enhanced Ore Veins - 2K - 8.0
+* **Update Files:** Enhanced Ore Veins - 8.0.1 - Patch >> `merge with the main file`
 
 #### FOMOD Instructions
 
@@ -125,7 +126,14 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Metallurgy - Ingots and Ore HD 1K (LOOSE)
+* **Main Files:** Metallurgy - Ingots Ore and Veins HD 1K (LOOSE)
+
+#### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  - `textures\DLC02\`
+
+> The Heartstone and Heartstone ore textures are covered by CC's Enhanced Ore Veins.
 
 ##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files) (optional)
 

@@ -65,6 +65,12 @@ description: >
 
 > There is no need to select the individual options at the bottom.
 
+##### [Male Horns for Female Iron Helmet](https://www.nexusmods.com/skyrimspecialedition/mods/38672?tab=files) (optional)
+
+#### Download Instructions
+
+- **Main Files:** Male Horns for Female Iron Helmet
+
 ##### [Frankly HD Silver Sword](https://www.nexusmods.com/skyrim/mods/29563?tab=files)
 
 #### Download Instructions

@@ -6,6 +6,12 @@ description: >
   Various smaller mods with niche features.
 ---
 
+##### [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ish's Respec Mod
+
 ##### [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098?tab=files) (optional)
 
 #### Download Instructions

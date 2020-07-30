@@ -1,5 +1,5 @@
 ---
-title: "Quick Tutorials"
+title: "Various Tutorials"
 weight: 3
 type: docs
 description: >

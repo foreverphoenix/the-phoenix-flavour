@@ -74,17 +74,25 @@ This mod was not packaged correctly.
 
 * **Main Files:** No heavy muscular walk and idle
 
-##### [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
+##### [Relaxed Sneaking Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37260?tab=files) (optional)
+
+*When sneaking, you will still feel crouched as the camera height isn't changed but your companions and any other sneaking NPCs will look a great deal less ridiculous.*
 
 #### Download Instructions
 
-* **Main Files:** DWANIM
+- **Main Files:** Relaxed Sneak Animations
 
 ##### [D13 Faster GET UP STAND UP Animation](https://www.nexusmods.com/skyrimspecialedition/mods/5890?tab=files) (optional)
 
 #### Download Instructions
 
 * **Main Files:** D13 Faster Get Up Stand Up SSE
+
+##### [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files) (optional)
+
+#### Download Instructions
+
+* **Main Files:** DWANIM
 
 ##### [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files) (optional)
 
@@ -103,6 +111,12 @@ This mod was not packaged correctly.
 #### Download Instructions
 
 * **Main Files:** Supreme Vampire Lords XP32 SE
+
+##### [Slof's Trotting Horse](https://www.nexusmods.com/skyrimspecialedition/mods/38788?tab=files) (optional)
+
+#### Download Instructions
+
+- **Main Files:** Slof's Trotting Horse SSE
 
 ##### [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431?tab=files) (optional)
 

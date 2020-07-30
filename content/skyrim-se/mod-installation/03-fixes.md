@@ -147,7 +147,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 #### Download Instructions
 
-- **Main Files:** Mannequin Management
+- **Main Files:** Mannequin Management-USSEP
 
 ##### [Eye Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/5445?tab=files) (optional)
 

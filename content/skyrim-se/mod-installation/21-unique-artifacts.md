@@ -102,7 +102,7 @@ description: >
 
 * **Main Files:** Spell Breaker HD
 
-##### [Remiros’ Ancient Falmer Armor HD](https://www.nexusmods.com/skyrimspecialedition/mods/22458?tab=files)  (optional)
+##### [Remiros’ Ancient Falmer Armor HD](https://www.nexusmods.com/skyrimspecialedition/mods/22458?tab=files) (optional)
 
 #### Download Instructions
 
@@ -118,7 +118,7 @@ description: >
 
 * **Miscellaneous Files:** Harkons Sword - Scabbard 2k
 
-##### [Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/16956?tab=files) (optional)
+##### [Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/16956?tab=files)
 
 #### Download Instructions
 

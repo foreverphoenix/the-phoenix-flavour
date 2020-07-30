@@ -160,3 +160,9 @@ description: >
 
 - **Main Files:** Rally's Solstheim Plants 2K
 - **Optional Files:** Lods for Mushroom Trees 512x512
+
+##### [Scathecraw HD 2K](https://www.nexusmods.com/skyrimspecialedition/mods/38454?tab=files) (optional)
+
+#### Download Instructions
+
+- **Main File:** Scathecraw HD 2K

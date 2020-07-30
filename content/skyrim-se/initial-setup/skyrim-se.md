@@ -44,6 +44,8 @@ If you already have a separate Steam Library outside the UAC protected folders o
 
 ## Reinstallation
 
+> Make sure that Skyrim is set to English in Steam (right-click the game, select Properties >> Language). Non-English installations are not supported.
+
 * Open Steam and go into your **Game Library**.
 * Find **The Elder Scrolls V: Skyrim Special Edition** in the list and click **Install**.
 * As location, select the Steam Library you just created.

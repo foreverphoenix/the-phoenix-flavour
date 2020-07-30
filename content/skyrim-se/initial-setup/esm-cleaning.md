@@ -66,31 +66,6 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 
 ![Update ESM Cleaned](/Pictures/setup/update_esm_cleaned.png)
 
-## Manual Cleaning - Update ESM
-
-### Source
-
-With 1.5.97, Bethesda changed the navmeshes in Solitude for their latest "creation", Saints & Seducers ([source](https://www.reddit.com/r/skyrimmods/comments/dzvg03/teardown_of_the_1597_update/?utm_source=share&utm_medium=web2x)). Some mods however still rely on the old navmesh and they will crash if it's missing (namely Interesting NPCs). Therefore we will revert the deletion of the old navmesh.
-
-Instructions are copied with permission from Lexy's LOTD.
-
-### Instructions
-
-- Run SSEEdit through Mod Organizer 2 (do **not** use the Quick Cleaning version).
-- In the plugin selection window, right-click and **Select None**.
-- Check only **Update.esm** and hit **OK** (Skyrim.esm will be loaded automatically as well because it is a master).
-- Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
-- Double-click **Update.esm** and navigate to the following section:
-  - `Worldspace \ 0000003C Tamriel \ Block 1, -1 \ Sub-Block 5, -4 \ 0000BDC9 \ Temporary`
-- Double-click **Temporary** and delete the following record:
-  - `00106EAA Navigation Mesh`
-- Close SSEEdit.
-- When asked to save your changes, only **Update.esm** should appear in the list.
-- Make sure **Update.esm** is checked, then click **OK**.
-- You’re done!
-
-![Update ESM Manual Edit](/Pictures/setup/update_esm_manual_edit.png)
-
 ## Manual Cleaning - Dawnguard ESM
 
 ### Source
