@@ -105,7 +105,7 @@ description: >
 * **Other Files:**
   - ~~Hall of Diligence FPS Help~~
 * **Recommendations:**
-  - Mannequins Stay Put Detected >> `this will be greyed out if you skipped Mannequins Stay Put`
+  - ~~Mannequins Stay Put Detected~~
 * **iNeed:**
   * ~~iNeed - Food Water and Sleep~~
   * ~~iNeed - Extended~~

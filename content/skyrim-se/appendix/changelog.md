@@ -6,9 +6,45 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.4.2
+
+> 30/07/2020
+
+#### Initial Setup
+
+- **Skyrim SE:** Added a note that non-English installations of Skyrim SE are not supported.
+- **ESM Cleaning:** Removed manual cleaning instructions for Update ESM (may cause issues and 3DNPC is no longer in the guide).
+
+#### Mod Installation
+
+- **Trees & Plants:** Added Scathecraw HD 2K.
+- **Buildings & Interiors:** Updated FOMOD instructions for Obscure's College of Winterhold (no longer using Mannequins Stay Put).
+- **Dungeons:** Updated download instructions for CC's Enhanced Ore Veins.
+- **Dungeons:** Added instructions to remove Heartstone meshes/textures from Metallurgy.
+- **Dungeons:** Added instructions to remove the scathecrow textures from Forgotten Retex Overhaul.
+- **Apparel & Weapons:** Added Male Horns for Female Iron Helmet.
+- **Unique Artifacts:** Unique Zephyr is no longer optional (needs a conflict fixed in the CRP).
+- **Miscellaneous:** Added Ish's Respec Mod.
+- **Skeleton & Animations:** Added Relaxed Sneaking Animations.
+- **Skeleton & Animations:** Added Slof's Trotting Horse.
+
+#### Resources
+
+- **How To Update:** Added this new page with instructions for updating various tools and certain mods.
+
+#### Conflict Resolution Patch
+
+- Fixed a conflict between Ish's Respec Mod and Night Eye Overhaul.
+- Lowered the amount of Draughts of Fate Unwound available at Elgrim's from 99 to 2.
+- Fixed a conflict between Unique Zephyr and Unique Item Tweaks.
+- The Ring of Pure Mixtures is no longer disenchantable.
+- The Forgemaster's Fingers are no longer disenchantable.
+- The Dragon ingredients added by Skyrim Alchemy Fixed will no longer drop.
+- **Not yet updated for Adamant 4.0 or newer.**
+
 ## Release 3.4.1
 
-> 15.07.2020
+> 15/07/2020
 
 This is basically just 3.4, but fixed. As usual, the big release had plenty of oversights and little errors that were hunted down by the wonderful people on our Discord server, in particular Lively who went through the entire guide once again with a fine-toothed comb. Thanks!
 
@@ -30,7 +66,7 @@ This is basically just 3.4, but fixed. As usual, the big release had plenty of o
 - **Trees & Plants:** Swapped from Lush Large to Lush trees for EVT (good compromise for less powerful systems).
 - **Trees & Plants:** Fixed FOMOD instructions for EVT Lush.
 - **Trees & Plants:** Fixed FOMOD instructions for EVT - Alternative Branch Textures.
-- **Trees & Plants:** No longer installing EVT Alternative Trees (I'm tired of the snowy pines, found myself missing the vanilla snow trees).
+- **Trees & Plants:** No longer installing EVT Alternative Trees (I'm tired of the snowy pines, found myself missing the vanilla ones).
 - **Trees & Plants:** Removed EVT Vurts Light Snow Trees (since we're no longer using the big ones).
 - **Trees & Plants:** Moved Enhanced Landscapes - Dead Marsh here.
 - **Trees & Plants:** Updated the FOMOD instructions for Enhanced Landscapes (they ahd an ancient pre-3.0 format).

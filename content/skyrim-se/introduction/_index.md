@@ -52,13 +52,12 @@ The concept of "Vanilla plus" simply refers to a mod or mod setup that improves 
 
 You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
-- **Visuals:** Obsidian Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
+- **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
 - **Textures:** Skyrim Realistic Overhaul as base, then Noble Skyrim 2K overwritten by dozens of smaller mods.
 - **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory, 3D tree LOD is optional.
 - **ENBSeries:** Using ENB is optional, there are instructions to add a preset and related mods.
 - **Body Replacer:** Caliente's Beautiful Bodies Enhancer.
-- **Perk Overhaul:** Featuring Adamant - A Perk Overhaul, vanilla-plus-style and very light-weight.
-- **Combat:** Based on Wildcat, both vanilla difficulty as well as lethal, fast-paced combat are possible.
+- **Gameplay:** Featuring SimonMagus' suite of lightweight overhauls: Adamant for perks, Mysticism for magic, and Blade & Blunt for combat.
 - **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
 - **New Companions:** Custom-voiced companions of (arguably) the highest quality are included: Inigo, Lucien and 3DNPCs.
 - **DLC-Sized Mods:** Interesting NPCs and The Forgotten City.

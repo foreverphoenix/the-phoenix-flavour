@@ -53,6 +53,8 @@ The [ENB Helper](https://www.nexusmods.com/skyrimspecialedition/mods/23174) is a
 
 ## Complex Particle Lights
 
-Newer versions of ENBSeries include an effect called Complex Particle Lights. Meshes edited to support it emit light that can even affect grass or the player character. The ENB Light mod primarily implements this feature, but there is also rudy's More Lights for ENB collection of mods which add lights to all kinds of objects such as soul gems and certain plants. As these effects require an active ENB preset with Complex Particle Lights enabled, they are not included in the main guide. You can install them in 05 Related Mods.
+Newer versions of ENBSeries include an effect called Complex Particle Lights. Meshes edited to support it emit light that can even affect grass or the player character. The ENB Light mod primarily implements this feature, but there is also rudy's More Lights for ENB collection of mods which add lights to all kinds of objects such as soul gems and certain plants.
+
+As these effects require an active ENB preset with Complex Particle Lights enabled, they are not included in the main guide. You can find installation instructions on the **Related Mods** page.
 
 Please note that the Complex Particle Lights feature does come with a small performance impact. Users with lower-end machines might want to disable it and skip the related mods.

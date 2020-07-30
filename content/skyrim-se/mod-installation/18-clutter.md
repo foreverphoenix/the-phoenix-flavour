@@ -28,9 +28,9 @@ description: >
   * `meshes\furniture\blacksmithforgemarker.nif`
   * `meshes\furniture\blacksmithforgemarkerwr.nif`
   * `meshes\furniture\blacksmithingskyforgemarker.nif`
+  * `textures\dlc02\plants\`
 
-> The first five meshes conflict with and overwrite the arguably superior ones from Skyrim 3D Cooking.
-> The final three meshes overwrite Embers HD and prevent its forge textures from being applied.
+> The first five meshes conflict with and overwrite the arguably superior ones from Skyrim 3D Cooking. The blacksmith forge meshes overwrite Embers HD and prevent its forge textures from being applied. The textures from the plants folder are deleted because they would overwrite fadingsignal's Scathecraw HD if that was installed.
 
 ##### [Aetherial Crown by Saerileth - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23631?tab=files)
 
