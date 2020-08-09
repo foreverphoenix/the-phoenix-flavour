@@ -111,7 +111,7 @@ Only install this mod if you installed **Subtle But Classless**. Otherwise skip 
 
 * **Main Files:** Night Eye Overhaul - Plugin Replacer - Sacrosanct Version
 
-##### [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549?tab=files) (optional)
+##### [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549?tab=files)
 
 #### Download Instructions
 

@@ -55,7 +55,7 @@ description: >
 
 #### FOMOD Instructions - Shrines Don't Cure Diseases
 
-- **Plugin:** AI Overhaul Compatible Version
+- **Plugin:** Trua Compatible Version
 
 ##### [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files) (optional)
 
