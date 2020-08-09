@@ -27,7 +27,7 @@ I've also finally gotten around to fixing up some [personal tweaks](https://www.
 - **Graphics Baseline:** Updated instructions to unpack the aMidianBorn Book of Silence BSA through MO2 instead of CAO.
 - **Misc Structures:** Replaced Fences of Skyrim with SD's Farmhouse Fences.
 - **Apparel & Weapons:** Open Face Guard Helmets is no longer optional (CRP dependency).
-- **Apparel & Weapons:** Removed Open Face Guard Helmets (conflicts addressed in the CRP).
+- **Apparel & Weapons:** Removed Open Face Guard Helmets - Plugin Replacer (conflicts addressed in the CRP).
 - **Unique Artifacts:** Removed Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer (conflicts addressed in the CRP).
 - **Gameplay Overhauls:** Trua - Minimalistic Faiths of Skyrim is no longer optional.
 - **Non-Player Character:** Updated the customisation instructions for GDO (new console commands).
