@@ -8,7 +8,7 @@ description: >
 
 ## Download
 
-* Download [SKSE64](http://skse.silverlock.org/). You need build **2.0.18** for the current version of Skyrim SE.
+* Download [SKSE64](http://skse.silverlock.org/). You need build **2.0.19** for the current version of Skyrim SE.
 * Save the downloaded archive to `Your Modding Folder\ARCHIVE\SKSE64`.
 
 If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).

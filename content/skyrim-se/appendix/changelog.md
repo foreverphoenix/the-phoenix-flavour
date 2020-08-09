@@ -16,7 +16,7 @@ I've also finally gotten around to fixing up some [personal tweaks](https://www.
 
 #### Initial Setup
 
-- **Skyrim Script Extender:** Updated instructions, now support SKSE 2.0.18 (latest update).
+- **Skyrim Script Extender:** Updated instructions, now supporting SKSE 2.0.19 (latest update).
 - **INI Files:** Added instructions to increase particle count to 1500 under BethINI Detail.
 
 #### Mod Installation
