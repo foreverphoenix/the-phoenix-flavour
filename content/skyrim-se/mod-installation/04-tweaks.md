@@ -39,6 +39,24 @@ description: >
 * **Main Files:** ANDR Tweaks 07 - Only Dead Lover's Cause Inheritance Letters
 * **Main Files:** ANDR Tweaks 13A - Stones of Barenziah - Dawnguard
 
+##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files) (optional)
+
+#### Download Instructions
+
+- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
+- **Main Files:** Misc Tweaks - Better Horses
+- **Main Files:** Misc Tweaks - More Realistic Animal Loot
+- **Main Files:** Misc Tweaks - No Starting Spells
+- **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
+
+#### FOMOD Instructions - No Starting Spells
+
+- **Plugin:** AI Overhaul Compatible Plugin
+
+#### FOMOD Instructions - Shrines Don't Cure Diseases
+
+- **Plugin:** AI Overhaul Compatible Version
+
 ##### [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files) (optional)
 
 #### Download Instructions
@@ -102,12 +120,6 @@ description: >
 - **Main Files:** Random Encounter Tweaks
 
 > Be aware that the only part of the mod that will come into effect is the addition of Shivs for Skooma dealers. Everything else will eventually be overwritten by Timing Is Everything.
-
-##### [Morrowloot Miscellania - Better Ancient Knowledge](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files) (optional)
-
-#### Download Instructions
-
-- **Main Files:** Morrowloot Miscellania - Better Ancient Knowledge
 
 ##### [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files) (optional)
 

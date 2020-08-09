@@ -41,12 +41,6 @@ description: >
 
 * **Main Files:** Better Shrouded Armor SSE - Ancient Replacer Only
 
-##### [Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) 
-
-#### Download Instructions
-
-* **Main Files:** Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer
-
 ##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
 
 #### Download Instructions

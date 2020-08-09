@@ -28,15 +28,15 @@ description: >
 
 #### Download Instructions
 
-* **Main Filess:** Relationship Dialogue Overhaul - RDO Final
-* **Optional Filess:** RDO - CRF and USSEP Patches Final
+* **Main Files:** Relationship Dialogue Overhaul - RDO Final
+* **Optional Files:** RDO - CRF and USSEP Patches Final
 
 #### Additional Instructions
 
 * Double-click the **RDO - USSEP and CRF Patch** file in your mod order.
 * Delete the following file(s) and/or folder(s):
   * `RDO - CRF + USSEP Patch.esp`
-* Rename the file to **Relationship Dialogue Overhaul - USSEP Patch**.
+* Rename the mod (not the plugin) to **Relationship Dialogue Overhaul - USSEP Patch** in Mod Organizer.
 
 ##### [Relationship Dialogue Overhaul - MCM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
 
@@ -57,18 +57,15 @@ description: >
 
 #### Customisation
 
-A number of (vanilla) features can be disabled through GDO console commands.
+You can disable comments that turned into memes ("no lollygagging", "someone stole your sweet roll", "curved swords", "arrow in the knee") by doing the following:
 
 - Double-click **Autorun Console Commands** in your mod order.
 - Switch to the **Text Files** tab and select the **Autorun.txt**.
-- Add any of the following lines:
-  - `Set GDODisableWarning to 1`
-  - `Set GDODisableMemes to 1`
+- Add the following line:
+  - `Set GDOMemes to 0`
 - Close the window and click **Yes** when prompted.
 
-> **GDODisableWarning:** Stops guards from approaching and warning you when you Shout in their presence. These comments will be disabled automatically after defeating Alduin.
-
-> **GDODisableMemes:** This will disable all "no lollygagging", "curved swords", "someone stole your sweetroll" and "arrow in the knee" comments. The first three will be automatically disabled after completing certain quests or becoming Thane of a hold.
+> By default, the "curved swords" line will play only until after the Alik'r quest, and the other three lines will no longer play in any hold that the player has become Thane of.
 
 ##### [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files)
 
@@ -110,7 +107,6 @@ A number of (vanilla) features can be disabled through GDO console commands.
 * **Core Options:**
   * Followers Avoid Traps
   * ~~Replace Base Dialogue Scripts~~
-  * Vanilla SkyHaven Temple
   * ~~Follower Leveling Bat File~~
   * ~~Follower Class BAT Files~~
 * **Removed Scripts:**

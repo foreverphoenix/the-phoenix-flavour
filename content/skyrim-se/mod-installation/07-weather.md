@@ -28,7 +28,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Download and install the main file.
+* **Main Files:** Skyrim Textures Redone- Enhanced Night Sky
 
 #### FOMOD Instructions
 

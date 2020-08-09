@@ -81,6 +81,22 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 
 > Since the folder wasn't changed, there is no need to update the file paths to the TexGen and DynDOLOD executables in MO2. They are still the same.
 
+## Skyrim Script Extender
+
+When SKSE updates, please wait for the guide to update accordingly before installing the new version. For new Skyrim SE versions and matching SKSE updates, many other mods need to be updated as well.
+
+In order to update, you need to replace the DLLs and executable in the **root** folder as well as the **Scripts** folder managed with MO2.
+
+- Download the new version of the [Skyrim Script Extender](https://skse.silverlock.org/).
+- Extract `skse64_1_5_x.dll`, `skse64_loader.exe`, and `skse64_steam_loader.dll` into your **root** folder.
+- Overwrite when prompted.
+- If the new version of SKSE is for a new version of Skyrim SE, you will have to delete the previous version's `skse64_1_5_x.dll`.
+- Navigate to `Mod Organizer 2\mods\SKSE - Data 2.0.x` and rename the folder for the latest version of SKSE.
+- Open the folder and delete everything inside.
+- Double-click the **Data** folder inside the SKSE archive and drag the **Scripts** folder inside into the empty folder.
+
+![Update SKSE](/Pictures/guide-resources/update-skse.png)
+
 ## Adamant - A Perk Overhaul
 
 It is entirely possible to update Adamant in the middle of a playthrough with the help of Ish's Respec Mod. However, big updates for Adamant often require the guide's CRP to be updated as well which in turn is often accompanied by a guide update. So while Adamant is basically always safe to update, the CRP is not.

@@ -58,6 +58,13 @@ description: >
 
 > This is faster than downloading and ESL-ifying the ESP version.
 
+##### [No Road Predators Redone](https://www.nexusmods.com/skyrimspecialedition/mods/24366?tab=files) (optional)
+
+#### Download Instructions
+
+- **Main Files:** No Road Predators
+- **Main Files:** No Road Predators - Less Predators Addon
+
 ##### [Beast Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/517?tab=files) (optional)
 
 #### Download Instructions

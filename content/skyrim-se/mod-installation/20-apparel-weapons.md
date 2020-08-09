@@ -117,15 +117,6 @@ description: >
 
 * **Main Files:** Open Face Guard Helmets
 
-##### [Open Face Guard Helmets - Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (conditional)
-
-{{% alert title="Mod Dependency" color="warning" %}}
-Only install this mod if you installed **Open Face Guard Helmets**. Otherwise skip it.{{% /alert %}}
-
-#### Download Instructions
-
-* **Main Files:** Open Face Guard Helmets - Replacer Plugin
-
 ##### [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files) (optional)
 
 #### Download Instructions

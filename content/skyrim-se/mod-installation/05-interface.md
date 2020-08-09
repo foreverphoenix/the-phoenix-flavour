@@ -66,7 +66,7 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 
 #### Download Instructions
 
-- **Main Files:** RaceMenu Special Edition v0-4-12
+- **Main Files:** RaceMenu Special Edition v0-4-13
 
 #### Additional Instructions
 

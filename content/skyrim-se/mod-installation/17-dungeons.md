@@ -133,7 +133,7 @@ description: >
 - Delete the following file(s) and/or folder(s):
   - `textures\DLC02\`
 
-> The Heartstone and Heartstone ore textures are covered by CC's Enhanced Ore Veins.
+> Heart Stone and Heart Stone ore textures are covered by CC's Enhanced Ore Veins.
 
 ##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files) (optional)
 

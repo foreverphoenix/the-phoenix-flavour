@@ -81,7 +81,7 @@ description: >
 
 * **Main Files:** Book Covers Skyrim SE - Desaturated
 
-##### [Realistic Paper (optional)](https://www.nexusmods.com/skyrim/mods/937?tab=files)
+##### [Realistic Paper](https://www.nexusmods.com/skyrim/mods/937?tab=files) (optional)
 
 #### Download Instructions
 

@@ -37,3 +37,14 @@ Edit the following line in your **skyrimprefs.ini** file to increase the particl
 [Particles]
 iMaxDesired=7500
 ```
+
+## Volumetric Lighting
+
+For Rudy ENB, it is recommended (but not required) to enable Volumetric Lighting aka godrays. Please note that there is a noticeable performance impact, especially on weaker machines.
+
+Edit the following line in your **skyrimprefs.ini** to enable godrays:
+
+```
+[Display]
+bVolumetricLightingEnable=1
+```

@@ -6,11 +6,12 @@ description: >
   Retextures for various objects such as fences, signs, and statues.
 ---
 
-##### [Fences of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/5664?tab=files) (optional)
+##### [SD's Farmhouse Fences](https://www.nexusmods.com/skyrimspecialedition/mods/38912?tab=files) (optional)
 
 #### Download Instructions
 
-* **Optional Files:** Fences of Skyrim - Weathered Edition 2K
+* **Main Files:** 2k Farmhouse Fences SE Version 2
+* **Optional Files:** 2k Slightly Desaturated Version 2 Deffuse >> `merge with the main file`
 
 ##### [Skyrim Landscape Overhaul - Stone Walls](https://www.nexusmods.com/skyrim/mods/76359?tab=files) (optional)
 

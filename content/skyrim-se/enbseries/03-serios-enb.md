@@ -1,29 +1,29 @@
 ---
-title: "Serio's ENB"
+title: "ENB Preset Installation"
 weight: 3
 type: docs
 description: >
-  Installing Serio's ENB preset.
+  Installing the guide's recommended ENB preset.
 ---
 
 ## Preset Selection
 
-The Phoenix Flavour is using **Serio's ENB**, a lightweight but beautiful Cathedral Weathers preset that doesn't break vanilla image spaces (night eye will work) and features different LUTs. It requires some tweaking to perfect it for our setup but that is well worth it.
+The Phoenix Flavour is using **Rudy ENB** for Cathedral Weathers. Rudy ENB has been around since the Classic Skyrim days and enjoys a reputation of one of the most feature-rich and highest quality presets. The performance impact is noticeable but should not render the game unplayable on decently modern systems @1080p. Settings can be tweaked or disabled in order to gain more frames.
 
 ## Create a new preset
 
 * In ENB Man, click the arrow under **Presets** and select **Blank preset**.
-* Enter a name for the new preset: `Serio's ENB - for Cathedral Weathers [1.10]`.
+* Enter a name for the new preset: `Rudy ENB - for Cathedral Weathers [1.0]`.
 * Click the green checkmark to confirm.
 
 ![Create New Preset](/Pictures/enbseries/create-new-preset.png)
 
 ## Import the preset
 
-* Manually download the main file from [Serio's ENB - Cathedral](https://www.nexusmods.com/skyrimspecialedition/mods/30506?tab=files) mod page.
+* Manually download the main file from [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files) mod page.
 * Navigate to `Your Modding Folder\temp`.
-* Open the downloaded ENB Preset archive and double-click the folder inside.
-* Extract the following files into your **temp** folder:
+* Open the downloaded ENB Preset archive and navigate to `Rudy for SSE 1.0 CW\! Catherdral Weathers Version\[ Skyrim SE folder ]`.
+* Extract all files into your **temp** folder:
   * enbseries
   * enblocal.ini
   * enbseries.ini

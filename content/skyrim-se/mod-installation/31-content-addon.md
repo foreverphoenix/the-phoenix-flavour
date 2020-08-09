@@ -52,20 +52,6 @@ You can follow this step installing only the **optional** and **conditional** mo
 
 * **Main Files:** The Tools of Kagrenac V1.56 SSE
 
-##### [It Beats For Her](https://www.nexusmods.com/skyrimspecialedition/mods/22956?tab=files) (optional)
-
-#### Download Instructions
-
-* **Main Files:** It Beats For Her SSE
-
-#### Additional Instructions
-
-* Double-click **It Beats For Her** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin:
-  * ItBeatsForHer.**esp**
-
-> This turns the plugin into an ESP-Lite and allows us to manipulate its position in the load order.
-
 ##### [Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files) (optional)
 
 #### Download Instructions
@@ -80,7 +66,7 @@ You can follow this step installing only the **optional** and **conditional** mo
 
 ##### [Morrowloot Ultimate - INIGO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/3058?tab=files)
 
-*While we are not using MLU, our setup follows a similar logic and immediate access to Ebony weapons through Inigo breaks consistency. With this patch, he will no longer have 1000 Ebony Arrows, the Ebony Sword and 20 Vigorous Healing Potions by default. Instead there is more appropriate equipment in the nearby chest. He keeps his Ebony bow (but it can no longer be taken from him).*
+*While we are not using MLU, our setup follows a similar logic and immediate access to Ebony weapons through Inigo breaks consistency. With this patch, he will no longer have 1000 Ebony Arrows, the Ebony Sword, and 20 Vigorous Healing Potions by default. Instead there is more appropriate equipment in the nearby chest. He keeps his Ebony bow (but it can no longer be taken from him).*
 
 #### Download Instructions
 
@@ -122,4 +108,4 @@ Only install this mod if you installed **Lucien - Fully Voiced Follower**. Other
 
 #### Additional Instructions
 
-- Move the mod manually below the **39 FINAL PATCHES** separator.
+- Move the mod manually below the **35 FINAL PATCHES** separator.

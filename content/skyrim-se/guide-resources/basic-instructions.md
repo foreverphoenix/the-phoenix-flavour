@@ -44,7 +44,7 @@ Archives should be unpacked if they were created with the 32bit CK (which will c
 
 ## Optimising SLE Assets
 
-> "Run the mod through Cathedral Assets Optimiser."
+> "Run the mod through Cathedral Assets Optimiser (Optimise SLE Assets)."
 
 Skyrim LE meshes often need to be fixed and optimised by Cathedral Assets Optimizer before they can be used in SE. We will also use CAO on mods to optimise (compress) included textures sometimes. If a Classic Skyrim mod does not have instructions to run it through CAO this is because I already did so and found that no meshes or textures needed optimising.
 
@@ -67,9 +67,9 @@ Very few mods in the guide need to be run through SSE NIF Optimizer instead of C
 * Click **Optimise** and wait until the process is finished.
 * Close **SSE NIF Optimizer**.
 
-## Resizing Textures
+## Downsizing Textures
 
-> "Downsize the textures with Cathedral Assets Optimizer."
+> "Run the mod through Cathedral Assets Optimizer (Downsize Textures)."
 
 At times (re)textures are only available in a size unreasonably large for regular gameplay, potentially impacting performance for those with low VRAM. In those cases we will utilise CAO to reduce the texture resolution by half.
 

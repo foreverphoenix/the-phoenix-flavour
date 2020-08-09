@@ -46,7 +46,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**Unpack BSA**).
+- Unpack **aMidianBorn_ContentAddon.bsa** through Mod Organizer 2.
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 
@@ -164,7 +164,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.5.7
+- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.6.0
 
 #### FOMOD Instructions
 

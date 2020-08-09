@@ -71,7 +71,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * dD-Reduced Wound Size.esp
 * DeadlySpellImpacts.esp
 * Enhanced Vanilla Trees SSE.esp
-* EVT_LightSnowTrees_Replacer (For Vurts).esp
 * ~~UniqueBorderGates-All-PointTheWay.esp~~
 * UniqueBorderGates-All-BetterDGEntrance.esp **compact FormIDs**
 * GQJ_DG_vampireamuletfix.esp

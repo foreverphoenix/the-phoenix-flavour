@@ -6,6 +6,50 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.4.3
+
+> 09/08/2020
+
+With this update, we are switching to the recently released Rudy ENB for Cathedral Weathers which works better out of the box for our setup. It also utilises almost all ENB features without too much of a performance impact which is pretty impressive.
+
+I've also finally gotten around to fixing up some [personal tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/38348/) and putting them on Nexus. Of course they were added to the guide as well.
+
+#### Initial Setup
+
+- **Skyrim Script Extender:** Updated instructions, now support SKSE 2.0.18 (latest update).
+- **INI Files:** Added instructions to increase particle count to 1500 under BethINI Detail.
+
+#### Mod Installation
+
+- Updated download instructions for a bunch of mods (incremented version numbers).
+- **Tweaks:** Added Miscellaneous Tweaks Collection.
+- **Tweaks:** Removed Morrowloot Miscellania - Better Ancient Knowledge (included in Miscellaneous Tweaks Collection).
+- **Graphics Baseline:** Updated instructions to unpack the aMidianBorn Book of Silence BSA through MO2 instead of CAO.
+- **Misc Structures:** Replaced Fences of Skyrim with SD's Farmhouse Fences.
+- **Apparel & Weapons:** Open Face Guard Helmets is no longer optional (CRP dependency).
+- **Apparel & Weapons:** Removed Open Face Guard Helmets (conflicts addressed in the CRP).
+- **Unique Artifacts:** Removed Better Shrouded Armor - Ancient Replacer Only - Plugin Replacer (conflicts addressed in the CRP).
+- **Non-Player Character:** Updated the customisation instructions for GDO (new console commands).
+- **Non-Player Characters:** Updated FOMOD instructions for Nether's Follower Framework.
+- **Combat & Encounters:** Added No Road Predators Redone.
+- **Content Addon:** Temporarily removed It Beats For Her (hidden on the Nexus).
+
+#### ENBSeries
+
+- **ENB Preset Installation:** Renamed this step to have a generic name (because I keep changing presets).
+- **ENB Preset Installation:** Swapped from Serio's ENB to Rudy ENB for Cathedral Weathers.
+- **INI Tweaks:** Added optional instructions to enable volumetric lighting (godrays).
+
+#### Resources
+
+- **How To Update:** Added Skyrim Script Extender updating instructions.
+
+#### Conflict Resolution Patch
+
+- Fixed conflicts between Open Face Guard Helmets and WACCF.
+- Fixed conflicts between Better Shrouded Armor - Ancient Replacer Only, WACCF, and Unique Item Tweaks.
+- **Updated for Adamant 4.0.4**. Updating instructions [here](https://thephoenixflavour.com/skyrim-se/guide-resources/how-to-update/).
+
 ## Release 3.4.2
 
 > 30/07/2020
@@ -22,7 +66,7 @@ Maintenance update.
 - **Trees & Plants:** Added Scathecraw HD 2K.
 - **Buildings & Interiors:** Updated FOMOD instructions for Obscure's College of Winterhold (no longer using Mannequins Stay Put).
 - **Dungeons:** Updated download instructions for CC's Enhanced Ore Veins.
-- **Dungeons:** Added instructions to remove Heartstone meshes/textures from Metallurgy.
+- **Dungeons:** Added instructions to remove Heart Stone meshes/textures from Metallurgy.
 - **Clutter:** Added instructions to remove the scathecrow textures from Forgotten Retex Overhaul.
 - **Apparel & Weapons:** Added Male Horns for Female Iron Helmet.
 - **Unique Artifacts:** Unique Zephyr is no longer optional (needs a conflict fixed in the CRP).

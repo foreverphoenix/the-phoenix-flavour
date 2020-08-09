@@ -87,6 +87,7 @@ Continue with the sixth tab, **Detail**.
 - **Decal Quantity:** Set to `High`.
 - **Godrays**: Set them to `None` (performance-intense, ENB has better godrays).
 - **Field of View:** Increase this if you prefer a wider FoV.
+- **Particles:** Increase the particle count to `1500`.
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
 - **Shadow Resolution:** Set to `2048` (unless you have a very slow CPU).
