@@ -111,7 +111,7 @@ description: >
 - **Left-hand Meshes:**
   - No Dual Sheath
 
-##### [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files) (optional)
+##### [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files)
 
 #### Download Instructions
 

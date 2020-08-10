@@ -33,6 +33,14 @@ Skyrim will immediately crash if you attempt to launch it with an active Skyrim 
 
 If none of the above helped, try regenerating your INI files from scratch. There are instructions under Resources > Quick Tutorials.
 
+## Main menu music is playing but the screen is black.
+
+This happens when VSYNC is enabled in enblocal.ini and conflicts with SSE Display Fixes. Open ENB Man and go into the Global Settings. The **enblocal.ini** there should be checked so that it overwrites. Double-click it and make sure that `ForceVSync` under ENGINE is set to false. VSYNC should be forced through SSE Display Fixes instead.
+
+> VSYNC is enabled by default in SSE Display Fixes and disabled in the enblocal.ini so if you run into this issue chances are you messed with settings you do not fully understand.
+
+![Disable VSYNC enblocal.ini](/Pictures/appendix/disable-vsync-enb-man.png)
+
 ## Skyrim gets stuck in the main menu.
 
 One of the more recent updates for the Unofficial Skyrim Special Edition Patch removed an AI package record from Aventus Aretino. None of the mods in the guide that touch Aventus (Prince and the Pauper, Simply Children, Adopt Aventus Aretino) have been updated since to incorporate that fix and they all have an unresolved error instead. This is fixed in the **Conflict Resolution Patch.esp**.
@@ -43,7 +51,7 @@ If the main menu won't load, your load order is messed up, or you aren't using t
 
 ## Grass looks strangely dull and flat.
 
-Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** and **Detailed Shadows** are enabled as they really give grass some much needed depth. Be aware that those are both performance hungry settings that are disabled in Lite presets for a reason.
+Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** is enabled to give grass some much needed depth. Be aware that Ambient Occlusion is fairly demanding and disabled in Lite presets for a reason.
 
 ![Example](https://cdn.discordapp.com/attachments/521296280165679119/702036429341065286/enb2020_4_21_00_57_56.jpg)
 

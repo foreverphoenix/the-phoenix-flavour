@@ -6,6 +6,31 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.4.4
+
+> 10/08/2020
+
+This is a fix-it for yesterday's update because I messed up a surprising amount of stuff some of which was already fixed yesterday but were included in the changelog for completion's sake.  All I can say in my defence is that 34°C in my flat is doing things to my brain.
+
+**Mysticism and Adamant update:** Simon just released a huge update for Mysticism which is going to require us to update the CRP. Do not install the new versions of Mysticism and Adamant until Umgak had the time to update the CRP. You will be pinged on Discord or see the notification for the update on the Nexus if you are tracking TPF there. **Do not ask for an ETA.**
+
+#### Initial Setup
+
+- **Skyrim Script Extender:** Updated instructions, now supporting SKSE 2.0.19 (latest update).
+
+#### Mod Installation
+
+- **Apparel & Weapons:** Actually removed the (optional) flag from Open Face Guard Helmets.
+- **Gameplay Overhauls:** Trua - Minimalistic Faiths of Skyrim is no longer optional.
+
+#### Finalisation
+
+- **First Launch:** Removed ENB config section for Serio's ENB that is no longer necessary with Rudy ENB.
+
+#### Appendix:
+
+- **Troubleshooting:** Added section for the enblocal.ini VSYNC and SSE Display Fixes conflict.
+
 ## Release 3.4.3
 
 > 09/08/2020
@@ -16,7 +41,7 @@ I've also finally gotten around to fixing up some [personal tweaks](https://www.
 
 #### Initial Setup
 
-- **Skyrim Script Extender:** Updated instructions, now supporting SKSE 2.0.19 (latest update).
+- **Skyrim Script Extender:** Updated instructions, now supporting SKSE 2.0.18 (latest update).
 - **INI Files:** Added instructions to increase particle count to 1500 under BethINI Detail.
 
 #### Mod Installation

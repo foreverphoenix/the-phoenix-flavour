@@ -46,67 +46,12 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
 
 ![Turn down DoF](/Pictures/finalisation/turn_down_dof.jpg)
 
-## To Riverwood
-
-* You will spawn near Helgen in an area you likely know well. Take some time to look around.
-* Activate the ENBSeries FPS counter if you installed ENB (default hotkey: Numpad *). Otherwise use the Steam overlay or something similar.
-* Go for a walk to Riverwood (if you don't know where that is, open the console and type `tmm 1` to enable all map markers).
-
-## ENB Configuration
-
-Serio's ENB looks beautiful out of the box, but there are some tweaks that will optimise it for our setup. Open the console (this makes it much easier to customise the ENB) and press Shift+Enter to open the ENB GUI.
-
-### Detailed Shadows
-
-One of the moderately performance-intense features of ENB is **Detailed Shadows**, although that's not why I recommend disabling it. Cathedral Grass (and grass mods in general) looks, in my opinion, a great deal better with this setting disabled.
-
-- Open the **EFFECT** section where you can toggle the main features of ENB.
-- Uncheck `EnabledDetailedShadows` (see screenshot below).
-- Click **Save Configuration**. Close the ENB GUI (Shift+Enter) and the console.
-
-![Disable Detailed Shadows](/Pictures/finalisation/enb-disable-detailed-shadows.png)
-
-### Interior Lighting
-
-- Enter one of the two public interiors in town (the Sleeping Giant Inn or the Riverwood Trader).
-- Once again, open the console and ENB GUI.
-- Scroll down in the column on the left to **ENVIRONMENT** and open that section.
-- Scroll down to the following two lines:
-  - `AmbientLightingIntensityInteriorDay`
-  - `AmbientLightingIntensityInteriorNight`
-- These are currently tweaked for Enhanced Lighting and ENB, and are too high for Luminosity which is the TPF lighting overhaul.
-- Tweak these values as you see fit. For `InteriorDay`, I prefer **1.10**, the `InteriorNight` value I set a little lower.
-- You can close the GUI / console to Wait (default hotkey is T) for nighttime to tweak the `InteriorNight` value.
-- Once done, click **Save Configuration**. Close the ENB GUI (Shift+Enter) and the console.
-
-> Note that when you type the values in the ENB GUI and hit Enter, they will also be typed in the console which will return an error. Don't worry about this.
-
-![ENB Environment](/Pictures/finalisation/enb-environment-section.png)
-
-![ENB Ambient Lighting](/Pictures/finalisation/enb-tweak-interior-lighting.png)
-
-### PostPassFX
-
-- Go back outside and use the Wait function to set the time to midday. In case of bad weather, type `fw 81a` in the console and hit Enter.
-- Position yourself so that you have a nice view of the village. Open the console and the ENB GUI.
-- In the right column, open the **ENBEFFECTPOSTPASS.FX** section which includes a bunch of optional tweaks.
-
-You can toggle these options at any time. Personally I only change the LUT to something a little colder. Feel free to experiment!
-
-- Toggle and tweak the **Vignette** effect.
-- Toggle and tweak the **Letterbox** effect.
-- Toggle and tweak the **LUT** effect. Change the **Gradiant Tint Type** for different LUTs.
-
-Don't forget to click **Save Configuration** if you changed anything.
-
-![ENB Ambient Lighting](/Pictures/finalisation/enb-postpass-fx.png)
-
 ## Testing Suggestions
 
 * You will spawn near Helgen in an area you likely know well. Take some time to look around.
 * Activate the ENBSeries FPS counter if you installed ENB (default hotkey: Numpad *). Otherwise use the Steam overlay or something similar.
 * It is often convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
-* Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers if you haven't done this already).
+* Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers).
 * Especially intense areas where you frame rate might drop are:
   * the southern forest, especially when looking down at Falkreath.
   * the swamp surrounding Morthal.
