@@ -70,44 +70,6 @@ description: >
 
 - **Main Files:** Rally's Solstheim Landscapes 2K
 
-##### [The Elder Scrolls - Veydosebrom](https://www.nexusmods.com/skyrimspecialedition/mods/26293?tab=files) (optional)
-
-#### Download Instructions
-
-* **Main Files:** The Elder Scrolls - Veydosebrom
-
-#### FOMOD Instructions
-
-* **Veydosebrom - Grasses and Groundcover:**
-  * Packed
-* **Choose your season:**
-  * Vanilla Season
-* **Choose your INI:**
-  * None
-* **Choose your landscape:**
-  * Vanilla Landscape
-* **Choose your quality:**
-  * 1k Quality
-* **BSA Archive:**
-  * 1k Full
-
-#### About the mod
-
-While Cathedral Landscape features incredibly performance friendly grasses, the type growing in the Morthal swamp area is famously ugly. Unfortunately, no other grass overhaul really features silver-white swamp grass. Veydosebrom's grass is somewhat desatured and looks great except it won't blend as well as Cath grass in the distance. Users will have to decide for themselves whether they consider much better looking grass overall worth the more noticeable grass fade-in.
-
-I uploaded a comparison slider [here](https://imgsli.com/MTQ2OTc).
-
-Be aware that Vey is not built for performance like Cath Landscapes so especially people playing on weaker machines may notice a drop in the swamp area (which is already notoriously performance intense).
-
-##### [Cathedral Landscapes - Veydosebrom Swamp Grass Addon](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
-
-{{% alert title="Mod Dependency" color="warning" %}}
-Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Otherwise skip it.{{% /alert %}}
-
-#### Download Instructions
-
-* **Main Files:** Cathedral Landscapes - Veydosebrom Swamp Grass Addon
-
 ##### [Pfuscher's Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532?tab=files)
 
 #### Download Instructions
