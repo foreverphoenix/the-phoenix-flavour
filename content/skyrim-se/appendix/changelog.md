@@ -1,10 +1,24 @@
 ---
 title: "Changelog"
-weight: 3
+weight: 4
 type: docs
 description: >
   For all versions since the Github release (3.2 and later).
 ---
+
+## Release 3.4.5
+
+> TBD
+
+With this update Aetherius and Mundus were added to both WJ and manual guide to complement the existing suite of gameplay mods by SimonMagus.
+
+And in other news: An optional **Legacy of the Dragonborn** profile was added to the Wabbajack version of TPF so that you get to have your V+ experience *and* the museum! Big thanks to Lively who made this happen.
+
+#### Mod Installation
+
+- **Landscape:** Removed The Elder Scrolls - Veydosebrom. The mod was updated and can no longer be used for our purposes.
+- **Landscape:** Removed Cathedral - Veydosebrom Swamp Grass Addon, not compatible with recent Vey update.
+
 
 ## Release 3.4.4
 
@@ -21,13 +35,13 @@ This is a fix-it for yesterday's update because I messed up a surprising amount 
 #### Mod Installation
 
 - **Apparel & Weapons:** Actually removed the (optional) flag from Open Face Guard Helmets.
-- **Gameplay Overhauls:** Trua - Minimalistic Faiths of Skyrim is no longer optional.
+- **Gameplay Overhauls:** Trua - Minimalistic Faiths of Skyrim is no longer optional (no, seriously this time).
 
 #### Finalisation
 
 - **First Launch:** Removed ENB config section for Serio's ENB that is no longer necessary with Rudy ENB.
 
-#### Appendix:
+#### Appendix
 
 - **Troubleshooting:** Added section for the enblocal.ini VSYNC and SSE Display Fixes conflict.
 

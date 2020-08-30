@@ -182,12 +182,12 @@ Only install this mod if you installed **The Elder Scrolls - Veydosebrom**. Othe
 * **Meshes:**
   * SMIM
 * **Optional Addons:**
-  * Snowy Farmhouses
+  * ~~Snowy Farmhouses~~
 * **Patches:**
   * ~~No Snow Under the Roof~~
   * ~~Majestic Mountains~~
 
-> We are not selecting the Majestic Mountains patch as the next mod has a more comprehensive solution to those two mods' incompatibilities.
+> We are not selecting the Majestic Mountains patch because the next mod has a more comprehensive solution to those two mods' incompatibilities.
 
 ##### [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files)
 
