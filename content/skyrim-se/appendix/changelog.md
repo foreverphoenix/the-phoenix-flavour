@@ -10,14 +10,13 @@ description: >
 
 > 30/08/2020
 
-This is a quick fix-it for the recently reworked Veydosebrom which now no longer works with my plugin replacer / Cathedral addon. This means that for the time being swamp grass is going to be Cathedral and ugly. I'll fix it as soon as I can.
+This is a quick fix-it for the recently reworked Veydosebrom. The new version no longer works with my plugin replacer / Cathedral addon - fortunately, the original Vey is still available for download.
 
 A bigger update, 3.5, is currently in the works. No ETA.
 
 #### Mod Installation
 
-- **Landscape:** Removed The Elder Scrolls - Veydosebrom. The mod was updated and can no longer be used for our purposes.
-- **Landscape:** Removed Cathedral - Veydosebrom Swamp Grass Addon, not compatible with recent Vey update.
+- **Landscape:** Updated instructions for Veydosebrom, downloading version from Old Files.
 - **Landscape:** No longer selecting Snowy Farmhouses in the Better Dynamic Snow FOMOD (they don't look great).
 
 ## Release 3.4.4
