@@ -8,17 +8,17 @@ description: >
 
 ## Release 3.4.5
 
-> TBD
+> 30/08/2020
 
-With this update Aetherius and Mundus were added to both WJ and manual guide to complement the existing suite of gameplay mods by SimonMagus.
+This is a quick fix-it for the recently reworked Veydosebrom which now no longer works with my plugin replacer / Cathedral addon. This means that for the time being swamp grass is going to be Cathedral and ugly. I'll fix it as soon as I can.
 
-And in other news: An optional **Legacy of the Dragonborn** profile was added to the Wabbajack version of TPF so that you get to have your V+ experience *and* the museum! Big thanks to Lively who made this happen.
+A bigger update, 3.5, is currently in the works. No ETA.
 
 #### Mod Installation
 
 - **Landscape:** Removed The Elder Scrolls - Veydosebrom. The mod was updated and can no longer be used for our purposes.
 - **Landscape:** Removed Cathedral - Veydosebrom Swamp Grass Addon, not compatible with recent Vey update.
-
+- **Landscape:** No longer selecting Snowy Farmhouses in the Better Dynamic Snow FOMOD (they don't look great).
 
 ## Release 3.4.4
 
