@@ -77,7 +77,7 @@ The added circlets would use vanilla models and textures, inconsistent with the 
 
 > By doing so, the mod will recognise that you have SKSE and SkyUI installed and automatically removes its configuration tool from your Powers menu.
 
-### Nether's Follower Framework
+### Follower Framework
 
 #### NPC Behaviour
 
@@ -86,20 +86,23 @@ The added circlets would use vanilla models and textures, inconsistent with the 
   * Stop During Player Dialogue
   * Only Sandbox In Town
 
+> My preferences. Optional.
+
 #### Regard System (optional)
 
-*  Disable the Regard system under **Gameplay** > **Regard**:
+*  Disable the Regard system under **Gameplay** >> **Regard**:
   * Allow Regard: Off
 
 > This is completely optional. The feature works perfectly fine, I just don't like it personally.
 
 #### Additional Powers (optional)
 
-* You can disable the **Command Followers** ability under **System** >> **Casted Abilities** to further de-clutter your Powers menu.
+* Disable the **Command Followers** ability under **System** >> **Casted Abilities** to further de-clutter your Powers menu.
+* You can define a hotkey for it above.
 
 #### ConsoleUtil Support
 
-* Under **System** > **Core**, check the **Enable ConsoleUtil** option.
+* Under **System** >> **Core**, check the **Enable ConsoleUtil** option.
 
 ### Genuinely Intelligent Soul Traps MCM
 

@@ -34,35 +34,17 @@ Only install this mod if you installed **JS Circlet Replacer**. Otherwise skip i
 * **Miscellaneous Files:**
   * JS Circlet Replacer_CCOR
 
-##### [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298?tab=files) (optional)
+##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Morningstar 1.4.0
+* **Main Files:** Aetherius - A Race Overhaul
 
-#### Additional Instructions
-
-* Double-click **Morningstar - Minimalistic Races of Skyrim** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin to:
-  * Morningstar - Minimalistic Races of Skyrim.**esp**
-
-> This will turn the ESL into an ESP-Lite plugin, allowing us to manipulate its load order.
-
-##### [Subtle But Classless](https://www.nexusmods.com/skyrimspecialedition/mods/2744?tab=files) (optional)
+##### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411?tab=files) (optional)
 
 #### Download Instructions
 
-* **Main Files:** Subtle but Classless
-
-##### [Subtle But Classless - USSEP and EEO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (conditional)
-
-{{% alert title="Mod Dependency" color="warning" %}}
-Only install this mod if you installed **Subtle But Classless**. Otherwise skip it.
-{{% /alert %}}
-
-#### Download Instructions
-
-* **Main Files:** Subtle but Classless - USSEP and EEO Patch
+- **Main Files:** Mundus - A Standing Stone Overhaul
 
 ##### [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
 

@@ -39,7 +39,7 @@ The `enblocal.ini` stores your personal settings and it’s completely independe
 
 Presets are primarily shared on the Nexus and range from subtle improvements to feature-rich packages. The bulk of the preset-specific settings are stored in the `enbseries.ini` file. All general features can be tweaked or toggled on or off here. This INI is unique to its preset and also belongs into your **root** folder.
 
-This folder should be located in your **root** folder and it includes all additional effect files (INI files and additional folders). The included effects vary from preset to preset, depending on what the author is utilising. In rare cases, the effect INIs are outside the **enbseries** folder and kept in the **root** folder as well (this is the case for the guide’s preset, Visceral ENB).
+This folder should be located in your **root** folder and it includes all additional effect files (INI files and additional folders). The included effects vary from preset to preset, depending on what the author is utilising. In rare cases, the effect INIs are outside the **enbseries** folder and kept in the **root** folder as well.
 
 ## ENB Manager
 

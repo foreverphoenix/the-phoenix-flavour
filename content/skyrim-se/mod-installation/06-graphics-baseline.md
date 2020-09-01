@@ -164,7 +164,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.6.0
+- **Main Files:** Caliente's Beautiful Bodies Enhancer - v1.6.1
 
 #### FOMOD Instructions
 

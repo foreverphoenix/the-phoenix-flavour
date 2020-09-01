@@ -6,6 +6,47 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 3.5
+
+> TBD
+
+With this update Aetherius and Mundus were added to complement the existing suite of gameplay mods by SimonMagus.
+
+#### Mod Installation
+
+- **Essential Mods:** Reverted SSE Engine Fixes config file editing instructions to MO2 since it can now open TOML files.
+- **Interface:** Removed Hide These Futile Quests (too confusing for people who don't read).
+- **Gameplay Overhauls:** Replaced Morningstar - Minimalistic Races of Skyrim with Aetherius - A Race Overhaul.
+- **Gameplay Overhauls:** Added Mundus - A Standing Stone Overhaul.
+- **Gameplay Overhauls:** Removed Subtle But Classless (could no longer be optional with the addition of Aetherius).
+- **Gameplay Overhauls:** Removed the Subtle But Classless - USSEP and EEO Patch.
+- **Balancing:** Added instructions to download the new Morrowloot Miscellania - No Fortify Enchanting Alchemy Smithing.
+- **Balancing:** Removed Skyrim Alchemy Fixed.
+- **Sound Effects:** Removed mod order instructions from Audio Overhaul Skyrim (they should have been gone several updates ago).
+
+#### Finalisation
+
+- **DynDOLOD:** Fixed TexGen instructions (the button actually just says EXIT instead of SAVE AND EXIT).
+
+#### New Game
+
+- **Final Adjustments:** Removed ENB Shader Cache section (doesn't need to be reset for new presets anymore).
+- **Mod Configuration:** Renamed "Nether's Follower Framework" section to "Follower Framework" to match the ingame menu.
+
+#### Resources
+
+- **Widescreen Support:** Added proper instructions for widescreen monitor owners.
+
+#### Appendix
+
+- **Frequently Asked Questions:** Restructured the page, updated and expanded it.
+- **Known Issues:** Added this page.
+
+#### Conflict Resolution Patch
+
+- Fixed conflicts between Ethereal Elven Overhaul and Aetherius - A Race Overhaul.
+- Cleaned out Skyrim Alchemy Fixed as the mod was removed.
+
 ## Release 3.4.5
 
 > 30/08/2020

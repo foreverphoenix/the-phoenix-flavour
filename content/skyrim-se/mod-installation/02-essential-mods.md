@@ -32,13 +32,10 @@ description: >
 #### Engine Fixes INI
 
 - Double-click **SSE Engine Fixes** in your mod order.
-- Switch to the **Filetree** tab and navigate to `SKSE\Plugins`.
-- Double-click the **EngineFixes.toml** file inside.
-- If asked how you want to open the file, select **Notepad++** or another editor capable of opening TOML files.
-- Edit the following line in the config file:
+- In the **Textfiles** tab, select the **EngineFixes.toml** config file.
+- Edit the following line:
   - `SleepWaitTime = true`
 - Save your changes (CTRL + S) and close the editor.
-- Close the window and click **Yes** when asked to save your change.
 
 ##### [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 

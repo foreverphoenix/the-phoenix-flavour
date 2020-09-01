@@ -41,20 +41,6 @@ Before jumping into the game, go through one final checkup. In Mod Organizer 2, 
 
 In your new profile, go through your mod order again - this is your last opportunity to disable some optional mods that you'd rather not use for your upcoming playthrough. Keep in mind that some optional mods have dependencies (like patches or replacer plugins) that would need to be disabled also. Others will be masters for DynDOLOD.esp and you would have to regenerate DynDOLOD if you were to disable them.
 
-## ENB Shader Cache
-
-If you installed ENBSeries, you should be decently sure that your current preset is the one you want to use in your playthrough. Of course you can still switch anytime but if you are planning on sticking with the preset for a while at least, I'd recommend turning on Shader Cache in the enblocal.ini. This will speed up the game launch process as ENB won't have to reload its shaders every time.
-
-- Open **ENBMan**.
-- Double-click the **Skyrim SE** profile.
-- Disable your current preset (click the checkmark to save if you changed anything).
-- Click the gears icon in the **Global Settings** section.
-- Double-click **enblocal.ini**.
-- Scroll down to the performance area and double-click **ShaderCache**.
-- Change the value to **True** and click the green checkmark to confirm.
-- Close the window and click **Yes** to save your change.
-- Close out of the **Global Configuration Files** window and reactivate your preset.
-
 ## New Game
 
 - Run **SKSE** through Mod Organizer 2.

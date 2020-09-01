@@ -4,7 +4,7 @@ weight: 1
 type: docs
 no-list: true
 description: >
-  Welcome to The Phoenix Flavour, a customisable Vanilla-plus modding guide for Skyrim SE.
+  Welcome to The Phoenix Flavour, a Vanilla-plus modding guide for Skyrim SE.
 ---
 
 ## Overview
@@ -32,6 +32,10 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 | <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will learn nothing about modding or utilising the required tools. |
 | <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will miss out on the Customisation options that the manual guide offers. |
 
+### Legacy of the Dragonborn
+
+Thanks to Lively, the Wabbajack installer now features an optional [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) profile with full integration of the mod plus a few extras for those cannot live without the museum.
+
 ## About The Guide
 
 ### Features
@@ -53,21 +57,19 @@ The concept of "Vanilla plus" simply refers to a mod or mod setup that improves 
 You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
 - **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
-- **Textures:** Skyrim Realistic Overhaul as base, then Noble Skyrim 2K overwritten by dozens of smaller mods.
-- **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory, 3D tree LOD is optional.
+- **Textures:** Noble Skyrim 2K overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
+- **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory; 3D tree LOD is optional.
 - **ENBSeries:** Using ENB is optional, there are instructions to add a preset and related mods.
 - **Body Replacer:** Caliente's Beautiful Bodies Enhancer.
-- **Gameplay:** Featuring SimonMagus' suite of lightweight overhauls: Adamant for perks, Mysticism for magic, and Blade & Blunt for combat.
+- **Gameplay:** Featuring the full suite of [SimonMagus' suite of lightweight overhauls](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
 - **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
-- **New Companions:** Custom-voiced companions of (arguably) the highest quality are included: Inigo, Lucien and 3DNPCs.
-- **DLC-Sized Mods:** Interesting NPCs and The Forgotten City.
+- **New Companions:** Custom-voiced companions of (arguably) the highest quality are included: Inigo and Lucien.
+- **DLC-Sized Mods:** The Forgotten City in the optional content addon.
 - **Needs and Survival Mods:** None included.
 
 ### Additional Mods
 
 Please wait until **after** you completed the guide and tested your setup before adding more mods, otherwise you will no longer be eligible to receive support on our Discord server should you need it. We do not - and cannot - offer support for setups that are not 100% TPF. This includes **Creation Club** content.
-
-The Customisation section includes additional mods for which we do offer support.
 
 ### Our Tools
 
@@ -93,7 +95,7 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 
 **Free space:** The full TPF installation is about 60GB large, excluding downloads (they can easily be saved to a different hard drive). Skyrim SE is another 13GB. Obviously you need to remember that your hard drive needs to have some free space left, around 20% for optimal performance.
 
-**Widescreen support:** UI patches and replacers can be found in the Customisation section to be installed after the main guide.
+**Widescreen support:** UI patches and replacers can be found in the Resources section to be installed after the main guide.
 
 ### Phoenix's Build
 

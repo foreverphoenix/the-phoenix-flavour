@@ -13,6 +13,7 @@ description: >
 * **Main Files:** Morrowloot Miscellania - Hybrid Loot
 * **Main Files:** Morrowloot Miscellania - Item Distribution
 * **Main Files:** Morrowloot Miscellania - Dremora Bound Weapons
+* **Main Files:** Morrowloot Miscellania - No Fortify Enchanting Alchemy Smithing
 
 #### FOMOD Instructions - Dremora Bound Weapons
 
@@ -49,11 +50,26 @@ description: >
 
 * **Main Files:** GIST Soul Trap
 
-##### [Skyrim Alchemy Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/2262?tab=files)
+##### [Alchemy Potions and Food Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/5877?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Skyrim Alchemy Fixed
+- **Main Files:** Alchemy Potions and Food Adjustments V2.5 FOMOD Installer
+
+#### FOMOD Instructions
+
+- **Main File:**
+  - Complete Version
+- **Optional Addons:**
+  - ~~Distinctive Rare Ingredients~~
+- **Patches:**
+  - Weapons Armor Clothing and Clutter Fixes Conflicts Patch
+  - ~~Cutting Room Floor Consistency Patch~~
+  - ~~Dawn of Skyrim Consistency Patch~~
+  - ~~Alchemist Compendium Consistency Patch~~
+  - ~~Beyond Skyrim Bruma Consistency Patch~~
+  - ~~Rare Curios Consistency Patch~~
+  - ~~Awesome Potions Consistency Patch~~
 
 ##### [Enchanting Adjustments and Price Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/8473?tab=files)
 
@@ -103,7 +119,7 @@ description: >
 * **Alternatives:**
   * *select none*
 
-##### [Unique Items Tweaks - Improved Less Known Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/33723?tab=files)
+##### [Unique Items Tweaks - Improved Miscellaneous Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/33723?tab=files)
 
 #### Download Instructions
 

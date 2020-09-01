@@ -56,4 +56,4 @@ Only install this if you installed two or more of the five music mods above. Oth
 
 #### Additional Instructions
 
-- Move the mod manually below the **39 FINAL PATCHES** separator.
+- Move the mod manually below the **35 FINAL PATCHES** separator.

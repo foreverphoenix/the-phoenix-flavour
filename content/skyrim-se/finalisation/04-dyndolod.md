@@ -56,7 +56,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 ## TexGen Output
 
-* Once TexGen has finished, click **Save and Exit**.
+* Once TexGen has finished, click **Exit**.
 * Navigate to `Your Modding Folder\Tools\DynDOLOD`.
 * Cut (CTRL + X) the **TexGen_Output** folder and paste (CTRL+V) it to `Mod Organizer 2\mods`.
 * Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your mod order.

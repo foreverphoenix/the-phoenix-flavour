@@ -18,10 +18,6 @@ description: >
 * Delete the following file(s) and/or folder(s):
   * `Audio Overhaul Skyrim.modgroups`
 
-#### Mod Order
-
-* Place the patch below the **PATCHES** separator.
-
 ##### [Immersive Sounds - Compendium (ISC)](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files)
 
 #### Download Instructions

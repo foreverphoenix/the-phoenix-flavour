@@ -66,7 +66,7 @@ While quicksaving is not actually broken as the mod page claims ([more about tha
 
 #### Download Instructions
 
-- **Main Files:** RaceMenu Special Edition v0-4-13
+- **Main Files:** RaceMenu Special Edition v0-4-14
 
 #### Additional Instructions
 
@@ -312,9 +312,3 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 * **Main Files:** WhoseQuestIsItAnyway
-
-##### [Hide Those Futile Quests](https://www.nexusmods.com/skyrimspecialedition/mods/23028?tab=files) (optional)
-
-#### Download Instructions
-
-* **Main Files:** Hide Those Futile Quests 64

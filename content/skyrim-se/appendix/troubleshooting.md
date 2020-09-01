@@ -23,15 +23,15 @@ If by chance you are seeing the error message picture below, it is simply an iss
 
 Skyrim may crash when you attempt to launch it with outdated SKSE plugins. This is a common problem in the weeks after a Skyrim SE and SKSE64 update. Normally there will be an error message as well, notifying you about the plugin in question. Mod Organizer 2 will show a warning as well.
 
-One possible cause would be installing Simply Knock and accidentally skipping the updated SKSE64 DLL for it (**Mod Installation, Step 36**). Double-check you have the latest versions of all mods with SKSE plugins installed and configured as per the guide’s instructions.
+One possible cause would be installing Simply Knock and accidentally skipping the updated SKSE64 DLL for it (**Mod Installation >> Miscellaneous**). Double-check you have the latest versions of all mods with SKSE plugins installed and configured as per the guide’s instructions.
 
 #### Skyrim LE BSA
 
-Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in Resources > Quick Tutorials.
+Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/).
 
 #### INI Files
 
-If none of the above helped, try regenerating your INI files from scratch. There are instructions under Resources > Quick Tutorials.
+If none of the above helped, try regenerating your INI files from scratch. There are instructions under [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/).
 
 ## Main menu music is playing but the screen is black.
 
@@ -49,20 +49,8 @@ If the main menu won't load, your load order is messed up, or you aren't using t
 
 ![Stuck in Main Menu](/Pictures/faq/stuck_in_main_menu.jpg)
 
-## Grass looks strangely dull and flat.
-
-Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** is enabled to give grass some much needed depth. Be aware that Ambient Occlusion is fairly demanding and disabled in Lite presets for a reason.
-
-![Example](https://cdn.discordapp.com/attachments/521296280165679119/702036429341065286/enb2020_4_21_00_57_56.jpg)
-
 ## Lower FPS than expected.
 
 #### Playing at a resolution higher than 1080p.
 
-You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check Resources > Quick Tutorials for instructions on how to quickly change the game's resolution.
-
-## Some beards look strange on Elven player characters.
-
-This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.
-
-Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/issues/8) for details and pictures.
+You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.

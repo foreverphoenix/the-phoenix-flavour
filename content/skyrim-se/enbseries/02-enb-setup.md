@@ -32,7 +32,7 @@ description: >
 ### Import to ENB Man
 
 * Back in ENB Man, click the arrow under **Binaries** and select **Add**.
-* Enter **ENBSeries** and the version number as name (eg **ENBSeries 0.427**).
+* Enter **ENBSeries** and the version number as name (eg **ENBSeries 0.440**).
 * Click the green checkmark to confirm.
 * Drag the three files from your temp folder into the **Binary** window.
 * Click the green checkmark to confirm.

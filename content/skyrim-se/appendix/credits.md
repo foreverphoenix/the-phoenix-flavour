@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-weight: 5
+weight: 6
 type: docs
 description: >
   Acknowledgements for everyone involved in the creation of the guide.
@@ -27,7 +27,7 @@ description: >
 
 ### The Website
 
-- Thanks to **Step** for setting up Hugo and Docsy, and creating the dark theme. <i class="fas fa-heart"></i>
+- Thanks to **Step** for setting up Hugo and Docsy, and creating the dark theme.
 - Thanks to **Kai** for implementing the theme toggle so that alsa and I can use light mode.
 - Thanks to **vaecors** for reminding me that Hugo would be a perfect solution and supporting us in setting it up.
 - Thanks to **Luna** who set up the proper domain and Cloudflare SSL on the Hugo website for us.

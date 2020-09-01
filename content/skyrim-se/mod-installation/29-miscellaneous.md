@@ -32,7 +32,7 @@ Only install this mod if you installed **Simply Knock**. Otherwise skip it.{{% /
 
 #### Download Instructions
 
-* **Main Files:** SimplyKnockSE SKSE64 2.0.17 DLL
+* **Main Files:** SimplyKnockSE SKSE64 2.0.19 DLL
 
 ##### [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files) (optional)
 
