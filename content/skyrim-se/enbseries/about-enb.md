@@ -12,12 +12,12 @@ ENBSeries is a post-processing injector by Boris Vorontsov. Unlike ReShade, it i
 
 The effects vary in their performance-intensity. A full preset, especially when Skyrim is run on high resolutions, can bring high-end PCs to their knees. Fortunately, Skyrim SE with its generally improved performance runs a great deal better with ENBSeries presets and 60FPS+ on a reasonable resolution (1080p) are comfortably attainable on most machines.
 
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> The visual improvements are immense. They can profoundly change the feel of Skyrim.
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> Everything. The performance impact can be dampened by turning off hard-hitters such as Ambient Occlusion.
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> You can tweak or swap presets, or uninstall ENBSeries entirely at any time. It does not affect savegames at all.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> Most ENB presets come with a performance impact that is especially noticeable on low end machines.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> Editing ENB presets beyond toggling options is not easy and may take a solid amount of trial & error.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> Some presets do not support vanilla image space, they will not work with the Night Eye and other effects.
+- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | The visual improvements are immense. They can profoundly change the feel of Skyrim.
+- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | Everything can be customised. The performance impact can be dampened by turning off hard-hitters such as Ambient Occlusion.
+- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | You can tweak or swap presets, or uninstall ENBSeries entirely at any time. It does not affect savegames at all.
+- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Most ENB presets come with a performance impact that is especially noticeable on low end machines.
+- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Editing ENB presets beyond toggling options is not easy and may take a solid amount of trial & error.
+- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Some presets do not support vanilla image space, they will not work with the Night Eye and other effects.
 
 **Installing ENBSeries is completely optional. You can skip this entire section and continue with the Finalisation if you like.**
 

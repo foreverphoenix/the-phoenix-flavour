@@ -30,14 +30,6 @@ description: >
 
 * **Main Files:** Realistic AI Detection 2 SE – Lite
 
-##### [Simply Stronger Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) (optional)
-
-*This is a repack of the plugin that doubles the health of all dragons and quadruples it for Alduin. It is primarily meant for those who want longer dragon fights but can be too much depending on personal taste. I advise installing it but keeping it disabled until after the first few dragon fights. If they die too quickly for you, activate this mod.*
-
-#### Download Instructions
-
-* **Main Files:** Simply Stronger Dragons - TPF Repack
-
 ##### [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files)
 
 #### Download Instructions

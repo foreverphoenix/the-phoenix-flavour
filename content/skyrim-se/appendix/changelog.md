@@ -8,21 +8,34 @@ description: >
 
 ## Release 3.5
 
-> TBD
+> 05/09/2020
 
-With this update Aetherius and Mundus were added to complement the existing suite of gameplay mods by SimonMagus.
+With this update Aetherius and Mundus were added to complement the existing suite of gameplay mods by SimonMagus. Alchemy got a much needed balancing upgrade with the switch to skepmanmods' Alchemy Potions and Food Adjustments and fighting dragons should be less of a headache now after the removal of Simply Stronger Dragons.
+
+Despite the overall trend to remove customisability, I have once again re-added a page on different ENB presets as I feel that this is an easy way for me to allow personalisation. Switching ENB presets is simple, it can be done anytime. Presets are highly dependent on personal taste and I know that I personally switch all the time (haven't had a personal favourite since Visceral ENB). Rudy ENB remains the default but there are now recommendations/links to Serio's ENB, The Truth, Silent Horizons, and Semirealis.
+
+A handful of mods were removed in anticipation of the elimination of optional mods. **However, TPF 3.5 still has optional mods.** I have decided to push this change to the next update so that from 3.6 (or whatever I'll call it) onwards, you will no longer be able to skip currently optional mods (they will all be mandatory).
 
 #### Mod Installation
 
 - **Essential Mods:** Reverted SSE Engine Fixes config file editing instructions to MO2 since it can now open TOML files.
 - **Interface:** Removed Hide These Futile Quests (too confusing for people who don't read).
+- **Unique Artifacts:** Added a note to prevent confusion about the AMB FOMOD option that is greyed out.
 - **Gameplay Overhauls:** Replaced Morningstar - Minimalistic Races of Skyrim with Aetherius - A Race Overhaul.
 - **Gameplay Overhauls:** Added Mundus - A Standing Stone Overhaul.
 - **Gameplay Overhauls:** Removed Subtle But Classless (could no longer be optional with the addition of Aetherius).
 - **Gameplay Overhauls:** Removed the Subtle But Classless - USSEP and EEO Patch.
+- **Combat & Encounters:** Removed Simply Stronger Dragons - TPF Repack (makes dragon fights too difficult).
 - **Balancing:** Added instructions to download the new Morrowloot Miscellania - No Fortify Enchanting Alchemy Smithing.
+- **Balancing:** Added Alchemy Potions and Food Adjustments.
 - **Balancing:** Removed Skyrim Alchemy Fixed.
 - **Sound Effects:** Removed mod order instructions from Audio Overhaul Skyrim (they should have been gone several updates ago).
+
+#### ENBSeries
+
+- **Other Presets:** (Re-)Added this page, allowing you once again to choose your own ENB preset.
+- **Related Mods:** Removed mod order instructions for the TPF ENB Light Patch.
+- **INI Tweaks:** Specified that turning on godrays (Volumetric Lighting) is recommended specifically for Rudy ENB.
 
 #### Finalisation
 
@@ -32,6 +45,8 @@ With this update Aetherius and Mundus were added to complement the existing suit
 
 - **Final Adjustments:** Removed ENB Shader Cache section (doesn't need to be reset for new presets anymore).
 - **Mod Configuration:** Renamed "Nether's Follower Framework" section to "Follower Framework" to match the ingame menu.
+- **Mod Configuration:** Rephrased instructions to disable Wonders of Weather rainsplashes (must be disabled to prevent CTDs).
+- **ENB Tweaks:** Added this page to reintegrate Serio's ENB tweaks.
 
 #### Resources
 
@@ -46,6 +61,7 @@ With this update Aetherius and Mundus were added to complement the existing suit
 
 - Fixed conflicts between Ethereal Elven Overhaul and Aetherius - A Race Overhaul.
 - Cleaned out Skyrim Alchemy Fixed as the mod was removed.
+- CCOR changes the mesh path for the Necromancer's Amulet but doesn't package the new mesh so the amulet ends up being invisible. I reverted the mesh path back to vanilla. Thanks to caligineux for reporting this!
 
 ## Release 3.4.5
 

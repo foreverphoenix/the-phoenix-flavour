@@ -1,6 +1,6 @@
 ---
 title: "INI Tweaks"
-weight: 5
+weight: 6
 type: docs
 description: >
   Required and recommended INI tweaks.
@@ -40,7 +40,7 @@ iMaxDesired=7500
 
 ## Volumetric Lighting
 
-For Rudy ENB, it is recommended (but not required) to enable Volumetric Lighting aka godrays. Please note that there is a noticeable performance impact, especially on weaker machines.
+For **Rudy ENB**, it is recommended (but not required) to enable Volumetric Lighting aka godrays. Please note that there is a noticeable performance impact, especially on weaker machines.
 
 Edit the following line in your **skyrimprefs.ini** to enable godrays:
 

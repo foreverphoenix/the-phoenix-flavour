@@ -29,7 +29,7 @@ description: >
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
-#### Engine Fixes INI
+#### Engine Fixes TOML
 
 - Double-click **SSE Engine Fixes** in your mod order.
 - In the **Textfiles** tab, select the **EngineFixes.toml** config file.

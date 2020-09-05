@@ -1,13 +1,12 @@
 ---
 title: "Related Mods"
-weight: 4
+weight: 5
 type: docs
 description: >
   Mesh edits for Complex Particle Lights support.
 ---
 
-{{% alert title="Mod Order" color="warning" %}}
-Place all mods from this section below the ENB PARTICLE LIGHTS separator unless otherwise specified.{{% /alert %}}
+**Place all mods from this section below the ENB PARTICLE LIGHTS separator unless otherwise instructed.**
 
 ##### [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files) (optional)
 
@@ -61,10 +60,6 @@ Install this if you installed **ENB Light**. Otherwise skip it.{{% /alert %}}
 #### Download Instructions
 
 - **Main Files:** The Phoenix Flavour - ENB Light Patch
-
-#### Additional Instructions
-
-- Move the mod manually below the **39 FINAL PATCHES** separator.
 
 ##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files) (optional)
 

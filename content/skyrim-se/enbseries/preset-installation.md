@@ -1,5 +1,5 @@
 ---
-title: "ENB Preset Installation"
+title: "Preset Installation"
 weight: 3
 type: docs
 description: >

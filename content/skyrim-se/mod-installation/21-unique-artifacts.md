@@ -67,7 +67,7 @@ description: >
 * **Improved Closefaced Helmets Patch:** Don’t install
 * **Warmonger Armory Patch:** Don’t install
 * **Craftable Hoods:** Don’t install
-* **aMidianBorn Content Addon:** Nahkriin - Default Ebony
+* **aMidianBorn Content Addon:** Nahkriin - Default Ebony >> `page is greyed out but this option is selected by default`
 * **Frankly HD Patch:** Konahrik - Frankly HD Gold
 
 ##### [Remiros’ Dawnbreaker HD](https://www.nexusmods.com/skyrimspecialedition/mods/22334?tab=files) (optional)
