@@ -3,5 +3,5 @@ title: "Customisation"
 weight: 3
 type: docs
 description: >
-  This is a work in progress.
+  Instructions on how to tweak and personalise the mod list.
 ---

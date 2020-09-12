@@ -3,5 +3,5 @@ title: "Installation"
 weight: 2
 type: docs
 description: >
-  Installing The Phoenix Flavour - Fallout 4 Edition with Wabbajack.
+  Installing TPF Fallout 4 with Wabbajack.
 ---

@@ -6,15 +6,13 @@ description: >
   Requirements and preliminary instructions.
 ---
 
-## Prelude
-
-While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The Installation section will take you through the process from start to finish and you are expected to follow it to the letter.
+While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
 
 ## Requirements
 
 - A copy of Fallout 4 with all official DLC (Game of the Year Edition) on Steam.
 - A [Nexus Mods](https://www.nexusmods.com/fallout4) account, preferably with a Premium subscription.
-- A hard drive (SSD preferred) with at least 100GB of free space.
+- Around 38GB disc space for all mods and archives.
 
 Grab a cup of coffee and let's get started.
 
@@ -22,6 +20,7 @@ Grab a cup of coffee and let's get started.
 
 - On a hard drive with plenty of free space (that is not your SSD), create a new folder called **Fallout 4 Modding**.
 - Create several more folders inside:
+  - `Fallout 4 Modding\Downloads`
   - `Fallout 4 Modding\Backups\Creation Club`
   - `Fallout 4 Modding\Backups\Executables 1.10.163.0`
   - `Fallout 4 Modding\Wabbajack`
