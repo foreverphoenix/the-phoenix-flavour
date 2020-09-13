@@ -1,6 +1,6 @@
 ---
 title: "Game Folder Files"
-weight: 1
+weight: 2
 type: docs
 description: >
   All files that need to be moved into the root folder manually.
@@ -23,22 +23,3 @@ The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is 
 - `IpHlpAPI.dll`
 - `xSE PluginPreloader.ini`
 
-### ENBSeries Binaries
-
-The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm), latest version (0.428), required for ENB presets to work.
-
-- `d3d11.dll`
-- `d3dcompiler_46e.dll`
-
-### enblocal.ini
-
-My personal enblocal.ini with customised hotkeys.
-
-- `enblocal.ini`
-
-### Subtle ENB
-
-The beautiful [Subtle ENB](https://www.nexusmods.com/fallout4/mods/5885) preset with some custom tweaks.
-
-- `enbseries` folder (and all its content)
-- `enbseries.ini`
