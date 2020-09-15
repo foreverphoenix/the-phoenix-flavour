@@ -21,8 +21,6 @@ Owing to its complexity and the use of many advanced modding tools, Lexy's LOTD 
 - [Trello board](https://trello.com/b/V4o4FPSl/lexys-legacy-of-the-dragonborn-special-edition-suggested-mods)
 - [Lexy's Patreon](https://www.patreon.com/user?u=185725)
 
-> Also available as a Wabbajack installer.
-
 ### LOTD Plus
 
 **by Evertiro**
