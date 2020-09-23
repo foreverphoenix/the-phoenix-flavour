@@ -27,8 +27,6 @@ description: >
 
 > By downloading the mod archives to a different location, you can save space on your SSD. The archives are only required for the initial mod installation and future updates so there is no need to put them on a fast hard drive.
 
-### If the installation fails
-
 Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `Fallout 4 Modding\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the TPF Fallout 4 support channel on either the TPF or Wabbajack Discord server.
 
 ## Game Folder Files
