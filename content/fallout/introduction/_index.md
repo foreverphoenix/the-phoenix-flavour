@@ -24,7 +24,6 @@ TPF for Fallout 4 comes with an extensive documentation (of which you are readin
 
 - You can find a list of all included mods in my [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Tk_hG2uIKfgWg_E5WluY4OJCF5uyI_9A-_DOWLC8b-E/edit#gid=517612070).
 - Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion.
-- 
 
 ### What is Wabbajack?
 
