@@ -20,6 +20,12 @@ TPF for Fallout 4 comes with an extensive documentation (of which you are readin
 
 > **Unlike its Skyrim SE counterpart, the Fallout 4 edition of TPF is Wabbajack-exclusive.** There is no manual installation guide and there will likely never be one as I do not have the time to maintain two modding guides.
 
+### Useful Links
+
+- You can find a list of all included mods in my [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Tk_hG2uIKfgWg_E5WluY4OJCF5uyI_9A-_DOWLC8b-E/edit#gid=517612070).
+- Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion.
+- 
+
 ### What is Wabbajack?
 
 Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games such as Fallout 4. With Wabbajack it is possible to replicate a user's mod list and recreate it on another's computer without sharing any of the source files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
