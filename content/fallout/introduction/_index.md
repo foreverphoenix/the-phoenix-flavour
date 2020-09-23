@@ -14,7 +14,7 @@ TPF FO4 is currently an unreleased Work In Progress. Join us on Discord for more
 
 ## Overview
 
-The Phoenix Flavour for Fallout 4 is a Wabbajack mod list featuring 300+ mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. Visually, the setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
+The Phoenix Flavour for Fallout 4 is a Wabbajack mod list featuring around 300 mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. Visually, the setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
 
 TPF for Fallout 4 comes with an extensive documentation (of which you are reading the introduction right now) and you are expected to read certain parts. This includes the **Installation** section as well as the **Mod Configuration** pages. If you decide to use any of the included customisation option, do so only after consulting the **Customisation** pages.
 
