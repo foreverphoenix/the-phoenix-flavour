@@ -32,9 +32,13 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 | <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will learn nothing about modding or utilising the required tools. |
 | <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will miss out on the Customisation options that the manual guide offers. |
 
-### Legacy of the Dragonborn
+## TPF Forks
 
-Thanks to Lively, the Wabbajack installer now features an optional [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) profile with full integration of the mod plus a few extras for those cannot live without the museum.
+*[What is a fork in software terms?](https://en.wikipedia.org/wiki/Fork_(software_development))*
+
+Thanks to Lively, the official TPF Wabbajack installer now features an optional [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) profile with full integration of the mod plus a few extras for those cannot live without the museum.
+
+Alternatively, you can check out [Elysium - A TPF Fork](https://github.com/TitansBane/Elysium) by TitansBane (author of Tools of Kagrenac and Reliquary of Myth) which expands the base setup with EnaiSiaion's suite of gameplay overhauls (replacing the default TPF SimonRim setup) and Creation Club support as well as LOTD, 3DNPC, Vigilant, and more quest mods.
 
 ## About The Guide
 
