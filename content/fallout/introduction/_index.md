@@ -52,11 +52,11 @@ At present, TPF FO4 does not include any additional armor or weapon mods with th
 
 ### Alternatives
 
-- Looking for more quest mods and additional content? Try [Banana Split](https://www.wabbajack.org/modlists/gallery/banana_split) or [Boston Cream Pie](https://www.wabbajack.org/modlists/gallery/boston_cream_pie).
+- Looking for more quest mods and additional content? Try [Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus) or [Boston Cream Pie](https://www.wabbajack.org/#/modlists/info?machineURL=boston_cream_pie).
 - Looking for a proper modded setup for Fallout 4 VR? Take a look at the [Fallout 4 VR Essentials Overhaul](https://www.wabbajack.org/#/modlists/info?machineURL=fo4vre).
 - Looking for the ultimate Walking Dead experience in the Commonwealth? Go with [Ghoulout](https://www.wabbajack.org/#/modlists/info?machineURL=ghoulout).
-- Looking for hardcore gameplay on Survival difficulty with Horizon? Check out [FO4 Enhanced Edition](https://www.wabbajack.org/modlists/gallery/fallout_4_enhanced_edition).
-- Looking to get into the Sim Settlements mod? Install the [Sim Settlements Experience](https://www.wabbajack.org/modlists/gallery/ssem).
+- Looking for hardcore gameplay on Survival difficulty with Horizon? Check out [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
+- Looking to get into the Sim Settlements mod? Install the [Sim Settlements Experience](https://www.wabbajack.org/#/modlists/info?machineURL=ssem).
 
 ## Recommended Hardware
 
