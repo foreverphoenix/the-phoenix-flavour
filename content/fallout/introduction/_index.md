@@ -22,8 +22,10 @@ TPF for Fallout 4 comes with an extensive documentation (of which you are readin
 
 ### Useful Links
 
+- Join us on the official [Phoenix Flavour Discord](https://discord.com/invite/BpwXX5f) for support, feedback, and modding discussions.
 - You can find a list of all included mods in my [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Tk_hG2uIKfgWg_E5WluY4OJCF5uyI_9A-_DOWLC8b-E/edit#gid=517612070).
 - Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion.
+- Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
 
 ### What is Wabbajack?
 
