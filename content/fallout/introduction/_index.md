@@ -7,11 +7,6 @@ description: >
   Welcome to The Phoenix Flavour, a Vanilla-plus Wabbajack setup for Fallout 4.
 ---
 
-
-{{% alert title="Note" color="warning" %}}
-TPF FO4 is currently an unreleased Work In Progress. Join us on Discord for more information.
-{{% /alert %}}
-
 ## Overview
 
 The Phoenix Flavour for Fallout 4 is a Wabbajack mod list featuring around 300 mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. Visually, the setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
