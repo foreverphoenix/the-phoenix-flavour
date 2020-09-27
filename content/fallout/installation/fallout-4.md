@@ -135,3 +135,7 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 
 - Navigate to `steamapps\common\Fallout4\Data` and cut (CTRL + X) all files starting with **cc**.
 - Paste (CTRL + V) all files to `Fallout 4 Modding\Backups\Creation Club`.
+
+---
+
+#### Continue with the [Wabbajack](https://thephoenixflavour.com/fallout/installation/wabbajack/) page.

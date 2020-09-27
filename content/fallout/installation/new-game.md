@@ -1,6 +1,6 @@
 ---
 title: "New Game"
-weight: 4
+weight: 5
 type: docs
 description: >
   Starting a new game.
@@ -22,8 +22,6 @@ Before you start a new game, I highly recommend going into the options and custo
 
 These are my personal keybind changes:
 
-- Activate to **F**
-- Favourite to **E**
 - Bash/Power Attack/Grenade to **Mouse 4** (thumb button)
 - Run (toggle walk/run) to **Left CTRL**
 - Move (automatically) to **C**
@@ -49,3 +47,7 @@ Character presets for LooksMenu can be found in the [character presets](https://
 ### The Prologue
 
 Play through the intro as usual and continue with the **Mod Configuration** section after exiting the vault.
+
+---
+
+#### Continue with the [Mod Configuration](https://thephoenixflavour.com/fallout/installation/mod-configuration/) page.

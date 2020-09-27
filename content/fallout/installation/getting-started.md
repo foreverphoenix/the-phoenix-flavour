@@ -37,3 +37,7 @@ Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable.
 - You may have to restart your computer in order to finalise the installation.
 
 ![VC Redists](/Pictures/fallout/installation/vc-redists.png)
+
+---
+
+#### Continue with the [Fallout 4](https://thephoenixflavour.com/fallout/installation/fallout-4/) page.

@@ -1,6 +1,6 @@
 ---
 title: "Mod Configuration"
-weight: 5
+weight: 6
 type: docs
 description: >
   Required and optional MCM tweaks.
@@ -31,7 +31,7 @@ This lowers the chance for Automatron-related loading screens to 1% down from th
 
 ### Experience
 
-- **Workstation:**
+- **Workshop:**
   - Base experience **0**
   - Maximum experience **0**
   - Experience multiplier **0**
@@ -121,3 +121,7 @@ Just build your settlers' beds somewhere below a roof to protect your immersion 
 The Manage menu accessible at workbenches is only for scrapping stuff placed by the player and the WF layouts feature. Since TPF Fallout 4 doesn't currently include additional layouts, I would rather people disabled this entirely to prevent confusion. If you are interested in WF layouts, re-enable the Manage Workbench option and watch kinggath's tutorials on [importing](https://www.youtube.com/watch?v=N3MGiari9xc&feature=emb_logo) and [exporting](https://www.youtube.com/watch?v=9OVzgFzjnRw&feature=emb_logo) them. Obviously, downloading and installing layouts counts as adding mods and voids your right to get support for TPF Fallout 4.
 
 ![Workshop Framework MCM 1](/Pictures/fallout/new-game/workshop-framework-mcm-1.jpg)
+
+---
+
+#### Enjoy your playthrough!
