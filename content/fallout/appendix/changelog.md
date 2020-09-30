@@ -6,6 +6,31 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.2
+
+> 30/09/2020
+
+#### Mod Changes
+
+- Updated Buffout to 1.12.1
+- Placed the new Buffout TBB Redist plugin in the Game Folder Files folder
+- Removed Achievements (this is now a feature in Buffout)
+- Actually fixed the problematic True Nights record instead of bruteforce deleting it
+- Updated Classic Hostered Weapons System to 1.04c
+- Added Start Me Up - Basic Version
+- Added Lively's Start Me Up Tweak
+- Resolved a conflict between Start Me Up and the UFO4P
+- Inlined Lively's PPPL INI file
+- Updated Sweet Roll 5000 and rebuilt Clutter BA2s
+- Fixed Diamond City Radio tracks not playing (thanks Archie!)
+
+#### Website Changes
+
+- [Finalisation](https://thephoenixflavour.com/fallout/installation/finalisation/): Added this new page and moved the game resolution instructions here.
+- [Finalisation](https://thephoenixflavour.com/fallout/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
+- [New Game](https://thephoenixflavour.com/fallout/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
+- [New Game](https://thephoenixflavour.com/fallout/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
+
 ## Release 1.1
 
 > 27/09/2020
