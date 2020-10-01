@@ -468,7 +468,7 @@ This is a maintenance update, I fixed some broken links and updated instructions
 
 > 13.06.2020
 
-In this update, I primarily focused on restructuring the guide. A *lot* has happened behind the scenes. Step improved much of the theming, especially the dark theme and fixed some remaining issues. We are back on the old domain - thephoenixflavour.com - now with free Cloudflare SSL. It just redirects from foreverphoenix.github.io so it doesn't matter which URL you use. I've tinkering with more stuff for the guide content but realised fairly soon I was picking up way too many projects at once so most things were put on the backburner until the next update.
+In this update, I primarily focused on restructuring the guide. A *lot* has happened behind the scenes. Step improved much of the theming, especially the dark theme and fixed some remaining issues. We are back on the old domain - thephoenixflavour.com - now with free Cloudflare SSL. It just redirects from foreverphoenix.github.io so it doesn't matter which URL you use. I've been tinkering with more stuff for the guide content but realised fairly soon I was picking up way too many projects at once so most things were put on the backburner until the next update.
 
 Because I've tried and moved and deleted so much stuff, the changelog is probably not complete. Sorry about that. This update kinda ran away from me and became a mess. I hope I didn't horribly break anything.
 

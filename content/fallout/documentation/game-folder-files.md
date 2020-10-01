@@ -23,6 +23,12 @@ The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is 
 - `IpHlpAPI.dll`
 - `xSE PluginPreloader.ini`
 
+### Buffout 4 TBB Redist
+
+[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359) requires the TBB library, a small plugin that needs to be placed in the root folder:
+
+- `tbbmalloc.dll`
+
 ### ENBSeries Binaries
 
 The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm), latest version (0.428), required for ENB presets to work.

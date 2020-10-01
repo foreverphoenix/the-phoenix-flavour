@@ -61,7 +61,7 @@ You can also use any other color combination you wish. Use the [Google color pic
 
 ### Pip-Boy Flashlight Color
 
-By default, the color of the flashlight (activated by holding TAB) will be the same as your HUD. By checking the **Always White** option you can decouple it from your chosen HUD color.
+By default, the color of the flashlight (activated by holding TAB) will be the same as your HUD. Check the **Always White** option to decouple it from your chosen HUD color.
 
 ### Power Armor HUD Color
 
@@ -71,7 +71,7 @@ There is also a "Custom" option where you can paste your own RGB values. Use [th
 
 ### Pip-Boy Dual Colors
 
-This section utilises the [Pip-Boy Dual Colors](https://www.nexusmods.com/fallout4/mods/43338). Two of its options are included, the FO4 green and the FO3 green. The colors are identical to the corresponding HUD and power armor HUD colors. If there is demand, I will look into creating alternatives for the "Power Armor Amber" color and any other popular choices.
+This section features the mod [Pip-Boy Dual Colors](https://www.nexusmods.com/fallout4/mods/43338). Two of its options are included, the FO4 green and the FO3 green. The colors are identical to the corresponding HUD and power armor HUD colors. If there is demand, I will look into creating alternatives for the "Power Armor Amber" color and any other popular choices.
 
 Note that Pip-Boy Dual Colors will overwrite the [Small Map Markers](https://www.nexusmods.com/fallout4/mods/13400) mod; however, its interface tweaks also include smaller markers so all this does is display a silver arrow next to SMM to show that the mod is being overwritten entirely.
 
