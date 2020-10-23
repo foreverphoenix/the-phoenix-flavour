@@ -6,6 +6,43 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.3
+
+> 23/10/2020
+
+This update fixes a number of issues reported by users (thanks, guys!). I am also officially changing the list name to **Welcome to Paradise**. The website, Discord channels, and Mod Organizer 2 profile have all been edited accordingly.
+
+#### Mod Changes
+
+- Hopefully fixed radio songs not playing for good
+- Updated xSE Plugin Preloader to 0.2.3 (XML unchanged, let me know if there are issues)
+- Updated Buffout 4 to 1.16.1
+- Fixed some untranslated UI bits (missing strings)
+- Removed Auto Gamepad Switch (caused some issues)
+- Fixed scrap tag for Stogie
+- Added High FPS Physics Fix plus pre-configured INIs
+- Removed the separate DEF_UI preset, now editing the one packaged with the main mod
+- Re-enabled compass markers for locations / Dogmeat / PA in DEF_UI
+- Turns out Archive2 is unreliable so I repacked a bunch of BA2s with CAO
+- Unpacked custom BA2 for Bleak Beauty, Musical Lore, More Where That Came From, and Elvani's Track Pack
+- Fixed some purple cars by reverting them to vanilla, it's a band-aid fix but the best I could do
+
+#### Website Changes
+
+- **Finalisation:** Removed instructions for NVIDIA Inspector.
+- **Finalisation:** Added instructions for the newly-added High FPS Physics Fix and my pre-configured INIs.
+
+## Release 1.2.1
+
+> 01/10/2020
+
+#### Mod Changes
+
+- Actually fixed radio tracks not playing
+- Updated xSE Plugin Preloader to 0.2
+
+Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the new **xSE PluginPreloader.xml** and updated **IpHlpAPI.dll** into your **root** folder and overwrite when prompted.
+
 ## Release 1.2
 
 > 30/09/2020

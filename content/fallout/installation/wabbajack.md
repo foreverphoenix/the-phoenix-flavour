@@ -3,7 +3,7 @@ title: "Wabbajack"
 weight: 3
 type: docs
 description: >
-  Installing Wabbajack and downloading TPF Fallout 4.
+  Installing Wabbajack and downloading WTP.
 ---
 
 ## Installation
@@ -15,9 +15,9 @@ description: >
 ### Downloading TPF FO4
 
 - Once Wabbajack is installed and open, click on **Browse Modlists**.
-- Find **TPF Fallout 4** in the list and click the arrow to download.
+- Find **Welcome to Paradise** in the list and click the arrow to download.
 - Click the dots next to **Installation Location** and choose a path.
-- Choose an empty, high-level folder, e.g. `G:\TPF Fallout 4`.
+- Choose an empty, high-level folder, e.g. `G:\Welcome to Paradise`.
   - SHOULD be on your SSD or otherwise fastest hard drive.
   - CANNOT be inside `Fallout 4 Modding\Wabbajack`.
   - CANNOT be inside the Fallout 4 installation folder.
@@ -29,7 +29,7 @@ description: >
 
 ### Troubleshooting
 
-Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `Fallout 4 Modding\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the TPF Fallout 4 support channel on either the TPF or Wabbajack Discord server.
+Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `Fallout 4 Modding\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the WTP support channel on either the TPF (#wtp-support) or Wabbajack (#welcome-to-paradise-support) Discord server.
 
 ## Game Folder Files
 

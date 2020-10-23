@@ -10,7 +10,7 @@ In the INTERFACE section in Mod Organizer 2 you will find several separators wit
 
 ### HUD Color
 
-The main HUD (heads-up display, the compass, health bar, etc) can be tweaked as usual ingame through the Settings menu. Unfortunately they are defined in the Fallout4Prefs.ini so it is not possible to tweak them through plugin INIs so you will have to either change the color ingame or edit the Fallout4Prefs.ini file. I actually recommend the latter.
+The main HUD (heads-up display, the compass, health bar, etc) can be tweaked as usual ingame through the Settings menu. Unfortunately they are defined in the Fallout4Prefs.ini so it is not possible to tweak them through plugin INIs so you will have to either change the color ingame or edit the **Fallout4Prefs.ini** file. I actually recommend the latter.
 
 - In order to change the color in the INI, open the INI editor through Mod Organizer 2.
 
@@ -57,7 +57,7 @@ iHUDColorG=209
 iHUDColorR=255
 ```
 
-You can also use any other color combination you wish. Use the [Google color picker](https://www.google.com/search?q=color+picker) to choose your color and copy over the RGB values. Note that the order is BGR in the Fallout 4 INI files.
+You can also use any other color combination you wish. Use the [Google color picker](https://www.google.com/search?q=color+picker) to choose your color and copy over the RGB values. Note that the order is **BGR** in the Fallout 4 INI files.
 
 ### Pip-Boy Flashlight Color
 
