@@ -21,11 +21,11 @@ The [Fallout 4 Script Extender (F4SE)](http://f4se.silverlock.org/) is essential
 The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is required for Private Profile Redirector.
 
 - `IpHlpAPI.dll`
-- `xSE PluginPreloader.ini`
+- `xSE PluginPreloader.xml`
 
 ### Buffout 4 TBB Redist
 
-[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359) requires the TBB library, a small plugin that needs to be placed in the root folder:
+[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359) requires the TBB library, a small plugin that needs to be placed in the root folder.
 
 - `tbbmalloc.dll`
 
