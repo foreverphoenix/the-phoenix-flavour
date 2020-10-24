@@ -6,6 +6,18 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.3.1
+
+> 24/10/2020
+
+Just a minor fix and clean-up for yesterday's update.
+
+#### Mod Changes
+
+- Updated Bullet Counted Reload System to 1.05b
+- Updated Workshop Framework to 2.0.3
+- Added missing ALWAYS INCLUDE flags to High FPS Physics Fix profiles
+
 ## Release 1.3
 
 > 23/10/2020
