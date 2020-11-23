@@ -6,6 +6,32 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.4
+
+> 23/11/2020
+
+#### Mod Changes
+
+- Added Weapon Debris Crash Fix
+- Added Sprint Stuttering Fix
+- Added Less Ugly Intercom
+- Added The Laser Series
+- Added The Plasma Project
+- Removed The Lavish Laser Musket
+- Removed The Lavish Laser Collection
+- Rebuilt the Weapons BA2
+- Updated Buffout to 1.17.1
+- Updated Wetness Shader Fix to 3.2
+- Updated Handmade Turrets to 1.3.2
+- Updated Workshop Framework to 2.0.6
+- Updated Indubitably Ivy to 0.2
+- Updated What's Your Name to 1.10.0
+- Updated Skeletal Adjustments for CBBE - Knee Fix to 1.1
+- Updated LOST Audio Tweaks to 1.5.1
+- Updated custom Sound Slider Tweaks plugin
+- Slightly tweaked High FPS Physics Fix presets
+- Unhid message box and tutorial messages in my DEF_UI preset
+
 ## Release 1.3.1
 
 > 24/10/2020
