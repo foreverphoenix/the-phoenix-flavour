@@ -6,6 +6,14 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.4.1
+
+> 26/11/2020
+
+#### Mod Changes
+
+- Re-enabled Authentic Handmade Weaponry (accidentally disabled the plugin in 1.4)
+
 ## Release 1.4
 
 > 23/11/2020
