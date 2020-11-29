@@ -16,9 +16,28 @@ However, the game did launch way back in 2008 and it shows. We're going to try a
 
 ### Features
 
-- Setup and configuration of Mass Effect 1 for both Steam and Origins editions.
-- Installation instructions for essential mods.
-- Fool-proof written instructions with pictures.
+- Instructions for the Origins and Steam versions of ME1
+- How to install the DLC for the Steam version
+- Specific instructions for AMD CPUs to fix a bug
+- Additonal profile settings for NVIDIA cards
+- INI tweaks for better MAKO controls
+- ME3Tweaks Mod Manager setup
+- Installation of some gameplay-related mods
+- Installation of ALOT + ALOV which drastically improve the visual quality
+
+### All Mods
+
+- [ME1 Recalibrated](https://www.nexusmods.com/masseffect/mods/114)
+- [Faster Elevators](https://www.nexusmods.com/masseffect/mods/69)
+- [Faster Airlock](https://www.nexusmods.com/masseffect/mods/109)
+- [XP Rescale](https://www.nexusmods.com/masseffect/mods/180)
+- [Keepers Finders](https://www.nexusmods.com/masseffect/mods/205)
+- [Vignette Remover](https://www.nexusmods.com/masseffect/mods/104)
+- [Improved MAKO](https://www.nexusmods.com/masseffect/mods/115) (INI tweaks applied manually)
+- [Mako - Improved Controls Mod](https://www.nexusmods.com/masseffect/mods/59) (INI tweaks applied manually)
+- [A Lot of Textures (ALOT) for ME1](https://www.nexusmods.com/masseffect/mods/83)
+- [MEUITM](https://www.nexusmods.com/masseffect/mods/1) 
+- [A Lot of Videos (ALOV) for ME1](https://www.nexusmods.com/masseffect/mods/144)
 
 ### Requirements
 
