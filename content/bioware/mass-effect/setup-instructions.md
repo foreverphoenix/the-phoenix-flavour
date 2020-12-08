@@ -195,7 +195,7 @@ After clicking **Close**, a tutorial window will pop up. Feel free to click thro
 
 - ME3MM will throw a warning about a missing backup for Mass Effect 1.
 - Click **Open Backup Manager** and click the drop-down for **Mass Effect**.
-- Select the **Link to an existing backup** option and click **OK**.
+- Select the **Link to an existing backup** option and click **Back up**.
 - Click **OK** again in the link warning window.
 - Navigate to `Your Modding Folder\Mass Effect 1\Vanilla Game Backup\Binaries`.
 - Double-click **MassEffect.exe** to confirm the installation as the backup.
