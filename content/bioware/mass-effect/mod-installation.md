@@ -64,10 +64,10 @@ To prevent your edits from being reverted, set the file to Read Only:
 
 ### Better Keybinds
 
-The [Mako - Improved Controls Mod](https://www.nexusmods.com/masseffect/mods/59) also includes a tweaks for the **BioInput.ini** file for better MAKO keybinds. Since the file needs to be set to Read-Only to prevent edits from being reverted, you will no longer be able to change keybinds after applying the tweaks. This is why I recommended changing other keybinds a few steps earlier.
+The [Mako - Improved Controls Mod](https://www.nexusmods.com/masseffect/mods/59) also includes a tweaks for the **BIOInput.ini** file for better MAKO keybinds. Since the file needs to be set to Read-Only to prevent edits from being reverted, you will no longer be able to change keybinds after applying the tweaks. This is why I recommended changing other keybinds a few steps earlier.
 
 - Navigate to `C:\Users\Your User Name\Documents\Bioware\Mass Effect\Config`.
-- Open the **BIOGame.ini** file in Notepad++.
+- Open the **BIOInput.ini** file in Notepad++.
 - There are two lines that need to be replaced. Use the **Find & Replace** function (CTRL + H).
 - Copy the lines below and paste them into the respective fields in Notepad++.
 - Click **Replace** to replace the original line with the edited one.
@@ -91,11 +91,49 @@ The [Mako - Improved Controls Mod](https://www.nexusmods.com/masseffect/mods/59)
 
 > If a line cannot be found, it means you edited Toggle Crouch and/or Toggle Zoom when changing key binds earlier. There was an explicit warning not to do this. To fix this, close the INI file, go back ingame to the Controls settings, reset to default, and tweak any keybinds OTHER than Toggle Crouch / Toggle Zoom. Apply your changes, quit the game, and you should be able to find and replace the lines above.
 
+**Do not close the INI file after applying the edits.**
+
 ![Mako Controls](/Pictures/bioware/mass-effect-1/mako-controls.png)
 
-- Save and close **BIOInput.ini** after replacing the two lines.
+## Unlocking Levels 51-60
+
+The Mass Effect 1 level cap is 60; however, levels 51-60 are only unlocked after completing the game at least once (Medal of Honor achievement). In your first playthrough you will no longer advance after level 50.
+
+A quick method to circumvent this requirement is to use the console and unlock the achievement that way. **This step is completely optional.** If you don't want to "cheat" the level cap, you can skip this.
+
+Note that by default, you *cannot* reach level 60 in a single playthrough, even after unlocking the achievement. Thankfully, there is **XP Rescale**, a mod that we already installed earlier which rebalances the XP gain throughout the game, thereby making it possible to achieve the highest level within a single playthrough.
+
+### Enabling the Console
+
+The ingame console is mostly useful for those who never played the game before. By enabling the Medal of Honor achievement (normally granted upon completing a playthrough), you'll unlock levels 51-60 which you can achieve within a single playthrough thanks to **XP Rescale**, a mod that we already installed. 
+
+- Within the **BIOInput.ini** file, find the **[Engine.Console]** section.
+- Below the two existing lines, add the following:
+
+```
+ConsoleKey=Tilde
+TypeKey=Tab
+```
+
+> Pressing TAB will open a small, one-line console while TILDE will open a large version. Note that the tilde key's placement varies on different keyboard layouts and may not work properly. You can change the keybinds if you like.
+
+- Save your changes and close **BIOInput.ini**.
 - Right-click **BIOInput.ini** in the Windows Explorer and select **Properties**.
 - Check the **Read-only** box at the bottom in the **General** tab and click **OK**.
+
+*Source for the instructions was the excellent [Mass Effect Wiki](https://masseffect.fandom.com/wiki/PC_Tweaks#Enabling_The_Console).*
+
+![Enable Console](/Pictures/bioware/mass-effect-1/enable-console.png)
+
+### Medal of Honor Achievement
+
+- Launch **Mass Effect 1** (through ME3TMM, Steam, or Origin).
+- In the main menu, press **TAB** to open the small console.
+- Type `unlockachievement 1` and press Enter.
+
+Nothing visible will happen but if you check **Options** >> **Achievements**, you will see that **Medal of Honor** and thus levels 51-60 are now unlocked. Achievements are unlocked and saved globally within the `Profile.MassEffectProfile` file located in the Saves directory.
+
+![Unlock MoH](/Pictures/bioware/mass-effect-1/unlock-moh.png)
 
 ## Black Blobs Fix
 
@@ -179,6 +217,7 @@ For the ALOV ALOT addon, we will need to use a different method.
 ## Texture Installation
 
 - Click **Install Textures**, the button in the bottom right corner.
+- If you have other ME games installed, you may be asked to select one (Mass Effect 1).
 - All options and mods should be enabled by default.
 - Feel free to toggle off 4K Texture LODs if you are concerned over performance.
 - Click **Begin Installation** once you're ready.
@@ -201,3 +240,9 @@ The remainder of the installation procedure will now run automatically. This wil
 When it's done, click **Continue** and close the ALOT installer.
 
 ![ALOT Success](/Pictures/bioware/mass-effect-1/alot-success.png)
+
+## Starting the game
+
+At this point you're all done! Feel free to dive into the game and enjoy the fantastic work of these mod authors, especially the ALOT + ALOV teams who truly delivered a remaster already and make this game feel much younger than it actually is.
+
+You can launch the game either through ME3TMM or Steam/Origin. If you have the Steam version, you may encounter an error when attempting to start the game through ME3TMM (I did) which can potentially be fixed by installing PhysX legacy files or changing the game directory to the default one. The easiest solution is to simply launch it through Steam to begin with. After installing all mods, you don't actually need ME3TMM anymore.

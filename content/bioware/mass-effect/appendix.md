@@ -3,7 +3,7 @@ title: "Appendix"
 weight: 4
 type: docs
 description: >
-  FAQ, Resources, Credits.
+  FAQ, Resources, Changelog, Credits.
 ---
 
 ## FAQ
@@ -30,7 +30,11 @@ Some people reported this issue when the game was not installed in the default d
 
 > Can I reach level 60 in my first playthrough?
 
-Not by default. The XP Rescale mod allows you to comfortably gain enough experience to reach max level in one playthrough; however, level 60 is only unlocked with the **Medal of Honor** achievement which is granted after completing a full playthrough. This can be circumvented/unlocked by importing someone else's completed save (some are available on the [Nexus](https://www.nexusmods.com/masseffect/mods/categories/5/)).
+Not by default. The XP Rescale mod allows you to comfortably gain enough experience to reach max level in one playthrough; however, level 60 is only unlocked with the **Medal of Honor** achievement which is granted after completing a full playthrough. Since version 1.1, the guide includes instructions on how to unlock the achievement through the console.
+
+> Crash after selecting class specialisation on Luna.
+
+This happened to me but the game worked fine after restarting it and I got past the selection screen without another crash. YMMV.
 
 ## Resources
 
@@ -38,6 +42,23 @@ Not by default. The XP Rescale mod allows you to comfortably gain enough experie
 - [ME3Tweaks Website - Modding Guides](https://me3tweaks.com/guides/) - *Various mod creation guides for all Mass Effect games and more.*
 - [Mass Effect Mod Formats](https://me3explorer.fandom.com/wiki/Mod_Formats)
 - [SurfCrush's Mass Effect Trilogy Modding Guide](https://docs.google.com/document/d/1U05QpMT2Ku37hK0wEhrrn1FzZvN4LhuuIM7o_JQ8zp4/edit#)
+
+## Changelog
+
+### Release 1.0
+
+> 29/11/2020
+
+- Initial Release
+
+### Release 1.1
+
+> 08/12/2020
+
+- Fixed a bunch of oversights reported by Sr Kaio (thanks again!).
+- Added **Unlock Levels 51-60** section to the Mod Installation page.
+- This includes instructions to enable the console.
+- Added **Starting the Game** section to clarify how the modded game can be launched.
 
 ## Credits
 
@@ -48,6 +69,7 @@ Not by default. The XP Rescale mod allows you to comfortably gain enough experie
 - Thanks to **Aqvilinus** for their guide on [how to simply install DLCs](https://steamcommunity.com/sharedfiles/filedetails/?id=519913125) on Steam.
 - Thanks to **eezonaut** for their INI tweaks for [Mako - Improved Controls Mod](https://www.nexusmods.com/masseffect/mods/59).
 - Thanks to **Zupremo** for their INI tweaks for [Improved MAKO](https://www.nexusmods.com/masseffect/mods/115).
+- Thanks to **Sr. Kaio** for making me aware of a bunch of oversights in the write-up.
 - Thanks to the **Mass Effect Crew** for organising the [2020 N7 Day Reunion Stream](https://www.youtube.com/watch?v=BjzXCLpgBXE) which got me back into the franchise.
 
-**Please remember to ENDORSE the mods you downloaded on the Nexus.** You can do so directly through ME3TMM by selecting the mods in your library and pressing the "Endorse mod" button.
+**Please remember to ENDORSE the mods you downloaded from the Nexus.** You can do so directly through ME3TMM by selecting the mods in your library and pressing the "Endorse mod" button.
