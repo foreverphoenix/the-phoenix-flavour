@@ -8,9 +8,9 @@ description: >
 
 ## Game Installation
 
-The first thing you need to do is make sure you have a 100% vanilla copy of the game installed. If the game is already installed but has never been modded, you are good to go. If you did mod the game previously and wish to start over with this guide, I recommend uninstalling it through Steam or Origins, then manually removing any remaining files from the game folder.
+The first thing you need to do is make sure you have a 100% vanilla copy of the game installed. If the game is already installed but has never been modded, you are good to go. If you did mod the game previously and wish to start over with this guide, I recommend uninstalling it through Steam or Origin, then manually removing any remaining files from the game folder.
 
-If you have to (re)install the game, **make sure to launch it once** after it is downloaded. This will complete the installation and set up registry keys required later on. You can quit from the main menu. *This is definitely required for the Steam version, I'm not sure about Origins.*
+If you have to (re)install the game, **make sure to launch it once** after it is downloaded. This will complete the installation and set up registry keys required later on. You can quit from the main menu. *This is definitely required for the Steam version, I'm not sure about Origin.*
 
 I recommend adding a **shortcut** to the Mass Effect folder to your modding folder.
 
@@ -18,7 +18,7 @@ I recommend adding a **shortcut** to the Mass Effect folder to your modding fold
 
 ## Mass Effect DLC
 
-> Skip this step if you own the game on Origins. It is only required for Steam users.
+> Skip this step if you own the game on Origin. It is only required for Steam users.
 
 There are two DLC packs for Mass Effect 1, [Bring Down the Sky](https://masseffect.fandom.com/wiki/Bring_Down_the_Sky) and [Pinnacle Station](https://masseffect.fandom.com/wiki/Pinnacle_Station). Unfortunately, neither of them are included with the Steam download and must be installed separately ([source](https://steamcommunity.com/sharedfiles/filedetails/?id=519913125)).
 
@@ -37,35 +37,35 @@ Should you be asked for a product key during the installation of **Pinnacle Stat
 
 ![DLC Download](/Pictures/bioware/mass-effect-1/pinnacle-station-code.png)
 
-## Origins Tweaks
+## Origin Tweaks
 
 > Skip this step if you own the game on Steam. It is only required for Origins users.
 
-For the Origins version of Mass Effect 1, you need to adjust some settings in the Origins app.
+For the Origin version of Mass Effect 1, you need to adjust some settings in the Origin app.
 
 ### Disable Client Updates
 
-Automatic game updates must be disabled in Origins as the app would otherwise delete mod-added files upon launch.
+Automatic game updates must be disabled in Origin as the app would otherwise delete mod-added files upon launch.
 
-- Open Origins and navigate to **Origins** >> **Application Settings**.
+- Open Origin and navigate to **Origins** >> **Application Settings**.
 - Scroll down to the **Client update** section and disable **Automatic game updates**.
 
-![Origins Disable Game Updates](/Pictures/bioware/mass-effect-1/origins-disable-game-updates.png)
+![Origin Disable Game Updates](/Pictures/bioware/mass-effect-1/origins-disable-game-updates.png)
 
-### Disable Origins Overlay
+### Disable Origin Overlay
 
-The Origins overlay can cause severe performance issues which is why it is recommended to turn it off ([source](https://www.nexusmods.com/masseffect/mods/83)).
+The Origin overlay can cause severe performance issues which is why it is recommended to turn it off ([source](https://www.nexusmods.com/masseffect/mods/83)).
 
-- Right-click **Mass Effect** in your Origins games library and select **Game Properties**.
+- Right-click **Mass Effect** in your Origin games library and select **Game Properties**.
 - Uncheck the **Enable Origin In Game for Mass Effect** option and click **Save**.
 
-![Origins Disable Overlay](/Pictures/bioware/mass-effect-1/origins-disable-overlay.png)
+![Origin Disable Overlay](/Pictures/bioware/mass-effect-1/origins-disable-overlay.png)
 
 ## Game Backup
 
 The mod manager that we will be installing in a moment requires a full backup of the vanilla game. Having an untouched copy of the game available is also very helpful in case something goes wrong during the installation of any mods.
 
-- Navigate to your Steam/Origins Mass Effect 1 installation folder.
+- Navigate to your Steam/Origin Mass Effect 1 installation folder.
 - Copy everything from that folder (around 10GB after the installation of the DLC).
 - Paste everything to `Your Modding Folder\Mass Effect 1\Vanilla Game Backup`.
 

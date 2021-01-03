@@ -16,7 +16,7 @@ However, the game did launch way back in 2008 and it shows. We're going to try a
 
 ### Features
 
-- Instructions for the Origins and Steam versions of ME1
+- Instructions for the Origin and Steam versions of ME1
 - How to install the DLC for the Steam version
 - Specific instructions for AMD CPUs to fix a bug
 - Additonal profile settings for NVIDIA cards
@@ -41,7 +41,7 @@ However, the game did launch way back in 2008 and it shows. We're going to try a
 
 ### Requirements
 
-- Mass Effect 1 on [Steam](https://store.steampowered.com/app/17460/Mass_Effect/) or Origins.
+- Mass Effect 1 on [Steam](https://store.steampowered.com/app/17460/Mass_Effect/) or [Origin](https://www.origin.com/deu/en-us/store/mass-effect/mass-effect).
 - A legit Windows 8.1 / 10 installation (64bit).
 - [Microsoft Framework .NET 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) for the ALOT installer.
 - The [Notepad++](https://notepad-plus-plus.org/downloads/) file editor.
@@ -68,7 +68,7 @@ If you've followed my other guides in the past, you'll be familiar with this ste
 - Double-click the new, empty **Mass Effect 1** folder.
 - Create several new folders inside:
 
-> Skip the OFFICIAL DLC folder if you own the game on Origins instead of Steam.
+> Skip the OFFICIAL DLC folder if you own the game on Origin instead of Steam.
 
 ![Modding Folder ME1](/Pictures/bioware/mass-effect-1/modding-folder-me1.png)
 

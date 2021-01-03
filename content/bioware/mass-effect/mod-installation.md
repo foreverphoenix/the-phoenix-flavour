@@ -156,7 +156,7 @@ ALOV is a full remake of all cutscenes in 1080p 60FPS or 2160p 60FPS quality. Pl
 Now that all relevant files have been downloaded, it is time to install them with ALOT.
 
 - Navigate to `Your Modding Folder\Tools\ALOT` and double-click **ALOTInstaller.exe**.
-- If prompted with an update, click **Update** and wait for the process to complete.
+- If an update is available, wait until it is downloaded and installed.
 - Click **Import assistant** > **Select files to import**.
 - Navigate to `Your Modding Folder\Mass Effect 1\Mods` and double-click the **Improved Static Lighting** archive.
 - Wait for the ALOT installer to import the mod. Click **Close import assistant** once it's done.
@@ -180,7 +180,7 @@ For the ALOV ALOT addon, we will need to use a different method.
 
 - Click **Install Textures**, the button in the bottom right corner.
 - All options and mods should be enabled by default.
-- Feel free to toggle off 4K Texture LODs if you are concerned over performance.
+- Feel free to toggle off 4K Texture LODs if you are concerned with performance.
 - Click **Begin Installation** once you're ready.
 - Configure the available options for **MEUITM**:
   - Asari Face Style **Smooth** ([comparison](https://staticdelivery.nexusmods.com/mods/237/images/1/1-1517990254-647389271.jpeg))
