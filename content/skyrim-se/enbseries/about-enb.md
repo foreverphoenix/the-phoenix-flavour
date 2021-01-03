@@ -12,20 +12,22 @@ ENBSeries is a post-processing injector by Boris Vorontsov. Unlike ReShade, it i
 
 The effects vary in their performance-intensity. A full preset, especially when Skyrim is run on high resolutions, can bring high-end PCs to their knees. Fortunately, Skyrim SE with its generally improved performance runs a great deal better with ENBSeries presets and 60FPS+ on a reasonable resolution (1080p) are comfortably attainable on most machines.
 
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | The visual improvements are immense. They can profoundly change the feel of Skyrim.
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | Everything can be customised. The performance impact can be dampened by turning off hard-hitters such as Ambient Occlusion.
-- <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | You can tweak or swap presets, or uninstall ENBSeries entirely at any time. It does not affect savegames at all.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Most ENB presets come with a performance impact that is especially noticeable on low end machines.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Editing ENB presets beyond toggling options is not easy and may take a solid amount of trial & error.
-- <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Some presets do not support vanilla image space, they will not work with the Night Eye and other effects.
+|            | Advantages and Disadvantages of ENBSeries                    |
+| ---------- | ------------------------------------------------------------ |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | The visual improvements are immense. They can profoundly change the atmosphere of Skyrim. |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | Everything can be customised. The performance impact can be dampened by turning off hard-hitters such as Ambient Occlusion. |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | You can tweak or swap presets, or completely uninstall ENBSeries at any time. Saves are not affected. |
+| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | ENBSeries presets can noticably impact performance, especially on low end machines. |
+| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Editing ENB presets beyond toggling options is not always easy and may take a solid amount of trial & error. |
+| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Some presets do not support vanilla image space, they will not work with the Night Eye and other effects. |
 
 **Installing ENBSeries is completely optional. You can skip this entire section and continue with the Finalisation if you like.**
 
 ## Versions
 
-ENBSeries for Skyrim SE is still updated with new features every once in a while. It has not yet achieved the same level of complexity that the Classic Skyrim version boasts, although it is coming closer. Presets for past versions usually work fine with new updates. Boris occasionally updates without incrementing the version number and it's generally difficult to track updates since the ENB binaries (the core files that are always required) are not available on the Nexus.
+ENBSeries for Skyrim SE is still updated with new features every once in a while. It has not yet achieved the same level of complexity that the Classic Skyrim version boasts, although it is coming very close. Presets for past versions usually work fine with new updates. Boris (creator of ENBSeries) occasionally updates without incrementing the version number and it's generally difficult to track updates since the ENB binaries (the core files that are always required) are not available on the Nexus.
 
-> For users of TPF, there are usually pings on the Discord server when ENBSeries was updated.
+> For users of TPF there are usually notifications on the Discord server when ENBSeries was updated.
 
 ## Core Files
 
@@ -33,7 +35,9 @@ The binaries are the core files that are always required to run ENBSeries. They 
 
 The `enblocal.ini` stores your personal settings and it’s completely independent from your preset. Settings you can control through the INI file are hotkeys, forcing VSYNC and/or frame lock, preset shader cache, some fixes and additional graphical options such as antialiasing.
 
-> These files may not be shared on the Nexus or elsewhere. They can only be acquired from the official website.
+Having these files installed can have a small performance impact, even without a preset.
+
+> The ENBSeries binaries may not be shared on the Nexus. They can only be acquired from the official website.
 
 ## Preset Files
 

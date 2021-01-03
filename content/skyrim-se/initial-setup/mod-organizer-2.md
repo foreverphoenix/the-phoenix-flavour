@@ -19,7 +19,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Confirm when asked to associate NXM links with MO2.
 * Click **No** when prompted with the tutorial option.
 
-![MO2 Choose Instance](/Pictures/setup/mo2_choose_instance.png)
+![MO2 Choose Instance](/Pictures/skyrim-se/initial-setup/mo2-choose-instance.png)
 
 ## Configuration
 
@@ -34,7 +34,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 
 ### Tweaks
 
-* Open the **Settings** (Tools > Settings or CTRL + S).
+* Open the **Settings** (Tools >> Settings or CTRL + S).
 * In the **General** tab, check both boxes under **Download List**:
   * Show Meta Information
   * Compact List
@@ -47,9 +47,10 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Click **Connect to Nexus**.
 * This will open a Browser window where you will be asked to confirm.
 * Click **Authorise**. You can revoke this any time in your Nexus settings.
+* Close the **Settings** window.
 * Mod Organizer 2 may ask you to restart. Click **OK**.
 
-![Authorise MO2](/Pictures/setup/authorise_mo2.png)
+![Authorise MO2](/Pictures/skyrim-se/initial-setup/authorise-mo2.png)
 
 ## Manage Mod Downloads
 
@@ -61,15 +62,13 @@ On the other hand, keeping the archives as backups is highly recommended as mods
 
 Here is where our **ARCHIVE** comes into play, the directory inside **Your Modding Folder** we set up to store all the mod files on a hard drive with plenty of free space. We will now configure Mod Organizer 2 to save all downloads to that folder.
 
-* Once again, open the **Settings** in MO2 (Tools > Settings or CTRL + S).
+* Once again, open the **Settings** in MO2 (Tools >> Settings or CTRL + S).
 * Switch to the **Paths** tab.
 * Point **Downloads** to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 
-![MO2 Archive](/Pictures/setup/mo2_archive.png)
+![MO2 Archive](/Pictures/skyrim-se/initial-setup/mo2-archive.png)
 
 ## User Interface
-
-### Components
 
 You can now configure the UI to your liking. Personally I re-arrange the two panels so that the left one (mod order) is wider.
 
@@ -92,16 +91,16 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 * **Source Game**
 * **Priority**
 
-![MO2 Customized](/Pictures/setup/mo2_customised.png)
+![MO2 Customized](/Pictures/skyrim-se/initial-setup/mo2-customised.png)
 
 ## Custom Profiles
 
 ### Vanilla
 
-* Open the **Profile** settings in MO2 (Tools > Profiles or CTRL+P).
+* Open the **Profile** settings in MO2 (Tools >> Profiles or CTRL+P).
 * The **Default** profile will be selected automatically.
 * Uncheck the following option at the bottom:
-  * Use profile-specific Game INI Files
+  * `Use profile-specific Game INI Files`
 * When asked to delete the existing profile-specific INI files, click **Yes**.
 
 > This profile is completely untouched. It uses the global INI and save files from the INI folder, and running Skyrim SE through it will be exactly like running it from Steam. 
@@ -109,21 +108,23 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 ### Modded
 
 * Click **Copy** to set up a second profile based on the **Default** one.
-* Enter **"The Phoenix Flavour"** as the name.
+* Enter **The Phoenix Flavour** as the name.
 * Select your new profile in the list.
 * Check both options at the bottom:
-  * Use profile-specific Save Games
-  * Use profile-specific Game INI Files
+  * `Use profile-specific Save Games`
+  * `Use profile-specific Game INI Files`
 * Click **Close** to exit the settings.
 * In the profile list below the top left menu in MO2, select your new profile to switch to it.
 
 > This new profile is separate from your vanilla install. It uses its own directories for INI and save files.
 
+![MO2 Select New Profile](/Pictures/skyrim-se/initial-setup/mo2-select-new-profile.png)
+
 ## Deorder's MO2 Plugins
 
-Removing and re-activating plugins included in a merge can be more than a little annoying. Fortunately there is a plugin by Deorder to hide and unhide those plugins at any time directly through the MO2 UI.
+> **This step is optional.**
 
-Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. This one allows you to update one profile's mod order to mirror another's.
+Deorder's **Sync Mod Order** MO2 plugin allows you to update one profile's mod order to mirror another's. This is incredibly useful if you have multiple profiles (default TPF, a customised version, one for an ongoing playthrough, one for testing, etc).
 
 * Open the Github page for [deorder’s MO2 Plugins](https://github.com/deorder/mo2-plugins/releases).
 * Download the latest version by clicking on **Source code (zip)**.
@@ -135,9 +136,9 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **pySyncModOrder.py**
 * Confirm when asked to merge the **data** folders.
 
-> The Sync Mod Order plugin is extremely useful for maintaining multiple profiles. At present, TPF doesn't include any merges so the second plugin, Merge Plugins Hide, is mostly added for the sake of completion.
+*The Sync Mod Order plugin is extremely useful for maintaining multiple profiles. At present, TPF doesn't include any merges so the second plugin, Merge Plugins Hide, is mostly added for the sake of completeness.*
 
-![Install Deorders Plugins](/Pictures/setup/deorders-plugins-installation.png)
+![Install Deorders Plugins](/Pictures/skyrim-se/initial-setup/deorders-plugins-installation.png)
 
 ## Separators
 
@@ -155,3 +156,9 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
   * **01 ESSENTIAL MODS**
   * **02 FIXES**
   * **…**
+
+![MO2 Separators](/Pictures/skyrim-se/initial-setup/mo2-install-separators.png)
+
+---
+
+#### Continue with the [Skyrim Script Extender](https://thephoenixflavour.com/skyrim-se/initial-setup/skyrim-script-extender/) page.

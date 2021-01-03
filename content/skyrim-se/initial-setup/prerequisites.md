@@ -25,7 +25,7 @@ By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows E
 - Click the **View** tab at the top.
 - Make sure **File name extensions** is checked.
 
-![File Extensions Visible](/Pictures/setup/file_extensions_visible.png)
+![File Extensions Visible](/Pictures/skyrim-se/initial-setup/file-extensions-visible.png)
 
 ## Your Modding Folder
 
@@ -43,31 +43,30 @@ Throughout the guide I will refer to this folder as **Your Modding Folder**.
   - temp
   - Tools
 
-![Modding Folder](/Pictures/setup/modding_folder.png)
+![Modding Folder](/Pictures/skyrim-se/initial-setup/modding-folder.png)
 
 ### Mod Archive
 
 Proper organisation is key when modding Skyrim. You will come back many times to update or reinstall mods, or selectively extract files without installing the whole package. This is where the previously created **ARCHIVE** comes into play - it will contain the majority of downloaded mod archives.
 
 - Create several more folders inside the **ARCHIVE** folder:
+  - CK Fixes
   - ENBSeries - Binaries
   - ENBSeries - Presets
   - MO2 Downloads
   - SKSE64
 
-![Archive Folder](/Pictures/setup/archive_folder.png)
+![Archive Folder](/Pictures/skyrim-se/initial-setup/archive-folder.png)
 
 ## Monitor Calibration
-
-### Gamma and Brightness
 
 Assuming you already have your monitor configured with your preferred settings for resolution and refresh rate (in my case that is 60Hz and 1920x1080), you might still want to adjust the brightness and/or gamma either through your graphics card control panel or Windows' inbuilt calibration tool.
 
 > Your monitor should have been running for at least 30 minutes before you adjust it.
 
-- **WINDOWS:** Control Panel > Colour Management > Advanced > Calibrate display
-- **NVIDIA:** Control Panel > NVIDIA Control Panel > Adjust Desktop Color Settings
-- **AMD:** Unfortunately I do not own an AMD GPU and never have so I cannot give advice here. Use the inbuilt Windows calibration tool.
+- **WINDOWS:** Control Panel >> Colour Management >> Advanced >> Calibrate display
+- **NVIDIA:** Control Panel >> NVIDIA Control Panel >> Adjust Desktop Color Settings
+- **AMD:** Unfortunately I do not own an AMD GPU so I cannot give advice here. Use the inbuilt Windows calibration tool.
 
 To help you find the sweet spot for your monitor, check out these resources:
 
@@ -90,4 +89,8 @@ The Microsoft Visual C++ Redistributable is a basic package required by Mod Orga
 - Download the following file: ` vc_redist.x64.exe`.
 - Run the executable, it will guide you through the installation process.
 
-![VC Redist](/Pictures/setup/vc-redists.png)
+![VC Redist](/Pictures/skyrim-se/initial-setup/vc-redists.png)
+
+---
+
+#### Continue with the [Skyrim and Steam](https://thephoenixflavour.com/skyrim-se/initial-setup/skyrim-and-steam/) page.
