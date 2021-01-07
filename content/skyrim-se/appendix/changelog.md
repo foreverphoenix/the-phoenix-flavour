@@ -39,10 +39,14 @@ description: >
 - Removed ENB Lights page. Mods from that page were moved to other pages with the exception of ENB Lights which was removed.
 - **Installation Instructions**: Removed all references to optional mods which are no longer a thing.
 - **Essential Mods**: Added instructions to UHDAP on how to download with a slow internet connection.
-- **Fixes:** Moved Weapons Armor Clothing and Clutter Fixes to Essential Mods.
-- **Fixes:**: Removed Skyrim Ultimate Eyemeshes Ruhmastered (included in Cathedral Player and NPC Overhaul).
-- **Fixes:** Removed ENB Brow Fix (overwritten by Cathedral Player and NPC Overhaul).
-- **Fixes:** Removed Double Sided Vertex Human Mouth Fix (overwritten by Cathedral Player and NPC Overhaul).
+- **Essential Mods:** Added Disable USSEP Book.
+- **Essential Mods:** Moved Weapons Armor Clothing and Clutter Fixes here.
+- **Fixes:** Removed Skyrim Ultimate Eyemeshes Ruhmastered (included in Cathedral Player and NPC Overhaul).
+- **Fixes:** Removed Eye Normal Map Fix (redundant with Cathedral NPCs).
+- **Fixes:** Removed Eyes AO Clipping Fix (redundant with Cathedral NPCs / Expressive Facegen Morphs).
+- **Fixes:** Removed ENB Brow Fix (redundant with Cathedral Player and NPC Overhaul).
+- **Fixes:** Removed Double Sided Vertex Human Mouth Fix (redundant with Cathedral Player and NPC Overhaul).
+- **Fixes:** Removed WoodElf - MaleHair - Fix (redundant with Expressive Facegen Morphs).
 - **Fixes:** Added Blackreach Tentacle Mesh Fix.
 - **Tweaks:** Moved Windhelm Segregation - Stay at New Gnisis Cornerclub here.
 - **Tweaks:** Moved Alik'r Warriors Aren't Welcome here.
@@ -50,6 +54,7 @@ description: >
 - **Interface**: Removed Undiscovered Means Unknown (wasn't very popular among users).
 - **Graphics Baseline:** Removed Caliente's Beautiful Bodies Enhancer (too much unjustified headache).
 - **Lighting:** Replaced Relighting Skyrim - No Player Homes with the new updated version.
+- **Visual FX:** Replaced Subtle Wind FX with Less Distracting Blowing Snow Effects for ENB Particle Patch.
 - **Trees & Plants:** Updated Enhanced Vanilla Trees download instructions.
 - **Trees & Plants:** Updated Enhanced Vanilla Trees - Alternative Branches FOMOD instructions.
 - **Trees & Plants:** Removed Bent Pines II (it's been in the list forever and I love it but it's not very v+).
@@ -65,11 +70,14 @@ description: >
 - **Landscape:** Slightly changed the order of mods (update Mod Order in MO2 accordingly).
 - **Landscape:** Updated download instructions for Majestic Mountains (now downloading the DynDOLOD / LOD Gen LOD Pack).
 - **Landscape:** Updated FOMOD instructions for Majestic Mountains.
+- **Landscape:** Added Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon.
+- **Landscape:** Cathedral Landscape - Windhelm Snow Bridge Fix.
 - **Landscape:** Added Cathedral - 3D Pine Grass.
 - **Landscape:** Removed The Elder Scrolls - Veydosebrom.
 - **Landscape:** Removed Cathedral Landscapes - Veydosebrom Swamp Grass Addon.
 - **Landscape:** Removed manual edit from RW2 (no longer necessary after updating mod order).
-- **Landscape:** Updated FOMOD instructions for Better Dynamic Snow to select the Majestic Mountains patch.
+- **Landscape:** Added Bright Waterfall Fix for ENB.
+- **Landscape:** Updated FOMOD instructions for Better Dynamic Snow.
 - **Landscape:** Removed Better Dynamic Majestic Mountains.
 - **Landscape:** Removed Manor Roads (looks ugly).
 - **Worldspace Additions:** Added this new page.
@@ -81,8 +89,7 @@ description: >
 - **Worldspace Additions:** Moved Unique Border Gates here.
 - **Worldspace Additions:** Moved Solstheim Lighthouse here.
 - **Worldspace Additions:** Moved Solstheim - Skaal Fishing Camp here.
-- **Cities & Interiors:** Renamed this step (used to be called "Buildings & Interiors").
-- **Cities & Interiors:** Added Simple Player Home Improvements.
+- **Cities & Towns:** Renamed this step (used to be called "Buildings & Interiors").
 - **Architecture:** Removed Pfuscher's Manhole Texture.
 - **Architecture:** Replaced STR - High Hrothgar with Halls of the Greybeards.
 - **Architecture:** Added HD Reworked Falmer Architecture.
@@ -98,9 +105,11 @@ description: >
 - **Interiors:** Added 4K Retexture for Nordic Beds.
 - **Interiors:** Added Thrones of Skyrim.
 - **Dungeons:** Removed instructions to delete textures/effects folder from Rudy HQ - Nordic Ruins.
+- **Dungeons:** Added Dwemer Ichor Barrel 2K.
 - **Dungeons:** Moved ENB Particle Lights - Dwemer Lanterns here.
 - **Dungeons:** Added ENB Partile Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Moved Rudy HQ - More Lights for ENB - Bthardamz here.
+- **Dungeons:** Added Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
 - **Dungeons:** No longer selecting the Hearthfire Patch in the CC's Enhanced Ore Veins FOMOD.
 - **Dungeons:** Removed additional instructions from CC's Enhanced Ore Veins (no longer necessary).
 - **Dungeons:** Added Dwemer Ichor Barrel 2K.
@@ -146,11 +155,13 @@ description: >
 - **Creatures:** Removed HD Serpentine Dragon and Mesh Fix (serpentine dragon is covered by HD Reworked Dragons).
 - **Appearance:** This page was completely redone.
 - **Appearance:** Added Cathedral Player and NPC Overhaul (this replaces / includes all mods that were removed).
+- **Appearance:** Added Expressive Facegen Morphs.
 - **Appearance:** Moved DIVERSE SKYRIM here.
+- **Appearance:** Added instructions to delete the BSA for DIVERSE SKYRIM.
+- **Appearance:** Added DIVERSE SKYRIM - Cathedral NPCs Facegen Patch.
 - **Appearance:** Updated FOMOD instructions for Forgotten Argonian Roots (selecting vanilla body instead of CBBE).
-- **Appearance:** Moved Eye Normal Map Fix here.
-- **Appearance:** Moved Eyes AO Clipping Fix here.
 - **Appearance:** Removed additional instructions for Eyes AO Clipping Fix (no longer necessary).
+- **Appearance:** Removed Just Fangs from BVFE (redundant with Expressive Facegen Morphs).
 - **Appearance:** Added Beast Race Fang Removal.
 - **Appearance:** Moved TK Children here.
 - **Appearance:** Moved Simple Children here.
@@ -174,16 +185,20 @@ description: >
 - **NPC Overhauls:** Removed Ethereal Elven Overhaul.
 - **NPC Overhauls:** Removed Ethereal Elven Overhaul - SSE Patch.
 - **NPC Overhauls:** Removed DIVERSE SKYRIM - Ethereal Elven Overhaul Patch.
+- **Gameplay Overhauls:** Moved More Expensive Transmute for Mysticism here.
 - **Gameplay Overhauls:** Added instructions to download the Shrines and Amulets addon for Adamant.
-- **Gameplay Overhauls:** Added Smithing Perk Overhaul.
 - **Gameplay Overhauls:** Removed Complete Crafting Overhaul Remastered.
 - **Gameplay Overhauls:** Removed Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch.
 - **Gameplay Overhauls:** Replaced Sacrosanct with Scion - A Vampire Overhaul.
 - **Gameplay Overhauls:** Removed Trua - Minimalistic Faiths of Skyrim.
+- **Gameplay Overhauls:** Moved Trade and Barter here.
+- **Gameplay Overhauls:** Added Trade and Barter - Mysticism and Adamant Patches.
 - **Gameplay Overhauls:** Re-added Reliquary of Myth - Artifact Overhaul.
+- **Gameplay Overhauls:** Moved Genuinely Intelligent Soul Gems here.
 - **Gameplay Overhauls:** Updated download instructions for Carriage and Ferry Travel Overhaul (Dawnstar patch no longer needed).
 - **Gameplay Overhauls:** Removed CFTO - Winterhold Carriage.
 - **Gameplay Overhauls:** Added Carriage and Ferry Travel Overhaul - Fixes and Winterhold.
+- **Gameplay Overhauls:** Added Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch.
 - **Gameplay Overhauls:** Removed Night Eye Overhaul.
 - **Gameplay Overhauls:** Removed Night Eye Overhaul - Plugin Replacer.
 - **Non-Player Characters:** Moved Run For Your Lives here.
@@ -193,32 +208,55 @@ description: >
 - **Non-Player Characters:** Removed Relationship Dialogue Overhaul.
 - **Non-Player Characters:** Updated download instructions for Hunters Not Bandits (no longer downloading the RDO version).
 - **Non-Player Characters:** Updated Nether's Follower Framework FOMOD instructions.
+- **Non-Player Characters:** Added Immersive Patrols - Cathedral NPCs Facegen Patch.
 - **Improved Vanilla Quests:** Removed Even Better Quest Objectives.
 - **Improved Vanilla Quests:** Removed Gildergreen Regrown (looks awful).
-- **Improved Vanilla Quests:** Updated Misc College of Winterhold Tweaks FOMOD instructions.
-- **Improved Vanilla Quests:** Added The Paarthurnax Ultimatum.
+- **Improved Vanilla Quests:** Removed The Paarthurnax Dilemma.
+- **Improved Vanilla Quests:** Added The Paarthuranx Resolution.
+- **Improved Vanilla Quests:** Removed Castle Volkihar Rebuilt.
+- **College of Winterhold:** Added this new step because of all the mods related to the college.
+- **College of Winterhold:** Moved Obscure's College of Winterhold here.
+- **College of Winterhold:** Updated Obscure's College of Winterhold FOMOD instructions.
+- **College of Winterhold:** Added Obscure's College of Winterhold - Cathedral NPCs Facegen Patch.
+- **College of Winterhold:** Moved Immersive College NPCs here.
+- **College of Winterhold:** Added Immersive College NPCs - Cathedral NPCs Facegen Patch.
+- **College of Winterhold:** Moved Improved College Entry - Questline Tweaks here.
+- **College of Winterhold:** Moved Misc College of Winterhold Tweaks here.
+- **College of Winterhold:** Updated Misc College of Winterhold Tweaks FOMOD instructions.
+- **College of Winterhold:** Moved Choose Your Own Archmage here.
+- **College of Winterhold:** Moved Finding Velehk Sain here.
 - **Combat & Encounters:** Re-added Mortal Enemies.
 - **Combat & Encounters:** Re-added Realistic Melee Range.
 - **Combat & Encounters:** Removed Beast Skeletons.
 - **Combat & Encounters:** Removed Beast Skeletons - Plugin Replacer.
 - **Combat & Encounters:** Added proper FOMOD instructions for DMC for a vanilla-like player werewolf replacer.
-- **Balancing:** Updated download instructions for Morrowloot Miscellania.
+- **Balancing:** This step was removed. Its mods were split up among other categories or removed from the guide.
+- **Balancing:** Removed Economy Overhaul and Speechcraft Improvements.
 - **Balancing:** Removed Zim's Immersive Artifacts (mostly covered by ROM now).
-- **Balancing:** Removed Unique Items Tweaks (will likely be re-added).
-- **Balancing:** Moved Armor and Clothing Extension here.
-- **Balancing:** Moved Armor and Clothing Extension (WACCF) - MCM Menu Fix here.
-- **Balancing:** Added Tweaks for WACCF and ACE.
-- **Balancing:** The AMB Content Addon is now only available with Wabbajack. I have no permissions to share my edited plugin.
-- **Balancing:** Added Lightweight Smithing Tweaks.
-- **Balancing:** Added Faster Mining Plus.
-- **Balancing:** Added Craftable Torches.
-- **Balancing:** Added Craftable Lockpicks.
+- **Balancing:** Removed Unique Items Tweaks (might be re-added later).
+- **Crafting & New Gear:** This is basically the old Balancing step - but quite different.
+- **Crafting & New Gear:** Added Smithing Perk Overhaul.
+- **Crafting & New Gear:** Added Lightweight Smithing Tweaks.
+- **Crafting & New Gear:** Added Faster Mining Plus.
+- **Crafting & New Gear:** Added Craftable Torches.
+- **Crafting & New Gear:** Added Craftable Lockpicks.
+- **Crafting & New Gear:** Moved Armor and Clothing Extension here.
+- **Crafting & New Gear:** Moved Armor and Clothing Extension (WACCF) - MCM Menu Fix here.
+- **Crafting & New Gear:** Added Tweaks for WACCF and ACE.
+- **Crafting & New Gear:** The AMB Content Addon is now only available with Wabbajack. I have no permissions to share my edited plugin.
 - **New Gear:** Removed this step and all mods remaining here.
 - **New Gear:** Removed Weapon Armor Clothing and Clutter Fixes - CBBE Patch.
 - **New Gear:** Removed Common Clothes and Armors (may be re-added in the future).
 - **New Gear:** Removed Common Clothes and Armors - CBBE Patch.
 - **New Gear:** Removed Armor of Yngol.
 - **New Gear:** Removed Kthonia's Unique Weapon Pack.
+- **Tweak Collections:** Added this new step.
+- **Tweak Collections:** Moved Morrowloot Miscellania here.
+- **Tweak Collections:** Updated download instructions for Morrowloot Miscellania.
+- **Tweak Collections:** Moved Miscellaneous Tweaks Collection here.
+- **Tweak Collections:** Updated FOMOD instructions for Misc Tweaks - Shrines Don't Cure Diseases.
+- **Tweak Collections:** Added Misc Tweaks - Night Eye Redux.
+- **Tweak Collections:** Moved Andrealphus' Gameplay Tweaks here.
 - **Miscellaneous:** Moved Irondusk's Saddlebags here.
 - **Miscellaneous:** Removed Simply Knock.
 - **Miscellaneous:** Removed Simply Knock SKSE64 DLL.
@@ -226,10 +264,7 @@ description: >
 - **Miscellaneous:** Removed Talkative Dragons (can get repetitive).
 - **Miscellaneous:** Removed Talkative Dragons - Audio Replacer.
 - **Miscellaneous:** Removed Keeper Carcette Survives.
-- **Miscellaneous:** Moved Miscellaneous Tweaks Collection here.
-- **Miscellaneous:** Updated FOMOD instructions for Misc Tweaks - Shrines Don't Cure Diseases.
-- **Miscellaneous:** Added Misc Tweaks - Night Eye Redux.
-- **Miscellaneous:** Moved Andrealphus' Gameplay Tweaks here.
+- **Miscellaneous:** Added Simple Player Home Improvements.
 - **Assorted Plugins** Added this new page to collect the various SKSE- and NSF-based plugins.
 - **Assorted Plugins:** Moved Whose Quest Is It Anyway here.
 - **Assorted Plugins:** Moved Yes I'm Sure here.
@@ -253,6 +288,31 @@ description: >
 - **Skeletons & Animation:** Replaced FNIS with Nemesis Ultimate Behaviour Engine.
 - **Utilities**: Removed the FISSES ESL-ified Patch.
 - **Utilities**: Removed Copy and Paste in Console.
+
+### ENBSeries
+
+- **Preset Installation:** Updated instructions for Rudy ENB 2.0.
+- **Other Presets:** Slightly updated some sections of this page to be consistent with other 4.0 changes.
+- **Related Mods:** This section was removed. Most included mods were moved to the main Mod Installation section.
+- **Related Mods:** Removed ENB Lights.
+
+#### Finalisation
+
+- **Wrapping Up:** Updated and expanded list of plugins to be ESL-ified.
+- **FNIS:** Removed this page as FNIS is no longer part of TPF.
+- **Nemesis:** Added this page with instructions for Nemesis which replaced FNIS.
+- **AllGUD:** Removed instructions to clean masters for the Alt Textures patch (no longer necessary).
+- **AllGUD:** Added instructions to install the fixed Weapon Mesh Generator Script.
+- **DynDOLOD:** Slightly updated and improved some of the instructions.
+- **Occlusion:** Added this new page with instructions to regenerate occlusion data.
+
+#### Finalisation
+
+- **Mod Configuration:** Removed instruction for mods no longer present in the guide.
+- **Mod Configuration:** Added instructions to bind the NFF Horse Whistle hotkey.
+- **Mod Configuration:** Added MCM instructions for Storm Lightning.
+- **Mod Configuration:** Added MCM instructions for Trade & Barter.
+- **Mod Configuration:** Added a picture for the Wonders of Weathers MCM instructions.
 
 ## Release 3.5
 

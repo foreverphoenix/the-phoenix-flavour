@@ -93,96 +93,11 @@ description: >
 
 * **Main Files:** No TG Grind
 
-##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
+##### [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Improved College Entry
-
-##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Misc. College of Winterhold Tweaks
-
-#### FOMOD Instructions
-
-* **Arniel's Appeals:**
-  * Arniel's Appeals
-* **The Augur's Admonishment:**
-  * None
-* **A College Coup:**
-  * A College Coup
-  * Obscure's College of Winterhold Add-on
-  * Immersive College NPCs Add-on
-  * ~~Immersive College NPCs Add-on - version 1.0.4~~
-  * ~~Interesting NPCs Add-on~~
-* **Dead Dunmer Delivery:**
-  * Dead Dunmer Delivery
-* **Mage-light Maintenance**
-  * ~~Mage-light Maintenance~~
-* **Governable Gatekeeper:**
-  * Governable Gatekeeper
-* **Expedite the Expirate:**
-  * Expedite the Expirate
-* **Unflappable Faculty:**
-  * Unflappable Faculty
-* **Friendly Faralda:**
-  * ~~Friendly Faralda~~
-* **Scheduled Savos:**
-  * ~~Scheduled Savos~~
-* **A Wizard's Walk:**
-  * ~~A Wizard's Walk~~
-* **Erratum Etc.:**
-  * None
-* **The Early Elementalist:**
-  * None
-* **Inescapable Insights:**
-  * Quests are in Skyrim USSEP Version
-* **Readme:**
-  * *select nothing*
-
-> The **Early Elementalist** module allows you to Wait in the Hall of Elements. This is done by removing the "Can't Wait" flag in that cell. Because this record has to be forwarded into the Conflict Resolution Patch anyway (to patch it with changes from other mods, namely Luminosity), there is no point in keeping the original Early Elementalist ESP as it would be completely overwritten. In short - skip the option, it is already implemented in the CRP. 
-
-##### [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Choose Your Own Arch-Mage
-
-##### [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Finding Velehk Sain
-
-#### FOMOD Instructions
-
-* Change nothing, click **Install**.
-
-##### [The Paarthurnax Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/365?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** The Paarthurnax Dilemma
-
-##### [The Paarthurnax Ultimatum](https://www.nexusmods.com/skyrim/mods/72215?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** The Paarthurnax Union
-* **Optional Files:** FuzRoDoh Compatibility Patch >> `merge with the main file`
-
-#### Porting Instructions
-
-* Resave the plugin in the Creation Kit.
-* Unpack and delete the BSA.
-
-##### [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Castle Volkihar Rebuilt
+* **Main Files:** The Paarthurnax Resolution
 
 ##### [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395?tab=files)
 

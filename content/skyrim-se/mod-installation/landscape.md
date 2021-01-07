@@ -65,6 +65,18 @@ description: >
 
 > A lower value means higher grass density and potentially decreased FPS. You may want to experiment with it a little to find your sweet spot.
 
+##### [Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44067/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon
+
+##### [Cathedral Landscapes - Windhelm Bridge Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44069?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral Landscape - Windhelm Snow Bridge Fix
+
 ##### [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032?tab=files)
 
 #### Download Instructions
@@ -100,6 +112,12 @@ description: >
 #### Download Instructions
 
 - **Miscellaneous Files:** Landscape Fixes for Grass Mods Patch v1.0
+
+##### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bright Waterfall Fix for Realistic Water Two
 
 ##### [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files)
 
@@ -144,17 +162,16 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Snow SE v2.11.0
+* **Main Files:** Better Dynamic Snow SE v3.2
 
 #### FOMOD Instructions
 
-* **Meshes:**
-  * SMIM
+* **Plugin Installation:**
+  * Brighter Snow Materials
+* **Projected Diffuse Texture:**
+  * None
 * **Optional Addons:**
-  * ~~Snowy Farmhouses~~
-* **Patches:**
-  * ~~No Snow Under the Roof~~
-  * Majestic Mountains
+  * ~~No Glacier Snow~~
 
 ##### [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
 
@@ -210,7 +227,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Ash SE
+* **Main Files:** Better Dynamic Ash SE v2.0
 
 ##### [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
 

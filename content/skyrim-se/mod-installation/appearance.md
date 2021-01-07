@@ -13,11 +13,30 @@ description: >
 * **Main Files:** HMB II
 * **Optional Files:** Vanilla Body with UNP Textures by Shiva182
 
+##### [Expressive Facegen Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/35785?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Expressive Facegen Morphs SE
+
 ##### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** DIVERSE SKYRIM SSE
+
+#### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * DIVERSE SKYRIM.bsa
+
+> The archive contains the facegen files which are going to be replaced by the next mod anyway.
+
+##### [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
 
 ##### [Forgotten Argonian Roots (FAR)](https://www.nexusmods.com/skyrimspecialedition/mods/1704?tab=files)
 
@@ -119,24 +138,6 @@ description: >
 * Delete all files starting with **male** or **female**:
   * `textures\actors\character\character assets\tintmask\female---.dds`
   * `textures\actors\character\character assets\tintmask\male---.dds`
-
-##### [Eye Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/5445?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Eye Normal Map Fix SSE BC7
-
-##### [Eyes AO Clipping Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25753?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Eyes AO Clipping Fix - Ruhmastered
-
-##### [Just Fangs from BVFE](https://www.nexusmods.com/skyrimspecialedition/mods/33779?tab=files)
-
-#### Download Instructions
-
-* **Main File:** Just Fangs From BVFE
 
 ##### [Beast Race Fang Removal](https://www.nexusmods.com/skyrimspecialedition/mods/20400?tab=files)
 

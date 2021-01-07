@@ -90,6 +90,12 @@ description: >
 - Delete the following file(s) and/or folder(s):
   * `Unofficial Skyrim Special Edition Patch.modgroups`
 
+##### [Disable USSEP Book](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Disable USSEP Book
+
 ##### [Weapons, Armor, Clothing and Clutter Fixes (WACCF)](https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=files)
 
 #### Download Instructions

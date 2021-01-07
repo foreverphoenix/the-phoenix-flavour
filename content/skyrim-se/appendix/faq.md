@@ -8,7 +8,7 @@ description: >
 
 ## Guide Instructions
 
-> I have over 300 plugins active in Mod Organizer 2. Is that intended?
+> I have almost 300 active plugins in Mod Organizer 2. Is that intended?
 
 Yes, that is definitely intended. While it's true that Skyrim has a limit of 255 plugins, this applies only to ESP and ESM plugins. Many plugins in TPF are ESL-ified though, and do not count toward the limit. When you hover over the counter above the load order in MO2, you can see how many ESM + ESP plugins you have, and how close you really are to the limit.
 
@@ -30,19 +30,15 @@ For a time it was necessary to use the executable and DLLs of the previous versi
 
 ## Guide Content
 
-> Will Legacy of the Dragonborn ever be added to the written guide?
+> Will Legacy of the Dragonborn ever be added to TPF?
 
-It is extremely unlikely. LOTD is for the time being exclusive to the Wabbajack installer version and optional there. Perhaps there will one day be a fork (official or otherwise) of the guide that includes the mod.
+No. LOTD is the opposite of "vanilla plus" and does not fit into TPF at all. If you are interested in LOTD, check out [Elysium](https://github.com/TitansBane/Elysium) which started out as a TPF fork with LOTD.
 
 ## TPF Gameplay
 
 > Can I play with a controller instead of mouse and keyboard?
 
-Yep, it's as easy as connecting a controller. The only potential issue would be lack of bindable hotkeys for mods.
-
-> Why don't Dragons burn away and turn to bones when I kill them?
-
-That's actually intended behaviour. If you dislike it, uncheck **Dragon Remains** in your mod order (27 MISCELLANEOUS).
+Yep, it should be as easy as connecting a controller. The only potential issue would be lack of bindable hotkeys for mods.
 
 ## General SSE Questions
 

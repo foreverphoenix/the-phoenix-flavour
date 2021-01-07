@@ -19,11 +19,11 @@ description: >
 * **Main Files:** Adamant - A Perk Overhaul
 * **Optional Files:** Adamantine Addons - Shrines and Amulets
 
-##### [Smithing Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246?tab=files)
+##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Smithing Perks Overhaul -- New Perk Tree
+* **Main Files:** More Expensive Transmute for Mysticism
 
 ##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
@@ -49,6 +49,19 @@ description: >
 
 * **Main Files:** Growl 2.3.0
 
+##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Trade and Barter SE
+
+##### [Trade and Barter - Mysticism and Adamant Patches](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Mysticism - Trade and Barter Patch
+* **Main Files:** Adamant - Trade and Barter Patch
+
 ##### [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612?tab=files)
 
 #### Download Instructions
@@ -70,6 +83,12 @@ description: >
 * **Optional Patches:**
   * ~~ROM - WMA Patch~~
 
+##### [Genuinely Intelligent Soul Traps (GIST)](https://www.nexusmods.com/skyrimspecialedition/mods/15755?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** GIST Soul Trap
+
 ##### [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
 
 #### Download Instructions
@@ -87,3 +106,9 @@ description: >
 * **Main:** Vanilla
 * **Covered Carriages Add-On:** ESL-flagged
 * **Lanterns Add-On:** ESL-flagged
+
+##### [Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch

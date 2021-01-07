@@ -119,12 +119,6 @@ description: >
 
 - **Main Files:**  Mannequin Slapper System
 
-##### [WoodElf - MaleHair - Fix](https://www.nexusmods.com/skyrimspecialedition/mods/9271?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** WoodElf - MaleHair - Fix
-
 ##### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files)
 
 #### Download Instructions

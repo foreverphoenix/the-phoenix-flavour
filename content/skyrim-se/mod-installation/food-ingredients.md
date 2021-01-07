@@ -119,13 +119,13 @@ description: >
 
 * **Main Files:** ElSopa HD - Briarheart Red 512
 
-##### [Rudy HQ - More Lights for ENB - Torchbugs and Moths](https://www.nexusmods.com/skyrimspecialedition/mods/22819?tab=files) (optional)
+##### [Rudy HQ - More Lights for ENB - Torchbugs and Moths](https://www.nexusmods.com/skyrimspecialedition/mods/22819?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Moths and Fireflys
 
-##### [Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs](https://www.nexusmods.com/skyrimspecialedition/mods/22705?tab=files) (optional)
+##### [Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs](https://www.nexusmods.com/skyrimspecialedition/mods/22705?tab=files)
 
 #### Download Instructions
 

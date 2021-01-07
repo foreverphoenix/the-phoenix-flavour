@@ -16,7 +16,7 @@ description: >
 * Click the green checkmark to confirm.
 * Double-click the new **Skyrim SE** profile.
 
-![Game Setup](/Pictures/enbseries/enb-game-setup.png)
+![Game Setup](/Pictures/skyrim-se/enbseries/enb-game-setup.png)
 
 ## ENBSeries Binaries
 
@@ -38,7 +38,7 @@ description: >
 * Click the green checkmark to confirm.
 * Delete the files from your **temp** directory.
 
-![Install ENB Binaries](/Pictures/enbseries/install-enb-binaries.png)
+![Install ENB Binaries](/Pictures/skyrim-se/enbseries/install-enb-binaries.png)
 
 ## Global INI Settings
 
@@ -58,4 +58,4 @@ description: >
 * Back in the **Global Configuration Files** window, check **enblocal.ini.**
 * Click the green checkmark to close the window.
 
-![Global INI Settings](/Pictures/enbseries/global-ini-settings.png)
+![Global INI Settings](/Pictures/skyrim-se/enbseries/global-ini-settings.png)

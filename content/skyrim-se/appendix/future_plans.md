@@ -6,6 +6,8 @@ description: >
   Upcoming features for The Phoenix Flavour.
 ---
 
+> This page has NOT been updated for 4.x yet.
+
 I am working on the guide in my free time of which I admittedly have plenty.
 
 - You can check my current to do list on Github [here](https://github.com/foreverphoenix/the-phoenix-flavour/projects/2).

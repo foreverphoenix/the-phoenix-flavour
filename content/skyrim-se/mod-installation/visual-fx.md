@@ -86,8 +86,8 @@ description: >
 
 * **Main Files:** Fire Halo Remover
 
-##### [Subtle Wind FX](https://www.nexusmods.com/skyrimspecialedition/mods/24395?tab=files)
+##### [Less Distracting Blowing Snow Effects for ENB Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36198?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Subtle Wind FX
+* **Main Files:** Less Distracting Blowing Snow Effects 1.0

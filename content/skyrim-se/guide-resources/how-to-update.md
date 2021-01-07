@@ -19,7 +19,7 @@ It is possible to update Mod Organizer 2 without affecting your setup if you lea
   - `profiles\`
   - `ModOrganizer.ini`
 
-![MO2 Before Update](/Pictures/guide-resources/mo2-before-update.png)
+![MO2 Before Update](/Pictures/skyrim-se/guide-resources/mo2-before-update.png)
 
 ### Install the new version
 
@@ -62,7 +62,7 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 - Click **OK**, close the MCM, and go into an interior cell (any house or cave will do).
 - Save and quit the game.
 
-![Deactivate DynDOLOD](/Pictures/guide-resources/deactivate-dyndolod.png)
+![Deactivate DynDOLOD](/Pictures/skyrim-se/guide-resources/deactivate-dyndolod.png)
 
 ### Resaving without DynDOLOD
 
@@ -95,7 +95,7 @@ In order to update, you need to replace the DLLs and executable in the **root** 
 - Open the folder and delete everything inside.
 - Double-click the **Data** folder inside the SKSE archive and drag the **Scripts** folder inside into the empty folder.
 
-![Update SKSE](/Pictures/guide-resources/update-skse.png)
+![Update SKSE](/Pictures/skyrim-se/guide-resources/update-skse.png)
 
 ## Adamant - A Perk Overhaul
 

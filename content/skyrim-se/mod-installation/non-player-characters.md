@@ -163,12 +163,8 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 - **Immersive Patrols Version:** Lite
 - **Patches:** No Merchants
 
-##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
+##### [Immersive Patrols - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Immersive College NPCs
-
-#### FOMOD Instructions
-
-* Change nothing and click **Install**.
+- **Main Files:** Immersive Patrols II Lite - Cathedral NPCs Facegen Patch

@@ -1,6 +1,6 @@
 ---
 title: "Combat & Encounters"
-weight: 27
+weight: 28
 type: docs
 description: >
   Mods to improve and diversify combat.
@@ -40,13 +40,19 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Realistic AI Detection 2 SE – Lite
+* **Main Files:** Realistic AI Detection 2 SE - Lite
 
 ##### [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Improved Traps (Dangerous Edition)
+
+##### [Improved Traps - Nether's Follower Framework Bear Trap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31868?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Improved Traps - Nether's Follower Framework Bear Trap Fix
 
 ##### [Disarming Traps Is Dangerous](https://www.nexusmods.com/skyrimspecialedition/mods/21691?tab=files)
 

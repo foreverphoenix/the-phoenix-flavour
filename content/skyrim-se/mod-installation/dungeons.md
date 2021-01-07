@@ -166,6 +166,12 @@ description: >
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
 
+##### [Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch
+
 ##### [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files)
 
 #### Download Instructions

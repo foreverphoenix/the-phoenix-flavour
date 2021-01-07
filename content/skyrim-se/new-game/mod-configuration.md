@@ -14,7 +14,7 @@ Stand still and wait until all messages have run through in the upper left corne
 
 Thanks to SkyUI, it is possible to configure most mods directly through their Mod Configuration Menu – or MCM for short – which you can access through the main menu. Hit **ESCAPE** and select **MCM**. See recommended changes for most of the guide’s MCMs below.
 
-![Initialisation complete](/Pictures/new_game/Initialisation_complete.jpg)
+![Initialisation complete](/Pictures/skyrim-se/new-game/initialisation-complete.jpg)
 
 ## A Matter of Time
 
@@ -23,51 +23,19 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
   - Untick **Show** for each module in the **General** tab to hide it until you are ready to customise it.
   - If you installed my personal AMOT preset, go to **Presets** and click **Load user settings** (see screenshot).
 
-![Load AMOT Preset](/Pictures/new_game/load_amot_preset.jpg)
+![Load AMOT Preset](/Pictures/skyrim-se/new-game/load-amot-preset.jpg)
 
 ## All Geared Up Derivative
 
 - In the **NPC** tab, check **Enable Weapons**.
 
-![AllGUD MCM](/Pictures/new_game/allgud_mcm.jpg)
+![AllGUD MCM](/Pictures/skyrim-se/new-game/allgud-mcm.jpg)
 
 ## Cathedral Weathers
 
 - Uncheck **Configuration Spell** (redundant when you can access the MCM).
 
-![Cathedral Weathers MCM](/Pictures/new_game/cw-mcm.jpg)
-
-## Complete Crafting (CCOR)
-
-#### Menu Filters (optional)
-
-* Under **Recipe Display** >> **Crafting Menu Filters**, disable:
-  * Crafting Categories
-  * Item Type Filters
-
-> While I think CCOR’s crafting menu filters are a great idea, I very much dislike their implementation and prefer to disable them entirely.
-
-### More Jewelry
-
-* Under **Crafting Options** >> **Additional Items**, disable:
-  * More Jewelry
-
-The added circlets would use vanilla models and textures, inconsistent with the vanilla cirlcets changed by JS Circlet Replacer.
-
-### Equipment Breakdown (optional)
-
-* Under **Crafting Options** >> **Breakdown Equipment**, disable:
-  * At Smelter
-  * At Tanning Rack
-
-> Equipment breakdown can throw off balancing since you get more crafting resources that way. I personally don’t like the feature at all.
-
-### Upgrading Leveled Items
-
-* Under **Miscellaneous** >> **Leveled Items**, disable:
-  * Upgrade via Crafting
-
-![CCOR MCM](/Pictures/new_game/ccor_crafting_optiosn.jpg)
+![Cathedral Weathers MCM](/Pictures/skyrim-se/new-game/cw-mcm.jpg)
 
 ## Diverse Dragons Collection
 
@@ -77,7 +45,7 @@ The added circlets would use vanilla models and textures, inconsistent with the 
 
 ## Follower Framework
 
-### NPC Behaviour
+### NPC Behaviour (optional)
 
 * Turn on the following options under **Activity** >> **Sandboxing**:
   * Ignore Special Furniture
@@ -85,6 +53,12 @@ The added circlets would use vanilla models and textures, inconsistent with the 
   * Only Sandbox In Town
 
 > My preferences. Optional.
+
+### Horse Whistle (optional)
+
+NFF features a bindable horse whistle hotkey which you can press to call the last ridden mount to your location.
+
+* Under **Activity** >> **Player Horse**, bind a **Call Player Horse Hotkey**.
 
 ### Regard System (optional)
 
@@ -102,11 +76,11 @@ The added circlets would use vanilla models and textures, inconsistent with the 
 
 * Under **System** >> **Core**, check the **Enable ConsoleUtil** option.
 
-## Genuinely Intelligent Soul Traps MCM
+## Genuinely Intelligent Soul Traps
 
 This mod - while focusing on bug fixes and soul gem multithreading - comes with some very nifty level requirement options. If you like, you can set level requirements for each of its special features as well as the for capturing of each tier of souls. Toggle and adjust this system in the **Leveling** tab.
 
-## Growl - Werebeasts of Skyrim MCM
+## Growl - Werebeasts of Skyrim
 
 * Toggle on **Invulnerable During Transformation**.
 
@@ -123,7 +97,7 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 
 > If you installed A Matter of Time, this will link the clock widget to the HUD so that it gets toggled alongside the other components (such as the compass). 
 
-![iHUD link widgets](/Pictures/new_game/ihud_link_widgets.jpg)
+![iHUD link widgets](/Pictures/skyrim-se/new-game/ihud-link-widgets.jpg)
 
 ## moreHUD
 
@@ -133,15 +107,7 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
 
 > These only clutter up the interface in my opinion. You can also disable Health numbers if you like.
 
-![moreHUD MCM](/Pictures/new_game/morehud_mcm.jpg)
-
-## Relationship Dialogue Overhaul
-
-* Under **Other Options** >> **Toggle NPCs**, disable:
-  * Allow RDO Added Followers
-  * Allow Terek
-
-![Relationship Dialogue Overhaul MCM](/Pictures/new_game/rdo_mcm.jpg)
+![moreHUD MCM](/Pictures/skyrim-se/new-game/morehud-mcm.jpg)
 
 ## Realistic Water Two
 
@@ -149,7 +115,15 @@ This mod - while focusing on bug fixes and soul gem multithreading - comes with 
   * Kynesgrove
   * Rorikstead
 
-![Realistic Water 2 MCM](/Pictures/new_game/rwt_mcm.jpg)
+![Realistic Water 2 MCM](/Pictures/skyrim-se/new-game/rwt-mcm.jpg)
+
+## Storm Lightning
+
+By default, the lightning storms with this mod are pretty intense. I'd suggest changing to a different preset (above "default") to tone them down a little.
+
+- Under **Presets**, select any one on one of the options.
+
+![Storm Lightning MCM](/Pictures/skyrim-se/new-game/storm-lightning-mcm.jpg)
 
 ## Timing Is Everything
 
@@ -157,18 +131,28 @@ Another large MCM, and one you should configure now, at the start of the game as
 
 Thanks to the FISSES support, it is also possible to load, save and share custom presets through the MCM (**Extra Options** tab).
 
+## Trade & Barter
+
+- Under **Barter Rates** >> **Settings**, check the **Modify Barter Settings** box.
+
+![Trade and Barter MCM](/Pictures/skyrim-se/new-game/trade-barter-mcm.jpg)
+
 ## Wonders of Weather
 
-* Under **Rainsplashes**, set **Level** to **Disabled** to disable the effect.
+* Under **Rainsplashes**, set **Level** to **Disabled** to turn the effect off.
 
 > This is done to prevent CTDs.
+
+![Wonders of Weather MCM](/Pictures/skyrim-se/new-game/wow-mcm.jpg)
 
 ## Starting the game
 
 Once you’re done configuring everything, save the game manually. Then talk to the Statue of Mara, select one of the options and interact with the bed in the corner to truly start your playthrough.
 
-As for the options, going with the `vanilla start` is entirely possible but you can also choose the `I am camping in the woods` option for a faster alternative that drops you in the same region but skips the cart ride and execution sequence. It is NOT recommended that you choose the `vampire lair` option as that has been known to cause issues with Sacrosanct.
+As for the options, going with the `vanilla start` is entirely possible but you can also choose the `I am camping in the woods` option for a faster alternative that drops you in the same region but skips the cart ride and execution sequence. It is NOT recommended that you choose the `vampire lair` option as that has been known to cause issues with vampire mods.
+
+> For the best experience **I recommend the vanilla start** as it is impossible to balance all the various options that AS LAL offers.
 
 **Good luck and have fun!**
 
-![Select game start](/Pictures/new_game/select_game_start.jpg)
+![Select game start](/Pictures/skyrim-se/new-game/select-game-start.jpg)
