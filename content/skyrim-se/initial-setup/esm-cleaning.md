@@ -101,4 +101,4 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 ---
 
-#### Continue with the [Instructions](https://thephoenixflavour.com/skyrim-se/mod-installation/01-instructions/) page.
+#### Continue with the [Instructions](/skyrim-se/mod-installation/01-instructions/) page.

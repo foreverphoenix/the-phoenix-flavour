@@ -79,4 +79,4 @@ The Creation Kit installation includes a **Scripts.zip** which contains the sour
 
 ---
 
-#### Continue with the [Mod Organizer 2](https://thephoenixflavour.com/skyrim-se/initial-setup/mod-organizer-2/) page.
+#### Continue with the [Mod Organizer 2](/skyrim-se/initial-setup/mod-organizer-2/) page.

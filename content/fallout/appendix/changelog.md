@@ -26,10 +26,10 @@ description: >
 
 #### Website Changes
 
-- [Finalisation](https://thephoenixflavour.com/fallout/installation/finalisation/): Added this new page and moved the game resolution instructions here.
-- [Finalisation](https://thephoenixflavour.com/fallout/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
-- [New Game](https://thephoenixflavour.com/fallout/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
-- [New Game](https://thephoenixflavour.com/fallout/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
+- [Finalisation](/fallout/installation/finalisation/): Added this new page and moved the game resolution instructions here.
+- [Finalisation](/fallout/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
+- [New Game](/fallout/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
+- [New Game](/fallout/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
 
 ## Release 1.1
 
@@ -48,8 +48,8 @@ description: >
 
 #### Website Changes
 
-- [Wabbajack](https://thephoenixflavour.com/fallout/installation/wabbajack/): Added new section on how change the game resolution.
-- [Troubleshooting](https://thephoenixflavour.com/fallout/appendix/troubleshooting/): Added this page with a few known issues.
+- [Wabbajack](/fallout/installation/wabbajack/): Added new section on how change the game resolution.
+- [Troubleshooting](/fallout/appendix/troubleshooting/): Added this page with a few known issues.
 
 ## Release 1.0.1
 

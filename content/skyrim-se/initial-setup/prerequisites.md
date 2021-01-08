@@ -93,4 +93,4 @@ The Microsoft Visual C++ Redistributable is a basic package required by Mod Orga
 
 ---
 
-#### Continue with the [Skyrim and Steam](https://thephoenixflavour.com/skyrim-se/initial-setup/skyrim-and-steam/) page.
+#### Continue with the [Skyrim and Steam](/skyrim-se/initial-setup/skyrim-and-steam/) page.

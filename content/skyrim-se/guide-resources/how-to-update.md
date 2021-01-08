@@ -44,7 +44,7 @@ In order to update CAO without removing the custom TPF profiles, simply do the f
 - Navigate to `Your Modding Folder\Tools\BethINI` and delete everything inside that folder.
 - Download the latest version of BethINI from the Nexus.
 - Open the archive and extract everything into the now empty BethINI folder.
-- Re-generate your INI files ([instructions here](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/)).
+- Re-generate your INI files ([instructions here](/skyrim-se/guide-resources/various-tutorials/)).
 
 ## DynDOLOD
 
@@ -72,11 +72,11 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 ### Updating DynDOLOD
 
 - Download the **DynDOLOD Resources SE** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page through MO2.
-- Re-install it ([FOMOD instructions are here](https://thephoenixflavour.com/skyrim-se/mod-installation/06-graphics-baseline/)) and **Replace** the existing installation when prompted.
+- Re-install it ([FOMOD instructions are here](/skyrim-se/mod-installation/06-graphics-baseline/)) and **Replace** the existing installation when prompted.
 - Navigate to `Your Modding Folder\Tools\DynDOLOD` and delete everything inside the folder.
 - Download the **DynDOLOD** main file [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page manually.
 - Open the archive and extract everything into the now empty **DynDOLOD** folder.
-- Go back to the [DynDOLOD](https://thephoenixflavour.com/skyrim-se/finalisation/04-dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
+- Go back to the [DynDOLOD](/skyrim-se/finalisation/04-dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
 - After regenerating TexGen and DynDOLOD, load your save, and continue your playthrough!
 
 > Since the folder wasn't changed, there is no need to update the file paths to the TexGen and DynDOLOD executables in MO2. They are still the same.

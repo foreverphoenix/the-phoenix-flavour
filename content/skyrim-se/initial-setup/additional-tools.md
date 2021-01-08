@@ -86,4 +86,4 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 
 ---
 
-#### Continue with the [ESM Cleaning](https://thephoenixflavour.com/skyrim-se/initial-setup/esm-cleaning/) page.
+#### Continue with the [ESM Cleaning](/skyrim-se/initial-setup/esm-cleaning/) page.
