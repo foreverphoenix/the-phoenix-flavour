@@ -66,7 +66,7 @@ Occasionally you will be instructed to download multiple files from the same pag
 
 ### Basic Instructions
 
-Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](https://thephoenixflavour.com/skyrim-se/guide-resources/basic-instructions/) page (keep it open in a separate tab).
+Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](/skyrim-se/guide-resources/basic-instructions/) page (keep it open in a separate tab).
 
 The linked page includes detailed instructions for the following operators:
 

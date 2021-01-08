@@ -41,4 +41,4 @@ Should anything go wrong during the installation process, please find the **Wabb
 
 ---
 
-#### Continue with the [Finalisation](https://thephoenixflavour.com/fallout/installation/finalisation/) page.
+#### Continue with the [Finalisation](/fallout/installation/finalisation/) page.

@@ -138,4 +138,4 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 
 ---
 
-#### Continue with the [Wabbajack](https://thephoenixflavour.com/fallout/installation/wabbajack/) page.
+#### Continue with the [Wabbajack](/fallout/installation/wabbajack/) page.
