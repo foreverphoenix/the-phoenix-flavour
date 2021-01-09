@@ -82,7 +82,7 @@ description: >
 
  > The gate retexture included with **Noble Skyrim** looks much better.
 
-##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42643)
+##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
 
 #### Download Instructions
 
