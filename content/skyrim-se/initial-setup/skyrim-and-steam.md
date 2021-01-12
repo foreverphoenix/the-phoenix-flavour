@@ -119,4 +119,4 @@ Since disabling the Steam Overlay will also prevent you from taking screenshots 
 
 ---
 
-#### Continue with the [Creation Kit](https://thephoenixflavour.com/skyrim-se/initial-setup/the-creation-kit/) page.
+#### Continue with the [Creation Kit](/skyrim-se/initial-setup/the-creation-kit/) page.

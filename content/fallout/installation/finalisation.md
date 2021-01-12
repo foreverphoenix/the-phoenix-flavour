@@ -81,8 +81,8 @@ iSize W=3840
 
 ### 21:9 - 1080p or 1440p
 
-Please refer to the [Ultrawide Support](https://thephoenixflavour.com/fallout/customisation/ultrawide/) page.
+Please refer to the [Ultrawide Support](/fallout/customisation/ultrawide/) page.
 
 ---
 
-#### Continue with the [New Game](https://thephoenixflavour.com/fallout/installation/new-game/) page.
+#### Continue with the [New Game](/fallout/installation/new-game/) page.

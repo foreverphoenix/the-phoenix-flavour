@@ -120,4 +120,4 @@ Continue with the eighth tab, **Visuals**.
 
 ---
 
-#### Continue with the [Additional Tools](https://thephoenixflavour.com/skyrim-se/initial-setup/additional-tools/) page.
+#### Continue with the [Additional Tools](/skyrim-se/initial-setup/additional-tools/) page.

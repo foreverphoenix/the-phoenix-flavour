@@ -107,7 +107,7 @@ description: >
 - **Miscellaneous Files:** Green Ivy - 2K
 - **Miscellaneous Files:** Swamp Fungal Pod - 2K
 
-##### [Sufficiently Optimised Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/40255?tab=files)
+##### [Sufficiently Optimised Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033?tab=files)
 
 #### Download Instructions
 

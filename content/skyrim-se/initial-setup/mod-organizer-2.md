@@ -161,4 +161,4 @@ Deorder's **Sync Mod Order** MO2 plugin allows you to update one profile's mod o
 
 ---
 
-#### Continue with the [Skyrim Script Extender](https://thephoenixflavour.com/skyrim-se/initial-setup/skyrim-script-extender/) page.
+#### Continue with the [Skyrim Script Extender](/skyrim-se/initial-setup/skyrim-script-extender/) page.

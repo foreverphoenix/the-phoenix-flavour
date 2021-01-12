@@ -450,7 +450,7 @@ I've also finally gotten around to fixing up some [personal tweaks](https://www.
 
 - Fixed conflicts between Open Face Guard Helmets and WACCF.
 - Fixed conflicts between Better Shrouded Armor - Ancient Replacer Only, WACCF, and Unique Item Tweaks.
-- **Updated for Adamant 4.0.4**. Updating instructions [here](https://thephoenixflavour.com/skyrim-se/guide-resources/how-to-update/).
+- **Updated for Adamant 4.0.4**. Updating instructions [here](/skyrim-se/guide-resources/how-to-update/).
 
 ## Release 3.4.2
 

@@ -139,6 +139,8 @@ description: >
 
 * **Optional Files:** MAIN FILE _ version 2
 
+#### Porting Instructions
+
 * Run the mod through SSE NIF Optimizer.
 
 ##### [Ghosu’s Auriel’s Quiver Retexture](https://www.nexusmods.com/skyrim/mods/58218?tab=files)
@@ -147,6 +149,8 @@ description: >
 
 * **Main Files:** Ghosus Auriels Quiver Retexture corrected 1k
 * **Optional Files:** Mesh for my HD Retexture of the arrows >> `merge with the main file`
+
+#### Porting Instructions
 
 * Run the mod through SSE NIF Optimizer.
 

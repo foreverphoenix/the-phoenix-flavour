@@ -54,7 +54,7 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 - Double-click **Autorun Console Commands** in your mod order.
 - Switch to the **Text Files** tab and select the **Autorun.txt**.
 - Add the following line:
-  - `Set GDOMemes to 0`
+  - `set GDOMemes to 0`
 - Close the window and click **Yes** when prompted to save your changes.
 
 > By default, the "curved swords" line will play only until after the Alik'r quest, and the other three lines will no longer play in any hold that the player has become Thane of.

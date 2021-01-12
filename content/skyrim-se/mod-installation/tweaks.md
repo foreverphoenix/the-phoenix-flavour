@@ -14,15 +14,9 @@ description: >
 
 #### FOMOD Instructions
 
-- **Versions:** Dwemer Only USSEP
-
-#### Additional Instructions
-
-- Double-click **Dwemer Gates Don't Reset** in your mod order.
-- Switch to the **Filetree** tab and rename the plugin to:
-  - DwemerGatesNoRelock.**esp**
-
-> Turning the ESL into an ESP-FE allows us to manipulate its position in the load order.
+- **Versions:** Dwemer Only
+- **USSEP:** USSEP
+- **Plugin Type:** ESP-FE
 
 ##### [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files)
 

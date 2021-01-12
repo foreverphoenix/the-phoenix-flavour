@@ -67,4 +67,4 @@ If on the main page for SKSE there is a different version number than the one no
 
 ---
 
-#### Continue with the [INI Files](https://thephoenixflavour.com/skyrim-se/initial-setup/ini-files/) page.
+#### Continue with the [INI Files](/skyrim-se/initial-setup/ini-files/) page.

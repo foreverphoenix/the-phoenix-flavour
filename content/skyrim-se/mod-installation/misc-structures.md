@@ -13,7 +13,7 @@ description: >
 * **Main Files:** 2k Farmhouse Fences SE Version 2
 * **Optional Files:** 2k Slightly Desaturated Version 2 Deffuse >> `merge with the main file`
 
-##### [True Nordic Farmhouses - SD's Famrhouse Fences Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files)
+##### [True Nordic Farmhouses - SD's Farmhouse Fences Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files)
 
 #### Download Instructions
 

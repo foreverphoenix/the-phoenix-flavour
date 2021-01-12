@@ -27,11 +27,11 @@ One possible cause would be installing Simply Knock and accidentally skipping th
 
 #### Skyrim LE BSA
 
-Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/).
+Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/).
 
 #### INI Files
 
-If none of the above helped, try regenerating your INI files from scratch. There are instructions under [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/).
+If none of the above helped, try regenerating your INI files from scratch. There are instructions under [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/).
 
 ## Main menu music is playing but the screen is black.
 
@@ -53,4 +53,4 @@ If the main menu won't load, your load order is messed up, or you aren't using t
 
 #### Playing at a resolution higher than 1080p.
 
-You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](https://thephoenixflavour.com/skyrim-se/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.
+You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.

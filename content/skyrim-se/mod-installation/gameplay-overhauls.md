@@ -17,7 +17,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Adamant - A Perk Overhaul
-* **Optional Files:** Adamantine Addons - Shrines and Amulets
+* **Optional Files:** Adamant Addons - Shrines and Amulets
 
 ##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
 

@@ -91,7 +91,7 @@ In addition to MO2, we will routinely utilise the official Creation Kit as well 
 
 The Phoenix Flavour is far from the only modding guide for Skyrim SE. However, the term "modding guide" itself is used quite liberately in the community with many small mod lists being referred to as such. These are often written by inexperienced people and lack crucial features such as custom patches or certain essential mods.
 
-Unequivocally recommended by us is [Lexy's Legacy of the Dragonborn](https://lexyslotd.com/). For more information on this and other guides, please check out my [brief overview over existing modding guides](https://thephoenixflavour.com/skyrim-se/guide-resources/modding-guides/) which lists recommended guides as well as some that should be avoided at all costs.
+Unequivocally recommended by us is [Lexy's Legacy of the Dragonborn](https://lexyslotd.com/). For more information on this and other guides, please check out my [brief overview over existing modding guides](/skyrim-se/guide-resources/modding-guides/) which lists recommended guides as well as some that should be avoided at all costs.
 
 ### TPF Forks
 
@@ -137,4 +137,4 @@ In summary: Hardware requirements for 2K and especially 4k are considerable and 
 
 On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
 
-#### Get started with the [Prerequisites](https://thephoenixflavour.com/skyrim-se/initial-setup/prerequisites/) page.
+#### Get started with the [Prerequisites](/skyrim-se/initial-setup/prerequisites/) page.
