@@ -86,7 +86,7 @@ description: >
 
 #### FOMOD Instructions
 
-* **Choose:** Full install
+* **Choose:** Vanilla only
 * **Resolution:** Low: 512
 
 ##### [Hvergelmir’s Aesthetics - Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067?tab=files)
