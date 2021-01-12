@@ -32,11 +32,9 @@ description: >
 
 #### Mod Installation
 
-- Split the mod installation section up into five parts.
 - Updated many download instructions (incremented version numbers mostly).
 - Removed all (optional) and (conditional) flags.
 - Added instructions to merge additional files with the main file for many mods.
-- Removed ENB Lights page. Mods from that page were moved to other pages with the exception of ENB Lights which was removed.
 - **Installation Instructions**: Removed all references to optional mods which are no longer a thing.
 - **Essential Mods**: Added instructions to UHDAP on how to download with a slow internet connection.
 - **Essential Mods:** Added Disable USSEP Book.
@@ -107,7 +105,7 @@ description: >
 - **Dungeons:** Removed instructions to delete textures/effects folder from Rudy HQ - Nordic Ruins.
 - **Dungeons:** Added Dwemer Ichor Barrel 2K.
 - **Dungeons:** Moved ENB Particle Lights - Dwemer Lanterns here.
-- **Dungeons:** Added ENB Partile Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
+- **Dungeons:** Added ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Moved Rudy HQ - More Lights for ENB - Bthardamz here.
 - **Dungeons:** Added Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
 - **Dungeons:** No longer selecting the Hearthfire Patch in the CC's Enhanced Ore Veins FOMOD.
@@ -289,7 +287,7 @@ description: >
 - **Utilities**: Removed the FISSES ESL-ified Patch.
 - **Utilities**: Removed Copy and Paste in Console.
 
-### ENBSeries
+#### ENBSeries
 
 - **Preset Installation:** Updated instructions for Rudy ENB 2.0.
 - **Other Presets:** Slightly updated some sections of this page to be consistent with other 4.0 changes.
