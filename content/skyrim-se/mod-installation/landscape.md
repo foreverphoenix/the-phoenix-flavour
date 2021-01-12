@@ -11,7 +11,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** 1. Majestic Mountains Main File
-* **Optional Files:** Lod Pack for SSELodGen xLodGen (all versions)
+* **Optional Files:** Lod Pack for DynDoLod (all versions)
 
 #### FOMOD Instructions - Main File
 

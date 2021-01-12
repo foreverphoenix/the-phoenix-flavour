@@ -66,7 +66,7 @@ description: >
 - **Trees & Plants:** Added Rudy HQ - More Lights for ENB - Glowing Mushrooms.
 - **Trees & Plants:** Added High Poly Gleamblossoms.
 - **Landscape:** Slightly changed the order of mods (update Mod Order in MO2 accordingly).
-- **Landscape:** Updated download instructions for Majestic Mountains (now downloading the DynDOLOD / LOD Gen LOD Pack).
+- **Landscape:** Updated download instructions for Majestic Mountains (now downloading the DynDOLOD LOD Pack).
 - **Landscape:** Updated FOMOD instructions for Majestic Mountains.
 - **Landscape:** Added Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon.
 - **Landscape:** Cathedral Landscape - Windhelm Snow Bridge Fix.
