@@ -44,4 +44,4 @@ The most comprehensive widescreen fix mod for Fallout 4, TruBy9 Ultrawide, is al
 
 ---
 
-#### Continue with the [New Game](https://thephoenixflavour.com/fallout/installation/new-game/) page.
+#### Continue with the [New Game](/fallout/installation/new-game/) page.

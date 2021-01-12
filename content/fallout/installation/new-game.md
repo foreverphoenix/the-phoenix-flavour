@@ -36,7 +36,7 @@ Of course you are not required to use the same keybinds as me. Keybinds can also
 
 Shortly after the character creation, you will get a prompt which is added by the mod **Start Me Up**. You will be asked whether you want to "relive the memory", giving you the option to skip the prologue. Do not select this option if you never played Fallout 4 before, you are going to miss some important things.
 
-If you want to play the regular Fallout 4 intro (highly recommended), click "This is a memory. Let's stay here a while" and the prologue will play out as usual. Proceed to the [Mod Configuration](https://thephoenixflavour.com/fallout/installation/mod-configuration/) page after exiting the vault.
+If you want to play the regular Fallout 4 intro (highly recommended), click "This is a memory. Let's stay here a while" and the prologue will play out as usual. Proceed to the [Mod Configuration](/fallout/installation/mod-configuration/) page after exiting the vault.
 
 ### Start Me Up
 
@@ -60,4 +60,4 @@ Play through the intro as usual and continue with the **Mod Configuration** sect
 
 ---
 
-#### Continue with the [Mod Configuration](https://thephoenixflavour.com/fallout/installation/mod-configuration/) page.
+#### Continue with the [Mod Configuration](/fallout/installation/mod-configuration/) page.

@@ -40,4 +40,4 @@ Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable.
 
 ---
 
-#### Continue with the [Fallout 4](https://thephoenixflavour.com/fallout/installation/fallout-4/) page.
+#### Continue with the [Fallout 4](/fallout/installation/fallout-4/) page.
