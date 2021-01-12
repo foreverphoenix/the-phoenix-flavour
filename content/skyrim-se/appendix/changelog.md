@@ -284,6 +284,7 @@ description: >
 - **Sounds & Music:** Removed OMINOUS Dragon Soul Absorb Music.
 - **Sounds & Music:** Removed the TPF Merged Music Patch (now part of the main CRP).
 - **Skeletons & Animation:** Replaced FNIS with Nemesis Ultimate Behaviour Engine.
+- **Skeletons & Animation:** Replaced XPMSSE Automated Patcher with a direct link to the fixed scripts.
 - **Utilities**: Removed the FISSES ESL-ified Patch.
 - **Utilities**: Removed Copy and Paste in Console.
 

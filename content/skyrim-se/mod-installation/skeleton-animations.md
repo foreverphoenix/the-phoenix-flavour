@@ -45,22 +45,11 @@ description: >
 * **Deadly Mutilation:** None
 * **Enderal:** None
 
-##### [XPMSSE Fixes - Automated Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
-
-*Like many mod authors, Groovtama does not allow anyone to upload modified versions of his mod, XP32 Maximum Skeleton. At the same time he unfortunately refuses to fix some bugs in his mod so we will have to do that ourselves for our own copies of the mod. Instructions were posted [here](https://www.nexusmods.com/skyrim/articles/52373) by Kriffin, the author of All Geared Up Derivative which is the source for Umgak's automated patcher. To clarify, you do not need to follow the linked instructions, the patcher does it all for you.*
+##### [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** XPMSSE Fixes - Automated Patcher >> `download the file manually`
-
-#### Additional Instructions
-
-- Find **XP32 Maximum Skeleton Special Extended** in your mod order.
-- Right-click it and select **Open in Explorer**.
-- Double-click the **scripts** folder.
-- Open the downloaded archive and extract all files into this folder.
-- Double-click **patch-xpmse.bat** to start the process of applying the delta patch.
-- The patcher will delete itself when it's done.
+- **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
 ##### [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
 
