@@ -162,7 +162,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Snow SE v3.2
+* **Main Files:** Better Dynamic Snow SE v3.3
 
 #### FOMOD Instructions
 
