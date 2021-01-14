@@ -233,7 +233,6 @@ description: >
 - **Balancing:** Removed Zim's Immersive Artifacts (mostly covered by ROM now).
 - **Balancing:** Removed Unique Items Tweaks (might be re-added later).
 - **Crafting & New Gear:** This is basically the old Balancing step - but quite different.
-- **Crafting & New Gear:** Added Smithing Perk Overhaul.
 - **Crafting & New Gear:** Added Lightweight Smithing Tweaks.
 - **Crafting & New Gear:** Added Faster Mining Plus.
 - **Crafting & New Gear:** Added Craftable Torches.

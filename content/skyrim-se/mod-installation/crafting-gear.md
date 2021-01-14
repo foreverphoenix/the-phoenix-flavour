@@ -42,12 +42,6 @@ description: >
   - WACCF Patch
   - ~~Visual Animated Enchants Patch~~
 
-##### [Smithing Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Smithing Perks Overhaul -- New Perk Tree
-
 ##### [Lightweight Smithing Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43441?tab=files)
 
 #### Download Instructions
