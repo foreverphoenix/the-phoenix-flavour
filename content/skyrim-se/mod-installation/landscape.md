@@ -221,7 +221,7 @@ description: >
 
 #### FOMOD Instructions
 
-* **Patches:** Rorikstead Basalt Cliffs + Alternate Start - Live Another Life + Landscape Fixes for Grass Mods
+* **Patches:** RBC + ArthRorik + AS LAL + LFFGM
 
 ##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
 
