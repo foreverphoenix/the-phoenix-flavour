@@ -47,7 +47,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Lightweight Smithing Tweaks
-- **Optional Files:** Lightweight Smithing Tweaks - Adamant Patch
 
 ##### [Faster Mining Plus](https://www.nexusmods.com/skyrimspecialedition/mods/2656?tab=files)
 
