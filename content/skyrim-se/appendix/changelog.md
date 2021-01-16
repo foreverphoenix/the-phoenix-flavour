@@ -76,6 +76,7 @@ description: >
 - **Landscape:** Removed manual edit from RW2 (no longer necessary after updating mod order).
 - **Landscape:** Added Bright Waterfall Fix for ENB.
 - **Landscape:** Updated FOMOD instructions for Better Dynamic Snow.
+- **Landscape:** Updated FOMOD instructions for Rorikstead Basalt Cliffs Patches.
 - **Landscape:** Removed Better Dynamic Majestic Mountains.
 - **Landscape:** Removed Manor Roads (looks ugly).
 - **Worldspace Additions:** Added this new page.
