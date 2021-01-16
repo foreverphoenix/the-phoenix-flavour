@@ -85,6 +85,12 @@ description: >
 
 - **Main Files:** Tweaks for WACCF and ACE
 
-##### aMidianborn Content Addon - Un-CCOR-ified
+##### [aMidianBorn Armor Variants Lite](https://mega.nz/file/5VViBThR#RhdtoTIzK9plp1A91ty0C6ZWTzW_aZ1iE6qmKnd1nIU)
 
-*Not available for the manual guide as I do not have sharing permissions for my edited plugin. Only included with Wabbajack. Sorry.*
+- **Main Files:** aMidianBorn Armor Variants Lite
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Weapons Armor Clothing and Clutter Fixes Patch
+  - Enchanting Adjustments Patch

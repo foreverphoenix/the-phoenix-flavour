@@ -42,18 +42,6 @@ description: >
 
 * **Main Files:** UIExtensions v1-2-0
 
-#### Additional Instructions
-
-* Run SSEEdit through Mod Organizer 2.
-* Click **OK** in the plugin selection window to load all plugins.
-* Wait for the mods to be loaded up before you proceed.
-* Right-click **UIExtensions.esp** in the left pane and select **Add Masters**.
-* Check **Skyrim.esm** and click **OK**.
-* Click **Yes, I’m sure** when the warning pops up.
-* Close SSEEdit and click **OK** to save your changes.
-
-> The plugin had no masters assigned to it which can cause errors. Every plugin needs to have at least Skyrim.esm as a master.
-
 ##### [ConsoleUtils](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
 
 #### Download Instructions

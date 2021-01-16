@@ -131,3 +131,9 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Musical Lore V1.2
+
+#### [Phoenix - Merged Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+
+### Download Instructions
+
+- **Main Files:** Phoenix - Merged Music Patch
