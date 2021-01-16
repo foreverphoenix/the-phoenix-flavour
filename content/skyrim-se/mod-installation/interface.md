@@ -12,18 +12,6 @@ description: >
 
 - **Main Files:** SkyUI_5_2_SE
 
-#### Additional Instructions
-
-- Run SSEEdit through Mod Organizer 2.
-- Click **OK** in the plugin selection window to load all plugins.
-- Wait for your mods to be loaded up before you proceed.
-- Right-click **SkyUI_SE.esp** in the left pane and select **Add Masters**.
-- Check **Skyrim.esm** and click **OK**.
-- Click **Yes, I’m sure** when the warning comes up.
-- Close SSEEdit and click **OK** to save your changes.
-
-> The plugin had no masters assigned to it which causes errors. Every plugin needs to have at least Skyrim.esm as a master.
-
 ##### [Fix Note Icon for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files)
 
 #### Download Instructions
