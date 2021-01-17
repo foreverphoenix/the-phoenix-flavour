@@ -241,7 +241,7 @@ description: >
 - **Crafting & New Gear:** Moved Armor and Clothing Extension here.
 - **Crafting & New Gear:** Moved Armor and Clothing Extension (WACCF) - MCM Menu Fix here.
 - **Crafting & New Gear:** Added Tweaks for WACCF and ACE.
-- **Crafting & New Gear:** The AMB Content Addon is now only available with Wabbajack. I have no permissions to share my edited plugin.
+- **Crafting & New Gear:** Added aMidianBorn Armor Variants Lite
 - **New Gear:** Removed this step and all mods remaining here.
 - **New Gear:** Removed Weapon Armor Clothing and Clutter Fixes - CBBE Patch.
 - **New Gear:** Removed Common Clothes and Armors (may be re-added in the future).
@@ -285,6 +285,7 @@ description: >
 - **Sounds & Music:** Removed the TPF Merged Music Patch (now part of the main CRP).
 - **Skeletons & Animation:** Replaced FNIS with Nemesis Ultimate Behaviour Engine.
 - **Skeletons & Animation:** Replaced XPMSSE Automated Patcher with a direct link to the fixed scripts.
+- **Skeletons & Animation:** Added AllGUD Conditions Fix
 - **Utilities**: Removed the FISSES ESL-ified Patch.
 - **Utilities**: Removed Copy and Paste in Console.
 
