@@ -8,7 +8,7 @@ description: >
 
 ## Installation directory
 
-In order to ensure that your Fallout 4 installation is pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously as left-over files might interfere with your TPF FO4 installation.
+In order to ensure that your Fallout 4 installation is pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously as left-over files might interfere with your WTP installation.
 
 ### UAC protected folders
 
@@ -131,7 +131,7 @@ Bethesda published a free 55GB texture pack with upscaled 4K textures that are n
 
 ## Creation Club Content
 
-If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they will have been re-downloaded alongside the game. Wabbajack lists do not typically support Creation Club content so you should remove the files from your **Data** folder for the time being.
+If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they may still be present in your Data folder. Since WTP does not currently support Creation Club content you need to remove the files from your **Data** folder for the time being.
 
 - Navigate to `steamapps\common\Fallout4\Data` and cut (CTRL + X) all files starting with **cc**.
 - Paste (CTRL + V) all files to `Fallout 4 Modding\Backups\Creation Club`.

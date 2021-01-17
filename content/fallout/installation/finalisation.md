@@ -6,37 +6,31 @@ description: >
   Final steps.
 ---
 
-## Frame Rate and VSYNC
-
-One of the Creation Engine's drawbacks is the physics engine being tied to the frame rate. Simply put, the game breaks if it runs at more than 60FPS. There is a mod that allows you to unlock the frame rate by dynamically adjusting havok settings at runtime; however, most people are unlikely to get above 60FPS consistently anyway which is why TPF Fallout 4 does not include this mod. This means you have to **cap the frame rate to 60FPS**.
-
-Additionally, you will need to force **VSYNC** in order to prevent [screentearing](https://en.wikipedia.org/wiki/Screen_tearing). By default, the game's inbuilt VSYNC is disabled in the TPF Fallout 4 INI files as it tends to be more of a performance hit than forcing VSYNC by other means would. Some monitors feature the G-Sync or FreeSync technologies which automatically force VSYNC in fullscreen applications.
-
-### NVIDIA Inspector
-
-My personal go-to method of capping the framerate is the NVIDIA Inspector which obviously only works if you have an NVIDIA GPU. AMD users might be able to achieve the same effect through RivaTuner. As for forcing VSYNC, this can be done through NVIDIA Inspector as well if your monitor does not feature G-Sync or FreeSync.
-
-- Download and install [NVIDIA Inspector](https://www.guru3d.com/files-details/nvidia-inspector-download.html).
-- Open the program and click the little icon next to **Driver Version** to open the profile settings.
-
-![Open profile settings](/Pictures/fallout/installation/nvidia-inspector.png)
-
-- Select **Fallout 4** from the Profiles drop-down menu at the top.
-- Under **Sync and Refresh**, change the following:
-  - Set Frame Rate Limiter to **60 FPS**
-  - Set Vertical Sync to **Force on** (if your monitor does NOT feature G-Sync / FreeSync)
-- Click **Apply changes** and close the profile settings window.
-
-> Note that clean-installing your GPU driver will reset all profiles in which case you need to re-do this step.
-
-![NVIDIA Inspector Profile](/Pictures/fallout/installation/nvidia-inspector-profile.png)
-
 ## Mod Organizer 2
 
 All mods are installed in Mod Organizer 2 which is required to play the setup. I recommend adding the MO2 executable to your taskbar or creating a shortcut on your Desktop for easy access. 
 
 - Navigate to your TPF Fallout 4 installation directory.
 - Double-click **ModOrganizer.exe**.
+
+## Frame Rate and VSYNC
+
+One of the Creation Engine's drawbacks is the physics engine which is tied to the frame rate. Simply put, the game breaks if it runs at more than 60FPS. There is a mod that allows you to unlock the frame rate by dynamically adjusting havok settings at runtime, aptly called **High FPS Physics Fix**. WTP includes this mod as well as four pre-configured INI files of which you need to enable one.
+
+The profiles allow any combination of **FPS cap** and **VSYNC** settings.
+
+- **FPS** or frames per second is how the amount of still images shown every second are measured. The higher your FPS, the more fluid the game appears. The amount of frames per second that can be rendered depend on your hardware, primarily your CPU and GPU. In my opinion, a stable 60FPS is perfect for most games, including Fallout 4. Most systems should be able to achieve a consistent 60FPS in WTP.
+- **VSYNC** is a technique that syncs a game's framerate to your monitor's refresh rate (hence the name). Enabling VSYNC prevents [screentearing](https://en.wikipedia.org/wiki/Screen_tearing) at the cost of latency and is always recommended. However, if your monitor supports G-Sync or FreeSync, you do not need to enable VSYNC by other means. G-Sync and FreeSync are advanced VSYNC methods applied globally to all fullscreen applications.
+
+In Mod Organizer 2, you can see the **HIGH FPS PHYSICS FIX** section near the top of the mod order (left pane). The main mod is already checked, but you need to enable one of the **Pre-made INIs** as well. To figure out which profile you want, you need to consider your hardware:
+
+- If your monitor **does not support G-Sync / FreeSync:** Check one of the `VSYNC` profiles.
+- If your monitor **supports G-Sync / FreeSync:** Check one of the `No VSYNC` profiles.
+- Whether to **cap** or **uncap** FPS comes down to personal taste. Personally, I prefer to cap at 60 FPS.
+
+>> You must always have one profile checked.
+
+![High FPS Physics Fix Profiles](/Pictures/fallout/installation/high-fps-physics-fix-profiles.png)
 
 ## Resolution
 
@@ -48,7 +42,7 @@ There are several relevant factors when deciding on which resolution to play at.
 
 ### 16:9 - 1440p
 
-This is the resolution I am playing and TPF Fallout 4 is optimised for it (meaning I conserved performance wherever possible). If you have a 1440Hz monitor and the hardware to play modded Fallout 4 at 1440p, **everything is configured correctly by default** and you can continue with the next step (Frame Rate & VSYNC).
+This is the resolution I am playing and TPF Fallout 4 is optimised for it (meaning I conserved performance wherever possible). If you have a 1440Hz monitor and the hardware to play modded Fallout 4 at 1440p, **everything is configured correctly by default** and you can continue with the next page.
 
 ### 16:9 - 1080p or 2160p
 
