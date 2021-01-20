@@ -49,7 +49,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
+* **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
 ##### [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
 
@@ -58,6 +58,12 @@ description: >
 * **Main Files:** All Geared Up Derivative SE
 
 > All additional steps (downloading and running the SSEEdit scripted patchers) will be covered in the Finalisation section of the guide.
+
+##### [AllGUD Conditions Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download instructions
+
+* **Main Files:** AllGUD Conditions Fix
 
 ##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
 

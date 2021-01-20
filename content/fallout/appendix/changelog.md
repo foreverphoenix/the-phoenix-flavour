@@ -6,6 +6,89 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.4.1
+
+> 26/11/2020
+
+#### Mod Changes
+
+- Re-enabled Authentic Handmade Weaponry (accidentally disabled the plugin in 1.4)
+
+## Release 1.4
+
+> 23/11/2020
+
+#### Mod Changes
+
+- Added Weapon Debris Crash Fix
+- Added Sprint Stuttering Fix
+- Added Less Ugly Intercom
+- Added The Laser Series
+- Added The Plasma Project
+- Removed The Lavish Laser Musket
+- Removed The Lavish Laser Collection
+- Rebuilt the Weapons BA2
+- Updated Buffout to 1.17.1
+- Updated Wetness Shader Fix to 3.2
+- Updated Handmade Turrets to 1.3.2
+- Updated Workshop Framework to 2.0.6
+- Updated Indubitably Ivy to 0.2
+- Updated What's Your Name to 1.10.0
+- Updated Skeletal Adjustments for CBBE - Knee Fix to 1.1
+- Updated LOST Audio Tweaks to 1.5.1
+- Updated custom Sound Slider Tweaks plugin
+- Slightly tweaked High FPS Physics Fix presets
+- Unhid message box and tutorial messages in my DEF_UI preset
+
+## Release 1.3.1
+
+> 24/10/2020
+
+Just a minor fix and clean-up for yesterday's update.
+
+#### Mod Changes
+
+- Updated Bullet Counted Reload System to 1.05b
+- Updated Workshop Framework to 2.0.3
+- Added missing ALWAYS INCLUDE flags to High FPS Physics Fix profiles
+
+## Release 1.3
+
+> 23/10/2020
+
+This update fixes a number of issues reported by users (thanks, guys!). I am also officially changing the list name to **Welcome to Paradise**. The website, Discord channels, and Mod Organizer 2 profile have all been edited accordingly.
+
+#### Mod Changes
+
+- Hopefully fixed radio songs not playing for good
+- Updated xSE Plugin Preloader to 0.2.3 (XML unchanged, let me know if there are issues)
+- Updated Buffout 4 to 1.16.1
+- Fixed some untranslated UI bits (missing strings)
+- Removed Auto Gamepad Switch (caused some issues)
+- Fixed scrap tag for Stogie
+- Added High FPS Physics Fix plus pre-configured INIs
+- Removed the separate DEF_UI preset, now editing the one packaged with the main mod
+- Re-enabled compass markers for locations / Dogmeat / PA in DEF_UI
+- Turns out Archive2 is unreliable so I repacked a bunch of BA2s with CAO
+- Unpacked custom BA2 for Bleak Beauty, Musical Lore, More Where That Came From, and Elvani's Track Pack
+- Fixed some purple cars by reverting them to vanilla, it's a band-aid fix but the best I could do
+
+#### Website Changes
+
+- **Finalisation:** Removed instructions for NVIDIA Inspector.
+- **Finalisation:** Added instructions for the newly-added High FPS Physics Fix and my pre-configured INIs.
+
+## Release 1.2.1
+
+> 01/10/2020
+
+#### Mod Changes
+
+- Actually fixed radio tracks not playing
+- Updated xSE Plugin Preloader to 0.2
+
+Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the new **xSE PluginPreloader.xml** and updated **IpHlpAPI.dll** into your **root** folder and overwrite when prompted.
+
 ## Release 1.2
 
 > 30/09/2020
