@@ -173,40 +173,6 @@ description: >
 * **Optional Addons:**
   * ~~No Glacier Snow~~
 
-##### [Enhanced Landscapes - Dead Marsh](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Main File v1.65
-
-#### FOMOD Instructions
-
-* **Optional Files:**
-  * ~~Better Plant Textures~~
-  * ~~Grass Overhaul~~
-  * ~~Enhanced Solstheim Ash Trees 4k with 3D Tree LOD~~
-  * ~~Green Aspen Trees for EVT~~
-  * ~~Barren Marsh~~
-  * Dead Marsh
-  * ~~Green Fields~~
-  * ~~LOD Noise Texture~~
-* **Patches:**
-  * ~~Immersive Citizens Patch~~
-
-#### Additional Instructions
-
-* Delete the following file(s) and/or folder(s):
-  * `DynDOLOD\`
-  * `Enhanced Landscapes.esp`
-  * `Enhanced Landscapes - Dead Marsh.esp`
-* Rename the mod to “**Enhanced Landscapes - Dead Marsh**” to indicate that only that module is installed.
-
-##### [Enhanced Landscapes - Dead Marsh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Enhanced Landscapes - Dead Marsh Fixes
-
 ##### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718?tab=files)
 
 #### Download Instructions

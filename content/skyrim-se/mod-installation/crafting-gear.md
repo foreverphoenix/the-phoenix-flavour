@@ -86,7 +86,16 @@ description: >
 
 ##### [aMidianBorn Armor Variants Lite](https://mega.nz/file/5VViBThR#RhdtoTIzK9plp1A91ty0C6ZWTzW_aZ1iE6qmKnd1nIU)
 
+#### Download Instructions
+
 - **Main Files:** aMidianBorn Armor Variants Lite
+
+#### Installation Instructions
+
+- Download the archive from MEGA.
+- Move the archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- Back in Mod Organizer 2, press F5 to refresh.
+- The mod will show up in the **Downloads** tab as usual.
 
 #### FOMOD Instructions
 

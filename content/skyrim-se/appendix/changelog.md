@@ -6,21 +6,25 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
-## Release 4.0
+## Release 4.0 Beta
 
-> TBD
+> 20/01/2020
 
-**Removal of CBBE:** I only ever included CBBE because many people demanded it. It's not required by anything and half the time I have no idea whether a CBBE patch is required or not. I haven't noticed a difference between CBBE / vanilla body in regular gameplay, ever, and I'm sick of worrying that something might not work correctly. I have no idea how to use BodySlide and frankly, I'm not interested in figuring it out. At this point, CBBE is for me personally just additional headache for zero gain. Well, I guess my character's buttcheeks are low-poly now.
+Update 4.0 for The Phoenix Flavour is firmly taking the setup back to its "vanilla plus" roots. TPF is committing to low-impact mods that blend in well while doubling down on our performance-friendly visual enhancements. Many mods were removed in this update, some of the beloved favourites, but there are solid reasons behind each removal.
 
-**Removal of CCOR and RDO:** Both Complete Crafting Overhaul Remastered and Relationship Dialogue Overhaul were removed in this update because of feature creep. In the case of CCOR, the feature creep is subtle but enough to disturb my V+ vibes. Almost all the features that I personally like were implemented by other means with a faction equipment crafting module being on my to do list. RDO was never properly ported to SSE to begin with, nobody is creating patches for it, and it touches a million different things. The effort of integrating it is comparable to CRF. I personally doubt I will even notice if it's missing so I removed it as well.
+New mods include the custom made **Armor Variants Lite** which is an alternative to kryptopyr's CCOR-dependent aMidianBorn Content Addon, created by Umgak from scratch. I also re-added the much requested artifact overhaul **Reliquary of Myth** and completely rebuilt the appearance section which is now centered around **Cathedral NPCs**. And finally Fore's New Idles was replaced with the more recent and open source **Nemesis**.
 
-**Removal of ENB Lights:** While it adds some cool effects, I removed ENB Lights for the time being as it is somewhat annoying to handle. It edits plenty of meshes (which means added compatibility work) and isn't properly updated for some of the newer fire mods. I'll likely come back to this mod and reimplement it in a later 4.x update.
+**Removal of CBBE:** I only ever included CBBE because many people demanded it. It's not required by anything and half the time I have no idea whether a CBBE patch is required or not. I haven't noticed a difference between CBBE / vanilla body in regular gameplay, ever, and I'm sick of worrying that something might not work correctly. I have no idea how to use BodySlide and frankly, I'm not interested in figuring it out. At this point, CBBE is for me personally just additional headache for zero gain. Well, I guess my character's buttcheeks are low-poly now but I can just about live with that.
+
+**Removal of CCOR and RDO:** Both Complete Crafting Overhaul Remastered and Relationship Dialogue Overhaul were removed in this update because of feature creep. In the case of CCOR, the feature creep is subtle but enough to disturb my V+ vibes. Almost all the features that I personally like were implemented by other means with a faction equipment crafting module being on my to do list. RDO was never properly ported to SSE to begin with, nobody is creating patches for it, and it touches a million different things. The effort of integrating it is almost comparable to CRF. I personally doubt I will even notice if it's missing so I removed it as well.
+
+**Removal of ENB Lights:** While it adds some cool effects, I removed ENB Lights for the time being as it is somewhat annoying to handle. It edits plenty of meshes (which means added compatibility work) and isn't properly updated for some of the newer fire mods. I'll likely come back to this mod and reimplement parts of it in a later 4.x update.
 
 **Removal of the Content Addon:** Since [Elysium](https://github.com/TitansBane/Elysium) is now a thing, I no longer feel any sort of pressure to add new content to TPF. First and foremost, the list is intended to improve the gameplay, balancing, and graphics of the base game (and that's difficult enough!). Some extra content mods are still in the guide (those adding equipment variants) as I cannot imagine playing without them.
 
 #### Introduction
 
-- Rewrote most of this page, updated many of the feature lists, and added testimonials.
+- Rewrote most of this page, updated the feature list, and added testimonials.
 
 #### Initial Setup
 
@@ -51,8 +55,26 @@ description: >
 - **Interface**: Finally re-added Quick Loot Re.
 - **Interface**: Removed Undiscovered Means Unknown (wasn't very popular among users).
 - **Graphics Baseline:** Removed Caliente's Beautiful Bodies Enhancer (too much unjustified headache).
+- **Weather:** Added WoW Dragon Mounds CTD Fix.
+- **Weather:** Added Wonders of Weather - Less Opaque Rain Splashes for ENB.
 - **Lighting:** Replaced Relighting Skyrim - No Player Homes with the new updated version.
 - **Visual FX:** Replaced Subtle Wind FX with Less Distracting Blowing Snow Effects for ENB Particle Patch.
+- **Landscape:** Slightly changed the order of mods (update Mod Order in MO2 accordingly).
+- **Landscape:** Updated download instructions for Majestic Mountains (now downloading the DynDOLOD LOD Pack).
+- **Landscape:** Updated FOMOD instructions for Majestic Mountains.
+- **Landscape:** Added Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon.
+- **Landscape:** Cathedral Landscape - Windhelm Snow Bridge Fix.
+- **Landscape:** Added Cathedral - 3D Pine Grass.
+- **Landscape:** Removed The Elder Scrolls - Veydosebrom.
+- **Landscape:** Removed Cathedral Landscapes - Veydosebrom Swamp Grass Addon.
+- **Landscape:** Removed manual edit from RW2 (no longer necessary after updating mod order).
+- **Landscape:** Added Bright Waterfall Fix for ENB.
+- **Landscape:** Updated FOMOD instructions for Better Dynamic Snow.
+- **Landscape:** Temporarily removed Enhanced Landscapes.
+- **Landscape:** Temporarily removed Enhanced Landscapes - Dead Marsh Fixes (mod page hidden).
+- **Landscape:** Updated FOMOD instructions for Rorikstead Basalt Cliffs Patches.
+- **Landscape:** Removed Better Dynamic Majestic Mountains.
+- **Landscape:** Removed Manor Roads (looks ugly).
 - **Trees & Plants:** Updated Enhanced Vanilla Trees download instructions.
 - **Trees & Plants:** Updated Enhanced Vanilla Trees - Alternative Branches FOMOD instructions.
 - **Trees & Plants:** Removed Bent Pines II (it's been in the list forever and I love it but it's not very v+).
@@ -65,20 +87,6 @@ description: >
 - **Trees & Plants:** Added High Poly Blackreach Mushrooms.
 - **Trees & Plants:** Added Rudy HQ - More Lights for ENB - Glowing Mushrooms.
 - **Trees & Plants:** Added High Poly Gleamblossoms.
-- **Landscape:** Slightly changed the order of mods (update Mod Order in MO2 accordingly).
-- **Landscape:** Updated download instructions for Majestic Mountains (now downloading the DynDOLOD LOD Pack).
-- **Landscape:** Updated FOMOD instructions for Majestic Mountains.
-- **Landscape:** Added Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon.
-- **Landscape:** Cathedral Landscape - Windhelm Snow Bridge Fix.
-- **Landscape:** Added Cathedral - 3D Pine Grass.
-- **Landscape:** Removed The Elder Scrolls - Veydosebrom.
-- **Landscape:** Removed Cathedral Landscapes - Veydosebrom Swamp Grass Addon.
-- **Landscape:** Removed manual edit from RW2 (no longer necessary after updating mod order).
-- **Landscape:** Added Bright Waterfall Fix for ENB.
-- **Landscape:** Updated FOMOD instructions for Better Dynamic Snow.
-- **Landscape:** Updated FOMOD instructions for Rorikstead Basalt Cliffs Patches.
-- **Landscape:** Removed Better Dynamic Majestic Mountains.
-- **Landscape:** Removed Manor Roads (looks ugly).
 - **Worldspace Additions:** Added this new page.
 - **Worldspace Additions:** Moved Point The Way here.
 - **Worldspace Additions:** Moved Lanterns of Skyrim II here.
@@ -106,9 +114,7 @@ description: >
 - **Dungeons:** Removed instructions to delete textures/effects folder from Rudy HQ - Nordic Ruins.
 - **Dungeons:** Added Dwemer Ichor Barrel 2K.
 - **Dungeons:** Moved ENB Particle Lights - Dwemer Lanterns here.
-- **Dungeons:** Added ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Moved Rudy HQ - More Lights for ENB - Bthardamz here.
-- **Dungeons:** Added Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
 - **Dungeons:** No longer selecting the Hearthfire Patch in the CC's Enhanced Ore Veins FOMOD.
 - **Dungeons:** Removed additional instructions from CC's Enhanced Ore Veins (no longer necessary).
 - **Dungeons:** Added Dwemer Ichor Barrel 2K.
@@ -186,6 +192,8 @@ description: >
 - **NPC Overhauls:** Removed DIVERSE SKYRIM - Ethereal Elven Overhaul Patch.
 - **Gameplay Overhauls:** Moved More Expensive Transmute for Mysticism here.
 - **Gameplay Overhauls:** Added instructions to download the Shrines and Amulets addon for Adamant.
+- **Gameplay Overhauls:** Added Skyrim Uncapper.
+- **Gameplay Overhauls:** Added Skyrim Uncapper - Adamant Arena.
 - **Gameplay Overhauls:** Removed Complete Crafting Overhaul Remastered.
 - **Gameplay Overhauls:** Removed Complete Crafting Overhaul Remastered - JS Circlet Replacer Patch.
 - **Gameplay Overhauls:** Replaced Sacrosanct with Scion - A Vampire Overhaul.
@@ -241,7 +249,8 @@ description: >
 - **Crafting & New Gear:** Moved Armor and Clothing Extension here.
 - **Crafting & New Gear:** Moved Armor and Clothing Extension (WACCF) - MCM Menu Fix here.
 - **Crafting & New Gear:** Added Tweaks for WACCF and ACE.
-- **Crafting & New Gear:** Added aMidianBorn Armor Variants Lite
+- **Crafting & New Gear:** Removed aMidianBorn Content Addon.
+- **Crafting & New Gear:** Added aMidianBorn Armor Variants Lite.
 - **New Gear:** Removed this step and all mods remaining here.
 - **New Gear:** Removed Weapon Armor Clothing and Clutter Fixes - CBBE Patch.
 - **New Gear:** Removed Common Clothes and Armors (may be re-added in the future).
@@ -285,7 +294,7 @@ description: >
 - **Sounds & Music:** Removed the TPF Merged Music Patch (now part of the main CRP).
 - **Skeletons & Animation:** Replaced FNIS with Nemesis Ultimate Behaviour Engine.
 - **Skeletons & Animation:** Replaced XPMSSE Automated Patcher with a direct link to the fixed scripts.
-- **Skeletons & Animation:** Added AllGUD Conditions Fix
+- **Skeletons & Animation:** Added AllGUD Conditions Fix.
 - **Utilities**: Removed the FISSES ESL-ified Patch.
 - **Utilities**: Removed Copy and Paste in Console.
 

@@ -25,6 +25,18 @@ description: >
 
 * **Main Files:** More Expensive Transmute for Mysticism
 
+##### [Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Skyrim Skill Uncapper
+
+##### [Skyrim Uncapper - Adamant Arena](https://www.nexusmods.com/skyrimspecialedition/mods/35366?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Adamant Arena Ultimate Uncapper
+
 ##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
 #### Download Instructions

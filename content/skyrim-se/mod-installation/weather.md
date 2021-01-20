@@ -87,3 +87,24 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 #### FOMOD Instructions
 
 * Change nothing, just click **Install**.
+
+##### [WoW Dragon Mounds CTD Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43188/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WoW Dragon Mounds CTD Fix
+
+#### FOMOD Instructions
+
+- **Select version:** BSA + ESL flagged
+- **Optional:** ~~Alternative Rain Splash Effect~~
+
+##### [Wonders of Weather - Less Opaque Rain Splashes for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Wonders Of Weather - Less opaque rain splashes for ENB
+
+#### FOMOD Instructions
+
+- **Select Transparency in %:** 95% (personal choice)
