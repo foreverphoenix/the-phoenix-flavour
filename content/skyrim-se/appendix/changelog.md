@@ -24,7 +24,7 @@ New mods include the custom made **Armor Variants Lite** which is an alternative
 
 #### Introduction
 
-- Rewrote most of this page, updated the feature list, and added testimonials.
+- Rewrote most of the page, updated the feature list, and added testimonials.
 
 #### Initial Setup
 
