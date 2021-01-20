@@ -2,4 +2,4 @@
 
 ## The Phoenix Flavour
 
-You can find the guide here: thephoenixflavour.com.
+You can find the guide here: [The Phoenix Flavour](https://thephoenixflavour.com).

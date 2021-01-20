@@ -50,7 +50,7 @@ This is a custom plugin that loads an INI file which in turn fires a BAT file up
 
 ## DEF_HUD - Phoenix Preset
 
-This is just my personal DEF_HUD preset, downsizing most elements and moving the compass to the top.
+This is just my personal DEF_HUD preset, downsizing most elements and moving the compass to the top. It's included in the main DEF_UI mod folder.
 
 ![DEF_HUD Preset](/Pictures/fallout/documentation/def-hud-preset.png)
 
