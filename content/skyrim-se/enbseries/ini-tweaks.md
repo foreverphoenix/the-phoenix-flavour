@@ -14,7 +14,7 @@ Just as a reminder: You can edit INI files for your profile directly through the
 - Make your edits in the correct INI file (either Skyrim.ini or SkyrimPrefs.ini).
 - When you're done, click the **Save** button and close the window.
 
-![Open INI Editor](/Pictures/enbseries/mo2-edit-inis.png)
+![Open INI Editor](/Pictures/skyrim-se/enbseries/mo2-edit-inis.png)
 
 ## Ambient Occlusion
 

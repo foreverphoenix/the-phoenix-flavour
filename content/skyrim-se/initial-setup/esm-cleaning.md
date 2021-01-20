@@ -8,7 +8,7 @@ description: >
 
 ## About ESM Cleaning
 
-With the release of SSEEdit 4.0, the process of cleaning plugins has been simplified quite a bit. Beginning with **Update.esm**, we are going to clean the following four ESMs, Bethesda’s official master files, **one at a time**.
+With the release of SSEEdit 4.0, the process of cleaning plugins has been simplified substantially. Beginning with **Update.esm**, we are going to clean the following four ESMs, Bethesda’s official master files, **one at a time**.
 
 * **Update.esm**
 * **Dawnguard.esm**
@@ -29,46 +29,44 @@ This method has the added benefit of keeping the vanilla files available as back
   - **Dawnguard.esm**
   - **HearthFires.esm**
   - **Dragonborn.esm**
-- Paste them into your new **Official Master Files – Cleaned** folder.
+- Paste them into your new **Official Master Files - Cleaned** folder.
 - In Mod Organizer 2, press F5 to refresh and your new "mod" will appear at the bottom of the mod order.
-- Drag it up below *DLC: Dragonborn* in your mod order and activate it.
+- Drag it up below **DLC: Dragonborn** in your mod order and activate it.
 
 ## Automated Cleaning Process
 
 ### Update.esm
 
-* Select **SSEEdit – Quick Cleaning** in the executables list and hit **Run**.
+* Select **SSEEdit - Quick Cleaning** in the executables list and hit **Run**.
 * The plugin selection window will come up next.
-* Check only **Update.esm** and click OK.
+* Check only **Update.esm** and click **OK**.
 
 Now the cleaning process will begin automatically. It takes a few minutes, so simply sit back and let SSEEdit do its thing until you see `Quick Clean mode finished` in the log. Then you can close SSEEdit.
 
 ### Dawnguard.esm
 
-* Run **SSEEdit – Quick Cleaning** through MO2.
+* Run **SSEEdit - Quick Cleaning** through MO2.
 * Check only **Dawnguard.esm** in the plugin selection window and click **OK**.
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
 ### HearthFires.esm
 
-* Run **SSEEdit – Quick Cleaning** through MO2.
+* Run **SSEEdit - Quick Cleaning** through MO2.
 * Check only **HearthFires.esm** in the plugin selection window and click **OK**.
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
 ### Dragonborn.esm
 
-* Run **SSEEdit – Quick Cleaning** through MO2.
+* Run **SSEEdit - Quick Cleaning** through MO2.
 * Check only **Dragonborn.esm** in the plugin selection window and click **OK**.
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
-![Update ESM Cleaned](/Pictures/setup/update_esm_cleaned.png)
+![Update ESM Cleaned](/Pictures/skyrim-se/initial-setup/update-esm-cleaned.png)
 
 ## Manual Cleaning - Dawnguard ESM
-
-### Source
 
 There are [additional instructions written up by alt3rn1ty](https://forums.nexusmods.com/index.php?/topic/5381485-guide-manual-cleaning-skyrim-and-skyrim-special-edition-master-files/) to manually clean some dirty edits that won’t be caught by SSEEdit’s quick cleaning procedure. Only one of the edits can affect actual gameplay though, so we won’t bother with removing the other two which are simply left-over test records.
 
@@ -92,7 +90,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
 
-![ESM Cleaning - Manual Edit](/Pictures/setup/esm_cleaning_manual_edit.png)
+![ESM Cleaning - Manual Edit](/Pictures/skyrim-se/initial-setup/esm-cleaning-manual-edit.png)
 
 ### Save Changes
 
@@ -100,3 +98,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * When asked to save your changes, only **Dawnguard.esm** should appear in the list.
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
+
+---
+
+#### Continue with the [Instructions](/skyrim-se/mod-installation/01-instructions/) page.

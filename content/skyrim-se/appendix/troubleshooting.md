@@ -10,7 +10,7 @@ description: >
 
 If by chance you are seeing the error message picture below, it is simply an issue of the required version of Microsoft Visual C++  framework not being installed correctly. To fix this, download the latest **x64** executable [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Run the downloaded executable and follow the prompts through the installation process.
 
-![CK Error VC Missing](/Pictures/faq/ck_error_vc_missing.jpg)
+![CK Error VC Missing](/Pictures/skyrim-se/appendix/ck-error-vc-missing.jpg)
 
 ## Skyrim crashes upon launch.
 
@@ -39,7 +39,7 @@ This happens when VSYNC is enabled in enblocal.ini and conflicts with SSE Displa
 
 > VSYNC is enabled by default in SSE Display Fixes and disabled in the enblocal.ini so if you run into this issue chances are you messed with settings you do not fully understand.
 
-![Disable VSYNC enblocal.ini](/Pictures/appendix/disable-vsync-enb-man.png)
+![Disable VSYNC enblocal.ini](/Pictures/skyrim-se/appendix/disable-vsync-enb-man.png)
 
 ## Skyrim gets stuck in the main menu.
 
@@ -47,7 +47,7 @@ One of the more recent updates for the Unofficial Skyrim Special Edition Patch r
 
 If the main menu won't load, your load order is messed up, or you aren't using the CRP.
 
-![Stuck in Main Menu](/Pictures/faq/stuck_in_main_menu.jpg)
+![Stuck in Main Menu](/Pictures/skyrim-se/appendix/stuck-in-main-menu.jpg)
 
 ## Lower FPS than expected.
 

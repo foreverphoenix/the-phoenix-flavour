@@ -8,7 +8,9 @@ description: >
 
 ##### Some beards look strange on Elven player characters.
 
-This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.
+~~This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.~~
+
+**EEO was removed in TPF 4.0.**
 
 Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/issues/8) for details and pictures.
 
@@ -20,6 +22,6 @@ Check [issue report #41](https://github.com/foreverphoenix/the-phoenix-flavour/i
 
 ##### Grass looks strangely dull and flat.
 
-Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** is enabled to give grass some much needed depth. Be aware that Ambient Occlusion is fairly demanding and disabled in Lite presets for a reason.
+Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** and **Detailed Shadows** are enabled to give grass some much needed depth. Be aware that both of those features are fairly demanding and often disabled in Lite presets for a reason.
 
 ![Example](https://cdn.discordapp.com/attachments/521296280165679119/702036429341065286/enb2020_4_21_00_57_56.jpg)

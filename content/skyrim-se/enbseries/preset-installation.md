@@ -13,20 +13,24 @@ The Phoenix Flavour is using **Rudy ENB** for Cathedral Weathers. Rudy ENB has b
 ## Create a new preset
 
 * In ENB Man, click the arrow under **Presets** and select **Blank preset**.
-* Enter a name for the new preset: `Rudy ENB - for Cathedral Weathers [1.0]`.
+* Enter a name for the new preset: `Rudy ENB - for Cathedral Weathers [2.0]`.
 * Click the green checkmark to confirm.
 
-![Create New Preset](/Pictures/enbseries/create-new-preset.png)
+![Create New Preset](/Pictures/skyrim-se/enbseries/create-new-preset.png)
 
 ## Import the preset
 
 * Manually download the main file from [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files) mod page.
 * Navigate to `Your Modding Folder\temp`.
-* Open the downloaded ENB Preset archive and navigate to `Rudy for SSE 1.0 CW\! Catherdral Weathers Version\[ Skyrim SE folder ]`.
+* Open the downloaded ENB Preset archive and navigate to `Rudy for SSE 2.0 CW\! Catherdral Weathers Version\[ Skyrim SE folder ]`.
 * Extract all files into your **temp** folder:
   * enbseries
   * enblocal.ini
   * enbseries.ini
+* Move up to the top level in the archive and open the **ADDONS** folder.
+* Go to `! Lighting mods and Night Eye ENB Fix (use only one)\Normal Game\If Luminosity is placed after Window Shadows\`.
+* Extract the **enbseries** folder into your **temp** folder.
+* Confirm when asked to merge folders and click yes to replace files.
 * Drag-and-drop all files from the **temp** folder into ENB Man.
 * Click **No** both times when asked to add the palettes to ENB Man.
 * Remove all files inside the **temp** folder.
@@ -35,7 +39,7 @@ The Phoenix Flavour is using **Rudy ENB** for Cathedral Weathers. Rudy ENB has b
 
 *Reference picture shows a different preset but the process is the same.*
 
-![Import Preset Files](/Pictures/enbseries/install-enb-preset.png)
+![Import Preset Files](/Pictures/skyrim-se/enbseries/install-enb-preset.png)
 
 ## 3.4 Activate the preset
 
@@ -44,4 +48,4 @@ The Phoenix Flavour is using **Rudy ENB** for Cathedral Weathers. Rudy ENB has b
 
 *Reference picture shows a different preset but the process is the same.*
 
-![Enable Preset](/Pictures/enbseries/activate-enb-preset.png)
+![Enable Preset](/Pictures/skyrim-se/enbseries/activate-enb-preset.png)

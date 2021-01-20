@@ -13,16 +13,16 @@ description: >
 * Download [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164/) manually from the Nexus.
 * Create a new folder: `Your Modding Folder\Tools\SSEEdit`.
 * Open the downloaded archive and extract everything into the new folder.
-* Open Mod Organizer 2 and go into the **Executables** settings (Tools > Executables or CTRL + E).
+* Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
 * Click the tiny blue plus icon to add a new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEdit.exe**.
 * Click **Apply** to save the new executable.
 
-![Add SSEEdit to MO2](/Pictures/setup/add_sseedit_to_mo2.png)
+![Add SSEEdit to MO2](/Pictures/skyrim-se/initial-setup/add-sseedit-to-mo2.png)
 
 ### SSEEdit Cache Output
 
-Every time a new plugin is loaded into SSEEdit, a refcache file will be generated for it so that the next time it won’t have to processed again – SSEEdit can simply read the cache file, significantly shortening the startup time.
+Every time a new plugin is loaded into SSEEdit, a refcache file will be generated for it so that the next time it won’t have to processed again: SSEEdit can simply read the cache file, significantly shortening the startup time.
 
 In order to store the cached files with the program files themselves, we need to add an argument for it:
 
@@ -38,24 +38,25 @@ In order to store the cached files with the program files themselves, we need to
 
 * Click the tiny blue plus icon to add another new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\SSEEdit`and double-click **SSEEditQuickAutoClean.exe**.
-* **Optional:** Change the title to something less verbose (like "SSEEdit – Quick Cleaning").
+* **Optional:** Change the title to something less verbose (like "SSEEdit - Quick Cleaning").
 * Under **Arguments**, enter the following:
   * `-DontCache`
 * Click **OK** to save and close the window.
 
 > The **-DontCache** argument will prevent an obscure bug that destroys parts of Apocrypha during the cleaning of Dragonborn.esm.
 
-![Add QuickAutoClean to MO2](/Pictures/setup/add_quickautoclean_to_mo2.png)
+![Add QuickAutoClean to MO2](/Pictures/skyrim-se/initial-setup/add-qac-to-mo2.png)
 
 ## Cathedral Assets Optimizer (CAO)
 
-CAO is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
+Cathedral Assets Optimizer by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
 
 ### Installation
 
-* Download the latest version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually from the Nexus.
+* Download the latest non-Beta version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually from the Nexus.
 * Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
 * Open the downloaded archive and extract everything into the new folder.
+* Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
 
 > You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
 
@@ -67,7 +68,7 @@ With the latest versions of CAO, you can set up dedicated profiles to switch bet
 * Open the downloaded archive.
 * Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 
-![CAO Profiles](/Pictures/setup/cao-profiles.png)
+![CAO Profiles](/Pictures/skyrim-se/initial-setup/cao-profiles.png)
 
 ## SSE NIF Optimizer
 
@@ -82,3 +83,7 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Create a new folder: `Your Modding Folder\Tools\Modwat.ch`.
 * Open the downloaded archive and double-click the "Modwatch-win32-ia32" folder within.
 * Extract everything into the new folder.
+
+---
+
+#### Continue with the [ESM Cleaning](/skyrim-se/initial-setup/esm-cleaning/) page.
