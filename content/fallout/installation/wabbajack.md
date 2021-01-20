@@ -12,7 +12,7 @@ description: >
 - Move the downloaded file to `Fallout 4 Modding\Wabbajack`.
 - Double-click **Wabbajack.exe**. It will automatically download and install the latest version.
 
-### Downloading TPF FO4
+### Downloading WTP
 
 - Once Wabbajack is installed and open, click on **Browse Modlists**.
 - Find **Welcome to Paradise** in the list and click the arrow to download.

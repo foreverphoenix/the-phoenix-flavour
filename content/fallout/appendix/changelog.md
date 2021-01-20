@@ -6,6 +6,50 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.5
+
+> TBD
+
+#### Mod Changes
+
+- Increased pip-boy resolution
+- Disabled pip-boy fx
+- Added Mator's xEdit Patching Framework
+- FO4Edit cache is now saved into the Tools\FO4Edit folder
+- Updated xSE Plugin Preloader to 0.2.4
+- Changed xSE Plugin Preloader load method to OnThreadAttach
+- Updated Buffout to 1.19.0
+- Updated the Unofficial Fallout 4 Patch to 2.1.2b
+- Updated High FPS Physics Fix to 0.7.2
+- Removed additional High FPS Physics Fix INIs
+- Default settings for WTP are now 75FPS and no VSYNC
+- Documentation includes instructions to change the settings
+- Reinstalled DEF_UI and only installed DEF_HUD
+- Updated Workshop Framework to 2.0.7
+- Updated Simple Sorting Overhaul to 2.0
+- Updated Wetness Shader Fix to 3.3
+- Updated Sprint Stuttering Fix to 1.2
+- Added FallUI
+- Added FallUI Workbench
+- Added Better Confirm Boxes for PC
+- Removed Pip-Boy Dual Color section
+- Updated Skeletal Adjustments for CBBE to 2.0
+- Updated What's Your Name to 1.11.1
+- Updated Fixed and Cleaned Homeplate to 2.1
+- Updated LOST Audio Tweaks to 1.6.1
+- Updated LOST Audio Tweaks - True Storms and RAO Patch to Beta
+- Deleted records from [this mod](https://www.nexusmods.com/fallout4/mods/49183) from LOST Audio Tweaks
+
+#### Simple Sorting Overhaul
+
+As we have now switched to FallUI from DEF_INV, I updated my INNRs (naming rules) to have the same format as Ruddy's sorting patcher that FallUI was intended for. That means mods for armors and weapons will be displayed in smaller font below the item name.
+
+I did take a look at the [Complex Sorter](https://www.nexusmods.com/fallout4/mods/48826) for FallUI which would be very convenient for me but ultimately I prefer my own icons and INNRs. Plus they already cover my power armor changes and include my preferred power armor naming scheme.
+
+#### Website Changes
+
+- Expanded FPS and VSYNCs instructions (they are DIY now)
+
 ## Release 1.4.1
 
 > 26/11/2020

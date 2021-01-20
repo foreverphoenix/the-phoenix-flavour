@@ -36,7 +36,7 @@ iSize H=1440
 
 ## TruBy9 Ultrawide
 
-The most comprehensive widescreen fix mod for Fallout 4, TruBy9 Ultrawide, is already pre-installed with TPF Fallout 4. All you need to do is activate it.
+The most comprehensive widescreen fix mod for Fallout 4, [TruBy9 Ultrawide](https://www.nexusmods.com/fallout4/mods/2463), is already pre-installed in WTP. All you need to do is activate it.
 
 - In Mod Organizer 2, scroll to the **ULTRAWIDE SUPPORT (OPTIONAL)** section under **INTERFACE**.
 - Check the **ENABLE WIDESCREEN INI TWEAKS** mod in Mod Organizer 2.

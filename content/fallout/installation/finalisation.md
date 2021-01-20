@@ -15,22 +15,34 @@ All mods are installed in Mod Organizer 2 which is required to play the setup. I
 
 ## Frame Rate and VSYNC
 
-One of the Creation Engine's drawbacks is the physics engine which is tied to the frame rate. Simply put, the game breaks if it runs at more than 60FPS. There is a mod that allows you to unlock the frame rate by dynamically adjusting havok settings at runtime, aptly called **High FPS Physics Fix**. WTP includes this mod as well as four pre-configured INI files of which you need to enable one.
+One of the Creation Engine's drawbacks is the physics engine which is tied to the frame rate. Simply put, the game breaks if it runs at more than 60FPS. However, there is a mod that allows you to unlock the frame rate by dynamically adjusting havok settings at runtime, aptly called **High FPS Physics Fix**.
 
-The profiles allow any combination of **FPS cap** and **VSYNC** settings.
-
-- **FPS** or frames per second is how the amount of still images shown every second are measured. The higher your FPS, the more fluid the game appears. The amount of frames per second that can be rendered depend on your hardware, primarily your CPU and GPU. In my opinion, a stable 60FPS is perfect for most games, including Fallout 4. Most systems should be able to achieve a consistent 60FPS in WTP.
+- **FPS** or frames per second are how the amount of still images shown every second are measured. The higher your FPS, the more fluid the game appears. The amount of frames per second that can be rendered depends on your hardware, primarily your CPU and GPU. In my opinion, a stable 60FPS is perfect for most games, including Fallout 4. Most systems should be able to achieve a consistent 60FPS in WTP.
 - **VSYNC** is a technique that syncs a game's framerate to your monitor's refresh rate (hence the name). Enabling VSYNC prevents [screentearing](https://en.wikipedia.org/wiki/Screen_tearing) at the cost of latency and is always recommended. However, if your monitor supports G-Sync or FreeSync, you do not need to enable VSYNC by other means. G-Sync and FreeSync are advanced VSYNC methods applied globally to all fullscreen applications.
 
-In Mod Organizer 2, you can see the **HIGH FPS PHYSICS FIX** section near the top of the mod order (left pane). The main mod is already checked, but you need to enable one of the **Pre-made INIs** as well. To figure out which profile you want, you need to consider your hardware:
+> **By default, WTP is capped to 75 FPS. VSYNC is disabled.**
 
-- If your monitor **does not support G-Sync / FreeSync:** Check one of the `VSYNC` profiles.
-- If your monitor **supports G-Sync / FreeSync:** Check one of the `No VSYNC` profiles.
-- Whether to **cap** or **uncap** FPS comes down to personal taste. Personally, I prefer to cap at 60 FPS.
+### Enable VSYNC
 
->> You must always have one profile checked.
+Unless your monitor supports G-SYNC or FreeSync, I recommend enabling VSYNC in High FPS Physics Fix. To do so, follow these instructions:
 
-![High FPS Physics Fix Profiles](/Pictures/fallout/installation/high-fps-physics-fix-profiles.png)
+- Double-click **High FPS Physics Fix** in your mod order (left pane in Mod Organizer 2).
+- Switch to the **INI Files** tab and select the **HighFPSPhysicsFix.ini** file.
+- In **Line 10**, set `EnableVSync=` to **true**.
+- Press **CTRL + S** to save and close the window.
+
+![Enable VSYNC](/Pictures/fallout/installation/enable-vsync.png)
+
+### FPS Cap
+
+If you are somehow unhappy with the default cap at 75FPS, you can change it. To do so, follow these instructions:
+
+- Double-click **High FPS Physics Fix** in your mod order (left pane in Mod Organizer 2).
+- Switch to the **INI Files** tab and select the **HighFPSPhysicsFix.ini** file.
+- In **Line 2**, change the value for `IngameFPS=` to your desired FPS cap. Set to **0** to uncap the frame rate.
+- Press **CTRL + S** to save and close the window.
+
+![Enable VSYNC](/Pictures/fallout/installation/change-fps-cap.png)
 
 ## Resolution
 
