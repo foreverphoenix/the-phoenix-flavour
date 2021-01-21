@@ -13,7 +13,7 @@ description: >
 #### Initial Setup
 
 - **Mod Organizer 2:** Removed instructions to install deorder's MO2 plugins (better suited to a beginner's guide).
-- **ESM Cleaning:** Added instructions to use a specific filter when cleaning Dawnguard.esm manually.
+- **ESM Cleaning:** Improved instructions for cleaning Dawnguard ESM manually.
 - **ESM Cleaning:** Fixed broken link at the bottom to the next page.
 
 #### Mod Installation
