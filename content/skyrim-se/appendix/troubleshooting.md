@@ -54,3 +54,37 @@ If the main menu won't load, your load order is messed up, or you aren't using t
 #### Playing at a resolution higher than 1080p.
 
 You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.
+
+## Skyrim launches in a small window.
+
+If the game only covers part of the screen, you are likely playing on a resolution lower than your monitor's native resolution. For example, you may set the game's resolution to 1920x1080 in BethINI even though you have a 1440p (2560x1440) monitor in order to get better performance.
+
+To force your game to cover the entire screen, you need to change a setting in **SSE Display Fixes**.
+
+- In **Mod Organizer 2**, scroll up in the mod order to the **Essential Mods** separator.
+- Find **SSE Display Fixes** and double-click the mod.
+- Click on the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
+- Scroll to **Line 57** and change `BorderlessUpscale=` to **True**.
+- Press **CTRL + S** to save and close the window.
+
+![Skyrim Windowed](/Pictures/skyrim-se/appendix/skyrim-windowed.png)
+
+## Some beards look strange on Elven player characters.
+
+~~This is unfortunately a known issue with the beard TRI files in Ethereal Elven Overhaul. Some of them clip into the skin. Fixed TRI files for one beard (HumanBeard25) are packaged with the guide's CRP so that beards on humans look fine but issues remain with some beards on Elven characters. I have no idea to fix this and consider the issue low priority since Elves are rarely bearded anyway.~~
+
+**EEO was removed in TPF 4.0.**
+
+Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/issues/8) for details and pictures.
+
+## Dialogue subtitles get stuck on the screen longer after they played.
+
+This is a known issue with the mod [Fuz Ro D-oh](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=bugs) that the author is aware of. Since it rarely happens and doesn't disrupt gameplay, I will be keeping the mod in TPF for the forseeable future until we no longer need it.
+
+Check [issue report #41](https://github.com/foreverphoenix/the-phoenix-flavour/issues/41) for details and pictures.
+
+## Grass looks strangely dull and flat.
+
+Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** and **Detailed Shadows** are enabled to give grass some much needed depth. Be aware that both of those features are fairly demanding and often disabled in Lite presets for a reason.
+
+![Example](https://cdn.discordapp.com/attachments/521296280165679119/702036429341065286/enb2020_4_21_00_57_56.jpg)

@@ -1,12 +1,35 @@
 ---
 title: "Changelog"
-weight: 4
+weight: 3
 type: docs
 description: >
   For all versions since the Github release (3.2 and later).
 ---
 
-## Release 4.0 Beta
+## Release 4.0 Beta 2
+
+> 21/01/2020
+
+#### Initial Setup
+
+- **Mod Organizer 2:** Removed instructions to install deorder's MO2 plugins (better suited to a beginner's guide).
+- **ESM Cleaning:** Added instructions to use a specific filter when cleaning Dawnguard.esm manually.
+- **ESM Cleaning:** Fixed broken link at the bottom to the next page.
+
+#### Mod Installation
+
+- Swapped the **Landscape** (11 > 10) and **Trees & Plants** (10 > 11) steps.
+- **Weather:** Fixed link for Wonders of Weather - Less Opaque Rain Splashes for ENB.
+- **Trees & Plants:** Fixed download instructions for Enhanced Landscapes - Solstheim 3D Trees.
+- **Worldspace Additions:** Removed instructions to install an optional file for Solstheim Lighthouse (would be overwritten anyway).
+
+#### Appendix
+
+- **Troubleshooting:** Added instructions to enable BorderlessUpscale in SSE Display Fixes.
+- **Known Issues:** Moved everything from this page to Troubleshooting and removed it.
+- **Credits:** Updated for recent changes.
+
+## Release 4.0 Beta 1
 
 > 20/01/2020
 

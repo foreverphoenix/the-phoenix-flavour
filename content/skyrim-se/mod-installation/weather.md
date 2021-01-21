@@ -99,7 +99,7 @@ The next couple settings depend on your choice of ENB as well as personal prefer
 - **Select version:** BSA + ESL flagged
 - **Optional:** ~~Alternative Rain Splash Effect~~
 
-##### [Wonders of Weather - Less Opaque Rain Splashes for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+##### [Wonders of Weather - Less Opaque Rain Splashes for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/32062?tab=files)
 
 #### Download Instructions
 
