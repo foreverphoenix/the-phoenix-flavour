@@ -38,7 +38,7 @@ Some popular mods will never, ever be added to TPF. This is not necessarily beca
 
 TPF is unlikely to ever feature any kind of needs / survival mods with the exception of Parapets' [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068) which is subtle and streamlined enough to be considered.
 
-> Legacy of the Dragonborn is now available in the optional TPF LOTD profile of the Wabbajack edition of TPF. It's possible that there will be a fork of the written guide with LOTD in the future; however, it's unlikely that it will ever be integrated into the main guide.
+> Legacy of the Dragonborn is NO LONGER available in the Wabbajack version of TPF. The Elysium WJ mod list is a fork of TPF featuring LOTD and EnaiRim as well as CC support.
 
 #### Creation Club support
 

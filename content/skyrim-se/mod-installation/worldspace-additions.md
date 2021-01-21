@@ -89,7 +89,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Solstheim Lighthouse v1.2 ESL
-* **Optional Files:** HD Raven Rock Brick Texture Replacer
 
 #### Additional Instructions
 
