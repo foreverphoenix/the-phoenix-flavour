@@ -84,6 +84,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 * Proceed once SSEEdit returns `Done: Applying Filter`.
 * Double-click **Dawnguard.esm** (now displayed in orange), then double-click **Cell**.
+* Double-click **Block 5**, then **Sub-Block 3**.
 * Find the following cell (highlighted in red) in the list and select it:
   * `00016BCF RiftenRaggedFlagon`
 * Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
