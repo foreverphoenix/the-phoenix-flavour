@@ -6,7 +6,12 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
-## Release 4.0 Beta
+## Release 4.0 Beta 2
+
+> TBD
+
+
+## Release 4.0 Beta 1
 
 > 20/01/2020
 
