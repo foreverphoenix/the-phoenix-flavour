@@ -10,7 +10,6 @@ description: >
 
 - **Phoenix** - that's me! - initially published the guide way back in 2017 and stuck with it ever since. I do all the writing, basically.
 - **Umgak** is in charge of all our custom patches, conflict resolution, and consistency edits.
-- **Lively** created and maintains the Wabbajack installer for TPF, and puts up with all the related help requests.
 
 ### Past & Present Contributors
 
@@ -24,6 +23,7 @@ description: >
 - Nth
 - Raven
 - nihues
+- Lively
 
 ### The Website
 

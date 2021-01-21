@@ -77,8 +77,11 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Check only **Dawnguard.esm** and hit **OK** (its masters, Skyrim.esm and Update.esm, will be loaded automatically).
 * Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
 * Right-click anywhere in the left pane and select **Apply Filter**.
-* Change nothing in the window that comes up next, but simply click **Filter** to confirm.
+* Make sure the **Basic Conflict Resolution** filter preset is selected (check the screenshot below).
+* Click **Filter** to start the process.
 * This will take a moment and you need to wait until it is done.
+
+![ESM Cleaning - Apply Filter](/Pictures/skyrim-se/initial-setup/xedit-apply-filter.png)
 
 ### Delete conflicting sub-record
 
@@ -101,4 +104,4 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 ---
 
-#### Continue with the [Instructions](/skyrim-se/mod-installation/01-instructions/) page.
+#### Continue with the [Instructions](/skyrim-se/mod-installation/instructions/) page.

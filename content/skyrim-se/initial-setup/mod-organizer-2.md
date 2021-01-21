@@ -120,26 +120,6 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 
 ![MO2 Select New Profile](/Pictures/skyrim-se/initial-setup/mo2-select-new-profile.png)
 
-## Deorder's MO2 Plugins
-
-> **This step is optional.**
-
-Deorder's **Sync Mod Order** MO2 plugin allows you to update one profile's mod order to mirror another's. This is incredibly useful if you have multiple profiles (default TPF, a customised version, one for an ongoing playthrough, one for testing, etc).
-
-* Open the Github page for [deorder’s MO2 Plugins](https://github.com/deorder/mo2-plugins/releases).
-* Download the latest version by clicking on **Source code (zip)**.
-* Open the downloaded archive and double-click the folder inside.
-* Navigate to `Mod Organizer 2\plugins`.
-* Extract the following folder and files from the archive into the **plugins** folder:
-  * **data**
-  * **pyMergePluginsHide.py**
-  * **pySyncModOrder.py**
-* Confirm when asked to merge the **data** folders.
-
-*The Sync Mod Order plugin is extremely useful for maintaining multiple profiles. At present, TPF doesn't include any merges so the second plugin, Merge Plugins Hide, is mostly added for the sake of completeness.*
-
-![Install Deorders Plugins](/Pictures/skyrim-se/initial-setup/deorders-plugins-installation.png)
-
 ## Separators
 
 * Download the [The Phoenix Flavour - MO2 Separator Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223) manually from the Nexus.

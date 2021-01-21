@@ -1,6 +1,6 @@
 ---
 title: "Trees & Plants"
-weight: 10
+weight: 11
 type: docs
 description: >
   Better meshes and textures for flora plus new variations.
@@ -38,7 +38,9 @@ description: >
 
 #### Download Instructions
 
-- You already downloaded this mod.
+- **Main Files:** Main File v1.6
+
+> Do not install the mod yet.
 
 #### Installation Instructions
 
