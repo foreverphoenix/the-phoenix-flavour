@@ -37,12 +37,6 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
 
 ![Cathedral Weathers MCM](/Pictures/skyrim-se/new-game/cw-mcm.jpg)
 
-## Diverse Dragons Collection
-
-- Open the MCM once, then exit it.
-
-> By doing so, the mod will recognise that you have SKSE and SkyUI installed and automatically removes its configuration tool from your Powers menu.
-
 ## Follower Framework
 
 ### NPC Behaviour (optional)

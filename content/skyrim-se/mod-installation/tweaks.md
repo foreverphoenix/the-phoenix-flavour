@@ -42,6 +42,13 @@ description: >
 
 * **Main Files:** Alik’r Warriors Aren’t Welcome
 
+##### [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Falion Is Rude
+* **Main Files:** Roggvir's Amulet of Talos
+
 ##### [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files)
 
 #### Download Instructions

@@ -6,6 +6,51 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Beta 4
+
+> 24/01/2020
+
+Simon's werewolf overhaul is finally out now and replaced Growl which completes our suite of SimonRim mods for gameplay. Because of this and the update Scion received, a new save is required for Beta 4.
+
+I also did some reshuffling. Again. It's better if I do it now before 4.0 is officially out.
+
+#### Initial Setup
+
+- **Skyrim and Steam:** Updated Game Language screenshot for the new Steam UI.
+- **Skyrim and Steam:** Updated Disable Auto Updates screenshot for the new Steam UI.
+
+#### Mod Installation
+
+- **Gameplay Overhauls:** Removed Growl - Werebeasts of Skyrim.
+- **Gameplay Overhauls:** Added Manbeast - A Werewolf Overhaul.
+- **Gameplay Overhauls:** Added Simple Werewolf Favourite Howls Menu.
+- **Improved Vanilla Quests:** Added The Companions - Don't Be A Milk Drinker.
+- **Balancing:** Renamed "Crafting & New Gear" AGAIN. Yeah. Back to the old name.
+- **Tweak Collections:** Added Misc Tweaks - More Expensive Player Homes.
+- **Skeleton & Animations:** Fixed file name in download instructions for Immersive Dragons.
+- **Skeleton & Animations:** Fixed file name in download instructions for Werewolf Claws Affect Spider Webs.
+- **Tweak Collections:** Removed this section because it was dumb.
+- **Tweak Collections:** Removed Morrowloot Miscellania - Dremora Bound Weapons.
+- **Tweak Collections:** Moved Morrowloot Miscellania - Unleveled Uniques to Balancing.
+- **Tweak Collections:** Moved Miscellaneous Tweaks Collection to Gameplay.
+- **Tweak Collections:** Moved Andealphus' Gameplay Tweaks to Improved Vanilla Quests (as they all affect quests).
+- **Tweak Collection:** Moved Assorted Tiny Tweaks to Tweaks.
+- **Sounds & Music:** Added Around the Fire - Skyrim Fan-Made Music.
+
+#### New Game
+
+- **Mod Configuration:** Removed left-over MCM instructions for Diverse Dragons Collection.
+- **Gameplay Guide:** Finally started working on this page.
+
+#### Conflict Resolution Patch
+
+- Removed the Draught of Fate Unwound from other leveled lists, now only available in Riften.
+- Lowered amount of available Draughts of Fate Unwound in Elgrim's Inventory to 1.
+- Tripled value of the Draught of Fate Unwound.
+- Removed records and edits related to Growl - Werebeasts of Skyrim.
+- Removed two meshes (related to removed mods, EEO and Growl).
+- Fixed a conflict between Manbeast and Mortal Enemies.
+
 ## Release 4.0 Beta 3
 
 > 24/01/2021
@@ -16,7 +61,7 @@ description: >
 
 #### Mod Installation
 
-- **Fixes:** Removed xEdit tweak for Simply Smaller Wolves (moved to the CRP).
+- **Tweaks:** Removed xEdit tweak for Simply Smaller Wolves (moved to the CRP).
 - **Interface:** Added Extended UI for Skyrim Uncapper.
 - **Trees & Plants:** Fixed file name in download instructions for Enhanced Landscapes - Solstheim 3D Trees.
 - **Creatures:** Added HD Werewolves.
