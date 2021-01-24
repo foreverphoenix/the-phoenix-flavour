@@ -95,6 +95,8 @@ description: >
 * **Optional Patches:**
   * ~~ROM - WMA Patch~~
 
+> Only check the one patch marked above. All other patches offered are not required as conflicts are resolved in TPF's final patch.
+
 ##### [Genuinely Intelligent Soul Traps (GIST)](https://www.nexusmods.com/skyrimspecialedition/mods/15755?tab=files)
 
 #### Download Instructions

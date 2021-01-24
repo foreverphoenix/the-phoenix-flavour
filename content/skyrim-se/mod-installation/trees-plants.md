@@ -38,7 +38,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Main File v1.6
+- **Main Files:** Main File v1.65
 
 > Do not install the mod yet.
 

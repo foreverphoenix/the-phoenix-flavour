@@ -13,6 +13,11 @@ description: >
 * **Main Files:** HMB II
 * **Optional Files:** Vanilla Body with UNP Textures by Shiva182
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\character\eyes\eyewerewolfbeastbrown.dds`
+
 ##### [Expressive Facegen Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/35785?tab=files)
 
 #### Download Instructions

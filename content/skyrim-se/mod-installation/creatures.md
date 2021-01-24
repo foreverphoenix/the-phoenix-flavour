@@ -106,6 +106,22 @@ description: >
 
 * Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
 
+##### [HD Werewolves](https://www.nexusmods.com/skyrim/mods/60804?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** KrittaKitty HD werewolves - Replacer - NMM installer - 2k
+
+#### FOMOD Instructions
+
+- **Mesh Options:** Vanilla
+- **Coat Color options:** Dunmer - Black
+- **Eye colours:** Natural
+
+#### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+
 ##### [HD Reworked Bears 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41028?tab=files)
 
 #### Download Instructions

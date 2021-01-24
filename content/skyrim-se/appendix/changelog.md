@@ -6,6 +6,54 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Beta 3
+
+> 24/01/2021
+
+#### Introduction
+
+- Fixed an oversight in the "Included Mods" list.
+
+#### Mod Installation
+
+- **Fixes:** Removed xEdit tweak for Simply Smaller Wolves (moved to the CRP).
+- **Interface:** Added Extended UI for Skyrim Uncapper.
+- **Trees & Plants:** Fixed file name in download instructions for Enhanced Landscapes - Solstheim 3D Trees.
+- **Creatures:** Added HD Werewolves.
+- **Appearance:** Added instructions to Cathedral NPCs to delete one conflicting file.
+- **Gameplay Overhauls:** Added note to Reliquary of Myth to explain why certain patches shouldn't be installed.
+- **Non-Player Characters:** Added NFF - Disable Craftables.
+- **Improved Vanilla Quests:** Added Timing Is Everything - Custom Preset (finally!).
+- **Improved Vanilla Quests:** Fixed file name in download instructions for A Lovely Letter - Alternate Routes.
+- **Combat & Encounters:** No longer merging optional and main file from No Road Predators Redone.
+- **Combat & Encounters:** Removed Diverse Dragons Collection (most of the dragons are out of place in V+).
+- **Combat & Encounters:** Removed Diverse Werewolves Collection.
+- **Combat & Encounters:** Updated More Werewolves FOMOD instructions.
+- **Miscellaneous:** Removed obsolete reference to a mod being optional from Shadowmarks.
+- **Assorted Plugins:** Fixed file name in download instructions for Classic Sprinting Redone.
+- **Sounds & Music:** Fixed formatting for Phoenix - Merged Music Patch.
+- **Skeleton & Animations:** Fixed incomplete file path for downloads folder.
+
+#### Finalisation
+
+- **Cleanup:** Removed note referring to the possibility of having skipped a mod (which no longer exists).
+- **Cleanup:** Removed leftover instructions for Simply Knock (which was removed).
+- **Cleanup:** Removed one paragraph referring to the long removed Customisation section (the cake is a lie).
+
+#### New Game
+
+- **Mod Configuration:** Added instructions for Timing Is Everything (loading the custom preset).
+- **Mod Configuration:** Removed note about potential CTDs from Wonders of Weather rain splashes option (they were fixed).
+
+#### Conflict Resolution Patch
+
+- Fixed the bucket by the Skyforge (a better collision mesh for the wrwalltierdivide01.nif).
+- Moved some plants around the Bannered Mare to reduce clipping.
+- Fixed conflict between the USSEP and Simply Smaller Wolves.
+- Removed records and edits related to Diverse Dragons Collection.
+- Removed records and edits related to Diverse Werewolves Collection.
+- Disabled one of four werewolves placed by More Werewolves in the Morthal swamp.
+
 ## Release 4.0 Beta 2
 
 > 21/01/2020

@@ -77,7 +77,7 @@ Disable Saddlebag's horse call power by following these steps:
 
 * **Main Files:** Improved Shadowmarks (512)
 
-> This mod also contains new textures for the Shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks if you installed that mod.
+> This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
 
 ##### [Delphine’s Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301?tab=files)
 
