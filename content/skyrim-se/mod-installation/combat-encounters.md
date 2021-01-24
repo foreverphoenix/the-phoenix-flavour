@@ -73,32 +73,13 @@ description: >
 #### Download Instructions
 
 - **Main Files:** No Road Predators
-- **Main Files:** No Road Predators - Less Predators Addon >> `merge with the main file`
-
-##### [Diverse Dragon Collection (DDC)](https://www.nexusmods.com/skyrimspecialedition/mods/695?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Diverse Dragons Collection SE
+- **Main Files:** No Road Predators - Less Predators Addon
 
 ##### [Splendor - Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Splendor - Dragon Variants
-
-##### [Diverse Werewolves Collection (DWC)](https://www.nexusmods.com/skyrimspecialedition/mods/7009?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Diverse Werewolves Collection
-* **Optional Files:** DWC Player Werewolf Replacer
-
-#### FOMOD Instructions - DWC Player Werewolf Replacer
-
-* **Skin:** 11
-* **Eyes:** 8
-* **Mouth:** 2
 
 ##### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files)
 
@@ -108,7 +89,7 @@ description: >
 
 #### FOMOD Instructions
 
-* **Version:** DWC version
+* **Version:** Standalone version
 * **Patches:** RFYL patch
 
 ##### [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238?tab=files)

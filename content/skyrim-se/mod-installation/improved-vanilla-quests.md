@@ -12,6 +12,12 @@ description: >
 
 * **Main Files:** Timing is Everything SE - FISS version
 
+##### [Timing Is Everything - Custom Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Timing Is Everything - Custom Preset
+
 ##### [The Choice Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850?tab=files)
 
 #### Download Instructions
@@ -24,7 +30,7 @@ description: >
 
 * **Main Files:** Miscellaneous Quests…as Miscellaneous Quests
 
-##### [A Lovely Letter - Alternate Route](https://www.nexusmods.com/skyrimspecialedition/mods/21916?tab=files)
+##### [A Lovely Letter - Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916?tab=files)
 
 #### Download Instructions
 

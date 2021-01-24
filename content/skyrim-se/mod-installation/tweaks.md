@@ -114,24 +114,6 @@ description: >
 
 > The file is actually called Simply Bigger Wolves. Don’t be confused, this is a mistake on the part of the author.
 
-#### Additional Instructions
-
-Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts manually.
-
-* Run **SSEEdit** through Mod Organizer 2.
-* Click **OK** in the plugin selection window to load all your mods.
-* Wait until SSEEdit returns `Background loader: finished`.
-* Double-click **SimplySmallerWolfs2.esp** in the left pane to expand the plugin.
-* Double-click **Non-Player Character (Actor)** and select the **EncC06WolfSpirit** record inside.
-* Drag and drop all edits highlighted red from the **Unofficial Skyrim Special Edition Patch.esp** column into **SimplySmallerWolfs2.esp**.
-* When asked, click **Yes I'm absolutely sure**.
-* Once both conflicts are resolved, the record will be displayed in green.
-* Close SSEEdit. Click **OK** to save your changes and quit.
-
-![Simply Smaller Wolves 1](/Pictures/skyrim-se/mod-installation/simply-smaller-wolves-conflict-1.png)
-
-![Simply Smaller Wolves 2](/Pictures/skyrim-se/mod-installation/simply-smaller-wolves-conflict_2.png)
-
 ##### [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files)
 
 #### Download Instructions

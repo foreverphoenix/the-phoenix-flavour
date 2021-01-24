@@ -17,7 +17,7 @@ description: >
 
 #### Installation Instructions
 
-* Move the downloaded archive to `Your Modding Folder\ARCHIVE`.
+* Move the downloaded archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 * Press F5 in Mod Organizer 2 to refresh and the mod will show up in the **Downloads** tab.
 * From there install the mod as usual.
 

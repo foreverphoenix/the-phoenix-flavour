@@ -118,6 +118,12 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
   * ~~Apocalypse for SSE~~
   * ~~Elemental Destruction Magic for SSE~~
 
+##### [NFF - Disable Craftables](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Nether's Follower Framework - Disable Craftables
+
 ##### [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
 
 #### Download Instructions

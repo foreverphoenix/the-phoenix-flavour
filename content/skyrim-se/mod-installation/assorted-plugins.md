@@ -61,7 +61,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Classic Sprinting Redone - Version Independent
+* **Main Files:** Classic Sprinting Redone
 
 ##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
 

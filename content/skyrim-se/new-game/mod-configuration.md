@@ -127,9 +127,16 @@ By default, the lightning storms with this mod are pretty intense. I'd suggest c
 
 ## Timing Is Everything
 
-Another large MCM, and one you should configure now, at the start of the game as it affects many quests that start very early on in Vanilla. I’ve personally increased the Dawnguard level requirements to 30+ and set Dragonborn to start only after Alduin’s defeat but this is all down to your preferences and plans for this playthrough.
+Another large MCM, and one you should configure now, at the start of the game as it affects many quests that start very early on in Vanilla. You can either leave the settings on default, tweak them, or apply my preset that we installed earlier. You can also apply my preset and *then* tweak whatever you dislike about it.
 
-Thanks to the FISSES support, it is also possible to load, save and share custom presets through the MCM (**Extra Options** tab).
+To apply the custom preset, do the following:
+
+- Go to the **Extra Options** tab in the Timing Is Everything MCM.
+- Click **Load Preset** and confirm.
+- You will be asked not the leave the MCM before the process is complete. Confirm again.
+- All values will be updated. Click **Okay** to close the final message box.
+
+![TIE MCM](/Pictures/skyrim-se/new-game/tie-mcm.jpg)
 
 ## Trade & Barter
 
@@ -139,9 +146,9 @@ Thanks to the FISSES support, it is also possible to load, save and share custom
 
 ## Wonders of Weather
 
-* Under **Rainsplashes**, set **Level** to **Disabled** to turn the effect off.
+This is optional and personal preference.
 
-> This is done to prevent CTDs.
+* Under **Rainsplashes**, set **Level** to **Disabled** to turn the effect off.
 
 ![Wonders of Weather MCM](/Pictures/skyrim-se/new-game/wow-mcm.jpg)
 

@@ -174,6 +174,19 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
+##### [Extended UI for Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/44643?tab=description)
+
+#### Download Instructions
+
+- **Main Files:** Extended UI for Skyrim Uncapper Adamant Arena
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `interface\console.swf`
+
+> This file would otherwise overwrite and break More Informative Console.
+
 ##### [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
 
 #### Download Instructions

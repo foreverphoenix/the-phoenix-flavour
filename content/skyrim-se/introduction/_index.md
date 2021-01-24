@@ -83,7 +83,7 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **ENBSeries:** Using ENB is optional, there are instructions to add a preset and related mods.
 - **Gameplay:** Featuring the full suite of [SimonMagus' suite of lightweight overhauls](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
 - **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
-- **New Companions:** Custom-voiced companions of (arguably) the highest quality are included: Inigo and Lucien.
+- **New Companions:** None included.
 - **DLC-Sized Mods:** None included.
 - **Body Replacer:** None included.
 - **Needs and Survival Mods:** None included.
