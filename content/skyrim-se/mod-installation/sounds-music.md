@@ -126,6 +126,12 @@ description: >
 
 - **Main Files:** Hun Lovaas - ESP version
 
+##### [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Around the Fire
+
 ##### [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200?tab=files)
 
 #### Download Instructions

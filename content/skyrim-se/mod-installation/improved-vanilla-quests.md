@@ -83,6 +83,12 @@ description: >
 
 * **Main Files:** Companions Questline Tweaks
 
+##### [The Companions - Don't Be A Milk Drinker](https://www.nexusmods.com/skyrimspecialedition/mods/19490?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Companions - Don't be a Milk Drinker_v1.0
+
 ##### [More Radiant Quests for the Companions](https://www.nexusmods.com/skyrimspecialedition/mods/24144?tab=files)
 
 #### Download Instructions
@@ -110,3 +116,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Stackable Stones of Barenziah with Optional Quest Markers
+
+##### [Andrealphus' Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/27939?tab=files)
+
+#### Download instructions
+
+* **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
+* **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
+* **Main Files:** ANDR Tweaks 07 - Only Dead Lover's Cause Inheritance Letters
+* **Main Files:** ANDR Tweaks 13A - Stones of Barenziah - Dawnguard

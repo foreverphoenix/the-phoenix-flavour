@@ -12,18 +12,18 @@ description: >
 
 * **Main Files:** Mysticism - A Magic Overhaul
 
+##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** More Expensive Transmute for Mysticism
+
 ##### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Adamant - A Perk Overhaul
 * **Optional Files:** Adamant Addons - Shrines and Amulets
-
-##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** More Expensive Transmute for Mysticism
 
 ##### [Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files)
 
@@ -55,11 +55,17 @@ description: >
 
 * **Main Files:** Scion - A Vampire Overhaul
 
-##### [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
+##### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Growl 2.3.0
+* **Main Files:** Manbeast - A Werewolf Overhaul
+
+##### [Simple Werewolf Favourite Howls Menu](https://www.nexusmods.com/skyrimspecialedition/mods/35736?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Werewolf Favourite Howls Menu
 
 ##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
 
@@ -126,3 +132,23 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch
+
+##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
+- **Main Files:** Misc Tweaks - Better Horses
+- **Main Files:** Misc Tweaks - More Expensive Player Homes
+- **Main Files:** Misc Tweaks - More Realistic Animal Loot
+- **Main Files:** Misc Tweaks - Night Eye Redux
+- **Main Files:** Misc Tweaks - No Starting Spells
+- **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
+
+#### FOMOD Instructions - No Starting Spells
+
+- **Plugin:** AI Overhaul Compatible Plugin
+
+#### FOMOD Instructions - Shrines Don't Cure Diseases
+
+- **Plugin:** Adamant Shrines Version

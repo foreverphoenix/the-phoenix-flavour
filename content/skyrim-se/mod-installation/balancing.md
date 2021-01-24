@@ -1,9 +1,9 @@
 ---
-title: "Crafting & New Gear"
+title: "Balancing"
 weight: 28
 type: docs
 description: >
-  Mods that affect item creation and distribution.
+  Mods that affect item distribution, crafting, and the economy.
 ---
 
 ##### [Alchemy Potions and Food Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/5877?tab=files)
@@ -102,3 +102,9 @@ description: >
 - **Patches:**
   - Weapons Armor Clothing and Clutter Fixes Patch
   - Enchanting Adjustments Patch
+
+##### [Morrowloot Miscellania - Unleveled Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Morrowloot Miscellania - Unleveled Uniques
