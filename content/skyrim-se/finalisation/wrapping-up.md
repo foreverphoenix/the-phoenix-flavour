@@ -75,6 +75,8 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Realistic-Voice.esp **compact FormIDs**
 * No NPC Greetings.esp
 * Don'tTalkWithYourMouthFull.esp
+* Followers Don't Draw Weapons.esp
+* sandboxcylinderheight.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
 * SparklesSE.esp

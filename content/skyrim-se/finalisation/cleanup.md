@@ -1,6 +1,6 @@
 ---
 title: "Clean-Up"
-weight: 7
+weight: 8
 type: docs
 description: >
   Post-launch clean up and final steps.
@@ -15,8 +15,7 @@ If you delete these, they’ll just be regenerated the next time you launch the 
 ### Open in Explorer
 
 * Right-click the ***Overwrite*** and select **Open in Explorer**.
-* Navigate to `SKSE\Plugins` which contains files for Keyboard Shortcuts Fix, and Fuz Ro D’oh.
-* Drag the window to the side or your second monitor.
+* Navigate to `SKSE\Plugins` which contains files for Keyboard Shortcuts Fix and Fuz Ro D’oh.
 
 ### Keyboard Shortcuts Fix
 

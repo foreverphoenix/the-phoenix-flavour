@@ -6,6 +6,52 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Beta 5
+
+> TBD
+
+As you may have noticed, the **ENBSeries** section has vanished from the sidebar. What happened? It was reintegrated. Everything from those pages was moved back into the main body of the guide with ENBMan, binaries, and preset installation being a step in the Finalisation. This was done in order to further streamline the guide and eliminate optional paths and variations.
+
+#### Introduction
+
+- Updated more outdated parts of the introduction page.
+
+#### Initial Setup
+
+- **INI Files:** Reintegrated ENB-related tweaks (disabling AO, increasing particle count).
+
+#### Mod Installation
+
+- **Tweaks:** Added Followers Don't Draw Weapons.
+- **Tweaks:** Added Multiple Floors Sandboxing.
+- **Interface:** Fixed file name in download instructions for Fix Note Icon for SkyUI.
+- **Graphics Baseline:** Updated AMB instructions (Content Addon version not needed with AVL).
+- **Non-Player Characters:** Added Simple Offence Suppression.
+- **Non-Player Characters:** Added Simple Offence Suppression MCM - Block Friendly Fire.
+- **Non-Player Characters:** Removed Nether's Follower Framework.
+- **Non-Player Characters:** Removed NFF - Disable Craftables.
+- **Combat & Encounters:** Added Better Stealth AI for Followers.
+- **Combat & Encounters:** Added Follower Trap Safety.
+- **Combat & Encounters:** Added instructions to download the Follower Trap Safety Patch for Improved Traps.
+- **Combat & Encounters:** Removed Improved Traps - Nether's Follower Framework Bear Trap Fix.
+- **Miscellaneous:** Removed additional instructions from Saddlebags that would remove its Horse Call power.
+- **Utilities:** Added Spell Perk Item Distributor.
+- **Utilities:** Removed UIExtensions (was only installed for NFF).
+
+#### Finalisation
+
+- **Wrapping Up:** Added Followers Don't Draw Weapons.esp to the list of plugins to ESL-ify.
+- **Wrapping Up:** Added sandboxcylinderheight.esp (Multiple Floors Sandboxing) to the list of plugins to ESL-ify.
+- **ENBSeries:** Added this new page which includes many instructions from the now removed ENBSeries section.
+- **ENBSeries:** Serio's ENB is now once again the default ENB preset for TPF due to its performance-friendly nature.
+- **ENBSeries:** Added instructions on how to customise ENB screenshots in the global enblocal.ini file.
+
+#### New Game
+
+- **Mod Configuration:** Removed instructions for Nether's Follower Framework.
+- **ENB Tweaks:** Removed this page as we are now using an already tweaked version of Serio's ENB.
+- **Gameplay Guide:** Removed mention of Nether's Follower Framework.
+
 ## Release 4.0 Beta 4
 
 > 24/01/2020

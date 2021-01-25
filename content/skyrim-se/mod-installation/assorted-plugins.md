@@ -75,6 +75,12 @@ description: >
 
 * **Main Files:** I'm Walkin' Here
 
+##### [Disable Follower Collision](https://www.nexusmods.com/skyrimspecialedition/mods/35925?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DisableFollowerCollision v1.0.0 for SkyrimSE
+
 ##### [Free Look](https://www.nexusmods.com/skyrimspecialedition/mods/42620?tab=files)
 
 #### Download Instructions

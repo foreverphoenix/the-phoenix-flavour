@@ -36,6 +36,18 @@ The mod comes with two console commands to customise it. One will prevent innkee
 
 The commands will now be executed automatically when you start a new game or load your save.
 
+##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+
+#### Download Instructions
+
+- **Main File:** Simple Offence Suppression
+
+##### [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Offence Suppression MCM - Block Friendly Fire
+
 ##### [Guard Dialogue Overhaul (GDO)](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files)
 
 #### Download Instructions
@@ -85,44 +97,6 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 * **Optional Files:** Thugs Not Assassins - Timing Is Everything
 
 > Even though Timing Is Everything will be installed later and lower in the mod order, the scripts from the TNA TIE patch will still override because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
-
-##### [Nether’s Follower Framework (NFF)](https://www.nexusmods.com/skyrimspecialedition/mods/18076?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Nether’s Follower Framework - Universal Installer (LE or SSE)
-
-#### FOMOD Instructions
-
-* **Game Version:**
-  * Skyrim Special Edition
-* **Core Options:**
-  * Followers Avoid Traps
-  * ~~Replace Base Dialogue Scripts~~
-  * ~~Follower Leveling Bat File~~
-  * ~~Follower Class BAT Files~~
-* **Removed Scripts:**
-  * ~~Install Dummy Scripts~~
-* **Core Mod Support:**
-  * ~~Interesting NPCs~~
-  * ~~Relationship Dialogue Overhaul (RDO)~~
-  * ~~RDO Comments~~
-  * ~~Misty Skye~~
-* **Spell Perk Item Distributor Options:**
-  * ~~Friendly Fire~~
-  * ~~Skill Boosts~~
-  * ~~Spell Magnitude Mod~~
-* **No Team Magic Damage Core (Beta):**
-  * ~~ESP for Skyrim Special Edition~~
-* **NTMD Mod Support (Beta):**
-  * ~~Apocalypse for SSE~~
-  * ~~Elemental Destruction Magic for SSE~~
-
-##### [NFF - Disable Craftables](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Nether's Follower Framework - Disable Craftables
 
 ##### [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
 
