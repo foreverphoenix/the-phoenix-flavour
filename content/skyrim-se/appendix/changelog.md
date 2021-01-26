@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.0 Beta 5
 
-> TBD
+> 26/01/2021
 
 As you may have noticed, the **ENBSeries** section has vanished from the sidebar. What happened? It was reintegrated. Everything from those pages was moved back into the main body of the guide with ENBMan, binaries, and preset installation being a step in the Finalisation. This was done in order to further streamline the guide and eliminate optional paths and variations.
 
@@ -67,7 +67,7 @@ Also removed was **Nether's Follower Framework** after some internal discussions
 
 ## Release 4.0 Beta 4
 
-> 24/01/2020
+> 24/01/2021
 
 Simon's werewolf overhaul is finally out now and replaced Growl which completes our suite of SimonRim mods for gameplay. Because of this and the update Scion received, a new save is required for Beta 4.
 
@@ -160,7 +160,7 @@ I also did some reshuffling. Again. It's better if I do it now before 4.0 is off
 
 ## Release 4.0 Beta 2
 
-> 21/01/2020
+> 21/01/2021
 
 #### Initial Setup
 
@@ -183,7 +183,7 @@ I also did some reshuffling. Again. It's better if I do it now before 4.0 is off
 
 ## Release 4.0 Beta 1
 
-> 20/01/2020
+> 20/01/2021
 
 Update 4.0 for The Phoenix Flavour is firmly taking the setup back to its "vanilla plus" roots. TPF is committing to low-impact mods that blend in well while doubling down on our performance-friendly visual enhancements. Many mods were removed in this update, some of the beloved favourites, but there are solid reasons behind each removal.
 
