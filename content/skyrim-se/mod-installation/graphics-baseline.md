@@ -42,11 +42,15 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** 2) aMidianBorn Book of Silence SE - CCOR CONTENT ADDON
+- **Main Files:** 1) aMidianBorn Book of Silence SE -- COMPLETE
 
 #### Additional Instructions
 
-- Unpack and delete **aMidianBorn_ContentAddon.bsa** through Mod Organizer 2.
+- Unpack **aMidianBorn_ContentAddon.bsa** through Mod Organizer 2.
+- Delete the following file(s) and / or folder(s):
+  - `aMidianBorn Optional Plugins`
+  - `aMidianBorn_Content.bsa`
+  - `aMidianBorn_Content.esp`
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 

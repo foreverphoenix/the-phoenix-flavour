@@ -42,17 +42,24 @@ description: >
 
 * **Main Files:** Realistic AI Detection 2 SE - Lite
 
+##### [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Stealth AI for Followers
+
+##### [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Follower Trap Safety
+
 ##### [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Improved Traps (Dangerous Edition)
-
-##### [Improved Traps - Nether's Follower Framework Bear Trap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31868?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Improved Traps - Nether's Follower Framework Bear Trap Fix
+* **Miscellaneous Files:** Improved Traps - Follower Safety Patch
 
 ##### [Disarming Traps Is Dangerous](https://www.nexusmods.com/skyrimspecialedition/mods/21691?tab=files)
 

@@ -37,46 +37,9 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
 
 ![Cathedral Weathers MCM](/Pictures/skyrim-se/new-game/cw-mcm.jpg)
 
-## Follower Framework
-
-### NPC Behaviour (optional)
-
-* Turn on the following options under **Activity** >> **Sandboxing**:
-  * Ignore Special Furniture
-  * Stop During Player Dialogue
-  * Only Sandbox In Town
-
-> My preferences. Optional.
-
-### Horse Whistle (optional)
-
-NFF features a bindable horse whistle hotkey which you can press to call the last ridden mount to your location.
-
-* Under **Activity** >> **Player Horse**, bind a **Call Player Horse Hotkey**.
-
-### Regard System (optional)
-
-*  Disable the Regard system under **Gameplay** >> **Regard**:
-  * Allow Regard: Off
-
-> This is completely optional. The feature works perfectly fine, I just don't like it personally.
-
-### Additional Powers (optional)
-
-* Disable the **Command Followers** ability under **System** >> **Casted Abilities** to further de-clutter your Powers menu.
-* You can define a hotkey for it above.
-
-### ConsoleUtil Support
-
-* Under **System** >> **Core**, check the **Enable ConsoleUtil** option.
-
 ## Genuinely Intelligent Soul Traps
 
 This mod - while focusing on bug fixes and soul gem multithreading - comes with some very nifty level requirement options. If you like, you can set level requirements for each of its special features as well as the for capturing of each tier of souls. Toggle and adjust this system in the **Leveling** tab.
-
-## Growl - Werebeasts of Skyrim
-
-* Toggle on **Invulnerable During Transformation**.
 
 ## Immersive HUD
 

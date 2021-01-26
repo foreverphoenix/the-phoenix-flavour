@@ -93,6 +93,18 @@ description: >
 
 - **Main Files:** Don’t Talk With Your Mouth Full
 
+##### [Followers Don't Draw Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/3870?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Followers Don't Draw Weapons v1.0.1
+
+##### [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Multiple Floors Sandboxing
+
 ##### [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files)
 
 #### Download Instructions

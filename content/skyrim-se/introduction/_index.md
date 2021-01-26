@@ -18,7 +18,7 @@ If you choose to install the 4.0 Beta, please:
 - report bugs, issues, and inconsistencies on [Github](https://github.com/foreverphoenix/the-phoenix-flavour/issues),
 - and join our [Discord server](https://discord.com/invite/BpwXX5f) for any further questions and feedback.
 
-**Old versions of TPF are unsupported and discontinued.**
+**Older versions of TPF are unsupported and discontinued.**
 
 ## Overview
 
@@ -80,9 +80,9 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
 - **Textures:** Noble Skyrim 2K overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
 - **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory; 3D tree LOD is optional.
-- **ENBSeries:** Using ENB is optional, there are instructions to add a preset and related mods.
+- **ENBSeries:** Using Serio's ENB which is performance-friendly and does not break nighteye.
 - **Gameplay:** Featuring the full suite of [SimonMagus' suite of lightweight overhauls](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
-- **Loot and Rarity:** Concept borrowed from Morrowloot, although much lighter and more stream-lined.
+- **Loot and Rarity:** Lightly tweaked vanilla loot which remains leveled.
 - **New Companions:** None included.
 - **DLC-Sized Mods:** None included.
 - **Body Replacer:** None included.

@@ -143,7 +143,6 @@ With Adamant, there is finally support for an unarmed playthrough. Three perks i
 
 ## Companions
 
-- [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076)
 - [Irondusk's Saddlebags](https://www.nexusmods.com/skyrim/mods/91395)
 - [Misc Tweaks - Better Horses](https://www.nexusmods.com/skyrimspecialedition/mods/38348)
 
@@ -151,13 +150,11 @@ With Adamant, there is finally support for an unarmed playthrough. Three perks i
 
 While TPF does not feature a full horse overhaul, there are three mods that make horses a great deal more convenient. For one, they will no longer attack and instead flee upon entering combat. The five buyable horses as well as the unique Frost were also set to Essential so they will not die if they do get hit.
 
-**Saddlebags:**
+**New functionality:**
 
 With Irondusk's mod Saddlebags, you will be able to store up to 500 weight units of items on your horse. Simply interact with your horse while crouching and you will be prompted to open your saddle bags.
 
-**Horse Whistle:**
-
-Nether's Follower Framework includes a hotkey for calling your horse which you can define in the NFF MCM.
+The mod also adds a Horse Call power which you can use to teleport your last ridden horse to your location.
 
 ## Shrines and Divines
 

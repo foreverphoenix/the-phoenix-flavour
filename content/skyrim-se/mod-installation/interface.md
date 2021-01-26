@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** FixNotesForSkyUI SKSE64 2.0.17
+- **Main Files:** FixNotesForSkyUI SKSE64 2.0.17 and 2.0.19
 
 ##### [Remove Quicksave Button from SkyUI Systems Menu](https://www.nexusmods.com/skyrimspecialedition/mods/28334?tab=files)
 
@@ -28,9 +28,7 @@ description: >
 
 - **Options:** 2b - Save-MCM-etc, MCM renamed
 
-#### About the mod
-
-While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
+> While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
 
 ##### [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files)
 

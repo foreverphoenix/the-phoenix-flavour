@@ -63,7 +63,7 @@ description: >
   - ~~Equippable Spell Tomes~~
   - ~~Female Mannequins~~
   - ~~Flora Respawn Fix~~
-  - ~~Humans, Mer, and Beastfolk~~
+  - ~~Humans, Mer, and Beastfolk~~ >> `enabled by default, uncheck the box`
   - ~~Immersive Laundry~~
   - ~~Interesting NPCs~~
   - ~~Konahrik's Accountrements~~

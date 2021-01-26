@@ -16,26 +16,6 @@ description: >
 
 - Resave the plugin in the Creation Kit.
 
-#### Additional Instructions
-
-Saddlebags includes not only a horse storage feature but also a Lesser Power called Horse Whistle which calls your last ridden horse to your location. Nether's Follower Framework already contains the same feature, but you can set it to a specific hotkey in the NFF MCM, making it a good deal more convenient than using yet another power.
-
-Disable Saddlebag's horse call power by following these steps:
-
-- Run **SSEEdit** through Mod Organizer 2.
-- Click **OK** in the plugin selection window to load all plugins.
-- Wait for SSEEdit to return `Background Loader: finished`.
-- Scroll down in the left pane to **Saddlebags.esp** and double-click it.
-- Double-click the **Quest** category and select the `SaddlebagsQuest` record.
-- Under **Aliases** >> **Alias Spells**, delete the following (see screenshot below):
-  - `HorseWhistleSpell "Horse Whistle" [SPEL:9D001D92]`
-- When the warning window pops up, click **Yes I'm absolutely sure**.
-- Close SSEEdit and click **OK** to save your changes.
-
-> This will prevent the power from being given to the player, effectively disabling it.
-
-![Saddlebags Disable Whistle](/Pictures/skyrim-se/mod-installation/saddlebags-disable-whistle.png)
-
 ##### [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files)
 
 #### Download Instructions

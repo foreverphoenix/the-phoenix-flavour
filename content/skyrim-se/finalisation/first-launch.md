@@ -1,6 +1,6 @@
 ---
 title: "First Launch"
-weight: 6
+weight: 7
 type: docs
 description: >
   Ingame testing and ENB configuration.
@@ -20,11 +20,7 @@ Once arrived at this point it is important to test your setup in order to make s
 * When you’re done, talk to the Statue of Mara and select the **I am camping in the woods** option.
 * Go to the bed in the back in the cell and interact with it to "sleep".
 
-## Configuration
-
-### Immersive HUD
-
-**Both of these changes are completely optional but recommended.**
+## Immersive HUD
 
 Changes to MCM settings do not carry over across save games so it would be a waste of time to configure all MCMs for a test run. There are merely two changes in the Immersive HUD MCM that I recommend for now.
 
@@ -37,7 +33,7 @@ Changes to MCM settings do not carry over across save games so it would be a was
 
 > This will make it so that the clock widget from A Matter of Time is toggled along with the rest of the HUD, and that you only have to press the button once to toggle all elements.
 
-### Depth of Field
+## Depth of Field
 
 While the default Depth of Field effect is fairly ugly, you will have noticed that we specifically left it turned on while configuring INI settings way back during the Setup section. This is because the DoF effect is tied to the underwater blur effect - turn off DoF and you will be able to see as clearly underwater as above the surface. The solution to this is leaving the effect on but turning it down all the way so that the DoF effect doesn't actually kick in.
 
