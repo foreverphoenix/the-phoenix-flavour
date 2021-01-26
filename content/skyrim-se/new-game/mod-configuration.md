@@ -41,10 +41,6 @@ Thanks to SkyUI, it is possible to configure most mods directly through their Mo
 
 This mod - while focusing on bug fixes and soul gem multithreading - comes with some very nifty level requirement options. If you like, you can set level requirements for each of its special features as well as the for capturing of each tier of souls. Toggle and adjust this system in the **Leveling** tab.
 
-## Growl - Werebeasts of Skyrim
-
-* Toggle on **Invulnerable During Transformation**.
-
 ## Immersive HUD
 
 ### Toggle Settings (optional)

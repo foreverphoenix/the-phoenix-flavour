@@ -12,6 +12,10 @@ description: >
 
 As you may have noticed, the **ENBSeries** section has vanished from the sidebar. What happened? It was reintegrated. Everything from those pages was moved back into the main body of the guide with ENBMan, binaries, and preset installation being a step in the Finalisation. This was done in order to further streamline the guide and eliminate optional paths and variations.
 
+Also removed was **Nether's Follower Framework** after some internal discussions. Overtime, NFF has grown from a lightweight follower overhaul to an excessively bloated mod doing all kinds of things. While it remains high quality, the vast majority of features are misplaced in a v+ setup. Additionally, combat is easier for us to balance knowing that players are limited to a single follower like in vanilla. Some features of NFF were replaced by other mods.
+
+**New save required** once again because of the removal of NFF. Sorry. =(
+
 #### Introduction
 
 - Updated more outdated parts of the introduction page.
@@ -26,10 +30,12 @@ As you may have noticed, the **ENBSeries** section has vanished from the sidebar
 - **Tweaks:** Added Multiple Floors Sandboxing.
 - **Interface:** Fixed file name in download instructions for Fix Note Icon for SkyUI.
 - **Graphics Baseline:** Updated AMB instructions (Content Addon version not needed with AVL).
+- **Gameplay Overhauls:** Fixed file name in download instructions for Skyrim Uncapper - Adamant Arena.
 - **Non-Player Characters:** Added Simple Offence Suppression.
 - **Non-Player Characters:** Added Simple Offence Suppression MCM - Block Friendly Fire.
 - **Non-Player Characters:** Removed Nether's Follower Framework.
 - **Non-Player Characters:** Removed NFF - Disable Craftables.
+- **College of Winterhold:** Added note to Obscure's College FOMOD instructions to specifically disable the HMB patch.
 - **Combat & Encounters:** Added Better Stealth AI for Followers.
 - **Combat & Encounters:** Added Follower Trap Safety.
 - **Combat & Encounters:** Added instructions to download the Follower Trap Safety Patch for Improved Traps.
@@ -42,6 +48,7 @@ As you may have noticed, the **ENBSeries** section has vanished from the sidebar
 
 - **Wrapping Up:** Added Followers Don't Draw Weapons.esp to the list of plugins to ESL-ify.
 - **Wrapping Up:** Added sandboxcylinderheight.esp (Multiple Floors Sandboxing) to the list of plugins to ESL-ify.
+- **DynDOLOD:** Added skippable instructions on how to remove DynDOLOD's meme loading screens.
 - **ENBSeries:** Added this new page which includes many instructions from the now removed ENBSeries section.
 - **ENBSeries:** Serio's ENB is now once again the default ENB preset for TPF due to its performance-friendly nature.
 - **ENBSeries:** Added instructions on how to customise ENB screenshots in the global enblocal.ini file.
@@ -49,8 +56,14 @@ As you may have noticed, the **ENBSeries** section has vanished from the sidebar
 #### New Game
 
 - **Mod Configuration:** Removed instructions for Nether's Follower Framework.
+- **Mod Configuration:** Removed instructions for Growl - Werebeasts of Skyrim.
 - **ENB Tweaks:** Removed this page as we are now using an already tweaked version of Serio's ENB.
 - **Gameplay Guide:** Removed mention of Nether's Follower Framework.
+
+#### Conflict Resolution Patch
+
+- Removed playable flag from Hvergelmir's beards added to Cathedral NPCs (they have transparency issues).
+- Removed playable flag from extra hair styles added by Aetherial Crown.
 
 ## Release 4.0 Beta 4
 

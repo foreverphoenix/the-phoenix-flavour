@@ -35,7 +35,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Adamant Arena Ultimate Uncapper
+* **Main Files:** Skyrim Uncapper - Adamant Arena
 
 ##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
