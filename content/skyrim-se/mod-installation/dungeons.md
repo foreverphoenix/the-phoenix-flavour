@@ -38,6 +38,17 @@ description: >
   - `textures\dungeons\riften\ratwaywood01.dds`
   - `textures\dungeons\riften\ratwaywood01_n.dds`
 
+#### Helgen Mud Fix
+
+One of the meshes in Underground is in the wrong folder and will cause the mud on the ground during the intro quest to be weirdly shiny.
+
+- Right-click **Underground** in your mod order and select **Open in Explorer**.
+- Navigate to `meshes\clutter` and create a new folder called **helgen**.
+- Move **helgenmud01.nif** into the new **helgen** folder.
+- The resulting file path should be `meshes\clutter\helgen\helgenmud.nif`.
+
+> The reason why I am not doing this within MO2's UI is because it can get a bit buggy when moving files and sometimes doesn't show that the file has indeed been moved.
+
 ##### [Rudy HQ - Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/19365?tab=files)
 
 #### Download Instructions

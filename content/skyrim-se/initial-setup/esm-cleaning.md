@@ -77,7 +77,8 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 ### Delete conflicting sub-record
 
-* Double-click **Dawnguard.esm**, then double-click **Cell**.
+* Proceed once SSEEdit returns `Background Loader: finished`.
+* Double-click **Dawnguard.esm** in the left pane, then double-click **Cell**.
 * Navigate to `Block 5\Sub-Block 3` and select the record highlighted with red: `00016BCF RiftenRaggedFlagon`.
 * Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
@@ -89,8 +90,11 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 * Close SSEEdit.
 * When asked to save your changes, only **Dawnguard.esm** should appear in the list.
+* Uncheck **Backup plugins** at the bottom if it is checked.
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
+
+![Save Dawnguard ESM](/Pictures/skyrim-se/initial-setup/save-dawnguard-esm.png)
 
 ---
 

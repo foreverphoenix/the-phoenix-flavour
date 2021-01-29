@@ -54,7 +54,7 @@ description: >
 #### Download Instructions - Patches for Arthmoor's Towns
 
 - **Select options:**
-  * Patch for Alternate Start - Live Another Life
+  * ~~Patch for Alternate Start - Live Another Life~~
   * ~~Patch for Cutting Room Floor~~
   * Patch for Arthmoor’s Dragon Bridge
   * Patch for Arthmoor’s Shor’s Stone

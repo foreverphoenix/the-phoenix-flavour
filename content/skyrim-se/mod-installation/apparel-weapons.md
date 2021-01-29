@@ -257,8 +257,8 @@ description: >
 
 #### Download Instructions
 
-* **Optional Files:** Bloodcursed Arrows 1k
-* **Optional Files:** Sunhallowed Arrows 1k  >> `merge with the main file`
+* **Main Files:** Bloodcursed Arrows 1k
+* **Main Files:** Sunhallowed Arrows 1k  >> `merge with the main file`
 
 ##### [HD Reworked Shellbug](https://www.nexusmods.com/skyrimspecialedition/mods/41191?tab=files)
 

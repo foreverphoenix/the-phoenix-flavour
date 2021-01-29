@@ -18,6 +18,18 @@ It may be faster to download all mods of a page first, then install them, and fi
 
 > Keep this page open in a separate tab so you can refer back to it.
 
+## Additional Separators
+
+We already went over how to create separators back on the [Mod Organizer 2](/skyrim-se/initial-setup/mod-organizer-2/) page. As you can see in the sidebar on the left, there are plenty of pages in the mod installation section. Each of them will correspond to a separator in Mod Organizer 2.
+
+- Create a new separator for every page in the Mod Installation section as you go through them.
+- Enter the page's title as the name for the separator (eg **FIXES** or **INTERFACE**).
+- The first one, **ESSENTIAL MODS**, is already present of course.
+
+In case you're not sure how to create a new separator anymore:
+
+![MO2 Create Separator](/Pictures/skyrim-se/initial-setup/mo2-create-separator.png)
+
 ## Installation Instructions
 
 Each mod has its own section with the following instructions:

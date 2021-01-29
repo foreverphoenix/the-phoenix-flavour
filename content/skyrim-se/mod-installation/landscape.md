@@ -187,7 +187,7 @@ description: >
 
 #### FOMOD Instructions
 
-* **Choose Your Patches:** RBC + ArthRorik + AS LAL + LFFGM
+* **Choose Your Patches:** RBC + ArthRorik + LFFGM
 
 ##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
 

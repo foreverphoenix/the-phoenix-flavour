@@ -50,20 +50,6 @@ The simple truth of the matter is that TPF is written and patched by two people 
 
 Those experienced with modding and SSEEdit will find it very easy to customise the guide to their liking (though you should be aware that you are no longer eligible for support once you deviate from the instructions). Otherwise, there are many alternatives in the form of other guides and Wabbajack mod lists, including forks of TPF with mods adding more content.
 
-## Wabbajack
-
-Anyone who does not want to or is unable to invest large amounts of time into modding Skyrim SE should look into the **Wabbajack** version of The Phoenix Flavour instead of the installing it manually.
-
-Wabbajack is an auto-installer capable of "cloning" a full mod setup including all tweaks and changes to someone else's system. It requires virtually no modding experiences and very little effort, although to automate the download process a Nexus Premium account is required.
-
-|            | Advantages and Disadvantages of Wabbajack                    |
-| ---------- | ------------------------------------------------------------ |
-| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | The actual mod installation can be done within hours with zero effort. |
-| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | All additional instructions will take much less time to follow and complete than a full run of the manual guide would. |
-| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | Since most of the process is automated, it's unlikely that you will make mistakes that take time to track and fix. |
-| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Nexus Premium is required to automate the file downloads, otherwise you have to download each mod individually. |
-| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will learn nothing about modding or utilising the required tools. |
-
 ## Features
 
 Regardless of whether you build the setup manually or use the Wabbajack installer, here is what the resulting mod setup will feature:
@@ -74,8 +60,6 @@ Regardless of whether you build the setup manually or use the Wabbajack installe
 - **Stability:** Skyrim SE itself is already very stable compared to Classic Skyrim. You may still experience the occasional freeze or crash, but they will be very rare (perhaps once every 20 to 30 hours). These happen in Vanilla and they will happen in TPF.
 
 ### Included Mods
-
-You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1XFcvzBLykdkSxjX225S9tmqNWFFoTeNWUxBEK5YOIZQ/edit?usp=drive_web&ouid=118321045324288884377).
 
 - **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
 - **Textures:** Noble Skyrim 2K overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
@@ -88,6 +72,8 @@ You can find a full list of mods [here](https://docs.google.com/spreadsheets/d/1
 - **Body Replacer:** None included.
 - **Needs and Survival Mods:** None included.
 
+TPF also includes several mods adding **new music tracks** which I added to a convenient [YouTube playlist](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
+
 ### Additional Mods
 
 Please wait until **after** you completed the guide and tested your setup before adding more mods, otherwise you will no longer be eligible to receive support on our Discord server should you need it. We do not - and cannot - offer support for setups that are not 100% TPF. This includes **Creation Club** content.
@@ -99,6 +85,26 @@ The Phoenix Flavour is built using the most advanced, feature-rich mod manager o
 In addition to MO2, we will routinely utilise the official Creation Kit as well as SSEEdit and the Cathedral Assets Optimizer in the manual guide. You will be provided with detailed instructions for all these tools (and others) in order to teach you how and when to use them correctly.
 
 > This guide neither supports nor recommends **LOOT**. You should not use it at any point on a TPF installation.
+
+## Wabbajack
+
+Those unable or unwilling to invest large amounts of time into modding Skyrim SE should look into the **Wabbajack** version of The Phoenix Flavour instead of following the manual guide.
+
+Wabbajack is an auto-installer capable of "cloning" a full mod setup including all tweaks and changes to someone else's system. It requires virtually no modding experiences and very little effort, although to automate the download process a Nexus Premium account is required.
+
+|            | Advantages and Disadvantages of Wabbajack                    |
+| ---------- | ------------------------------------------------------------ |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | The actual mod installation can be done within hours with zero effort. |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | All additional instructions will take much less time to follow and complete than a full run of the manual guide would. |
+| <span style= "color: green"><i class="fas fa-plus-circle"></i></span> | Since most of the process is automated, it's unlikely that you will make mistakes that take time to track and fix. |
+| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | Nexus Premium is required to automate the file downloads, otherwise you have to download each mod individually. |
+| <span style= "color: red"><i class="fas fa-minus-circle"></i></span> | You will learn nothing about modding or utilising the required tools. |
+
+### TPF Wabbajack Installer
+
+While there is a lot that Wabbajack can automate, there are still some steps to complete in order to successfully set up Skyrim and TPF. These are covered in the [Wabbajack](/skyrim-se/wabbajack/) section. By using Wabbajack, you essentially skip the Initial Setup, Mod Installation, and Finalisation steps of the manual guide. However, you still need to configure your mods according to the [Mod Configuration](/skyrim-se/mod-configuration/) page just like users of the manual guide do.
+
+![TPF WJ Flowchart](/Pictures/skyrim-se/introduction/tpf-guide-flowchart.png)
 
 ## Alternatives
 
@@ -150,4 +156,6 @@ In summary: Hardware requirements for 2K and especially 4k are considerable and 
 
 On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
 
-#### Get started with the [Prerequisites](/skyrim-se/initial-setup/prerequisites/) page.
+#### MANUAL GUIDE USERS: Get started with the [Prerequisites](/skyrim-se/initial-setup/prerequisites/) page.
+
+#### WABBAJACK USERS: Get started with the [Setup](/skyrim-se/wabbajack/) page.

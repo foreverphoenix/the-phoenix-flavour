@@ -6,6 +6,78 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Beta 6
+
+> 29/01/2021
+
+With this update, **Alternate Start - Live Another Life** (aka AS LAL), got the boot. Gonna be honest here, I've been meaning to remove that mod for a long, long time. Unfortunately, there never was a simple alternative to it that just puts you in a quiet place to go through MCM settings and character creation before the vanilla start. And, spoiler alert, there still isn't.
+
+However, I discovered that the vanilla start - once a buggy mess in modded games - works perfectly fine in TPF. This is due to the fact that most mods no longer instantly fire all their scripts as soon as you start the game and we have very mods that run many scripts anyway. The overall stability of SSE and the decoupling of framerate and physics are helping here as well.
+
+Without AS LAL, everyone is forced to go through the vanilla intro which makes balancing far easier for us. There is simply no way we can balance every single one of AS LAL's starting points so that it's a fair start for a new playthrough. I always recommended the vanilla start anyway. Additionally, AS LAL touches so many parts of Skyrim that it's essentially patching hell. Now we are rid of that, too.
+
+The downside is that there is no quiet mod configuration spot before you are thrown into the game anymore. You will probably have to take a breather after escaping Helgen or later in Riverwood for the MCM stuff. I miss the convenience of the AS LAL cell but it's a small part of the mod and doesn't justify keeping the rest.
+
+**Website structure:** As you may have noticed, I moved around some pages and added a new (WIP) Wabbajack page. The purpose of this is to have a clear distinction of guide sections for manual and for WJ users.
+
+#### Introduction
+
+- Temporarily removed link to mod spreadsheet (very outdated, will get to it).
+- Added link to the new [playlist](https://www.youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) with music tracks added by mods in TPF.
+- Expanded the Wabbajack section and added a FLOWCHART to make it obvious which sections WJ users need to follow.
+
+#### Initial Setup
+
+- **Mod Organizer 2:** Rewrote the Separator section to have DIY instructions (users make their own separators).
+- **ESM Cleaning:** Actually fixed Dawnguard manual cleaning instructions (could have sworn I already did this).
+- **ESM Cleaning:** Added note to uncheck SSEEdit Backups so that they don't clutter up your Overwrite.
+
+*For Beta Testers: Re-cleaning Dawnguard.esm is not necessary. The problem was that I had custom Filter profiles that I thought were default. Users didn't have them though, so I had to rewrite the instructions without using a filter.*
+
+#### Mod Installation
+
+- **Instructions:** Added paragraph on creating new separators for each new page in the mod installation section.
+- **Essential Mods:** Removed Alternate Start - Live Another Life (praise the Nine).
+- **Fixes:** Updated FOMOD instructions for Landscape Fixes for Grass Mods (no longer selecting the AS LAL patch).
+- **Tweaks:** Removed Multiple Floors Sandboxing (added to ACC).
+- **Graphics Baseline:** Fixed file names in additional instructions for aMidianBorn Book of Silence.
+- **Graphics Baseline:** Added instructions to delete the scripts folder from aMidianBorn Book of Silence.
+- **Landscape:** Updated FOMOD instructions for Rorikstead Basalt Cliffs Patches (no longer installing the AS LAL patch).
+- **Dungeons:** Added instructions to Underground to fix the shiny mud in Helgen.
+- **Apparel & Weapons:** Fixed download instructions for Sunhallowed and Bloodcursed Arrows (Optional Files > Main Files).
+- **Miscellaneous:** Removed Bounty Previews (late note from Beta 1, will be re-added very soon).
+
+#### Finalisation
+
+- **Wrapping Up:** Added instructions to create a new separator before installing the CRP.
+- **Wrapping Up:** Removed sandboxcylinderheight.esp from list of plugins to ESL-ify (added to ACC).
+- **Nemesis:** Added instructions to add a PATCHER OUTPUT separator.
+- **DynDOLOD:** Added instructions to click "Advanced" in the window that comes up when *not* generating 3D tree LOD.
+- **Occlusion:** Improved instructions for generating Occlusion (minor rephrasing).
+- **First Launch:** Updated for the removal of Alternate Start.
+- **Clean-Up:** Moved instructions to check MO2 for errors here.
+
+#### New Game
+
+- This section was completely removed.
+- Most of the FINAL STEPS page was redundant except for the MO2 error check which was moved to Clean-up instead.
+- The MOD CONFIGURATION page is now a top-level page.
+- The GAMEPLAY GUIDE page is now a top-level page.
+
+#### Wabbajack
+
+- Added this new top-level page with instructions for the Wabbajack version of TPF.
+
+#### Mod Configuration
+
+- **Mod Configuration:** This is now a top-level page.
+- **Mod Configuration:** Temporarily removed the (fairly pointless) instructions for GIST. Will add proper ones in the future.
+
+#### Gameplay Guide
+
+- **Gameplay Guide:** This is now a top-level page.
+- **Gameplay Guide:** Added a far too detailed section about the music mods added in TPF.
+
 ## Release 4.0 Beta 5
 
 > 26/01/2021

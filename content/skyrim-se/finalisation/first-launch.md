@@ -15,10 +15,11 @@ Once arrived at this point it is important to test your setup in order to make s
 ## Start a test game
 
 * In Mod Organizer 2, select **SKSE** in the exectuables drop-down and hit **Run**.
-* In the main menu, select **New** to start your test save.
-* After the initial loading screen you will find yourself in the AS LAL cell where you can customise your (testing) character.
-* When you’re done, talk to the Statue of Mara and select the **I am camping in the woods** option.
-* Go to the bed in the back in the cell and interact with it to "sleep".
+* In the main menu, open the console by pressing the tilde key (above TAB, next to 1).
+* Type in `coc riverwood` and hit Enter.
+* After the loading screen, you'll find yourself in Riverwood with a test character.
+
+**Before you continue, wait for all messages in the upper left corner to run through**.
 
 ## Immersive HUD
 
@@ -44,9 +45,8 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
 
 ## Testing Suggestions
 
-* You will spawn near Helgen in an area you likely know well. Take some time to look around.
-* Activate the ENBSeries FPS counter if you installed ENB (default hotkey: Numpad *). Otherwise use the Steam overlay or something similar.
-* It is often convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
+* Activate the ENBSeries FPS counter (**F7**) to monitor your frame rate.
+* It may be convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
 * Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers).
 * Especially intense areas where you frame rate might drop are:
   * the southern forest, especially when looking down at Falkreath,

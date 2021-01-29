@@ -110,15 +110,13 @@ When Adamant as well as the guide and CRP received a save-safe update, you can d
 - Update your TPF installation: Adamant, CRP, and anything else that may have changed.
 - Load your save and spend your previously refunded perk points.
 
-## Various Mods
-
-### Creation Kit Fixes
+## Creation Kit Fixes
 
 - Download the newest version of the **CK64Fixes Release x.x** main file.
 - Open the archive and extract all files into your **root** folder.
 - Overwrite when prompted.
 
-### SSE Engine Fixes
+## SSE Engine Fixes
 
 - If (Part 1) was updated, simply click **Mod Manager Download** and install through MO2 as usual.
 - If (Part 2) was updated, click **Manual Download**.

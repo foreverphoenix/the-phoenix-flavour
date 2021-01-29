@@ -8,8 +8,9 @@ description: >
 
 ## Conflict Resolution Patch
 
-* Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
-* Install it as usual and place it last below the **FINAL PATCHES** separator.
+- Create a **FINAL PATCH** separator in Mod Organizer 2.
+- Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
+- Install it as usual, place it last below the **FINAL PATCH** separator, and activate it.
 
 ## Load Order TXT
 
@@ -41,8 +42,6 @@ MO2 has inbuilt functionality that checks for plugins with Form 43 (Skyrim LE pl
 ![Check for Form43 Plugins](/Pictures/skyrim-se/finalisation/check-for-form43-plugin.png)
 
 ## Flag Plugins as ESL
-
-### Example Plugin
 
 While at this point many installed plugins are already flagged as ESL (ESP-Lite) and we are not exceeding the maximum of 255 ESP+ESM plugins, there are several more plugins that may easily be flagged as ESL in order to save plugin slots. This completely removes the need to merge some plugins.
 
@@ -76,7 +75,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * No NPC Greetings.esp
 * Don'tTalkWithYourMouthFull.esp
 * Followers Don't Draw Weapons.esp
-* sandboxcylinderheight.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
 * SparklesSE.esp
