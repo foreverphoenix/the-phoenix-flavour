@@ -22,7 +22,7 @@ If you choose to install the 4.0 Beta, please:
 
 ## Overview
 
-The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 600 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
+The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 500 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
 
 *The concept of "Vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay loop.*
 

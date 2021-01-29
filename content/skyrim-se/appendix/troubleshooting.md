@@ -14,10 +14,8 @@ If by chance you are seeing the error message picture below, it is simply an iss
 
 ## Skyrim crashes upon launch.
 
-#### Launching the game correctly
-
-- Make sure Steam is running in the background.
-- In MO2, select SKSE64 from the drop-down menu and click Run.
+- Make sure **Steam** is running in the background.
+- In **MO2**, select **SKSE64** from the drop-down menu and click **Run**.
 
 #### Outdated SKSE plugins
 
@@ -79,7 +77,9 @@ Check [issue report #8](https://github.com/foreverphoenix/the-phoenix-flavour/is
 
 ## Dialogue subtitles get stuck on the screen longer after they played.
 
-This is a known issue with the mod [Fuz Ro D-oh](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=bugs) that the author is aware of. Since it rarely happens and doesn't disrupt gameplay, I will be keeping the mod in TPF for the forseeable future until we no longer need it.
+~~This is a known issue with the mod [Fuz Ro D-oh](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=bugs) that the author is aware of. Since it rarely happens and doesn't disrupt gameplay, I will be keeping the mod in TPF for the forseeable future until we no longer need it.~~
+
+**Fuz Ro D'oh was removed in TPF 4.0 Beta 7.**
 
 Check [issue report #41](https://github.com/foreverphoenix/the-phoenix-flavour/issues/41) for details and pictures.
 

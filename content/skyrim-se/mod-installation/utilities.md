@@ -54,12 +54,6 @@ description: >
 
 * **Main Files:** Spell Perk Item Distributor - 4.1
 
-##### [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Fuz Ro D’oh
-
 ##### [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files)
 
 *This mod was added mostly for the **spp** console command which allows you to quickly cheat perk points. This can be useful for testing, since vanilla Skyrim has no command to directly add perk points.*
