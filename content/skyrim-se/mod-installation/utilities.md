@@ -36,7 +36,7 @@ description: >
 
 * **Main Files:** ScaleformTranslationPP
 
-##### [ConsoleUtils](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
+##### [ConsoleUtil](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
 
 #### Download Instructions
 

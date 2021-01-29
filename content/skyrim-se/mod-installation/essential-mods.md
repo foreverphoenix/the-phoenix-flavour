@@ -69,6 +69,23 @@ description: >
 
 - **Main Files:** ACC - Autorun Console Commands
 
+#### Additional Instructions
+
+The first set of console commands we want run automatically can be added now (more mod-related ones will come later). [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524) merely changes two existing game settings which can simply edited through the console, thus removing the need for an additional plugin.
+
+- Double-click **Autorun Console Commands** in Mod Organizer 2.
+- Switch to the **Textfiles** tab and select the **Autorun.txt** file.
+- Add the following two lines in the text field:
+
+```
+SetGS fSandboxCylinderTop 576
+SetGS fSandboxCylinderBottom -576
+```
+
+- Close the window and click **Yes** when asked to save.
+
+![ACC Add MFS](/Pictures/skyrim-se/mod-installation/acc-add-mfs.png)
+
 ##### [Unofficial High Definition Audio Project (UHDAP)](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)
 
 #### Download Instructions
@@ -107,12 +124,6 @@ description: >
 - Delete the following file(s) and/or folder(s):
   * `WACCF_BashedPatchLvlListFix.esp`
   * `Weapons Armor Clothing & Clutter Fixes.modgroups`
-
-##### [Alternate Start - Live Another Life (AS LAL)](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Alternate Start - Live Another Life
 
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 

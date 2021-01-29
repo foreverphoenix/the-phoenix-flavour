@@ -57,4 +57,4 @@ iSize W=1920
 
 - Afterwards, click the **Save** button and close the window. 
 
-![Change Game Resolution](/Pictures/guide-resources/change-game-resolution.png)
+![Change Game Resolution](/Pictures/skyrim-se/guide-resources/change-game-resolution.png)

@@ -182,6 +182,7 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
 
 #### FOMOD Instructions - Main File
 
+* **Vanilla or USSEP:** USSEP
 * **Texture Choices:** Paler Eye Area
 
 #### FOMOD Instructions - Updated Textures

@@ -31,8 +31,7 @@ While SSELODGen is primarily made to regenerate terrain LOD, we are only going t
 
 - Run **SSELODGen** through Mod Organizer 2.
 - In the worldspaces window, check **Tamriel "Skyrim"** and **DLC2SolstheimWorld "Solstheim"**.
-- Uncheck **Terrain LOD**.
-- Check **Occlusion**.
+- Uncheck all options except for **Occlusion**.
 - Set **Quality** to **3**.
 - Set **Height** to **100**.
 - Click **Generate** and wait for the process to complete.

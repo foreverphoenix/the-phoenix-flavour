@@ -23,12 +23,11 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 
 ## Configuration
 
-### Mod Order Fix
+In the mod order (left pane), arrange the DLC as follows:
 
-- In the mod order (left pane), arrange the DLC as follows:
-  - **DLC: Dawnguard**
-  - **DLC: HearthFires**
-  - **DLC: Dragonborn**
+- **DLC: Dawnguard**
+- **DLC: HearthFires**
+- **DLC: Dragonborn**
 
 > This is, admittedly, not actually necessary. It just bothers me to no end that they are in the wrong order and this is the order you will see them in in my screenshots.
 
@@ -122,22 +121,31 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 
 ## Separators
 
-* Download the [The Phoenix Flavour - MO2 Separator Pack](https://www.nexusmods.com/skyrimspecialedition/mods/14223) manually from the Nexus.
-* Open the downloaded archive.
-* Extract all folders ending on **_separator** to `Mod Organizer 2\mods`.
-* Switch back to Mod Organizer 2 and press F5 to refresh. The new separators will now appear in your mod order.
-* If you would like to change their color, click the first separator, then hold SHIFT and click the last to select all.
-* Right-click the selected separators, click **Select Color** and change it to whatever you like.
-* Move the first separator above the official master files:
-  * **00 OFFICIAL MASTER FILES**
-  * *DLC: Dawnguard*
-  * *DLC: HearthFires*
-  * *DLC: Dragonborn*
-  * **01 ESSENTIAL MODS**
-  * **02 FIXES**
-  * **…**
+Mod Organizer 2 offers a separator feature which greatly helps with organising your mod order in the left pane. In the past, the separators were provided to me but I have since been persuaded that  users benefit from learning how to create their own.
 
-![MO2 Separators](/Pictures/skyrim-se/initial-setup/mo2-install-separators.png)
+- In Mod Organizer 2, click the **Tools** icon above the mod order (see screenshot).
+- Select **Create Separator** and enter **"OFFICIAL MASTER FILES** as the name.
+- Click **OK** and the new separator will appear at the bottom of your mod order.
+- Select your new separator and move it per drag-and-drop above the three DLC.
+
+![MO2 Create Separator](/Pictures/skyrim-se/initial-setup/mo2-create-separator.png)
+
+### Colour Customisation
+
+You can change the colour of your separators at any time. A new separator will always have the colour of the one you created previously. You can also have different colours for different sections. Once you have multiple separators, it is also possible to Shift-Click or Control-Click to select any or all of them, and change the colour for all at once.
+
+To change the colour of your first separator:
+
+- Right-click your **OFFICIAL MASTER FILES** separator and click **Select color**.
+- Change the colour to whatever you want and click **OK**.
+
+### Essential Mods
+
+While we're at it, we should create another separator which we'll need in the next step.
+
+- Once again, click the **Tools** icon above the mod order.
+- Select **Create Separator** and enter **"ESSENTIAL MODS"** as the name.
+- Click **OK** and your new separator will appear at the bottom of your mod order where you should leave it for now.
 
 ---
 

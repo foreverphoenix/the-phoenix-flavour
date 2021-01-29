@@ -46,11 +46,12 @@ description: >
 
 #### Additional Instructions
 
-- Unpack **aMidianBorn_ContentAddon.bsa** through Mod Organizer 2.
+- Unpack **aMidianBorn_Book Of Silence.bsa** through Mod Organizer 2.
 - Delete the following file(s) and / or folder(s):
   - `aMidianBorn Optional Plugins`
-  - `aMidianBorn_Content.bsa`
-  - `aMidianBorn_Content.esp`
+  - `scripts`
+  - `aMidianBorn_Book Of Silence.bsa`
+  - `aMidianBorn_Book Of Silence.esp`
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 

@@ -12,8 +12,6 @@ As mentioned before, the ***Overwrite*** folder in Mod Organizer 2 catches all f
 
 If you delete these, they’ll just be regenerated the next time you launch the game, but we don’t want them to clutter up the ***Overwrite*** either. The best solution is to keep these files with the mods they belong to, inside their mod folders. This way they will also be removed and regenerated when the mod is updated.
 
-### Open in Explorer
-
 * Right-click the ***Overwrite*** and select **Open in Explorer**.
 * Navigate to `SKSE\Plugins` which contains files for Keyboard Shortcuts Fix and Fuz Ro D’oh.
 
@@ -38,12 +36,26 @@ If you delete these, they’ll just be regenerated the next time you launch the 
 * Close all Explorer windows and return to Mod Organizer 2.
 * Double-click the ***Overwrite*** and delete any left-over files.
 
-## What now?
+## MO2 Notifications
+
+Before you can finally start your playthrough, there's one final check. In Mod Organizer 2, go to **View** >> **Notifications**. If this is greyed out, you are good to go! If not there are multiple different warnings you might encounter:
+
+- **Missing Masters:** One of your plugins is missing a master file. It is marked with an exclamation mark in your load order. This is most likely due to skipping a mod that was not optional or selecting the wrong option in a FOMOD installer. Go back to the mod’s instructions in the guide and double-check everything.
+- **Form 43 Plugin:** You forgot to re-save one or several plugins in the Creation Kit. Re-save them now.
+- **Outdated SKSE Plugin:** Check the plugin's mod page to see if there is a new version.
+
+> If you have warnings in MO2 and are not certain what to do about them, please join us on Discord and ask there in the appropriate channels.
+
+## New Game
 
 **Congratulations, you have completed The Phoenix Flavour!**
 
-I hope you had a great time, found the instructions easy to follow, and didn’t run into any frustrating issues. Your game is now thoroughly overhauled and you learned plenty about modding in the meantime.
+I hope you had a great time, found the instructions easy to follow, and didn’t run into any frustrating issues. Your game is now thoroughly overhauled and you learned plenty about modding over the course of the guide.
 
-The final section, **New Game**, will help you get started with your next playthrough. It contains recommended changes to the Mod Configuration Menus.
+However, we are not quite done.
 
-**Happy modding!**
+You can now start your own playthrough by running the SKSE through Mod Organizer 2 as usual and selecting **NEW** in the main menu to start the vanilla intro. After completing the intro quest (after leaving Helgen), continue with the [Mod Configuration](/skyrim-se/new-game/mod-configuration/) page. **This is mandatory.**
+
+Also feel free to consult the [Gameplay Guide](/skyrim-se/new-game/gameplay-guide/) for additional information on how to play with the TPF setup.
+
+**Happy ~~modding~~ playing!**
