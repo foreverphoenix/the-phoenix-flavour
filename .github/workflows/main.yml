@@ -40,7 +40,6 @@ jobs:
         
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.event == 'push'
         with:
           personal_token: ${{ secrets.PAGES_TOKEN }}
           external_repository: foreverphoenix/foreverphoenix.github.io
@@ -52,7 +51,6 @@ jobs:
       
       - name: Purge cache
         uses: jakejarvis/cloudflare-purge-action@master
-        if: github.event == 'push'
         env:
           CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}

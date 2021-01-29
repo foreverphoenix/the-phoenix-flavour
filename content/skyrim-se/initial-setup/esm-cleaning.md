@@ -70,9 +70,7 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 
 There are [additional instructions written up by alt3rn1ty](https://forums.nexusmods.com/index.php?/topic/5381485-guide-manual-cleaning-skyrim-and-skyrim-special-edition-master-files/) to manually clean some dirty edits that won’t be caught by SSEEdit’s quick cleaning procedure. Only one of the edits can affect actual gameplay though, so we won’t bother with removing the other two which are simply left-over test records.
 
-### Load Plugin
-
-* Run **SSEEdit** through Mod Organizer 2 (do NOT use the Quick Cleaning version).
+* Run **SSEEdit** through Mod Organizer 2 (do not use the Quick Cleaning version).
 * In the plugin selection window, right-click and **Select None**.
 * Check only **Dawnguard.esm** and hit **OK** (its masters, Skyrim.esm and Update.esm, will be loaded automatically).
 * Once SSEEedit returns the message `Background Loader: finished`, you may proceed.
@@ -81,7 +79,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 * Proceed once SSEEdit returns `Background Loader: finished`.
 * Double-click **Dawnguard.esm** in the left pane, then double-click **Cell**.
-* Navigate to the following record: `Block 5\Sub-Block 3\00016BCF RiftenRaggedFlagon` and select it.
+* Navigate to `Block 5\Sub-Block 3` and select the record highlighted with red: `00016BCF RiftenRaggedFlagon`.
 * Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
