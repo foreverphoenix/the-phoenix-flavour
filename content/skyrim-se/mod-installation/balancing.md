@@ -27,6 +27,12 @@ description: >
   - ~~Rare Curios Consistency Patch~~
   - ~~Awesome Potions Consistency Patch~~
 
+##### [Alchemy Adjustments - TPF Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Alchemy Adjustments - TPF Tweaks
+
 ##### [Enchanting Adjustments and Price Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/8473?tab=files)
 
 #### Download Instructions

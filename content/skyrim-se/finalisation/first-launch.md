@@ -3,16 +3,14 @@ title: "First Launch"
 weight: 7
 type: docs
 description: >
-  Ingame testing and ENB configuration.
+  Ingame testing and starting a new game.
 ---
 
-## The Final Step
+## A Test Game
 
 All mods are installed. The ENB preset is configured correctly. DynDOLOD is generated. Now comes the moment of truth.
 
 Once arrived at this point it is important to test your setup in order to make sure your game looks as intended, performs well, and runs stable so that you can finally start a new playthrough without a high risk for nasty surprises.
-
-## Start a test game
 
 * In Mod Organizer 2, select **SKSE** in the exectuables drop-down and hit **Run**.
 * In the main menu, open the console by pressing the tilde key (above TAB, next to 1).
@@ -21,7 +19,7 @@ Once arrived at this point it is important to test your setup in order to make s
 
 **Before you continue, wait for all messages in the upper left corner to run through**.
 
-## Immersive HUD
+### Immersive HUD
 
 Changes to MCM settings do not carry over across save games so it would be a waste of time to configure all MCMs for a test run. There are merely two changes in the Immersive HUD MCM that I recommend for now.
 
@@ -34,7 +32,7 @@ Changes to MCM settings do not carry over across save games so it would be a was
 
 > This will make it so that the clock widget from A Matter of Time is toggled along with the rest of the HUD, and that you only have to press the button once to toggle all elements.
 
-## Depth of Field
+### Depth of Field
 
 While the default Depth of Field effect is fairly ugly, you will have noticed that we specifically left it turned on while configuring INI settings way back during the Setup section. This is because the DoF effect is tied to the underwater blur effect - turn off DoF and you will be able to see as clearly underwater as above the surface. The solution to this is leaving the effect on but turning it down all the way so that the DoF effect doesn't actually kick in.
 
@@ -45,6 +43,8 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
 
 ## Testing Suggestions
 
+I recommend you spend at least 10 to 20 minutes ingame. Enjoy the improved graphics and take some screenshots! Once you have quit the game, proceed with the next step.
+
 * Activate the ENBSeries FPS counter (**F7**) to monitor your frame rate.
 * It may be convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
 * Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers).
@@ -54,4 +54,20 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
   * the bridge looking at Riverwood,
   * the Rift, particularly when approaching Riften from the south.
 
-I recommend spending at least 10 to 20 minutes ingame. Enjoy the improved graphics and take some screenshots! Once you have quit the game, proceed with the next step.
+**When you are satisfied, close Skyrim SE again.**
+
+If you encounter any bugs, performance lower than expected, or even crashes, please join us on Discord and provide us with detailed information about the problem. Any outstanding issues should be solved before diving back into Skyrim for a proper playthrough.
+
+## A New Playthrough
+
+**Congratulations, you have completed The Phoenix Flavour!**
+
+I hope you had a great time, found the instructions easy to follow, and didn’t run into any frustrating issues. Your game is now thoroughly overhauled and you learned plenty about modding over the course of the guide.
+
+However, we are not quite done.
+
+You can now start your own playthrough by running the SKSE through Mod Organizer 2 as usual and selecting **NEW** in the main menu to start the vanilla intro. After completing the intro quest (after leaving Helgen), continue with the [Mod Configuration](/skyrim-se/new-game/mod-configuration/) page. **This is mandatory.**
+
+Also feel free to consult the [Gameplay Guide](/skyrim-se/new-game/gameplay-guide/) for additional information on how to play with the TPF setup.
+
+**Happy ~~modding~~ playing!**

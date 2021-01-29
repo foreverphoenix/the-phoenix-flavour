@@ -173,3 +173,14 @@ description: >
 #### Download Instructions
 
 * **Main Files:** KeyboardShortcutsFix_SKSE64
+
+#### Additional Instructions
+
+- Right-click **Keyboard Shortcuts Fix** in your mod order.
+- Select **Open in Explorer** and navigate to `SKSE\Plugins`.
+- Right-click anywhere and select **New** >> **Text Document**.
+- Enter **KeyboardShortcutsFix** as the name.
+- Change the file extension to .log by renaming it.
+- The full file name should be `KeyboardShortcutsFix.log`.
+
+> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.

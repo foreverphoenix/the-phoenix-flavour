@@ -10,7 +10,7 @@ description: >
 
 Hi there, this is the **Wabbajack** section of the guide. If you have so far followed the manual guide (Initial Setup, Mod Installation, Finalisation), please continue with the [Mod Configuration](/skyrim-se/mod-configuration/) page, the Wabbajack section is NOT for you. Move along, nothing to see here.
 
-If you want to install TPF via Wabbajack, you ARE in the right place. Let's get started.
+If you want to install TPF via Wabbajack, you ARE in the right place. Make sure you've read the [Introduction](/skyrim-se/introduction/) page and let's get started.
 
 ## Requirements
 

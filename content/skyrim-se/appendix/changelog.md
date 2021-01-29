@@ -6,6 +6,31 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Beta 7
+
+> 29/01/2021
+
+With the removal of Fuz Ro D'oh and new instructions for Keyboard Shortcuts Fix, the Clean-up page has essentially become redundant and was removed.
+
+**Beta Testers:** To update to Beta 7, delete Fuz Ro D'oh in Mod Organizer 2 (Utilities separator). Then download the new Alchemy Adjustments - TPF tweaks mod, install it, update the CRP, download the new loadorder.txt and apply it. Done!
+
+#### Mod Installation
+
+- **Fixes:** Added instructions for Keyboard Shortcuts Fix to create its LOG file manually.
+- **Trees & Plants:** Fixed missing picture for EL Solstheim 3D Trees.
+- **Balancing:** Properly added Alchemy Adjustments - TPF Tweaks.
+- **Utilities:** Removed Fuz Ro D'oh (no longer necessary now that AS LAL was removed).
+
+#### Finalisation
+
+- **Wrapping Up:** Expanded the Check for MO2 Warnings section.
+- **Final Steps:** Slightly restructured the page and added the A New Playthrough section.
+- **Clean-up:** Removed this page which has become redundant.
+
+#### Appendix
+
+- **Troubleshooting:** Marked one listed issue as resolved due to the removal of Fuz Ro D'oh.
+
 ## Release 4.0 Beta 6
 
 > 29/01/2021

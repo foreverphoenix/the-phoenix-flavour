@@ -51,7 +51,7 @@ description: >
 - Extract the **textures** and **meshes** folders to `Mod Organizer 2\mods\Enhanced Landscapes - Solstheim 3D Trees`.
 - Close the archive and the Explorer window.
 
-![Solstheim Trees Installation](/Pictures/customisation/solstheim_tree_installation.png)
+![Solstheim Trees Installation](/Pictures/skyrim-se/mod-installation/solstheim-tree-installation.png)
 
 #### Additional Instructions
 
