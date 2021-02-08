@@ -3,7 +3,7 @@ title: "First Launch"
 weight: 7
 type: docs
 description: >
-  Ingame testing and starting a new game.
+  Ingame testing.
 ---
 
 ## A Test Game
@@ -58,16 +58,4 @@ I recommend you spend at least 10 to 20 minutes ingame. Enjoy the improved graph
 
 If you encounter any bugs, performance lower than expected, or even crashes, please join us on Discord and provide us with detailed information about the problem. Any outstanding issues should be solved before diving back into Skyrim for a proper playthrough.
 
-## A New Playthrough
-
-**Congratulations, you have completed The Phoenix Flavour!**
-
-I hope you had a great time, found the instructions easy to follow, and didn’t run into any frustrating issues. Your game is now thoroughly overhauled and you learned plenty about modding over the course of the guide.
-
-However, we are not quite done.
-
-You can now start your own playthrough by running the SKSE through Mod Organizer 2 as usual and selecting **NEW** in the main menu to start the vanilla intro. After completing the intro quest (after leaving Helgen), continue with the [Mod Configuration](/skyrim-se/new-game/mod-configuration/) page. **This is mandatory.**
-
-Also feel free to consult the [Gameplay Guide](/skyrim-se/new-game/gameplay-guide/) for additional information on how to play with the TPF setup.
-
-**Happy ~~modding~~ playing!**
+#### Continue with the [Mod Configuration](/skyrim-se/mod-configuration/) page.

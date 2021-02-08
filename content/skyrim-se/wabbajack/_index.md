@@ -114,6 +114,15 @@ By default, the game is set to run at 1440p which is very demanding. You should 
 - [How to change the game's resolution](/skyrim-se/guide-resources/various-tutorials/#how-to-change-the-games-resolution)
 - [How to play below your monitor's native resolution](/skyrim-se/appendix/troubleshooting/#skyrim-launches-in-a-small-window)
 
+### Enable VSYNC
+
+VSYNC is disabled by default as I am playing on a GSYNC monitor. If you do not have either FreeSync or GSYNC, you need to re-enable VSYNC in SSE Display Fixes, otherwise you will encounter screentearing.
+
+- Double-click **SSE Display Tweaks** in Mod Organizer 2 (below the ESSENTIAL MODS separator near the top).
+- Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
+- Scroll to **Line 71** and change `EnableVSync=` to `true`.
+- Close the window and click **Yes** to save your change.
+
 ## Playing TPF
 
 - Open your installation folder `C:\The Phoenix Flavour\` and double-click the **ModOrganizer.exe** inside.

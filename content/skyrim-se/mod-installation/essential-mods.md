@@ -63,11 +63,11 @@ description: >
 
 * **Main Files:** More Informative Console for SKSE 2.17-2.19
 
-##### [Autorun Console Commands (ACC)](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
+##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ACC - Autorun Console Commands
+- **Main Files:** Autorun
 
 #### Additional Instructions
 

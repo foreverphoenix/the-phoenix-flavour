@@ -63,6 +63,12 @@ description: >
 
 * **Main Files:** Medieval Spirits
 
+##### [Unique Stros M'Kai Rum](https://www.nexusmods.com/skyrimspecialedition/mods/43830?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Stros M'Kai Rum Replacer 1K
+
 ##### [Remiros' Dragonborn Alcohol HD](https://www.nexusmods.com/skyrimspecialedition/mods/41972?tab=files)
 
 #### Download Instructions

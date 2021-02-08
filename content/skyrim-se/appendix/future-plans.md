@@ -46,4 +46,4 @@ My personal opinion of the CC is rather low for many reasons. However, I do cons
 
 #### Suggest a mod
 
-Any user is welcome to suggest mods for inclusion in the guide, but please make sure first that it isn't already listed on our Trello (check the link above). If it isn't, use our [Google Form](https://docs.google.com/forms/d/1g9jL22NfnrHg_XwnKAFpL7WXOm28MKB3i1NRwHOUOUU/edit) to submit your suggestion.
+Any user is welcome to suggest mods for inclusion in the guide, but please make sure first that it isn't already listed on our Trello (check the link above). Otherwise we have a #tpf-mod-suggestions channel on our Discord server where you may drop links to mods that fit the TPF vision.

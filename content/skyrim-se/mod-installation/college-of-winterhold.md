@@ -138,6 +138,8 @@ description: >
 
 #### FOMOD Instructions
 
+> Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
+
 * **Arniel's Appeals:**
   * Arniel's Appeals
 * **The Augur's Admonishment:**

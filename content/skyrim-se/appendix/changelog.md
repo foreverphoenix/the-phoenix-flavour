@@ -6,6 +6,80 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.0 Final
+
+> 08/02/2021
+
+After a rather long Beta phase and rather more substantial updates than I had planned to do, we have finally arrived at a point where I consider 4.0 polished enough for a full release.
+
+#### Initial Setup
+
+- **INI Files:** Added note to ignore Skyrim not recognising newer AMD cards.
+- **INI Files:** Increased values in View Distance tab (attempt to fix fade-in of lanterns).
+
+#### Mod Installation
+
+- **Essential Mods:** Replaced the buggy Autorun Console Commands with Umgak's remade Autorun.
+- **Landscape:** Added Blended Roads (version packaged with Cath Landscapes is outdated).
+- **Landscape:** Added instructions to remove a file from Northside to fix moss tiling.
+- **Landscape:** Removed Ashbound (redundant with the latest versions of Better Dynamic Ash).
+- **Interiors:** Added Ennead Banners - RUGNAROK Patch.
+- **Dungeons:** Re-added ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
+- **Dungeons:** Re-added Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
+- **Food & Ingredients:** Added Unique Stros M'Kai Rum.
+- **Non-Player Character:** Removed Simple Offence Suppression MCM - Block Friendly Fire.
+- **Improved Vanilla Quests:** Added Radiant Requirements MCM.
+- **Improved Vanilla Quests:** Added Radiant Requirements MCM - TPF Preset.
+- **College of Winterhold:** Added note to Misc College of Winterhold to activate previous mods before the FOMOD.
+- **Balancing:** Added missing download instructions for Faster Mining Plus.
+- **Balancing:** Updated instructions for amidianBorn Armor Variants Lite.
+- **Sounds & Music:** Fixed link for Phoenix - Merged Music Patch.
+
+#### Finalisation
+
+- **First Launch:** Slightly rewrote the last bit to not make it seem as if you were done with the guide at this point.
+
+#### Wabbajack
+
+- Added instructions to re-enable VSYNC for those who need it.
+
+#### Mod Configuration
+
+- Added note about the carriage ride and a potential glitch.
+
+#### Gameplay Guide
+
+- Added section about Radiant Requirements.
+
+#### Appendix
+
+- **Troubleshooting:** Rewrote section on grass shadows or lack thereof.
+- **Troubleshooting:** Added fix for black waterfalls.
+
+#### Conflict Resolution Patch 
+
+- Removed Ashbound as a master.
+- Cleaned unnecessary edits from cell and worldspace records.
+- Resolved conflicts for Radiant Requirements MCM.
+
+#### Wabbajack Installer
+
+- Updated ENBSeries (no file version change)
+- Updated Skyrim Landscape and Water Fixes to 5.9
+- Updated moreHUD to 4.0.0.5Beta
+- Updated DynDOLOD to 2.91
+- Updated Cathedral - 3D Mountain Flowers to 1.8
+- Updated Cathedral Player and NPC Overhaul to 4.3
+- Updated Mysticism - A Magic Overhaul to 1.1.5
+- Updated Adamant - A Perk Overhaul to 4.2.5
+- Updated Adamant - Shrines and Amulets to 4.2.5
+- Updated Blade & Blunt - A Combat Overhaul to 1.2.0
+- Updated Arena - An Encounter Zone Overhaul to 1.1.0
+- Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.6
+- Updated xLODGen to Beta 71
+- Regenerated AllGUD for aMidianBorn Armor Variants Lite 1.0.1
+- Regenerated TexGen, DynDOLOD, and Occlusion
+
 ## Release 4.0 Beta 7
 
 > 29/01/2021

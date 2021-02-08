@@ -85,6 +85,12 @@ Check [issue report #41](https://github.com/foreverphoenix/the-phoenix-flavour/i
 
 ## Grass looks strangely dull and flat.
 
-Without ENB, grass will unfortunately look much worse. If you are running an ENB preset, make sure **Ambient Occlusion** and **Detailed Shadows** are enabled to give grass some much needed depth. Be aware that both of those features are fairly demanding and often disabled in Lite presets for a reason.
+By default, **Detailed Shadows** are disabled in Serio's ENB. This is my personal preference as I don't like how they look with grass. However, some may prefer the shadow effect on grass to make it look less flat, especially in the case of the Reach grass. Open the ENB GUI (F11) and check **EnableDetailedShadows**. Note that the effect comes with a performance hit.
 
 ![Example](https://cdn.discordapp.com/attachments/521296280165679119/702036429341065286/enb2020_4_21_00_57_56.jpg)
+
+## Waterfalls appear black.
+
+This happens when playing without ENB. Disable "Bright Waterfall Fix for ENB" under the **LANDSCAPE** separator.
+
+![Black Waterfall](/Pictures/skyrim-se/appendix/black-waterfall.jpg)

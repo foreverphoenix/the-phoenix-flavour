@@ -53,7 +53,7 @@ description: >
   * `textures\landscape\coastoceanfloor01_n.dds`
   * `textures\plants\`
 
-> Cath Landscapes' **coast textures** unfortunately have extremely bad tiling.**Plants** will be covered by another mod later on.
+> Cath Landscapes' **coast textures** unfortunately have extremely bad tiling. **Plants** will be covered by another mod later on.
 
 #### INI Tweak
 
@@ -91,6 +91,19 @@ description: >
 - Hit **CTRL+S** to save and close the window.
 
 > All grass INI settings are already covered by Cathedral Landscape.
+
+##### [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Blended Roads
+
+> Cathedral Landscapes includes an older version of Blended Roads which has very noticable texture seams on bridges. Therefore we are installing the newer 1.7 of Blended Roads separately to overwrite.
+
+#### FOMOD Instructions
+
+- **Main Files:** REALly Blended Roads
+- **SMIM Comaptibility Patch:** REALly Blended Roads
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
@@ -158,6 +171,11 @@ description: >
   * Tweaked Wet Rock Meshes
   * Tweaked Rapid Rocks Textures
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\shadertests\moss.dds`
+
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 
 #### Download Instructions
@@ -194,12 +212,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Better Dynamic Ash SE v2.0
-
-##### [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ashbound 1.1
 
 ##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
 

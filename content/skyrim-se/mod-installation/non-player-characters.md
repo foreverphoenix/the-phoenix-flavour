@@ -18,6 +18,12 @@ description: >
 
 - **Main Files:** AI Overhaul 1.6.4
 
+##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+
+#### Download Instructions
+
+- **Main File:** Simple Offence Suppression
+
 ##### [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 
 #### Download Instructions
@@ -35,18 +41,6 @@ The mod comes with two console commands to customise it. One will prevent innkee
 * Press CTRL+S to save and close the window.
 
 The commands will now be executed automatically when you start a new game or load your save.
-
-##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
-
-#### Download Instructions
-
-- **Main File:** Simple Offence Suppression
-
-##### [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Simple Offence Suppression MCM - Block Friendly Fire
 
 ##### [Guard Dialogue Overhaul (GDO)](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files)
 
