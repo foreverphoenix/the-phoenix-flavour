@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.0 Final
 
-> 08/02/2021
+> 09/02/2021
 
 After a rather long Beta phase and rather more substantial updates than I had planned to do, we have finally arrived at a point where I consider 4.0 polished enough for a full release.
 
@@ -33,6 +33,7 @@ After a rather long Beta phase and rather more substantial updates than I had pl
 - **College of Winterhold:** Added note to Misc College of Winterhold to activate previous mods before the FOMOD.
 - **Balancing:** Added missing download instructions for Faster Mining Plus.
 - **Balancing:** Updated instructions for amidianBorn Armor Variants Lite.
+- **Miscellaneous:** Added Horses for Followers.
 - **Sounds & Music:** Fixed link for Phoenix - Merged Music Patch.
 
 #### Finalisation
