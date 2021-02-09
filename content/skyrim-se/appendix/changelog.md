@@ -79,6 +79,7 @@ After a rather long Beta phase and rather more substantial updates than I had pl
 - Updated Blade & Blunt - A Combat Overhaul to 1.2.0
 - Updated Arena - An Encounter Zone Overhaul to 1.1.0
 - Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.6
+- Updated AllGUD Conditions Fix to 1.1
 - Updated xLODGen to Beta 71
 - Regenerated AllGUD for aMidianBorn Armor Variants Lite 1.0.1
 - Regenerated TexGen, DynDOLOD, and Occlusion
