@@ -138,7 +138,7 @@ description: >
 
 - **Main Files:** Musical Lore V1.2
 
-##### [Phoenix - Merged Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+##### [Phoenix - Merged Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 

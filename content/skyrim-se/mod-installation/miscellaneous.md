@@ -16,6 +16,20 @@ description: >
 
 - Resave the plugin in the Creation Kit.
 
+##### [Horses for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Horses for Followers
+
+#### Additional Instructions
+
+If like me you don't want or need the "ride ahead" feature, you can easily disable it through the console:
+
+- Double-click **Autorun** in your mod order (Essential Mods separator).
+- In the **Text Files** tab, select the **Autorun.txt**.
+- Add `set hff_FollowerRideAheadEnabled to 0` below the existing lines.
+
 ##### [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files)
 
 #### Download Instructions

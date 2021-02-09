@@ -6,6 +6,8 @@ description: >
   Recommended MCM instructions.
 ---
 
+> **TPF does not use any alternate start mod.** That means that you have to go through the usual carriage ride and intro sequence after starting a new game from the main menu. The glitch present in 4.0 Beta 7 has since been fixed but very rarely users reported other problems with the carriage ride that could usually be fixed with a restart. If you do encounter issues with the intro quest, please report them on Discord.
+
 ## A Matter of Time
 
 You can either:
@@ -38,9 +40,10 @@ You can either:
 
 ## moreHUD
 
-- In the **Enemy's Level** tab, uncheck the following options:
-  - Show Magicka Meter
-  - Show Stamina Meter
+In the **Enemy's Level** tab, uncheck the following options:
+
+- Show Magicka Meter
+- Show Stamina Meter
 
 > These only clutter up the interface in my opinion. You can also disable Health numbers if you like.
 
@@ -48,9 +51,10 @@ You can either:
 
 ## Realistic Water Two
 
-* Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following options:
-  * Kynesgrove
-  * Rorikstead
+Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following options:
+
+* Kynesgrove
+* Rorikstead
 
 ![Realistic Water 2 MCM](/Pictures/skyrim-se/new-game/rwt-mcm.jpg)
 
@@ -70,7 +74,7 @@ To apply the custom preset, do the following:
 
 - Go to the **Extra Options** tab in the Timing Is Everything MCM.
 - Click **Load Preset** and confirm.
-- You will be asked not the leave the MCM before the process is complete. Confirm again.
+- You will be asked not to leave the MCM before the process is complete. Confirm again.
 - All values will be updated. Click **Okay** to close the final message box.
 
 ![TIE MCM](/Pictures/skyrim-se/new-game/tie-mcm.jpg)

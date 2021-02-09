@@ -59,6 +59,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** FMPSE 3-3 Script (v2.0)
+- **Main Files:** Stalhrim (Vanilla Speed) ESP
 
 ##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
 
@@ -90,24 +91,19 @@ description: >
 
 - **Main Files:** Tweaks for WACCF and ACE
 
-##### [aMidianBorn Armor Variants Lite](https://mega.nz/file/5VViBThR#RhdtoTIzK9plp1A91ty0C6ZWTzW_aZ1iE6qmKnd1nIU)
+##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** aMidianBorn Armor Variants Lite
 
-#### Installation Instructions
-
-- Download the archive from MEGA.
-- Move the archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- Back in Mod Organizer 2, press F5 to refresh.
-- The mod will show up in the **Downloads** tab as usual.
-
 #### FOMOD Instructions
 
 - **Patches:**
-  - Weapons Armor Clothing and Clutter Fixes Patch
   - Enchanting Adjustments Patch
+  - Finding Velehk Sain Patch
+  - Reliquary of Myth Patch
+  - Weapons Armor Clothing and Clutter Fixes Patch
 
 ##### [Morrowloot Miscellania - Unleveled Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 
