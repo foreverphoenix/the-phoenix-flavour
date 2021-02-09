@@ -61,6 +61,9 @@ After a rather long Beta phase and rather more substantial updates than I had pl
 - Removed Ashbound as a master.
 - Cleaned unnecessary edits from cell and worldspace records.
 - Resolved conflicts for Radiant Requirements MCM.
+- Removed fix for conflicts between Finding Velehk Sain and aMidianBorn Armor Variants Lite (included in AVL's FOMOD).
+- Added Dargor's Rock to cover up a hole near the Tomb of Ysgramor.
+- Added a replacement mesh for the Skyforge HD LOD to fix it clipping outside of the city walls.
 
 #### Wabbajack Installer
 
