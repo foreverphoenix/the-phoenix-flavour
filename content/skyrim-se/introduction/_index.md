@@ -7,19 +7,6 @@ description: >
   Welcome to The Phoenix Flavour, a Vanilla-plus modding guide for Skyrim SE.
 ---
 
-## Beta Note
-
-> **The Phoenix Flavour** is currently in public beta. Update 4.0 is being tested and fixed.
-
-I ask all users to be aware of this and to WAIT for the full release if they are unwilling to deal with potential issues and report them to us.
-
-If you choose to install the 4.0 Beta, please: 
-
-- report bugs, issues, and inconsistencies on [Github](https://github.com/foreverphoenix/the-phoenix-flavour/issues),
-- and join our [Discord server](https://discord.com/invite/BpwXX5f) for any further questions and feedback.
-
-**Older versions of TPF are unsupported and discontinued.**
-
 ## Overview
 
 The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 500 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
