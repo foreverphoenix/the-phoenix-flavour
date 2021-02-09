@@ -174,7 +174,7 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `textures\shadertests\moss.dds`
+  - `textures\shadertests`
 
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 
