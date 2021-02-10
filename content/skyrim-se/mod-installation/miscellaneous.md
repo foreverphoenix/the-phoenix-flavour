@@ -42,6 +42,19 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 
 - **Main Files:** Ish's Respec Mod
 
+##### [Viewable Faction Ranks](https://www.nexusmods.com/skyrimspecialedition/mods/17924?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Viewable Faction Ranks ESL
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `Interface`
+
+> The Interface folder contains string translations. The English translation for the Viewable Faction Ranks MCM is already included with Obscure's College of Winterhold during the FOMOD installation of which it was selected.
+
 ##### [Durnehviir Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/14272?tab=files)
 
 #### Download Instructions

@@ -89,6 +89,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
+* **Update Files:** LWs BSW Orcish Greatsword inventory fix - sheath >> `merge with the main file`
 
 #### FOMOD Instructions
 

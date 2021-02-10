@@ -12,11 +12,11 @@ description: >
 
 * **Main Files:** Timing is Everything SE - FISS version
 
-##### [Timing Is Everything - Custom Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+##### [Timing Is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Timing Is Everything - Custom Preset
+* **Main Files:** Timing Is Everything - Custom Preset
 
 ##### [The Choice Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850?tab=files)
 
@@ -131,6 +131,12 @@ description: >
 
 * **Main Files:** The Paarthurnax Resolution
 
+##### [Buyable Golden Claw](https://www.nexusmods.com/skyrimspecialedition/mods/24689?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Buyable Golden Claw
+
 ##### [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395?tab=files)
 
 #### Download Instructions
@@ -145,3 +151,4 @@ description: >
 * **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
 * **Main Files:** ANDR Tweaks 07 - Only Dead Lover's Cause Inheritance Letters
 * **Main Files:** ANDR Tweaks 13A - Stones of Barenziah - Dawnguard
+* **Main Files:** ANDR Tweaks 13B - Stones of Barenziah - Solstheim
