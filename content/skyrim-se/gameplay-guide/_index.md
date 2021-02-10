@@ -165,16 +165,6 @@ With Irondusk's mod Saddlebags, you will be able to store up to 500 weight units
 
 The mod also adds a Horse Call power which you can use to teleport your last ridden horse to your location.
 
-## Vanilla Quests
-
-The guide does not feature any new quests at the moment but many vanilla quests were changed in various ways, often pertaining to the requirements that need to be fulfilled in order to start or complete them.
-
-**Radiant Requirements**
-
-Parapets' mod Radiant Requirements adds an MCM which allows you to tweak level requirements for various types of radiant quests. Without these requirements, you may ask for a quest from the Companions early in the game and be given the task to clear out a vampire lair. Unfortunately, our encounter zone overhaul Arena increases the min levels for vampire lairs to 25 which can be impossible to complete for a low level Companion recruit.
-
-In Radiant Requirements, the required level for each encounter type was set one below their respective Arena encounter zone min level to avoid being underleveled for radiant quests.
-
 ## Shrines and Divines
 
 - [Adamantine Addons - Shrines and Amulets](https://www.nexusmods.com/skyrimspecialedition/mods/30191)

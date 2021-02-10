@@ -6,6 +6,47 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.1
+
+> 10/02/2021
+
+As it turns out, the Timing Is Everything preset feature is broken. I hadn't previously noticed it as I didn't check *all* the pages and on the "Extras" page everything seemed to work well. Umgak fixed that in scripts packaged with the CRP. The preset itself was updated for even better synergy with other mods in TPF, ensuring quests will not be available before you are capable of beating them. Details can be found on the new [Quests](/skyrim-se/gameplay-guide/quests) page in the Gameplay Guide.
+
+While working on the Quests segment of the Gameplay Guide, I noticed that it was rather inconsistent to use Andrealphus' Dawnguard DLC integration option for the Stones of Barenziah (No Stones Unturned) but not the Dragonborn DLC one. So I fixed that.
+
+#### Mod Installation
+
+- **Landscape:** Changed Blended Roads instructions to simply use the Medieval Bridges optional file.
+- **Food & Ingredients:** Removed Unique Stros M'Kai Rum (encountered a CTD in connection with it that needs further investigating).
+- **Apparel & Weapons:** Added instructions to install the new hotfix for LeanWolf's Better-Shaped Weapons.
+- **Improved Vanilla Quests:** Added Buyable Golden Claw.
+- **Improved Vanilla Quests:** Added instructions to download Andrealphus' Gameplay Tweaks - Stones of Barenziah - Solstheim.
+- **College of Winterhold:** Added instructions to select the Viewable Faction ranks patch in the Obscure's COW FOMOD.
+- **Miscellaneous:** Added Viewable Faction Ranks.
+
+#### Mod Configuration
+
+- Rephrased instructions for Timing Is Everything so applying the preset no longer feels optional.
+
+#### Gameplay Guide
+
+- **Quests:** Added a new page to cover changes to quests, level requirements, etc.
+
+#### Conflict Resolution Patch
+
+- **4.0.1:** Updated for Adamant 4.2.7
+- **4.0.1:** Fixed the preset functionality in tie_mcmscript.pex
+- **4.1:** Reverted amount of pamphlets to be distributed in the Spread the Love quest to vanilla (30 > 20)
+- **4.1:** Increased buy price for the Golden Claw from 500 to 5000 Septims
+
+#### Wabbajack Installer
+
+- Updated Adamant - A Perk Overhaul to 4.2.7
+- Updated Aetherius - A Race Overhaul to 2.4.0
+- Updated Mundus - A Standing Stone Overhaul to 1.4.0
+- Updated Timing Is Everything - TPF Preset to 1.1
+- Updated Conflict Resolution Patch
+
 ## Release 4.0 Final
 
 > 09/02/2021

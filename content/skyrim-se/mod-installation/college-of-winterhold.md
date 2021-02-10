@@ -79,7 +79,7 @@ description: >
   - ~~Tamrielic Culture~~
   - ~~The Midden - Expanded (Lite)~~
   - ~~The Tools of Kagrenac~~
-  - ~~Viewable Faction Ranks~~
+  - Viewable Faction Ranks
   - WACCF - Armor and Clothing Extension
   - Weapons Armor Clothing and Clutter Fixes 2.0+
 * **Readme:**

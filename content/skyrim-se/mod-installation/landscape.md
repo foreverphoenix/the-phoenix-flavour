@@ -96,14 +96,9 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Blended Roads
+- **Main Files:** Medieval Bridges
 
-> Cathedral Landscapes includes an older version of Blended Roads which has very noticable texture seams on bridges. Therefore we are installing the newer 1.7 of Blended Roads separately to overwrite.
-
-#### FOMOD Instructions
-
-- **Main Files:** REALly Blended Roads
-- **SMIM Comaptibility Patch:** REALly Blended Roads
+> Cathedral Landscapes includes an older version of Blended Roads which has very noticable texture seams on bridges. The seam is not present in this version of the mesh.
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
