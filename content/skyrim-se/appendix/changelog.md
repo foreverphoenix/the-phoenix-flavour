@@ -6,6 +6,23 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.1.2
+
+> 14/02/2021
+
+**Wabbajack installer update.** No changes to the manual guide. The update is *save-safe* and can be applied to an ongoing playthrough.
+
+#### Wabbajack Installer
+
+- Updated Skyrim Uncapper - Adamant Arena to 2.10
+- Updated Blade and Blunt to 1.2.1
+- Update aMidianBorn Armor Variants Lite to 1.2
+- Updated Horses for Followers to 1.1
+- Updated ENBSeries (no version number change)
+- Updated DynDOLOD to 2.92
+
+*Note that while I updated DynDOLOD itself, I haven't re-generated LOD so there will be no problem with updating ongoing playthroughs.*
+
 ## Release 4.1.1
 
 > 13/02/2021
