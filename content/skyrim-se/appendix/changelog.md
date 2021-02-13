@@ -6,6 +6,14 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.2.1
+
+> 13/02/2021
+
+#### Mod Installation
+
+- **Food & Ingredients:** Actually removed Unique Stros M'Kai Rum from the mod installation section.
+
 ## Release 4.1
 
 > 10/02/2021
