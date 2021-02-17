@@ -124,6 +124,12 @@ description: >
 
 * Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
 
+##### [Revamped Assets Skyrim - Weapon Racks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Revamped Assets Skyrim - Weapon Racks Patch
+
 ##### [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files)
 
 #### Download Instructions

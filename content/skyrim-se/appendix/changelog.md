@@ -6,6 +6,82 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.2
+
+> 17/02/2021
+
+This update is bringing DIY facegen instructions and an overhaul for the Appearance section. Please check this [Patreon post](https://www.patreon.com/posts/47666672) for detailed information!
+
+**This update is save-safe.** However, if you were using certain headparts (eyes primarily) added by the now removed Cathedral Player and NPC Overhaul, you may want to go back into the character creation (type `showracemenu` in the console and hit Enter) and update your character. Do NOT change your race!
+
+#### Initial Setup
+
+- **Additional Tools:** Added note that the trailing backslash at the end of the xEdit cache file path is required.
+- **Additional Tools:** Added instructions for an argument to define a backup file path.
+- **Additional Tools:** Added screenshot to make sure folks get the arguments right.
+- **Additional Tools:** Added the -B argument to the QuickAutoClean version as well and updated the screenshot.
+- **Additional Tools:** Re-added zEdit with installation instructions.
+- **Additional Tools:** Updated Cathedral Assets Optimizer Profiles screenshot (profile pack was updated).
+- **ESM Cleaning:** Removed instructions to disable backups in xEdit (they are now simply moved to a separate folder).
+
+#### Mod Installation
+
+- **Fixes:** Re-added Skyrim Ultimate Eye Meshes Ruhmastered.
+- **Interface:** Fixed link for Extended UI for Skyrim Uncapper.
+- **Graphics Baseline:** Added Revamped Assets Skyrim - Weapon Racks Patch.
+- **Appearance:** Removed Cathedral Player and NPC Overhaul.
+- **Appearance:** Removed Expressive Facegen Morphs.
+- **Appearance:** Moved DIVERSE SKYRIM to Non-Player Characters.
+- **Appearance:** Removed the DIVERSE SKYRIM - Cathedral NPCs Facegen Patch.
+- **Appearance:** Added Expressive Facial Animations - Female Edition.
+- **Appearance:** Added Expressive Facial Animations - Male Edition.
+- **Appearance:** Added Vanilla Body with UNP Textures.
+- **Appearance:** Added Cathedral Player and NPC Overhaul - Female Skin Textures.
+- **Appearance:** Added SkySight Skins.
+- **Appearance:** Added Males of Skyrim - High Poly Hands.
+- **Appearance:** Added Mild Complexions.
+- **Appearance:** Added Masculine Khajiit Textures.
+- **Appearance:** Added Feminine Khajiit Textures.
+- **Appearance:** Updated FOMOD instructions for Forgotten Argonian Roots (using UNP females option).
+- **Appearance:** Added Mild Hair Colors.
+- **Appearance:** Added High Poly Vanilla Hair.
+- **Appearance:** Added Vanilla Hair - Salt and Wind.
+- **Appearance:** Added Argonians Enhanced - HD Argonian Hair.
+- **Appearance:** Removed note referring to Cathedral NPCs from Brows.
+- **Appearance:** Removed note referring to Cathedral NPCs from Beards.
+- **Appearance:** Added Beard Stubble.
+- **Appearance:** Added Authentic Eyes.
+- **Appearance:** Added Immersive Mouth and Teeth.
+- **Appearance:** Added Immersive Mouth and Teeth for Orcs.
+- **Appearance:** Added Beastly Smiles.
+- **Appearance:** Added Just Fangs from BVFE.
+- **Appearance:** Added Painterly - A High Res Warpaint Retexture.
+- **Gameplay Overhauls:** Added instructions to remove facegen files from Carriage and Ferry Travel Overhaul.
+- **Gameplay Overhauls:** Removed Carriage and Travel Overhaul - Cathedral NPCs Facegen Patch.
+- **Gameplay Overhauls:** Added instructions to remove facegen files from Carriage and Ferry Travel Overhaul.
+- **Non-Player Characters:** Moved DIVERSE SKYRIM here.
+- **Non-Player Characters:** Removed Immersive Patrols - Cathedral NPC Facegen Patch.
+- **Improved Vanilla Quests:** Fixed mod name for the TIE - TPF preset.
+- **College of Winterhold:** Removed note about Cathedral NPCs from the OCW FOMOD instructions.
+- **College of Winterhold:** Removed Obscure's College of Winterhold - Cathedral NPCs Facegen Patch.
+- **College of Winterhold:** Added instructions to delete facegen files from Immersive College NPCs.
+- **College of Winterhold:** Removed Immmersive College NPCs - Cathedral NPCs Facegen Patch.
+
+#### Finalisation
+
+- **Facegen:** Added new page with comprehensive instructions to generate facegen for TPF.
+
+#### Conflict Resolution Patch
+
+- Removed Cathedral NPCs as a master.
+- Fixed Hanging Elves Ear mesh to prevent all Elves Ears in a cell from displaying the harvested model after harvesting one.
+- Edited buygoldenclawscript.pex to remove leveled price. It will always cost 5000 Septims.
+- Edited QF_FreeformRiften05_00053309.pex to properly revert the amounts of pamphlets required to be handed out to vanilla.
+
+#### Wabbajack Installer
+
+- Updated Landscape Fixes for Grass Mods to 4.8
+
 ## Release 4.1.2
 
 > 14/02/2021

@@ -119,6 +119,19 @@ description: >
 
 - **Main Files:**  Mannequin Slapper System
 
+##### [Skyrim Ultimate Eye Meshes Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/18147?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SUEMR SSE v3.0 Meshes
+- **Main Files:** SUEMR v3.0 Simple Vampire Fixes SSE
+
+#### Additional Instructions
+
+- Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
+- Switch to the **Filetree** tab.
+- Rename `SimpleVampFixesSSE.esl` to `SimpleVampFixesSSE.esp`.
+
 ##### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files)
 
 #### Download Instructions

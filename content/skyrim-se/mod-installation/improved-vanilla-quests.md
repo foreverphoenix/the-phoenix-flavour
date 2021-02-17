@@ -12,7 +12,7 @@ description: >
 
 * **Main Files:** Timing is Everything SE - FISS version
 
-##### [Timing Is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+##### [Timing Is Everything - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 

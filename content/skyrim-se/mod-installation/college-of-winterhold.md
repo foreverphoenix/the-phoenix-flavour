@@ -63,7 +63,7 @@ description: >
   - ~~Equippable Spell Tomes~~
   - ~~Female Mannequins~~
   - ~~Flora Respawn Fix~~
-  - ~~Humans, Mer, and Beastfolk~~ >> `enabled by default, uncheck the box`
+  - ~~Humans, Mer, and Beastfolk~~
   - ~~Immersive Laundry~~
   - ~~Interesting NPCs~~
   - ~~Konahrik's Accountrements~~
@@ -102,12 +102,6 @@ description: >
   - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
   - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
 
-##### [Obscure's College of Winterhold - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Obscure's College of Winterhold - Cathedral NPCs Facegen Patch
-
 ##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
 
 #### Download Instructions
@@ -118,11 +112,12 @@ description: >
 
 * Change nothing and click **Install**.
 
-##### [Immersive College NPCs - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
+#### Additional Instructions
 
-#### Download Instructions
+- Delete the following file(s) and / or folder(s):
+  - `ICNs_ImmersiveCollegeNPCs.bsa`
 
-- **Main Files:** Immersive College NPCs - Cathedral NPCs Facegen Patch
+> The BSA contains facegen files which we will later regenerate in higher quality.
 
 ##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
 

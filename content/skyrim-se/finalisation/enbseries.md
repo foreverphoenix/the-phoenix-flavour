@@ -1,6 +1,6 @@
 ---
 title: "ENBSeries"
-weight: 6
+weight: 7
 type: docs
 description: >
   Installation of ENBSeries with Serio's ENB.

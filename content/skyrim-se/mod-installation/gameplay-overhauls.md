@@ -115,6 +115,14 @@ description: >
 
 * **Main Files:** Carriage and Ferry Travel Overhaul
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes`
+  - `textures`
+
+> The folders contains facegen files which we will later regenerate in higher quality.
+
 ##### [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651?tab=files)
 
 #### Download Instructions
@@ -126,12 +134,6 @@ description: >
 * **Main:** Vanilla
 * **Covered Carriages Add-On:** ESL-flagged
 * **Lanterns Add-On:** ESL-flagged
-
-##### [Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch
 
 ##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files)
 

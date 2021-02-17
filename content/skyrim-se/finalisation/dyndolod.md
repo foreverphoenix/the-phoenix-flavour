@@ -1,6 +1,6 @@
 ---
 title: "DynDOLOD"
-weight: 4
+weight: 5
 type: docs
 description: >
   Improving distant terrain and tree LOD with TexGen and DynDOLOD.

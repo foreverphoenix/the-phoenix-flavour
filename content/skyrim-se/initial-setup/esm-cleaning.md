@@ -90,7 +90,6 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 
 * Close SSEEdit.
 * When asked to save your changes, only **Dawnguard.esm** should appear in the list.
-* Uncheck **Backup plugins** at the bottom if it is checked.
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
 
