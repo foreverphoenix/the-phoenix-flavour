@@ -120,11 +120,31 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 * **Main Files:** Adopt Aventus Aretino
 
+##### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** DIVERSE SKYRIM SSE
+
+#### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `DIVERSE SKYRIM.bsa`
+
+> The archive contains the facegen files which we will regenerate later on.
+
 ##### [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Immersive Patrols Lite
+
+#### Additional Files
+
+- Delete the following file(s) and / or folder(s):
+  - `Immersive Patrols II.bsa`
+
+> The BSA contains facegen files which we will later regenerate in higher quality.
 
 ##### [Immersive Patrols Simplified](https://www.nexusmods.com/skyrimspecialedition/mods/32765?tab=files)
 
@@ -136,9 +156,3 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - **Immersive Patrols Version:** Lite
 - **Patches:** No Merchants
-
-##### [Immersive Patrols - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Immersive Patrols II Lite - Cathedral NPCs Facegen Patch

@@ -172,7 +172,7 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
-##### [Extended UI for Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/44643?tab=description)
+##### [Extended UI for Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/44643?tab=files)
 
 #### Download Instructions
 

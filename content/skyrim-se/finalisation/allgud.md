@@ -1,6 +1,6 @@
 ---
 title: "All Geared Up Derivative"
-weight: 3
+weight: 4
 type: docs
 description: >
   Generating plugins and meshes for AllGUD.

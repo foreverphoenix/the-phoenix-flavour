@@ -1,6 +1,6 @@
 ---
 title: "Occlusion"
-weight: 5
+weight: 6
 type: docs
 description: >
   Instructions to regenerate Occlusion with xLODGen.
