@@ -6,6 +6,17 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.2.1
+
+> 18/02/2021
+
+#### Mod Installation
+
+- **Appearance:** Fixed a copy-paste error.
+- **Appearance:** Added Forsworn and Blackblood and Boethiah Tattoo (undocumented 4.2 addition).
+- **Appearance:** Added Northborn Scars (undocumented 4.2 addition).
+- **Appearance:** Added Better Beast Race Scars (undocumented 4.2 addition).
+
 ## Release 4.2
 
 > 17/02/2021

@@ -12,7 +12,7 @@ description: >
 
 - **Main Files:** Expressive Facial Animation - Female Edition
 
-##### [Expressive Facial Animations - Female Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19532?tab=files)
+##### [Expressive Facial Animations - Male Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19532?tab=files)
 
 #### Download Instructions
 
