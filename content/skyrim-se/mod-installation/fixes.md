@@ -11,7 +11,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** WM’s Flora Fixes - Revamped
-- **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
 ##### [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
 
@@ -103,15 +102,11 @@ description: >
 
 - **Main Files:** Charge Dialogue Fix
 
-##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/894?tab=files)
+##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32332?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ImperialSoldiersEscortFix_v10
-
-#### Porting Instructions
-
-- Resave **ImperialSoldiersEscortFix.esp** in the Creation Kit.
+- **Main Files:** Rude Imperial Soldiers Escort Prisoner fix -FORM44-ESL-
 
 ##### [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221?tab=files)
 
@@ -180,6 +175,12 @@ description: >
 #### Download Instructions
 
 - **Main Files:** ActorLimitPlugin v2
+
+##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Equip Enchantment Fix
 
 ##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
 

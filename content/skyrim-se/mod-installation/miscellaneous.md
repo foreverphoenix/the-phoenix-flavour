@@ -30,12 +30,6 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 - In the **Text Files** tab, select the **Autorun.txt**.
 - Add `set hff_FollowerRideAheadEnabled to 0` below the existing lines.
 
-##### [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Quick Light SE
-
 ##### [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960?tab=files)
 
 #### Download Instructions

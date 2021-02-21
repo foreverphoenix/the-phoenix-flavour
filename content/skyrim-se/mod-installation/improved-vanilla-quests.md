@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Timing Is Everything - Custom Preset
+* **Main Files:** Timing Is Everything - TPF Preset
 
 ##### [The Choice Is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850?tab=files)
 

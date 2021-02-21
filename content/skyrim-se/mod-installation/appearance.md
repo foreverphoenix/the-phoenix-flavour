@@ -212,6 +212,12 @@ description: >
 * **Main Files:** VMHD - All Races - 2K
 * **Update Files:** VMHD - FemaleLowerEyeSocketFix - 2K >> `merge with the main file`
 
+##### [Xenius Character Enhancement - Dirt Masks](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Xenius Character Enhancement - Dirt Masks
+
 ##### [Painterly - A High Res Vanilla Warpaint Retexture](https://www.nexusmods.com/skyrim/mods/67147?tab=files)
 
 #### Download Instructions

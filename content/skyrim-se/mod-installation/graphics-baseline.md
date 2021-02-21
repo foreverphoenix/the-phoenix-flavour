@@ -25,11 +25,59 @@ description: >
   * Desync Birds of Prey
   * ~~Holy Cow~~
 
+##### [Better DynDOLOD Red Mountain Plume](https://www.nexusmods.com/skyrimspecialedition/mods/43863?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better DyndoLOD Red Mountain Plume
+
 ##### [HD LODs Textures](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** HD Lods Textures SE 1K V9.3 - DynDOLOD version
+
+##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM SE 2-08
+
+#### FOMOD Instructions
+
+- **Main Installer Choice:** Skyrim 2016 Special Edition: Everything
+
+#### Additional Instructions
+
+- Delete the following file(s) and/or folder(s):
+  * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
+  * `meshes\architecture\solitude\doors\sgatedoor.nif`
+
+> The first mesh will be replaced by the fixed version contained in Skyrim Landscape and Water Fixes. Deleting the second mesh will allow you to use Noble Skyrim's superior retexture for the Solitude gate.
+
+##### [Static Mesh Improvement Mod - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Smim - Quality Addon
+
+##### [SMIM Whiterun Bench](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 2K SMIM Whiterun Bench
+
+##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Riekling Barrels SMIM
+
+##### [Wiseman303's Flora Fixes - Revamped - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
 ##### [Noble Skyrim Mod HD-2K (NSM)](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
 

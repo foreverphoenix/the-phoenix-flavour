@@ -160,8 +160,14 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Meridia's Luxon Beacon
+* **Main Files:** Grey Beacon
 * **Optional Files:** No Handles Option >> `merge with the main file`
+
+##### [Particle Lights for ENB - Bugs In A Jar](https://www.nexusmods.com/skyrimspecialedition/mods/43609?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights For ENB SE - Bugs in a Jar
 
 ##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files)
 

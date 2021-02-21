@@ -34,7 +34,7 @@ description: >
 
 The mod comes with two console commands to customise it. One will prevent innkeepers from showing you to your room, the other will make it so you'll be served whenever you sit down in an inn and not just the first time. Both can simply be added to Autorun Console Commands.
 
-* Double-click **Autorun Console Commands** in your mod order.
+* Double-click **Autorun** in your mod order.
 * In the **Textfiles** tab, select **Autorun.txt** and add the following lines:
   * `set TAIF_ServePlayerEveryTime to 1`
   * `set TAIF_ShowRoomNeverShow to 1`
@@ -57,7 +57,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 You can disable comments that turned into memes ("no lollygagging", "someone stole your sweet roll", "curved swords", "arrow in the knee") by doing the following:
 
-- Double-click **Autorun Console Commands** in your mod order.
+- Double-click **Autorun** in your mod order.
 - Switch to the **Text Files** tab and select the **Autorun.txt**.
 - Add the following line:
   - `set GDOMemes to 0`

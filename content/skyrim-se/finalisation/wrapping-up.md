@@ -68,7 +68,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Raven Rock - Fix Exit on Horseback.esp **compact FormIDs**
 * Dawnguard Dont Hunt Cured Vampires.esp
 * ChargeDialogueFix.esp
-* ImperialSoldiersEscortFix.esp
 * WindhelmSegregation.esp
 * Move it Dammit.esp
 * Runandwalkpaces.esp
@@ -79,6 +78,7 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Followers Don't Draw Weapons.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
+* Fixed body collision.esp
 * SparklesSE.esp
 * SimplySmallerWolfs2.esp
 * SIDT - Special Edition.esp
