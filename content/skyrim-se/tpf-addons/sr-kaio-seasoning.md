@@ -261,7 +261,7 @@ description: >
     **Download:** Main Files > Bristleback Boars - 1.0
 
   ### FINAL PATCH
-  - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](NEXUS LINK) - Author: *Sr-Kaio*
+  - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
     **Download:** Main Files > Sr. Kaio Seasoning CRP - 2.0
 
 ## 6 - Finishing Up  
@@ -293,6 +293,5 @@ description: >
     **_Deactivate:_** Everything on Enemy's Level page
 
 ## 8 - Changelog  
-  
-  **1.0 - 2021/02/16**
-  - Initial Release
+
+  You can see the changelog [here](../sr-kaio-changelog)
