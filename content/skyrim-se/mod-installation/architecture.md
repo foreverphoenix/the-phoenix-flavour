@@ -67,26 +67,35 @@ description: >
 * **Tomb Textures:** 4k
 * **Meshes:** SMIM
 
-##### [HQ Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/23937?tab=files)
+##### [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** HQ Solitude - 2K
-* **Optional Files:** 4K Blue Palace Floor >> `merge with the main file`
+- **Main Files:** Solitude Mesh Fixes
 
-#### Additional Instructions
+##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 
-* Delete the following files:
-  * `textures\architecture\solitude\sdoorgate01.dds`
-  * `textures\architecture\solitude\sdoorgate01_n.dds`
+#### Download Instructions
 
- > The gate retexture included with **Noble Skyrim** looks much better.
+* **Main Files:** Skyland - Solitude
 
 ##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** 3D Solitude Market Trellis
+
+##### [Markarth - A Reflective Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43864?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Markarth - A Reflective Experience
+
+##### [Markarth - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Markarth - A Mountainous Experience
 
 ##### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292?tab=files)
 

@@ -113,6 +113,12 @@ description: >
 
 - **Main Files:** No Spinning Death Animation MERGED
 
+##### [Fixed Body Collision](https://www.nexusmods.com/skyrimspecialedition/mods/10849?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Fixed body collision
+
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 
 #### Download Instructions

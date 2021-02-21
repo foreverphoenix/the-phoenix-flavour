@@ -14,6 +14,11 @@ TPF is using a number of mods to improve NPC appearance. However, by default man
 
 The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**.
 
+### New Separator
+
+- Create a **PATCHER OUTPUT** in Mod Organizer 2.
+- It should be at the bottom of your mod order, below the CRP.
+
 ## Creation Kit Tweak
 
 By default the Creation Kit will generate facetint textures with a 512x512 resolution. Thanks to CK Fixes we can easily increase the resolution for higher quality output.
@@ -121,6 +126,8 @@ Proceed when the CK has loaded up the plugin and its dependencies.
 - Exporting facegen for all NPCs will take a few minutes. Wait until a window pops up that simply says **Done**.
 - Click **OK** and close the Creation Kit.
 
+> If you run into errors and crashes trying to export facegen, try going a few at a time. Highlight twenty or so NPCs, press CTRL+F4, wait until the CK returns "Done", and move on to the next twenty.
+
 ![Export Facegen](/Pictures/skyrim-se/finalisation/ck-export-facegen.png)
 
 ## Optimising Facegen
@@ -140,6 +147,6 @@ Using CAO we will compress the facegen files and pack them neatly into BSAs. Thi
 - Select the **SSE - Optimise Facegen** profile.
 - Click **Open Directory** and navigate to your **Facegen Output** mod folder.
 - Click **Run** and wait for CAO to process all files.
-- This will some time (about 6 minutes for me). The CAO log will eventually return `[INFO] Process completed`. Close CAO.
+- This will take some time (about 6 minutes for me). The CAO log will eventually return `[INFO] Process completed`. Close CAO.
 - Return to Mod Organizer 2 and press F5 to refresh. Two new plugins will appear at the bottom of your load order.
 - Make sure both **Facegen Output.esp** and **Facegen Output0.esp** are checked so they can load the BSAs containing the facegen files.

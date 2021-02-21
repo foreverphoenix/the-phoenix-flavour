@@ -12,11 +12,6 @@ description: >
 
 Nemesis will generate a number of files specifically for your setup. In order to simplify the file management, we will set up an output folder ahead of time.
 
-### New Separator
-
-- Create a **PATCHER OUTPUT** in Mod Organizer 2.
-- It should be at the bottom of your mod order, below the CRP.
-
 ### Nemesis Output Folder
 
 - In Mod Organizer 2, click the tools icon above your mod order and select **Create empty mod** (see picture below).

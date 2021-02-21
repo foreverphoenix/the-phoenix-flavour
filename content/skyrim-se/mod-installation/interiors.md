@@ -68,6 +68,12 @@ description: >
 
 * **Main Files:** Thrones of Skyrim SE
 
+##### [Centered Blue Palace Throne](https://www.nexusmods.com/skyrimspecialedition/mods/39943?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Centered Blue Palace Throne
+
 ##### [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files)
 
 #### Download Instructions

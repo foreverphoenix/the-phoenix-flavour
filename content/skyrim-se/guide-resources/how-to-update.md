@@ -50,9 +50,11 @@ In order to update CAO without removing the custom TPF profiles, simply do the f
 
 There is generally no need to update DynDOLOD and re-generate LOD for every new DynDOLOD update, especially when you're in the middle of a playthrough. However, if you change something about the landscape (the Alternate Branch Textures color for Enhanced Vanilla Trees for example), you need to re-run DynDOLOD and you should update it first.
 
-**The instructions below are for updating DynDOLOD on an ongoing playthrough.**
+> The instructions are for both **Wabbajack** and **manual** users. They are for updating DynDOLOD in an ongoing playthrough.
 
 ### Disabling DynDOLOD
+
+**Wabbajack user:** Do not update to the new version yet. Open MO2 with your existing installation.
 
 - Before you change anything in MO2, open the game and load your save.
 - Make sure you're outside (not in an interior cell) in Tamriel.
@@ -71,12 +73,14 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 
 ### Updating DynDOLOD
 
+**Wabbajack users:** At this point you can simply update by running Wabbajack and re-installing TPF over your existing setup. The steps below are for users of the manual guide.
+
 - Download the **DynDOLOD Resources SE** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page through MO2.
-- Re-install it ([FOMOD instructions are here](/skyrim-se/mod-installation/06-graphics-baseline/)) and **Replace** the existing installation when prompted.
+- Re-install it ([FOMOD instructions are here](/skyrim-se/mod-installation/graphics-baseline/)) and **Replace** the existing installation when prompted.
 - Navigate to `Your Modding Folder\Tools\DynDOLOD` and delete everything inside the folder.
-- Download the **DynDOLOD** main file [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page manually.
+- Download the **DynDOLOD** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page manually.
 - Open the archive and extract everything into the now empty **DynDOLOD** folder.
-- Go back to the [DynDOLOD](/skyrim-se/finalisation/04-dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
+- Go back to the [DynDOLOD](/skyrim-se/finalisation/dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
 - After regenerating TexGen and DynDOLOD, load your save, and continue your playthrough!
 
 > Since the folder wasn't changed, there is no need to update the file paths to the TexGen and DynDOLOD executables in MO2. They are still the same.

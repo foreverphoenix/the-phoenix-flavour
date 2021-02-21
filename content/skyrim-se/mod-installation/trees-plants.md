@@ -59,16 +59,24 @@ description: >
 
 > You will have the choice to generate 3D tree LOD with DynDOLOD later on which is when you will be instructed to re-enable this mod. If you don't choose to generate 3D tree LOD this mod will stay disabled as it does not support regular tree LOD.
 
-##### [Enhanced Landscapes - Oaks Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/27367?tab=files)
+##### [HD Dead Trees and Driftwoods](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** ELOS Oaks mixed greens
+- **Main Files:** HD Dead Trees and Driftwoods 2K
 
-#### FOMOD Instructions
+#### Additional Instructions
 
-- **Tree Type:** Kojak's Trees
-- **Plugin Format:** ESPFE
+- Delete the following file(s) and / or folder(s):
+  - `meshes\landscape\trees\reachbranchpile01.nif`
+  - `meshes\landscape\trees\reachbranchpile02.nif`
+  - `meshes\landscape\trees\reachclifftree01.nif`
+  - `meshes\landscape\trees\reachclifftree02.nif`
+  - `meshes\landscape\trees\reachtree01.nif`
+  - `meshes\landscape\trees\reachtree02.nif`
+  - `meshes\landscape\trees\reachtreestump01.nif`
+  - `textures\Spooknik\reachtreebranch01.dds`
+  - `textures\Spooknik\reachtreebranch01_n.dds`
 
 ##### [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files)
 
@@ -118,6 +126,12 @@ description: >
 #### FOMOD Instructions
 
 * **Berry Brightnesss:** Darker Berries
+
+##### [3D Junipers - Trees and Berries](https://www.nexusmods.com/skyrimspecialedition/mods/43852?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 3D Junipers - Trees and Berries
 
 ##### [Rudy HQ - More Lights for ENB - Deathbells and Nirnroots](https://www.nexusmods.com/skyrimspecialedition/mods/22814?tab=files)
 

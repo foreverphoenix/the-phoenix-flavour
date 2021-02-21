@@ -71,6 +71,12 @@ description: >
 
 - **Main Files:** Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon
 
+##### [Cathedral Landscapes - Fixed Bridge Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/45970/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral Landscape - Fixed Bridge Meshes - REALly Blended Roads for SMIM
+
 ##### [Cathedral Landscapes - Windhelm Bridge Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44069?tab=files)
 
 #### Download Instructions
@@ -91,14 +97,6 @@ description: >
 - Hit **CTRL+S** to save and close the window.
 
 > All grass INI settings are already covered by Cathedral Landscape.
-
-##### [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Medieval Bridges
-
-> Cathedral Landscapes includes an older version of Blended Roads which has very noticable texture seams on bridges. The seam is not present in this version of the mesh.
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 

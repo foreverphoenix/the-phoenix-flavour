@@ -6,6 +6,101 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.3
+
+> 21/02/2021
+
+This update is **save-safe** but manual guide users must regenerate some of their outputs.
+
+- Facegen (delete output, re-active NPCsWithFace.esp, export facegen)
+- TexGen + DynDOLOD ([instructions](/skyrim-se/guide-resources/how-to-update/#dyndolod))
+- Occlusion
+
+**Wabbajack users:** You also need to follow [these instructions](/skyrim-se/guide-resources/how-to-update/#dyndolod) to update DynDOLOD on an ongoing save.
+
+#### Mod Installation
+
+- **Essential Mods:** Moved Static Mesh Improvement Mod to Graphics Baseline.
+- **Fixes:** Removed instructions to install the WM's Flora Fixes SMIM Patch (moved to Graphics Baseline.)
+- **Fixes:** Linked Rude Imperial Soldiers Escort Fix to a pre-ported and -ESL-ified alternative.
+- **Fixes:** Removed now-obsolete porting instructions from Rude Imperial Soldiers Escort Fix.
+- **Fixes:** Added Equip Enchantment Fix.
+- **Tweaks:** Added Fixed Body Collision.
+- **Graphics Baseline:** Added Better DynDOLOD Red Mountain Plume.
+- **Graphics Baseline:** Moved Static Mesh Improvement Mod here.
+- **Graphics Baseline:** Added Static Mesh Improvement Mod - Quality Addon.
+- **Graphics Baseline:** Added SMIM Whiterun Bench.
+- **Graphics Baseline:** Moved Riekling Barrels SMIM here.
+- **Graphics Baseline:** Moved WM's Flora Fixes SMIM Patch here.
+- **Lighting:** Added the High Poly Smelter - Embers HD Patch.
+- **Visual FX:** Added instructions to remove a decal texture from Voltage.
+- **Visual FX:** Added Voltage - ZTG Chroma Pack.
+- **Visual FX:** Added Ljoss ENB - Magelight Fix.
+- **Visual FX:** Added Glow Be Gone SKSE Updated.
+- **Visual FX:** Added Glow Be Gone SKSE GhostFX Workaround.
+- **Landscape:** Added Cathedral Landscapes - Fixed Bridge Meshes.
+- **Landscape:** Removed Blended Roads.
+- **Trees & Plants:** Added HD Dead Trees and Driftwoods.
+- **Trees & Plants:** Removed Enhanced Landscapes - Oaks Standalone (another one for the not v+ enough axe).
+- **Trees & Plants:** Added 3D Junipers - Trees and Berries.
+- **Architecture:** Added Solitude Mesh Fixes.
+- **Architecture:** Added Skyland - Solitude.
+- **Architecture:** Removed HQ Solitude.
+- **Architecture:** Added Markarth - A Reflective Experience.
+- **Architecture:** Added Markarth - A Mountainous Experience.
+- **Misc Structures:** Added Boats and Ships.
+- **Misc Structures:** Moved Riekling Barrels SMIM to Graphics Baseline.
+- **Misc Structures:** Updated Stunning Statues of Skyrim FOMOD instructions (no longer selecting Winterhold and Azura statues).
+- **Misc Structures:** Added Shrine of Azura HD.
+- **Misc Structures:** Added Winterhold Statue - Animated with ENB Lights.
+- **Misc Structures:** Added Rally's Solstheim Shrines.
+- **Interiors:** Added Centered Blue Palace Thrown.
+- **Dungeons:** Removed instructions to delete two textures from Underground.
+- **Dungeons:** Fixed typo in Helgen Mud Fix instructions for Underground.
+- **Dungeons:** Added instructions to remove dragonbridge01.nif from Rudy HQ (Blended Roads compatibility).
+- **Dungeons:** Removed 4K Nordic Murals.
+- **Dungeons:** Added CC's Remsatered Murals.
+- **Clutter:** Updated download instructions for Meridia's Luxon Beacon Replacer.
+- **Clutter:** Added Particle Lights for ENB - Bugs In A Jar.
+- **Food & Ingredients:** Added Unique Stros M'Kai Rum (crashing issue kindly resolved itself).
+- **Food & Ingredients:** Added Skeever Tail HD.
+- **Unique Artifacts:** Removed Better Shrouded Armor - Ancient Replacer Only (not v+ enough).
+- **Appearance:** Added Xenius Character Enhancement - Dirt Masks.
+- **Non-Player Characters:** Updated instructions for Tavern AI Fix (Autorun Console Commands > Autorun).
+- **Non-Player Characters:** Updated instructions for Guard Dialogue Overhaul (Autorun Console Commands > Autorun).
+- **Improved Vanilla Quests:** Fixed file name in download instructions for the Timing Is Everything Preset.
+- **Miscellaneous:** Removed QuickLight.
+
+#### Finalisation
+
+- **Wrapping Up:** Removed ImperialSoldiersEscortFix.esp from list of plugins to ESL-ify.
+- **Wrapping Up:** Added Fixed body collision.esp to the list of plugins to ESL-ify.
+- **Facegen:** Fixed a typo.
+- **Facegen:** Moved instructions for the PATCHER OUTPUT separator here.
+- **Facegen:** Added workaround in the case of constant crashes while attempting to export facegen in the Creation Kit.
+- **Nemesis:** Moved instructions for the PATCHER OUTPUT separator to the Facegen step.
+
+#### Resources
+
+- **How To Update:** Added support for Wabbajack users to the DynDOLOD section.
+- **How To Update:** Fixed links and typos in the DynDOLOD section.
+
+#### Conflict Resolution Patch
+
+- Packaged the aMidianBorn hide armor textures to overwrite the vanilla copy in Warmth (thanks butthead!)
+- Disabled the loading screen added by Lanterns of Skyrim II
+- Removed Better Shrouded Armor - Ancient Replacer as a master
+- Fixed a conflict between Alchemy Adjustments and Unique Stros M'Kai Rum
+- Increased level requirements for More Werewolves open world encounters from 10 to 16
+- Removed Enhanced Landscapes - Oaks Standalone as a master
+
+#### Wabbajack Installer
+
+- Updated Simple Offence Suppression to 2.0
+- Updated Guard Dialogue Overhaul to 2.16
+- Regenerated facegen
+- Regenerated LOD and Occlusion
+
 ## Release 4.2.1
 
 > 18/02/2021
@@ -69,7 +164,6 @@ This update is bringing DIY facegen instructions and an overhaul for the Appeara
 - **Appearance:** Added Painterly - A High Res Warpaint Retexture.
 - **Gameplay Overhauls:** Added instructions to remove facegen files from Carriage and Ferry Travel Overhaul.
 - **Gameplay Overhauls:** Removed Carriage and Travel Overhaul - Cathedral NPCs Facegen Patch.
-- **Gameplay Overhauls:** Added instructions to remove facegen files from Carriage and Ferry Travel Overhaul.
 - **Non-Player Characters:** Moved DIVERSE SKYRIM here.
 - **Non-Player Characters:** Removed Immersive Patrols - Cathedral NPC Facegen Patch.
 - **Improved Vanilla Quests:** Fixed mod name for the TIE - TPF preset.

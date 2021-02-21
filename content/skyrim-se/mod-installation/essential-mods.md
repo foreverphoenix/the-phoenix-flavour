@@ -143,21 +143,3 @@ SetGS fSandboxCylinderBottom -576
   - `Particle Patch for ENB SSE.esp`
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
-
-##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** SMIM SE 2-08
-
-#### FOMOD Instructions
-
-- **Main Installer Choice:** Skyrim 2016 Special Edition: Everything
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
-  * `meshes\architecture\solitude\doors\sgatedoor.nif`
-
-> The first mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D. Deleting the second mesh will allow you to use a different retexture for the Solitude city gate.

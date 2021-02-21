@@ -34,12 +34,6 @@ description: >
   * ~~No Cloak~~
   * ~~Full Glove~~
 
-##### [Better Shrouded Armor - Ancient Replacer Only](https://www.nexusmods.com/skyrimspecialedition/mods/26111?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Better Shrouded Armor SSE - Ancient Replacer Only
-
 ##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
 
 #### Download Instructions

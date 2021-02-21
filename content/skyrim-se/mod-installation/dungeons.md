@@ -33,8 +33,6 @@ description: >
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_g.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_n.dds`
-  - `textures\dungeons\imperial\impwooddoorsingle01.dds`
-  - `textures\dungeons\imperial\impwooddoorsingle01_n.dds`
   - `textures\dungeons\riften\ratwaywood01.dds`
   - `textures\dungeons\riften\ratwaywood01_n.dds`
 
@@ -45,7 +43,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 - Right-click **Underground** in your mod order and select **Open in Explorer**.
 - Navigate to `meshes\clutter` and create a new folder called **helgen**.
 - Move **helgenmud01.nif** into the new **helgen** folder.
-- The resulting file path should be `meshes\clutter\helgen\helgenmud.nif`.
+- The resulting file path should be `meshes\clutter\helgen\helgenmud01.nif`.
 
 > The reason why I am not doing this within MO2's UI is because it can get a bit buggy when moving files and sometimes doesn't show that the file has indeed been moved.
 
@@ -71,6 +69,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff02.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
+  - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
 
 ##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
 
@@ -90,11 +89,11 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** RUSTIC WORD WALLS 2K
 
-##### [4K Nordic Murals](https://www.nexusmods.com/skyrimspecialedition/mods/32379?tab=files)
+##### [CC's Remastered Murals](https://www.nexusmods.com/skyrimspecialedition/mods/45241?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** 4K Nordic Murals
+* **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
 
 ##### [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files)
 
