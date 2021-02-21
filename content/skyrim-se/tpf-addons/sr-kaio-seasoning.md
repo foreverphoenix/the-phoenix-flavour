@@ -1,5 +1,5 @@
 ---
-title: "Sr. Kaio Seasoning"
+title: "Sr. Kaio Seasoning for TPF 4.3.x"
 weight: 3
 type: docs
 description: >
@@ -99,7 +99,12 @@ description: >
   - #### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386) - Author: *Koveich*  
     **Download:** Main Files > Sovngarde - A Nordic Font Light V8.9 - 8.9
   - #### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) - Author: *ciathyza*  
-    **Download:** Main Files > Alternate Conversation Camera Plus - 2.4.6
+    **Download:** Main Files > Alternate Conversation Camera Plus - 2.4.6  
+    After Installing, right click on mod and choose `Open in Explorer`, then navigate `SKSE > Plugins`, open
+    `AlternateConversationCamera.ini` and make sure to properly set these settings:  
+      - `bForceFirstPerson=0`
+      - `bForceThirdPerson=0`
+      - `bLetterBox=0`
   - #### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604) - Author: *iTitoMix*  
     **Download:** Main Files > Pastel SkyUI SkyHUD - 5.2.PASTEL
   - #### [Undiscovered Means Unknown](https://www.nexusmods.com/skyrimspecialedition/mods/9762) - Author: *Brin_aSair*  
@@ -268,6 +273,11 @@ description: >
   - Download and apply the updated [loadorder.txt](https://drive.google.com/uc?export=download&id=1fIRRxScxQ_ew-uEcAHud4dKFWy3CAPK0), the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps.
   - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.
+  - Go to the **ESSENTIAL MODS** separator,right click on mod **SSE Engine Fixes (skse64 plugin)** and choose `Open in Explorer`,
+    then navigate `SKSE > Plugins`, open `EngineFixes.toml` and make sure to properly set this setting:  
+      - `SleepWaitTime=false`
+    
+    This tweak is needed for the mod **Closing Time** that we are going to install.
  
 ## 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.

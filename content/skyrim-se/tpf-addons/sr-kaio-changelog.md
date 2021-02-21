@@ -1,7 +1,10 @@
 # Sr. Kaio Seasoning - Changelog
 
-## Release 2.0
+## Release 4.3
 >2020/02/21
+
+Changing the versioning system, now my version matches The Phoenix Flavour one, so it is easier to track if you're upda
+to date :)
 
 This update requires a new game **UNLESS** you skip the update of **Pick up books simple - With weightless books option**, keeping it at version 1.96 for the time being.
 
@@ -13,6 +16,7 @@ This update requires a new game **UNLESS** you skip the update of **Pick up book
 #### Mod List - Install
 
 - **FIXES** Added: Bowlegged jump animation fix
+- **INTERFACE** Updated: Instructions to Alternate Conversation Camera Plus
 - **INTERFACE** Updated: Undiscoverd Means Unknown [2.09 to 2.11]
 - **INTERFACE** Added: Serio's Cycle Hotkeys
 - **ARCHITECTURE** Added: WiZkiD Signs
