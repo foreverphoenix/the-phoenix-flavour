@@ -24,7 +24,10 @@ description: >
   I intend to make this seasoning up-to-date with the main TPF guide, and also making adjustiments when I see fit.
 
 ## 2 - Compatibility Notes  
-  Since this is just a "seasoning" of ***The Phoenix Flavour***, no additional patches are needed. All mods were personally checked and there's no relevant conflict, so you can use my spicing without any worries of compatibility.
+  Since this is just a "seasoning" of ***The Phoenix Flavour***, I've tried my best to keep it all concise.
+  All mods were personally checked and the few relevant conflicts, are resolved in a separate patch.
+
+  Apart from that, no other compatibility issues reagarding the original TPF.
 
 ## 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
@@ -36,16 +39,14 @@ description: >
     - At the new window, select `The Phoenix Flavour` profile and click `Copy` and name it `The Phoenix Flavour - Sr. Kaio Seasoning`, and then click `Close`.  
     - Back at MO2 main window, click on the dropdown menu again, and select the newly created profile.
     
-  **WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` PROFILE UNTOUCHED!**  
+  >**WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` PROFILE UNTOUCHED!**  
   
   The instructions here are meant to keep the original profile intact and I'm not responsible if you mess up your original TPF installation.
 
 ## 5 - Mod List
 
   ### 5.1 - Disable Mods  
-  Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profile, just disable them by click the checkbox on their names, and making sure they don't have a checkmark anymore.
-
----
+  Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profile, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
 
   ### INTERFACE
   - [ ] **Quick Loot RE**  
@@ -61,15 +62,15 @@ description: >
   - [ ] **DRELDYN's Original Main Menu Overhaul**  
     The menu itself is AWESOME, I just wanted to change it to something more like myself :)
 
----
+  ### MISC STRUCTURES
+  - [ ] **Skyrim 3D Signs**  
+    Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
 
   ### ASSORTED PLUGINS
   - [ ] **No Attack Messages**  
     This one will be disabled by the same idea as the Immersive Lockpicking/Bookreading, it removes informational elements from the HUD.
   - [ ] **Disable Follower Collision**  
     Although it's nice to don't have your way blocked by your followers, unfortunately it adds a lot of clipping issues and bad follower positioning, so, this one is going out!
-
----
 
   ### PATCHER OUTPUT  
   We'll need to re-run the Nemesis and AllGUD patchers, beacause we're adding some skeleton and weapon mods, so, before anything, disable the original ones from TPF, and also, rename them, adding a **TPF** before, so for instance, **Nemesis Output** would become **TPF Nemesis Output**, and so on.
@@ -78,20 +79,14 @@ description: >
   - [ ] **AllGUD - Weapon Meshes**
   - [ ] **AllGUD - Skeleton Meshes**  
 
----
-  
   ### 5.2 - Install Mods
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator.
  
-  ---
- 
   ### FIXES
   - #### [Bowlegged jump animation fix](https://www.nexusmods.com/skyrimspecialedition/mods/2215) - Author: *mirap*
     **Download:** Main Files > Bowlegged jump fix - 1.1
- 
-  ---
  
   ### INTERFACE    
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  
@@ -124,10 +119,7 @@ description: >
       - Nothing (an Invisible Icon)
   - #### [Main Menu Wallpaper](https://www.nexusmods.com/skyrimspecialedition/mods/1178) - Author: *Hellstorm102*  
     **Download:** Optional Files > Main Menu Wallpaper - Book Cover - 1.0
-  - #### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184) - Author: *Serio*
-    **Download:** Main Files > Serio's Cycle Hotkeys - 1.02
   
-  ---
 
   ### WEATHER  
   - #### [Improved Rain and Fog for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/27831) - Author: *Nawor3565*  
@@ -136,14 +128,10 @@ description: >
     - Page 1
       - No Darker Nights
 
-  ---
-
   ### LIGHTING  
   - #### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483) - Author: *True Draconis - LonelyKitsuune*  
     **Download:** Main Files > Dynamic Volumetric Lighting and Sun Shadows - 1.0.1  
     **Download:** Optional Files > DVLaSS Skyrim Underside - 1.0.2
-
-  ---
 
   ### ARCHITECTURE
   - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
@@ -154,8 +142,6 @@ description: >
     - Page 2
       - Leave all UNCKECKED
 
-  ---
-
   ### INTERIORS  
   Here, just some JK's revamped interiors, namely the inns and palace ones.
   - #### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000) - Author: *jkrojmal*  
@@ -163,22 +149,18 @@ description: >
   - #### [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324) - Author: *jkrojmal*  
     **Download:** Main Files > JK's Blue Palace - 1.1.0
   - #### [JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/33845) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's The Bannered Mare - 1.0.0
+    **Download:** Main Files > JK's The Bannered Mare - 1.0.1
   - #### [JK's Candlehearth Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45617) - Author: *jkrojmal*  
     **Download:** Main Files > JK's Candlehearth Hall - 1.0.0
   - #### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806) - Author: *jkrojmal*  
     **Download:** Main Files > JK's Sleeping Giant Inn - 1.0.0
   - #### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991) - Author: *jkrojmal*  
     **Download:** Main Files > JK's The Winking Skeever - 1.1.0
-  
-  ---
-  
+
   ### CLUTTER
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
-  
-  ---
-  
+
   ### APPAREL & WEAPONS  
   - #### [Alteration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/45424) - Author: *PraedythXVI*  
     **Download:** Main Files > Alteration Staff HD - with Enb-Light - 1.0
@@ -188,9 +170,7 @@ description: >
     **Download:** Main Files > Illusion Staff HD - with Enb-Light - 1.0
   - #### [Restoration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/39481) - Author: *PraedythXVI*  
     **Download:** Main Files > Restoration Staff HD - with Enb-Light - 1.3
-  
-  ---
-  
+
   ### MISCELLANEOUS  
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
     **Download:** Main Files > Pick up books simple .esp flagged as .esl - 2.0
@@ -200,19 +180,15 @@ description: >
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  
     **Download:** Main Files > Spell Amnesia - 1.0
-  - #### [Closing Time](https://www.nexusmods.com/skyrimspecialedition/mods/34169) - Author: *SomethingObscure*
-    **Download:** Main Files > Closing Time 2.0 Test Version 2 - 2.0.Test
-  
-  ---
-  
+  - #### [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261) - Author: *Maxsu*
+    **Download:** Main Files > NPC AI Process Pos Fix-SSE-V4.03c - v4.03c
+
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*
     **Download:** Main Files > Stagger Direction Fix-SSE V0.96 - 0.96
   - #### [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) - Author: *powerofthree*
     **Download:** Main Files > Essential Favorites - 2.0
-  
-  ---
-  
+
   ### SKELETON & ANIMATIONS
   - #### [Supreme Dwemer Spheres](https://www.nexusmods.com/skyrimspecialedition/mods/35769) - Author: *Rougeshot*
     **Download:** Main Files > Supreme Dwemer Spheres - 1.3
@@ -270,18 +246,19 @@ description: >
     **Download:** Main Files > Sr. Kaio Seasoning CRP - 2.0
 
 ## 6 - Finishing Up  
-  - Download and apply the updated [loadorder.txt](https://drive.google.com/uc?export=download&id=1fIRRxScxQ_ew-uEcAHud4dKFWy3CAPK0), the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
+  - Download and apply the updated [loadorder.txt](https://drive.google.com/uc?export=download&id=1fIRRxScxQ_ew-uEcAHud4dKFWy3CAPK0),
+    the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps.
   - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.
   - Go to the **ESSENTIAL MODS** separator,right click on mod **SSE Engine Fixes (skse64 plugin)** and choose `Open in Explorer`,
     then navigate `SKSE > Plugins`, open `EngineFixes.toml` and make sure to properly set this setting:  
       - `SleepWaitTime=false`
-    
-    This tweak is needed for the mod **Closing Time** that we are going to install.
+
+    This tweak is needed to avoid **NPC AI Processing Fix** not having enough time to process all NPCs.
  
 ## 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.
-  
+
   Now, apply the following additional steps
   - ### **Alchemy Adjustments**  
     **_Activate:_** Settings > Prevent fortify Alchemy/Enchanting loop
