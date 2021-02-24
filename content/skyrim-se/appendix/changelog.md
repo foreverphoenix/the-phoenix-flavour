@@ -6,6 +6,18 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.3.1
+
+> 24/02/2021
+
+No changes to the manual guide or Wabbajack (although an actual content update is coming soon).
+
+I added a new section called [**TPF Addons**](/skyrim-se/tpf-addons/) to officially feature the various Addons created by third parties. These range from integration patches (Legacy of the Dragonborn and Creation Club content) to small collections to be installed on top of an existing TPF setup. Sr Kaio's and D1Z4STR's Addons are for the small touches while Slidikins' Strenuous Skyrim is made to increase the overall difficulty. Different Addons cater to different tastes!
+
+**If you are interested in Addons:** Please, please read the [Addon Primer](/skyrim-se/tpf-addons/addon-primer) I wrote before installing anything. The page will take you through the rest of the section and supply you with everything you need to know.
+
+I am also working on an Addon of my own with some changes that I cannot put into the main guide. Stay tuned for updates!
+
 ## Release 4.3
 
 > 21/02/2021
