@@ -28,7 +28,7 @@ Slidikins' guide has been around longer than TPF, however it has since been adap
 ## Sr. Kaio's Seasoning
 
 - **Author:** Sr. Kaio
-- **Link:** https://github.com/caiobraz/sr.kaio-seasoning/blob/main/INSTRUCTIONS.md
+- **Link:** https://github.com/caiobraz/sr.kaio-seasoning
 
 *Seasoning* is a small collection of personal tweaks and additions that integrate seamlessly with the base setup.
 
