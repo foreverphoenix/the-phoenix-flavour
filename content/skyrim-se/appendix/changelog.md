@@ -6,6 +6,43 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.3.2
+
+> 25/02/2021
+
+The update is **save-safe**. Upon loading a save, you will be warned about a "missing plugin" because the CRP was renamed. Since the plugin is still present (only under a different name) and had no direct masters, this is harmless and you can simply click OK.
+
+#### Initial Setup
+
+- **Mod Organizer 2:** Added instructions to download the old 2.3.2 version of Mod Organizer 2.
+
+*Support for MO2 2.4.0 will come eventually but we will wait until most Antivirus tools have flagged the new version as harmless in their databases. They are known to quarantine parts or the entirety of MO2, usually because of the UVFS.*
+
+#### Mod Installation
+
+- **Visual FX:** Removed Voltage.
+- **Visual FX:** Removed Voltage - KZG Chroma Pack.
+- **Visual FX:** Added Thunderbolt - HD Lightning.
+- **Assorted Plugins:** Added Vampires Cast No Shadows.
+
+#### TPF Addons
+
+- **Available Addons:** Added a big (and I mean big) reminder to read the Addon Primer first.
+
+#### Conflict Resolution Patch
+
+- The plugin was renamed to **The Phoenix Flavour - Conflict Resolution Patch.esp** for consistency with other Addon patches.
+- Marked dummy item for a bug fix in Enchanting Adjustments as Non-Playable (thanks to Slidikins!)
+
+#### Wabbajack Installer
+
+- Actually removed QuickLight
+- Updated Serana's Hood Fix to 3.0.1
+- Updated Revamped Assets Skyrim - Weapon Racks Patch to 1.1
+- Updated Horses for Followers to 1.3
+- Updated Alchemy Adjustments - TPF Tweaks to 1.2
+- Updated DynDOLOD to 2.93 (but did not regenerate LOD)
+
 ## Release 4.3.1
 
 > 24/02/2021

@@ -87,6 +87,12 @@ description: >
 
 * **Main Files:** Free Look v2
 
+##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Vampires Cast No Shadows
+
 ##### [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files)
 
 #### Download Instructions
