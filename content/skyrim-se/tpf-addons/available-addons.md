@@ -6,6 +6,12 @@ description: >
   List of available addons.
 ---
 
+---
+
+#### **MAKE SURE YOU HAVE READ THE [ADDON PRIMER](/skyrim-se/tpf-addons/addon-primer) BEFORE YOU INSTALL ANYTHING.**
+
+---
+
 ## Slidikins' Strenuous Skyrim
 
 - **Author:** Slidkins

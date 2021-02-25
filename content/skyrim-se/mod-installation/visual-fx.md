@@ -62,26 +62,11 @@ description: >
 
 * **Main Files:** Refracting Ice Form Debris - 2.0
 
-##### [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files)
+##### [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** Voltage 2K
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\impactdecals\decalsparkburn01.dds`
-  - `textures\impactdecals\decalsparkburn01_g.dds`
-  - `textures\impactdecals\decalsparkburn01_n.dds`
-
-> Voltage changes the colour of shock magic to a light blue which the next mod is going the revert (back to vanilla violet). These decals also use the blue colour which would be inconsistent. Remove them means decals from Deadly Spell Effects will be used instead which use the vanilla violet colour.
-
-##### [Voltage - ZKG Chroma Pack](https://www.nexusmods.com/skyrimspecialedition/mods/15693?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Voltage - Violet Victory
+* **Main Files:** Thunderbolt - HD Lightning
 
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
