@@ -41,7 +41,10 @@ The update is **save-safe**. Upon loading a save, you will be warned about a "mi
 - Updated Revamped Assets Skyrim - Weapon Racks Patch to 1.1
 - Updated Horses for Followers to 1.3
 - Updated Alchemy Adjustments - TPF Tweaks to 1.2
-- Updated DynDOLOD to 2.93 (but did not regenerate LOD)
+- Updated DynDOLOD to 2.93
+- Updated xLODGen to v73
+
+*LOD and Occlusion were not regenerated.*
 
 ## Release 4.3.1
 
