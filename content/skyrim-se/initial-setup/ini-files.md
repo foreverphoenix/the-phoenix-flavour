@@ -28,7 +28,9 @@ Continue with regenerating the INI files from scratch:
 * A window will come up, informing you that Skyrim SE will now be configured based on your hardware.
 * Click **OK** twice to confirm and hit **Exit** once it’s done.
 
-![Regenerating INIs](/Pictures/setup/regenerating_inis.png)
+> If Skyrim is unable to detect your hardware, it's likely because you have a newer AMD card. You can safely ignore this.
+ 
+![Regenerating INIs](/Pictures/skyrim-se/initial-setup/regenerating-inis.png)
 
 ## Install BethINI
 
@@ -38,8 +40,6 @@ Continue with regenerating the INI files from scratch:
 * Double-click **BethINI.exe**.
 
 ## BethINI Configuration
-
-### BethINI - Setup
 
 * After starting BethINI, you will be prompted with a window asking you to choose your game.
 * Select **Skyrim Special Edition** from the drop-down menu.
@@ -51,7 +51,7 @@ Continue with regenerating the INI files from scratch:
 
 > Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
 
-![BethINI Setup](/Pictures/setup/bethini_setup.png)
+![BethINI Setup](/Pictures/skyrim-se/initial-setup/bethini-setup.png)
 
 ### BethINI - Basic
 
@@ -63,9 +63,9 @@ Continue with the second tab, **Basic**.
 - Select the **Medium** preset.
 - Disable both **VSYNC** and **Lock Frame Rate**.
 
-> Vanilla VSYNC and frame lock are not optimal, both will be handled by mods later on. As for the selection of the **Medium** preset, I recommend it because it's a good balance between graphic fidelity and performance. Many of the settings can and will be changed to improve visuals but as a baseline, **Medium** is perfect.
+> Vanilla VSYNC and frame lock are not optimal so both will be handled by mods later on. As for the selection of the **Medium** preset, I recommend it because it's a good balance between graphic fidelity and performance. Many of the settings can and will be changed to improve visuals but as a baseline, **Medium** is perfect.
 
-![BethINI Basic](/Pictures/setup/bethini_basic.png)
+![BethINI Basic](/Pictures/skyrim-se/initial-setup/bethini-basic.png)
 
 ### BethINI - Interface
 
@@ -77,7 +77,7 @@ Continue with the fifth tab, **Interface**.
 
 > Unchecking Bethesda Modding Platform is not recommended because it's buggy. There are mods that achieve the same thing.
 
-![BethINI Interface](/Pictures/setup/bethini_interface.png)
+![BethINI Interface](/Pictures/skyrim-se/initial-setup/bethini-interface.png)
 
 ### BethINI - Detail
 
@@ -85,26 +85,31 @@ Continue with the sixth tab, **Detail**.
 
 - **Water:** Check `Reflect Objects`.
 - **Decal Quantity:** Set to `High`.
-- **Godrays**: Set them to `None` (performance-intense, ENB has better godrays).
+- **Godrays**: Set them to `None` if you are concerned with performance.
 - **Field of View:** Increase this if you prefer a wider FoV.
-- **Particles:** Increase the particle count to `1500`.
+- **Particles:** Increase the particle count to `7500`.
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
 - **Shadow Resolution:** Set to `2048` (unless you have a very slow CPU).
 - **Exterior Draw Distance:** Set to `8000`.
 - **Tree Shadows:** Check the box for this setting.
+- **Ambient Occlusion:** Uncheck the box for this setting (covered by ENB).
 
 > **Object LOD** reflections are broken in SSE, but the mod SSE Engine Fixes includes a fix. **Depth of Field** should not be disabled in the INI as it will make underwater look perfectly clear. By turning DOF all the way down in the ingame settings, you can disable it without breaking underwater visuals (if you dislike the DOF and/or want to use an ENB DOF effect instead).
 
-![BethINI Detail](/Pictures/setup/bethini-detail.png)
+![BethINI Detail](/Pictures/skyrim-se/initial-setup/bethini-detail.png)
 
 ### BethINI - View Distance
 
 Continue with the seventh tab, **View Distance**.
 
-- **Grass Fade:** Set to `15000` or higher.
+- **Object Fade:** Set to `12.0`.
+- **Actor Fade:** Set to `8.0`.
+- **Item Fade:** Set to `4.0`.
+- **Grass Fade:** Set to `15000`.
+- **Light Fade:** Set to `21605`.
 
-![BethINI View Distance](/Pictures/setup/bethini_view_distance.png)
+![BethINI View Distance](/Pictures/skyrim-se/initial-setup/bethini-view-distance.png)
 
 ### BethINI - Visuals
 
@@ -112,10 +117,14 @@ Continue with the eighth tab, **Visuals**.
 
 - Set **Contrast** to `-0.1800`. This should eliminate the "black crush" some people are experiencing in Skyrim SE.
 
-![BethINI Visuals](/Pictures/setup/bethini_visuals.png)
+![BethINI Visuals](/Pictures/skyrim-se/initial-setup/bethini-visuals.png)
 
 ## Save Changes
 
 - Return to the second tab, **Basic**, and click `Save and Exit`.
 - Restart Mod Organizer 2.
 - You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
+
+---
+
+#### Continue with the [Additional Tools](/skyrim-se/initial-setup/additional-tools/) page.

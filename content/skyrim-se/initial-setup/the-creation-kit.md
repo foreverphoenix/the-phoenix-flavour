@@ -10,12 +10,12 @@ description: >
 
 With the release of Skyrim SE, Bethesda also published a new version of their official tool kit, the Creation Kit (or CK for short), updated for the new 64bit engine. Unfortunately the CK 2.0 can no longer be downloaded directly from Steam but requires the Bethesda Launcher and a Beth.net account.
 
-- Go to Bethesda.net, the official website.
+- Go to [Bethesda.net](https://bethesda.net/de/dashboard), the official website.
 - Scroll all the way down to the footer (bottom of the page).
 - Click the **Download** button in the **Bethesda Launcher** section.
 - Double-click the downloaded executable.
 
-![Download Beth Launcher](/Pictures/setup/download_beth_launcher.png)
+![Download Beth Launcher](/Pictures/skyrim-se/initial-setup/download-beth-launcher.png)
 
 ## Installation
 
@@ -27,7 +27,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * The CK should be installed directly into your **root** folder (see picture).
 * Wait for the files to download.
 
-![Creation Kit Installation Path](/Pictures/setup/ck_installation_path.png)
+![Creation Kit Installation Path](/Pictures/skyrim-se/initial-setup/ck-installation-path.png)
 
 ## Disable Auto Updates
 
@@ -37,7 +37,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 
 > The Bethesda Launcher is not required to launch the Creation Kit but it is used to update it and I recommend keeping it installed.
 
-![Disable Auto Updates](/Pictures/setup/ck_disable_auto_updates.png)
+![Disable Auto Updates](/Pictures/skyrim-se/initial-setup/ck-disable-auto-updates.png)
 
 ## Custom INI
 
@@ -66,10 +66,17 @@ The Creation Kit installation includes a **Scripts.zip** which contains the sour
 * You will be asked to unpack **Scripts.zip**, click **Yes**.
 * Once that is done, you can close the Creation Kit.
 
+![CK Unpack Scripts](/Pictures/skyrim-se/initial-setup/ck-unpack-scripts.png)
+
 ### Fixing Filepaths
 
 - Rename the **Source** folder in your **Data** folder to **Scripts**.
 - Double-click the **Scripts** folder.
 - Rename the **Scripts** folder inside to **Source**.
-- The resulting filepath should be:
-  - `Skyrim Special Edition\Data\Scripts\Source`
+- The resulting filepath should be `Skyrim Special Edition\Data\Scripts\Source`.
+
+![CK Script Source](/Pictures/skyrim-se/initial-setup/ck-script-source.png)
+
+---
+
+#### Continue with the [Mod Organizer 2](/skyrim-se/initial-setup/mod-organizer-2/) page.
