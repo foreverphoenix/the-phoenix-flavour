@@ -69,7 +69,8 @@ ENBMan is one of several ENB manager tools available. It happens to my favourite
 * Double-click your new **enblocal.ini**.
 * In the new window, click **Import Settings** in the top bar.
 * Navigate to `Your Modding Folder\Tools\ENBMan\Games\Skyrim SE\Binaries\ENBSeries 0.4xx`.
-* Double-click the **enblocal.ini** inside to import it and check all boxes.
+* Double-click the **enblocal.ini** inside to import it.
+* Press CTRL+A to select all settings and click the green checkmark button in the toolbar to enable them.
 
 ### Better Hotkeys
 
