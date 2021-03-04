@@ -71,6 +71,12 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
   - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
 
+##### [Rally's Jurgen Windcaller Tomb](https://www.nexusmods.com/skyrimspecialedition/mods/28800?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rallys Jurgen Windcaller Tomb HQ - 4K
+
 ##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
 
 #### Download Instructions
@@ -151,6 +157,26 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 * **Main Files:** Ancient Dwemer Metal 4K
+
+##### [Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
+- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v2 >> `merge with the main file`
+
+#### Installation Instructions
+
+Unfortunately, "Mod Manager Download" was disabled for the main file.
+
+- Download the main file from the Nexus page manually.
+- Move the archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- In Mod Organizer 2, press F5 to refresh.
+- The mod will now appear in the **Downloads** tab.
+- Right-click it and select **Query Info**.
+- Double-click the mod to install it as usual.
+- Right-click the **Data** folder and select **Set as data directory**.
+- Click **OK** to install the mod.
 
 ##### [Dwemer Ichor Barrel 2K](https://www.nexusmods.com/skyrimspecialedition/mods/16797?tab=files)
 

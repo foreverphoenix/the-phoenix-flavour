@@ -63,6 +63,12 @@ description: >
   * ~~Patch for Provincial Courier~~
   * ~~Patch for Oakwood~~
 
+##### [No Grass In Caves](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** No Grass In Caves
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions

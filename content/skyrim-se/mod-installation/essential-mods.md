@@ -53,8 +53,8 @@ description: >
 
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
-  - `BorderlessUpscale=true` if you play at a lower resolution than your monitor's default (Skyrim @1080p on a 1440p monitor).
-  - `EnableVSync=false` if you want uncapped FPS. Will cause screentearing on monitors without G-Sync or FreeSync.
+  - **79** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
+  - **205** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
 - Hit CTRL+S to save and close the window.
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)

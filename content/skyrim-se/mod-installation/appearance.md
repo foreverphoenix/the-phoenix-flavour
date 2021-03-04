@@ -24,7 +24,7 @@ description: >
 
 - **Main Files:** Vanilla Body with UNP Textures
 
-##### [Cathedral Player and NPC Overhaul - Female Skin Textures](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+##### [Cathedral Player and NPC Overhaul - Female Skin Textures](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 
 #### Download Instructions
 
@@ -117,17 +117,11 @@ description: >
 * **FAR - Females 2 - UNP body:**
   * None
 
-##### [Mild Hair Colors](https://www.nexusmods.com/skyrimspecialedition/mods/27013?tab=files)
+##### [Natural Hair Colors](https://www.nexusmods.com/skyrimspecialedition/mods/46299?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Mild Hair Colors
-
-##### [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** High Poly Vanilla Hair
+- **Main Files:** Natural Hair Colors
 
 ##### [Vanilla Hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147?tab=files)
 
@@ -212,7 +206,7 @@ description: >
 * **Main Files:** VMHD - All Races - 2K
 * **Update Files:** VMHD - FemaleLowerEyeSocketFix - 2K >> `merge with the main file`
 
-##### [Xenius Character Enhancement - Dirt Masks](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+##### [Xenius Character Enhancement - Dirt Masks](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 
 #### Download Instructions
 

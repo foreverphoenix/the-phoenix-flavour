@@ -6,6 +6,141 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.4
+
+> 04/03/2021
+
+**Removal of High Poly Vanilla Hair:** This mod was TEMPORARILY removed as the current version has clipping issues on vanilla heads. The author only tested with High Poly Head but unfortunately did not set that as a requirement. They are apparently working on a fix and the mod will be re-added when that fix is available.
+
+**Removal of Forgotten Retex Project:** While this is a great compilation of various mods, I prefer to hand-pick at the end of the day. As more conflicting mods were added, the list of files to delete from this mod grew further and I decided to simply remove it. Similar to HMB II (Cathedral NPCs) many of the mod previously included in the big package were now re-added separately.
+
+**Removal of Skyrim 3D Misc - Tanning Rack:** Ok, so hear me out. Mathy does great work. Incredible meshes. They are so good, in fact, that every time I come across a tanning rack, I can't help thinking "that's a 2021 mesh in my 2011 game". Yes, I removed a mod because it's too well made.
+
+**Removal of Practical Female Armor Changes:** This one will upset people, and trust me, the return of the boobplate doesn't make me happy either. But with the PFA meshes and Cath Armory meshes, and lacking the skills to implement the changes from either mod into the other, I had to make a decision. Will probably be re-added at some point when I've figured out how to patch the meshes.
+
+#### Updating Instructions
+
+- Completely redo the [Facegen](/skyrim-se/finalisation/facegen) step, including updating the script, regenerating the plugin, rebuilding facegen, and running the output through CAO.
+- Also regenerate AllGUD, TexGen, DynDOLOD, and Occlusion. Remember to use the [How To Update - DynDOLOD](/skyrim-se/guide-resources/how-to-update/#dyndolod) if you're on an ongoing playthrough.
+
+#### Mod Installation
+
+- **Essential Mods:** Updated INI Tweak instructions for SSE Display Tweaks.
+- **Graphics Baseline:** Added instructions to remove two meshes from Ruins Clutter Improved.
+- **Graphics Baseline:** Added HD Falmer and Chaurus.
+- **Graphics Baseline:** Updated FOMOD instructions for High Poly Project.
+- **Landscape:** Removed Pfuscher's Rapid Rocks (mesh is stupidly high poly and also doesn't blend well).
+- **Landscape:** Added Majestic Mountains - Rapid Rocks Mesh.
+- **Landscape:** Updated FOMOD Instructions for Majestic Mountains - Northside.
+- **Trees & Plants:** Fixed file paths in additional instructions for HD Dead Trees and Driftwoods.
+- **Trees & Plants:** Added HD Dead Trees and Driftwoods 2K Mesh Fix.
+- **Architecture:** Removed The Streets of Whiterun HD.
+- **Architecture:** Added Skyland Whiterun.
+- **Architecture:** Added Skyland Whiterun - SMIM Wood Color Patch.
+- **Architecture:** Moved RUSTIC MONUMENTS AND TOMBSTONES to Misc Structures.
+- **Architecture:** Moved Skyrim 3D High Hrothgar Steps to Misc Structures.
+- **Architecture:** Moved Pilgrim's Delight - High Hrothgar Shrine Retextures for Misc Structures.
+- **Architecture:** Removed HD Reworked Falmer Architecture (covered by HD Falmer and Chaurus).
+- **Architecture:** Added Iconic's Moon Crest Retexture.
+- **Misc Structures:** Removed instructions to download an optional file for SD's Farmhouse Fences (was redundant).
+- **Misc Structures:** Added Rudy HQ - Hay.
+- **Misc Structures:** Added Iconic's Morthal Quest Coffin Retexture.
+- **Dungeons:** Added Rally's Jurgen Windcaller Tomb.
+- **Clutter:** Removed Forgotten Retex Project.
+- **Clutter:** Added Septim HD.
+- **Clutter:** Added Qwafee Keys.
+- **Clutter:** Removed Aetherial Crown by Saerileth - Plugin Replacer.
+- **Clutter:** Updated Skyrim 3D Misc download instructions (no longer downloading Tanning Rack file).
+- **Clutter:** Added Realistic HD Pickaxe Remastered.
+- **Clutter:** Added Realistic HD Woodcutter's Axe Remastered.
+- **Clutter:** Added Realistic HD Blacksmith Remastered.
+- **Clutter:** Added Dressed Hearthfire Doll.
+- **Clutter:** Added HD Ruined Book Retexture.
+- **Clutter:** Added Burned Book Retexture.
+- **Clutter:** Added instructions to compress JS Dragon Claws textures to save VRAM.
+- **Clutter:** Added White Phial Replacer.
+- **Clutter:** Added Iconic's Weathered Dragonstone Retexture.
+- **Clutter:** Added Barenziah's Glory.
+- **Clutter:** Moved Barenziah's Glowing further down in the mod order.
+- **Clutter:** Added Iconic's Falmer Eye Gem Retexture.
+- **Clutter:** Added Bust of the Gray Fox.
+- **Clutter:** Added Iconic's Remastered Paragon Gems Retexture.
+- **Clutter:** Added Particle Lights for ENB - Paragon Gems.
+- **Food & Ingredients:** Added Ingredients (mod by Pfuscher).
+- **Food & Ingredients:** Added Particle Lights for ENB - Ingredients.
+- **Apparel & Weapons:** Removed Practical Female Armors until I figure out how to patch the meshes.
+- **Apparel & Weapons:** Removed Male Horns for Female Iron Helm.
+- **Apparel & Weapons:** Removed Frankly HD Silver Sword.
+- **Apparel & Weapons:** Updated FOMOD instructions for LeanWolf's Better-Shaped Weapons.
+- **Apparel & Weapons:** Added Cathedral Armory - TPF Repack.
+- **Apparel & Weapons:** Added Project Clarity - Weapons - TPF Repack.
+- **Apparel & Weapons:** Removed Iron Things - Bow.
+- **Apparel & Weapons:** Removed Elven Weapons for Silence.
+- **Apparel & Weapons:** Removed CC's HD Dwemer Weapons and Armor.
+- **Apparel & Weapons:** Added Ancient aMidianBorn Dwarven Armory.
+- **Apparel & Weapons:** Removed Falmer Weapons for aMidianBorn Book of Silence (covered by HD Falmer and Chaurus).
+- **Apparel & Weapons:** Removed Ebony Weapons 2017 Retexture.
+- **Apparel & Weapons:** Added HD Reflective Ebony Armor and Weapons.
+- **Apparel & Weapons:** Removed HD Reworked Shellbug (covered by HD Falmer and Chaurus).
+- **Apparel & Weapons:** Removed Sunhallowed and Bloodcursed Arrows - HD Retexture.
+- **Apparel & Weapons:** Added instructions to merge the optional fiels from Outlandish Stalhrim with the main file.
+- **Unique Artifacts:** Added HD Reflective Ebony Mail.
+- **Unique Artifacts:** Removed Bloodskal Blade Redone.
+- **Unique Artifacts:** Added Remiros' Bloodskal Blade HD.
+- **Unique Artifacts:** Removed Auriel's Bow - HD Retexture.
+- **Unique Artifacts:** Removed Auriel's Shield - HD Retexture.
+- **Unique Artifacts:** Removed Ghosu - Auriel's Quiver Replacer.
+- **Unique Artifacts:** Ghosu's Auriel's Quiver Retexture.
+- **Unique Artifacts:** Added 2K Black Bow of Fate Retexture.
+- **Unique Artifacts:** Changed mod order for Frankly HD Miraak.
+- **Unique Artifacts:** Added Aevrigheim - Miraak's Sword and Staff Replacer.
+- **Creatures:** Removed Unique Barbas xEdit instructions (now covered in the CRP).
+- **Appearance:** Updated link for Cathedral Player and NPC Overhaul - Female Skin Textures.
+- **Appearance:** Removed Mild Hair Colors.
+- **Appearance:** Added Natural Hair Colors.
+- **Appearance:** Removed High Poly Vanilla Hair.
+- **Appearance:** Updated link for Xenius Character Enhancement - Dirt Masks.
+- **Improved Vanilla Quests:** Added instructions to resave Finding_Derkeethus.esp in the Creation Kit.
+- **Combat & Encounters:** Changed download instructions for Realistic AI Detection. Sneaking is harder now.
+- **Balancing:** Removed Armor and Clothing Extension (WACCF) - MCM Menu Fix (original mod was updated).
+
+#### Finalisation
+
+- **Facegen:** Fixed a typo.
+- **Facegen:** Added instructions to download the zEdit script from the Nexus.
+- **Facegen:** Updated list of plugins to load in zEdit.
+- **Facegen:** Adjusted instructions zEdit instructions (since the script can just be downloaded now).
+- **Facegen:** Updated the screenshot for loading the plugin in the CK (changed load order confused people).
+
+#### Wabbajack
+
+- Added instructions on how to uncap the framerate for people with G-Sync or FreeSync monitors.
+
+#### Resources
+
+- **How To Update:** Added instructions to also delete and regenerate the Occlusion output in the DynDOLOD section.
+
+#### Conflict Resolution Patch
+
+- Reverted size change to Unique Barbas as it can cause him to get stuck.
+- Removed Aetherial Crown - Plugin Replacer as a master
+- Fixed conflicts between No Grass In Caves, Relighting Skyrim, and Realistic Water Two
+
+#### Wabbajack Installer
+
+- ENB Man is no longer packaged with the Wabbajack installer
+- Updated SSE Display Tweaks to 0.4.8-1
+- Updated the CAO - Basic Profiles Pack to 1.4
+- Updated Mysticism - A Magic Overhaul to 1.1.6
+- Updated Adamant - A Perk Overhaul to 4.2.8
+- Updated Misc Tweaks - Better Horses to 1.2
+- Updated Armor and Clothing Extension to 1.2
+- Updated aMidianborn Armor Variants Lite to 1.3
+- Updated Tweaks for WACCF and ACE to 1.5
+- Updated DynDOLOD to 2.94
+- Reinstalled Skyrim 3D Misc - Winterhold Gate to hopefully fix it getting unchecked
+- Regenerated facegen with the new version of the NPCsWithFaces script
+
 ## Release 4.3.2
 
 > 25/02/2021
