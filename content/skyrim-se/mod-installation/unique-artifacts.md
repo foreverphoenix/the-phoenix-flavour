@@ -18,6 +18,19 @@ description: >
 
 * **Main Files:** Unique Uniques SE - Fixes
 
+##### [HD Reflective Ebony Mail](https://www.nexusmods.com/skyrimspecialedition/mods/37701?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Reflective Ebony Mail
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\`
+
+> Textures for the Ebony Mail are included with aMidianBorn Book of Silence. We are letting them take priority so they match the gold and silver versions from aMidianBorn Variants.
+
 ##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
 
 #### Download Instructions
@@ -33,19 +46,6 @@ description: >
   * ~~Less Saturated Weathering~~
   * ~~No Cloak~~
   * ~~Full Glove~~
-
-##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Frankly HD Miraak 1.0
-* **Update Files:** Frankly HD Miraak HOTFIX 1.11 >> `merge with the main file`
-
-#### FOMOD Instructions
-
-* **Texture Resolution:** 2K Resolution
-* **Alternative Colors:** Vanilla Green
-* **Other:** ~~Improved Closefaced Helmets Patch~~
 
 ##### [Masks of the Dovah Sonaak](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files)
 
@@ -115,51 +115,55 @@ description: >
 
 * **Main Files:** Unique Zephyr 1.0
 
-##### [Auriel’s Bow - HD Retexture](https://www.nexusmods.com/skyrim/mods/44333?tab=files)
+##### [Remiros' Bloodskal Blade HD](https://www.nexusmods.com/skyrimspecialedition/mods/18626?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** Auriels Bow HD Retexture 2k complete
-
-##### [Auriel’s Shield - HD Retexture](https://www.nexusmods.com/skyrim/mods/51148?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** Auriels Shield HD Retexture 2k
-
-##### [Ghosu - Auriel’s Quiver Replacer](https://www.nexusmods.com/skyrim/mods/51822?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** MAIN FILE _ version 2
+* **Main Files:** Remiros' Bloodskal Blade HD
 
 #### Porting Instructions
 
-* Run the mod through SSE NIF Optimizer.
-
-##### [Ghosu’s Auriel’s Quiver Retexture](https://www.nexusmods.com/skyrim/mods/58218?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ghosus Auriels Quiver Retexture corrected 1k
-* **Optional Files:** Mesh for my HD Retexture of the arrows >> `merge with the main file`
-
-#### Porting Instructions
-
-* Run the mod through SSE NIF Optimizer.
-
-##### [Bloodskaal Blade Redone](https://www.nexusmods.com/skyrim/mods/54229?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Bloodskal Blade Redone
-
-#### Porting Instructions
-
-* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+* Run the mod through Cathedral Assets Optimizer (**SSE - Downsize Textures**).
 
 ##### [Remiros' Hrothmund's Axe HD](https://www.nexusmods.com/skyrimspecialedition/mods/43026?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Remiros' Hrothmund's Axe HD 2k
+
+##### [2K Black Bow of Fate Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/13803?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** 2K Black Bow Of Fate DARK WOOD
+
+##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Frankly HD Miraak 1.0
+* **Update Files:** Frankly HD Miraak HOTFIX 1.11 >> `merge with the main file`
+
+#### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+* **Alternative Colors:** Vanilla Green
+* **Other:** ~~Improved Closefaced Helmets Patch~~
+
+##### [Aevrigheim - Miraak's Sword and Staff Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/34224?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Miraak's Staff Replacer
+- **Main Files:** Miraak's Sword - Variant 1 >> `merge with the first file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\dlc02\weapons\miraak\miraak_m.dds`
+  - `textures\dlc02\weapons\miraak\miraak_n.dds`
+  - `textures\dlc02\weapons\miraak\mirblade.dds`
+  - `textures\dlc02\weapons\miraak\mirblade_m.dds`
+  - `textures\dlc02\weapons\miraak\mirblade_n.dds`
+
+> Since we downloaded the vanilla-like version of the mesh replacer, it doesn't actually use the new textures and is pointed at vanilla textures. The mirblade textures are not being used at all. The 1K miraak textures (for the staff) are removed so that the 2K ones from the IconicDeath repack take priority.

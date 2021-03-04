@@ -11,7 +11,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** 2k Farmhouse Fences SE Version 2
-* **Optional Files:** 2k Slightly Desaturated Version 2 Deffuse >> `merge with the main file`
 
 ##### [True Nordic Farmhouses - SD's Farmhouse Fences Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files)
 
@@ -52,6 +51,16 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Stockades of Skyrim 3D
+
+##### [Rudy HQ - Hay](https://www.nexusmods.com/skyrimspecialedition/mods/25125?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rudy HQ - Hay SE
+
+#### FOMOD Instructions
+
+- **Select the version and resolution:** Rudy HQ - Hay SE 2K - Version01
 
 ##### [Boats and Ships](https://www.nexusmods.com/skyrimspecialedition/mods/45601?tab=files)
 
@@ -96,6 +105,17 @@ description: >
 #### FOMOD Instructions
 
 * **Resolution:** 2K
+
+##### [Iconic's Morthal Quest Coffin Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44150?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Morthal Quest Coffin Retexture
+
+#### FOMOD Instructions
+
+- **Texture Options:** Option 1
+- **Texture Sizes:** 2K
 
 ##### [Stunning Statues of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3375?tab=files)
 
@@ -187,6 +207,18 @@ description: >
 
 * **Main Files:** Astral Aspect - 2K - 1.4
 
+##### [RUSTIC MONUMENTS AND TOMBSTONES](https://www.nexusmods.com/skyrim/mods/68884/?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** RUSTIC MONUMENTS and TOMBSTONES V2.6
+
+#### FOMOD Instructions
+
+* **Monument Textures:** 2k
+* **Tomb Textures:** 4k
+* **Meshes:** SMIM
+
 ##### [Rally's Solstheim Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/45867?tab=files)
 
 #### Download Instructions
@@ -196,3 +228,15 @@ description: >
 #### FOMOD Instructions
 
 - **Colors and Resolutions:** Bright Version 2K
+
+##### [Pilgrim’s Delight - High Hrothgar Shrine Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/3273?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Pilgrim’s Delight
+
+##### [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Skyrim 3D High Hrothgar Steps

@@ -68,8 +68,9 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 
 ### Resaving without DynDOLOD
 
-- Back in Mod Organizer 2, delete both **TexGen Output** and **DynDOLOD Output**.
-- Start the game, load your save and create a new save. Then quit again.
+- Back in Mod Organizer 2, delete **TexGen_Output**, **DynDOLOD_Output**, and **SSELODGen - Occlusion Data**.
+- Start the game and hit **Continue**. Click **OK** to the warning about missing plugins.
+- After the loading screen, stay in the interior cell, save, and quit again.
 
 ### Updating DynDOLOD
 
@@ -81,7 +82,8 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 - Download the **DynDOLOD** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page manually.
 - Open the archive and extract everything into the now empty **DynDOLOD** folder.
 - Go back to the [DynDOLOD](/skyrim-se/finalisation/dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
-- After regenerating TexGen and DynDOLOD, load your save, and continue your playthrough!
+- Continue on the [Occlusion](/skyrim-se/finalisation/occlusion/) page from the **Generate Occlusion Data** step onwards.
+- After regenerating TexGen, DynDOLOD, and Occlusion, load your save, and continue your playthrough!
 
 > Since the folder wasn't changed, there is no need to update the file paths to the TexGen and DynDOLOD executables in MO2. They are still the same.
 

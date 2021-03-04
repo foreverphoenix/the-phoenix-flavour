@@ -17,42 +17,6 @@ description: >
 
 * **Main Files:** RAW SSE 2K
 
-##### [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
-
-#### FOMOD Instructions
-
-* **Skyrim:**
-  * Steel Plate Armor
-  * Elven Light Armor
-  * Elven Armor
-  * Glass Armor
-  * ~~Dragon Scale Armor~~
-  * ~~Orcish Armor~~
-  * Ebony Armor
-  * Ebony Mail
-  * ~~Dragon Plate Armor~~
-  * ~~Ancient Nord Armor~~
-  * ~~Stormcloak Officer Armor~~
-  * Wolf Armor
-  * ~~Imperial Heavy Armor~~
-* **Dawnguard:**
-  * ~~Vampire Armor~~
-* **Dragonborn:**
-  * Chitin Heavy Armor
-  * Nordic Carved Armor
-* **Compatibility Patches:**
-  * ~~aMidianBorn Glass Variants~~
-  * ~~aMidianBorn Differently Ebony~~
-  * ~~Gilded Nordic Carved Armor~~
-  * ~~Bodyslide Presets~~
-  * ~~Ebony Armor Edit~~
-  * aMidianBorn Content Addon
-  * ~~Sleeved Imperials~~
-
 ##### [Warmth - Light Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2959?tab=files)
 
 #### Download Instructions
@@ -70,20 +34,6 @@ description: >
   * ~~Replaces only the scaled armor.~~
   * ~~Replaces only the scaled horn armor.~~
 
-##### [Male Horns for Female Iron Helmet](https://www.nexusmods.com/skyrimspecialedition/mods/38672?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Male Horns for Female Iron Helmet
-
-##### [Frankly HD Silver Sword](https://www.nexusmods.com/skyrim/mods/29563?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** UHSS - Main File Mid Res - 2k
-
-> No optimisation necessary as all meshes will be overwritten by the next mod.
-
 ##### [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
 
 #### Download Instructions
@@ -100,9 +50,9 @@ description: >
   - Greatsword Sheaths
 - **Variants and Patches:**
   - FrankFamily HD Imperial Armor and Weapons
-  - FrankFamily Ultra HD Silver Sword
+  - ~~FrankFamily Ultra HD Silver Sword~~
   - ~~Scimitar Bling~~
-  - Keening with Refraction
+  - ~~Keening with Refraction~~
   - ~~Runed Nord Hero Weapons~~
 - **Glass Refraction Options:**
   - No Refraction
@@ -116,6 +66,18 @@ description: >
   - DragonBoring Weapons
 - **Left-hand Meshes:**
   - No Dual Sheath
+
+##### [Cathedral Armory - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/20199?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Cathedral Armory - TPF Repack
+
+##### [Project Clarity - Weapons - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Project Clarity - Weapons - TPF Repack
 
 ##### [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files)
 
@@ -155,23 +117,22 @@ description: >
 
 * **Texture Resolution:** 2K Resolution
 
-##### [Iron Things - Bow](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files)
+##### [Ancient aMidianBorn Dwemer Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files)
 
 #### Download Instructions
 
-* **Miscellaneous Files:** Iron Things SE bow 1.1
+* **Main Files:** Ancient Amidianborn Dwemer Metal Armory
 
-##### [Elven Weapons for Silence](https://www.nexusmods.com/skyrimspecialedition/mods/27994?tab=files)
+#### FOMOD Instructions
+
+- **Accent Color:** Purple (Original Amidianborn)
+- **Fixed Gauntlet Mesh for VR:** ~~Fixed Male Gauntlet Meshes~~
+
+##### [Actual Orichalcum Orcish Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/33653?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** Leanwolf Elven - Default Silver
-
-##### [CC’s HD Dwemer Weapons and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** CC’s HD Dwemer Weapons and Armor - 2K - 1.0
+- **Main Files:** Actual Orichalcum Orcish Equipment
 
 ##### [Frankly HD Thieves Guild Armor](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files)
 
@@ -194,19 +155,13 @@ description: >
 * **Texture Resolution:** 2K Resolution
 * **Options:** ~~Oblivion Style~~
 
-##### [Falmer Weapons for aMidianBorn Book of Silence](https://www.nexusmods.com/skyrim/mods/83950?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** falmerweapons4BoS
-
 ##### [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Outlandish Stalhrim SSE
-* **Optional Files:** Outlandish Stalhrim SSE - Better Shaped Weapons Patch
-* **Miscellaneous Files:** Outlandish Stalhrim SSE - Blue Cubemap
+* **Optional Files:** Outlandish Stalhrim SSE - Better Shaped Weapons Patch >> `merge with the main file`
+* **Miscellaneous Files:** Outlandish Stalhrim SSE - Blue Cubemap >> `merge with the main file`
 
 ##### [Outlandish Chitin Armour](https://www.nexusmods.com/skyrim/mods/70681?tab=files)
 
@@ -214,11 +169,21 @@ description: >
 
 * **Main Files:** Outlandish Chitin Armour
 
-##### [Ebony Weapons 2017 Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/30029?tab=files)
+##### [HD Reflective Ebony Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37701?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Special Ebony Shiny Reflective Refractive Reshlective 2k 4k 5k 144Hz Immersive Overhaul Retexture Pack Collection Suite
+* **Main Files:** HD Reflective Ebony Armor and Weapons
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\armor\`
+  - `textures\weapons\ebony\ebony shield_d.dds`
+  - `textures\weapons\ebony\ebony shield_m.dds`
+  - `textures\weapons\ebony\ebony shield_n.dds`
+
+> We are removing the mod's textures in favour of aMidiaBorn's for consistency with aMidianBorn Variants which adds gold and silver Ebony variations.
 
 ##### [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files)
 
@@ -260,12 +225,6 @@ description: >
 
 * **Main Files:** Bloodcursed Arrows 1k
 * **Main Files:** Sunhallowed Arrows 1k  >> `merge with the main file`
-
-##### [HD Reworked Shellbug](https://www.nexusmods.com/skyrimspecialedition/mods/41191?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** HD Reworked Shellbug
 
 ##### [Dragon Priest Weapons Improved](https://www.nexusmods.com/skyrim/mods/60075?tab=files)
 

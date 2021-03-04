@@ -125,11 +125,24 @@ description: >
   * ~~Subliminal Traps~~
   * ~~Lantern~~
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\dungeons\imperial\portcullissmall01\`
+
+> The mesh does not work well with Underground's retexture. On the other hand, Underground's imperial door meshes also use that specific retexture so I'd rather keep them and revert the portcullis meshes.
+
 ##### [Ruins Clutter Improved - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Ruins Clutter Improved - Fixes 1.1
+
+##### [HD Falmre and Chaurus](https://www.nexusmods.com/skyrimspecialedition/mods/32301?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Falmer and Chaurus with Glow - xTxVxTx
 
 ##### [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380?tab=files)
 
@@ -191,22 +204,22 @@ description: >
   - Custom Installation
 - **Page 1:**
   - Hearthfire Breads
-  - Vanilla Breads
+  - ~~Vanilla Breads~~
   - ~~Farmhouse Stonewalls~~
-  - ~~Solitude Ropes~~
+  - Solitude Ropes
   - Tents
-  - ~~Whiterun Clutter~~
+  - Whiterun Clutter
   - Windhelm Throne
   - Bones
   - Burnt Corpses
   - ~~Candles~~
 - **Page 2:**
-  - Common Clutter
+  - ~~~Common Clutter~~
   - Dragon Parts
   - ~~Food~~
   - Hagraven
-  - Hay
-  - Horker Tusk
+  - ~~Hay~~
+  - ~~Horker Tusk~~
   - Ingredients
   - ~~Shrines~~
   - ~~Silverware~~

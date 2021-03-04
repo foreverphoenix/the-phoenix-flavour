@@ -21,11 +21,24 @@ description: >
 
 > The low stone walls will be covered by another mod later on. The farmhouse walls doesn't look quite right in my opinion and by removing it, the game will revert to the Noble Skyrim textures which blends in better.
 
-##### [The Streets of Whiterun HD](https://www.nexusmods.com/skyrimspecialedition/mods/20396?tab=files)
+##### [Skyland Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/13015?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** The Streets of Whiterun in HD - 2k Mossier
+* **Main Files:** Skyland - Whiterun
+* **Optional Files:** Skyland - Whiterun Cobblestone >> `merge with the main file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\whiterun\wrskyforge01.dds`
+  - `textures\architecture\whiterun\wrskyforge01_n.dds`
+
+##### [Skyland Whiterun - SMIM Wood Color Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36803?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyland Whiterun - SMIM wood color patch SE
 
 ##### [3D Whiterun Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/41801?tab=files)
 
@@ -54,18 +67,6 @@ description: >
 #### Porting Instructions
 
 * Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
-
-##### [RUSTIC MONUMENTS AND TOMBSTONES](https://www.nexusmods.com/skyrim/mods/68884/?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** RUSTIC MONUMENTS and TOMBSTONES V2.6
-
-#### FOMOD Instructions
-
-* **Monument Textures:** 2k
-* **Tomb Textures:** 4k
-* **Meshes:** SMIM
 
 ##### [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621?tab=files)
 
@@ -142,18 +143,6 @@ description: >
 
 * **Main Files:** The halls of the Greybeards - Dark version
 
-##### [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Skyrim 3D High Hrothgar Steps
-
-##### [Pilgrim’s Delight - High Hrothgar Shrine Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/3273?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Pilgrim’s Delight
-
 ##### [Skyrim Textures Redone - Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files)
 
 #### Download Instructions
@@ -176,12 +165,6 @@ description: >
   * LODs 512
   * ~~LODs 256~~
 
-##### [HD Reworked Falmer Architecture 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41088?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** HD Reworked Falmer Architecture 4K
-
 ##### [Sovngarde HD](https://www.nexusmods.com/skyrimspecialedition/mods/15891?tab=files)
 
 #### Download Instructions
@@ -199,6 +182,30 @@ description: >
 #### Download Instructions
 
 * **Main Files:** CC’s Castle Volkihar Reborn - 2K - 2.0
+
+##### [Better Volkihar Secret Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/34739?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 4K Version
+
+##### [Iconic's Moon Crest Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45788?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Moon Crest Retexture
+
+#### FOMOD Instructions
+
+- **Choose Size:** 4K
+- **Choose Color:** Gold
+- **Patches:** Unofficial Material Fix Patch
+
+##### [Upgraded Moondial](https://www.nexusmods.com/skyrimspecialedition/mods/45875?tab=files)
+
+#### Download Instruction
+
+- **Main Files:** Upgraded Moondial - Elevn
 
 ##### [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481?tab=files)
 

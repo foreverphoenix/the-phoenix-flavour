@@ -77,6 +77,12 @@ description: >
 
 * **Objective Patches:** None
 
+#### Additional Instructions
+
+- Resave **Finding_Derkeethus.esp** in the Creation Kit.
+
+> While the plugin has the correct Form Version, it contains a duplicate form ID which can cause issues. Resaving fixes that.
+
 ##### [Finding Helgi and Laelette - A Laid To Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973?tab=files)
 
 #### Download Instructions

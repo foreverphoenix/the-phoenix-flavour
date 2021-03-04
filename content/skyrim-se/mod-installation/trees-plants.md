@@ -75,8 +75,14 @@ description: >
   - `meshes\landscape\trees\reachtree01.nif`
   - `meshes\landscape\trees\reachtree02.nif`
   - `meshes\landscape\trees\reachtreestump01.nif`
-  - `textures\Spooknik\reachtreebranch01.dds`
-  - `textures\Spooknik\reachtreebranch01_n.dds`
+  - `textures\Spooknik\landscape\trees\reachtreebranch01.dds`
+  - `textures\Spooknik\landscape\trees\reachtreebranch01_n.dds`
+
+##### [HD Dead Trees and Driftwoods 2K Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/46386?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Dead Trees and Driftwoods 2K Mesh Fix
 
 ##### [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files)
 

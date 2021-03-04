@@ -79,12 +79,6 @@ description: >
 
 - **Main Files:** Armor and Clothing Extension
 
-##### [Armor and Clothing Extension (WACCF) - MCM Menu Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23471?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** WACCF_MCM_Fix
-
 ##### [Tweaks for WACCF and ACE](https://www.nexusmods.com/skyrimspecialedition/mods/43466?tab=files)
 
 #### Download Instructions

@@ -40,7 +40,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Realistic AI Detection 2 SE - Lite
+* **Main Files:** Realistic AI Detection 2 SE - Medium Interior Medium Exterior
 
 ##### [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600?tab=files)
 

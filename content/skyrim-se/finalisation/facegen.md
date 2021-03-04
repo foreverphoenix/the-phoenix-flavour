@@ -28,72 +28,56 @@ By default the Creation Kit will generate facetint textures with a 512x512 resol
 - Scroll to **Line 31** and change the line to `TintMaskResolution=1024`.
 - Save the file and close.
 
-## NPCs Plugin
+## NPCsWithFaces
 
 The official master files have a large amount of NPC records, not all of which need facegen. For example, we don't need to regenerate facegen for children, NPCs that have templates (use facegen from other records), or simply creatures. Thankfully, we can use zEdit and a code snippet by VictorF to filter out relevant records and copy them to a separate plugin. We will also use it to filter out NPC records with facegen from those mods that add new NPCs at the same time.
+
+- Download the **NPCsWithFaces - zEdit Script** from the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually.
+- Open the archive and extract the script to `Your Modding Folder\Tools\zEdit\scripts\`.
+
+### Open in zEdit
 
 - Run **zEdit** through Mod Organizer 2.
 - The regular **zEdit** mode and **Skyrim SE** should be selected by default. Click **Start Session**.
 - Click on any plugin in the **Load Order** window and press CTRL+A to select all.
 - Right-click the highlighted plugins and select **Uncheck selected**.
 - Now check only the following plugins:
-  - Skyrim.esm
-  - Update.esm
-  - Dawnguard.esm
-  - HearthFires.esm
-  - Dragonborn.esm
-  - Unofficial Skyrim Special Edition Patch.esp
-  - DIVERSE SKYRIM.esp
-  - CFTO.esp
-  - Immersive Patrols II.esp
-  - OCW_Obscure's_CollegeofWinterhold.esp
-  - ICNs_ImmersiveCollegeNPCs.esp
+  - `Skyrim.esm`
+  - `Update.esm`
+  - `Dawnguard.esm`
+  - `HearthFires.esm`
+  - `Dragonborn.esm`
+  - `Unofficial Skyrim Special Edition Patch.esp`
+  - `SimpleVampFixesSSE.esp`
+  - `NaturalHairColors.esp`
+  - `CFTO.esp`
+  - `DIVERSE SKYRIM.esp`
+  - `Immersive Patrols II.esp`
+  - `OCW_Obscure's_CollegeofWinterhold.esp`
+  - `ICNs_ImmersiveCollegeNPCs.esp`
 - Click **OK** to load the selected plugins.
 
 ### Create Plugin
 
 - Proceed once zEdit has loaded the selected plugins (will only take a few second).
 - Right-click anywhere in the left pane and select **Automate**.
-- Copy the snippet from below and paste it into the window:
-
-```java
-const filename = 'NPCsWithFaces.esp';
-let file = xelib.FileByName(filename);
-if(file === 0) file = xelib.AddFile(filename);
-xelib.AddAllMasters(file);
-
-let races = xelib.GetRecords(0, 'RACE', true)
-    .filter(rec => xelib.IsWinningOverride(rec))
-    .filter(rec => xelib.GetFlag(rec, 'DATA\\Flags', 'FaceGen Head') && !xelib.GetFlag(rec, 'DATA\\Flags', 'Child'))
-    .map(rec => xelib.EditorID(rec));
-let npcs = xelib.GetRecords(0, 'NPC_', true)
-    .filter(rec => xelib.IsWinningOverride(rec))
-    .filter(rec => 
-        (!xelib.HasElement(rec, 'TPLT')
-         || !xelib.GetFlag(rec, 'ACBS\\Template Flags', 'Use Traits'))
-         && races.includes(xelib.GetRefEditorID(rec, 'RNAM')));
-npcs.forEach(rec => xelib.CopyElement(rec, file));
-xelib.CleanMasters(file);
-```
-
-- In the **Script** line, rename **New Script.js** to **NPCsWithFaces.js**.
-- Click the **Save** button to save the snippet.
+- Make sure the **NPCsWithFaces.js** script is selected.
 - Click **OK** to run the script.
 
-![zEdit NPC Script](/Pictures/skyrim-se/initial-setup/zedit-npc-script.png)
+![zEdit NPC Script](/Pictures/skyrim-se/finalisation/zedit-npc-script.png)
 
 ### Output
 
 - When the plugin has been generated, zEdit will return `Script completed` and you can close the tool.
 - Click **Save** when asked (NPCsWithFaces.esp should be checked).
 - In Mod Organizer 2, scroll to the bottom and double-click the ***Overwrite***.
-- Delete the (empty) **zEdit Backups** folder if it's there, then close the ***Overwrite*** window.
-- Right-click the ***Overview*** and select **Create Mod**.
+- Delete the (empty) **zEdit Backups** folder, then close the ***Overwrite*** window.
+- Right-click the ***Overwrite*** and select **Create Mod**.
 - Enter **NPCs With Faces** as the name and click **OK**.
 - Move the new mod directly below the **PATCHER OUTPUT** separator and activate it.
-- Load order doesn't matter for the plugin, leave it at the bottom.
+- Load order doesn't matter for the plugin, leave it at the bottom but make sure it's activated.
 
-> Make sure that the Overwrite is completely empty at this point.
+> The Overwrite must be completely empty at this point.
 
 ## Regenerating Facegen
 
@@ -126,7 +110,7 @@ Proceed when the CK has loaded up the plugin and its dependencies.
 - Exporting facegen for all NPCs will take a few minutes. Wait until a window pops up that simply says **Done**.
 - Click **OK** and close the Creation Kit.
 
-> If you run into errors and crashes trying to export facegen, try going a few at a time. Highlight twenty or so NPCs, press CTRL+F4, wait until the CK returns "Done", and move on to the next twenty.
+> If you run into errors and crashes trying to export facegen, try going a few at a time. For example, you can go through by letter, exporting for NPCs starting with A, then B, and so forth.
 
 ![Export Facegen](/Pictures/skyrim-se/finalisation/ck-export-facegen.png)
 

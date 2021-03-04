@@ -141,12 +141,11 @@ description: >
 
 * **Main Files:** Skyrim 3D Icefloes
 
-##### [Pfuscher's Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532?tab=files)
+##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Dark grey Rapid Rocks
-* **Main Files:** Update for both versions >> `merge with the main file`
+* **Main Files:** Majestic Mountains - Rapid Rocks Mesh
 
 ##### [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files)
 
@@ -161,13 +160,13 @@ description: >
 * **Normal Maps:**
   * Main Rocky
 * **Wet Rocks:**
-  * Tweaked Wet Rock Meshes
-  * Tweaked Rapid Rocks Textures
+  * ~~Tweaked Wet Rock Meshes~~
+  * ~~Tweaked Rapid Rocks Textures~~
 
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `textures\shadertests`
+  - `textures\shadertests\`
 
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 

@@ -123,6 +123,15 @@ VSYNC is disabled by default as I am playing on a GSYNC monitor. If you do not h
 - Scroll to **Line 71** and change `EnableVSync=` to `true`.
 - Close the window and click **Yes** to save your change.
 
+### Uncap Framerate
+
+Since we are using SSE Display Tweaks, it is possible to uncap the framerate without breaking the game. However, for this you must disable native VSYNC which means you will suffer from screentearing unless your monitor is capable of G-Sync or FreeSync.
+
+- Double-click **SSE Display Tweaks** in Mod Organizer 2 (below the ESSENTIAL MODS separator near the top).
+- Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
+- Scroll to **Line 205** and change `Frameratelimit=` to your desired value.
+- Close the window and click **Yes** to save your change.
+
 ## Playing TPF
 
 - Open your installation folder `C:\The Phoenix Flavour\` and double-click the **ModOrganizer.exe** inside.
