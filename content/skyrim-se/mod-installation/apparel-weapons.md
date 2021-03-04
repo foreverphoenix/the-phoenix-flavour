@@ -219,13 +219,6 @@ description: >
   * ~~Heavy Armory~~
   * ~~Katana Crafting~~
 
-##### [Sunhallowed and Bloodcursed Arrows - HD Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/13649?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Bloodcursed Arrows 1k
-* **Main Files:** Sunhallowed Arrows 1k  >> `merge with the main file`
-
 ##### [Dragon Priest Weapons Improved](https://www.nexusmods.com/skyrim/mods/60075?tab=files)
 
 #### Download Instructions

@@ -6,6 +6,23 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.4.1
+
+> 04/02/2021
+
+Fixed a bunch of embarrassing typos, both in the guide and in the 4.4 changelog.
+
+#### Mod Installation
+
+- **Fixes:** Added No Grass In Caves (undocumented 4.4 addition).
+- **Graphics Baseline:** Fixed part of High Poly Project FOMOD instructions being illegible.
+- **Clutter:** Added Deer Skull and Antlers (undocumenteed 4.4 addition).
+- **Apparel & Weapons:** Actually removed Sunhallowed and Bloodcursed Weapons - HD Retexture from the page.
+
+#### Finalisation
+
+- **ENBSeries:** Incorporated a suggested improvement to the Global INI Settings instructions.
+
 ## Release 4.4
 
 > 04/03/2021
@@ -39,7 +56,7 @@ description: >
 - **Architecture:** Added Skyland Whiterun - SMIM Wood Color Patch.
 - **Architecture:** Moved RUSTIC MONUMENTS AND TOMBSTONES to Misc Structures.
 - **Architecture:** Moved Skyrim 3D High Hrothgar Steps to Misc Structures.
-- **Architecture:** Moved Pilgrim's Delight - High Hrothgar Shrine Retextures for Misc Structures.
+- **Architecture:** Moved Pilgrim's Delight - High Hrothgar Shrine Retextures to Misc Structures.
 - **Architecture:** Removed HD Reworked Falmer Architecture (covered by HD Falmer and Chaurus).
 - **Architecture:** Added Iconic's Moon Crest Retexture.
 - **Misc Structures:** Removed instructions to download an optional file for SD's Farmhouse Fences (was redundant).
@@ -90,7 +107,7 @@ description: >
 - **Unique Artifacts:** Removed Auriel's Bow - HD Retexture.
 - **Unique Artifacts:** Removed Auriel's Shield - HD Retexture.
 - **Unique Artifacts:** Removed Ghosu - Auriel's Quiver Replacer.
-- **Unique Artifacts:** Ghosu's Auriel's Quiver Retexture.
+- **Unique Artifacts:** Removed Ghosu's Auriel's Quiver Retexture.
 - **Unique Artifacts:** Added 2K Black Bow of Fate Retexture.
 - **Unique Artifacts:** Changed mod order for Frankly HD Miraak.
 - **Unique Artifacts:** Added Aevrigheim - Miraak's Sword and Staff Replacer.

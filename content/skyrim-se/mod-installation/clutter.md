@@ -80,7 +80,6 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - **Optional Files:** 2K Deer Skull and Antlers
 - **Optional Files:** 2K Mounted Antlers >> `merge with the main file`
 
-
 ##### [RUSTIC CLUTTER COLLECTION](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files)
 
 #### Download Instructions

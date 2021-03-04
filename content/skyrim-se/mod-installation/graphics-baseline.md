@@ -138,7 +138,7 @@ description: >
 
 * **Main Files:** Ruins Clutter Improved - Fixes 1.1
 
-##### [HD Falmre and Chaurus](https://www.nexusmods.com/skyrimspecialedition/mods/32301?tab=files)
+##### [HD Falmer and Chaurus](https://www.nexusmods.com/skyrimspecialedition/mods/32301?tab=files)
 
 #### Download Instructions
 
@@ -214,7 +214,7 @@ description: >
   - Burnt Corpses
   - ~~Candles~~
 - **Page 2:**
-  - ~~~Common Clutter~~
+  - ~~Common Clutter~~
   - Dragon Parts
   - ~~Food~~
   - Hagraven
