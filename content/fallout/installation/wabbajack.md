@@ -18,10 +18,10 @@ description: >
 - Find **Welcome to Paradise** in the list and click the arrow to download.
 - Click the dots next to **Installation Location** and choose a path.
 - Choose an empty, high-level folder, e.g. `G:\Welcome to Paradise`.
-  - SHOULD be on your SSD or otherwise fastest hard drive.
-  - CANNOT be inside `Fallout 4 Modding\Wabbajack`.
-  - CANNOT be inside the Fallout 4 installation folder.
-  - CANNOT be inside `C:\Program Files` or `C:\Program Files x86`.
+  - **SHOULD** be on your SSD or otherwise fastest hard drive.
+  - **CANNOT** be inside `Fallout 4 Modding\Wabbajack`.
+  - **CANNOT** be inside the Fallout 4 installation folder.
+  - **CANNOT** be inside `C:\Program Files` or `C:\Program Files x86`.
 - Change the **Download Location** file path to `Fallout 4 Modding\Downloads`.
 - Click the **Start** button on the left to begin the installation process.
 

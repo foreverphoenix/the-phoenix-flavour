@@ -12,33 +12,50 @@ description: >
 
 #### Mod Changes
 
-- Increased pip-boy resolution
-- Disabled pip-boy fx
+- Tweaked Pipboy INI settings (increased resolution, disabled fx)
 - Added Mator's xEdit Patching Framework
 - FO4Edit cache is now saved into the Tools\FO4Edit folder
 - Updated xSE Plugin Preloader to 0.2.4
 - Changed xSE Plugin Preloader load method to OnThreadAttach
-- Updated Buffout to 1.19.0
+- Updated Buffout to 1.20.3
 - Updated the Unofficial Fallout 4 Patch to 2.1.2b
-- Updated High FPS Physics Fix to 0.7.2
+- Updated High FPS Physics Fix to 0.8.0
 - Removed additional High FPS Physics Fix INIs
-- Default settings for WTP are now 75FPS and no VSYNC
+- Default settings for WTP are now 60FPS and no VSYNC
 - Documentation includes instructions to change the settings
-- Reinstalled DEF_UI and only installed DEF_HUD
-- Updated Workshop Framework to 2.0.7
+- Reinstalled DEF_UI and only chose DEF_HUD
+- Added FallUI
+- Added FallUI Workbench
+- Added FallUI Map
+- Re-added LooksMenu
+- Added Better Confirm Boxes for PC
+- Added Better Confirm Boxes for PC - Widescreen Patch
+- Added Retro Radio Replacer
+- Added Classic Wasteland Survival Guide - Magazine Retexture
+- Added U.S. Covert Operations Manual - Magazine Retexture
+- Added Total Hack - Magazine Retexture
+- Added The Hunting Rifle Set
+- Added The Ballistic Series
+- Added Fixed Creature Death Drops
+- Updated Workshop Framework to 2.0.9
 - Updated Simple Sorting Overhaul to 2.0
 - Updated Wetness Shader Fix to 3.3
 - Updated Sprint Stuttering Fix to 1.2
-- Added FallUI
-- Added FallUI Workbench
-- Added Better Confirm Boxes for PC
-- Removed Pip-Boy Dual Color section
+- Updated Hazmat Suit Redux to 0.1
 - Updated Skeletal Adjustments for CBBE to 2.0
 - Updated What's Your Name to 1.11.1
 - Updated Fixed and Cleaned Homeplate to 2.1
-- Updated LOST Audio Tweaks to 1.6.1
+- Updated LOST Audio Tweaks to 1.6.2
 - Updated LOST Audio Tweaks - True Storms and RAO Patch to Beta
-- Deleted records from [this mod](https://www.nexusmods.com/fallout4/mods/49183) from LOST Audio Tweaks
+- Removed Pip-Boy Dual Color section
+- Removed Small Map Markers
+- Removed The Humble Hunting Rifle
+- Removed ScratchMade - New Combat Shotgun and Rifle Textures 
+- Removed The Top-Notch Tommy Gun
+- Removed Assault Rifle Retexture 2K
+- Removed HUD Customisation stuff
+- Repacked the Clutter BA2s
+- Repacked the Weapon BA2s
 
 #### Simple Sorting Overhaul
 
@@ -48,7 +65,8 @@ I did take a look at the [Complex Sorter](https://www.nexusmods.com/fallout4/mod
 
 #### Website Changes
 
-- Expanded FPS and VSYNCs instructions (they are DIY now)
+- **Finalisation:** Added Controller Fix instructions (required because of an issue with FallUI).
+- **Finalisation:** Expanded FPS and VSYNCs instructions (they are DIY now)
 
 ## Release 1.4.1
 

@@ -9,9 +9,9 @@ description: >
 
 ## Overview
 
-**Welcome to Paradise** (WTP) is a Wabbajack mod list for Fallout 4 featuring well over 300 mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. The setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
+**Welcome to Paradise** (WTP) is a Wabbajack minimalistic mod list for Fallout 4 featuring well over 300 mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. The setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
 
-WTP comes with an extensive documentation (of which you are reading the introduction right now) and you are expected to read certain parts, specifically all pages of the **Installation** section. If you decide to use any of the included customisation option, do so only after consulting the **Customisation** pages.
+WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section. If you decide to use any of the included customisation option, do so only after consulting the **Customisation** pages.
 
 > **Unlike its Skyrim SE counterpart, my Fallout 4 setup is Wabbajack-exclusive.** There is no manual installation guide and there will likely never be one as I do not have the time to maintain two modding guides.
 
