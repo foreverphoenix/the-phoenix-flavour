@@ -15,9 +15,19 @@ All mods are installed in Mod Organizer 2 which is required to play the setup. Y
 
 >  I recommend adding ModOrganizer.exe to your taskbar or creating a shortcut on your Desktop for easy access.
 
+## LUTs
+
+An easy way to customise the overall tone of the game is by changing the color palettes - through LUTs. I have included three different options of which you can choose one or none. Take a look at the mod pages and their preview pictures.
+
+You can change or disable LUTs at any time.
+
+- Under the **LUT (OPTIONAL)** separator in Mod Organizer 2, check your preferred option.
+- Check the pictures for [Neutral Look Up Tables LUT](https://www.nexusmods.com/fallout4/mods/1016).
+- Check the pictures for [Fallout 4 Enhanced Color Correction](https://www.nexusmods.com/fallout4/mods/5060).
+
 ## Controller Fix
 
-For FallUI, the interface overhaul, I increased the Pipboy resolution in the fallout4prefs.ini file. Unfortunately this will cause the map cursor to lock in the upper left corner when playing with a controller.
+For FallUI, the interface overhaul, I increased the Pipboy resolution in the `fallout4prefs.ini` file. Unfortunately this will cause the map cursor to lock in the upper left corner when playing with a controller.
 
 If you play with a controller, follow these instructions to revert the INI tweak:
 

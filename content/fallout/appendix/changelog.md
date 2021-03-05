@@ -8,10 +8,11 @@ description: >
 
 ## Release 1.5
 
-> TBD
+> 05/03/2021
 
 #### Mod Changes
 
+- Updated Mod Organizer 2 to 2.4.0
 - Tweaked Pipboy INI settings (increased resolution, disabled fx)
 - Added Mator's xEdit Patching Framework
 - FO4Edit cache is now saved into the Tools\FO4Edit folder
@@ -24,12 +25,16 @@ description: >
 - Default settings for WTP are now 60FPS and no VSYNC
 - Documentation includes instructions to change the settings
 - Reinstalled DEF_UI and only chose DEF_HUD
+- Reverted to vanilla DEF_UI profile
 - Added FallUI
 - Added FallUI Workbench
 - Added FallUI Map
 - Re-added LooksMenu
 - Added Better Confirm Boxes for PC
+- Added TRUBY9 ULTRAWIDE DEF_UI Fix
 - Added Better Confirm Boxes for PC - Widescreen Patch
+- Added Neutral Look Up Tables LUT
+- Added Fallout 4 Enhanced Color Correction
 - Added Retro Radio Replacer
 - Added Classic Wasteland Survival Guide - Magazine Retexture
 - Added U.S. Covert Operations Manual - Magazine Retexture
@@ -37,6 +42,7 @@ description: >
 - Added The Hunting Rifle Set
 - Added The Ballistic Series
 - Added Fixed Creature Death Drops
+- Added FO4 Photo Mode
 - Updated Workshop Framework to 2.0.9
 - Updated Simple Sorting Overhaul to 2.0
 - Updated Wetness Shader Fix to 3.3
@@ -56,6 +62,7 @@ description: >
 - Removed HUD Customisation stuff
 - Repacked the Clutter BA2s
 - Repacked the Weapon BA2s
+- Changed ENB hotkeys to mirror TPF's
 
 #### Simple Sorting Overhaul
 
@@ -65,8 +72,17 @@ I did take a look at the [Complex Sorter](https://www.nexusmods.com/fallout4/mod
 
 #### Website Changes
 
+I went over all pages and fixed what I thought needed fixing. Screenshots were updated, sentences were rephrased, and instructions were clarified.
+
+- **Finalisation:** Added instructions for the optional LUTs.
 - **Finalisation:** Added Controller Fix instructions (required because of an issue with FallUI).
-- **Finalisation:** Expanded FPS and VSYNCs instructions (they are DIY now)
+- **Finalisation:** Expanded FPS and VSYNCs instructions (they are DIY now).
+- **New Game:** Removed Hotkey instructions. No longer necessary with TPF ENB hotkeys.
+- **Mod Configuration:** Added instructions for Photo Mode.
+- Renamed the "Documentation" section to "Resources".
+- **Ultrawide:** Moved this page to the Resources section.
+- **Customisation:** Removed this section. Use the FallUI MCM to customise your UI.
+- **Troubleshooting:** Added a note about flickering puddles.
 
 ## Release 1.4.1
 

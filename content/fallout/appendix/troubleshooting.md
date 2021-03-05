@@ -43,3 +43,7 @@ uPipboyTargetWidth=876
 - Click the **Save** button at the bottom and close the window.
 
 ![Map Cursor Stuck](/Pictures/fallout/appendix/map-gamepad.jpg)
+
+## Flickering puddles
+
+This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), but the bug still occurs and I'm honestly clueless.
