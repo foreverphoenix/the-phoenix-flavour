@@ -12,18 +12,18 @@ description: >
 
 * **Main Files:** Mysticism - A Magic Overhaul
 
+##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** More Expensive Transmute for Mysticism
+
 ##### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Adamant - A Perk Overhaul
 * **Optional Files:** Adamant Addons - Shrines and Amulets
-
-##### [More Expensive Transmute for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/31754?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** More Expensive Transmute for Mysticism
 
 ##### [Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files)
 
@@ -35,7 +35,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Adamant Arena Ultimate Uncapper
+* **Main Files:** Skyrim Uncapper - Adamant Arena
 
 ##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
@@ -55,11 +55,17 @@ description: >
 
 * **Main Files:** Scion - A Vampire Overhaul
 
-##### [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245?tab=files)
+##### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Growl 2.3.0
+* **Main Files:** Manbeast - A Werewolf Overhaul
+
+##### [Simple Werewolf Favourite Howls Menu](https://www.nexusmods.com/skyrimspecialedition/mods/35736?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Werewolf Favourite Howls Menu
 
 ##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
 
@@ -95,6 +101,8 @@ description: >
 * **Optional Patches:**
   * ~~ROM - WMA Patch~~
 
+> Only check the one patch marked above. All other patches offered are not required as conflicts are resolved in TPF's final patch.
+
 ##### [Genuinely Intelligent Soul Traps (GIST)](https://www.nexusmods.com/skyrimspecialedition/mods/15755?tab=files)
 
 #### Download Instructions
@@ -106,6 +114,14 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Carriage and Ferry Travel Overhaul
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes`
+  - `textures`
+
+> The folders contains facegen files which we will later regenerate in higher quality.
 
 ##### [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651?tab=files)
 
@@ -119,8 +135,22 @@ description: >
 * **Covered Carriages Add-On:** ESL-flagged
 * **Lanterns Add-On:** ESL-flagged
 
-##### [Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
+##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Carriage and Ferry Travel Overhaul - Cathedral NPCs Facegen Patch
+- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
+- **Main Files:** Misc Tweaks - Better Horses
+- **Main Files:** Misc Tweaks - More Expensive Player Homes
+- **Main Files:** Misc Tweaks - More Realistic Animal Loot
+- **Main Files:** Misc Tweaks - Night Eye Redux
+- **Main Files:** Misc Tweaks - No Starting Spells
+- **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
+
+#### FOMOD Instructions - No Starting Spells
+
+- **Plugin:** AI Overhaul Compatible Plugin
+
+#### FOMOD Instructions - Shrines Don't Cure Diseases
+
+- **Plugin:** Adamant Shrines Version

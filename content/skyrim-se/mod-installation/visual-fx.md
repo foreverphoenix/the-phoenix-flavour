@@ -62,11 +62,11 @@ description: >
 
 * **Main Files:** Refracting Ice Form Debris - 2.0
 
-##### [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files)
+##### [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** Voltage 2K
+* **Main Files:** Thunderbolt - HD Lightning
 
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
@@ -80,6 +80,12 @@ description: >
 
 * **Main Files:** Reduced Glow FX SE
 
+##### [Ljoss ENB - Magelight Fix](https://www.nexusmods.com/skyrimspecialedition/mods/30971?tab=files)
+
+#### Download Instructions
+
+* **Optional Files:** Fix overbright magelight and College of Winterhold lights
+
 ##### [Fire Halo Remover](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)
 
 #### Download Instructions
@@ -91,3 +97,19 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Less Distracting Blowing Snow Effects 1.0
+
+##### [Glow Be Gone SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** GlowBeGoneSSE-Updated
+
+##### [Glow Be Gone SKSE Updated GhostFX Workaround](https://www.nexusmods.com/skyrimspecialedition/mods/36112/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** GhostFX Workaround
+
+#### FOMOD Instructions
+
+- **Select an option:** Vanilla + Mysticism

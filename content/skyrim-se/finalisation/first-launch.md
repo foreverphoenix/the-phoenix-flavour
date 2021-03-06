@@ -1,30 +1,25 @@
 ---
 title: "First Launch"
-weight: 6
+weight: 8
 type: docs
 description: >
-  Ingame testing and ENB configuration.
+  Ingame testing.
 ---
 
-## The Final Step
+## A Test Game
 
 All mods are installed. The ENB preset is configured correctly. DynDOLOD is generated. Now comes the moment of truth.
 
 Once arrived at this point it is important to test your setup in order to make sure your game looks as intended, performs well, and runs stable so that you can finally start a new playthrough without a high risk for nasty surprises.
 
-## Start a test game
-
 * In Mod Organizer 2, select **SKSE** in the exectuables drop-down and hit **Run**.
-* In the main menu, select **New** to start your test save.
-* After the initial loading screen you will find yourself in the AS LAL cell where you can customise your (testing) character.
-* When you’re done, talk to the Statue of Mara and select the **I am camping in the woods** option.
-* Go to the bed in the back in the cell and interact with it to "sleep".
+* In the main menu, open the console by pressing the tilde key (above TAB, next to 1).
+* Type in `coc riverwood` and hit Enter.
+* After the loading screen, you'll find yourself in Riverwood with a test character.
 
-## Configuration
+**Before you continue, wait for all messages in the upper left corner to run through**.
 
 ### Immersive HUD
-
-**Both of these changes are completely optional but recommended.**
 
 Changes to MCM settings do not carry over across save games so it would be a waste of time to configure all MCMs for a test run. There are merely two changes in the Immersive HUD MCM that I recommend for now.
 
@@ -48,9 +43,10 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
 
 ## Testing Suggestions
 
-* You will spawn near Helgen in an area you likely know well. Take some time to look around.
-* Activate the ENBSeries FPS counter if you installed ENB (default hotkey: Numpad *). Otherwise use the Steam overlay or something similar.
-* It is often convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
+I recommend you spend at least 10 to 20 minutes ingame. Enjoy the improved graphics and take some screenshots! Once you have quit the game, proceed with the next step.
+
+* Activate the ENBSeries FPS counter (**F7**) to monitor your frame rate.
+* It may be convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
 * Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers).
 * Especially intense areas where you frame rate might drop are:
   * the southern forest, especially when looking down at Falkreath,
@@ -58,4 +54,8 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
   * the bridge looking at Riverwood,
   * the Rift, particularly when approaching Riften from the south.
 
-I recommend spending at least 10 to 20 minutes ingame. Enjoy the improved graphics and take some screenshots! Once you have quit the game, proceed with the next step.
+**When you are satisfied, close Skyrim SE again.**
+
+If you encounter any bugs, performance lower than expected, or even crashes, please join us on Discord and provide us with detailed information about the problem. Any outstanding issues should be solved before diving back into Skyrim for a proper playthrough.
+
+#### Continue with the [Mod Configuration](/skyrim-se/mod-configuration/) page.

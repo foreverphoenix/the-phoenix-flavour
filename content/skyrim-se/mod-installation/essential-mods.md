@@ -53,8 +53,8 @@ description: >
 
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
-  - `BorderlessUpscale=true` if you play at a lower resolution than your monitor's default (Skyrim @1080p on a 1440p monitor).
-  - `EnableVSync=false` if you want uncapped FPS. Will cause screentearing on monitors without G-Sync or FreeSync.
+  - **79** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
+  - **205** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
 - Hit CTRL+S to save and close the window.
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
@@ -63,11 +63,28 @@ description: >
 
 * **Main Files:** More Informative Console for SKSE 2.17-2.19
 
-##### [Autorun Console Commands (ACC)](https://www.nexusmods.com/skyrimspecialedition/mods/24919?tab=files)
+##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ACC - Autorun Console Commands
+- **Main Files:** Autorun
+
+#### Additional Instructions
+
+The first set of console commands we want run automatically can be added now (more mod-related ones will come later). [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524) merely changes two existing game settings which can simply edited through the console, thus removing the need for an additional plugin.
+
+- Double-click **Autorun Console Commands** in Mod Organizer 2.
+- Switch to the **Textfiles** tab and select the **Autorun.txt** file.
+- Add the following two lines in the text field:
+
+```
+SetGS fSandboxCylinderTop 576
+SetGS fSandboxCylinderBottom -576
+```
+
+- Close the window and click **Yes** when asked to save.
+
+![ACC Add MFS](/Pictures/skyrim-se/mod-installation/acc-add-mfs.png)
 
 ##### [Unofficial High Definition Audio Project (UHDAP)](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)
 
@@ -108,12 +125,6 @@ description: >
   * `WACCF_BashedPatchLvlListFix.esp`
   * `Weapons Armor Clothing & Clutter Fixes.modgroups`
 
-##### [Alternate Start - Live Another Life (AS LAL)](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Alternate Start - Live Another Life
-
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 #### Download Instructions
@@ -132,21 +143,3 @@ description: >
   - `Particle Patch for ENB SSE.esp`
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
-
-##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** SMIM SE 2-08
-
-#### FOMOD Instructions
-
-- **Main Installer Choice:** Skyrim 2016 Special Edition: Everything
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
-  * `meshes\architecture\solitude\doors\sgatedoor.nif`
-
-> The first mesh will be replaced either by the fixed version contained in Skyrim Landscape and Water Fixes or by Real Walls 3D. Deleting the second mesh will allow you to use a different retexture for the Solitude city gate.

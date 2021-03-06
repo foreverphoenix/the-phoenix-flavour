@@ -17,8 +17,6 @@ If on the main page for SKSE there is a different version number than the one no
 
 ## Installation
 
-### Binaries
-
 * Open the downloaded archive and extract its contents to `Your Modding Folder\temp`.
 * Move the following three files into your Skyrim SE **root** folder:
   * **skse64_skyrim version number.dll**
@@ -35,7 +33,7 @@ If on the main page for SKSE there is a different version number than the one no
 * Delete all remaining files inside your **temp** folder.
 * Switch back to Mod Organizer 2.
 * Press F5 to refresh and the new mod will show up at the bottom of you mod order.
-* Move it up below the **01 ESSENTIAL MODS** separator and click the checkmark to activate it.
+* Move it up below the **ESSENTIAL MODS** separator and click the checkmark to activate it.
 
 ![SKSE Scripts Installation](/Pictures/skyrim-se/initial-setup/skse-scripts-installation.png)
 

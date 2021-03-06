@@ -37,6 +37,12 @@ description: >
 
 * **Main Files:** RUGNAROK - Special Edition - 2K
 
+##### [Ennead Banners - RUGNAROK Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Ennead Banners - RUGNAROK Patch
+
 ##### [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041?tab=files)
 
 #### Download Instructions
@@ -61,6 +67,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Thrones of Skyrim SE
+
+##### [Centered Blue Palace Throne](https://www.nexusmods.com/skyrimspecialedition/mods/39943?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Centered Blue Palace Throne
 
 ##### [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files)
 

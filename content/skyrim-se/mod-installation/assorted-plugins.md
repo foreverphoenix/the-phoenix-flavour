@@ -61,7 +61,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Classic Sprinting Redone - Version Independent
+* **Main Files:** Classic Sprinting Redone
 
 ##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
 
@@ -75,11 +75,23 @@ description: >
 
 * **Main Files:** I'm Walkin' Here
 
+##### [Disable Follower Collision](https://www.nexusmods.com/skyrimspecialedition/mods/35925?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DisableFollowerCollision v1.0.0 for SkyrimSE
+
 ##### [Free Look](https://www.nexusmods.com/skyrimspecialedition/mods/42620?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Free Look v2
+
+##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Vampires Cast No Shadows
 
 ##### [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files)
 

@@ -63,6 +63,12 @@ description: >
 
 * **Main Files:** Medieval Spirits
 
+##### [Unique Stros M'Kai Rum](https://www.nexusmods.com/skyrimspecialedition/mods/43830?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Stros M'Kai Rum Replacer 1K
+
 ##### [Remiros' Dragonborn Alcohol HD](https://www.nexusmods.com/skyrimspecialedition/mods/41972?tab=files)
 
 #### Download Instructions
@@ -95,6 +101,27 @@ description: >
 
 * **Main Files:** Main File Homecooked Meals
 
+##### [Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/40777?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ingredients
+
+##### [Particle Lights for ENB - Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/44022?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights For ENB SE - Ingredients
+
+#### FOMOD Instructions
+
+- **Installation options:** Custom install
+- **Fire salts:** High Poly Project
+- **Frost salts:** High Poly Project
+- **Glow Dust:** Pfuscher's Ingredients
+- **Daedra Heart:** High Poly Project
+- **Spriggan sap:** Pfuscher's Ingredients
+
 ##### [HD Meshes and Textures for Animal and Creature Drops](https://www.nexusmods.com/skyrimspecialedition/mods/33791?tab=files)
 
 #### Download Instructions
@@ -112,6 +139,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Improved Dragonfly
+
+##### [Skeever Tail HD](https://www.nexusmods.com/skyrimspecialedition/mods/25319?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skeevertail GREY
 
 ##### [ElSopa HD - Briar Heart](https://www.nexusmods.com/skyrimspecialedition/mods/27983?tab=files)
 

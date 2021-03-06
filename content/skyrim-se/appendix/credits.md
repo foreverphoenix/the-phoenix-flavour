@@ -41,4 +41,4 @@ description: >
 - Thanks to **Dodger** for gifting me lifetime Nexus Premium and **Kedavix** for the Snagit license.
 - Thanks to our fellow mod and guide authors: **SimonMagus**, **VictorF**, **mnikjom**, **Nathan**, **Slidikins**, and all the others.
 - Thanks to all the wonderful people on our Discord server, particularly those who have been around and active for a long time.
-- Thanks to my Patreons and everyone who donated over PayPal or by other means over the past years!
+- Thanks to my Patreons and everyone who donated over PayPal or by other means over the years!

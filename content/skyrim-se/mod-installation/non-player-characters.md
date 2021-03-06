@@ -18,6 +18,12 @@ description: >
 
 - **Main Files:** AI Overhaul 1.6.4
 
+##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+
+#### Download Instructions
+
+- **Main File:** Simple Offence Suppression
+
 ##### [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 
 #### Download Instructions
@@ -28,7 +34,7 @@ description: >
 
 The mod comes with two console commands to customise it. One will prevent innkeepers from showing you to your room, the other will make it so you'll be served whenever you sit down in an inn and not just the first time. Both can simply be added to Autorun Console Commands.
 
-* Double-click **Autorun Console Commands** in your mod order.
+* Double-click **Autorun** in your mod order.
 * In the **Textfiles** tab, select **Autorun.txt** and add the following lines:
   * `set TAIF_ServePlayerEveryTime to 1`
   * `set TAIF_ShowRoomNeverShow to 1`
@@ -51,7 +57,7 @@ The commands will now be executed automatically when you start a new game or loa
 
 You can disable comments that turned into memes ("no lollygagging", "someone stole your sweet roll", "curved swords", "arrow in the knee") by doing the following:
 
-- Double-click **Autorun Console Commands** in your mod order.
+- Double-click **Autorun** in your mod order.
 - Switch to the **Text Files** tab and select the **Autorun.txt**.
 - Add the following line:
   - `set GDOMemes to 0`
@@ -86,38 +92,6 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 > Even though Timing Is Everything will be installed later and lower in the mod order, the scripts from the TNA TIE patch will still override because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
 
-##### [Nether’s Follower Framework (NFF)](https://www.nexusmods.com/skyrimspecialedition/mods/18076?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Nether’s Follower Framework - Universal Installer (LE or SSE)
-
-#### FOMOD Instructions
-
-* **Game Version:**
-  * Skyrim Special Edition
-* **Core Options:**
-  * Followers Avoid Traps
-  * ~~Replace Base Dialogue Scripts~~
-  * ~~Follower Leveling Bat File~~
-  * ~~Follower Class BAT Files~~
-* **Removed Scripts:**
-  * ~~Install Dummy Scripts~~
-* **Core Mod Support:**
-  * ~~Interesting NPCs~~
-  * ~~Relationship Dialogue Overhaul (RDO)~~
-  * ~~RDO Comments~~
-  * ~~Misty Skye~~
-* **Spell Perk Item Distributor Options:**
-  * ~~Friendly Fire~~
-  * ~~Skill Boosts~~
-  * ~~Spell Magnitude Mod~~
-* **No Team Magic Damage Core (Beta):**
-  * ~~ESP for Skyrim Special Edition~~
-* **NTMD Mod Support (Beta):**
-  * ~~Apocalypse for SSE~~
-  * ~~Elemental Destruction Magic for SSE~~
-
 ##### [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
 
 #### Download Instructions
@@ -146,11 +120,31 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 * **Main Files:** Adopt Aventus Aretino
 
+##### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** DIVERSE SKYRIM SSE
+
+#### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `DIVERSE SKYRIM.bsa`
+
+> The archive contains the facegen files which we will regenerate later on.
+
 ##### [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Immersive Patrols Lite
+
+#### Additional Files
+
+- Delete the following file(s) and / or folder(s):
+  - `Immersive Patrols II.bsa`
+
+> The BSA contains facegen files which we will later regenerate in higher quality.
 
 ##### [Immersive Patrols Simplified](https://www.nexusmods.com/skyrimspecialedition/mods/32765?tab=files)
 
@@ -162,9 +156,3 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - **Immersive Patrols Version:** Lite
 - **Patches:** No Merchants
-
-##### [Immersive Patrols - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Immersive Patrols II Lite - Cathedral NPCs Facegen Patch

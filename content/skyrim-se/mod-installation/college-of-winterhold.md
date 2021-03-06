@@ -79,7 +79,7 @@ description: >
   - ~~Tamrielic Culture~~
   - ~~The Midden - Expanded (Lite)~~
   - ~~The Tools of Kagrenac~~
-  - ~~Viewable Faction Ranks~~
+  - Viewable Faction Ranks
   - WACCF - Armor and Clothing Extension
   - Weapons Armor Clothing and Clutter Fixes 2.0+
 * **Readme:**
@@ -102,12 +102,6 @@ description: >
   - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
   - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
 
-##### [Obscure's College of Winterhold - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Obscure's College of Winterhold - Cathedral NPCs Facegen Patch
-
 ##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
 
 #### Download Instructions
@@ -118,11 +112,12 @@ description: >
 
 * Change nothing and click **Install**.
 
-##### [Immersive College NPCs - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514?tab=files)
+#### Additional Instructions
 
-#### Download Instructions
+- Delete the following file(s) and / or folder(s):
+  - `ICNs_ImmersiveCollegeNPCs.bsa`
 
-- **Main Files:** Immersive College NPCs - Cathedral NPCs Facegen Patch
+> The BSA contains facegen files which we will later regenerate in higher quality.
 
 ##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
 
@@ -137,6 +132,8 @@ description: >
 * **Main Files:** Misc. College of Winterhold Tweaks
 
 #### FOMOD Instructions
+
+> Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
 
 * **Arniel's Appeals:**
   * Arniel's Appeals

@@ -33,10 +33,19 @@ description: >
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_g.dds`
   - `textures\dlc02\dungeons\apocrypha\apocryphabanner01_n.dds`
-  - `textures\dungeons\imperial\impwooddoorsingle01.dds`
-  - `textures\dungeons\imperial\impwooddoorsingle01_n.dds`
   - `textures\dungeons\riften\ratwaywood01.dds`
   - `textures\dungeons\riften\ratwaywood01_n.dds`
+
+#### Helgen Mud Fix
+
+One of the meshes in Underground is in the wrong folder and will cause the mud on the ground during the intro quest to be weirdly shiny.
+
+- Right-click **Underground** in your mod order and select **Open in Explorer**.
+- Navigate to `meshes\clutter` and create a new folder called **helgen**.
+- Move **helgenmud01.nif** into the new **helgen** folder.
+- The resulting file path should be `meshes\clutter\helgen\helgenmud01.nif`.
+
+> The reason why I am not doing this within MO2's UI is because it can get a bit buggy when moving files and sometimes doesn't show that the file has indeed been moved.
 
 ##### [Rudy HQ - Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/19365?tab=files)
 
@@ -60,6 +69,13 @@ description: >
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff02.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
+  - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
+
+##### [Rally's Jurgen Windcaller Tomb](https://www.nexusmods.com/skyrimspecialedition/mods/28800?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rallys Jurgen Windcaller Tomb HQ - 4K
 
 ##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
 
@@ -79,11 +95,11 @@ description: >
 
 * **Main Files:** RUSTIC WORD WALLS 2K
 
-##### [4K Nordic Murals](https://www.nexusmods.com/skyrimspecialedition/mods/32379?tab=files)
+##### [CC's Remastered Murals](https://www.nexusmods.com/skyrimspecialedition/mods/45241?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** 4K Nordic Murals
+* **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
 
 ##### [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files)
 
@@ -142,6 +158,26 @@ description: >
 
 * **Main Files:** Ancient Dwemer Metal 4K
 
+##### [Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
+- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v2 >> `merge with the main file`
+
+#### Installation Instructions
+
+Unfortunately, "Mod Manager Download" was disabled for the main file.
+
+- Download the main file from the Nexus page manually.
+- Move the archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- In Mod Organizer 2, press F5 to refresh.
+- The mod will now appear in the **Downloads** tab.
+- Right-click it and select **Query Info**.
+- Double-click the mod to install it as usual.
+- Right-click the **Data** folder and select **Set as data directory**.
+- Click **OK** to install the mod.
+
 ##### [Dwemer Ichor Barrel 2K](https://www.nexusmods.com/skyrimspecialedition/mods/16797?tab=files)
 
 #### Download Instructions
@@ -154,11 +190,23 @@ description: >
 
 * **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
 
+##### [ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch
+
 ##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
+
+##### [Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch
 
 ##### [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files)
 

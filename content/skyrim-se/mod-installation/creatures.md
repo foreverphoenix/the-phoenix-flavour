@@ -106,6 +106,22 @@ description: >
 
 * Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
 
+##### [HD Werewolves](https://www.nexusmods.com/skyrim/mods/60804?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** KrittaKitty HD werewolves - Replacer - NMM installer - 2k
+
+#### FOMOD Instructions
+
+- **Mesh Options:** Vanilla
+- **Coat Color options:** Dunmer - Black
+- **Eye colours:** Natural
+
+#### Porting Instructions
+
+* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+
 ##### [HD Reworked Bears 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41028?tab=files)
 
 #### Download Instructions
@@ -261,22 +277,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Unique Barbas_SSE_1.0
-
-#### Additional Instructions
-
-The included plugin (required because Barbas doesn’t have a unique model in vanilla) also increases Barbas’ size by 50%. This can cause him to get stuck or block passages which is why I recommend reverting the edit.
-
-* Run SSEEdit through Mod Organizer 2.
-* When the plugin selection window comes up, just click **OK** to load your entire mod order.
-* Once your mods are all loaded up, double-click **UniqueBarbas.esp** in the left pane.
-* Double-click **Non-Player Character** and select **DA03 Barbas**.
-* Scroll down to **NAM6 - Height** which is set to **1.500000** in **UniqueBarbas.esp**.
-* Drag the value from Skyrim.esm / the USSEP (**1.000000**) into the **UniqueBarbas.esp** column (see picture below).
-* Click **Yes, I’m sure** when warning window shows up.
-* Close SSEEdit. Only **UniqueBarbas.esp** should appear in the next window.
-* Make sure it is checked, then click **OK** to save and close.
-
-![Unique Barbas xEdit](/Pictures/skyrim-se/mod-installation/unique-barbas-height.png)
 
 ##### [HD Reworked Dragons 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038?tab=files)
 

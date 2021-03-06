@@ -42,6 +42,13 @@ description: >
 
 * **Main Files:** Alik’r Warriors Aren’t Welcome
 
+##### [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Falion Is Rude
+* **Main Files:** Roggvir's Amulet of Talos
+
 ##### [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files)
 
 #### Download Instructions
@@ -86,6 +93,12 @@ description: >
 
 - **Main Files:** Don’t Talk With Your Mouth Full
 
+##### [Followers Don't Draw Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/3870?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Followers Don't Draw Weapons v1.0.1
+
 ##### [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files)
 
 #### Download Instructions
@@ -100,6 +113,12 @@ description: >
 
 - **Main Files:** No Spinning Death Animation MERGED
 
+##### [Fixed Body Collision](https://www.nexusmods.com/skyrimspecialedition/mods/10849?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Fixed body collision
+
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 
 #### Download Instructions
@@ -113,24 +132,6 @@ description: >
 - **Main Files:** Simply Smaller Wolves
 
 > The file is actually called Simply Bigger Wolves. Don’t be confused, this is a mistake on the part of the author.
-
-#### Additional Instructions
-
-Simply Smaller Wolves conflicts with the USSEP. We will resolve these conflicts manually.
-
-* Run **SSEEdit** through Mod Organizer 2.
-* Click **OK** in the plugin selection window to load all your mods.
-* Wait until SSEEdit returns `Background loader: finished`.
-* Double-click **SimplySmallerWolfs2.esp** in the left pane to expand the plugin.
-* Double-click **Non-Player Character (Actor)** and select the **EncC06WolfSpirit** record inside.
-* Drag and drop all edits highlighted red from the **Unofficial Skyrim Special Edition Patch.esp** column into **SimplySmallerWolfs2.esp**.
-* When asked, click **Yes I'm absolutely sure**.
-* Once both conflicts are resolved, the record will be displayed in green.
-* Close SSEEdit. Click **OK** to save your changes and quit.
-
-![Simply Smaller Wolves 1](/Pictures/skyrim-se/mod-installation/simply-smaller-wolves-conflict-1.png)
-
-![Simply Smaller Wolves 2](/Pictures/skyrim-se/mod-installation/simply-smaller-wolves-conflict_2.png)
 
 ##### [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files)
 

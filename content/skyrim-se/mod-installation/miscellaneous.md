@@ -16,37 +16,38 @@ description: >
 
 - Resave the plugin in the Creation Kit.
 
-#### Additional Instructions
-
-Saddlebags includes not only a horse storage feature but also a Lesser Power called Horse Whistle which calls your last ridden horse to your location. Nether's Follower Framework already contains the same feature, but you can set it to a specific hotkey in the NFF MCM, making it a good deal more convenient than using yet another power.
-
-Disable Saddlebag's horse call power by following these steps:
-
-- Run **SSEEdit** through Mod Organizer 2.
-- Click **OK** in the plugin selection window to load all plugins.
-- Wait for SSEEdit to return `Background Loader: finished`.
-- Scroll down in the left pane to **Saddlebags.esp** and double-click it.
-- Double-click the **Quest** category and select the `SaddlebagsQuest` record.
-- Under **Aliases** >> **Alias Spells**, delete the following (see screenshot below):
-  - `HorseWhistleSpell "Horse Whistle" [SPEL:9D001D92]`
-- When the warning window pops up, click **Yes I'm absolutely sure**.
-- Close SSEEdit and click **OK** to save your changes.
-
-> This will prevent the power from being given to the player, effectively disabling it.
-
-![Saddlebags Disable Whistle](/Pictures/skyrim-se/mod-installation/saddlebags-disable-whistle.png)
-
-##### [Quick Light](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files)
+##### [Horses for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Quick Light SE
+- **Main Files:** Horses for Followers
+
+#### Additional Instructions
+
+If like me you don't want or need the "ride ahead" feature, you can easily disable it through the console:
+
+- Double-click **Autorun** in your mod order (Essential Mods separator).
+- In the **Text Files** tab, select the **Autorun.txt**.
+- Add `set hff_FollowerRideAheadEnabled to 0` below the existing lines.
 
 ##### [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Ish's Respec Mod
+
+##### [Viewable Faction Ranks](https://www.nexusmods.com/skyrimspecialedition/mods/17924?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Viewable Faction Ranks ESL
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `Interface`
+
+> The Interface folder contains string translations. The English translation for the Viewable Faction Ranks MCM is already included with Obscure's College of Winterhold during the FOMOD installation of which it was selected.
 
 ##### [Durnehviir Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/14272?tab=files)
 
@@ -77,7 +78,7 @@ Disable Saddlebag's horse call power by following these steps:
 
 * **Main Files:** Improved Shadowmarks (512)
 
-> This mod also contains new textures for the Shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks if you installed that mod.
+> This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
 
 ##### [Delphine’s Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301?tab=files)
 

@@ -1,6 +1,6 @@
 ---
 title: "DynDOLOD"
-weight: 4
+weight: 5
 type: docs
 description: >
   Improving distant terrain and tree LOD with TexGen and DynDOLOD.
@@ -74,13 +74,15 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 - Check **Enhanced Landscapes - Solstheim 3D Trees** in your mod order (**TREES & PLANTS** separator).
 
-## DynDOLOD - LOD Generation
+## DynDOLOD Generation
 
 > Continue here for both 2D or 3D LOD.
 
 * Launch **DynDOLOD** through Mod Organizer 2.
-* A window will come up, click **OK**.
-* You can see a list of all worldspaces at the top. Right-click inside and **Select all**.
+* In the DynDOLOD Help window, click **OK**.
+* If you are not generating 3D tree LOD, there will be a window where you have to click **Advanced**.
+* In the **Advanced** window, you can see a list of all worldspaces at the top.
+* Right-click inside and **Select all**.
 * Under **Load rules for** check both **Candles** and **FXGlow**.
 * Select one of the presets:
   * **Low** if you already struggle with performance.
@@ -88,7 +90,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
   * **High** for modern machines and 3D tree LOD.
 * Double-check with the picture below that everything is configured correctly, then click **OK**.
 
-**Step away from your PC while DynDOLOD is working.**
+**Step away from your PC while DynDOLOD is working.** This may take around 20-30 minutes.
 
 ![DynDOLOD Settings](/Pictures/skyrim-se/finalisation/dyndolod-settings.png)
 
@@ -102,3 +104,19 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 * Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
 * Leave **DynDOLOD.esp** at the very bottom as the last plugin.
 * Make sure both plugins are activated.
+
+## DynDOLOD Loading Screens
+
+As DynDOLOD was such a revolutionary mod when it came out, there's been an ongoing joke that one had to give their firstborn to the author, sheson, for using it - like in the [fairy tale](https://en.wikipedia.org/wiki/Rumpelstiltskin). Also there's a golden cow. Both memes were added to the mod as easter eggs and while the cow is optional in the FOMOD, the [three loading screens](/Pictures/skyrim-se/finalisation/dyndolod-loading-screen.png) featuring those memes are part of the generated DynDOLOD.esm.
+
+Removing the loading screens can be done easily in SSEEdit after generating DynDOLOD. You can skip this step if they don't bother you.
+
+- Run **SSEEdit** through Mod Organizer 2.
+- Click **Yes** in the plugin selection window to load all plugins.
+- Wait until SSEEdit has loaded up your plugins.
+- Double-click **DynDOLOD.esm** in the left pane.
+- Right-click the **Load Screen** section and click **Remove**.
+- Click **Yes, I'm absolutely sure** and confirm deletion of all records.
+- Close SSEEdit and click **OK** to save your changes.
+
+![Delete DynDOLOD Load Screens](/Pictures/skyrim-se/finalisation/delete-dyndolod-loadscreens.png)

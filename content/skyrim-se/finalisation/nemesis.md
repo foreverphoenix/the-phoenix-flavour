@@ -1,16 +1,18 @@
 ---
 title: "Nemesis Behavior Engine"
-weight: 2
+weight: 3
 type: docs
 description: >
   Generating Nemesis.
 ---
 
-## Create Nemesis Output Folder
+## Nemesis Setup
 
 **Nemesis Unlimited Behavior Engine** is a tool used to add custom animations to Skyrim. It is an open-source replacement and upgrade for FNIS, and required for several animation-related mods in TPF.
 
 Nemesis will generate a number of files specifically for your setup. In order to simplify the file management, we will set up an output folder ahead of time.
+
+### Nemesis Output Folder
 
 - In Mod Organizer 2, click the tools icon above your mod order and select **Create empty mod** (see picture below).
 - Rename the new mod folder to **Nemesis Output**.

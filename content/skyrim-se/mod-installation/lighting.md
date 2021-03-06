@@ -81,6 +81,12 @@ description: >
   * `meshes\furniture\alchemyworkbench.nif`
   * `meshes\furniture\alchemyworkstation.nif`
 
+##### [High Poly Smelter - Embers HD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Poly Smelter - Embers HD Patch
+
 ##### [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files)
 
 #### Download Instructions

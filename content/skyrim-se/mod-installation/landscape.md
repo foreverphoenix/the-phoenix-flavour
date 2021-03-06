@@ -53,7 +53,7 @@ description: >
   * `textures\landscape\coastoceanfloor01_n.dds`
   * `textures\plants\`
 
-> Cath Landscapes' **coast textures** unfortunately have extremely bad tiling.**Plants** will be covered by another mod later on.
+> Cath Landscapes' **coast textures** unfortunately have extremely bad tiling. **Plants** will be covered by another mod later on.
 
 #### INI Tweak
 
@@ -70,6 +70,12 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon
+
+##### [Cathedral Landscapes - Fixed Bridge Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/45970/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral Landscape - Fixed Bridge Meshes - REALly Blended Roads for SMIM
 
 ##### [Cathedral Landscapes - Windhelm Bridge Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44069?tab=files)
 
@@ -135,12 +141,11 @@ description: >
 
 * **Main Files:** Skyrim 3D Icefloes
 
-##### [Pfuscher's Rapid Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/26532?tab=files)
+##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Dark grey Rapid Rocks
-* **Main Files:** Update for both versions >> `merge with the main file`
+* **Main Files:** Majestic Mountains - Rapid Rocks Mesh
 
 ##### [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files)
 
@@ -155,8 +160,13 @@ description: >
 * **Normal Maps:**
   * Main Rocky
 * **Wet Rocks:**
-  * Tweaked Wet Rock Meshes
-  * Tweaked Rapid Rocks Textures
+  * ~~Tweaked Wet Rock Meshes~~
+  * ~~Tweaked Rapid Rocks Textures~~
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\shadertests\`
 
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 
@@ -187,19 +197,13 @@ description: >
 
 #### FOMOD Instructions
 
-* **Choose Your Patches:** RBC + ArthRorik + AS LAL + LFFGM
+* **Choose Your Patches:** RBC + ArthRorik + LFFGM
 
 ##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Better Dynamic Ash SE v2.0
-
-##### [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ashbound 1.1
 
 ##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
 

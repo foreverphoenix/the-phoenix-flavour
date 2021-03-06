@@ -8,18 +8,17 @@ description: >
 
 ## Conflict Resolution Patch
 
-* Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
-* Install it as usual and place it last below the **FINAL PATCHES** separator.
+- Create a **FINAL PATCH** separator in Mod Organizer 2.
+- Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
+- Install it as usual, place it last below the **FINAL PATCH** separator, and activate it.
 
 ## Load Order TXT
 
 The pre-made TXT will arrange your plugins exactly like the way they are sorted in my personal setup. This is much faster than adjusting the load order manually or setting up LOOT with custom rules.
 
-### Enabling all plugins
-
 - Click anywhere in the right pane (load order) and select **Enable all**.
 
-> This will ensure all plugins are active prior to sorting them. Plugins may be unchecked automatically when renaming their file extensions.
+> This will ensure all plugins are active prior to sorting them. Plugins may be unchecked automatically when renaming their file extensions from ESL to ESP as we did multiple times throughout the guide.
 
 ### Applying the load order
 
@@ -29,20 +28,22 @@ The pre-made TXT will arrange your plugins exactly like the way they are sorted 
 
 After applying the loadorder.txt and restarting MO2, there should be no plugins below the **Conflict Resolution Patch.esp** in the load order (right pane).
 
-If there are other plugins below the CRP, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. If this happens, please join us on Discord and post your Modwat.ch link in the `#guide-support` channels.
+If there are other plugins below the CRP, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. If this happens, please join us on Discord and post your Modwat.ch link or a picture of the bottom of your load order in the `#tpf-guide-support` channels.
 
 ## Check for MO2 Warnings
 
-MO2 has inbuilt functionality that checks for plugins with Form 43 (Skyrim LE plugins that have not been re-saved in the Creation Kit). If no issues are detected, the **Notifications** icon in MO2 will be greyed out.
+In Mod Organizer 2, check the notification icon in the top right corner (see screenshot below). Any issues found there should be fixed now. If it is greyed out, there are no warnings and you are good to go!
 
-* If the button is not greyed out, open the **Notifications** window and check its contents.
-* Any plugins that are listed must be re-saved in the Creation Kit now.
+There are multiple different warnings that you may encounter:
+
+- **Missing Masters:** One of your plugins is missing a master file. It is marked with an exclamation mark in your load order. This is most likely due to skipping a mod that was not optional or selecting the wrong option in a FOMOD installer. Go back to the mod’s instructions in the guide and double-check everything.
+- **Form 43 Plugin:** You forgot to re-save one or several plugins in the Creation Kit. Re-save them now.
+- **Outdated SKSE Plugin:** Check the plugin's mod page to see if there is a new version.
+- **Files in Overwrite:** Share a screenshot on Discord so we can take a look.
 
 ![Check for Form43 Plugins](/Pictures/skyrim-se/finalisation/check-for-form43-plugin.png)
 
 ## Flag Plugins as ESL
-
-### Example Plugin
 
 While at this point many installed plugins are already flagged as ESL (ESP-Lite) and we are not exceeding the maximum of 255 ESP+ESM plugins, there are several more plugins that may easily be flagged as ESL in order to save plugin slots. This completely removes the need to merge some plugins.
 
@@ -67,7 +68,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Raven Rock - Fix Exit on Horseback.esp **compact FormIDs**
 * Dawnguard Dont Hunt Cured Vampires.esp
 * ChargeDialogueFix.esp
-* ImperialSoldiersEscortFix.esp
 * WindhelmSegregation.esp
 * Move it Dammit.esp
 * Runandwalkpaces.esp
@@ -75,8 +75,10 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Realistic-Voice.esp **compact FormIDs**
 * No NPC Greetings.esp
 * Don'tTalkWithYourMouthFull.esp
+* Followers Don't Draw Weapons.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
+* Fixed body collision.esp
 * SparklesSE.esp
 * SimplySmallerWolfs2.esp
 * SIDT - Special Edition.esp

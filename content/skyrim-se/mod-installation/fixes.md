@@ -11,7 +11,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** WM’s Flora Fixes - Revamped
-- **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
 ##### [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
 
@@ -54,7 +53,7 @@ description: >
 #### Download Instructions - Patches for Arthmoor's Towns
 
 - **Select options:**
-  * Patch for Alternate Start - Live Another Life
+  * ~~Patch for Alternate Start - Live Another Life~~
   * ~~Patch for Cutting Room Floor~~
   * Patch for Arthmoor’s Dragon Bridge
   * Patch for Arthmoor’s Shor’s Stone
@@ -63,6 +62,12 @@ description: >
   * Patch for Arthmoor’s Ivarstead
   * ~~Patch for Provincial Courier~~
   * ~~Patch for Oakwood~~
+
+##### [No Grass In Caves](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** No Grass In Caves
 
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
@@ -103,21 +108,30 @@ description: >
 
 - **Main Files:** Charge Dialogue Fix
 
-##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/894?tab=files)
+##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32332?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ImperialSoldiersEscortFix_v10
-
-#### Porting Instructions
-
-- Resave **ImperialSoldiersEscortFix.esp** in the Creation Kit.
+- **Main Files:** Rude Imperial Soldiers Escort Prisoner fix -FORM44-ESL-
 
 ##### [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221?tab=files)
 
 #### Download Instructions
 
 - **Main Files:**  Mannequin Slapper System
+
+##### [Skyrim Ultimate Eye Meshes Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/18147?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SUEMR SSE v3.0 Meshes
+- **Main Files:** SUEMR v3.0 Simple Vampire Fixes SSE
+
+#### Additional Instructions
+
+- Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
+- Switch to the **Filetree** tab.
+- Rename `SimpleVampFixesSSE.esl` to `SimpleVampFixesSSE.esp`.
 
 ##### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files)
 
@@ -168,8 +182,25 @@ description: >
 
 - **Main Files:** ActorLimitPlugin v2
 
+##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Equip Enchantment Fix
+
 ##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** KeyboardShortcutsFix_SKSE64
+
+#### Additional Instructions
+
+- Right-click **Keyboard Shortcuts Fix** in your mod order.
+- Select **Open in Explorer** and navigate to `SKSE\Plugins`.
+- Right-click anywhere and select **New** >> **Text Document**.
+- Enter **KeyboardShortcutsFix** as the name.
+- Change the file extension to .log by renaming it.
+- The full file name should be `KeyboardShortcutsFix.log`.
+
+> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.

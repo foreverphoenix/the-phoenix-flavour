@@ -1,6 +1,6 @@
 ---
 title: "All Geared Up Derivative"
-weight: 3
+weight: 4
 type: docs
 description: >
   Generating plugins and meshes for AllGUD.
@@ -96,5 +96,7 @@ The original script has a bug. A fixed version is available on the Nexus.
 - Select the **AllGUD - Skeleton Meshes** folder you created in the previous step and click **OK**.
 - Click **Start** to begin generating the meshes.
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
+
+> Selecting all plugins first with CTRL + A is not necessary for this script.
 
 ![AllGUD Skeleton Patcher](/Pictures/skyrim-se/finalisation/allgud-skeleton-patcher.png)

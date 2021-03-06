@@ -11,7 +11,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** 2k Farmhouse Fences SE Version 2
-* **Optional Files:** 2k Slightly Desaturated Version 2 Deffuse >> `merge with the main file`
 
 ##### [True Nordic Farmhouses - SD's Farmhouse Fences Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files)
 
@@ -53,6 +52,22 @@ description: >
 
 * **Main Files:** Stockades of Skyrim 3D
 
+##### [Rudy HQ - Hay](https://www.nexusmods.com/skyrimspecialedition/mods/25125?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rudy HQ - Hay SE
+
+#### FOMOD Instructions
+
+- **Select the version and resolution:** Rudy HQ - Hay SE 2K - Version01
+
+##### [Boats and Ships](https://www.nexusmods.com/skyrimspecialedition/mods/45601?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Boats and Ships - 4k
+
 ##### [WiZkiD Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/39640?tab=files)
 
 * **Optional Files:** WiZkiD Carriages 2k
@@ -75,10 +90,6 @@ description: >
 
 * **Main Files:** RUSTIC EAST EMPIRE COMPANY SIGNAGE - Dark Version
 
-##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
-
-* **Main Files:** Riekling Barrels SMIM
-
 ##### [Ennead - Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/9264?tab=files)
 
 #### Download Instructions
@@ -95,6 +106,17 @@ description: >
 
 * **Resolution:** 2K
 
+##### [Iconic's Morthal Quest Coffin Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44150?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Morthal Quest Coffin Retexture
+
+#### FOMOD Instructions
+
+- **Texture Options:** Option 1
+- **Texture Sizes:** 2K
+
 ##### [Stunning Statues of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3375?tab=files)
 
 #### Download Instructions
@@ -106,12 +128,12 @@ description: >
 * **Choose your statues:**
   * Bella Dibella
   * Neat Nocturnal
-  * Astonich Azura
+  * ~~Astonich Azura~~
   * ~~Terrific Talos~~
   * Ysterical Ysgramor
   * Melancholic Meridia
   * Madness Malacath
-  * Wakened Winterhold
+  * ~~Wakened Winterhold~~
   * Clever Clavicus
   * Bucolic Boethiah
   * Necrotic Namira
@@ -127,9 +149,6 @@ description: >
 * **Neat Nocturnal:**
   * HD Meshe
   * Nocturnal 2k
-* **Astonich Azura:**
-  * HD Meshe
-  * Azura 2k
 * **Ysterical Ysgramor:**
   * HD Meshe
   * Ysgramor 2k
@@ -139,9 +158,6 @@ description: >
 * **Madness Malacath:**
   * HD Meshe No Glow (for stone texture)
   * Malacath Stone 2k
-* **Wakened Winterhold:**
-  * HD Meshe
-  * Winterhold 4k
 * **Clever Clavicus:**
   * HD Meshe Default Mask
   * Clavicus 2k
@@ -173,8 +189,54 @@ description: >
 * **Weapon:** Nord Hero Greatsword
 * **Patches:** ~~No Snow Under the Roof~~
 
+##### [Shrine of Azura HD](https://www.nexusmods.com/skyrimspecialedition/mods/44698?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Shrine of Azura HD 4K
+
+##### [Winterhold Statue - Animated with ENB Lights](https://www.nexusmods.com/skyrimspecialedition/mods/29478/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Winterhold Statue - Animated with ENB Lights
+
 ##### [Astral Aspects - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/18098?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Astral Aspect - 2K - 1.4
+
+##### [RUSTIC MONUMENTS AND TOMBSTONES](https://www.nexusmods.com/skyrim/mods/68884/?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** RUSTIC MONUMENTS and TOMBSTONES V2.6
+
+#### FOMOD Instructions
+
+* **Monument Textures:** 2k
+* **Tomb Textures:** 4k
+* **Meshes:** SMIM
+
+##### [Rally's Solstheim Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/45867?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rally's Solstheim Shrines
+
+#### FOMOD Instructions
+
+- **Colors and Resolutions:** Bright Version 2K
+
+##### [Pilgrim’s Delight - High Hrothgar Shrine Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/3273?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Pilgrim’s Delight
+
+##### [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Skyrim 3D High Hrothgar Steps

@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** FixNotesForSkyUI SKSE64 2.0.17
+- **Main Files:** FixNotesForSkyUI SKSE64 2.0.17 and 2.0.19
 
 ##### [Remove Quicksave Button from SkyUI Systems Menu](https://www.nexusmods.com/skyrimspecialedition/mods/28334?tab=files)
 
@@ -28,9 +28,7 @@ description: >
 
 - **Options:** 2b - Save-MCM-etc, MCM renamed
 
-#### About the mod
-
-While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
+> While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
 
 ##### [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files)
 
@@ -173,6 +171,19 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Perk Stars:** Option 2
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
+
+##### [Extended UI for Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/44643?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Extended UI for Skyrim Uncapper Adamant Arena
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `interface\console.swf`
+
+> This file would otherwise overwrite and break More Informative Console.
 
 ##### [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
 

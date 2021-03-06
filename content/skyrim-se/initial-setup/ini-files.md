@@ -28,6 +28,8 @@ Continue with regenerating the INI files from scratch:
 * A window will come up, informing you that Skyrim SE will now be configured based on your hardware.
 * Click **OK** twice to confirm and hit **Exit** once it’s done.
 
+> If Skyrim is unable to detect your hardware, it's likely because you have a newer AMD card. You can safely ignore this.
+ 
 ![Regenerating INIs](/Pictures/skyrim-se/initial-setup/regenerating-inis.png)
 
 ## Install BethINI
@@ -83,14 +85,15 @@ Continue with the sixth tab, **Detail**.
 
 - **Water:** Check `Reflect Objects`.
 - **Decal Quantity:** Set to `High`.
-- **Godrays**: Set them to `None` (performance-intense, ENB has better godrays).
+- **Godrays**: Set them to `None` if you are concerned with performance.
 - **Field of View:** Increase this if you prefer a wider FoV.
-- **Particles:** Increase the particle count to `1500`.
+- **Particles:** Increase the particle count to `7500`.
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
 - **Shadow Resolution:** Set to `2048` (unless you have a very slow CPU).
 - **Exterior Draw Distance:** Set to `8000`.
 - **Tree Shadows:** Check the box for this setting.
+- **Ambient Occlusion:** Uncheck the box for this setting (covered by ENB).
 
 > **Object LOD** reflections are broken in SSE, but the mod SSE Engine Fixes includes a fix. **Depth of Field** should not be disabled in the INI as it will make underwater look perfectly clear. By turning DOF all the way down in the ingame settings, you can disable it without breaking underwater visuals (if you dislike the DOF and/or want to use an ENB DOF effect instead).
 
@@ -100,7 +103,11 @@ Continue with the sixth tab, **Detail**.
 
 Continue with the seventh tab, **View Distance**.
 
-- **Grass Fade:** Set to `15000` or higher.
+- **Object Fade:** Set to `12.0`.
+- **Actor Fade:** Set to `8.0`.
+- **Item Fade:** Set to `4.0`.
+- **Grass Fade:** Set to `15000`.
+- **Light Fade:** Set to `21605`.
 
 ![BethINI View Distance](/Pictures/skyrim-se/initial-setup/bethini-view-distance.png)
 

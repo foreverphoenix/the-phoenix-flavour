@@ -36,13 +36,7 @@ description: >
 
 * **Main Files:** ScaleformTranslationPP
 
-##### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** UIExtensions v1-2-0
-
-##### [ConsoleUtils](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
+##### [ConsoleUtil](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
 
 #### Download Instructions
 
@@ -54,11 +48,11 @@ description: >
 
 * **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
 
-##### [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files)
+##### [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Fuz Ro D’oh
+* **Main Files:** Spell Perk Item Distributor - 4.1
 
 ##### [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files)
 

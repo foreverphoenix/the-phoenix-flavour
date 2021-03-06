@@ -17,7 +17,7 @@ description: >
 
 #### Installation Instructions
 
-* Move the downloaded archive to `Your Modding Folder\ARCHIVE`.
+* Move the downloaded archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 * Press F5 in Mod Organizer 2 to refresh and the mod will show up in the **Downloads** tab.
 * From there install the mod as usual.
 
@@ -101,7 +101,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Immersive Dragons SE
+* **Main Files:** Immersive Dragons
 
 ##### [Supreme Vampire Lord](https://www.nexusmods.com/skyrimspecialedition/mods/19706?tab=files)
 
@@ -119,4 +119,4 @@ description: >
 
 #### Download Instructions
 
-* **Optional Files:** Werewolf Claws Affect Spider Webs - XPMSSE 4.71 version
+* **Optional Files:** Werewolf Claws Affect Spider Webs - XPMSSE
