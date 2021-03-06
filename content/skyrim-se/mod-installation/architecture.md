@@ -80,6 +80,15 @@ description: >
 
 * **Main Files:** Skyland - Solitude
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\architecture\solitude\doors\sgatedoor.nif`
+  - `textures\architecture\solitude\sdoorgate01.dds`
+  - `textures\architecture\solitude\sdoorgate01_n.dds`
+
+> I prefer NobleSkyrim's texture for the gate.
+
 ##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
 
 #### Download Instructions

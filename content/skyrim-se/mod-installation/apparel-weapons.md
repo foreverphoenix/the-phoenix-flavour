@@ -17,6 +17,18 @@ description: >
 
 * **Main Files:** RAW SSE 2K
 
+##### [Armor Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39704?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Armor Mesh Fixes
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\armor\daedric\`
+  - `meshes\armor\orcish\`
+
 ##### [Warmth - Light Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2959?tab=files)
 
 #### Download Instructions
@@ -39,7 +51,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
-* **Update Files:** LWs BSW Orcish Greatsword inventory fix - sheath >> `merge with the main file`
 
 #### FOMOD Instructions
 
@@ -278,6 +289,12 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 #### Additional Instructions
 
 * Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+
+##### [JS CIrlcet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Circlet Replacer USKP Patch
 
 ##### [RUSTIC AMULETS](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files)
 

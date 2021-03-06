@@ -6,6 +6,34 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.4.2
+
+> TBD
+
+#### Mod Installation
+
+- **Graphics Baseline:** Removed pointless instructions to delete walkwaycwall01.nif from SMIM.
+- **Weather:** Added (experimental) FOMOD instructions for Storm Lightning.
+- **Architecture:** Added instructions to remove a texture from Skyland Solitude.
+- **Architecture:** Added Better Volkihar Secret Entrance (undocumented 4.4 addition).
+- **Architecture:** Added Upgraded Moondial (undocumented 4.4 addition).
+- **Dungeons:** Added Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn (undocumented 4.4 addition).
+- **Apparel & Weapons:** Added Armor Mesh Fixes.
+- **Apparel & Weapons:** Removed instructions to download the hotfix from LeanWolf's Better-Shaped Weapons (will be overwritten anyway).
+- **Apparel & Weapons:** Added Actual Orichalcum Orcish Equipment (undocumented 4.4 addition).
+- **Apperal & Weapons:** Added JS Circlets - USSEP Patch.
+- **Combat & Encounters:** Realistic Melee Range was moved above Blade & Blunt in the load order.
+
+#### Conflict Resolution Patch
+
+- Now comes packaged with a script from AMOT that will automatically hide the clock widget until you choose to enable it
+- AMOT script by SkyAmigo, edited by Sr. Kaio. Thanks to both!
+
+#### Wabbajack Installer
+
+- Updated Equip Enchanting Fix to 1.2.3
+- Updated Storm Lightning to 1.4.7
+
 ## Release 4.4.1
 
 > 04/02/2021
