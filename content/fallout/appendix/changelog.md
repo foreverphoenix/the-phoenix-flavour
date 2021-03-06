@@ -43,7 +43,7 @@ description: >
 - Added The Ballistic Series
 - Added Fixed Creature Death Drops
 - Added FO4 Photo Mode
-- Updated Workshop Framework to 2.0.9
+- Updated Workshop Framework to 2.0.10
 - Updated Simple Sorting Overhaul to 2.0
 - Updated Wetness Shader Fix to 3.3
 - Updated Sprint Stuttering Fix to 1.2

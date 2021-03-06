@@ -119,7 +119,7 @@ iSize W=3840
 
 ### Ultrawide Monitor
 
-If you are playing on an 21:9 ultrawide monitor, please refer to the [Ultrawide Support](/fallout/customisation/ultrawide/) page.
+If you are playing on an 21:9 ultrawide monitor, please refer to the [Ultrawide Support](/fallout/wtp-resources/ultrawide/) page.
 
 ---
 
