@@ -12,10 +12,45 @@ The first thing you should do after escaping Vault 111 is manually save the game
 
 Hit **ESC** and open the **Mod Configuration**.
 
+## FallUI
+
+This MCM completely replaces WTP's old interface customisation. There is a TON of stuff to change here and everything comes down to personal preference. Feel free to tinker!
+
+## FallUI - Workbench
+
+Once again, lots to tinker like in the base FallUI MCM. However, there are also some mandatory changes.
+
+### Brightness tweak
+
+Items that are currently unavailable for crafting (due to missing components and/or required perks) are greyed out but hard to distinguish with the default settings. Turning down the brightness even further helps with that.
+
+- Switch to the **Workbench list** tab.
+- Under **List entries**, reduce **Brightness unavailable item** to 25.
+
+![FallUI Brightness](/Pictures/wtp/installation/fallui-workbench-brightness.jpg)
+
+### Disable autocrafting
+
+- Switch to the **Generic settings** tab.
+- Under **Crafting**, set **Auto-craft items without cost** to **Off**.
+
+![FallUI Autocraft](/Pictures/wtp/installation/fallui-workbench-autocraft.jpg)
+
+### Ultrawide support
+
+You only need to follow these steps if you are playing on **Ultrawide** monitor.
+
+- Switch to the **Generic settings** tab.
+- Under **Settings**, change the **(Wide)screen aspect ratio** to match yours.
+- If you are on Ultrawide resolutions (2560x1080 or 3440x1440), the aspect ratio is **21:9**.
+
+> If your monitor has an ancient aspect ratio like 5:4 or 4:3, you could fix the UI here as well by entering that instead. However, many other components of the UI would still be mismatched.
+
+![FallUI Ultrawide](/Pictures/wtp/installation/fallui-workbench-widescreen.jpg)
+
 ## Faster Workshop
 
-- Set a hotkey for starting workshop mode.
-  - I prefer **Z** (or **Y** on a QWERTY layout).
+- Set a hotkey for starting workshop mode. I prefer **Z** (or **Y** on a QWERTY layout).
 
 ![Faster Workshop MCM](/Pictures/fallout/new-game/faster-workshop-mcm.jpg)
 
@@ -103,6 +138,12 @@ On the **More ... Disable** page, change the following:
 > This is done for consistency with the mod [Docile Radstags](https://www.nexusmods.com/fallout4/mods/3208).
 
 ![More AGOMBz MCM](/Pictures/fallout/new-game/more-agombz-mcm-2.jpg)
+
+## Photo Mode
+
+In this MCM, you can set a hotkey to go into Photo Mode and change its position in the Pause menu. Feel free to make changes or leave the settings at default.
+
+![Photo Mode MCM](/Pictures/wtp/installation/photo-mode-mcm.jpg)
 
 ## Workshop Framework
 

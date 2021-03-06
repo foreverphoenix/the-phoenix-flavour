@@ -8,31 +8,14 @@ description: >
 
 ## Launching the game
 
-In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod Organizer 2. Otherwise your mods will not work. When you open Mod Organizer 2, F4SE should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. 
+In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod Organizer 2. Otherwise your mods will not work. When you open Mod Organizer 2, F4SE (renamed to **Welcome to Paradise** for your convenience) should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. 
 
-![Start Game](/Pictures/fallout/new-game/run-f4se.png)
-
-## Hotkeys
-
-Before you start a new game, I highly recommend going into the options and customising the keybinds. While they are up to personal preference, you will need to rebind **Quick Load** at least as the default (F9) conflicts with the Open ENB GUI hotkey.
-
-- In the main menu, go to **Options** >> **Controls**.
-- Change **Quick Load** to **F8**.
-- Feel free to change any of the other hotkeys as well.
-
-These are my personal keybind changes:
-
-- Bash/Power Attack/Grenade to **Mouse 4** (thumb button)
-- Run (toggle walk/run) to **Left CTRL**
-- Move (automatically) to **C**
-- Crouch to **ALT**
-
-Of course you are not required to use the same keybinds as me. Keybinds can also be changed anytime.
+![Start Game](/Pictures/wtp/installation/run-f4se.png)
 
 ## Starting a new save
 
 - In the main menu, click **NEW** to start a your playthrough.
-- Press F9 to temporarily toggle off ENB. It may look strange during the intro video and prologue.
+- Press 10 to temporarily toggle off ENB. It may look strange during the intro video and prologue.
 
 Shortly after the character creation, you will get a prompt which is added by the mod **Start Me Up**. You will be asked whether you want to "relive the memory", giving you the option to skip the prologue. Do not select this option if you never played Fallout 4 before, you are going to miss some important things.
 
