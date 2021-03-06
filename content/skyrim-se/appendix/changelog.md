@@ -14,7 +14,7 @@ description: >
 
 - **Graphics Baseline:** Removed pointless instructions to delete walkwaycwall01.nif from SMIM.
 - **Weather:** Added (experimental) FOMOD instructions for Storm Lightning.
-- **Architecture:** Added instructions to remove a texture from Skyland Solitude.
+- **Architecture:** Added instructions to remove a texture from Skyland - Solitude.
 - **Architecture:** Added Better Volkihar Secret Entrance (undocumented 4.4 addition).
 - **Architecture:** Added Upgraded Moondial (undocumented 4.4 addition).
 - **Dungeons:** Added Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn (undocumented 4.4 addition).
