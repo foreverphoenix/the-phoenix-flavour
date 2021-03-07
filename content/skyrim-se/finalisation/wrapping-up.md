@@ -94,7 +94,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * Miscellaneous Quests…as Miscellaneous Quests.esp
 * Mortal Enemies - No RunWalk Changes.esp
 * Realistic Melee Range.esp
-* Realistic AI Detection 2 SE Lite.esp **compact FormIDs**
 * Northerner Diaries in Skyrim.esp **compact FormIDs**
 * Still.esp
 * Hun Lovaas.esp

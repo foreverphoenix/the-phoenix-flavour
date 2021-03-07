@@ -68,6 +68,13 @@ description: >
 
 * **Main Files:** Thunderbolt - HD Lightning
 
+##### [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Grindstones - Vanilla Sparks
+- **Main Files:** Impact Effects - Vanilla Sparks >> `merge with the first file`
+
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
 #### Download Instructions

@@ -1,6 +1,6 @@
 ---
 title: "Food & Ingredients"
-weight: 19
+weight: 24
 type: docs
 description: >
   Retextures for ingestibles.

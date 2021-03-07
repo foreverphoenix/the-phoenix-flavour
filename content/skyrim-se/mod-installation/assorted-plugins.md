@@ -1,10 +1,28 @@
 ---
 title: "Assorted Plugins"
-weight: 31
+weight: 37
 type: docs
 description: >
   Various Script Extender or NET Script Framework based plugins.
 ---
+
+##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab)
+
+#### Download Instructions
+
+- **Main Files:** Classic Paralysis
+
+##### [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Enhanced Reanimation
+
+##### [Enhanced Death Cam](https://www.nexusmods.com/skyrimspecialedition/mods/46449?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Enhanced Death Cam
 
 ##### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files)
 
@@ -44,6 +62,21 @@ description: >
 - Press **CTRL+S** to save and close the window.
 
 ![Better Stealing Tweak](/Pictures/skyrim-se/mod-installation/better-stealing-tweak.png)
+
+##### [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Essential Favorites
+
+#### INI Configuration
+
+- Double-click **Essential Favorites** in your mod order.
+- Switch to the **INI Files** tab and select the **po3_EssentialFavorites.ini**.
+- Change `No Disarm=` to `false`.
+- Close the window and click **Yes** to save your change.
+
+> This would make Disarm shouts used against the player pointless most of the time.
 
 ##### [Remember Lockpick Angle - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files)
 

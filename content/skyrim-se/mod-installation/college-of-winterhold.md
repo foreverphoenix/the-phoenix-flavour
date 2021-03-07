@@ -1,6 +1,6 @@
 ---
 title: "College of Winterhold"
-weight: 27
+weight: 33
 type: docs
 description: >
   Mods improving the Winterhold college for magic.

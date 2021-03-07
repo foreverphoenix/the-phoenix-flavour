@@ -1,6 +1,6 @@
 ---
 title: "Unique Artifacts"
-weight: 21
+weight: 26
 type: docs
 description: >
   Retextures for unique equipment.

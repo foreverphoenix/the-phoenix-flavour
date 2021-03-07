@@ -1,6 +1,6 @@
 ---
 title: "Balancing"
-weight: 28
+weight: 34
 type: docs
 description: >
   Mods that affect item distribution, crafting, and the economy.
@@ -98,6 +98,29 @@ description: >
   - Finding Velehk Sain Patch
   - Reliquary of Myth Patch
   - Weapons Armor Clothing and Clutter Fixes Patch
+
+##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+
+#### FOMOD Instructions
+
+- **Skyrim:** *select nothing*
+- **Dawnguard:** *select nothing*
+- **Dragonborn:** *select nothing*
+- **Compatibility Patches:** aMidianBorn Content Addon
+
+> All we need are the edited textures for AMB CA compatibility (they also work for AMB AVL). PFA meshes are already included in the Cathedral Armory - TPF Repack.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\AMB Variants\armor\ebonyvariants\`
+  - `textures\AMB Variants\armor\Glassvariants\`
+  - `textures\AMB Variants\armor\ironbrown\`
+  - `textures\AMB Variants\armor\IronEngraved\`
 
 ##### [Morrowloot Miscellania - Unleveled Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 

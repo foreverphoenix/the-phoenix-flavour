@@ -1,6 +1,6 @@
 ---
 title: "Skeleton & Animations"
-weight: 33
+weight: 39
 type: docs
 description: >
   Skeleton replacer and improved animations.
@@ -84,6 +84,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** D13 Faster Get Up Stand Up SSE
+
+##### [Faster Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/46357?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Faster Reanimation - 33 Percent Faster
 
 ##### [3rd Person Dual Wielding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2425?tab=files)
 

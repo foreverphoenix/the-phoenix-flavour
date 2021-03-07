@@ -182,6 +182,12 @@ description: >
 
 - **Main Files:** ActorLimitPlugin v2
 
+##### [NPC AI Process Position Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40261?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.03c
+
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 
 #### Download Instructions

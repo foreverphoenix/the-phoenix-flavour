@@ -1,6 +1,6 @@
 ---
 title: "Non-Player Characters"
-weight: 25
+weight: 30
 type: docs
 description: >
   Mods affecting NPCs and their behaviour.
@@ -76,6 +76,12 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 #### Download Instructions
 
 * **Main Files:** More Dialogue Options - for Misc Dialogue Edits
+
+##### [Hunters Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39245?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hunters Dialogue Edit
 
 ##### [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547?tab=files)
 

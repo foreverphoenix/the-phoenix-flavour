@@ -50,10 +50,9 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
-  * `meshes\architecture\farmhouse\walkway\walkwaycwall01.nif`
   * `meshes\architecture\solitude\doors\sgatedoor.nif`
 
-> The first mesh will be replaced by the fixed version contained in Skyrim Landscape and Water Fixes. Deleting the second mesh will allow you to use Noble Skyrim's superior retexture for the Solitude gate.
+> Deleting the gate mesh will allow us to use Noble Skyrim's superior retexture for the Solitude gate.
 
 ##### [Static Mesh Improvement Mod - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388?tab=files)
 

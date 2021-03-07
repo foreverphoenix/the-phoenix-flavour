@@ -64,8 +64,10 @@ description: >
 * **Select Game:** Skyrim Special Edition
 * **Select SSE Version:** 1.5.97
 * **Select Plugin:** ESL Flagged
-
-The next couple settings depend on your choice of ENB as well as personal preferences. I selected the “Halo Dimmer” options and will add my personal recommendations here after more testing.
+* **Select Night Time Sheet Halo:** Halo with Dimmer Lightning (Level 0)
+* **Select Day Time Sheet Halo:** Halo Dim (Level 2)
+* **Select Night Time Fork Halo:** Halo Dimmer (Level 1)
+* **Select DayTime Fork Halo:** Halo Dim (Level 2)
 
 ##### [Volumetric Mist](https://www.nexusmods.com/skyrimspecialedition/mods/29273?tab=files)
 
