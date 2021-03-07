@@ -298,7 +298,7 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 
 * Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
 
-##### [JS CIrlcet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
+##### [JS Circlet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
 
 #### Download Instructions
 
