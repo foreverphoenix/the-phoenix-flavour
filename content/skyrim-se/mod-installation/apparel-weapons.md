@@ -91,7 +91,6 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `meshes\armor\daedric\`
   - `meshes\armor\orcish\`
-  - `meshes\armor\daedric\`
 
 ##### [Project Clarity - Weapons - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
