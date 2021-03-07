@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.4.2
 
-> TBD
+> 07/03/2021
 
 This update contains some more 4.4 fixes but also a bigger update for the **Cathedral Armory - TPF Repack**. Specifically, I added Armor Mesh Fixes and added meshes from the existing Cath Armory patch to my repack.
 
@@ -39,6 +39,7 @@ I also added **Practical Female Armor** meshes patched for Cath Armory by **Asat
 - **Valuable Items:** Moved all mods that were below Business Ledger HD Retexture in CLUTTER here.
 - **Valuable Items:** Added Drawing Knife Retexture.
 - **Apparel & Weapons:** Added Armor Mesh Fixes.
+- **Apparel & Weapons:** Added instructions to download the Armor Mesh Fixes patch from the Cathedral Armory mod page.
 - **Apparel & Weapons:** Removed instructions to download the hotfix from LeanWolf's Better-Shaped Weapons (will be overwritten anyway).
 - **Apparel & Weapons:** Added Actual Orichalcum Orcish Equipment (undocumented 4.4 addition).
 - **Apperal & Weapons:** Added JS Circlets - USSEP Patch.
