@@ -1,6 +1,6 @@
 ---
 title: "Utilities"
-weight: 34
+weight: 40
 type: docs
 description: >
   Various modder's resources and extenders.

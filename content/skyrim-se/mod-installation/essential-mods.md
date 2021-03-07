@@ -29,14 +29,6 @@ description: >
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
-#### Engine Fixes TOML
-
-- Double-click **SSE Engine Fixes** in your mod order.
-- In the **Textfiles** tab, select the **EngineFixes.toml** config file.
-- Edit the following line:
-  - `SleepWaitTime = true`
-- Save your changes (CTRL + S) and close the editor.
-
 ##### [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
 #### Download Instructions

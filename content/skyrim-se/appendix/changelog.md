@@ -10,19 +10,49 @@ description: >
 
 > TBD
 
+This update contains some more 4.4 fixes but also a bigger update for the **Cathedral Armory - TPF Repack**. Specifically, I added Armor Mesh Fixes and added meshes from the existing Cath Armory patch to my repack.
+
+I also added **Practical Female Armor** meshes patched for Cath Armory by **Asator**. Several armors will no longer have boobplates: Nordic Carved, Elven, Steel Plate, and Wolf. These are in my opinion the worst offenders and the ones that actually annoy me. I may add PFA meshes for Ebony armor in the future.
+
+#### Updating instructions
+
+- Double-click **SSE Engine Fixes** and set `SleepWaitTime=` to `false` again. This is so there is enough time for the new NPC AI Process Position Fix to do its job.
+- Regenerate **AllGUD**.
+
 #### Mod Installation
 
+- **SSE Engine Fixes:** Removed INI tweak for SSE Engine Fixes.
+- **Fixes:** Added NPC AI Process Position Fix.
 - **Graphics Baseline:** Removed pointless instructions to delete walkwaycwall01.nif from SMIM.
 - **Weather:** Added (experimental) FOMOD instructions for Storm Lightning.
+- **Visual FX:** Added Improved Sparks.
 - **Architecture:** Added instructions to remove a texture from Skyland - Solitude.
 - **Architecture:** Added Better Volkihar Secret Entrance (undocumented 4.4 addition).
 - **Architecture:** Added Upgraded Moondial (undocumented 4.4 addition).
 - **Dungeons:** Added Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn (undocumented 4.4 addition).
+- **Clutter:** This page was split in two. The bottom half of mods was moved to the new VALUABLE ITEMS page.
+- **Clutter:** Added Rally's Farming Tools.
+- **Clutter:** Added Rally's Hooks and Saws.
+- **Clutter:** Added Rally's Fishing Poles.
+- **Clutter:** Fixed a typo in the additional instructions for Realistic HD Blacksmith Remastered.
+- **Valuable Items:** Moved Septim HD here.
+- **Valuable Items:** Moved all mods that were below Business Ledger HD Retexture in CLUTTER here.
+- **Valuable Items:** Added Drawing Knife Retexture.
 - **Apparel & Weapons:** Added Armor Mesh Fixes.
 - **Apparel & Weapons:** Removed instructions to download the hotfix from LeanWolf's Better-Shaped Weapons (will be overwritten anyway).
 - **Apparel & Weapons:** Added Actual Orichalcum Orcish Equipment (undocumented 4.4 addition).
 - **Apperal & Weapons:** Added JS Circlets - USSEP Patch.
+- **Non-Player Characters:** Added Hunters Dialogue Edit.
 - **Combat & Encounters:** Realistic Melee Range was moved above Blade & Blunt in the load order.
+- **Balancing:** Re-added Practical Female Armors.
+- **Assorted Plugins:** Added Classic Paralysis.
+- **Assorted Plugins:** Added Enhanced Reanimation.
+- **Assorted Plugins:** Added Enhanced Death Cam.
+- **Assorted Plugins:** Added Essential Favorites.
+
+#### Finalisation
+
+- **Wrapping Up:** Removed Realistic AI Detection 2 SE Lite.esp from the list of plugins to ESL-ify.
 
 #### Conflict Resolution Patch
 
@@ -32,7 +62,9 @@ description: >
 #### Wabbajack Installer
 
 - Updated Equip Enchanting Fix to 1.2.3
-- Updated Storm Lightning to 1.4.7
+- Updated Storm Lightning to 1.4.8
+- Updated Cathedral Armory - TPF Repack to 1.1.1
+- NPCs With Faces is no longer included (people got confused)
 
 ## Release 4.4.1
 

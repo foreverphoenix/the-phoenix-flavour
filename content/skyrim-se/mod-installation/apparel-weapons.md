@@ -1,6 +1,6 @@
 ---
 title: "Apparel & Weapons"
-weight: 20
+weight: 25
 type: docs
 description: >
   Retextures for generic equipment.

@@ -1,6 +1,6 @@
 ---
 title: "Appearance"
-weight: 23
+weight: 28
 type: docs
 description: >
   Retextures for bodies and faces.

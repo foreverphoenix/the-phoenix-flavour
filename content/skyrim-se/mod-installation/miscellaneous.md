@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-weight: 30
+weight: 36
 type: docs
 description: >
   Various smaller mods with niche features.

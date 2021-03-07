@@ -1,6 +1,6 @@
 ---
 title: "Creatures"
-weight: 22
+weight: 27
 type: docs
 description: >
   Retextures for animals and monsters.

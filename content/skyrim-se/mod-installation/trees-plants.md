@@ -84,6 +84,13 @@ description: >
 
 - **Main Files:** HD Dead Trees and Driftwoods 2K Mesh Fix
 
+##### [Canticle Tree and Bark](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Canticle Bark
+- **Optional Files:** Canticle Tree >> `merge with the first file`
+
 ##### [Immersive Fallen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/8767?tab=files)
 
 #### Download Instructions

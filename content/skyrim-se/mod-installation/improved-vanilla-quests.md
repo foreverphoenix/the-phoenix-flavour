@@ -1,6 +1,6 @@
 ---
 title: "Improved Vanilla Quests"
-weight: 26
+weight: 31
 type: docs
 description: >
   Improvements and expansions for base game quests.

@@ -1,6 +1,6 @@
 ---
 title: "Sounds & Music"
-weight: 32
+weight: 38
 type: docs
 description: >
   Improved sound effects with additional sliders and new music tracks.
