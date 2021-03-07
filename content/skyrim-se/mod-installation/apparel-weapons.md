@@ -83,6 +83,15 @@ description: >
 #### Download Instructions
 
 - **Miscellaneous Files:** Cathedral Armory - TPF Repack
+- **Optional Files:** Armor Mesh Fixes SE Patch
+
+#### Additional Instructions
+
+- Double-click **Cathedral Armory - Armor Mesh Fixes Patch** in your mod order.
+- Delete the following file(s) and / or folder(s):
+  - `meshes\armor\daedric\`
+  - `meshes\armor\orcish\`
+  - `meshes\armor\daedric\`
 
 ##### [Project Clarity - Weapons - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
