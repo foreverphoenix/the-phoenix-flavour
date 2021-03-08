@@ -61,7 +61,7 @@ description: >
 - Scroll down to **Max Price** and set the value to **100**.
 - Press **CTRL+S** to save and close the window.
 
-![Better Stealing Tweak](/Pictures/skyrim-se/mod-installation/better-stealing-tweak.png)
+![Better Stealing Tweak](/Pictures/tpf/mod-installation/better-stealing-tweak.png)
 
 ##### [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997?tab=files)
 

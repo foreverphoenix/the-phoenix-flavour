@@ -39,7 +39,7 @@ While the default Depth of Field effect is fairly ugly, you will have noticed th
 * Press **ESCAPE** and go into **Settings** >> **Display**.
 * Turn down **Depth of Field** all the way.
 
-![Turn down DoF](/Pictures/skyrim-se/finalisation/turn-down-dof.jpg)
+![Turn down DoF](/Pictures/tpf/finalisation/turn-down-dof.jpg)
 
 ## Testing Suggestions
 
@@ -58,4 +58,4 @@ I recommend you spend at least 10 to 20 minutes ingame. Enjoy the improved graph
 
 If you encounter any bugs, performance lower than expected, or even crashes, please join us on Discord and provide us with detailed information about the problem. Any outstanding issues should be solved before diving back into Skyrim for a proper playthrough.
 
-#### Continue with the [Mod Configuration](/skyrim-se/mod-configuration/) page.
+#### Continue with the [Mod Configuration](/tpf/mod-configuration/) page.

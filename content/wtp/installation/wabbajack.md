@@ -47,8 +47,8 @@ Once the download and installation process has concluded, Wabbajack will inform 
 - Open the **Game Folder Files** folder. Select (CTRL+A) and copy (CTRL+C) all files inside.
 - Find your Fallout 4 installation (`Steam\steamapps\common\Fallout4`) and paste all files there (CTRL+V).
 
-![Game Folder Files](/Pictures/fallout/installation/game-folder-files.png)
+![Game Folder Files](/Pictures/wtp/installation/game-folder-files.png)
 
 ---
 
-#### Continue with the [Finalisation](/fallout/installation/finalisation/) page.
+#### Continue with the [Finalisation](/wtp/installation/finalisation/) page.

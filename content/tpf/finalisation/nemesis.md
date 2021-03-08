@@ -18,7 +18,7 @@ Nemesis will generate a number of files specifically for your setup. In order to
 - Rename the new mod folder to **Nemesis Output**.
 - Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT** separator and activate it.
 
-![Create Empty Mod](/Pictures/skyrim-se/finalisation/create-empty-mod.png)
+![Create Empty Mod](/Pictures/tpf/finalisation/create-empty-mod.png)
 
 ## Add Nemesis to MO2
 
@@ -29,7 +29,7 @@ Nemesis will generate a number of files specifically for your setup. In order to
 * Check the **Create files in mod instead of overwrite** checkbox and select **Nemesis Output** from the drop down menu.
 * Click **OK** to close the Tools window.
 
-![Add Nemesis to MO2](/Pictures/skyrim-se/finalisation/add-nemesis-to-mo2.png)
+![Add Nemesis to MO2](/Pictures/tpf/finalisation/add-nemesis-to-mo2.png)
 
 ## Generate Nemesis
 

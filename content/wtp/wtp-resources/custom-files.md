@@ -48,12 +48,6 @@ This is a custom plugin that loads an INI file which in turn fires a BAT file up
 - [pauderek](https://www.nexusmods.com/fallout4/users/1739196) for Shell Rain.
 - [SmithyPete](https://www.nexusmods.com/fallout4/users/34353495) for the No Weapon Clutter tweak.
 
-## DEF_HUD - Phoenix Preset
-
-This is just my personal DEF_HUD preset, downsizing most elements and moving the compass to the top. It's included in the main DEF_UI mod folder.
-
-![DEF_HUD Preset](/Pictures/fallout/documentation/def-hud-preset.png)
-
 ## Keywords, Crafting, Sorting
 
 ### Simple Keyword Resource

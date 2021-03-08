@@ -76,7 +76,7 @@ SetGS fSandboxCylinderBottom -576
 
 - Close the window and click **Yes** when asked to save.
 
-![ACC Add MFS](/Pictures/skyrim-se/mod-installation/acc-add-mfs.png)
+![ACC Add MFS](/Pictures/tpf/mod-installation/acc-add-mfs.png)
 
 ##### [Unofficial High Definition Audio Project (UHDAP)](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files)
 
@@ -126,7 +126,7 @@ SetGS fSandboxCylinderBottom -576
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
 - I recommend renaming it simply to **Skyrim Particle Patch** after the installation.
 
-![Skyrim Particle Patch download link](/Pictures/skyrim-se/mod-installation/skyrim-particle-patch-download.png)
+![Skyrim Particle Patch download link](/Pictures/tpf/mod-installation/skyrim-particle-patch-download.png)
 
 #### Additional Instructions
 

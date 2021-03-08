@@ -20,7 +20,7 @@ It may be faster to download all mods of a page first, then install them, and fi
 
 ## Additional Separators
 
-We already went over how to create separators back on the [Mod Organizer 2](/skyrim-se/initial-setup/mod-organizer-2/) page. As you can see in the sidebar on the left, there are plenty of pages in the mod installation section. Each of them will correspond to a separator in Mod Organizer 2.
+We already went over how to create separators back on the [Mod Organizer 2](/tpf/initial-setup/mod-organizer-2/) page. As you can see in the sidebar on the left, there are plenty of pages in the mod installation section. Each of them will correspond to a separator in Mod Organizer 2.
 
 - Create a new separator for every page in the Mod Installation section as you go through them.
 - Enter the page's title as the name for the separator (eg **FIXES** or **INTERFACE**).
@@ -28,7 +28,7 @@ We already went over how to create separators back on the [Mod Organizer 2](/sky
 
 In case you're not sure how to create a new separator anymore:
 
-![MO2 Create Separator](/Pictures/skyrim-se/initial-setup/mo2-create-separator.png)
+![MO2 Create Separator](/Pictures/tpf/initial-setup/mo2-create-separator.png)
 
 ## Installation Instructions
 
@@ -70,7 +70,7 @@ Occasionally you will be instructed to download multiple files from the same pag
 
 ### Basic Instructions
 
-Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](/skyrim-se/guide-resources/basic-instructions/) page (keep it open in a separate tab).
+Certain procedures - such as resaving a plugin or running a mod through the Cathedral Assets Optimizer - are repeated many times throughout the guide. After going through them for a few times, you will know them by heart but until then, please refer to the [Basic Instructions](/tpf/guide-resources/basic-instructions/) page (keep it open in a separate tab).
 
 The linked page includes detailed explanations for the following instructions:
 

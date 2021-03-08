@@ -64,7 +64,7 @@ Now the cleaning process will begin automatically. It takes a few minutes, so si
 * Wait until the cleaning procedure is completed.
 * Close SSEEdit.
 
-![Update ESM Cleaned](/Pictures/skyrim-se/initial-setup/update-esm-cleaned.png)
+![Update ESM Cleaned](/Pictures/tpf/initial-setup/update-esm-cleaned.png)
 
 ## Manual Cleaning - Dawnguard ESM
 
@@ -84,7 +84,7 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
 * There will be a warning, simply click **Yes I’m absolutely sure**.
 
-![ESM Cleaning - Manual Edit](/Pictures/skyrim-se/initial-setup/esm-cleaning-manual-edit.png)
+![ESM Cleaning - Manual Edit](/Pictures/tpf/initial-setup/esm-cleaning-manual-edit.png)
 
 ### Save Changes
 
@@ -93,8 +93,8 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Make sure **Dawnguard.esm** is checked, then click **OK**.
 * You’re done!
 
-![Save Dawnguard ESM](/Pictures/skyrim-se/initial-setup/save-dawnguard-esm.png)
+![Save Dawnguard ESM](/Pictures/tpf/initial-setup/save-dawnguard-esm.png)
 
 ---
 
-#### Continue with the [Instructions](/skyrim-se/mod-installation/instructions/) page.
+#### Continue with the [Instructions](/tpf/mod-installation/instructions/) page.

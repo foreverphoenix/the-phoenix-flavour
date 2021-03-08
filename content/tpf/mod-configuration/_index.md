@@ -16,19 +16,19 @@ You can either:
 - Untick **Show** for each module in the **General** tab to hide it completely.
 - If you installed my personal AMOT preset, go to **Presets** and click **Load user settings** (see screenshot).
 
-![Load AMOT Preset](/Pictures/skyrim-se/mod-configuration/load-amot-preset.jpg)
+![Load AMOT Preset](/Pictures/tpf/mod-configuration/load-amot-preset.jpg)
 
 ## All Geared Up Derivative
 
 - In the **NPC** tab, check **Enable Weapons**.
 
-![AllGUD MCM](/Pictures/skyrim-se/mod-configuration/allgud-mcm.jpg)
+![AllGUD MCM](/Pictures/tpf/mod-configuration/allgud-mcm.jpg)
 
 ## Cathedral Weathers
 
 - Uncheck **Configuration Spell** (redundant when you can access the MCM).
 
-![Cathedral Weathers MCM](/Pictures/skyrim-se/mod-configuration/cw-mcm.jpg)
+![Cathedral Weathers MCM](/Pictures/tpf/mod-configuration/cw-mcm.jpg)
 
 ## Immersive HUD
 
@@ -36,7 +36,7 @@ You can either:
 - I recommend turning on the **Key Press Toggles** option but that is a personal preference.
 - Check **Link ALL SkyUI Widgets** which will link the clock from A Matter of Time to the iHUD toggle.
 
-![iHUD link widgets](/Pictures/skyrim-se/mod-configuration/ihud-link-widgets.jpg)
+![iHUD link widgets](/Pictures/tpf/mod-configuration/ihud-link-widgets.jpg)
 
 ## moreHUD
 
@@ -47,7 +47,7 @@ In the **Enemy's Level** tab, uncheck the following options:
 
 > These only clutter up the interface in my opinion. You can also disable Health numbers if you like.
 
-![moreHUD MCM](/Pictures/skyrim-se/mod-configuration/morehud-mcm.jpg)
+![moreHUD MCM](/Pictures/tpf/mod-configuration/morehud-mcm.jpg)
 
 ## Realistic Water Two
 
@@ -56,7 +56,7 @@ Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following option
 * Kynesgrove
 * Rorikstead
 
-![Realistic Water 2 MCM](/Pictures/skyrim-se/mod-configuration/rwt-mcm.jpg)
+![Realistic Water 2 MCM](/Pictures/tpf/mod-configuration/rwt-mcm.jpg)
 
 ## Storm Lightning
 
@@ -64,7 +64,7 @@ By default, the lightning storms with this mod are pretty intense. I'd suggest c
 
 - Under **Presets**, select any one on one of the options.
 
-![Storm Lightning MCM](/Pictures/skyrim-se/mod-configuration/storm-lightning-mcm.jpg)
+![Storm Lightning MCM](/Pictures/tpf/mod-configuration/storm-lightning-mcm.jpg)
 
 ## Timing Is Everything
 
@@ -73,15 +73,15 @@ By default, the lightning storms with this mod are pretty intense. I'd suggest c
 - You will be asked not to leave the MCM before the process is complete. Confirm again.
 - All values will be updated. Click **Okay** to close the final message box.
 
-Most changes made in the preset are explained in the [Gameplay Guide](/skyrim-se/gameplay-guide).
+Most changes made in the preset are explained in the [Gameplay Guide](/tpf/gameplay-guide).
 
-![TIE MCM](/Pictures/skyrim-se/mod-configuration/tie-mcm.jpg)
+![TIE MCM](/Pictures/tpf/mod-configuration/tie-mcm.jpg)
 
 ## Trade & Barter
 
 - Under **Barter Rates** >> **Settings**, check the **Modify Barter Settings** box.
 
-![Trade and Barter MCM](/Pictures/skyrim-se/mod-configuration/trade-barter-mcm.jpg)
+![Trade and Barter MCM](/Pictures/tpf/mod-configuration/trade-barter-mcm.jpg)
 
 ## Wonders of Weather
 
@@ -89,4 +89,4 @@ This is optional and personal preference. Rainsplashes will no longer cause cras
 
 * Under **Rainsplashes**, set **Level** to **Disabled** to turn the effect off.
 
-![Wonders of Weather MCM](/Pictures/skyrim-se/mod-configuration/wow-mcm.jpg)
+![Wonders of Weather MCM](/Pictures/tpf/mod-configuration/wow-mcm.jpg)

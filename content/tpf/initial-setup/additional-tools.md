@@ -16,7 +16,7 @@ description: >
 * Navigate to `Your Modding Folder\Tools\SSEEdit` and double-click **SSEEdit.exe**.
 * Click **Apply** to save the new executable.
 
-![Add SSEEdit to MO2](/Pictures/skyrim-se/initial-setup/add-sseedit-to-mo2.png)
+![Add SSEEdit to MO2](/Pictures/tpf/initial-setup/add-sseedit-to-mo2.png)
 
 ### SSEEdit Cache Output
 
@@ -45,7 +45,7 @@ After editing a plugin in SSEEdit, a backup will automatically be created. With 
 
 > Again remember that the trailing backslash at the end is required - the file path MUST end on `\backups\`.
 
-![xEdit Arguments](/Pictures/skyrim-se/initial-setup/xedit-arguments.png)
+![xEdit Arguments](/Pictures/tpf/initial-setup/xedit-arguments.png)
 
 ### QuickAutoClean
 
@@ -59,7 +59,7 @@ After editing a plugin in SSEEdit, a backup will automatically be created. With 
 
 > The **-DontCache** argument will prevent an obscure bug that destroys parts of Apocrypha during the cleaning of Dragonborn.esm.
 
-![Add QuickAutoClean to MO2](/Pictures/skyrim-se/initial-setup/add-qac-to-mo2.png)
+![Add QuickAutoClean to MO2](/Pictures/tpf/initial-setup/add-qac-to-mo2.png)
 
 ## zEdit
 
@@ -75,7 +75,7 @@ At the moment, we only need zEdit for one very small step toward the end of the 
 - Navigate to `Your Modding Folder\Tools\zEdit` and double-click zEdit.exe.
 - Click **OK** to save the new executable and close the window.
 
-![zEdit Download](/Pictures/skyrim-se/initial-setup/zedit-download.png)
+![zEdit Download](/Pictures/tpf/initial-setup/zedit-download.png)
 
 ## Cathedral Assets Optimizer (CAO)
 
@@ -98,7 +98,7 @@ With the latest versions of CAO, you can set up dedicated profiles to switch bet
 * Open the downloaded archive.
 * Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 
-![CAO Profiles](/Pictures/skyrim-se/initial-setup/cao-profiles.png)
+![CAO Profiles](/Pictures/tpf/initial-setup/cao-profiles.png)
 
 ## SSE NIF Optimizer
 
@@ -116,4 +116,4 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 
 ---
 
-#### Continue with the [ESM Cleaning](/skyrim-se/initial-setup/esm-cleaning/) page.
+#### Continue with the [ESM Cleaning](/tpf/initial-setup/esm-cleaning/) page.

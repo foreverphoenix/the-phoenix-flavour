@@ -13,7 +13,7 @@ description: >
 
 If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).
 
-![SKSE Download](/Pictures/skyrim-se/initial-setup/skse-download.png)
+![SKSE Download](/Pictures/tpf/initial-setup/skse-download.png)
 
 ## Installation
 
@@ -23,7 +23,7 @@ If on the main page for SKSE there is a different version number than the one no
   * **skse64_loader.exe**
   * **skse64_steam_loader.dll**
 
-![SKSE Binaries Installation](/Pictures/skyrim-se/initial-setup/skse-binaries-installation.png)
+![SKSE Binaries Installation](/Pictures/tpf/initial-setup/skse-binaries-installation.png)
 
 ### Scripts
 
@@ -35,7 +35,7 @@ If on the main page for SKSE there is a different version number than the one no
 * Press F5 to refresh and the new mod will show up at the bottom of you mod order.
 * Move it up below the **ESSENTIAL MODS** separator and click the checkmark to activate it.
 
-![SKSE Scripts Installation](/Pictures/skyrim-se/initial-setup/skse-scripts-installation.png)
+![SKSE Scripts Installation](/Pictures/tpf/initial-setup/skse-scripts-installation.png)
 
 ## SKSE INI
 
@@ -53,7 +53,7 @@ If on the main page for SKSE there is a different version number than the one no
 
 > At this point (and when testing later on) you’ll benefit a lot from having this page open on a secondary monitor or alternatively your phone or tablet in order to avoid having to tab out.
 
-![Run SKSE](/Pictures/skyrim-se/initial-setup/run-skse.png)
+![Run SKSE](/Pictures/tpf/initial-setup/run-skse.png)
 
 ## Verify Installation
 
@@ -61,8 +61,8 @@ If on the main page for SKSE there is a different version number than the one no
 * Type in ``getskseversion`` and hit Enter. It should return the version number of your SKSE64 installation.
 * After confirming that SKSE64 was installed correctly, type **qqq** in the console and hit Enter to quickly close the game.
 
-![Verify SKSE64](/Pictures/skyrim-se/initial-setup/verify-skse64.png)
+![Verify SKSE64](/Pictures/tpf/initial-setup/verify-skse64.png)
 
 ---
 
-#### Continue with the [INI Files](/skyrim-se/initial-setup/ini-files/) page.
+#### Continue with the [INI Files](/tpf/initial-setup/ini-files/) page.

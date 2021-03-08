@@ -50,7 +50,7 @@ Non-English installations are not supported. Please make sure Skyrim SE is set t
 - Select **Properties** and switch to the **Language** tab.
 - Ensure that the language is set to **English**.
 
-![Skyrim SE English](/Pictures/skyrim-se/initial-setup/skyrim-se-english.png)
+![Skyrim SE English](/Pictures/tpf/initial-setup/skyrim-se-english.png)
 
 ## Reinstallation
 
@@ -72,7 +72,7 @@ The currently supported version of Skyrim SE is: **1.5.97**.
 * Right-click **SkyrimSE.exe** and select **Properties**.
 * Switch to the **Details** tab and check under **Product version**.
 
-![Skyrim SE 1.5.97.0](/Pictures/skyrim-se/initial-setup/skyrim-se-1-5-97-0.png)
+![Skyrim SE 1.5.97.0](/Pictures/tpf/initial-setup/skyrim-se-1-5-97-0.png)
 
 ## Disable Auto Updates
 
@@ -85,7 +85,7 @@ However, you can continue to play the previous version of Skyrim SE with SKSE64 
 * Make sure **Automatic updates** is set to **Only update this game when I launch it**.
 * Problem solved!
 
-![Disable Auto Updates](/Pictures/skyrim-se/initial-setup/sse-disable-auto-updates.png)
+![Disable Auto Updates](/Pictures/tpf/initial-setup/sse-disable-auto-updates.png)
 
 ## Executables Backup
 
@@ -119,4 +119,4 @@ Since disabling the Steam Overlay will also prevent you from taking screenshots 
 
 ---
 
-#### Continue with the [Creation Kit](/skyrim-se/initial-setup/the-creation-kit/) page.
+#### Continue with the [Creation Kit](/tpf/initial-setup/the-creation-kit/) page.

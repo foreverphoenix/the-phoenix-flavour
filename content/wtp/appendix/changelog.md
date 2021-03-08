@@ -187,10 +187,10 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 #### Website Changes
 
-- [Finalisation](/fallout/installation/finalisation/): Added this new page and moved the game resolution instructions here.
-- [Finalisation](/fallout/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
-- [New Game](/fallout/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
-- [New Game](/fallout/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
+- [Finalisation](/wtp/installation/finalisation/): Added this new page and moved the game resolution instructions here.
+- [Finalisation](/wtp/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
+- [New Game](/wtp/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
+- [New Game](/wtp/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
 
 ## Release 1.1
 
@@ -209,8 +209,8 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 #### Website Changes
 
-- [Wabbajack](/fallout/installation/wabbajack/): Added new section on how change the game resolution.
-- [Troubleshooting](/fallout/appendix/troubleshooting/): Added this page with a few known issues.
+- [Wabbajack](/wtp/installation/wabbajack/): Added new section on how change the game resolution.
+- [Troubleshooting](/wtp/appendix/troubleshooting/): Added this page with a few known issues.
 
 ## Release 1.0.1
 

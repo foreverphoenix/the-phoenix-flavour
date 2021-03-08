@@ -56,7 +56,7 @@ When juggling multiple setups, deorder's **Sync Mod Order** plugin for Mod Organ
 
 - Download the latest version of deorder's [MO2 plugins](https://github.com/deorder/mo2-plugins/releases) from Github.
 
-![Download Deorder's Plugins](/Pictures/skyrim-se/tpf-addons/download-deorders-plugins.png)
+![Download Deorder's Plugins](/Pictures/tpf/tpf-addons/download-deorders-plugins.png)
 
 ### Installation
 
@@ -74,6 +74,6 @@ When juggling multiple setups, deorder's **Sync Mod Order** plugin for Mod Organ
 - Addons require **experience** gained during the manual installation for TPF and are not recommended for WJ users.
 - Addons should be installed in a **separate** MO2 profile.
 - Addons are **not compatible** with each other. You can only install one.
-- To update a customised profile, follow [these instructions](/skyrim-se/tpf-addons/updating-addons).
+- To update a customised profile, follow [these instructions](/tpf/tpf-addons/updating-addons).
 
-#### Available Addons and further information can be found [here](/skyrim-se/tpf-addons/available-addons).
+#### Available Addons and further information can be found [here](/tpf/tpf-addons/available-addons).

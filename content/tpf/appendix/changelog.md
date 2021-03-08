@@ -98,8 +98,8 @@ Fixed a bunch of embarrassing typos, both in the guide and in the 4.4 changelog.
 
 #### Updating Instructions
 
-- Completely redo the [Facegen](/skyrim-se/finalisation/facegen) step, including updating the script, regenerating the plugin, rebuilding facegen, and running the output through CAO.
-- Also regenerate AllGUD, TexGen, DynDOLOD, and Occlusion. Remember to use the [How To Update - DynDOLOD](/skyrim-se/guide-resources/how-to-update/#dyndolod) if you're on an ongoing playthrough.
+- Completely redo the [Facegen](/tpf/finalisation/facegen) step, including updating the script, regenerating the plugin, rebuilding facegen, and running the output through CAO.
+- Also regenerate AllGUD, TexGen, DynDOLOD, and Occlusion. Remember to use the [How To Update - DynDOLOD](/tpf/guide-resources/how-to-update/#dyndolod) if you're on an ongoing playthrough.
 
 #### Mod Installation
 
@@ -265,9 +265,9 @@ The update is **save-safe**. Upon loading a save, you will be warned about a "mi
 
 No changes to the manual guide or Wabbajack (although an actual content update is coming soon).
 
-I added a new section called [**TPF Addons**](/skyrim-se/tpf-addons/) to officially feature the various Addons created by third parties. These range from integration patches (Legacy of the Dragonborn and Creation Club content) to small collections to be installed on top of an existing TPF setup. Sr Kaio's and D1Z4STR's Addons are for the small touches while Slidikins' Strenuous Skyrim is made to increase the overall difficulty. Different Addons cater to different tastes!
+I added a new section called [**TPF Addons**](/tpf/tpf-addons/) to officially feature the various Addons created by third parties. These range from integration patches (Legacy of the Dragonborn and Creation Club content) to small collections to be installed on top of an existing TPF setup. Sr Kaio's and D1Z4STR's Addons are for the small touches while Slidikins' Strenuous Skyrim is made to increase the overall difficulty. Different Addons cater to different tastes!
 
-**If you are interested in Addons:** Please, please read the [Addon Primer](/skyrim-se/tpf-addons/addon-primer) I wrote before installing anything. The page will take you through the rest of the section and supply you with everything you need to know.
+**If you are interested in Addons:** Please, please read the [Addon Primer](/tpf/tpf-addons/addon-primer) I wrote before installing anything. The page will take you through the rest of the section and supply you with everything you need to know.
 
 I am also working on an Addon of my own with some changes that I cannot put into the main guide. Stay tuned for updates!
 
@@ -278,10 +278,10 @@ I am also working on an Addon of my own with some changes that I cannot put into
 This update is **save-safe** but manual guide users must regenerate some of their outputs.
 
 - Facegen (delete output, re-active NPCsWithFace.esp, export facegen)
-- TexGen + DynDOLOD ([instructions](/skyrim-se/guide-resources/how-to-update/#dyndolod))
+- TexGen + DynDOLOD ([instructions](/tpf/guide-resources/how-to-update/#dyndolod))
 - Occlusion
 
-**Wabbajack users:** You also need to follow [these instructions](/skyrim-se/guide-resources/how-to-update/#dyndolod) to update DynDOLOD on an ongoing save.
+**Wabbajack users:** You also need to follow [these instructions](/tpf/guide-resources/how-to-update/#dyndolod) to update DynDOLOD on an ongoing save.
 
 #### Mod Installation
 
@@ -481,7 +481,7 @@ This update is bringing DIY facegen instructions and an overhaul for the Appeara
 
 > 10/02/2021
 
-As it turns out, the Timing Is Everything preset feature is broken. I hadn't previously noticed it as I didn't check *all* the pages and on the "Extras" page everything seemed to work well. Umgak fixed that in scripts packaged with the CRP. The preset itself was updated for even better synergy with other mods in TPF, ensuring quests will not be available before you are capable of beating them. Details can be found on the new [Quests](/skyrim-se/gameplay-guide/quests) page in the Gameplay Guide.
+As it turns out, the Timing Is Everything preset feature is broken. I hadn't previously noticed it as I didn't check *all* the pages and on the "Extras" page everything seemed to work well. Umgak fixed that in scripts packaged with the CRP. The preset itself was updated for even better synergy with other mods in TPF, ensuring quests will not be available before you are capable of beating them. Details can be found on the new [Quests](/tpf/gameplay-guide/quests) page in the Gameplay Guide.
 
 While working on the Quests segment of the Gameplay Guide, I noticed that it was rather inconsistent to use Andrealphus' Dawnguard DLC integration option for the Stones of Barenziah (No Stones Unturned) but not the Dragonborn DLC one. So I fixed that.
 

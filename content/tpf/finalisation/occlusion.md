@@ -14,7 +14,7 @@ While SSELODGen is primarily made to regenerate terrain LOD, we are only going t
 - Navigate to `Your Modding Folder\Tools` and create a new **SSELODGen** folder.
 - Open the downloaded archive, double-click the **xLODGen** folder, and extract all files into your new directory.
 
-![Download xLODGen](/Pictures/skyrim-se/finalisation/xlodgen-download.png)
+![Download xLODGen](/Pictures/tpf/finalisation/xlodgen-download.png)
 
 ### Add xLODGen to MO2
 
@@ -25,7 +25,7 @@ While SSELODGen is primarily made to regenerate terrain LOD, we are only going t
 - Under **Arguments**, add `-sse`.
 - Click **OK** to close the window.
 
-![Add xLODGen to MO2](/Pictures/skyrim-se/finalisation/add-xlodgen-to-mo2.png)
+![Add xLODGen to MO2](/Pictures/tpf/finalisation/add-xlodgen-to-mo2.png)
 
 ## Generate Occlusion Data
 
@@ -36,7 +36,7 @@ While SSELODGen is primarily made to regenerate terrain LOD, we are only going t
 - Set **Height** to **100**.
 - Click **Generate** and wait for the process to complete.
 
-![Generate Occlusion Data](/Pictures/skyrim-se/finalisation/generate-occlusion-data.png)
+![Generate Occlusion Data](/Pictures/tpf/finalisation/generate-occlusion-data.png)
 
 ## Output
 

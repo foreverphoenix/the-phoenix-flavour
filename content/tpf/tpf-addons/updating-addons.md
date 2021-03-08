@@ -32,7 +32,7 @@ If it is, follow these instructions:
 
 ### Sync Mod Order
 
-The [Addon Primer](/skyrim-se/tpf-addons/addon-primer) included installation instructions for deorder's **Sync Mod Order** plugin. This is where it will come in handy:
+The [Addon Primer](/tpf/tpf-addons/addon-primer) included installation instructions for deorder's **Sync Mod Order** plugin. This is where it will come in handy:
 
 - Ensure you are still on the **base profile** after updating to the newest TPF version.
 - Click the **Puzzle** icon and select **Sync Mod Order** (see picture below).
@@ -40,7 +40,7 @@ The [Addon Primer](/skyrim-se/tpf-addons/addon-primer) included installation ins
 
 Mod Organizer 2 will refresh automatically when you close the window. Your customised profile now has the same mod order as your base one, ensuring all changes or additions are also in place there (otherwise you would have to manually move mods that were added or placed elsewhere in the mod order).
 
-![Sync Mod Order](/Pictures/skyrim-se/tpf-addons/sync-mod-order.png)
+![Sync Mod Order](/Pictures/tpf/tpf-addons/sync-mod-order.png)
 
 ### Mod Order Check
 

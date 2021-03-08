@@ -38,7 +38,7 @@ More hardware-taxing is however what is typically referred to as "ultra tree LOD
   * -sse
 * Click **OK** to save and close the **Executables** window.
 
-![Texgen DynDOLOD Executables](/Pictures/skyrim-se/finalisation/texgen-dyndolod-executables.png)
+![Texgen DynDOLOD Executables](/Pictures/tpf/finalisation/texgen-dyndolod-executables.png)
 
 ## TexGen Configuration
 
@@ -50,7 +50,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 > The generation will take a while (about 10 minutes for me) and I recommend you step away from your PC in the meantime.
 
-![TexGen Settings](/Pictures/skyrim-se/finalisation/texgen-settings.png)
+![TexGen Settings](/Pictures/tpf/finalisation/texgen-settings.png)
 
 ## TexGen Output
 
@@ -92,7 +92,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 **Step away from your PC while DynDOLOD is working.** This may take around 20-30 minutes.
 
-![DynDOLOD Settings](/Pictures/skyrim-se/finalisation/dyndolod-settings.png)
+![DynDOLOD Settings](/Pictures/tpf/finalisation/dyndolod-settings.png)
 
 ## DynDOLOD Output
 
@@ -107,7 +107,7 @@ TexGen is a component of DynDOLOD, used to generate textures based on your mod s
 
 ## DynDOLOD Loading Screens
 
-As DynDOLOD was such a revolutionary mod when it came out, there's been an ongoing joke that one had to give their firstborn to the author, sheson, for using it - like in the [fairy tale](https://en.wikipedia.org/wiki/Rumpelstiltskin). Also there's a golden cow. Both memes were added to the mod as easter eggs and while the cow is optional in the FOMOD, the [three loading screens](/Pictures/skyrim-se/finalisation/dyndolod-loading-screen.png) featuring those memes are part of the generated DynDOLOD.esm.
+As DynDOLOD was such a revolutionary mod when it came out, there's been an ongoing joke that one had to give their firstborn to the author, sheson, for using it - like in the [fairy tale](https://en.wikipedia.org/wiki/Rumpelstiltskin). Also there's a golden cow. Both memes were added to the mod as easter eggs and while the cow is optional in the FOMOD, the [three loading screens](/Pictures/tpf/finalisation/dyndolod-loading-screen.png) featuring those memes are part of the generated DynDOLOD.esm.
 
 Removing the loading screens can be done easily in SSEEdit after generating DynDOLOD. You can skip this step if they don't bother you.
 
@@ -119,4 +119,4 @@ Removing the loading screens can be done easily in SSEEdit after generating DynD
 - Click **Yes, I'm absolutely sure** and confirm deletion of all records.
 - Close SSEEdit and click **OK** to save your changes.
 
-![Delete DynDOLOD Load Screens](/Pictures/skyrim-se/finalisation/delete-dyndolod-loadscreens.png)
+![Delete DynDOLOD Load Screens](/Pictures/tpf/finalisation/delete-dyndolod-loadscreens.png)

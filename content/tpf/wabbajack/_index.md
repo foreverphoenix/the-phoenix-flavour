@@ -8,9 +8,9 @@ description: >
 
 ## Orientation
 
-Hi there, this is the **Wabbajack** section of the guide. If you have so far followed the manual guide (Initial Setup, Mod Installation, Finalisation), please continue with the [Mod Configuration](/skyrim-se/mod-configuration/) page, the Wabbajack section is NOT for you. Move along, nothing to see here.
+Hi there, this is the **Wabbajack** section of the guide. If you have so far followed the manual guide (Initial Setup, Mod Installation, Finalisation), please continue with the [Mod Configuration](/tpf/mod-configuration/) page, the Wabbajack section is NOT for you. Move along, nothing to see here.
 
-If you want to install TPF via Wabbajack, you ARE in the right place. Make sure you've read the [Introduction](/skyrim-se/introduction/) page and let's get started.
+If you want to install TPF via Wabbajack, you ARE in the right place. Make sure you've read the [Introduction](/tpf/introduction/) page and let's get started.
 
 ## Requirements
 
@@ -30,7 +30,7 @@ The Microsoft Visual C++ Redistributable is a basic package required by Mod Orga
 - Download the following file: ` vc_redist.x64.exe`.
 - Run the executable, it will guide you through the installation process.
 
-![VC Redist](/Pictures/skyrim-se/initial-setup/vc-redists.png)
+![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
 
 ## Clean Skyrim
 
@@ -111,8 +111,8 @@ Some files must be moved into the root folder which cannot be managed by Mod Org
 
 By default, the game is set to run at 1440p which is very demanding. You should lower the resolution to 1080p if you have a 1080p monitor and/or weaker hardware. If you have a 1440p monitor but weaker hardware, you need to also enable BorderlessUpscaling in SSE Display Fixes. See the links below for instructions.
 
-- [How to change the game's resolution](/skyrim-se/guide-resources/various-tutorials/#how-to-change-the-games-resolution)
-- [How to play below your monitor's native resolution](/skyrim-se/appendix/troubleshooting/#skyrim-launches-in-a-small-window)
+- [How to change the game's resolution](/tpf/guide-resources/various-tutorials/#how-to-change-the-games-resolution)
+- [How to play below your monitor's native resolution](/tpf/appendix/troubleshooting/#skyrim-launches-in-a-small-window)
 
 ### Enable VSYNC
 
@@ -137,8 +137,8 @@ Since we are using SSE Display Tweaks, it is possible to uncap the framerate wit
 - Open your installation folder `C:\The Phoenix Flavour\` and double-click the **ModOrganizer.exe** inside.
 - In Mod Organizer 2, make sure **SKSE** is selected as executable.
 - Hit **Run** to start the game. Select **NEW** in the main menu.
-- After completing the intro quest (Helgen), continue with the [Mod Configuration](/skyrim-se/mod-configuration) page.
+- After completing the intro quest (Helgen), continue with the [Mod Configuration](/tpf/mod-configuration) page.
 
 > It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2.
 
-![Launch SKSE](/Pictures/skyrim-se/initial-setup/run-skse.png)
+![Launch SKSE](/Pictures/tpf/initial-setup/run-skse.png)

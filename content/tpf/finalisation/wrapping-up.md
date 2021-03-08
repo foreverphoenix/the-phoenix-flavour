@@ -41,7 +41,7 @@ There are multiple different warnings that you may encounter:
 - **Outdated SKSE Plugin:** Check the plugin's mod page to see if there is a new version.
 - **Files in Overwrite:** Share a screenshot on Discord so we can take a look.
 
-![Check for Form43 Plugins](/Pictures/skyrim-se/finalisation/check-for-form43-plugin.png)
+![Check for Form43 Plugins](/Pictures/tpf/finalisation/check-for-form43-plugin.png)
 
 ## Flag Plugins as ESL
 

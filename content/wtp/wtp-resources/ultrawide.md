@@ -12,7 +12,7 @@ For users with a monitor resolution of 21:9 (ultrawide), manually changing the r
 
 - Open the INI editor in Mod Organizer 2.
 
-![Open INI Editor](/Pictures/fallout/customisation/mo2-ini-editor.png)
+![Open INI Editor](/Pictures/wtp/installation/mo2-ini-editor.png)
 
 - Switch to the fallout4prefs.ini tab and scroll down to the [Display] section.
 - Replace the following two lines with the set matching your monitor resolution:
@@ -39,8 +39,8 @@ iSize H=1440
 The most comprehensive widescreen fix mod for Fallout 4, [TruBy9 Ultrawide](https://www.nexusmods.com/fallout4/mods/2463), is already pre-installed in WTP. All you need to do is activate it and some additional fixes.
 
 - In Mod Organizer 2, scroll to the **ULTRAWIDE SUPPORT (OPTIONAL)** section under **INTERFACE**.
-- Check everything below that separator.
+- Check all mods below that separator.
 
 ---
 
-#### Continue with the [New Game](/fallout/installation/new-game/) page.
+#### Continue with the [New Game](/wtp/installation/new-game/) page.

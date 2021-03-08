@@ -13,7 +13,7 @@ description: >
 * Find the latest version on the **Releases** page linked above and click on **Assets**.
 * Click on the main mod archive to download (see picture).
 
-![Nemesis Download](/Pictures/skyrim-se/mod-installation/nemesis-download.png)
+![Nemesis Download](/Pictures/tpf/mod-installation/nemesis-download.png)
 
 #### Installation Instructions
 

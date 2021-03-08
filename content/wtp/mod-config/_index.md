@@ -1,6 +1,6 @@
 ---
-title: "Mod Configuration"
-weight: 6
+title: "Mod Config"
+weight: 3
 type: docs
 description: >
   Required and optional MCM tweaks.
@@ -27,14 +27,14 @@ Items that are currently unavailable for crafting (due to missing components and
 - Switch to the **Workbench list** tab.
 - Under **List entries**, reduce **Brightness unavailable item** to 25.
 
-![FallUI Brightness](/Pictures/wtp/installation/fallui-workbench-brightness.jpg)
+![FallUI Brightness](/Pictures/wtp/mod-config/fallui-workbench-brightness.jpg)
 
 ### Disable autocrafting
 
 - Switch to the **Generic settings** tab.
 - Under **Crafting**, set **Auto-craft items without cost** to **Off**.
 
-![FallUI Autocraft](/Pictures/wtp/installation/fallui-workbench-autocraft.jpg)
+![FallUI Autocraft](/Pictures/wtp/mod-config/fallui-workbench-autocraft.jpg)
 
 ### Ultrawide support
 
@@ -46,13 +46,13 @@ You only need to follow these steps if you are playing on **Ultrawide** monitor.
 
 > If your monitor has an ancient aspect ratio like 5:4 or 4:3, you could fix the UI here as well by entering that instead. However, many other components of the UI would still be mismatched.
 
-![FallUI Ultrawide](/Pictures/wtp/installation/fallui-workbench-widescreen.jpg)
+![FallUI Ultrawide](/Pictures/wtp/mod-config/fallui-workbench-widescreen.jpg)
 
 ## Faster Workshop
 
 - Set a hotkey for starting workshop mode. I prefer **Z** (or **Y** on a QWERTY layout).
 
-![Faster Workshop MCM](/Pictures/fallout/new-game/faster-workshop-mcm.jpg)
+![Faster Workshop MCM](/Pictures/wtp/mod-config/faster-workshop-mcm.jpg)
 
 ## GCM (Game Configuration Menu)
 
@@ -62,7 +62,7 @@ You only need to follow these steps if you are playing on **Ultrawide** monitor.
 
 This lowers the chance for Automatron-related loading screens to 1% down from the default 20% to match most other loading screens. It replaces [this tweak](https://www.nexusmods.com/fallout4/mods/21163).
 
-![GCM DLC MCM](/Pictures/fallout/new-game/gcm-dlc-mcm.jpg)
+![GCM DLC MCM](/Pictures/wtp/mod-config/gcm-dlc-mcm.jpg)
 
 ### Experience
 
@@ -73,7 +73,7 @@ This lowers the chance for Automatron-related loading screens to 1% down from th
 
 With all the focus on settlement building including lowered weight for scrap I feel that balance is best served by taking it out of the level-up system entirely. The XP no longer earned by building is somewhat balanced out by the inclusion of PerkPointsPerLevel which grants you 1.2 perks per level up (one additional perk every 5 level ups).
 
-![GCM XP MCM](/Pictures/fallout/new-game/gcm-xp-mcm.jpg)
+![GCM XP MCM](/Pictures/wtp/mod-config/gcm-xp-mcm.jpg)
 
 ### NPCs
 
@@ -81,7 +81,7 @@ With all the focus on settlement building including lowered weight for scrap I f
 
 This disables the weird sidestep / dodge that makes it seem like all NPCs can use the Force and feel your bullet coming.
 
-![GCM NPC MCM](/Pictures/fallout/new-game/gcm-npc-mcm.jpg)
+![GCM NPC MCM](/Pictures/wtp/mod-config/gcm-npc-mcm.jpg)
 
 ### Skills
 
@@ -91,7 +91,7 @@ This disables the weird sidestep / dodge that makes it seem like all NPCs can us
 
 This is optional (personal preference) but if you hate hacking as much as I do, this is how you can disable it. Perk requirements still apply for hacking higher-level terminals but only the correct word will be shown.
 
-![GCM Hacking MCM](/Pictures/fallout/new-game/gcm-hacking-mcm.jpg)
+![GCM Hacking MCM](/Pictures/wtp/mod-config/gcm-hacking-mcm.jpg)
 
 ## Immersive HUD
 
@@ -103,7 +103,7 @@ This is optional (personal preference) but if you hate hacking as much as I do, 
 
 The Holotape and AID item are no longer needed with the MCM and ability to set a keybind directly.
 
-![Immersive HUD MCM](/Pictures/fallout/new-game/immersive-hud-mcm.jpg)
+![Immersive HUD MCM](/Pictures/wtp/mod-config/immersive-hud-mcm.jpg)
 
 ## HoloTime
 
@@ -112,7 +112,7 @@ The Holotape and AID item are no longer needed with the MCM and ability to set a
 
 Configuring HoloTime and iHUD can be a little annoying sometimes. Quit the MCM and toggle the HUD on (X), then toggle the clock widget (V). When you toggle off the HUD now, it should also hide the clock. If this doesn't work, try changing the clock scale, then changing it back, or quicksaving, then quickloading the game.
 
-![HoloTime MCM](/Pictures/fallout/new-game/holotime-mcm.jpg)
+![HoloTime MCM](/Pictures/wtp/mod-config/holotime-mcm.jpg)
 
 ## More AGOMBz
 
@@ -127,7 +127,7 @@ On the **More attacks** page, change the following:
   - Allow Nuka-World creatures attacks on Nuka-World **ON**
   - Allow Nuka-World creatures attacks worldwide **OFF**
 
-![More AGOMBz MCM](/Pictures/fallout/new-game/more-agombz-mcm-1.jpg)
+![More AGOMBz MCM](/Pictures/wtp/mod-config/more-agombz-mcm-1.jpg)
 
 ### More ... Disable
 
@@ -137,13 +137,13 @@ On the **More ... Disable** page, change the following:
 
 > This is done for consistency with the mod [Docile Radstags](https://www.nexusmods.com/fallout4/mods/3208).
 
-![More AGOMBz MCM](/Pictures/fallout/new-game/more-agombz-mcm-2.jpg)
+![More AGOMBz MCM](/Pictures/wtp/mod-config/more-agombz-mcm-2.jpg)
 
 ## Photo Mode
 
 In this MCM, you can set a hotkey to go into Photo Mode and change its position in the Pause menu. Feel free to make changes or leave the settings at default.
 
-![Photo Mode MCM](/Pictures/wtp/installation/photo-mode-mcm.jpg)
+![Photo Mode MCM](/Pictures/wtp/mod-config/photo-mode-mcm.jpg)
 
 ## Workshop Framework
 
@@ -153,7 +153,7 @@ In this MCM, you can set a hotkey to go into Photo Mode and change its position 
 
 Just build your settlers' beds somewhere below a roof to protect your immersion and ignore this buggy mechanic.
 
-![Workshop Framework MCM 2](/Pictures/fallout/new-game/workshop-framework-mcm-2.jpg)
+![Workshop Framework MCM 2](/Pictures/wtp/mod-config/workshop-framework-mcm-2.jpg)
 
 ### Framework Controls
 
@@ -161,7 +161,7 @@ Just build your settlers' beds somewhere below a roof to protect your immersion 
 
 The Manage menu accessible at workbenches is only for scrapping stuff placed by the player and the WF layouts feature. Since TPF Fallout 4 doesn't currently include additional layouts, I would rather people disabled this entirely to prevent confusion. If you are interested in WF layouts, re-enable the Manage Workbench option and watch kinggath's tutorials on [importing](https://www.youtube.com/watch?v=N3MGiari9xc&feature=emb_logo) and [exporting](https://www.youtube.com/watch?v=9OVzgFzjnRw&feature=emb_logo) them. Obviously, downloading and installing layouts counts as adding mods and voids your right to get support for TPF Fallout 4.
 
-![Workshop Framework MCM 1](/Pictures/fallout/new-game/workshop-framework-mcm-1.jpg)
+![Workshop Framework MCM 1](/Pictures/wtp/mod-config/workshop-framework-mcm-1.jpg)
 
 ---
 

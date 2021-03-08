@@ -38,7 +38,7 @@ ENBMan is one of several ENB manager tools available. It happens to my favourite
 - Click the green checkmark to confirm.
 - Double-click the new **Skyrim SE** profile.
 
-![Game Setup](/Pictures/skyrim-se/finalisation/enb-game-setup.png)
+![Game Setup](/Pictures/tpf/finalisation/enb-game-setup.png)
 
 ## ENBSeries Binaries
 
@@ -59,7 +59,7 @@ ENBMan is one of several ENB manager tools available. It happens to my favourite
 * Click the green checkmark to confirm.
 * Delete the files from your **temp** directory.
 
-![Install ENB Binaries](/Pictures/skyrim-se/finalisation/install-enb-binaries.png)
+![Install ENB Binaries](/Pictures/tpf/finalisation/install-enb-binaries.png)
 
 ## Global INI Settings
 
@@ -90,7 +90,7 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 
 > If you want different hotkeys, use [this super useful website](https://keycode.info/) to figure out any key's numeric value.
 
-![ENB Better Hotkeys](/Pictures/skyrim-se/finalisation/enb-better-hotkeys.png)
+![ENB Better Hotkeys](/Pictures/tpf/finalisation/enb-better-hotkeys.png)
 
 ### Save Global Configuration
 
@@ -98,7 +98,7 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 - Back in the **Global Configuration Files** window, check the box next to **enblocal.ini.**
 - Click the green checkmark to close the window.
 
-![ENB Better Hotkeys](/Pictures/skyrim-se/finalisation/enb-global-ini.png)
+![ENB Better Hotkeys](/Pictures/tpf/finalisation/enb-global-ini.png)
 
 ## Serio's ENB
 
@@ -116,7 +116,7 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 * Enter a name for the new preset: `Serio's ENB for Cathedral Weathers 1.10`.
 * Click the green checkmark to confirm.
 
-![Create New Preset](/Pictures/skyrim-se/finalisation/create-new-preset.png)
+![Create New Preset](/Pictures/tpf/finalisation/create-new-preset.png)
 
 ### Import files into preset
 
@@ -126,7 +126,7 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 
 *Reference picture shows a different preset but the process is the same.*
 
-![Import Preset Files](/Pictures/skyrim-se/finalisation/install-enb-preset.png)
+![Import Preset Files](/Pictures/tpf/finalisation/install-enb-preset.png)
 
 ### Activate the preset
 
@@ -135,4 +135,4 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 
 *Reference picture shows a different preset but the process is the same.*
 
-![Enable Preset](/Pictures/skyrim-se/finalisation/activate-enb-preset.png)
+![Enable Preset](/Pictures/tpf/finalisation/activate-enb-preset.png)

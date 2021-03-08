@@ -36,7 +36,7 @@ Before we can generate weapon meshes, there are some weapons that use Alternate 
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
 - Click **OK** when prompted to save your changes.
 
-![Alternate Textures Patch](/Pictures/skyrim-se/finalisation/allgud-alt-textures-fixed.png)
+![Alternate Textures Patch](/Pictures/tpf/finalisation/allgud-alt-textures-fixed.png)
 
 ### Output
 
@@ -52,7 +52,7 @@ Before we can generate weapon meshes, there are some weapons that use Alternate 
 - Enter **AllGUD - Weapon Meshes** as the name and click **OK**.
 - Leave the new mod at the bottom of your mod order and activate it.
 
-![Create empty mod](/Pictures/skyrim-se/finalisation/create-empty-mod.png)
+![Create empty mod](/Pictures/tpf/finalisation/create-empty-mod.png)
 
 ### Fixed Script
 
@@ -75,7 +75,7 @@ The original script has a bug. A fixed version is available on the Nexus.
 - Click **Start** to begin generating the meshes.
 - Eventually SSEEdit will return **Done: Applying script**, and you can close the window.
 
-![AllGUD Weapon Patcher](/Pictures/skyrim-se/finalisation/allgud-weapon-meshes.png)
+![AllGUD Weapon Patcher](/Pictures/tpf/finalisation/allgud-weapon-meshes.png)
 
 ## Skeleton Patcher
 
@@ -83,7 +83,7 @@ The original script has a bug. A fixed version is available on the Nexus.
 - Enter **AllGUD - Skeleton Meshes** as the name and click **OK**.
 - Leave the new mod at the bottom of your mod order and activate it.
 
-![Create empty mod](/Pictures/skyrim-se/finalisation/create-empty-mod.png)
+![Create empty mod](/Pictures/tpf/finalisation/create-empty-mod.png)
 
 ### Running the script
 
@@ -99,4 +99,4 @@ The original script has a bug. A fixed version is available on the Nexus.
 
 > Selecting all plugins first with CTRL + A is not necessary for this script.
 
-![AllGUD Skeleton Patcher](/Pictures/skyrim-se/finalisation/allgud-skeleton-patcher.png)
+![AllGUD Skeleton Patcher](/Pictures/tpf/finalisation/allgud-skeleton-patcher.png)

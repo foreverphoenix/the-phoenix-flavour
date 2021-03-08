@@ -25,7 +25,7 @@ By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows E
 - Click the **View** tab at the top.
 - Make sure **File name extensions** is checked.
 
-![File Extensions Visible](/Pictures/skyrim-se/initial-setup/file-extensions-visible.png)
+![File Extensions Visible](/Pictures/tpf/initial-setup/file-extensions-visible.png)
 
 ## Your Modding Folder
 
@@ -43,7 +43,7 @@ Throughout the guide I will refer to this folder as **Your Modding Folder**.
   - temp
   - Tools
 
-![Modding Folder](/Pictures/skyrim-se/initial-setup/modding-folder.png)
+![Modding Folder](/Pictures/tpf/initial-setup/modding-folder.png)
 
 ### Mod Archive
 
@@ -56,7 +56,7 @@ Proper organisation is key when modding Skyrim. You will come back many times to
   - MO2 Downloads
   - SKSE64
 
-![Archive Folder](/Pictures/skyrim-se/initial-setup/archive-folder.png)
+![Archive Folder](/Pictures/tpf/initial-setup/archive-folder.png)
 
 ## Monitor Calibration
 
@@ -89,8 +89,8 @@ The Microsoft Visual C++ Redistributable is a basic package required by Mod Orga
 - Download the following file: ` vc_redist.x64.exe`.
 - Run the executable, it will guide you through the installation process.
 
-![VC Redist](/Pictures/skyrim-se/initial-setup/vc-redists.png)
+![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
 
 ---
 
-#### Continue with the [Skyrim and Steam](/skyrim-se/initial-setup/skyrim-and-steam/) page.
+#### Continue with the [Skyrim and Steam](/tpf/initial-setup/skyrim-and-steam/) page.

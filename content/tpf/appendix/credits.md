@@ -29,8 +29,8 @@ description: >
 
 - Thanks to **Step** for setting up Hugo and Docsy, and creating the dark theme.
 - Thanks to **Kai** for implementing the theme toggle so that alsa and I can use light mode.
-- Thanks to **vaecors** for reminding me that Hugo would be a perfect solution and supporting us in setting it up.
 - Thanks to **Luna** who set up the proper domain and Cloudflare SSL on the Hugo website for us.
+- Thanks to **vaecors** for reminding me that Hugo would be a perfect solution and supporting us in setting it up.
 - Thanks to **erri120** without whom I might never have tried Github which turned out to be the perfect solution.
 
 ### Further Acknowledgements

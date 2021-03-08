@@ -27,7 +27,7 @@ Please note that installing the TPF setup by following the manual guide here on 
 
 > Thanks y'all so much for putting TPF and this community together! I haven't really been able to play modded Skyrim for a long time, with my job+modlist troubleshooting taking up so much time. TPF(+Wabbajack) made it work, and is stable and documented enough that I've been able to add a couple more mods on top with some degree of confidence it won't ctd and burn.
 
-![Sheo says thanks](/Pictures/skyrim-se/introduction/sheo-says-thanks.png)
+![Sheo says thanks](/Pictures/tpf/introduction/sheo-says-thanks.png)
 
 ### Modularity & Customisation
 
@@ -89,15 +89,15 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 
 ### TPF Wabbajack Installer
 
-While there is a lot that Wabbajack can automate, there are still some steps to complete in order to successfully set up Skyrim and TPF. These are covered in the [Wabbajack](/skyrim-se/wabbajack/) section. By using Wabbajack, you essentially skip the Initial Setup, Mod Installation, and Finalisation steps of the manual guide. However, you still need to configure your mods according to the [Mod Configuration](/skyrim-se/mod-configuration/) page just like users of the manual guide do.
+While there is a lot that Wabbajack can automate, there are still some steps to complete in order to successfully set up Skyrim and TPF. These are covered in the [Wabbajack](/tpf/wabbajack/) section. By using Wabbajack, you essentially skip the Initial Setup, Mod Installation, and Finalisation steps of the manual guide. However, you still need to configure your mods according to the [Mod Configuration](/tpf/mod-configuration/) page just like users of the manual guide do.
 
-![TPF WJ Flowchart](/Pictures/skyrim-se/introduction/tpf-guide-flowchart.png)
+![TPF WJ Flowchart](/Pictures/tpf/introduction/tpf-guide-flowchart.png)
 
 ## Alternatives
 
 The Phoenix Flavour is far from the only modding guide for Skyrim SE. However, the term "modding guide" itself is used quite liberately in the community with many small mod lists being referred to as such. These are often written by inexperienced people and lack crucial features such as custom patches or certain essential mods.
 
-Unequivocally recommended by us is [Lexy's Legacy of the Dragonborn](https://lexyslotd.com/). For more information on this and other guides, please check out my [brief overview over existing modding guides](/skyrim-se/guide-resources/modding-guides/) which lists recommended guides as well as some that should be avoided at all costs.
+Unequivocally recommended by us is [Lexy's Legacy of the Dragonborn](https://lexyslotd.com/). For more information on this and other guides, please check out my [brief overview over existing modding guides](/tpf/guide-resources/modding-guides/) which lists recommended guides as well as some that should be avoided at all costs.
 
 ### TPF Forks
 
@@ -145,6 +145,6 @@ In summary: Hardware requirements for 2K and especially 4k are considerable and 
 
 On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
 
-#### MANUAL GUIDE USERS: Get started with the [Prerequisites](/skyrim-se/initial-setup/prerequisites/) page.
+#### MANUAL GUIDE USERS: Get started with the [Prerequisites](/tpf/initial-setup/prerequisites/) page.
 
-#### WABBAJACK USERS: Get started with the [Setup](/skyrim-se/wabbajack/) page.
+#### WABBAJACK USERS: Get started with the [Setup](/tpf/wabbajack/) page.

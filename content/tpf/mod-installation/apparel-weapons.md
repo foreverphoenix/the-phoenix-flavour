@@ -286,7 +286,7 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 * Right-click **Scroll** and select **Remove**.
 * Close SSEEdit and click **OK** to save your changes.
 
-![Gemling Queen Jewelry - Delete Records in xEdit](/Pictures/skyrim-se/mod-installation/gqj-delete-wild-edit.png)
+![Gemling Queen Jewelry - Delete Records in xEdit](/Pictures/tpf/mod-installation/gqj-delete-wild-edit.png)
 
 ##### [JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8686?tab=files)
 

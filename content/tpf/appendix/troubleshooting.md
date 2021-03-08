@@ -10,7 +10,7 @@ description: >
 
 If by chance you are seeing the error message picture below, it is simply an issue of the required version of Microsoft Visual C++  framework not being installed correctly. To fix this, download the latest **x64** executable [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Run the downloaded executable and follow the prompts through the installation process.
 
-![CK Error VC Missing](/Pictures/skyrim-se/appendix/ck-error-vc-missing.jpg)
+![CK Error VC Missing](/Pictures/tpf/appendix/ck-error-vc-missing.jpg)
 
 ## Skyrim crashes upon launch.
 
@@ -25,11 +25,11 @@ One possible cause would be installing Simply Knock and accidentally skipping th
 
 #### Skyrim LE BSA
 
-Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/).
+Skyrim will immediately crash if you attempt to launch it with an active Skyrim LE BSA (compiled with the Skyrim LE Creation Kit). You can find instructions on how to quickly narrow down the culprit in [Resources >> Various Tutorials](/tpf/guide-resources/various-tutorials/).
 
 #### INI Files
 
-If none of the above helped, try regenerating your INI files from scratch. There are instructions under [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/).
+If none of the above helped, try regenerating your INI files from scratch. There are instructions under [Resources >> Various Tutorials](/tpf/guide-resources/various-tutorials/).
 
 ## Main menu music is playing but the screen is black.
 
@@ -37,7 +37,7 @@ This happens when VSYNC is enabled in enblocal.ini and conflicts with SSE Displa
 
 > VSYNC is enabled by default in SSE Display Fixes and disabled in the enblocal.ini so if you run into this issue chances are you messed with settings you do not fully understand.
 
-![Disable VSYNC enblocal.ini](/Pictures/skyrim-se/appendix/disable-vsync-enb-man.png)
+![Disable VSYNC enblocal.ini](/Pictures/tpf/appendix/disable-vsync-enb-man.png)
 
 ## Skyrim gets stuck in the main menu.
 
@@ -45,13 +45,13 @@ One of the more recent updates for the Unofficial Skyrim Special Edition Patch r
 
 If the main menu won't load, your load order is messed up, or you aren't using the CRP.
 
-![Stuck in Main Menu](/Pictures/skyrim-se/appendix/stuck-in-main-menu.jpg)
+![Stuck in Main Menu](/Pictures/tpf/appendix/stuck-in-main-menu.jpg)
 
 ## Lower FPS than expected.
 
 #### Playing at a resolution higher than 1080p.
 
-You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](/skyrim-se/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.
+You will experience a significant performance loss when playing on 1440p (or higher) compared to 1080p, around 20 FPS with TPF in my experience. Therefore I strongly recommend playing on 1080p even if your monitor is capable of a higher resolution. I'm personally doing just that on my 1440p monitor and it looks fine to me. Check [Resources >> Various Tutorials](/tpf/guide-resources/various-tutorials/) for instructions on how to quickly change the game's resolution.
 
 ## Skyrim launches in a small window.
 
@@ -65,7 +65,7 @@ To force your game to cover the entire screen, you need to change a setting in *
 - Scroll to **Line 57** and change `BorderlessUpscale=` to **True**.
 - Press **CTRL + S** to save and close the window.
 
-![Skyrim Windowed](/Pictures/skyrim-se/appendix/skyrim-windowed.png)
+![Skyrim Windowed](/Pictures/tpf/appendix/skyrim-windowed.png)
 
 ## Some beards look strange on Elven player characters.
 
@@ -93,4 +93,4 @@ By default, **Detailed Shadows** are disabled in Serio's ENB. This is my persona
 
 This happens when playing without ENB. Disable "Bright Waterfall Fix for ENB" under the **LANDSCAPE** separator.
 
-![Black Waterfall](/Pictures/skyrim-se/appendix/black-waterfall.jpg)
+![Black Waterfall](/Pictures/tpf/appendix/black-waterfall.jpg)

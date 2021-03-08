@@ -94,7 +94,7 @@ description: >
 
 > This will change the compass to a slimmer one and improve the arrow display. The crosshair will be turned into a simple dot.
 
-![SkyHUD Tweak](/Pictures/skyrim-se/mod-installation/skyhud-tweak.png)
+![SkyHUD Tweak](/Pictures/tpf/mod-installation/skyhud-tweak.png)
 
 ##### [QuickLoot](https://www.nexusmods.com/skyrimspecialedition/mods/21085?tab=files)
 
@@ -148,7 +148,7 @@ This is my personal preset for AMOT. It uses the slim clock widget to match the 
 
 Installing the preset won't prevent you from being able to configure the AMOT settings to your liking. It will only be applied if you load it through the MCM.
 
-![My AMOT Preset Preview](/Pictures/skyrim-se/mod-installation/amot-preset-preview.jpg)
+![My AMOT Preset Preview](/Pictures/tpf/mod-installation/amot-preset-preview.jpg)
 
 ##### [Shouts in the Dragon Tongue (SIDT)](https://www.nexusmods.com/skyrimspecialedition/mods/5515?tab=files)
 

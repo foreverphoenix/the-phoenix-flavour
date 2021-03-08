@@ -33,7 +33,7 @@ If you play with a controller, follow these instructions to revert the INI tweak
 
 - Click the puzzle icon in MO2 and select **INI Editor**.
 
-![Open INI Editor](/Pictures/fallout/customisation/mo2-ini-editor.png)
+![Open INI Editor](/Pictures/wtp/installation/mo2-ini-editor.png)
 
 - Switch to the **fallout4prefs.ini** tab and scroll down to the **[Display]** section.
 - Revert the following lines to the values shown below:
@@ -94,7 +94,7 @@ If you want to play at **1080p** or **2160p**, you need to change the resolution
 
 - Click the puzzle icon in MO2 and select **INI Editor**.
 
-![Open INI Editor](/Pictures/fallout/customisation/mo2-ini-editor.png)
+![Open INI Editor](/Pictures/wtp/installation/mo2-ini-editor.png)
 
 - Switch to the **fallout4prefs.ini** tab and scroll down to the **[Display]** section (see picture below).
 - Edit the following two lines with the respective values for your desired resolution:
@@ -115,12 +115,12 @@ iSize W=3840
 
 - Close the window and click **Yes** to save your changes.
 
-![Adjust resolution](/Pictures/fallout/installation/change-resolution.png)
+![Adjust resolution](/Pictures/wtp/installation/change-resolution.png)
 
 ### Ultrawide Monitor
 
-If you are playing on an 21:9 ultrawide monitor, please refer to the [Ultrawide Support](/fallout/wtp-resources/ultrawide/) page.
+If you are playing on an 21:9 ultrawide monitor, please refer to the [Ultrawide Support](/wtp/wtp-resources/ultrawide/) page.
 
 ---
 
-#### Continue with the [New Game](/fallout/installation/new-game/) page.
+#### Continue with the [New Game](/wtp/installation/new-game/) page.

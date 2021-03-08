@@ -19,7 +19,7 @@ In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod 
 
 Shortly after the character creation, you will get a prompt which is added by the mod **Start Me Up**. You will be asked whether you want to "relive the memory", giving you the option to skip the prologue. Do not select this option if you never played Fallout 4 before, you are going to miss some important things.
 
-If you want to play the regular Fallout 4 intro (highly recommended), click "This is a memory. Let's stay here a while" and the prologue will play out as usual. Proceed to the [Mod Configuration](/fallout/installation/mod-configuration/) page after exiting the vault.
+If you want to play the regular Fallout 4 intro (highly recommended), click "This is a memory. Let's stay here a while" and the prologue will play out as usual. Proceed to the [Mod Configuration](/wtp/mod-config/) page after exiting the vault.
 
 ### Start Me Up
 
@@ -29,18 +29,18 @@ If you do choose to skip the prologue because you have played it a hundred times
 
 #### **Interact with the terminal:**
 
-![SMU Terminal](/Pictures/fallout/installation/smu-terminal.jpg)
+![SMU Terminal](/Pictures/wtp/installation/smu-terminal.jpg)
 
 #### **Select your SPECIAL stats and enter your name:**
 
-![SPECIAL stats](/Pictures/fallout/installation/special-stats.jpg)
+![SPECIAL stats](/Pictures/wtp/installation/special-stats.jpg)
 
 #### **Open main door through the terminal:**
 
-![Open Door](/Pictures/fallout/installation/open-door.jpg)
+![Open Door](/Pictures/wtp/installation/open-door.jpg)
 
 Play through the intro as usual and continue with the **Mod Configuration** section after exiting the vault.
 
 ---
 
-#### Continue with the [Mod Configuration](/fallout/installation/mod-configuration/) page.
+#### Continue with the [Mod Configuration](/wtp/mod-config/) page.

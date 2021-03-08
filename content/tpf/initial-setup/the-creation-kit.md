@@ -15,7 +15,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 - Click the **Download** button in the **Bethesda Launcher** section.
 - Double-click the downloaded executable.
 
-![Download Beth Launcher](/Pictures/skyrim-se/initial-setup/download-beth-launcher.png)
+![Download Beth Launcher](/Pictures/tpf/initial-setup/download-beth-launcher.png)
 
 ## Installation
 
@@ -27,7 +27,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * The CK should be installed directly into your **root** folder (see picture).
 * Wait for the files to download.
 
-![Creation Kit Installation Path](/Pictures/skyrim-se/initial-setup/ck-installation-path.png)
+![Creation Kit Installation Path](/Pictures/tpf/initial-setup/ck-installation-path.png)
 
 ## Disable Auto Updates
 
@@ -37,7 +37,7 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 
 > The Bethesda Launcher is not required to launch the Creation Kit but it is used to update it and I recommend keeping it installed.
 
-![Disable Auto Updates](/Pictures/skyrim-se/initial-setup/ck-disable-auto-updates.png)
+![Disable Auto Updates](/Pictures/tpf/initial-setup/ck-disable-auto-updates.png)
 
 ## Custom INI
 
@@ -66,7 +66,7 @@ The Creation Kit installation includes a **Scripts.zip** which contains the sour
 * You will be asked to unpack **Scripts.zip**, click **Yes**.
 * Once that is done, you can close the Creation Kit.
 
-![CK Unpack Scripts](/Pictures/skyrim-se/initial-setup/ck-unpack-scripts.png)
+![CK Unpack Scripts](/Pictures/tpf/initial-setup/ck-unpack-scripts.png)
 
 ### Fixing Filepaths
 
@@ -75,8 +75,8 @@ The Creation Kit installation includes a **Scripts.zip** which contains the sour
 - Rename the **Scripts** folder inside to **Source**.
 - The resulting filepath should be `Skyrim Special Edition\Data\Scripts\Source`.
 
-![CK Script Source](/Pictures/skyrim-se/initial-setup/ck-script-source.png)
+![CK Script Source](/Pictures/tpf/initial-setup/ck-script-source.png)
 
 ---
 
-#### Continue with the [Mod Organizer 2](/skyrim-se/initial-setup/mod-organizer-2/) page.
+#### Continue with the [Mod Organizer 2](/tpf/initial-setup/mod-organizer-2/) page.

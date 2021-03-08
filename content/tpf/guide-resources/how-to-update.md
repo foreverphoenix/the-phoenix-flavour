@@ -19,7 +19,7 @@ It is possible to update Mod Organizer 2 without affecting your setup if you lea
   - `profiles\`
   - `ModOrganizer.ini`
 
-![MO2 Before Update](/Pictures/skyrim-se/guide-resources/mo2-before-update.png)
+![MO2 Before Update](/Pictures/tpf/guide-resources/mo2-before-update.png)
 
 ### Install the new version
 
@@ -44,7 +44,7 @@ In order to update CAO without removing the custom TPF profiles, simply do the f
 - Navigate to `Your Modding Folder\Tools\BethINI` and delete everything inside that folder.
 - Download the latest version of BethINI from the Nexus.
 - Open the archive and extract everything into the now empty BethINI folder.
-- Re-generate your INI files ([instructions here](/skyrim-se/guide-resources/various-tutorials/)).
+- Re-generate your INI files ([instructions here](/tpf/guide-resources/various-tutorials/)).
 
 ## DynDOLOD
 
@@ -64,7 +64,7 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 - Click **OK**, close the MCM, and go into an interior cell (any house or cave will do).
 - Save and quit the game.
 
-![Deactivate DynDOLOD](/Pictures/skyrim-se/guide-resources/deactivate-dyndolod.png)
+![Deactivate DynDOLOD](/Pictures/tpf/guide-resources/deactivate-dyndolod.png)
 
 ### Resaving without DynDOLOD
 
@@ -77,12 +77,12 @@ There is generally no need to update DynDOLOD and re-generate LOD for every new 
 **Wabbajack users:** At this point you can simply update by running Wabbajack and re-installing TPF over your existing setup. The steps below are for users of the manual guide.
 
 - Download the **DynDOLOD Resources SE** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page through MO2.
-- Re-install it ([FOMOD instructions are here](/skyrim-se/mod-installation/graphics-baseline/)) and **Replace** the existing installation when prompted.
+- Re-install it ([FOMOD instructions are here](/tpf/mod-installation/graphics-baseline/)) and **Replace** the existing installation when prompted.
 - Navigate to `Your Modding Folder\Tools\DynDOLOD` and delete everything inside the folder.
 - Download the **DynDOLOD** main file from the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) mod page manually.
 - Open the archive and extract everything into the now empty **DynDOLOD** folder.
-- Go back to the [DynDOLOD](/skyrim-se/finalisation/dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
-- Continue on the [Occlusion](/skyrim-se/finalisation/occlusion/) page from the **Generate Occlusion Data** step onwards.
+- Go back to the [DynDOLOD](/tpf/finalisation/dyndolod/) page in the Finalisation and follow all steps from **TexGen Configuration** onwards.
+- Continue on the [Occlusion](/tpf/finalisation/occlusion/) page from the **Generate Occlusion Data** step onwards.
 - After regenerating TexGen, DynDOLOD, and Occlusion, load your save, and continue your playthrough!
 
 > Since the folder wasn't changed, there is no need to update the file paths to the TexGen and DynDOLOD executables in MO2. They are still the same.
@@ -101,7 +101,7 @@ In order to update, you need to replace the DLLs and executable in the **root** 
 - Open the folder and delete everything inside.
 - Double-click the **Data** folder inside the SKSE archive and drag the **Scripts** folder inside into the empty folder.
 
-![Update SKSE](/Pictures/skyrim-se/guide-resources/update-skse.png)
+![Update SKSE](/Pictures/tpf/guide-resources/update-skse.png)
 
 ## Adamant - A Perk Overhaul
 

@@ -32,7 +32,7 @@ For a time it was necessary to use the executable and DLLs of the previous versi
 
 > Will Legacy of the Dragonborn ever be added to TPF?
 
-No. LOTD is the opposite of "vanilla plus" and does not fit into TPF at all. If you are interested in LOTD, check out [Elysium](https://github.com/TitansBane/Elysium) which started out as a TPF fork with LOTD.
+No. LOTD is the opposite of "vanilla plus" and does not fit into TPF at all. However, there is [Flavoured Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/45777), a LOTD patch for TPF by Codygits. If you are interested in LOTD with more content mods and EnaiRim, check out [Elysium](https://github.com/TitansBane/Elysium) which started out as a TPF fork with LOTD. 
 
 ## TPF Gameplay
 

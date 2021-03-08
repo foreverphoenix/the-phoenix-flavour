@@ -64,7 +64,7 @@ The official master files have a large amount of NPC records, not all of which n
 - Make sure the **NPCsWithFaces.js** script is selected.
 - Click **OK** to run the script.
 
-![zEdit NPC Script](/Pictures/skyrim-se/finalisation/zedit-npc-script.png)
+![zEdit NPC Script](/Pictures/tpf/finalisation/zedit-npc-script.png)
 
 ### Output
 
@@ -87,7 +87,7 @@ Now we get to the heart of the matter: Rebuilding facegen for all NPCs, vanilla 
 - Go to **File** >> **Data** and scroll all the way to the bottom of the load order in the left pane.
 - Select the **NPCsWithFaces.esp** and click the **Set as Active File** button, then click **OK** to load the plugin.
 
-![Open Plugin in CK](/Pictures/skyrim-se/finalisation/load-plugin-ck.png)
+![Open Plugin in CK](/Pictures/tpf/finalisation/load-plugin-ck.png)
 
 ### Filter NPC Records
 
@@ -98,7 +98,7 @@ Proceed when the CK has loaded up the plugin and its dependencies.
 
 > The option to filter for active forms is added by CK Fixes and it's ingenious. Checking it will make it so only records touched by the current active plugin are displayed which means we only see NPC records filtered out earlier in zEdit into the NPCsWithFaces plugin.
 
-![Filter NPC Records](/Pictures/skyrim-se/finalisation/filter-npc-records.png)
+![Filter NPC Records](/Pictures/tpf/finalisation/filter-npc-records.png)
 
 ### Export Facegen
 
@@ -112,7 +112,7 @@ Proceed when the CK has loaded up the plugin and its dependencies.
 
 > If you run into errors and crashes trying to export facegen, try going a few at a time. For example, you can go through by letter, exporting for NPCs starting with A, then B, and so forth.
 
-![Export Facegen](/Pictures/skyrim-se/finalisation/ck-export-facegen.png)
+![Export Facegen](/Pictures/tpf/finalisation/ck-export-facegen.png)
 
 ## Optimising Facegen
 

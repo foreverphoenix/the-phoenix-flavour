@@ -8,7 +8,7 @@ description: >
 
 ---
 
-#### **MAKE SURE YOU HAVE READ THE [ADDON PRIMER](/skyrim-se/tpf-addons/addon-primer) BEFORE YOU INSTALL ANYTHING.**
+#### **MAKE SURE YOU HAVE READ THE [ADDON PRIMER](/tpf/tpf-addons/addon-primer) BEFORE YOU INSTALL ANYTHING.**
 
 ---
 

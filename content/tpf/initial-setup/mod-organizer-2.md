@@ -19,7 +19,7 @@ Installing MO2 with a portable instance means all of its subdirectories will be 
 * Confirm when asked to associate NXM links with MO2.
 * Click **No** when prompted with the tutorial option.
 
-![MO2 Choose Instance](/Pictures/skyrim-se/initial-setup/mo2-choose-instance.png)
+![MO2 Choose Instance](/Pictures/tpf/initial-setup/mo2-choose-instance.png)
 
 ## Configuration
 
@@ -49,7 +49,7 @@ In the mod order (left pane), arrange the DLC as follows:
 * Close the **Settings** window.
 * Mod Organizer 2 may ask you to restart. Click **OK**.
 
-![Authorise MO2](/Pictures/skyrim-se/initial-setup/authorise-mo2.png)
+![Authorise MO2](/Pictures/tpf/initial-setup/authorise-mo2.png)
 
 ## Manage Mod Downloads
 
@@ -65,7 +65,7 @@ Here is where our **ARCHIVE** comes into play, the directory inside **Your Moddi
 * Switch to the **Paths** tab.
 * Point **Downloads** to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 
-![MO2 Archive](/Pictures/skyrim-se/initial-setup/mo2-archive.png)
+![MO2 Archive](/Pictures/tpf/initial-setup/mo2-archive.png)
 
 ## User Interface
 
@@ -90,7 +90,7 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 * **Source Game**
 * **Priority**
 
-![MO2 Customized](/Pictures/skyrim-se/initial-setup/mo2-customised.png)
+![MO2 Customized](/Pictures/tpf/initial-setup/mo2-customised.png)
 
 ## Custom Profiles
 
@@ -117,7 +117,7 @@ By right-clicking the top of the left pane, you can choose what to display in yo
 
 > This new profile is separate from your vanilla install. It uses its own directories for INI and save files.
 
-![MO2 Select New Profile](/Pictures/skyrim-se/initial-setup/mo2-select-new-profile.png)
+![MO2 Select New Profile](/Pictures/tpf/initial-setup/mo2-select-new-profile.png)
 
 ## Separators
 
@@ -128,7 +128,7 @@ Mod Organizer 2 offers a separator feature which greatly helps with organising y
 - Click **OK** and the new separator will appear at the bottom of your mod order.
 - Select your new separator and move it per drag-and-drop above the three DLC.
 
-![MO2 Create Separator](/Pictures/skyrim-se/initial-setup/mo2-create-separator.png)
+![MO2 Create Separator](/Pictures/tpf/initial-setup/mo2-create-separator.png)
 
 ### Colour Customisation
 
@@ -149,4 +149,4 @@ While we're at it, we should create another separator which we'll need in the ne
 
 ---
 
-#### Continue with the [Skyrim Script Extender](/skyrim-se/initial-setup/skyrim-script-extender/) page.
+#### Continue with the [Skyrim Script Extender](/tpf/initial-setup/skyrim-script-extender/) page.

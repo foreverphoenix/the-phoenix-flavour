@@ -88,7 +88,7 @@ After re-installing the game, it is important to launch it at least once through
 - You will be prompted with a notification that Fallout 4 is configuring your video options, click **OK**.
 - Click **OK** again to the next window and hit **Exit** to close the launcher.
 
-![Regenerate INIs](/Pictures/fallout/installation/regenerate-inis.png)
+![Regenerate INIs](/Pictures/wtp/installation/regenerate-inis.png)
 
 ## Future Updates
 
@@ -123,7 +123,7 @@ Bethesda published a free 55GB texture pack with upscaled 4K textures that are n
 - Go to the **Fallout 4** page and click **Manage my 8 DLC**.
 - Uncheck **Fallout 4 - High Resolution Texture Pack** in the list and click **Save**.
 
-![Disable HD DLC](/Pictures/fallout/installation/disable-hd-dlc.png)
+![Disable HD DLC](/Pictures/wtp/installation/disable-hd-dlc.png)
 
 ## Creation Club Content
 
@@ -134,4 +134,4 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 
 ---
 
-#### Continue with the [Wabbajack](/fallout/installation/wabbajack/) page.
+#### Continue with the [Wabbajack](/wtp/installation/wabbajack/) page.
