@@ -145,6 +145,12 @@ In this MCM, you can set a hotkey to go into Photo Mode and change its position 
 
 ![Photo Mode MCM](/Pictures/wtp/mod-config/photo-mode-mcm.jpg)
 
+## Photo Mode
+
+In this MCM, you can set a hotkey to go into Photo Mode and change its position in the Pause menu. Feel free to make changes or leave the settings at default.
+
+![Photo Mode MCM](/Pictures/wtp/mod-config/photo-mode-mcm.jpg)
+
 ## Workshop Framework
 
 ### Settlement Gameplay
