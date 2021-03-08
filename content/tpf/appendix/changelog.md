@@ -6,6 +6,31 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Site Update
+
+> 08/03/2021
+
+I finally did some spring cleaning. For the longest time it annoyed me that in my original folder structure I had categorised pages by games, for example the TPF part of the website was called "Skyrim SE" in the top menu. But what if I want to start another SE project? And you don't want to know the chaos in my pictures folder either.
+
+The reason I hesitated for so long to change the folder names is because it breaks every, single, link. And while fixing the internal links and file paths was merely a minor annoyance, fixing all external links is more difficult - especially considering that other people may link to TPF as well and those links are now broken. Of course I also need to recompile both TPF and WTP for Wabbajack to update the links that open automatically upon installing a Wabbajack list.
+
+Well, I finally updated now and I'm very happy with the changes. It likely will take some time for all external links to get fix plus I suspect I may have missing some internal links and file paths.
+
+#### Changes
+
+- Removed the Bioware section (see below).
+- Renamed "Skyrim SE" to "The Phoenix Flavour" (link changed from skyrim-se to tpf).
+- Renamed "Fallout 4" to "Welcome to Paradise" (link changed from fallout to wtp).
+- Updated all internal links and file paths - hopefully.
+- Cleaned up my pictures folder to remove any pictures that are no longer in the guide.
+- Updated the home page, it has two buttons now and a combination of the TPF and WTP pics.
+
+#### Bioware
+
+The current state of things is that I have published a guide for ME1 with a draft for an ME2 version waiting for revision. But here's the thing: Modding Bioware games is quite different from modding Bethesda games. I've only really dipped my toes in it and wouldn't call myself an expert by any stretch of the imagination. Something I often criticise about various smaller Skyrim modding "guides" is that their authors barely know what they're doing. It occured to me that my Mass Effect "guides" are in essence the same thing ~~with better formatting~~.
+
+To keep a longer story short, I have developed a strong sense of imposter syndrome over those excursions into Bioware land that is causing me a fair amount of stress. Something I've learned over the past couple years is that if you have too many things putting pressure on you at once, cut out everything that's non-essential. Well, this time the scissors are for the Bioware section of the TPF website.
+
 ## Release 4.4.2
 
 > 07/03/2021
