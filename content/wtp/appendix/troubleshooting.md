@@ -6,9 +6,7 @@ description: >
   Problems and how to solve them.
 ---
 
-## Known Issues
-
-### Getting stuck when interacting with a terminal
+## Getting stuck when interacting with a terminal
 
 *This is not a WTP-specific issue.*
 
@@ -16,10 +14,36 @@ Occasionally you may get stuck when attempting to access a terminal. This can be
 
 ![Stuck Terminal](/Pictures/fallout/appendix/stuck-terminal.jpg)
 
-### Subtitles get stuck during first Minutemen quest
+## Subtitles get stuck during first Minutemen quest
 
 *This is not a WTP-specific issue.*
 
 When talking to Preston and Sturges in the Museum of Freedom, the subtitles usually get stuck for a time during the conversation. This happens in vanilla too and cannot be fixed as far as I know.
 
 ![Subtitles Stuck](/Pictures/fallout/appendix/subtitles-stuck.jpg)
+
+## Issues with the Pip-Boy map when playing with a controller
+
+By default, the Pip-boy UI is of a [pitifully low resolution](https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1609598190-107962601.jpeg). Unfortunately, increasing it will cause a bug when playing with a controller that restrict the cursor to the upper left corner on the Pip-boy map.
+
+You can work around this by turning off your controlling, opening your map, then turning it back on again.
+
+The alternative is to revert the high resolution tweak in the INI files. To do so, follow these instructions:
+
+- Open the **INI Editor** in Mod Organizer 2.
+- Click on the **fallout4prefs.ini** tab.
+- Scroll down to the `[Display]` section.
+- Revert the values for the Pip-boy height and width to the default (see below).
+
+```
+uPipboyTargetHeight=700
+uPipboyTargetWidth=876
+```
+
+- Click the **Save** button at the bottom and close the window.
+
+![Map Cursor Stuck](/Pictures/fallout/appendix/map-gamepad.jpg)
+
+## Flickering puddles
+
+This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), but the bug still occurs and I'm honestly clueless.

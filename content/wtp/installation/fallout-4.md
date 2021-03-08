@@ -12,17 +12,17 @@ In order to ensure that your Fallout 4 installation is pristine and vanilla, we 
 
 ### UAC protected folders
 
-The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC protected folders (such as `C:\Program Files` or `C:\Program Files x86`) for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, including myself, will not provide support for people that disregard this warning and use UAC protected folders anyway.
+The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC protected folders (such as `C:\Program Files` or `C:\Program Files x86`) for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people that disregard this warning and use UAC protected folders anyway.
 
 Note that this does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam` which is completely fine.
 
 ### Preferred hard drive
 
-Fallout 4 and Mod Organizer 2 should always be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
+Fallout 4 and Mod Organizer 2 should be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
 
 ## Uninstallation
 
-Skip this if you do not have Fallout 4 installed.
+> Skip this if you do not have Fallout 4 installed.
 
 - Open Steam and go into your games library.
 - Find **Fallout 4** in the list, right-click it and select **Manage** >> **Uninstall**.
@@ -43,8 +43,6 @@ Skip this if you do not have Fallout 4 installed.
 > You can simply move the **Saves** folder to **Fallout 4 Modding\Backups**.
 
 ## Reinstallation
-
-### What is a Steam Library?
 
 In order to prevent some confusion, I will refer to the Library in Steam as the **Game Library**. It is the second of four items in the top menu in the Steam client and contains a list of all your games.
 
@@ -72,7 +70,7 @@ Non-English installations of Fallout 4 are not supported.
 - Select **Properties** and switch to the **Langauge** tab.
 - Ensure that the language is set to **English**.
 
-![Fallout English](/Pictures/fallout/installation/fallout-english.png)
+![Fallout English](/Pictures/wtp/installation/fallout-english.png)
 
 ### Reinstalling the game
 
@@ -88,13 +86,13 @@ After re-installing the game, it is important to launch it at least once through
 
 - Find **Fallout 4** in your **Games Library** and hit **Play**.
 - You will be prompted with a notification that Fallout 4 is configuring your video options, click **OK**.
-- Click **OK** again to the next window and hit **Exit** to close the launcher again.
+- Click **OK** again to the next window and hit **Exit** to close the launcher.
 
 ![Regenerate INIs](/Pictures/fallout/installation/regenerate-inis.png)
 
 ## Future Updates
 
-The most important mod for any Bethesda game is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE 0.6.21 *requires* Fallout 4 1.10.163, and will not work with any other version of the game.
+The most important mod for most Bethesda games is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE 0.6.21 *requires* Fallout 4 1.10.163, and will not work with any other version of the game.
 
 Unfortunately any update for the Creation Club requires the game executables to be updated which breaks F4SE every time. When that happens, the Script Extender team usually updates F4SE within a few days. Any F4SE plugins will have to be updated by their respective authors as well which can take several weeks.
 
@@ -104,19 +102,17 @@ In order to prevent Creation Club updates from interrupting your playthrough and
 
 - Open Steam and find **Fallout 4** in your **Game Library**.
 - Right-click it and select **Properties**
-- In the **Updates** tab, change **Automatic updates** to the following setting:
-  - Only update the game when I launch it
+- In the **Updates** tab, change **Automatic updates** to **Only update this game when I launch it**.
 - Close the **Properties** window.
 
-![Steam Disable Auto Updates](/Pictures/fallout/installation/steam-disable-auto-updates.png)
+![Steam Disable Auto Updates](/Pictures/wtp/installation/steam-disable-auto-updates.png)
 
 ### Executables Backup
 
 Although Steam will no longer update Fallout 4 automatically, I still recommend keeping backups of the two executables (**Fallout4.exe** and **Fallout4Launcher.exe**), just in case. If you accidentally updated, all you need to do to roll back is replace the executables in your **root** folder with the ones you backed up. This also comes in handy if you had to regenerate INI files or validate game files through Steam for whatever reason and were forced to update.
 
-- Navigate to `steamapps\common\Fallout4` and copy (CTRL + C) the following files:
-  - **Fallout4.exe**
-  - **Fallout4Launcher.exe**
+- Navigate to your root folder: `Steam\steamapps\common\Fallout4`.
+- Copy (CTRL + C) **Fallout4.exe** and **Fallout4Launcher.exe**.
 - Paste (CTRL + V) them to `Fallout 4 Modding\Backups\Executables 1.10.163.0`.
 
 ## Official High Resolution Texture Pack

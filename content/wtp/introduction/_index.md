@@ -9,28 +9,38 @@ description: >
 
 ## Overview
 
-**Welcome to Paradise** (WTP) is a Wabbajack mod list for Fallout 4 featuring well over 300 mods. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. The setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
+**Welcome to Paradise** (WTP) is a Wabbajack minimalistic mod list for Fallout 4 featuring well over 300 mods*. In accordance with the vanilla-plus concept, mods were selected to improve existing parts of the game rather than outright replacing them while some aspects were edited more heavily than others. The setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS on 1440p on reasonably modern hardware.
 
-WTP comes with an extensive documentation (of which you are reading the introduction right now) and you are expected to read certain parts, specifically all pages of the **Installation** section. If you decide to use any of the included customisation option, do so only after consulting the **Customisation** pages.
+WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section.
 
 > **Unlike its Skyrim SE counterpart, my Fallout 4 setup is Wabbajack-exclusive.** There is no manual installation guide and there will likely never be one as I do not have the time to maintain two modding guides.
+
+\* *Only around 280 mods are shown in Mod Organizer 2 which is due to the fact that several dozen mods packed into custom BA2s are missing from the count as they are not installed and activated separately.*
 
 ### Useful Links
 
 - Join us on the official [Phoenix Flavour Discord](https://discord.com/invite/BpwXX5f) for support, feedback, and modding discussions.
 - You can find a list of all included mods in my [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Tk_hG2uIKfgWg_E5WluY4OJCF5uyI_9A-_DOWLC8b-E/edit#gid=517612070).
-- Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion.
+- Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion (see "State of the List").
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
+
+### State of the List
+
+**Please note that WTP is not currently in active development.**
+
+With the 1.5 update published in March 2021, I have brought WTP up-to-date with the latest developments in the modding scene. For the forseeable future, I do not intend to work on WTP beyond the occasional maintenance update (which will hopefully not take as long as 1.4.1 > 1.5 took). At present, I am a great deal more involved with my Skyrim SE guide The Phoenix Flavour and haven't felt the "Fallout itch" in altogether too much time. If or rather when it returns (as it always does), there may be a 2.0 update but that's all speculation.
+
+At present, WTP is in a good state where it delivers solid performance, stability, and reasonable improvements of the vanilla game.
 
 ### About the name
 
 Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallout 4" or occasionally just "Phoenix Fallout". This was primarily because yours truly lacked the creativity to come up with a proper name in time for the public release. But a little over a month later I figured one out after all:
 
-**[Welcome to Paradise](https://youtu.be/Olli9bETzXk)** is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whom I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
+**[Welcome to Paradise](https://youtu.be/Olli9bETzXk)** is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whose work I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
 
 ## What is Wabbajack?
 
-Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without directly sharing any of the source files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
+Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
 
 Using Wabbajack is much easier than following a manual installation guide **but it doesn't absolve you from reading.**
 
@@ -41,6 +51,7 @@ Using Wabbajack is much easier than following a manual installation guide **but 
 -  Adventure with Dogmeat and one other companion as originally intended by Bethesda.
 -  Many custom file edits and patches for a coherent experience.
 -  VIS-based sorting overhaul with a custom keywords resource.
+-  Modern interface with the new FallUI mods.
 -  Simple implementation of crafting stations with support for included mods.
 -  Faster workshop system with better object placement and new stuff to build.
 -  Power armors are more rare. Paint and material mods were split.
@@ -82,3 +93,5 @@ You can see the details of my setup below, sufficient for playing at 1440p with 
 | SSD 1     | Samsung EVO 850 Series 256GB SSD (OS)         |
 | SSD 2     | Samsung EVO 860 Series 1000GB SSD (Games)     |
 | Monitor   | LG 27GL850-B UltraGear 1440p @144Hz           |
+
+> I have since upgraded my GPU to a ridiculous RTX 3080 which is certainly NOT required to play WTP at a stable frame rate.

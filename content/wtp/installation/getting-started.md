@@ -6,7 +6,9 @@ description: >
   Requirements and preliminary instructions.
 ---
 
-While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
+## Warning
+
+While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and **you are expected to follow it to the letter**.
 
 ## Requirements
 
@@ -18,7 +20,9 @@ Grab a cup of coffee and let's get started.
 
 ## Modding Folder
 
-- On a hard drive with plenty of free space (that is not your SSD), create a new folder called **Fallout 4 Modding**.
+As usual, I recommend creating a dedicated folder that will hold all files *except* for the actual Mod Organizer 2 setup holding all mods. Since these files are exclusively downloads and backups, there is no need to use an SSD. Speed is not required and it would a waste of space.
+
+- On a hard drive with at least 30GB of free space, create a new folder called **Fallout 4 Modding**.
 - Create several more folders inside:
   - `Fallout 4 Modding\Downloads`
   - `Fallout 4 Modding\Backups\Creation Club`
@@ -36,8 +40,8 @@ Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable.
 - Run downloaded executable. It will guide you through the installation process.
 - You may have to restart your computer in order to finalise the installation.
 
-![VC Redists](/Pictures/wtp/installation/vc-redists.png)
+![VC Redists](/Pictures/fallout/installation/vc-redists.png)
 
 ---
 
-#### Continue with the [Fallout 4](/wtp/installation/fallout-4/) page.
+#### Continue with the [Fallout 4](/fallout/installation/fallout-4/) page.

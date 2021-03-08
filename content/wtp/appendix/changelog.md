@@ -6,6 +6,84 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.5
+
+> 06/03/2021
+
+#### Mod Changes
+
+- Updated Mod Organizer 2 to 2.4.0
+- Tweaked Pipboy INI settings (increased resolution, disabled fx)
+- Added Mator's xEdit Patching Framework
+- FO4Edit cache is now saved into the Tools\FO4Edit folder
+- Updated xSE Plugin Preloader to 0.2.4
+- Changed xSE Plugin Preloader load method to OnThreadAttach
+- Updated Buffout to 1.20.3
+- Updated the Unofficial Fallout 4 Patch to 2.1.2b
+- Updated High FPS Physics Fix to 0.8.0
+- Removed additional High FPS Physics Fix INIs
+- Default settings for WTP are now 60FPS and no VSYNC
+- Documentation includes instructions to change the settings
+- Reinstalled DEF_UI and only chose DEF_HUD
+- Reverted to vanilla DEF_UI profile
+- Added FallUI
+- Added FallUI Workbench
+- Added FallUI Map
+- Re-added LooksMenu
+- Added Better Confirm Boxes for PC
+- Added TRUBY9 ULTRAWIDE DEF_UI Fix
+- Added Better Confirm Boxes for PC - Widescreen Patch
+- Added Neutral Look Up Tables LUT
+- Added Fallout 4 Enhanced Color Correction
+- Added Retro Radio Replacer
+- Added Classic Wasteland Survival Guide - Magazine Retexture
+- Added U.S. Covert Operations Manual - Magazine Retexture
+- Added Total Hack - Magazine Retexture
+- Added The Hunting Rifle Set
+- Added The Ballistic Series
+- Added Fixed Creature Death Drops
+- Added FO4 Photo Mode
+- Updated Workshop Framework to 2.0.10
+- Updated Simple Sorting Overhaul to 2.0
+- Updated Wetness Shader Fix to 3.3
+- Updated Sprint Stuttering Fix to 1.2
+- Updated Hazmat Suit Redux to 0.1
+- Updated Skeletal Adjustments for CBBE to 2.0
+- Updated What's Your Name to 1.11.1
+- Updated Fixed and Cleaned Homeplate to 2.1
+- Updated LOST Audio Tweaks to 1.6.2
+- Updated LOST Audio Tweaks - True Storms and RAO Patch to Beta
+- Removed Pip-Boy Dual Color section
+- Removed Small Map Markers
+- Removed The Humble Hunting Rifle
+- Removed ScratchMade - New Combat Shotgun and Rifle Textures 
+- Removed The Top-Notch Tommy Gun
+- Removed Assault Rifle Retexture 2K
+- Removed HUD Customisation stuff
+- Repacked the Clutter BA2s
+- Repacked the Weapon BA2s
+- Changed ENB hotkeys to mirror TPF's
+
+#### Simple Sorting Overhaul
+
+As we have now switched to FallUI from DEF_INV, I updated my INNRs (naming rules) to have the same format as Ruddy's sorting patcher that FallUI was intended for. That means mods for armors and weapons will be displayed in smaller font below the item name.
+
+I did take a look at the [Complex Sorter](https://www.nexusmods.com/fallout4/mods/48826) for FallUI which would be very convenient for me but ultimately I prefer my own icons and INNRs. Plus they already cover my power armor changes and include my preferred power armor naming scheme.
+
+#### Website Changes
+
+I went over all pages and fixed what I thought needed fixing. Screenshots were updated, sentences were rephrased, and instructions were clarified.
+
+- **Finalisation:** Added instructions for the optional LUTs.
+- **Finalisation:** Added Controller Fix instructions (required because of an issue with FallUI).
+- **Finalisation:** Expanded FPS and VSYNCs instructions (they are DIY now).
+- **New Game:** Removed Hotkey instructions. No longer necessary with TPF ENB hotkeys.
+- **Mod Configuration:** Added instructions for Photo Mode.
+- Renamed the "Documentation" section to "Resources".
+- **Ultrawide:** Moved this page to the Resources section.
+- **Customisation:** Removed this section. Use the FallUI MCM to customise your UI.
+- **Troubleshooting:** Added a note about flickering puddles.
+
 ## Release 1.4.1
 
 > 26/11/2020
