@@ -6,6 +6,14 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.5.1
+
+> 08/03/2021
+
+I fixed some errors in `Power Armor Lore-Friendly Distribution.esp` by reverting the levelled lists for Atom Cats power armor to vanilla. That means they'll be wearing T-60 armor again (instead of T-51). I know I had Atom Cats T-51 armor *somewhere* but it seems to have gotten lost, resulting in these errors. I fully admit that this is a lazy solution but it works and that was always enough for Todd anyway.
+
+While recompiling for WJ, I also updated the links to the website (see below).
+
 ## Global Site Update
 
 > 08/03/2021
