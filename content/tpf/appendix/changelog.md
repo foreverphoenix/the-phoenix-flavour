@@ -6,7 +6,7 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
-## Site Update
+## Global Site Update
 
 > 08/03/2021
 
