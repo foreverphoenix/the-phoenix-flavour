@@ -29,6 +29,15 @@ description: >
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
 
+#### INI Tweaks
+
+- Double-click **SSE Engine Fixes** in your mod order.
+- Switch to the **Text Files** tab and select the **EngineFixes.toml**.
+- In **Line 13**, set **Regular Quicksaves** to **true**.
+- Close the window and click **Yes** when asked to save.
+
+> This is done so that quicksaves have proper names and stop overwriting each other.
+
 ##### [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
 #### Download Instructions
@@ -65,6 +74,8 @@ description: >
 
 The first set of console commands we want run automatically can be added now (more mod-related ones will come later). [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524) merely changes two existing game settings which can simply edited through the console, thus removing the need for an additional plugin.
 
+The third command will disable an effect called "character lighting" which i
+
 - Double-click **Autorun Console Commands** in Mod Organizer 2.
 - Switch to the **Textfiles** tab and select the **Autorun.txt** file.
 - Add the following two lines in the text field:
@@ -72,6 +83,7 @@ The first set of console commands we want run automatically can be added now (mo
 ```
 SetGS fSandboxCylinderTop 576
 SetGS fSandboxCylinderBottom -576
+cl off
 ```
 
 - Close the window and click **Yes** when asked to save.

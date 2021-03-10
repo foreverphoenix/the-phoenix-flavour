@@ -109,4 +109,4 @@ description: >
 
 #### FOMOD Instructions
 
-- **Select Transparency in %:** 95% (personal choice)
+- **Select Transparency in %:** 80%

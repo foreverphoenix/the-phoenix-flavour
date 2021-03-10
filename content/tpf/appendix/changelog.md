@@ -6,6 +6,71 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.4.3
+
+> 10/03/2021
+
+This update was originally intended to be a bit longer but there you go. Most importantly, TPF now supports MO2 2.4.0, the latest update.
+
+**This update is save-safe.**
+
+#### Update Instructions
+
+For manual guide users only.
+
+- Follow [these instructions](/tpf/guide-resources/how-to-update/#mod-organizer-2) to update your Mod Organizer 2 instance to 2.4.0 without losing your setup.
+- Regenerate the **NPCsWithFaces.esp** with the three added plugins and rebuild facegen.
+- Rename the **FINAL PATCH** separator to **FINAL PATCHES**. Makes more sense when you also have Addon patches.
+
+#### Initial Setup
+
+- **Mod Organizer 2:** Updated download and installation instructions for MO2 2.4.0.
+- **Mod Organizer 2:** Added the BSA Unpacker section.
+- **Mod Organizer 2:** Removed Manage Mod Downloads section (part of the installer now).
+- **Skyrim Script Extender:** Fixed link to the SKSE INI to also lead directly to the file section.
+
+#### Mod Installation
+
+- **Instructions:** Improved general layout of the page for better readability.
+- **Instructions:** Added small note about collapsible separators.
+- **Essential Mods:** Added instructions to enable Regular Quicksaves in SSE Engine Fixes.
+- **Essential Mods:** Added cl off to the commands for Autorun.
+- **Weather:** Updated Wonders of Weather - Less Opaque Rain Splashes for ENB FOMOD instructions (95% >> 80%).
+- **Trees & Plants:** Added Canticle Tree and Bark (undocumented 4.4.2 addition).
+- **Dungeons:** Removed instructions to merge update with main file for Ancient Dwemer Metal - My Patches.
+- **Dungeons:** Removed part of the additional instructions for Ancient Dwemer Metal - My Patches (no longer necessary).
+- **Gameplay Overhauls:** Updated FOMOD instructions for Reliquary of Myth (now using the SPID Patches).
+
+#### Finalisation
+
+- **Wrapping Up:** Renamed the FINAL PATCH separator to FINALE PATCHES.
+- **Facegen:** Slightly reworded some instructions.
+- **Facegen:** Added a warning about required space on your hard drive for the facegen instructions.
+- **Facegen:** Added three missing plugins with new NPCs to the NPCsWithFaces instructions.
+- **Facegen:** Updated CK screenshot to reflect the above change.
+
+#### Mod Configuration
+
+- Updated the A Matter of Time instructions to account for the script tweak disabling the clock by default.
+- Removed Storm Lightning instructions (Ultra Realistic preset is now selected by default).
+
+#### Resources
+
+- **How to Update:** Slightly improved the updating instructions for Mod Organizer 2.
+
+#### Conflict Resolution Patch
+
+- Disabled the "Bless Home" spell from Hearthfire Multiple Adoptions (thanks Delta!)
+
+#### Wabbajack Installer
+
+- Updated the links to the website / readme in the installer
+- Updated Improved Sparks - Vanilla Grindstone to 3.0.1
+- Updated Cathedral Armory - TPF Repack to 1.1.2
+- Updated Cathedral Armory - Armor Mesh Fixes Patch to 1.02
+- Updated Reliquary of Myth to 3.7.3
+- Regenerated facegen
+
 ## Global Site Update
 
 > 08/03/2021
@@ -62,7 +127,7 @@ I also added **Practical Female Armor** meshes patched for Cath Armory by **Asat
 - **Clutter:** Fixed a typo in the additional instructions for Realistic HD Blacksmith Remastered.
 - **Valuable Items:** Moved Septim HD here.
 - **Valuable Items:** Moved all mods that were below Business Ledger HD Retexture in CLUTTER here.
-- **Valuable Items:** Added Drawing Knife Retexture.
+- **Valuable Items:** Added Draw Knife Retexture.
 - **Apparel & Weapons:** Added Armor Mesh Fixes.
 - **Apparel & Weapons:** Added instructions to download the Armor Mesh Fixes patch from the Cathedral Armory mod page.
 - **Apparel & Weapons:** Removed instructions to download the hotfix from LeanWolf's Better-Shaped Weapons (will be overwritten anyway).

@@ -86,7 +86,7 @@ description: >
 
 * Double-click **SkyHUD** in your mod order.
 * In the **Text Files** tab, select the **skyhud.txt**.
-* In the [Interface] section, edit the following lines:
+* In the **[Interface]** section, edit the following lines:
   * `bAltArrow=1`
   * `bAltCompass=1`
   * `bDotCrosshair=1`

@@ -202,7 +202,7 @@ description: >
   - `textures\weapons\ebony\ebony shield_m.dds`
   - `textures\weapons\ebony\ebony shield_n.dds`
 
-> We are removing the mod's textures in favour of aMidiaBorn's for consistency with aMidianBorn Variants which adds gold and silver Ebony variations.
+> We are removing the mod's textures in favour of aMidianBorn's for consistency with aMidianBorn Variants which adds gold and silver Ebony variations.
 
 ##### [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files)
 
@@ -247,7 +247,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through SSE NIF Optimizer.
+* Run the mod through **SSE NIF Optimizer**.
 
 > Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliably fixes all meshes.
 

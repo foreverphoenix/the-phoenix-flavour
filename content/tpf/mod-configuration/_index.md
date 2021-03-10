@@ -10,11 +10,9 @@ description: >
 
 ## A Matter of Time
 
-You can either:
+The clock is hidden by default thanks to Kaio's edit of the MCM script so you only have to interact with its MCM if you want to enable it. You can tweak it or simply load my preset.
 
-- Configure the clock widget to your liking.
-- Untick **Show** for each module in the **General** tab to hide it completely.
-- If you installed my personal AMOT preset, go to **Presets** and click **Load user settings** (see screenshot).
+If you want to try my personal AMOT preset, go to **Presets** and click **Load user settings** (see screenshot).
 
 ![Load AMOT Preset](/Pictures/tpf/mod-configuration/load-amot-preset.jpg)
 
@@ -57,14 +55,6 @@ Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following option
 * Rorikstead
 
 ![Realistic Water 2 MCM](/Pictures/tpf/mod-configuration/rwt-mcm.jpg)
-
-## Storm Lightning
-
-By default, the lightning storms with this mod are pretty intense. I'd suggest changing to a different preset (above "default") to tone them down a little.
-
-- Under **Presets**, select any one on one of the options.
-
-![Storm Lightning MCM](/Pictures/tpf/mod-configuration/storm-lightning-mcm.jpg)
 
 ## Timing Is Everything
 

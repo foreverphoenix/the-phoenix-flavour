@@ -246,7 +246,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through SSE NIF Optimizer.
+* Run the mod through **SSE NIF Optimizer**.
 
 ##### [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files)
 
