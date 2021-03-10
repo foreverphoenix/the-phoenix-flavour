@@ -77,7 +77,7 @@ The first set of console commands we want run automatically can be added now (mo
 The third command will disable a fairly ugly effect called "character lighting".
 
 - Double-click **Autorun Console Commands** in Mod Organizer 2.
-- Switch to the **Textfiles** tab and select the **Autorun.txt** file.
+- Switch to the **Text Files** tab and select the **Autorun.txt** file.
 - Add the following two lines in the text field:
 
 ```

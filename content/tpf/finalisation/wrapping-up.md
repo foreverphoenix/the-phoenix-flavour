@@ -10,7 +10,7 @@ description: >
 
 - Create a **FINAL PATCHES** separator in Mod Organizer 2.
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
-- Install it as usual, place it last below the **FINAL PATCH** separator, and activate it.
+- Install it as usual, place it last below the **FINAL PATCHES** separator, and activate it.
 
 ## Load Order TXT
 
