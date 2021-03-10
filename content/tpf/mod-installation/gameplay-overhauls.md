@@ -96,8 +96,8 @@ description: >
 * **ICH Patches:**
   * None
 * **SPID Patches:**
-  * ~~ROM - SPID Patch~~
-  * ~~ROM - SPID DPM Patch~~
+  * ROM - SPID Patch
+  * ROM - SPID DPM Patch
 * **Optional Patches:**
   * ~~ROM - WMA Patch~~
 

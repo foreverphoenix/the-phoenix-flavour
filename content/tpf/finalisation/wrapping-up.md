@@ -8,7 +8,7 @@ description: >
 
 ## Conflict Resolution Patch
 
-- Create a **FINAL PATCH** separator in Mod Organizer 2.
+- Create a **FINAL PATCHES** separator in Mod Organizer 2.
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
 - Install it as usual, place it last below the **FINAL PATCH** separator, and activate it.
 
@@ -37,7 +37,7 @@ In Mod Organizer 2, check the notification icon in the top right corner (see scr
 There are multiple different warnings that you may encounter:
 
 - **Missing Masters:** One of your plugins is missing a master file. It is marked with an exclamation mark in your load order. This is most likely due to skipping a mod that was not optional or selecting the wrong option in a FOMOD installer. Go back to the mod’s instructions in the guide and double-check everything.
-- **Form 43 Plugin:** You forgot to re-save one or several plugins in the Creation Kit. Re-save them now.
+- **Form 43 Plugin:** You forgot to re-save plugins in the Creation Kit. Re-save them now.
 - **Outdated SKSE Plugin:** Check the plugin's mod page to see if there is a new version.
 - **Files in Overwrite:** Share a screenshot on Discord so we can take a look.
 

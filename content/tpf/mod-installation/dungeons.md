@@ -163,7 +163,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 - **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
-- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v2 >> `merge with the main file`
+- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v3 >> `merge with the main file`
 
 #### Installation Instructions
 
@@ -175,8 +175,6 @@ Unfortunately, "Mod Manager Download" was disabled for the main file.
 - The mod will now appear in the **Downloads** tab.
 - Right-click it and select **Query Info**.
 - Double-click the mod to install it as usual.
-- Right-click the **Data** folder and select **Set as data directory**.
-- Click **OK** to install the mod.
 
 ##### [Dwemer Ichor Barrel 2K](https://www.nexusmods.com/skyrimspecialedition/mods/16797?tab=files)
 

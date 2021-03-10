@@ -14,6 +14,8 @@ TPF is using a number of mods to improve NPC appearance. However, by default man
 
 The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**.
 
+> **Warning:** For this process you need to have at least 20GB of free space on the hard drive where Mod Organizer 2 is installed on. You will generate about 17GB of facegen files (which are later compressed and packed to take up less than 1GB). In general you should have quite a bit more than 20GB of free space on your drive anyway.
+
 ### New Separator
 
 - Create a **PATCHER OUTPUT** in Mod Organizer 2.
@@ -39,8 +41,7 @@ The official master files have a large amount of NPC records, not all of which n
 
 - Run **zEdit** through Mod Organizer 2.
 - The regular **zEdit** mode and **Skyrim SE** should be selected by default. Click **Start Session**.
-- Click on any plugin in the **Load Order** window and press CTRL+A to select all.
-- Right-click the highlighted plugins and select **Uncheck selected**.
+- In the **Load Order** window press **CTRL+A** to select and then **Space** to unselect all.
 - Now check only the following plugins:
   - `Skyrim.esm`
   - `Update.esm`
@@ -49,6 +50,9 @@ The official master files have a large amount of NPC records, not all of which n
   - `Dragonborn.esm`
   - `Unofficial Skyrim Special Edition Patch.esp`
   - `SimpleVampFixesSSE.esp`
+  - `UniqueBorderGates-All.esp`
+  - `SolstheimLighthouse.esp`
+  - `SkaalFishingCamp.esp`
   - `NaturalHairColors.esp`
   - `CFTO.esp`
   - `DIVERSE SKYRIM.esp`
@@ -133,4 +137,4 @@ Using CAO we will compress the facegen files and pack them neatly into BSAs. Thi
 - Click **Run** and wait for CAO to process all files.
 - This will take some time (about 6 minutes for me). The CAO log will eventually return `[INFO] Process completed`. Close CAO.
 - Return to Mod Organizer 2 and press F5 to refresh. Two new plugins will appear at the bottom of your load order.
-- Make sure both **Facegen Output.esp** and **Facegen Output0.esp** are checked so they can load the BSAs containing the facegen files.
+- Make sure both **Facegen Output.esp** and **Facegen Output0.esp** are checked so they can load the BSAs containing the facegen.

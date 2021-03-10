@@ -23,9 +23,10 @@ It is possible to update Mod Organizer 2 without affecting your setup if you lea
 
 ### Install the new version
 
-- Download the new version of Mod Organizer 2 (Archive).
+- Download the Archive version of the Mod Organizer 2 update.
 - Open the archive and move all files into your existing directory with the left-over files.
 - Open Mod Organizer 2 as usual and you will see that your setup is fully intact.
+- Follow the instructions on the [Mod Organizer 2](/tpf/initial-setup/mod-organizer-2/) page for the setup.
 
 ## Cathedral Assets Optimizer
 

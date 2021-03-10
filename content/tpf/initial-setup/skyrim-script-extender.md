@@ -39,7 +39,7 @@ If on the main page for SKSE there is a different version number than the one no
 
 ## SKSE INI
 
-* Open the [SKSE64 ini pre-download for lazy users](https://www.nexusmods.com/skyrimspecialedition/mods/1651) Nexus page.
+* Open the [SKSE64 ini pre-download for lazy users](https://www.nexusmods.com/skyrimspecialedition/mods/1651?tab=files) Nexus page.
 * Click "Mod Manager Download" for the `SKSE64 INI PRE DOWNLOAD v1.2` main file.
 * Back in Mod Organizer 2, switch to the **Downloads** tab.
 * Double-click the mod there and click **OK** to install it.
