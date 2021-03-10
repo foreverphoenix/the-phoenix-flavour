@@ -43,7 +43,7 @@ For manual guide users only.
 
 #### Finalisation
 
-- **Wrapping Up:** Renamed the FINAL PATCH separator to FINALE PATCHES.
+- **Wrapping Up:** Renamed the FINAL PATCH separator to FINAL PATCHES.
 - **Facegen:** Slightly reworded some instructions.
 - **Facegen:** Added a warning about required space on your hard drive for the facegen instructions.
 - **Facegen:** Added three missing plugins with new NPCs to the NPCsWithFaces instructions.
