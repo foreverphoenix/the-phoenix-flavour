@@ -163,7 +163,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 - **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
-- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v3 >> `merge with the main file`
+- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v3
 
 #### Installation Instructions
 
