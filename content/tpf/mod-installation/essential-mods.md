@@ -74,7 +74,7 @@ description: >
 
 The first set of console commands we want run automatically can be added now (more mod-related ones will come later). [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524) merely changes two existing game settings which can simply edited through the console, thus removing the need for an additional plugin.
 
-The third command will disable an effect called "character lighting" which i
+The third command will disable a fairly ugly effect called "character lighting".
 
 - Double-click **Autorun Console Commands** in Mod Organizer 2.
 - Switch to the **Textfiles** tab and select the **Autorun.txt** file.
