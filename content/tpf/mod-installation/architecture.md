@@ -21,6 +21,12 @@ description: >
 
 > The low stone walls will be covered by another mod later on. The farmhouse walls doesn't look quite right in my opinion and by removing it, the game will revert to the Noble Skyrim textures which blends in better.
 
+##### [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Whiterun Mesh Fixes
+
 ##### [Skyland Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/13015?tab=files)
 
 #### Download Instructions

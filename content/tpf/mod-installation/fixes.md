@@ -6,11 +6,26 @@ description: >
   Covering issues and inconsistencies untouched by the USSEP.
 ---
 
+##### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Scrambled Bugs
+
+#### Additional Instructions
+
+- Double-click **Scrambled Bugs** in your mod order.
+- Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
+- In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
+- In **Line 13**, set **equipBestAmmo** to **true** (don't remove the comma).
+- In **Line 15**, set **"underfilledSoulGems":** to **true**.
+- Hit **CTRL+S** to save and close the window.
+
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** WM’s Flora Fixes - Revamped
+- **Main Files:** WM's Flora Fixes - Revamped (No Scripts)
 
 ##### [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
 
@@ -48,20 +63,6 @@ description: >
 
 - **Main Files:** Landscape Fixes For Grass Mods
 - **Optional Files:** z Vanilla Military Camps
-- **Optional Files:** Patches for Arthmoor’s Town add-ons
-
-#### Download Instructions - Patches for Arthmoor's Towns
-
-- **Select options:**
-  * ~~Patch for Alternate Start - Live Another Life~~
-  * ~~Patch for Cutting Room Floor~~
-  * Patch for Arthmoor’s Dragon Bridge
-  * Patch for Arthmoor’s Shor’s Stone
-  * Patch for Arthmoor’s Falkreath
-  * Patch for Arthmoor’s Rorikstead
-  * Patch for Arthmoor’s Ivarstead
-  * ~~Patch for Provincial Courier~~
-  * ~~Patch for Oakwood~~
 
 ##### [No Grass In Caves](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files)
 
@@ -145,20 +146,17 @@ description: >
 
 - **Main Files:** Sound Hammering Sounds
 
-##### [Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14060?tab=files)
+##### [Word Wall Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41463?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Dragon Stalking Fix
+- **Main Files:** Word Wall Transparency Fix for ENB
 
-#### Additional Instructions
+##### [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230?tab=files)
 
-- Unpack **DragonStalkingFix.bsa** through Mod Organizer 2.
-- Delete the following file(s) and/or folder(s):
-  * `DragonStalkingFix.esp`
-  * `DragonStalkingFix.bsa`
+#### Download Instructions
 
-> The plugin is empty and only serves to load the archive which is now unpacked.
+- **Main Files:** Fixed Dragon Stalking Fix
 
 ##### [Serana's Hood Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files)
 

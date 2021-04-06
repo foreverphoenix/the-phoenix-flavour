@@ -1,6 +1,6 @@
 ---
-title: "All Geared Up Derivative"
-weight: 4
+title: "AllGUD"
+weight: 5
 type: docs
 description: >
   Generating plugins and meshes for AllGUD.
@@ -16,7 +16,7 @@ While we install the base mod already, there is a number of additional steps to 
 
 ### Fixed texture script
 
-One of the AllGUD scripts assigns faulty texture file paths to the generated meshes which will prevent the resulting objects from looking as intended. Fortunately, this was fixed by duskyBabz and provided to us ([source](https://github.com/foreverphoenix/the-phoenix-flavour/issues/26)).
+One of the AllGUD scripts assigns faulty texture file paths to the generated meshes which will prevent the resulting objects from looking as intended. Fortunately, this was fixed by Dusky and provided to us ([source](https://github.com/foreverphoenix/the-phoenix-flavour/issues/26)).
 
 - Download the fixed script from [Mediafire](https://www.mediafire.com/file/fd0d6qj78lpjbas/AllGUD_AlternateTextureModelsplosion_-_Fixed.pas/file).
 - Move the file to `Your Modding Folder\Tools\SSEEdit\Edit Scripts`.

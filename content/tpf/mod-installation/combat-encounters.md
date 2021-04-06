@@ -36,6 +36,12 @@ description: >
 
 * **Main Files:** Realistic Melee Range
 
+##### [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Less Sniperlike NPCs 70 percent
+
 ##### [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files)
 
 #### Download Instructions
@@ -87,6 +93,12 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Splendor - Dragon Variants
+
+##### [Sable's Bits and Bobs - Steam Driven Automatons](https://www.nexusmods.com/skyrimspecialedition/mods/40225?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Steam Driven Automotons
 
 ##### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files)
 

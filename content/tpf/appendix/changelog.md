@@ -6,6 +6,261 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5
+
+> 06/04/2021
+
+It is done! TPF 4.5 is the biggest update since 4.0 and I spent altogether too long chewing on it. As a result, the risk of me having missed something (typos, unfinished sentences, any sort of weirdness) is even higher than usual. Therefore I would ask you to consider TPF 4.5 a **beta release** that will probably get some much needed polishing in 4.5.1 and potentially further small updates.
+
+- Thanks to No Grass In Objects and grass cache, we now have extended grass range which allows for better distant blending.
+- TPF is now using the new DynDOLOD 3.0 which is still in Alpha but perfectly functional.
+- Some mods (Extended UI, QuickLoot) were moved to the new addon, TPF-X.
+- Added new enemy types, a better console UI, an overhaul for Shouts, tweaks for bounties and quest rewards, and more.
+
+**Removed mods:**
+
+- **Prince and the Pauper:** While the FOMOD includes a Gamwich retexture option, most of the included clothing is still painfully low res. There *is* an upscale on the Nexus but frankly it cannot really be described as a visual improvement. I prefer having a smaller collection of children's clothing with consistently high quality textures.
+- **JK's Cities Lite:** Has some issues with clipping and flickering that I cannot fix (no permissions) and the author of the lite version has been inactive for a long, long time.
+- **Arthmoor's town additions:** Aka Arthmoor's awkwardly squeezed in houses. They don't look great and nobody is going to actually notice that some NPCs don't have homes.
+- **Cathedral Landscapes:** A great concept that never received the updates and improvements it desperately needed. We switched to other mods that offer better grass and a similar degree of distant blending with custom terrain LOD.
+
+#### Initial Setup
+
+- **INI Files:** Godrays should always be set to "High" now.
+- **INI Files:** Removed Grass Fade tweak (covered by No Grass In Objects).
+- **INI Files:** Added BethINI - Custom section to disable land fade for better terrain LOD transitions.
+
+#### Mod Installation
+
+- **Instructions:** Removed an old reference to optional mods (that are no longer available).
+- **Instructions:** Added note on what crossed out options in FOMOD instructions mean.
+- Split up "Balancing" once again into "Balancing & Crafting" and "New Content".
+- Removed the "College of Winterhold" step. Mods were distributed among other sections.
+- Removed "Worldspace Additions".
+- Removed "Cities & Villages".
+- Removed JK's Cities - Lite.
+- Removed Arthmoor's Dawnstar.
+- Removed Arthmoor's Falkreath.
+- Removed Arthmoor's Dragon Bridge.
+- Removed Arthmoor's Ivarstead.
+- Removed Arthmoor's Rorikstead.
+- Removed Arthmoor's Kynesgrove.
+- Removed Arthmoor's Karthwasten.
+- Removed Arthmoor's Darkwater Crossing.
+- Removed Arthmoor's Shor's Stone.
+- Removed Arthmoor's Soljund's Sinkhole.
+- Removed Arthmoor's Whistling Mine.
+- Removed Unique Border Gates.
+- **Essential Mods:** Added Dear Diary - Better More Informative Console.
+- **Essential Mods:** Added console command to disable clutter physics damage to Autorun.
+- **Essential Mods:** Updated Additional Instructions and the related screenshot for Autorun.
+- **Essential Mods:** Added Project Clarity AIO - Skyrim Textures Redone.
+- **Essential Mods:** Added Hooded Skeleton Corpse Fix for WACCF.
+- **Essential Mods:** Added No Grass In Objects.
+- **Fixes:** Added Scrambled Bugs.
+- **Fixes:** Updated download instructions for Wiseman303's Flora Fixes - Revamped.
+- **Fixes:** Removed instructions for Arthmoor's Patch Pack for Landscape Fixes For Grass Mods.
+- **Fixes:** Added Word Wall Transparency Fix for ENB.
+- **Fixes:** Removed Dragon Stalking Fix.
+- **Fixes:** Added Fixed Dragon Stalking Fix.
+- **Tweaks:** Added True Teacher Durnehviir.
+- **Interface:** Removed Extended UI.
+- **Interface:** Removed QuickLoot.
+- **Interface:** Updated SkyHUD FOMOD instructions.
+- **Interface:** Removed SkyHUD additional instructions (moved to separate profile).
+- **Interface:** Added SkyHUD - TPF Preset.
+- **Interface:** Added SkyHUD - Alternate White Dot Crosshair.
+- **Interface:** Added moreHUD - TPF Preset.
+- **Interface:** Removed moreHUD - Inventory Edition.
+- **Interface:** Removed Immersive Bookreading and Lockpicking.
+- **Interface:** Added instructions to change the console font for Roboto Font Replacer.
+- **Graphics Baseline:** Added instructions to download the new 3.0 version of DynDOLOD Resources.
+- **Graphics Baseline:** Updated the FOMOD instructions for DynDOLOD Resources.
+- **Graphics Baseline:** Added Perfect Terrain LOD - Noise Texture.
+- **Graphics Baseline:** Added instructions to merge the NobleSkyrimMod SMIM Patch with the main file.
+- **Weather:** Removed ETHEREAL CLOUDS (using upscaled vanilla cloud textures from Project Clarity instead).
+- **Lighting:** Added Shadows of Sunlight - In Small Exterior World Spaces.
+- **LIghting:** Updated FOMOD instructions for Smoking Torches and Candles.
+- **Visual FX:** Added Deadly Spell Impacts Transparency Fix for ENB.
+- **Visual FX:** Removed Glow Be Gone SKSE Updated (more trouble than it's worth).
+- **Visual FX:** Removed Glow Be Gone SKSE Updated GhostFX Workaround.
+- **Landscape:** This step received a major overhaul. The mod order was updated.
+- **Landscape:** Now using Majestic Mountains - Darkside (blends better with Northside).
+- **Landscape:** Updated download and FOMOD instructions for Majestic Mountains.
+- **Landscape:** Added instructions to delete the projecteddiffuse.dds from Majestic Mountains.
+- **Landscape:** Updated FOMOD instructions for Majestic Mountains - Northside.
+- **Landscape:** Removed additional instructions for Majestic Mountains - Northside (file gets overwritten anyway).
+- **Landscape:** Added Moss Rocks.
+- **Landscape:** Removed Landscapes - Cathedral Concept.
+- **Landscape:** Removed Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon.
+- **Landscape:** Removed Cathedral Landscapes - Windhelm Bridge Fix.
+- **Landscape:** Removed Cathedral Landscapes - Fixed Bridge Meshes.
+- **Landscape:** Moved Cathedral - 3D Pine Grass to Trees & Plants.
+- **Landscape:** Added MystiriousDawn's HD Skyrim Overhaul.
+- **Landscape:** Added Better Dirt Cliffs and Alphas.
+- **Landscape:** Added Nordic Coast.
+- **Landscape:** Added Skyrim Remastered - Glaciers and Ice.
+- **Landscape:** Added instructions to install the Darker Gradient Textures file for Realistic Water Two.
+- **Landscape:** Removed Realistic Water Two Patch Hub.
+- **Landscape:** Removed Bright Waterfall Fix for ENB.
+- **Landscape:** Added Blended Roads.
+- **Landscape:** Moved Point The Way here.
+- **Landscape:** Moved Lanterns of Skyrim II here.
+- **Landscape:** Updated FOMOD instructions for Lanterns of Skyrim II.
+- **Landscape:** Moved Immersive Dawnguard Dayspring Pass here.
+- **Landscape:** Removed Rorikstead Basalt Cliffs.
+- **Landscape:** Removed Rorikstead Basalt Cliffs Patches.
+- **Trees & Plants:** Added instructions to merge the Enhanced Vanilla Trees optional file with the main file.
+- **Trees & Plants:** Added instructions to delete the billboards from Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed Enhanced Landscapes - Solstheim 3D Trees.
+- **Trees & Plants:** Added Aspens Ablaze.
+- **Trees & Plants:** Added Tree Bark in High Definition.
+- **Trees & Plants:** Removed Immersive Fallen Trees.
+- **Trees & Plants:** Removed Immersive Fallen Trees Patch.
+- **Trees & Plants:** Added Veydosebrom Regions.
+- **Trees & Plants:** Updated Cathedral - 3D Pine Grass additional instructions.
+- **Trees & Plants:** Added High Poly Soul Husks.
+- **Trees & Plants:** Added Soul Husk Retexture.
+- **Trees & Plants:** Added Unique Solstheim Grass.
+- **Architecture:** Added Whiterun Mesh Fixes.
+- **Misc Structures:** Removed Stunning Statues of Skyrim.
+- **Misc Structures:** Added Iconic Statues.
+- **Misc Structures:** Removed Shrine of Azura HD.
+- **Misc Structures:** Removed Winterhold Statue - Animated with ENB Lights.
+- **Interiors:** Added SD's Horn Candles.
+- **Dungeons:** Removed CC's Enhanced Ore Veins.
+- **Dungeons:** Removed CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap.
+- **Dungeons:** Removed additional instructions from Metallurgy (now using the full package).
+- **Dungeons:** Removed Rally's Jurgen Windcaller Tomb.
+- **Dungeons:** Added Iconic's Jurgen Windcalled Tomb and Horn Retexture.
+- **Dungeons:** Added Dwemer Pipework Reworked.
+- **Dungeons:** Added instructions to download an additional file for Ancient Dwemer Metal - My Patches.
+- **Dungeons:** Added WEBS.
+- **Clutter:** Added Retexture for The Scroll.
+- **Apparel & Weapons:** Removed instructions to install matched color fix for Frankly HD Stormcloaks (redundant).
+- **Apparel & Weapons:** Added Ancient Dwemer Metal - My Patches - No Smiling Female Helmet.
+- **Creatures:** Added Deiform Alduin.
+- **Appearance:** Added Expressive Facegen Morphs.
+- **Appearance:** Added Less Bright Teeth for Expressive Facegen Morphs.
+- **Appearance:** Removed Immersive Mouth and Teeth.
+- **Appearance:** Removed Just Fangs from BVFE.
+- **Appearance:** Updated Simple Children - Patches FOMOD instructions.
+- **Gameplay Overhauls:** Added Forceful Tongues - Shouts Overhaul.
+- **Gameplay Overhauls:** Updated download and FOMOD instructions for Carriage and Ferry Travel Overhaul - Fixes and Winterhold.
+- **Non-Player Characters:** Added instructions to unpack the BSA for Hearthfire Multiple Adoptions.
+- **Non-Player Characters:** Removed Prince and the Pauper.
+- **Non-Player Characters:** Removed Prince and the Pauper - Hearthfire Multiple Adoptions Patch.
+- **Non-Player Characters:** Removed DIVERSE SKYRIM.
+- **Improved Vanilla Quests:** Added Companions Werewolf Bloodritual Scene Tweak.
+- **Improved Vanilla Quests:** Moved Improved College Entry - Questline Tweaks here.
+- **Improved Vanilla Quests:** Moved Finding Velehk Sain here.
+- **Improved Vanilla Quests:** Added Sable's Bits and Bobs - The Last Dragonborn Perk.
+- **Improved Vanilla Quests:** Removed Andrealphus' Gameplay Tweaks (mod page was repurposed).
+- **Improved Vanilla Quests:** Added Stones of Barenziah - Alternate Locations.
+- **Improved Vanilla Quests:** Added Andrealphus' Tweaks - Harder Quests.
+- **Combat & Encounters:** Added Less Sniperlike NPCs.
+- **Combat & Encounters:** Added Sable's Bits and Bobs - Steam Driven Automatons.
+- **Balancing:** Added Less Cure Disease Potions.
+- **Balancing:** Added Bounties Are Worthwhile - Leveled Bounty Rewards.
+- **Balancing:** Added Bounty Preview.
+- **Balancing:** Added Reasonable Quest Rewards.
+- **New Content:** Moved Armor and Clothing Extension here.
+- **New Content:** Moved Tweaks for WACCF and ACE here.
+- **New Content:** Moved aMidianBorn Armor Variants Lite here.
+- **New Content:** Moved Practical Female Armors - AMB AVL Patch here.
+- **New Content:** Re-added Armor of Yngol.
+- **New Content:** Added Civil War Deserters.
+- **New Content:** Added Forsworn Gravesingers.
+- **New Content:** Added Forsworn Skinchangers.
+- **New Content:** Moved Obscure's College of Winterhold here.
+- **New Content:** Moved Choose Your Own Arch-Mage here.
+- **New Content:** Moved Immersive College NPCs here.
+- **New Content:** Moved Misc College of Winterhold Tweaks here.
+- **New Content:** Moved Solstheim Lighthouse here.
+- **New Content:** Moved Solstheim - Skaal Fishing Camp here.
+- **Miscellaneous:** Moved Miscellaneous Tweaks Collection here (yes, I keep moving it, I'm sorry).
+- **Miscellaneous:** Added instructions to download the new Misc Tweaks - More Expensive Inns.
+- **Miscellaneous:** Added Horse Stamina HUD.
+- **Miscellaneous:** Added Dragon Wall Wisdom - Readable Dragon Walls.
+- **Miscellaneous:** Added Unique Dragon Aspect.
+- **Miscellaneous:** Added Smelters for Riften and Solitude.
+- **Miscellaneous:** Added Contraband Confiscated.
+- **Assorted Plugins:** Removed Enhanced Death Cam (caused some unforseen issues).
+- **Assorted Plugins:** Removed No Lockpick Activate (was only "required" for QuickLoot).
+- **Skeleton & Animations:** Added Dynamic Animation Replacer.
+- **Skeleton & Animations:** Added Jump Behavior Overhaul.
+- **Skeleton & Animations:** Added Super Fast Get Up Animation.
+- **Skeleton & Animations:** Added Faster Reanimation (undocumented 4.something addition).
+
+#### Finalisation
+
+- **Wrapping Up:** Added NoMoreFollowerHuntingBow.esp to the list of plugins to ESL-ify.
+- **Facegen:** Updated list of plugins required for the NPCsWithFaces plugin as well as the CK screenshot.
+- **SSELODGen:** Added this new page since we now generate terrain LOD with xLODGen.
+- **SSELODGen:** Moved SSELODGen installation instructions here from the Occlusion page.
+- **Grass Cache:** Added this page with instructions on how to generate grass cache.
+- **DynDOLOD:** Updated all instructions for DynDOLOD 3.0.
+- **Occlusion:** Updated the Occlusion page (it's very short now).
+- **ENBSeries:** Added instructions to disable distant reflections in Serio's ENB.
+
+#### Wabbajack
+
+- Updated the instructions for launching Skyrim (renamed SKSE >> The Phoenix Flavour).
+
+#### Mod Configuration
+
+- **moreHUD:** Updated MCM instructions for the new preset.
+- **Realistic Water Two:** Removed MCM instructions (no longer necessary).
+
+#### Gameplay Guide
+
+- Split up into multiple pages.
+- Updated some sections (still requires a proper expansion).
+
+#### TPF Addons
+
+- There is now only a single, top-level **TPF Addons** page with all relevant information.
+- Removed MO2 profile and Sync Mod Order plugin instructions (now part of the TPF-X instructions).
+- Added information on the new TPF-X Addon in the Available Addons section.
+- **Updating Addons:** Removed as I feel like it's too vague and general, better if addon creators provide specific instructions.
+- **Available Addons:** Content from this page is now on the Addon Primer page.
+
+#### Conflict Resolution Patch
+
+- Removed Relighting Skyrim as a master (wasn't necessary)
+- Removed Majestic Mountains - Moss Rocks as a master
+- Removed JKs Skyrim Lite as a master
+- Removed Arthmoor's Falkreath as a master
+- Removed Arthmoor's Dragon Bridge as a master
+- Removed Arthmoor's Ivarstead as a master
+- Removed Arthmoor's Kynesgrove as a master
+- Removed Arthmoor's Darkwater Crossing as a master
+- Removed Unique Border Gates as a master
+- Removed Genuinely Intelligent Soul Gems as a master
+- Opening certain books will once again start the connected quest instantly instead of giving you a message box
+- Disabled a Woodcutter's Axe placed in Riften by the USSEP clipping with the smelter added by Smelters in Riften and Solitude
+- Resolved conflicts between Reasonable Quest Rewards and other mods
+- Resolved conflicts between Less (sic) Cure Disease Potions and other mods
+- Fixed campfire texture sets (thanks Dusky!)
+
+#### Wabbajack Installer
+
+- Updated Mod Organizer 2 to 2.4.1
+- Updated SSE Creation Kit Fixes to 3.2
+- Updated SSE Display Tweaks to 0.4.9-1
+- Updated the Skyrim Particle Patch
+- Updated Storm Lightning to 1.4.9
+- Updated Smoking Torches and Candles to 1.76
+- Updated Realistic Water Two to 3.1.0
+- Updated Cathedral Armory - TPF Repack to 1.1.3
+- Updated Reliquary of Myth - Artifact Overhaul to 3.8.0
+- Updated Radiant Requirements to 1.1.0
+- Updated Lightweight Smithing Tweaks to 2.3
+- Updated Misc Tweaks - Better Horses to 1.3
+- Updated Private Profile Redirector to 0.5.2
+- Updated ENBSeries (no version change)
+- Updated SSELODGen to Beta 76
+
 ## Release 4.4.3
 
 > 10/03/2021

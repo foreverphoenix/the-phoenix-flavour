@@ -85,6 +85,12 @@ description: >
 * **Smoke Effect:** Smoke Effect (STAC Compatible)
 * **Lantern:** Version_1
 
+##### [SD's Horn Candles](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SD's Horn Candles SE 2k
+
 ##### [Skyrim 3D Cooking](https://www.nexusmods.com/skyrimspecialedition/mods/23007?tab=files)
 
 #### Download Instructions

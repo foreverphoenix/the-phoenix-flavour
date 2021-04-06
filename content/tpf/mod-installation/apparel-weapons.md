@@ -110,7 +110,6 @@ description: >
 
 * **Main Files:** UltraHD - Stormcloak and City Guards 2K version
 * **Optional Files:** Fix by SpriterSan for 2k version >> `merge with the main file`
-* **Optional Files:** Falkreath matched color fix >> `merge with the main file`
 
 ##### [aMidianBorn Stormcloak Officer Armour](https://www.nexusmods.com/skyrim/mods/45692?tab=files)
 
@@ -146,6 +145,12 @@ description: >
 
 - **Accent Color:** Purple (Original Amidianborn)
 - **Fixed Gauntlet Mesh for VR:** ~~Fixed Male Gauntlet Meshes~~
+
+##### [Ancient Dwemer Metal - My Patches - No Smiling Female Helmet](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - No Smiling Female Helmet
 
 ##### [Actual Orichalcum Orcish Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/33653?tab=files)
 

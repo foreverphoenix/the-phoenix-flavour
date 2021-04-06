@@ -41,7 +41,7 @@ Each mod has its own section with the following instructions:
 - **Porting Instructions:** Brief instructions if necessary for proper porting of a LE mod to SSE with the Creation Kit or CAO.
 - **Additional Instructions:** May contain INI edits, file deletions or edits, rarely SSEEdit tweaks.
 
-Not all mods strictly follow this template. Some have sections unique to them with extra explanations or instructions. Just follow those instructions one by one and to the letter. Sometimes they are optional (which is then clearly stated) and you can skip them.
+Not all mods strictly follow this template. Some have sections unique to them with extra explanations or instructions that you need to follow one by one and by the letter.
 
 ## Download Instructions
 
@@ -57,7 +57,9 @@ Not all mods strictly follow this template. Some have sections unique to them wi
 
 ## Mod Installation
 
-After downloading a mod, switch to the **Downloads** tab in the right pane of Mod Organizer 2 and double-click the file(s) to install. This may open a FOMOD installer if the mod includes one. **FOMOD Instructions** are provided in the guide.
+After downloading a mod, switch to the **Downloads** tab in the right pane of Mod Organizer 2 and double-click the file(s) to install. This may open a FOMOD installer if the mod includes one.
+
+**FOMOD Instructions** are provided in the guide. A crossed out option ~~like so~~ means you should NOT select it in the installer.
 
 ### Renaming mods
 

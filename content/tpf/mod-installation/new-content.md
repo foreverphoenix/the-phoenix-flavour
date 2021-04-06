@@ -1,10 +1,83 @@
 ---
-title: "College of Winterhold"
-weight: 33
+title: "New Content"
+weight: 34
 type: docs
 description: >
-  Mods improving the Winterhold college for magic.
+  Mods that add various things to Skyrim.
 ---
+
+##### [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Armor and Clothing Extension
+
+##### [Tweaks for WACCF and ACE](https://www.nexusmods.com/skyrimspecialedition/mods/43466?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Tweaks for WACCF and ACE
+
+##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** aMidianBorn Armor Variants Lite
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Enchanting Adjustments Patch
+  - Finding Velehk Sain Patch
+  - Reliquary of Myth Patch
+  - Weapons Armor Clothing and Clutter Fixes Patch
+
+##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+
+#### FOMOD Instructions
+
+- **Skyrim:** *select nothing*
+- **Dawnguard:** *select nothing*
+- **Dragonborn:** *select nothing*
+- **Compatibility Patches:** aMidianBorn Content Addon
+
+> All we need are the edited textures for AMB CA compatibility (they also work for AMB AVL). PFA meshes are already included in the Cathedral Armory - TPF Repack.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\AMB Variants\armor\ebonyvariants\`
+  - `textures\AMB Variants\armor\Glassvariants\`
+  - `textures\AMB Variants\armor\ironbrown\`
+  - `textures\AMB Variants\armor\IronEngraved\`
+
+##### [Armor of Yngol](https://www.nexusmods.com/skyrimspecialedition/mods/5006?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Yngol SSE
+
+##### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Civil War Deserters
+
+##### [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Gravesingers
+
+##### [Forsworn Skinchangers](https://www.nexusmods.com/skyrimspecialedition/mods/34900?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skinchangers v1
 
 ##### [Obscure’s College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514?tab=files)
 
@@ -102,6 +175,12 @@ description: >
   - ~~Solitude Temple Frescoes 2019 - ESL Flagged~~
   - ~~Solitude Temple Frescoes 2019 (No Lanters) - ESL Flagged~~
 
+##### [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Choose Your Own Arch-Mage
+
 ##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
 
 #### Download Instructions
@@ -118,12 +197,6 @@ description: >
   - `ICNs_ImmersiveCollegeNPCs.bsa`
 
 > The BSA contains facegen files which we will later regenerate in higher quality.
-
-##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Improved College Entry
 
 ##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
 
@@ -170,20 +243,24 @@ description: >
 * **Readme:**
   * *select nothing*
 
-> The **Early Elementalist** module allows you to Wait in the Hall of Elements. This is done by removing the "Can't Wait" flag in that cell. Because this record has to be forwarded into the Conflict Resolution Patch anyway (to patch it with changes from other mods, namely Luminosity), there is no point in keeping the original Early Elementalist ESP as it would be completely overwritten. In short - skip the option, it is already implemented in the CRP. 
+> The **Early Elementalist** module allows you to Wait in the Hall of Elements. This is done by removing the "Can't Wait" flag in that cell. Because this record has to be forwarded into the Conflict Resolution Patch anyway (to patch it with changes from other mods, namely Luminosity), there is no point in keeping the original Early Elementalist ESP as it would be completely overwritten. In short - skip the option, it is already implemented in the CRP.
 
-##### [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Choose Your Own Arch-Mage
-
-##### [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815?tab=files)
+##### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Finding Velehk Sain
+* **Main Files:** Solstheim Lighthouse v1.2 ESL
 
-#### FOMOD Instructions
+#### Additional Instructions
 
-* Change nothing, click **Install**.
+* Double-click **Solstheim Lighthouse** in your mod order.
+* Switch to the **Filetree** tab and rename the plugin to:
+  * SolstheimLighthouse.**esp**
+
+> This is faster than downloading and ESL-ifying the ESP version.
+
+##### [Solstheim - Skaal Fishing Camp](https://www.nexusmods.com/skyrimspecialedition/mods/14450?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Solstheim - Skaal Fishing Camp

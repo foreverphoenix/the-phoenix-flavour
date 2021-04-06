@@ -6,6 +6,18 @@ description: >
   Retextures for bodies and faces.
 ---
 
+##### [Expressive Facegen Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/35785?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Expressive Facegen Morphs SE
+
+##### [Less Bright Teeth for Expressive Facegen Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/46739?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Expressive Facegen Morphs - Less Bright Teeth
+
 ##### [Expressive Facial Animations - Female Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19181?tab=files)
 
 #### Download Instructions
@@ -169,12 +181,6 @@ description: >
 
 - **Main Files:** Authentic Eyes v1.1
 
-##### [Immersive Mouth and Teeth](https://www.nexusmods.com/skyrimspecialedition/mods/12335?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Immersive Mouth and Teeth - Skyrim Version - 2.0
-
 ##### [Immersive Mouth and Teeth for Orcs](https://www.nexusmods.com/skyrimspecialedition/mods/27343?tab=files)
 
 #### Download Instructions
@@ -186,12 +192,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Beastly Smiles
-
-##### [Just Fangs from BVFE](https://www.nexusmods.com/skyrimspecialedition/mods/33779?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Just Fangs From BVFE
 
 ##### [Beast Race Fang Removal](https://www.nexusmods.com/skyrimspecialedition/mods/20400?tab=files)
 
@@ -355,8 +355,8 @@ Rename the mod to **TK Children - TRI Files** in order to indicate that it is no
   * ~~The People of Skyrim Complete~~
   * ~~Wyrmstooth~~
 * **Prince and Pauper:**
-  * USSEP Version
+  * None
 * **Adopt Aventus Aretino:**
-  * Adopt Aventus Aretino + Prince and Pauper + USSEP
+  * Adopt Aventus Aretino + USSEP
 * **Skaal Coat For Kids:**
   * ~~Skaal Coat Addon~~

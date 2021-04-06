@@ -10,12 +10,15 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** DynDOLOD Resources SE
+- **Miscellaneous Files:** DynDOLOD Resources SE 3.00
+
+> Make absolutely sure you are downloading the **3.00** version from Miscellaneous Files.
 
 #### FOMOD Instructions
 
 - **Visual Options:**
   * Whiterun Exterior
+  * Whiterun Exterior Grass
   * Solitude Exterior
   * High Hrothgar Window Glow
   * DLC2 Vvardenfell 3D Plume
@@ -36,6 +39,12 @@ description: >
 #### Download Instructions
 
 - **Main Files:** HD Lods Textures SE 1K V9.3 - DynDOLOD version
+
+##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Perfect Terrain LOD - Noise Texture
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -83,7 +92,18 @@ description: >
 #### Download Instructions
 
 - **Main Files:** A. Noble Skyrim - FULL PACK_2K
-- **Update Files:** NSM - SMIM Patch
+- **Update Files:** NSM - SMIM Patch >> `merge with the main file`
+
+#### Additional Instructions
+
+- Right-click **Noble Skyrim Mod** in your mod order and select **Open in Explorer**.
+- Double-click the **textures** folder and create a new **effects** folder inside.
+- Open the **landscape** folder and copy the **snow01.dds** texture.
+- Paste the texture into the new **textures\effects** folder.
+- Rename the copied texture to **projecteddiffuse.dds**.
+- The resulting file path should be `textures\effects\projecteddiffuse.dds`.
+
+> The projecteddiffuse.dds is applied by the snow shader to various objects like rocks, roads, etc. If it does not perfectly match the regular snow01.dds texture, it will be very noticeable ingame as you can see [in this comparison](https://imgsli.com/NDY1OTk).
 
 ##### [aMidianBorn Book of Silence (AMB)](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files)
 

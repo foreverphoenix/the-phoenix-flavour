@@ -1,6 +1,6 @@
 ---
 title: "Balancing"
-weight: 34
+weight: 33
 type: docs
 description: >
   Mods that affect item distribution, crafting, and the economy.
@@ -32,6 +32,16 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Alchemy Adjustments - TPF Tweaks
+
+##### [Less (sic) Cure Disease Potions](https://www.nexusmods.com/skyrimspecialedition/mods/47450?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Less Cure Disease Potions - Single Installer
+
+#### FOMOD Instructions
+
+- **Mod Version:** Regular Version
 
 ##### [Enchanting Adjustments and Price Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/8473?tab=files)
 
@@ -73,57 +83,28 @@ description: >
 
 - **Main Files:** Craftable Lockpicks Option - 5
 
-##### [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Armor and Clothing Extension
-
-##### [Tweaks for WACCF and ACE](https://www.nexusmods.com/skyrimspecialedition/mods/43466?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Tweaks for WACCF and ACE
-
-##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** aMidianBorn Armor Variants Lite
-
-#### FOMOD Instructions
-
-- **Patches:**
-  - Enchanting Adjustments Patch
-  - Finding Velehk Sain Patch
-  - Reliquary of Myth Patch
-  - Weapons Armor Clothing and Clutter Fixes Patch
-
-##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
-
-#### FOMOD Instructions
-
-- **Skyrim:** *select nothing*
-- **Dawnguard:** *select nothing*
-- **Dragonborn:** *select nothing*
-- **Compatibility Patches:** aMidianBorn Content Addon
-
-> All we need are the edited textures for AMB CA compatibility (they also work for AMB AVL). PFA meshes are already included in the Cathedral Armory - TPF Repack.
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\AMB Variants\armor\ebonyvariants\`
-  - `textures\AMB Variants\armor\Glassvariants\`
-  - `textures\AMB Variants\armor\ironbrown\`
-  - `textures\AMB Variants\armor\IronEngraved\`
-
 ##### [Morrowloot Miscellania - Unleveled Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/27094?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Morrowloot Miscellania - Unleveled Uniques
+
+##### [Bounties Are Worthwhile - Leveled Bounty Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/33594?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bounties are Worthwhile
+
+##### [Bounty Preview](https://www.nexusmods.com/skyrimspecialedition/mods/33877?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bounty Preview
+
+##### [Reasonable Quest Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/46910/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Reasonable Quest Rewards
+- **Optional Files:** Reasonable Quest Rewards - Bounties Are Worthwhile Patch
+- **Optional Files:** Reasonable Quest Rewards - Dark Brotherhood

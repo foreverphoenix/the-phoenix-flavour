@@ -71,11 +71,11 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
   - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
 
-##### [Rally's Jurgen Windcaller Tomb](https://www.nexusmods.com/skyrimspecialedition/mods/28800?tab=files)
+##### [Iconic's Windcaller Tomb and Horn Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45440?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Rallys Jurgen Windcaller Tomb HQ - 4K
+- **Main Files:** Windcaller Tomb And Horn 4K
 
 ##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
 
@@ -101,44 +101,11 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
 
-##### [CC’s Enhanced Ore Veins](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Enhanced Ore Veins - 2K - 8.0
-* **Update Files:** Enhanced Ore Veins - 8.0.1 - Patch >> `merge with the main file`
-
-#### FOMOD Instructions
-
-* **Stone Color:** Grey
-* **Type:** Normal
-* **Mined Ores:** Keep Old Ones
-* **Ingots:** No new ingots
-* **Patches:** ~~Hearthfire~~
-
-##### [CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap](https://drive.google.com/open?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8)
-
-#### Download Instructions
-
-* Download **CC's Enhanced Ore Veins - Fixed Iron Ore Cubemap** from Google Drive.
-* Move the file to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-* In Mod Organizer 2, press F5 to refresh and the file will appear in your **Downloads** tab.
-* Double-click the file to install it as usual.
-
-> Unfortunately the issue persists in the latest version of CC's Enhanced Ore Veins. I uploaded a direct [comparison](https://imgsli.com/MTMyOTE) - before and after installing the fixed cube map.
-
 ##### [Metallurgy - Ingots and Ore HD](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Metallurgy - Ingots Ore and Veins HD 1K (LOOSE)
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  - `textures\DLC02\`
-
-> Heart Stone and Heart Stone ore textures are covered by CC's Enhanced Ore Veins.
 
 ##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files)
 
@@ -158,12 +125,19 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** Ancient Dwemer Metal 4K
 
+##### [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dwemer Pipework Reworked 3.1
+
 ##### [Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
 - **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v3
+- **Optional Files:** Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v3 4K
 
 #### Installation Instructions
 
@@ -205,6 +179,12 @@ Unfortunately, "Mod Manager Download" was disabled for the main file.
 #### Download Instructions
 
 - **Main Files:** Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch
+
+##### [WEBS](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WEBS SE x2048
 
 ##### [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files)
 

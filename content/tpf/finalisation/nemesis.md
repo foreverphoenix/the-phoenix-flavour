@@ -1,6 +1,6 @@
 ---
-title: "Nemesis Behavior Engine"
-weight: 3
+title: "Nemesis"
+weight: 4
 type: docs
 description: >
   Generating Nemesis.
@@ -35,11 +35,13 @@ Nemesis will generate a number of files specifically for your setup. In order to
 
 - Run **Nemesis** (the executable we just added) through Mod Organizer 2.
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
-- In Nemesis, a number of patches are available for mods that are not included in TPF. Do not check any of the boxes.
 - Click the **Update Engine** button and wait for the process to be completed.
-- When it's done, click the big **Launch Nemesis Behavior Engine** button.
-- Nemesis will return `Behavior generation complete` after a few seconds and you can close the tool.
+- When it's done, check the **Jump Behavior Overhaul** and **Movement Behavior Overhaul** boxes.
+- Click the big **Launch Nemesis Behavior Engine** button.
+- Nemesis will eventually return `Behavior generation complete` and you can close the tool.
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Nemesis Output** mod folder.
 - A **FNIS.esp** will appear at the bottom of your load order. Activate it.
 
-> FNIS.esp is an empty dummy plugin used to trick XPMSSE, the skeleton replacer, into thinking it's actually present in the load order. Functionally, FNIS is replaced by Nemesis.
+> FNIS.esp is an empty dummy plugin used to trick XPMSSE, the skeleton replacer, into thinking FNIS is actually present in the load order. Functionally, FNIS is replaced by Nemesis.
+
+![Run Nemesis](/Pictures/tpf/finalisation/run-nemesis.png)
