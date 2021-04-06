@@ -18,12 +18,6 @@ description: >
 
 - **Main Files:** Enhanced Reanimation
 
-##### [Enhanced Death Cam](https://www.nexusmods.com/skyrimspecialedition/mods/46449?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Enhanced Death Cam
-
 ##### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files)
 
 #### Download Instructions
@@ -83,12 +77,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Remember Lockpick Angle - Updated
-
-##### [No Lockpick Activate - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26790?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** No Lockpick Activate (SKSE) - Updated
 
 ##### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
 

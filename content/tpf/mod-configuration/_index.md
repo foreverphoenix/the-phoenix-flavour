@@ -38,23 +38,9 @@ If you want to try my personal AMOT preset, go to **Presets** and click **Load u
 
 ## moreHUD
 
-In the **Enemy's Level** tab, uncheck the following options:
-
-- Show Magicka Meter
-- Show Stamina Meter
-
-> These only clutter up the interface in my opinion. You can also disable Health numbers if you like.
+- In the **Presets** tab, click **Load User Settings**.
 
 ![moreHUD MCM](/Pictures/tpf/mod-configuration/morehud-mcm.jpg)
-
-## Realistic Water Two
-
-Under **Mod Options** >> **Blacksmith Forge Water**, toggle the following options:
-
-* Kynesgrove
-* Rorikstead
-
-![Realistic Water 2 MCM](/Pictures/tpf/mod-configuration/rwt-mcm.jpg)
 
 ## Timing Is Everything
 
@@ -75,7 +61,7 @@ Most changes made in the preset are explained in the [Gameplay Guide](/tpf/gamep
 
 ## Wonders of Weather
 
-This is optional and personal preference. Rainsplashes will no longer cause crashes if you leave them enabled.
+This is optional and personal preference. Rain splashes will no longer cause crashes even if you leave them enabled.
 
 * Under **Rainsplashes**, set **Level** to **Disabled** to turn the effect off.
 

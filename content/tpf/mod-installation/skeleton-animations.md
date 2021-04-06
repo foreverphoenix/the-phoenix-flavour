@@ -32,7 +32,7 @@ description: >
 #### FOMOD Instructions
 
 * **Animation Rig Map:** No Physics
-* **Character Creation:** Racemenu
+* **Character Creation:** RaceMenu
 * **Weapon Style Randomizer for NPCs:** None
 * **Animation Variants:** *leave everything on None*
 * **First Person Animation - Axes:** ~~Axes on Back~~
@@ -49,7 +49,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
+- **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
 ##### [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
 
@@ -64,6 +64,37 @@ description: >
 #### Download instructions
 
 * **Main Files:** AllGUD Conditions Fix
+
+##### [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DynamicAnimationReplacer v1.1.0 for SkyrimSE
+
+##### [Jump Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36889?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Jump Behavior Overhaul SE - AIO
+
+#### FOMOD Instructions
+
+- **Main Installation:** Behavior Module
+- **Jump Animations:** Realistic Jump (Recommended)
+- **Directional Jump Option:** Short Jump
+- **Patch Options:** *select nothing*
+
+#### INI Tweak
+
+- In Mod Organizer 2, go to **Tools** >> **Tool Plugins** >> **INI Editor**.
+- In the **skyrimcustom.ini** tab, add the following below the existing settings:
+
+```
+[HAVOK]
+fInAirFallingCharGravityMult=1.8
+```
+
+- Close the window and click **Yes** when asked to save.
 
 ##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
 
@@ -84,6 +115,16 @@ description: >
 #### Download Instructions
 
 * **Main Files:** D13 Faster Get Up Stand Up SSE
+
+##### [Super Fast Get Up Animation](https://www.nexusmods.com/skyrimspecialedition/mods/46714?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Super Fast Get Up Animation
+
+#### FOMOD Instructions
+
+- **Animation Condition:** Player + Combat only
 
 ##### [Faster Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/46357?tab=files)
 

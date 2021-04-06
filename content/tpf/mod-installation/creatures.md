@@ -283,3 +283,10 @@ description: >
 #### Download Instructions
 
 * **Main Files:** HD Reworked Dragon Collection 4K
+
+##### [Deiform Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/44329?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Deiform Alduin 8K
+- **Optional Files:** Deiform Alduin Particle Lights >> `merge with the main file`

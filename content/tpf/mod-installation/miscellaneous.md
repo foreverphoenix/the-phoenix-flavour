@@ -6,6 +6,33 @@ description: >
   Various smaller mods with niche features.
 ---
 
+##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
+- **Main Files:** Misc Tweaks - Better Horses
+- **Main Files:** Misc Tweaks - More Expensive Inns
+- **Main Files:** Misc Tweaks - More Expensive Player Homes
+- **Main Files:** Misc Tweaks - More Realistic Animal Loot
+- **Main Files:** Misc Tweaks - Night Eye Redux
+- **Main Files:** Misc Tweaks - No Starting Spells
+- **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
+
+#### FOMOD Instructions - No Starting Spells
+
+- **Plugin:** AI Overhaul Compatible Plugin
+
+#### FOMOD Instructions - Shrines Don't Cure Diseases
+
+- **Plugin:** Adamant Shrines Version
+
+##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Horse Stamina HUD
+
 ##### [Irondusk's Saddlebags](https://www.nexusmods.com/skyrim/mods/91395?tab=files)
 
 #### Download Instructions
@@ -49,6 +76,24 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 
 > The Interface folder contains string translations. The English translation for the Viewable Faction Ranks MCM is already included with Obscure's College of Winterhold during the FOMOD installation of which it was selected.
 
+##### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dragon Wall Wisdom - Readable Dragon Walls
+
+##### [Unique Dragon Aspect](https://www.nexusmods.com/skyrimspecialedition/mods/18583?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unique Dragon Aspect - SSE
+
+#### FOMOD Installer
+
+- **Which Version do you want to install?** Default
+- **What color do you want your Dragon Aspect to have?** Aqua
+- **What color do you want Miraak's Dragon Aspect to have?** Whitegold
+
 ##### [Durnehviir Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/14272?tab=files)
 
 #### Download Instructions
@@ -66,6 +111,12 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 * **Patches:**
   * ~~Durnehviir: God of Death~~
 
+##### [Smelters for Riften and Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/22566?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Smelters for Riften and Solitude
+
 ##### [Simple Player Home Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236?tab=files)
 
 #### Download Instructions
@@ -79,6 +130,12 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 * **Main Files:** Improved Shadowmarks (512)
 
 > This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
+
+##### [Contraband Confiscated](https://www.nexusmods.com/skyrimspecialedition/mods/34903?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Contraband Confiscation v1
 
 ##### [Delphine’s Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301?tab=files)
 

@@ -164,3 +164,14 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 #### Download Instructions
 
 * **Main Files:** Business Ledger HD Retexture
+
+##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Retexture for The Scroll FOMOD by -ren- SE
+
+#### FOMOD Instructions
+
+- **Choose Version:** Single Set
+- **Choose Texture:** Wet Set

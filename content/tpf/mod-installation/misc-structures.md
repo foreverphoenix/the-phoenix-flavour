@@ -70,6 +70,8 @@ description: >
 
 ##### [WiZkiD Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/39640?tab=files)
 
+#### Download Instructions
+
 * **Optional Files:** WiZkiD Carriages 2k
 
 ##### [Skyrim 3D Signs](https://www.nexusmods.com/skyrimspecialedition/mods/21338?tab=files)
@@ -117,65 +119,38 @@ description: >
 - **Texture Options:** Option 1
 - **Texture Sizes:** 2K
 
-##### [Stunning Statues of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3375?tab=files)
+##### [Iconic Statues](https://www.nexusmods.com/skyrimspecialedition/mods/46708?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** SSoS - Installer Fix
+- **Main Files:** Iconic Statues 4K
 
 #### FOMOD Instructions
 
-* **Choose your statues:**
-  * Bella Dibella
-  * Neat Nocturnal
-  * ~~Astonich Azura~~
-  * ~~Terrific Talos~~
-  * Ysterical Ysgramor
-  * Melancholic Meridia
-  * Madness Malacath
-  * ~~Wakened Winterhold~~
-  * Clever Clavicus
-  * Bucolic Boethiah
-  * Necrotic Namira
-  * Magnetic Mara
-  * ~~Malefic Mehrunes~~
-  * Vehement Vaermina
-  * ~~Spicy Skyforge~~
-  * Fancy Falmer
-  * ~~Sweet Sovngarde~~
-* **Bella Dibella:**
-  * HD Meshe
-  * Dibella 2k
-* **Neat Nocturnal:**
-  * HD Meshe
-  * Nocturnal 2k
-* **Ysterical Ysgramor:**
-  * HD Meshe
-  * Ysgramor 2k
-* **Melancholic Meridia:**
-  * HD Meshe
-  * Meridia white 4k
-* **Madness Malacath:**
-  * HD Meshe No Glow (for stone texture)
-  * Malacath Stone 2k
-* **Clever Clavicus:**
-  * HD Meshe Default Mask
-  * Clavicus 2k
-* **Bucolic Boethiah:**
-  * HD Meshe
-  * Boethiah 4k
-* **Necrotic Namira:**
-  * HD Meshe
-  * Namira 2k
-* **Magnetic Mara:**
-  * HD Meshe
-  * Mara 2k
-* **Vehement Vaermina:**
-  * HD Meshe
-  * Vaermina 4k
-* **Fancy Falmer:**
-  * HD Meshe
-  * Falmer Rusty Copper 4k
+- **Statue:** Auriel
+- **Statue:** Azura
+- **Statue:** Bee Statue
+- **Statue:** Boethiah
+- **Statue:** Clavicus Vile
+- **Statue:** Dibella
+- **Statue:** Falmer Statue
+- **Statue:** Hircine Shrine
+- **Statue:** Malacath (Option 1)
+- **Statue:** Mara
+- **Statue:** Mehrunes Dagon
+- **Alter Options:** Option 1
+- **Statue:** Meridian
+- **Statue:** Molag Bal
+- **Statue:** Namira
+- **Statue:** Nocturnal
+- **Statue:** Peryite
+- **Statue:** Ice Shalidor
+- **Statue:** None
+- **Statue:** Sovngarde Watcher
+- **Statue:** None
+- **Statue:** Vaermina
+- **Statue:** Ysgramor
+- **Optional Wuuthrad Retexture:** None
 
 ##### [LeanWolf’s Better-Shaped Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/4752?tab=files)
 
@@ -188,18 +163,6 @@ description: >
 * **Talos Statue:** High-Poly Statue
 * **Weapon:** Nord Hero Greatsword
 * **Patches:** ~~No Snow Under the Roof~~
-
-##### [Shrine of Azura HD](https://www.nexusmods.com/skyrimspecialedition/mods/44698?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Shrine of Azura HD 4K
-
-##### [Winterhold Statue - Animated with ENB Lights](https://www.nexusmods.com/skyrimspecialedition/mods/29478/?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Winterhold Statue - Animated with ENB Lights
 
 ##### [Astral Aspects - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/18098?tab=files)
 

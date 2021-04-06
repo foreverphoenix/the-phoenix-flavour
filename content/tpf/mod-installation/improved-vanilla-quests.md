@@ -125,6 +125,28 @@ description: >
 
 * **Select your option:** Option 1 (see description)
 
+##### [Companions Werewolf Bloodritual Scene Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/46687?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Companions Werewolf Bloodritual Scene Tweak
+
+##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Improved College Entry
+
+##### [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Finding Velehk Sain
+
+#### FOMOD Instructions
+
+* Change nothing, click **Install**.
+
 ##### [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382?tab=files)
 
 #### Download Instructions
@@ -136,6 +158,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** The Paarthurnax Resolution
+
+##### [Sable's Bits and Bobs - The Last Dragonborn Perk](https://www.nexusmods.com/skyrimspecialedition/mods/40225?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Last Dragonborn Perk
 
 ##### [Buyable Golden Claw](https://www.nexusmods.com/skyrimspecialedition/mods/24689?tab=files)
 
@@ -149,12 +177,18 @@ description: >
 
 * **Main Files:** Stackable Stones of Barenziah with Optional Quest Markers
 
-##### [Andrealphus' Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/27939?tab=files)
+##### [Stones of Barenziah - Alternate Locations](https://www.nexusmods.com/skyrimspecialedition/mods/46689?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ANDR Tweaks - Stones of Barenziah - Dawnguard
+- **Main Files:** ANDR Tweaks - Stones of Barenziah - Solstheim
+
+##### [Andrealphus' Tweaks - Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939?tab=files)
 
 #### Download instructions
 
-* **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
-* **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
-* **Main Files:** ANDR Tweaks 07 - Only Dead Lover's Cause Inheritance Letters
-* **Main Files:** ANDR Tweaks 13A - Stones of Barenziah - Dawnguard
-* **Main Files:** ANDR Tweaks 13B - Stones of Barenziah - Solstheim
+- **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
+- **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
+
+> Note that the amount of pamphlets required by the Mara quest will be reverted to vanilla by the guide's CRP.

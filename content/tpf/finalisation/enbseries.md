@@ -1,6 +1,6 @@
 ---
 title: "ENBSeries"
-weight: 7
+weight: 10
 type: docs
 description: >
   Installation of ENBSeries with Serio's ENB.
@@ -18,7 +18,7 @@ TPF uses **Serio's ENB**, preset for Cathedral Weathers that is fairly performan
 
 Yes and no.
 
-ENB and Serio's preset are part of the guide. You are not supposed to skip these instructions. However, disabling ENBSeries is as simple as pressing a single key ingame or click "Uninstall" in ENB Man.
+ENB and Serio's preset are part of the guide. You are not supposed to skip these instructions. However, disabling ENBSeries is as simple as pressing a single key ingame or clicking "Uninstall" in ENB Man.
 
 The problem is that the guide was made with ENB in mind. For example, Skyrim's native ambient occlusion was disabled early on in the guide in favour of ENB AO. A number of mods installed up until this point are exclusively for ENB, fixing mesh brightness or adding effects.
 
@@ -109,6 +109,15 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
   * enbseries
   * enblocal.ini
   * enbseries.ini
+
+### Disable Distant Reflections 
+
+- Open the **enbseries.ini** in a Notepad++.
+- Scroll down to **Line 1122**.
+- Set **DisableDistantReflections** to **true**.
+- Hit CTRL+S to save your changes and close the window.
+
+> This will improve the way water looks in the distance.
 
 ### Create a new preset
 

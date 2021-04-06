@@ -134,11 +134,11 @@ Since we are using SSE Display Tweaks, it is possible to uncap the framerate wit
 
 ## Playing TPF
 
+It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2. Note that I renamed the **SKSE** executable to **The Phoenix Flavour** and changed the icon for it as well.
+
 - Open your installation folder `C:\The Phoenix Flavour\` and double-click the **ModOrganizer.exe** inside.
-- In Mod Organizer 2, make sure **SKSE** is selected as executable.
+- In Mod Organizer 2, make sure **The Phoenix Flavour** is selected as executable.
 - Hit **Run** to start the game. Select **NEW** in the main menu.
 - After completing the intro quest (Helgen), continue with the [Mod Configuration](/tpf/mod-configuration) page.
 
-> It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2.
-
-![Launch SKSE](/Pictures/tpf/initial-setup/run-skse.png)
+![Launch Game](/Pictures/tpf/wabbajack/launch-game.png)

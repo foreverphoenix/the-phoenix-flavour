@@ -57,7 +57,7 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
-  * `RaceMenuPlugin.esp`
+  - `RaceMenuPlugin.esp`
 
 ##### [Immersive HUD - iHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440?tab=files)
 
@@ -74,33 +74,23 @@ description: >
 
 #### FOMOD Instructions
 
-* **Install:**
-  * Loose Files
-* **Preset:**
-  * Vanilla Small
+* **Install:** Loose Files
+* **Preset:** None
 * **Optional:**
   * Install iHUD compatibility patch
   * ~~Extra presets~~
 
-#### Additional Instructions
-
-* Double-click **SkyHUD** in your mod order.
-* In the **Text Files** tab, select the **skyhud.txt**.
-* In the **[Interface]** section, edit the following lines:
-  * `bAltArrow=1`
-  * `bAltCompass=1`
-  * `bDotCrosshair=1`
-* Press CTRL+S to save and close the window.
-
-> This will change the compass to a slimmer one and improve the arrow display. The crosshair will be turned into a simple dot.
-
-![SkyHUD Tweak](/Pictures/tpf/mod-installation/skyhud-tweak.png)
-
-##### [QuickLoot](https://www.nexusmods.com/skyrimspecialedition/mods/21085?tab=files)
+##### [SkyHUD - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** QuickLootRE
+- **Main Files:** SkyHUD - TPF Preset
+
+##### [SkyHUD - Alternate White Dot Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/47121?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** white dot
 
 ##### [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files)
 
@@ -117,18 +107,11 @@ description: >
 
 > This is faster than ESL-ifying the ESP version.
 
-##### [moreHUD - Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619?tab=files)
+##### [moreHUD - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** moreHUD Inventory Edition
-
-#### Additional Instructions
-
-- Double-click **moreHUD - Inventory Edition** in your mod order.
-- Switch to the **Filetree** tab.
-- Rename the following file:
-  * AHZmoreHUDInventory.**esp**
+- **Main Files:** moreHUD - TPF Preset
 
 ##### [A Matter of Time - A Clock HUD Widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937?tab=files)
 
@@ -140,7 +123,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** A Matter of Time - Phoenix Preset
+- **Main Files:** A Matter of Time - TPF Preset
 
 #### About the mod
 
@@ -172,31 +155,11 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
-##### [Extended UI for Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/44643?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Extended UI for Skyrim Uncapper Adamant Arena
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `interface\console.swf`
-
-> This file would otherwise overwrite and break More Informative Console.
-
 ##### [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** No More Laser-Printed Book
-
-##### [Immersive Bookreading and Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/4541?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Immersive Bookreading
-- **Main Files:** Immersive Lockpicking
 
 ##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
 
@@ -257,6 +220,19 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 - **Main Files:** Roboto Main Font Replacer
+
+#### Additional Instructions
+
+- Double-click **Roboto Font Replacer** in your mod order.
+- Switch to the **Text Files** tab and select the **fontconfig.txt** file.
+- Create a new line below `fontlib "Interface\fonts_en6.swf"`.
+- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 4**.
+- In **Line 5**, change `"Arial"` to `"Consolas"`.
+- Close the window and click **Yes** when asked to save.
+
+> This way we can use Roboto for dialogue, menus, etc and Dear Diary's Consolas font (packaged with Dear Diary - Better More Informative Console installed in the Essential Mods section) for the console.
+
+![Roboto Console Font](/Pictures/tpf/mod-installation/roboto-console-font.png)
 
 ##### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files)
 

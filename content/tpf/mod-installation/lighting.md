@@ -30,6 +30,12 @@ description: >
 
 * **Main Files:** A Quality Worldmap - Luminosity Compatibility Patch
 
+##### [Shadows of Sunlight - In Small Exterior World Spaces](https://www.nexusmods.com/skyrimspecialedition/mods/41368?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Shadows Of Sunlight - In Small Exterior World Spaces
+
 ##### [Interior Floating Fog Remover](https://www.nexusmods.com/skyrimspecialedition/mods/4298?tab=files)
 
 #### Download Instructions
@@ -45,13 +51,11 @@ description: >
 #### FOMOD Instructions
 
 * **Main Component:**
-  * Smoking Torches (Classic)
+  * Smoking Torches (Subtle)
 * **Smoking Candles:**
   * Optimized
 * **Plugin Selection:**
   * ESPFE
-  * ~~ESP~~
-  * ~~ESL~~
 
 ##### [Embers HD](https://www.nexusmods.com/skyrimspecialedition/mods/14368?tab=files)
 

@@ -85,7 +85,7 @@ Continue with the sixth tab, **Detail**.
 
 - **Water:** Check `Reflect Objects`.
 - **Decal Quantity:** Set to `High`.
-- **Godrays**: Set them to `None` if you are concerned with performance.
+- **Godrays**: Set to `High`.
 - **Field of View:** Increase this if you prefer a wider FoV.
 - **Particles:** Increase the particle count to `7500`.
 - **Lens Flare:** Matter of taste. Personally I disable this.
@@ -106,8 +106,9 @@ Continue with the seventh tab, **View Distance**.
 - **Object Fade:** Set to `12.0`.
 - **Actor Fade:** Set to `8.0`.
 - **Item Fade:** Set to `4.0`.
-- **Grass Fade:** Set to `15000`.
 - **Light Fade:** Set to `21605`.
+
+> Grass Fade will be increased by a mod later on.
 
 ![BethINI View Distance](/Pictures/tpf/initial-setup/bethini-view-distance.png)
 
@@ -118,6 +119,17 @@ Continue with the eighth tab, **Visuals**.
 - Set **Contrast** to `-0.1800`. This should eliminate the "black crush" some people are experiencing in Skyrim SE.
 
 ![BethINI Visuals](/Pictures/tpf/initial-setup/bethini-visuals.png)
+
+### BethINI - Custom
+
+- Under **Section**, select **Display**.
+- Under **Settings**, select **bEnableLandFade**.
+- Change the value from **1** to **0**.
+- Click the **Save** button at the bottom.
+
+> This will make terrain LOD transitions look less awful.
+
+![BethINI Visuals](/Pictures/tpf/initial-setup/bethini-custom.png)
 
 ## Save Changes
 

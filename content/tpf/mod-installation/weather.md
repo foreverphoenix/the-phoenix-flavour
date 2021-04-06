@@ -18,12 +18,6 @@ description: >
 
 - **Main Files:** Cathedral Weathers MCM
 
-##### [ETHEREAL CLOUDS](https://www.nexusmods.com/skyrimspecialedition/mods/2393?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** ETHEREAL CLOUDS - Special Edition - 2K
-
 ##### [Skyrim Textures Redone - Enhanced Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/5561?tab=files)
 
 #### Download Instructions

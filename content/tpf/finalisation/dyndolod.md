@@ -1,6 +1,6 @@
 ---
 title: "DynDOLOD"
-weight: 5
+weight: 8
 type: docs
 description: >
   Improving distant terrain and tree LOD with TexGen and DynDOLOD.
@@ -8,87 +8,76 @@ description: >
 
 ## DynDOLOD and Performance
 
-Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the **Low** or **Medium** presets and regular tree LOD, you will hardly notice any performance impact, even on weaker machines, while still drastically improving distant terrain.
+Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the **Low** or **Medium** presets and regular tree LOD, you will hardly notice a performance impact at all, even on weaker machines, while distant terrain is still drastically improved.
 
-More hardware-taxing is however what is typically referred to as "ultra tree LOD" or simply 3D tree LOD. This is a DynDOLOD feature which disables regular tree LOD, the two dimensional, flat "cut-outs". Instead, object LOD is generated for distant trees, utilising 3D meshes which drastically improve the visual quality of tree LOD to the point where you can barely tell fully-rendered trees and distant trees apart anymore.
+However, more taxing is what is typically referred to as "ultra tree LOD" or "3D tree LOD". This is a DynDOLOD feature which disables regular tree LOD, the two dimensional, flat "cut-outs". Instead, object LOD is generated for distant trees, utilising 3D meshes which improves the visual quality of tree LOD to the point where you can barely tell fully-rendered trees and distant trees apart anymore.
 
-3D tree LOD is not recommended for people with less than 4GB VRAM. There is a potential performance impact but it is usually negligible on most modern machines (and very much worth the visual improvement).
+3D tree LOD is not recommended for people with less than 4GB of VRAM. For everyone else, there is still a potential performance impact but it is usually negligible on modern machines (and very much worth the visual improvement).
 
-**You will have the option to generate either regular or 3D tree LOD.** Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.
+**You will have the option to generate *either* regular or 3D tree LOD.** Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.
 
 ## DynDOLOD Setup
 
-* Download the [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) main file manually.
-* Navigate to `Your Modding Folder\Tools` and create a new **DynDOLOD** folder.
-* Open the downloaded **DynDOLOD** archive and move all files into your new directory.
+- Open the Nexus page for [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files).
+- Under **Miscellaneous Files**, download the latest version of **DynDOLOD 3.00** manually.
+- Navigate to `Your Modding Folder\Tools` and create a new **DynDOLOD** folder.
+- Open the downloaded **DynDOLOD** archive and move all files into your new directory.
 
 ### TexGen Executable
 
 * Switch back to Mod Organizer 2 and open the **Executables** window (Tools > Executables or CTRL + E).
 * Click the blue plus icon to add a new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\DynDOLOD`and double-click **TexGenx64.exe**.
-* Under **Arguments**, add the following:
-  * `-sse`
+* Under **Arguments**, add `-sse`.
 
 ### DynDOLOD Executable
 
 * Once again, click the blue plus icon to add a new executable and select **Add from file**.
 * Navigate to `Your Modding Folder\Tools\DynDOLOD`and double-click **DynDOLODx64.exe**.
-* Under **Arguments**, add the following:
-  * -sse
+* Under **Arguments**, add `-sse`.
 * Click **OK** to save and close the **Executables** window.
 
 ![Texgen DynDOLOD Executables](/Pictures/tpf/finalisation/texgen-dyndolod-executables.png)
 
-## TexGen Configuration
+## TexGen
 
-TexGen is a component of DynDOLOD, used to generate textures based on your mod setup.
+- Launch **TexGen** through Mod Organizer 2.
+- Under **Trees/Grass Billboards**, check the boxes for **Tree**, **HD Tree**, and **Rendered**.
+- Increase **Min Texture Size** to **256**.
+- Click **Start** to begin the process.
 
-* Launch **TexGen** through Mod Organizer 2.
-* Set **LOD Texture Size** to `512` if you have 4GB of VRAM or more.
-* Hit **Start**.
-
-> The generation will take a while (about 10 minutes for me) and I recommend you step away from your PC in the meantime.
+> The generation will take a while (around 20 minutes for me) and you should step away from your PC in the meantime.
 
 ![TexGen Settings](/Pictures/tpf/finalisation/texgen-settings.png)
 
-## TexGen Output
+### TexGen Output
 
-* Once TexGen has finished, click **Exit**.
-* Navigate to `Your Modding Folder\Tools\DynDOLOD`.
-* Cut (CTRL + X) the **TexGen_Output** folder and paste (CTRL+V) it to `Mod Organizer 2\mods`.
-* Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your mod order.
-* Place it below the **PATCHER OUTPUT** separator and activate it.
-
-## Tweaks for 3D Tree LOD
-
-> Only follow these instructions if you are planning to generate 3D tree LOD.
-
-- Navigate to `Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD`.
-- Double-click **DynDOLOD_SSE.ini**.
-- Edit the following line to disable traditional tree LOD:
-  * `TreeLOD=0`
-- Save and close **DynDOLOD_SSE.ini**.
-
-### Solstheim Trees
-
-- Check **Enhanced Landscapes - Solstheim 3D Trees** in your mod order (**TREES & PLANTS** separator).
+- Once TexGen has finished, click **Exit TexGen**.
+- Navigate to `Your Modding Folder\Tools\DynDOLOD`.
+- Cut (CTRL + X) the **TexGen_Output** folder and paste (CTRL+V) it to `Mod Organizer 2\mods`.
+- Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your mod order.
+- Place it below the **PATCHER OUTPUT** separator and activate it.
 
 ## DynDOLOD Generation
 
-> Continue here for both 2D or 3D LOD.
+- Run **DynDOLOD** through Mod Organizer 2.
+- In the DynDOLOD Wizard window, click **Advanced**.
+- In the **Advanced** window, you can see a list of all worldspaces at the top.
+- Right-click inside and **Select all**.
+- Under **Load rules for** check both **Candles** and **FXGlow**.
+- Also check **Glow Windows**, **High** and **Fake lights in child worlds**.
 
-* Launch **DynDOLOD** through Mod Organizer 2.
-* In the DynDOLOD Help window, click **OK**.
-* If you are not generating 3D tree LOD, there will be a window where you have to click **Advanced**.
-* In the **Advanced** window, you can see a list of all worldspaces at the top.
-* Right-click inside and **Select all**.
-* Under **Load rules for** check both **Candles** and **FXGlow**.
-* Select one of the presets:
-  * **Low** if you already struggle with performance.
-  * **Medium** as the default option plus regular tree LOD.
-  * **High** for modern machines and 3D tree LOD.
-* Double-check with the picture below that everything is configured correctly, then click **OK**.
+Select one of the presets:
+
+- **Low** if you struggle with performance.
+- **Medium** as the default option.
+- **High** for modern machines.
+
+If you have 4GB of VRAM or more, you can generate 3D tree LOD.
+
+- Check the box for **Ultra** next to **Generate tree LOD**.
+  
+Click **OK** to start generating LOD.
 
 **Step away from your PC while DynDOLOD is working.** This may take around 20-30 minutes.
 

@@ -1,6 +1,6 @@
 ---
 title: "Quests"
-weight: 1
+weight: 2
 type: docs
 description: >
   How vanilla quests are affected by TPF mods.
@@ -151,60 +151,8 @@ For more information, check out SomethingObscure's [detailed change list](https:
 ### No Stone Unturned
 
 - [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395)
-- [Andrealphus' Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/27939)
+- [Stones of Barenziah - Alternate Locations](https://www.nexusmods.com/skyrimspecialedition/mods/46689)
 
 Collecting all Stones of Barenziah for the [No Stone Unturned](https://en.uesp.net/wiki/Skyrim:No_Stone_Unturned) quest can be fairly annoying. To make things easier, you have the option to enable quest markers for each of the 24 stones in the SSoB MCM. The markers will only appear once the actual quest has been started which happens after bringing one of the stones to Vex in The Ragged Flaggon.
 
 The quest now also requires you to play the DLC as two stones from core Skyrim locations were moved to DLC locations. The stone in Proudspire Manor can now be found in Harkon's room in Volkihar Keep while the stone in Whiterun's Hall of the Dead was placed in Tel Mithryn on Solstheim.
-
-## Quest Rewards
-
-In vanilla, some fetch or delivery quests will pay more than killing a dangerous bounty. There are some mods to try and rectify that.
-
-### Reward Changes
-
-*Vanilla Reward* >> *TPF Reward*
-
-- [Enchanting Pick-Up](https://en.uesp.net/wiki/Skyrim:Enchanting_Pick-Up): 250-750 Gold >> 25-75 Gold
-- [Few and Far Between](https://en.uesp.net/wiki/Skyrim:Few_and_Far_Between): 250-750 Gold >> 50-150 Gold
-- [Special Delivery (Bolli)](https://en.uesp.net/wiki/Skyrim:Special_Delivery_(Bolli)): 1 Silver Ingot + 1 Leveled Ingot >> 6-20 Gold
-- [Arniel's Endeavour (Dwemer Cogs)](https://en.uesp.net/wiki/Skyrim:Arniel%27s_Endeavor): 250-750 Gold >> 50-150 Gold
-- [Aftershock](https://en.uesp.net/wiki/Skyrim:Aftershock): 500-1,500 Gold >> 25-75 Gold
-- [Climb the Steps](https://en.uesp.net/wiki/Skyrim:Climb_the_Steps): 500-1500 Gold >> 25-75 Gold
-- [Heart Stones](https://en.uesp.net/wiki/Skyrim:Heart_Stones): 250 Gold >> 125 Gold
-- [Pain in the Necklace](https://en.uesp.net/wiki/Skyrim:Pain_in_the_Necklace): 500 Gold >> 200 Gold (per pendant)
-- [Elmus Favor Quest (mead)](https://en.uesp.net/wiki/Skyrim:Elmus_Favor_Quest_(mead)): 400-1,200 Gold >> 25-75 Gold
-- [Elmus Favor Quest (berries)](https://en.uesp.net/wiki/Skyrim:Elmus_Favor_Quest_(berries)): 250-750 Gold >> 25-75 Gold
-- [That Was Always There](https://en.uesp.net/wiki/Skyrim:That_Was_Always_There): 400-1,200 Gold >> 25-75 Gold
-- [Delayed Burial](https://en.uesp.net/wiki/Skyrim:Delayed_Burial): 250-750 Gold >> 25-75 Gold
-- [Search and Seizure](https://en.uesp.net/wiki/Skyrim:Search_and_Seizure): 400-1,200 Gold >> 25-75 Gold
-- [Kill the Bandit Leader (Jarl)](https://en.uesp.net/wiki/Skyrim:Kill_the_Bandit_Leader_(Jarl)): 500-1,500 Gold >> 25-75 Gold
-- [A Sanuarach Mine](https://en.uesp.net/wiki/Skyrim:Sanuarach_Mine_(quest)): 400-1,200 Gold >> 25-75 Gold
-- [The Dark Brotherhood Forever](https://en.uesp.net/wiki/Skyrim:The_Dark_Brotherhood_Forever): 400-1,200 Gold >> 25-75 Gold
-- [Fit for a Jarl](https://en.uesp.net/wiki/Skyrim:Fit_for_a_Jarl): 250-750 Gold >> 25-75 Gold.
-- [Return to Grace](https://en.uesp.net/wiki/Skyrim:Return_to_Grace): 250-750 Gold >> 25-75 Gold.
-- [Rare Gifts](https://en.uesp.net/wiki/Skyrim:Rare_Gifts): 400-1,200 Gold >> 25-75 Gold
-
-### Rewards By Level
-
-**Favor Reward Quarter**
-
-- Level 1: **6** Gold
-- Level 10 **10** Gold
-- Level 20: **12** Gold
-- Level 30: **15** Gold
-- Level 40: **20** Gold
-
-> Only for a single quest, Special Delivery (Bolli).
-
-**Favor Reward Small**
-
-- Level 1: **25** Gold
-- Level 10: **40** Gold
-- Level 20: **50** Gold
-- Level 30: **60** Gold
-- Level 40: **75** Gold
-
-### Dark Brotherhood
-
-Toward the end of the DB questline, you will receive the enormous sum of 20,000 septim with which to rebuild the Dawnstar sanctuary. What remains as the quest reward for yourself are a mere 1,000 septim. This was changed (by skepman in Economy Overhaul which is what our quest reward mod is based on) to a total of 10,000 septim of which you may keep 3,000 after spending 7,000 on the sanctuary.

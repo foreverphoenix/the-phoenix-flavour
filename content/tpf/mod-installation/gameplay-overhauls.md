@@ -67,6 +67,42 @@ description: >
 
 - **Main Files:** Simple Werewolf Favourite Howls Menu
 
+##### [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Forceful Tongue - Shouts Overhaul
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Adamant Patch
+  - ~~Audio Overhaul for Skyrim Patch~~
+  - Audio Overhaul for Skyrim + Weapon Speed Effects Fix Patch
+  - Deadly Spell Impacts Patch
+  - Dragon Wall Wisdom Patch
+  - Durnehviir Resurrected Patch
+  - ~~Ordinator Patch~~
+  - Shouts in the Dragon Tongue - Words Only Patch
+  - ~~SPERG Patch~~
+  - Timing is Everything Patch
+  - ~~Vokrii Patch~~
+  - ~~Weapon Speed Effects Fix Patch~~
+  - ~~Wyrmstooth Patch~~
+
+##### [Dragon Aspect Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/29941?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dragon Aspect Overhaul
+
+#### FOMOD Instructions
+
+- **Version:** Shout
+- **Unique Dragon Aspect:**
+  - ~~Dragon Aspect Overhaul Vanilla - Unique Dragon Aspect Patch~~
+  - Dragon Aspect Overhaul Shout - Unique Dragon Aspect Patch
+
 ##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
 
 #### Download Instructions
@@ -103,12 +139,6 @@ description: >
 
 > Only check the one patch marked above. All other patches offered are not required as conflicts are resolved in TPF's final patch.
 
-##### [Genuinely Intelligent Soul Traps (GIST)](https://www.nexusmods.com/skyrimspecialedition/mods/15755?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** GIST Soul Trap
-
 ##### [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
 
 #### Download Instructions
@@ -127,30 +157,10 @@ description: >
 
 #### Download Instructions
 
-* **Optional Files:** CFTO - Fixes and Winterhold (Arthmoor's Dawnstar)
+* **Main Files:** CFTO - Fixes and Winterhold
 
 #### FOMOD Instructions
 
 * **Main:** Vanilla
 * **Covered Carriages Add-On:** ESL-flagged
 * **Lanterns Add-On:** ESL-flagged
-
-##### [Miscellaneous Tweaks Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
-- **Main Files:** Misc Tweaks - Better Horses
-- **Main Files:** Misc Tweaks - More Expensive Player Homes
-- **Main Files:** Misc Tweaks - More Realistic Animal Loot
-- **Main Files:** Misc Tweaks - Night Eye Redux
-- **Main Files:** Misc Tweaks - No Starting Spells
-- **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
-
-#### FOMOD Instructions - No Starting Spells
-
-- **Plugin:** AI Overhaul Compatible Plugin
-
-#### FOMOD Instructions - Shrines Don't Cure Diseases
-
-- **Plugin:** Adamant Shrines Version

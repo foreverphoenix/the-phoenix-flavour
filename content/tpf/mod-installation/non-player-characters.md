@@ -98,46 +98,24 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 > Even though Timing Is Everything will be installed later and lower in the mod order, the scripts from the TNA TIE patch will still override because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
 
-##### [Prince and the Pauper](https://www.nexusmods.com/skyrimspecialedition/mods/8354?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Prince and the Pauper SE 4.1
-
-#### FOMOD Instructions
-
-* **Texture Options:** Rustic Clothing
-
 ##### [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Hearthfire Multiple Adoptions and Custom Home Support SE
 
-##### [Prince and the Pauper - Hearthfire Multiple Adoptions Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35753?tab=files)
+#### Additional Instructions
 
-#### Download Instrcutions
-
-- **Main Files:** Prince and the Pauper - Hearthfire Multiple Adoptions Patch
+- Unpack **HearthfireMultiKid.bsa** through Mod Organizer 2.
+- Delete the following file(s) and / or folder(s):
+  - `HearthfireMultiKid.bsa`
+  - `HearthfireMultiKid.bsl`
 
 ##### [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Adopt Aventus Aretino
-
-##### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** DIVERSE SKYRIM SSE
-
-#### Additional Instructions
-
-* Delete the following file(s) and/or folder(s):
-  * `DIVERSE SKYRIM.bsa`
-
-> The archive contains the facegen files which we will regenerate later on.
 
 ##### [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718?tab=files)
 

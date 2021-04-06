@@ -42,6 +42,12 @@ description: >
 * **Frost:** Default
 * **Lightning:** Alternate 1
 
+##### [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Deadly Spell Impacts Transparency Fix
+
 ##### [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files)
 
 #### Download Instructions
@@ -104,19 +110,3 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Less Distracting Blowing Snow Effects 1.0
-
-##### [Glow Be Gone SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** GlowBeGoneSSE-Updated
-
-##### [Glow Be Gone SKSE Updated GhostFX Workaround](https://www.nexusmods.com/skyrimspecialedition/mods/36112/?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** GhostFX Workaround
-
-#### FOMOD Instructions
-
-- **Select an option:** Vanilla + Mysticism

@@ -77,9 +77,9 @@ At the moment, we only need zEdit for one very small step toward the end of the 
 
 ![zEdit Download](/Pictures/tpf/initial-setup/zedit-download.png)
 
-## Cathedral Assets Optimizer (CAO)
+## Cathedral Assets Optimizer
 
-Cathedral Assets Optimizer by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
+Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
 
 ### Installation
 

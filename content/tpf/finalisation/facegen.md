@@ -1,6 +1,6 @@
 ---
 title: "Facegen"
-weight: 2
+weight: 3
 type: docs
 description: >
   Creating facegen for vanilla NPCs and mods.
@@ -12,13 +12,13 @@ Among the most common "bugs" in Skyrim is the dreaded "black face" which is simp
 
 TPF is using a number of mods to improve NPC appearance. However, by default many of these mods will only affect the player character and facegen must be regenerated with those mods so that they can apply to NPCs as well. In this step we will regenerate facegen not only for all vanilla NPCs but also for NPCs added by certain mods for consistent and high quality facegen across the board.
 
-The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**.
+The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**. Since we are using High Poly Head, we need to also update the head parts on NPCs which an xEdit script will do for us.
 
-> **Warning:** For this process you need to have at least 20GB of free space on the hard drive where Mod Organizer 2 is installed on. You will generate about 17GB of facegen files (which are later compressed and packed to take up less than 1GB). In general you should have quite a bit more than 20GB of free space on your drive anyway.
+> **Warning:** For this process you need to have at least 20GB of free space on the hard drive where Mod Organizer 2 is installed on. You will generate about 13.4GB of facegen files (which are later compressed and packed to take up less than 1GB). In general you should have quite a bit more than 20GB of free space on your drive anyway.
 
 ### New Separator
 
-- Create a **PATCHER OUTPUT** in Mod Organizer 2.
+- Create a **PATCHER OUTPUT** separator in Mod Organizer 2.
 - It should be at the bottom of your mod order, below the CRP.
 
 ## Creation Kit Tweak
@@ -50,15 +50,13 @@ The official master files have a large amount of NPC records, not all of which n
   - `Dragonborn.esm`
   - `Unofficial Skyrim Special Edition Patch.esp`
   - `SimpleVampFixesSSE.esp`
-  - `UniqueBorderGates-All.esp`
-  - `SolstheimLighthouse.esp`
-  - `SkaalFishingCamp.esp`
   - `NaturalHairColors.esp`
   - `CFTO.esp`
-  - `DIVERSE SKYRIM.esp`
   - `Immersive Patrols II.esp`
   - `OCW_Obscure's_CollegeofWinterhold.esp`
   - `ICNs_ImmersiveCollegeNPCs.esp`
+  - `SolstheimLighthouse.esp`
+  - `SkaalFishingCamp.esp`
 - Click **OK** to load the selected plugins.
 
 ### Create Plugin
@@ -120,7 +118,7 @@ Proceed when the CK has loaded up the plugin and its dependencies.
 
 ## Optimising Facegen
 
-At this time you will have about 17GB of loose facegen files in your ***Overwrite*** folder. Before we slim those down, let's clean up a bit:
+At this time you will have about 13.4GB of loose facegen files in your ***Overwrite*** folder. Before we slim those down, let's clean up a bit:
 
 - Right-click your ***Overwrite*** folder and select **Create mod**.
 - Enter **Facegen Output** as the name and click **OK**.
@@ -129,12 +127,12 @@ At this time you will have about 17GB of loose facegen files in your ***Overwrit
 
 ### Cathedral Assets Optimizer
 
-Using CAO we will compress the facegen files and pack them neatly into BSAs. This will bring down the total file size from 17GB to around 2GB.
+Using CAO we will compress the facegen files and pack them neatly into BSAs. This will bring down the total file size from 13.4GB to around 770MB.
 
 - Run **Cathedral Assets Optimizer** (outside of Mod Organizer 2).
 - Select the **SSE - Optimise Facegen** profile.
 - Click **Open Directory** and navigate to your **Facegen Output** mod folder.
 - Click **Run** and wait for CAO to process all files.
-- This will take some time (about 6 minutes for me). The CAO log will eventually return `[INFO] Process completed`. Close CAO.
+- This will take some time (about 5 minutes for me). The CAO log will eventually return `[INFO] Process completed`. Close CAO.
 - Return to Mod Organizer 2 and press F5 to refresh. Two new plugins will appear at the bottom of your load order.
 - Make sure both **Facegen Output.esp** and **Facegen Output0.esp** are checked so they can load the BSAs containing the facegen.

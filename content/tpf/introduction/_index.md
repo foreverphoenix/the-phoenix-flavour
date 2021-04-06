@@ -37,6 +37,14 @@ The simple truth of the matter is that TPF is written and patched by two people 
 
 Those experienced with modding and SSEEdit will find it very easy to customise the guide to their liking (though you should be aware that you are no longer eligible for support once you deviate from the instructions). Otherwise, there are many alternatives in the form of other guides and Wabbajack mod lists, including forks of TPF with mods adding more content.
 
+### TPF as a teacher
+
+TPF has two purposes: 1) to create and document what I consider my personal ideal version of Skyrim, and 2) to teach its users as much about modding as possible without requiring any prior modding experience. Throughout the guide we will make use of a large amount of tools and procedures, including proper use of Mod Organizer 2 or how to rebuild facegen using the Creation Kit. 
+
+The manual guide exists first and foremost to show users step-by-step how TPF was built. Naturally, there are some steps missing, most notably the creation of the Conflict Resolution Patch which would require a near TPF-length guide in itself to cover its creation. Everything else is, however, covered in detail.
+
+The nature of the guide requires a certain motivation on the part of the user to read and learn. Thankfully, there is a shortcut (the autoinstaller Wabbajack) that is detailed a little further down.
+
 ## Features
 
 Regardless of whether you build the setup manually or use the Wabbajack installer, here is what the resulting mod setup will feature:
