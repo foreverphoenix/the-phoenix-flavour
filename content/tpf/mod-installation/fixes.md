@@ -173,7 +173,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Bug Fixes SSE v2
+- **Main Files:** Bug Fixes SSE v3
 
 ##### [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
 

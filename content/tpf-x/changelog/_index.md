@@ -18,7 +18,7 @@ description: >
 - **Gameplay:** Added Disable Cinematic Kills.
 - **Gameplay:** Added Werewolf Killcam Remover.
 - **New Gear:** Fixed optional files from Royal Armory Reforged being listed with the Plugin Replacer.
-- **New Gear:** Updated download instructions for Royal Armory Plugin Replacer - Patch Hub.
+- **New Gear:** Updated download and FOMOD instructions for Royal Armory - Plugin Replacer.
 - **Miscellaneous:** Switched from "sequential" to "simultaneous" version of Dragon Claws Auto-Unlock.
 
 ## Release 1.0
