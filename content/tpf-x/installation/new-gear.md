@@ -33,11 +33,19 @@ Royal Armory is **optional**. If you choose to install it, install the other two
 #### Download Instructions
 
 - **Main Files:** Royal Armory - Replacer
-- **Old Files:** Royal Armory - Replacer Patch Hub
 
-#### FOMOD Instructions - Patch Hub
+#### FOMOD Instructions
 
-- **Patches:** Obscure's College of Winterhold - Cell Setting Patch
+- **Royal Armory:** Royal Armory
+- **Patches:**
+  - ~~Blue Palace Terrace Patch~~
+  - ~~Immersive College of Winterhold Patch~~
+  - ~~Obscure's College of Winterhold Patch~~
+  - Obscure's College of Winterhold - Cell Setting Patch
+  - ~~Palaces and Castles Enhanced Patch~~
+  - ~~This is Jorrvaskr - Home of the Companions Patch~~
+  - ~~Unique Thane Weapon Patch~~
+  - ~~Unique Thane Weapon + Palaces and Castles Enhanced Patch~~
 
 #### Load Order Instructions
 
