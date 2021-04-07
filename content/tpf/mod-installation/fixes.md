@@ -18,7 +18,7 @@ description: >
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
 - In **Line 13**, set **equipBestAmmo** to **true** (don't remove the comma).
-- In **Line 15**, set **"underfilledSoulGems":** to **true**.
+- In **Line 16**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
@@ -43,7 +43,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Skyrim Landscape and Water Fixes
+- **Main Files:** Skyrim Landscape and Water Fixes - FOMOD
 
 #### FOMOD Instructions
 
@@ -51,6 +51,7 @@ description: >
   - ~~ELFX~~
   - ~~Relighting Skyrim~~
   - ~~CACO~~
+  - Landscape Fixes for Grass Mods
 - **Walkway Wall FIX:**
   - Walkway Wall FIX SMIM
 - **Optional:**

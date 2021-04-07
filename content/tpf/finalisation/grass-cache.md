@@ -32,7 +32,7 @@ Generating grass cache takes a good chunk of time. Skyrim is launched and will b
 
 - When the message box pops up - **Grass generation finished successfully!** - click **OK**.
 - Back in Mod Organizer 2, you will be informed that grass cache was successfully generated, click **OK** again.
-- Double-click your ***Overwrite*** and delete the **NetScriptFramework** folder inside (it contains grass cache crass logs).
+- Double-click your ***Overwrite*** and delete the **NetScriptFramework** folder inside (it contains grass cache crash logs).
 - Close the ***Overwrite*** again and right-click it.
 - Select **Create Mod** and name it **Grass Cache**.
 - Right-click the new mod and select **Ignore missing data**.

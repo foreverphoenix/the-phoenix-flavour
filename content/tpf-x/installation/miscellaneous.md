@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-weight: 6
+weight: 7
 type: docs
 description: >
   Various other mods I personally play with.
@@ -37,7 +37,7 @@ This mod is **optional**.
 
 #### Download Instructions
 
-- **Main Files:** Dragon Claws Auto-Unlock (Sequential)
+- **Main Files:** Dragon Claws Auto-Unlock (Simultaneous)
 
 ### **[No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218?tab=files)**
 

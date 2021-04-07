@@ -180,7 +180,7 @@ Installing the preset won't prevent you from being able to configure the AMOT se
   * `icepenguinworldmapclassic - textures.bsa`
   * `icepenguinworldmapclassic.esp`
 
-> The BSA is unpacked and deleted in order to allow A Quality World Map to overwrite some LOD files from Cathedral Landscapes. The plugin only contains one record which is completely overwritten by the AQWM+Luminosity lighting patch.
+> The BSA is unpacked and deleted in order to allow us to more reliably be able to find conflicting files in generated terrain LOD later on. The plugin only contains one record which is completely overwritten by the AQWM+Luminosity lighting patch.
 
 #### Additional Instructions, Part 2
 

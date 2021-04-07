@@ -1,6 +1,6 @@
 ---
 title: "Player Homes"
-weight: 5
+weight: 6
 type: docs
 description: >
   New player homes.

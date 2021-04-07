@@ -119,12 +119,6 @@ description: >
 
 - **Main Files:** No Spinning Death Animation MERGED
 
-##### [Fixed Body Collision](https://www.nexusmods.com/skyrimspecialedition/mods/10849?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Fixed body collision
-
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 
 #### Download Instructions
@@ -164,6 +158,10 @@ description: >
 - **Main Files:** No Crime Teleport
 
 ##### [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** True Teacher Durnehviir
 
 ##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
 

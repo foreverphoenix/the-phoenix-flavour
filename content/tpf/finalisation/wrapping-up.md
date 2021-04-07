@@ -52,7 +52,7 @@ While at this point many installed plugins are already flagged as ESL (ESP-Lite)
 * Run **SSEEdit** through Mod Organizer 2.
 * Click **OK** in the plugin selection window to load all your mods.
 * Wait until SSEEdit has finished loading up your plugins and returns `Background loader: finished`.
-* Right-click **UniqueBorderGates-All-PointTheWay.esp** in the left pane (near the bottom) and select **Compact FormIDs for ESL**.
+* Right-click **Raven Rock - Fix Exit on Horseback.esp** in the left pane (near the bottom) and select **Compact FormIDs for ESL**.
 * A warning window will pop up, click **Yes, I’m absolutely sure**.
 * Another warning will inform you that there are indeed FormIDs to renumber. Click **Yes**.
 * The process itself takes a mere second. When it’s done, switch back to the **View** tab at the bottom to see the plugin’s file header.
@@ -67,7 +67,7 @@ While at this point many installed plugins are already flagged as ESL (ESP-Lite)
 You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it.
 
 * QuestsAreInSkyrimUSSEP.esp
-* Raven Rock - Fix Exit on Horseback.esp **compact FormIDs**
+* ~~Raven Rock - Fix Exit on Horseback.esp~~ *already flagged*
 * Dawnguard Dont Hunt Cured Vampires.esp
 * ChargeDialogueFix.esp
 * WindhelmSegregation.esp
@@ -81,7 +81,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * NoMoreFollowerHuntingBow.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
-* Fixed body collision.esp
 * SparklesSE.esp
 * SimplySmallerWolfs2.esp
 * SIDT - Special Edition.esp
@@ -89,8 +88,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * dD-Reduced Wound Size.esp
 * DeadlySpellImpacts.esp
 * Enhanced Vanilla Trees SSE.esp
-* ~~UniqueBorderGates-All-PointTheWay.esp~~ *already flagged*
-* UniqueBorderGates-All-BetterDGEntrance.esp **compact FormIDs**
 * RUSTIC SOULGEMS - Sorted.esp
 * homeymealyum.esp
 * GQJ_DG_vampireamuletfix.esp
