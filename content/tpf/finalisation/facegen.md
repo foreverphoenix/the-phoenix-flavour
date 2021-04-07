@@ -1,6 +1,6 @@
 ---
 title: "Facegen"
-weight: 3
+weight: 4
 type: docs
 description: >
   Creating facegen for vanilla NPCs and mods.
@@ -12,14 +12,9 @@ Among the most common "bugs" in Skyrim is the dreaded "black face" which is simp
 
 TPF is using a number of mods to improve NPC appearance. However, by default many of these mods will only affect the player character and facegen must be regenerated with those mods so that they can apply to NPCs as well. In this step we will regenerate facegen not only for all vanilla NPCs but also for NPCs added by certain mods for consistent and high quality facegen across the board.
 
-The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**. Since we are using High Poly Head, we need to also update the head parts on NPCs which an xEdit script will do for us.
+The process of creating facegen was significantly simplified by **Nuukem's Creation Kit Fixes** and **VictorF's zEdit script**.
 
 > **Warning:** For this process you need to have at least 20GB of free space on the hard drive where Mod Organizer 2 is installed on. You will generate about 13.4GB of facegen files (which are later compressed and packed to take up less than 1GB). In general you should have quite a bit more than 20GB of free space on your drive anyway.
-
-### New Separator
-
-- Create a **PATCHER OUTPUT** separator in Mod Organizer 2.
-- It should be at the bottom of your mod order, below the CRP.
 
 ## Creation Kit Tweak
 

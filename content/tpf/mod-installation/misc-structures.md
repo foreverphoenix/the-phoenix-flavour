@@ -139,7 +139,7 @@ description: >
 - **Statue:** Mara
 - **Statue:** Mehrunes Dagon
 - **Alter Options:** Option 1
-- **Statue:** Meridian
+- **Statue:** Meridia
 - **Statue:** Molag Bal
 - **Statue:** Namira
 - **Statue:** Nocturnal

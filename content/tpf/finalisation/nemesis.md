@@ -1,6 +1,6 @@
 ---
 title: "Nemesis"
-weight: 4
+weight: 3
 type: docs
 description: >
   Generating Nemesis.
@@ -11,6 +11,11 @@ description: >
 **Nemesis Unlimited Behavior Engine** is a tool used to add custom animations to Skyrim. It is an open-source replacement and upgrade for FNIS, and required for several animation-related mods in TPF.
 
 Nemesis will generate a number of files specifically for your setup. In order to simplify the file management, we will set up an output folder ahead of time.
+
+### New Separator
+
+- Create a **PATCHER OUTPUT** separator in Mod Organizer 2.
+- It should be at the bottom of your mod order, below the CRP.
 
 ### Nemesis Output Folder
 
@@ -36,11 +41,11 @@ Nemesis will generate a number of files specifically for your setup. In order to
 - Run **Nemesis** (the executable we just added) through Mod Organizer 2.
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
 - Click the **Update Engine** button and wait for the process to be completed.
-- When it's done, check the **Jump Behavior Overhaul** and **Movement Behavior Overhaul** boxes.
+- When it's done, check the **Jump Behavior Overhaul** box.
 - Click the big **Launch Nemesis Behavior Engine** button.
 - Nemesis will eventually return `Behavior generation complete` and you can close the tool.
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Nemesis Output** mod folder.
-- A **FNIS.esp** will appear at the bottom of your load order. Activate it.
+- A **FNIS.esp** will appear at the bottom of your load order. Make sure it's activated.
 
 > FNIS.esp is an empty dummy plugin used to trick XPMSSE, the skeleton replacer, into thinking FNIS is actually present in the load order. Functionally, FNIS is replaced by Nemesis.
 

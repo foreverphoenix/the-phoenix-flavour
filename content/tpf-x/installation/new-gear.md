@@ -1,6 +1,6 @@
 ---
 title: "New Gear"
-weight: 3
+weight: 4
 type: docs
 description: >
   Additional weapons and armors.
@@ -23,6 +23,9 @@ Royal Armory is **optional**. If you choose to install it, install the other two
 #### Download Instructions
 
 - **Main Files:** Royal Armory - Reforged - Main Replacer 1.1
+- **Optional Files:** Dragonfang - Penitus Logo >> `merge with the main file`
+- **Optional Files:** Hafyllbrand - Custom Textures >> `merge with the main file`
+- **Optional Files:** Sword of Dragonsreach - Custom Textures >> `merge with the main file`
 - **Optional Files:** Loadscreen Models Update
 
 ### **[Royal Armory - New Artifacts Plugin Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/44392?tab=files)**
@@ -30,10 +33,7 @@ Royal Armory is **optional**. If you choose to install it, install the other two
 #### Download Instructions
 
 - **Main Files:** Royal Armory - Replacer
-- **Optional Files:** Dragonfang - Penitus Logo >> `merge with the main file`
-- **Optional Files:** Hafyllbrand - Custom Textures >> `merge with the main file`
-- **Optional Files:** Sword of Dragonsreach - Custom Textures >> `merge with the main file`
-- **Optional Files:** Royal Armory - Replacer Patch Hub
+- **Old Files:** Royal Armory - Replacer Patch Hub
 
 #### FOMOD Instructions - Patch Hub
 

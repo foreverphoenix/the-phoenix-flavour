@@ -82,7 +82,7 @@ Game settings can be implemented in two ways: They can be added to a plugin or t
 
 - Double-click **Autorun Console Commands** in Mod Organizer 2.
 - Switch to the **Text Files** tab and select the **Autorun.txt** file.
-- Copy and paste the following two lines into the text field:
+- Copy and paste the following lines into the text field:
 
 ```
 cl off

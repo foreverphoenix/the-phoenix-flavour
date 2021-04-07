@@ -61,6 +61,12 @@ description: >
 
 - **Main Files:** Yngol SSE
 
+##### [Armor of Yngol - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Armor of Yngol - WACCF Patch
+
 ##### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
 
 #### Download Instructions

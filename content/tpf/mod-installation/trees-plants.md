@@ -190,19 +190,49 @@ fWindGrassMultiplier=1.4
 
 * **Main Files:** Cathedral - Plants
 
-##### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312?tab=files)
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\whiterun\wrtreealivebark01.dds`
+  - `textures\architecture\whiterun\wrtreeadeadbark01.dds`
+
+> I prefer the bark textures from Noble Skyrim.
+
+##### [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Cathedral - 3D Mountain Flowers
+- **Main Files:** SFO (No grass) v2.72G
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+  - `textures\architecture\`
+  - `textures\landscape\`
+  - `textures\terrain\`
+  - `Skyrim Flora Overhaul.esp`
 
 ##### [Flora Mod Collection](https://www.nexusmods.com/skyrim/mods/80722/?tab=files)
 
 #### Download Instructions
 
-- **Miscellaneous Files:** Fern - 2K
 - **Miscellaneous Files:** Green Ivy - 2K
 - **Miscellaneous Files:** Swamp Fungal Pod - 2K
+
+##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
+
+#### Download Instructions
+
+- **Bonus Stuff:** HIGH POLY FERN MESHES FOR SSE
+
+![Download HP Fern](/Pictures/tpf/mod-installation/download-high-poly-fern.png)
+
+#### Installation Instructions
+
+- Move the downloaded archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- In Mod Organizer 2, press F5 to refresh.
+- Install the mod as usual from the **Downloads** tab.
 
 ##### [Sufficiently Optimised Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033?tab=files)
 
@@ -261,6 +291,12 @@ fWindGrassMultiplier=1.4
 #### Download Instructions
 
 - **Main Files:** High Poly Gleamblossoms - ENB light
+
+##### [Caveworm Plant Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/41956?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Caveworm
 
 ##### [High Poly Soul Husks](https://www.nexusmods.com/skyrimspecialedition/mods/47891?tab=files)
 

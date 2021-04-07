@@ -6,6 +6,90 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5.1
+
+> 07/04/2021
+
+Fixes for 4.5 as expected. Thanks to everyone on Discord who gave feedback and reported issues!
+
+This version will also be available on Wabbajack shortly.
+
+**Cathedral 3D Mountain Flowers:**
+
+As mountain flowers go [these](https://www.nexusmods.com/skyrimspecialedition/mods/41312) are probably the most elaborate out there. I was very impressed by the new models and textures, and added them to TPF a few versions ago. Since then I've played the game quite a bit with them installed and I can no longer deny that they simply stick out. I just realised that their ESM has a bunch of conflicts with Skyrim Landscape and Water Fixes that I somehow managed to miss so that was the final nail in the coffin. The mod was removed in this update (not patching conflicts for a mod that's about to be removed anyway). Instead I added Skyrim Flora Overhaul (only the plant retextures) which is still an improvement over vanilla.
+
+**Double enchantments:**
+
+Up until very recently, double enchantments in Skyrim were bugged. This affected the Solstheim "Chaos Damage" enchantment (fire, frost, and shock) as well as the "Fortify <school\> & Magicka Regen" enchantment from the base game. These enchantments could be learned by the player, but when the player applied them to equipment, only one of the effects actually scaled with their Enchanting skill level while the other remained at "Novice" strength.
+
+Previously this was worked around by the mod [Enchanting Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/8473) which replaced the enchantments learnt by single ones (Shock Damage for Chaos Damage and Fortify <school\> for Fortify <school\> + Magicka Regen). A better implementation might have been to flag all items with these enchantments as not disenchantable but that is far more work and creates compatibility issues.
+
+Either way, this fix is no longer necessary because **KernalsEgg**, author of the new and brilliant [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532) mod, actually fixed it. I edited Enchanting Adjustment accordingly (through the CRP) so you can once again learn and use the double enchantments in question.
+
+#### Mod Installation
+
+- Fixed various typos.
+- **Fixes:** Updated additional instructions for Scrambled Bugs (final INI tweak moved to line 16 by latest update).
+- **Fixes:** Updated download instructions for Skyrim Landscape and Water Fixes (file name changed).
+- **Fixes:** Updated FOMOD Instructions for Skyrim Landscape and Water Fixes.
+- **Tweaks:** Added No More Follower Hunting Bows (undocumented 4.5 addition).
+- **Tweaks:** Removed Fixed Body Collision (causes physics issues, "tripping" over bodies, etc).
+- **Tweaks:** Fixed missing download instructions for True Teacher Durnehviir.
+- **Interface:** Fixed explanation for A Quality World Map (now unpacking archive for SSELODGen).
+- **Graphics Baseline:** Added instructions to create a projecteddiffuse.dds for Noble Skyrim (undocumented 4.5 addition).
+- **Landscape:** Fixed download instructions for Skyrim Remastered - Glaciers and Ice (second download is in optional files).
+- **Landscape:** Updated download instructions for Realistic Water Two (version number change).
+- **Trees & Plants:** Added instructions to remove two textures from Cathedral Plants.
+- **Trees & Plants:** Removed Cathedral 3D Mountain Flowers.
+- **Trees & Plants:** Added Skyrim Flora Overhaul.
+- **Trees & Plants:** Removed download instructions for the Fern main file from Flora Mod Collection.
+- **Trees & Plants:** Added Skyrim High Poly Fern Meshes.
+- **Trees & Plants:** Added Caveworm Plant Retexture.
+- **Gameplay:** Added Dragon Aspect Overhaul (undocumented 4.5 addition).
+- **Gameplay:** Removed Genuinely Intelligent Soul Gems (undocumented 4.5 removal).
+- **New Content:** Added Armor of Yngol - WACCF Patch.
+
+#### Finalisation
+
+- **Wrapping Up:** Replaced example plugin for ESL-ifying (UniqueBorderGates-All-PointTheWay.esp was removed in 4.5).
+- **Wrapping Up:** Removed Fixed body collision.esp from the list of plugins to ESL-ify (removed from the guide.)
+- **Wrapping Up:** Removed UniqueBorderGates-All-BetterDGEntrance.esp from the list of plugins to ESL-ify (removed from the guide).
+- **Nemesis:** Moved this step *before* Facegen. Nemesis mods crash the Creation Kit before they are patched.
+- **Nemesis:** Moved creation of the PATCHER OUTPUT separator from Facegen to this page.
+- **Nemesis:** Removed mention of Movement Behavior Overhaul and replaced a related screenshot.
+- **Facegen:** Removed mention of High Poly Head which didn't get added after all.
+
+#### Conflict Resolution Patch
+
+- Fixed remaining miscellaneous conflicts.
+- Actually fixed conflicts with Reasonable Quest Rewards (they got lost in 4.5 somehow)
+- Tweaked Armor of Yngol implementation (chest now only contains armor pieces and should only appear during the quest)
+- Re-enabled double enchantments because Scrambled Bugs now contains a fix for them
+
+#### Wabbajack Installer
+
+- Regenerated all outputs
+- Updated Mod Organizer 2 to 2.4.1
+- Updated SSE Creation Kit Fixes to 3.2
+- Updated SSE Display Tweaks to 0.4.9-1
+- Updated the Skyrim Particle Patch
+- Updated Skyrim Landscape and Water Fixes to 6.0
+- Updated Storm Lightning to 1.4.9
+- Updated Smoking Torches and Candles to 1.76
+- Updated Realistic Water Two to 3.1.0
+- Updated High Poly Blackreach Mushrooms to 1.1
+- Updated Cathedral Armory - TPF Repack to 1.1.3
+- Updated Aetherius - A Race Overhaul to 2.4.1
+- Updated Mundus - A Standing Stone Overhaul to 1.5.0
+- Updated Reliquary of Myth - Artifact Overhaul to 3.8.0
+- Updated Radiant Requirements to 1.1.0
+- Updated Blade and Blunt - A Combat Overhaul to 1.3.0
+- Updated Lightweight Smithing Tweaks to 2.3
+- Updated Misc Tweaks - Better Horses to 1.3
+- Updated Private Profile Redirector to 0.5.2
+- Updated ENBSeries (no version change)
+- Updated SSELODGen to Beta 76
+
 ## Release 4.5
 
 > 06/04/2021
@@ -16,6 +100,7 @@ It is done! TPF 4.5 is the biggest update since 4.0 and I spent altogether too l
 - TPF is now using the new DynDOLOD 3.0 which is still in Alpha but perfectly functional.
 - Some mods (Extended UI, QuickLoot) were moved to the new addon, TPF-X.
 - Added new enemy types, a better console UI, an overhaul for Shouts, tweaks for bounties and quest rewards, and more.
+- **This update is NOT save-safe.** You must start a new game.
 
 **Removed mods:**
 
@@ -242,24 +327,6 @@ It is done! TPF 4.5 is the biggest update since 4.0 and I spent altogether too l
 - Resolved conflicts between Reasonable Quest Rewards and other mods
 - Resolved conflicts between Less (sic) Cure Disease Potions and other mods
 - Fixed campfire texture sets (thanks Dusky!)
-
-#### Wabbajack Installer
-
-- Updated Mod Organizer 2 to 2.4.1
-- Updated SSE Creation Kit Fixes to 3.2
-- Updated SSE Display Tweaks to 0.4.9-1
-- Updated the Skyrim Particle Patch
-- Updated Storm Lightning to 1.4.9
-- Updated Smoking Torches and Candles to 1.76
-- Updated Realistic Water Two to 3.1.0
-- Updated Cathedral Armory - TPF Repack to 1.1.3
-- Updated Reliquary of Myth - Artifact Overhaul to 3.8.0
-- Updated Radiant Requirements to 1.1.0
-- Updated Lightweight Smithing Tweaks to 2.3
-- Updated Misc Tweaks - Better Horses to 1.3
-- Updated Private Profile Redirector to 0.5.2
-- Updated ENBSeries (no version change)
-- Updated SSELODGen to Beta 76
 
 ## Release 4.4.3
 

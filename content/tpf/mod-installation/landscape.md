@@ -99,7 +99,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Skyrim Remastered - Glaciers and Ice Quality Version
-- **Main Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
+- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
 
 ##### [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files)
 
@@ -111,7 +111,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Realistic Water Two SE v3.0.4
+* **Main Files:** Realistic Water Two SE v3.1.0
 * **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
 
 #### FOMOD Instructions
