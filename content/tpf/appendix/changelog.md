@@ -89,6 +89,10 @@ Either way, this fix is no longer necessary because **KernalsEgg**, author of th
 - Updated Private Profile Redirector to 0.5.2
 - Updated ENBSeries (no version change)
 - Updated SSELODGen to Beta 76
+- **4.5.1.1:** Replaced Harder Quest Tweaks old files
+- **4.5.1.2:** Removed Particle Patch from downloads (it's inlined)
+- **4.5.1.2:** Fixed missing NPCsWithFaces archive
+- **4.5.1.2:** Regenerated terrain LOD which fixed an issue
 
 ## Release 4.5
 
