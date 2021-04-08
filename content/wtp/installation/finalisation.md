@@ -80,46 +80,14 @@ If you are unhappy with the default cap at 60FPS, you can change it. To do so, f
 
 ## Resolution
 
-There are several relevant factors when deciding on which resolution to play at.
-
-- **What is my monitor's aspect ratio?** Most monitors nowadays have an aspect ratio of 16:9. However, widescreen / ultrawide monitors with a 21:9 aspect ratio are also fairly common.
-- **What is my monitor's resolution?** You are limited by your monitor's maximum resolution. On a 1440p monitor, you can play with a resolution of 2560x1440 or lower. Playing at 1080p on a 1440p monitor will yield better performance at the cost of image sharpness / clarity.
-- **What is my hardware capable of?** Generally speaking, you will get the best performance playing at 1080p. However, WTP has been optimised for good performance so with decently modern hardware, you should get stable 60FPS at 1440p as well. Be warned that increasing the resolution will always impact performance.
-
-> **By default, WTP is running at 1440p.**
-
-### Changing the resolution
-
-If you want to play at **1080p** or **2160p**, you need to change the resolution in the falloutprefs.ini file. Note that playing at 4K may strongly impact performance.
-
-- Click the puzzle icon in MO2 and select **INI Editor**.
-
-![Open INI Editor](/Pictures/wtp/installation/mo2-ini-editor.png)
-
-- Switch to the **fallout4prefs.ini** tab and scroll down to the **[Display]** section (see picture below).
-- Edit the following two lines with the respective values for your desired resolution:
-
-**For 1080p - 1920x1080:**
-
-```
-iSize H=1080
-iSize W=1920
-```
-
-**For 2160p - 3840x2160:**
-
-```
-iSize H=2160
-iSize W=3840
-```
-
-- Close the window and click **Yes** to save your changes.
-
-![Adjust resolution](/Pictures/wtp/installation/change-resolution.png)
+Wabbajack will automatically adjust the INI files to your current default monitor resolution.
 
 ### Ultrawide Monitor
 
-If you are playing on an 21:9 ultrawide monitor, please refer to the [Ultrawide Support](/wtp/wtp-resources/ultrawide/) page.
+For compatibility with 21:9 ultrawide monitors you need to follow some extra steps to patch the interface. The most comprehensive widescreen fix mod for Fallout 4, [TruBy9 Ultrawide](https://www.nexusmods.com/fallout4/mods/2463), is already pre-installed in WTP. All you need to do is activate it and some additional fixes.
+
+- In Mod Organizer 2, expand to the **ULTRAWIDE SUPPORT (OPTIONAL)** separator.
+- Enable all mods below that separator.
 
 ---
 

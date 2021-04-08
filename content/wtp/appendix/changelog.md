@@ -6,6 +6,37 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.5.2
+
+> 06/04/2021
+
+This update is safe-save. Copy over the GFF into your root folder and overwrite (ENB binaries updated).
+
+#### Mod Changes
+
+- Updated Mod Organizer 2 to 2.4.1
+- Re-arranged and re-coloured MO2 separators
+- WTP changelogs are no longer available through MO2
+- Updated ENBSeries (no version change)
+- Updated Buffout 4 to 1.22.0
+- Updated PrivateProfileRedirector to 0.5.2
+- Updated High FPS Physics Fix to 0.8.3
+- Updated What's Your Name to 1.12.0
+- Added Less Annoying Water Foam Circles
+- Added No Quest Autostart - BoS Fire Support
+- Added No Quest Autostart - Automatron
+- Added No Quest Autostart - Vault-Tec
+- Added No Quest Autostart - Far Harbor
+- Added No Quest Autostart - Nuka World
+- Removed some unnecessary stuff from the Phoenix Tweaks plugin
+
+#### Website Changes
+
+- **Finalisation:** Shortened the Resolution section and moved Ultrawide tweaks to this page.
+- **Ultrawide:** Removed this page.
+
+*Turns out that Wabbajack auto-sets the resolution in the INI files.*
+
 ## Release 1.5.1
 
 > 08/03/2021
