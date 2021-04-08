@@ -10,13 +10,14 @@ description: >
 
 > 06/04/2021
 
-This update is safe-save.
+This update is safe-save. Copy over the GFF into your root folder and overwrite (ENB binaries updated).
 
 #### Mod Changes
 
 - Updated Mod Organizer 2 to 2.4.1
 - Re-arranged and re-coloured MO2 separators
 - WTP changelogs are no longer available through MO2
+- Updated ENBSeries (no version change)
 - Updated Buffout 4 to 1.22.0
 - Updated PrivateProfileRedirector to 0.5.2
 - Updated High FPS Physics Fix to 0.8.3
