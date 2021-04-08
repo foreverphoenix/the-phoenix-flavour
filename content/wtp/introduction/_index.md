@@ -20,7 +20,7 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 ### Useful Links
 
 - Join us on the official [Phoenix Flavour Discord](https://discord.com/invite/BpwXX5f) for support, feedback, and modding discussions.
-- You can find a list of all included mods in my [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Tk_hG2uIKfgWg_E5WluY4OJCF5uyI_9A-_DOWLC8b-E/edit#gid=517612070).
+- You can find a list of all included mods in the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise).
 - Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion (see "State of the List").
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
 
@@ -83,7 +83,7 @@ At present, WTP does not include any additional armor or weapon mods with the ex
 
 While WTP was made for regular gameplay, a *somewhat* modern PC is required to run the setup comfortably. This is due to the bad optimisation of the vanilla game as much as the included mods. Keep in mind that the game will perform much better on 1080p than on 1440p or higher resolutions.
 
-You can see the details of my setup below, sufficient for playing at 1440p with stable 60FPS.
+You can see the details of my old setup below, sufficient for playing at 1440p with stable 60FPS.
 
 |           | Specs                                         |
 | --------- | --------------------------------------------- |
@@ -94,4 +94,4 @@ You can see the details of my setup below, sufficient for playing at 1440p with 
 | SSD 2     | Samsung EVO 860 Series 1000GB SSD (Games)     |
 | Monitor   | LG 27GL850-B UltraGear 1440p @144Hz           |
 
-> I have since upgraded my GPU to a ridiculous RTX 3080 which is certainly NOT required to play WTP at a stable frame rate.
+> I have since upgraded to an i7 10700k and RTX 3080 which is certainly NOT required to play WTP at a stable frame rate.
