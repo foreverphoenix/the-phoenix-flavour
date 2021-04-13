@@ -6,6 +6,36 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5.2
+
+> 13/04/2021
+
+Fixed a bunch of issues that were reported over the past couple of dayss. This update is **save-safe** but it requires users of the manual guide to rerun DynDOLOD (you can keep your TexGen output).
+
+- [How to update DynDOLOD](/tpf/guide-resources/how-to-update/#dyndolod) for both manual and Wabbajack users.
+
+#### Initial Setup
+
+- **Additional Tools:** Added instructions to specifically download an older version of Cathedral Assets Optimizer.
+
+#### Mod Installation
+
+- Fixed a few more small typos and oversights.
+- **Fixes:** Updated download instructions for Bug Fixes SSE (file name changed).
+- **Valuable Items:** Removed Septim HD (coin pile mesh can cause crashes).
+- **Valuable Items:** Added Ancient Imperial Septims.
+- **New Content:** Removed note about Early Elementalist for Misc College of Winterhold Tweaks (no longer applies).
+
+#### Finalisation
+
+- **DynDOLOD:** Updated outdated screenshot with DynDOLOD settings.
+
+#### Conflict Resolution Patch
+
+- Removed leftover edit to an Ash Spawn weapon from a mod I don't remember.
+- Removed leftover edit to blacksmith water trough in Riften.
+- Slapped bandaid on broken glaciers on Solstheim.
+
 ## Release 4.5.1
 
 > 07/04/2021

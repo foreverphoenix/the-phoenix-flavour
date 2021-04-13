@@ -249,8 +249,6 @@ description: >
 * **Readme:**
   * *select nothing*
 
-> The **Early Elementalist** module allows you to Wait in the Hall of Elements. This is done by removing the "Can't Wait" flag in that cell. Because this record has to be forwarded into the Conflict Resolution Patch anyway (to patch it with changes from other mods, namely Luminosity), there is no point in keeping the original Early Elementalist ESP as it would be completely overwritten. In short - skip the option, it is already implemented in the CRP.
-
 ##### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
 
 #### Download Instructions
