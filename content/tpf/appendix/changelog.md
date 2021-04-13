@@ -25,6 +25,7 @@ Fixed a bunch of issues that were reported over the past couple of dayss. This u
 - **Valuable Items:** Removed Septim HD (coin pile mesh can cause crashes).
 - **Valuable Items:** Added Ancient Imperial Septims.
 - **New Content:** Removed note about Early Elementalist for Misc College of Winterhold Tweaks (no longer applies).
+- **Assorted Plugins:** Updated download instructions for Free Look (file name changed).
 
 #### Finalisation
 
@@ -35,6 +36,14 @@ Fixed a bunch of issues that were reported over the past couple of dayss. This u
 - Removed leftover edit to an Ash Spawn weapon from a mod I don't remember.
 - Removed leftover edit to blacksmith water trough in Riften.
 - Slapped bandaid on broken glaciers on Solstheim.
+
+#### Wabbajack
+
+- Regenerated DynDOLOD
+- Updated Mundus - A Standing Stone Overhaul to 1.5.1
+- Updated Manbeast - A Werewolf Overhaul to 1.1.0
+- Updated Blade and Blunt - A Combat Overhaul to 1.3.1
+- Updated Free Look to 3.0
 
 ## Release 4.5.1
 
