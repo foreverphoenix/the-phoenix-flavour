@@ -106,7 +106,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Free Look v2
+* **Main Files:** Free Look v3
 
 ##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
 
