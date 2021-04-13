@@ -49,7 +49,7 @@ In order to update CAO without removing the custom TPF profiles, simply do the f
 
 ## DynDOLOD
 
-There is generally no need to update DynDOLOD and re-generate LOD for every new DynDOLOD update, especially when you're in the middle of a playthrough. However, if you change something about the landscape (the Alternate Branch Textures color for Enhanced Vanilla Trees for example), you need to re-run DynDOLOD and you should update it first.
+There is generally no need to update DynDOLOD and re-generate LOD for every new DynDOLOD update, especially when you're in the middle of a playthrough. However, if you change something about the landscape (like trees or various objects), you need to re-run DynDOLOD and you should update it first.
 
 > The instructions are for both **Wabbajack** and **manual** users. They are for updating DynDOLOD in an ongoing playthrough.
 

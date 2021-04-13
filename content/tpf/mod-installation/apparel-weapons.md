@@ -254,7 +254,7 @@ description: >
 
 * Run the mod through **SSE NIF Optimizer**.
 
-> Processing the meshes with CAO results in the staff 3rd person mesh being invisble ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliably fixes all meshes.
+> Processing the meshes with CAO results in the staff 3rd person mesh being invisible ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliably fixes all meshes.
 
 ##### [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files)
 

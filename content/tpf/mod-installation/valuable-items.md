@@ -6,20 +6,11 @@ description: >
   Retextures for unique objects and treasures such as soul gems.
 ---
 
-##### [Septim HD](https://www.nexusmods.com/skyrimspecialedition/mods/22170?tab=files)
+##### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Septim HD v.1.6.1
-
-#### FOMOD Instructions
-
-- **Texture Options:** Shinier Original
-- **Install Plugin?** No thanks...
-
-#### Additional Instructions
-
-- Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+- **Main Files:** Ancient Imperial Septims - Classic Gold
 
 ##### [JS Dragon Claws](https://www.nexusmods.com/skyrimspecialedition/mods/1394?tab=files)
 

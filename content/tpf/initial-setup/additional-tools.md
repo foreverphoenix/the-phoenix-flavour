@@ -83,12 +83,14 @@ Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that 
 
 ### Installation
 
-* Download the latest non-Beta version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually from the Nexus.
-* Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
-* Open the downloaded archive and extract everything into the new folder.
-* Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
+- Manually download version **5.0.15** of the [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) under **Old Files**
+- Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
+- Open the downloaded archive and extract everything into the new folder.
+- Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
 
-> You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
+You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
+
+> We are using an older version because CAO 5.1.x currently has some issues. Using it later on to pack and compress facegen files would cause the game to crash.
 
 ### Profiles
 

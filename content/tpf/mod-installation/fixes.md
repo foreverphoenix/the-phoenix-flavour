@@ -17,7 +17,7 @@ description: >
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 13**, set **equipBestAmmo** to **true** (don't remove the comma).
+- In **Line 13**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
 - In **Line 16**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
