@@ -6,6 +6,14 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6
+
+> TBD
+
+- Added F4 Creation Kit Fixes
+- Re-added some parts of DEF_INV (fixes scrap menu)
+- Regenerated precombines for the area around the new Sanctuary bridge (thanks for talking me through that, Lively!)
+
 ## Release 1.5.2
 
 > 06/04/2021
