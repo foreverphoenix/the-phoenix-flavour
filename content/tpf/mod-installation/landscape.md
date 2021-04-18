@@ -35,6 +35,12 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `textures\effects\projecteddiffuse.dds`
 
+##### [Majestic Mountains - Mesh Tangent Space Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48574?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Majestic Mountains - Mesh Tangent Space Fixes
+
 ##### [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files)
 
 #### Download Instructions

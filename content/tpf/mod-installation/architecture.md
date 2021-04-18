@@ -117,9 +117,12 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Rally's Raven Rock 2K
-- **Optional Files:** Raven Rock LODs 512 >> `merge with the main file`
-- **Optional Files:** RRR - Blended Roads Patch 2K >> `merge with the main file`
+- **Main Files:** Rally's Raven Rock
+
+#### FOMOD Instructions
+
+- **Raven Rock:** 2K
+- **LODs:** 512x512
 
 #### Additional Instructions
 

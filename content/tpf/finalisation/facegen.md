@@ -22,7 +22,7 @@ By default the Creation Kit will generate facetint textures with a 512x512 resol
 
 - Navigate to your **root** folder.
 - Double-click **skyrim64_test.ini**.
-- Scroll to **Line 31** and change the line to `TintMaskResolution=1024`.
+- Scroll to **Line 32** and change the line to `TintMaskResolution=1024`.
 - Save the file and close.
 
 ## NPCsWithFaces
