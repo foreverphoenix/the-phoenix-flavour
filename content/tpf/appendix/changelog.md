@@ -6,6 +6,54 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5.3
+
+> 18/04/2021
+
+Contrary to my previous statement, TPF 4.5.2 didn't make it to Wabbajack after all but this update will. Sorry about the delay.
+
+This update is **save safe**.
+
+#### Mod Installation
+
+- Small updates and typo fixes.
+- **Essential Mods:** Updated download instructions for More Informative Console (file update).
+- **Essential Mods:** Removed Dear Diary - Better More Informative Console console temporarily (MIC updated).
+- **Tweaks:** Removed Helgen Keep Bandit Chief Executioner (redundant with Civil War Deserters).
+- **Landscape:** Added Majestic Mountains - Mesh Tangent Space Fixes.
+- **Architecture:** Updated download instructions for Rally's Raven Rock.
+- **Architecture:** Added FOMOD instructions for Rally's Raven Rock.
+- **Sounds & Music:** Slightly changed the mod order of the music mods.
+- **Sounds & Music:** Added instructions to remove the plugin for Musical Lore - Soundtrack Mod by Nir Shor.
+- **Sounds & Music:** Added instructions to remove the plugin for The Northerner Diaries - Immersive Edition.
+- **Sounds & Music:** Added instructions to remove the plugin for Still - Skyrim Inspired Music.
+- **Sounds & Music:** Added instructions to remove the plugin for Hun Lovaas - Skyrim Fan-Made Music.
+- **Sounds & Music:** Added instructions to remove the plugin for Melodies of Civilisation - Skyrim Fan-Made Music.
+- **Sounds & Music:** Added instructions to remove the plugin for Around the Fire - Skyrim Fan-Made Music.
+- **Sounds & Music:** Added Dawnguard Music Overhaul - Skyrim Fan-Made Music.
+- **Sounds & Music:** Removed Phoenix - Merged Music Patch.
+- **Sounds & Music:** Added Yet Another Music Merge.
+
+#### Finalisation
+
+- **Facegen:** Small fix for the Tint Mask Resolution change in the CK Fixes INI (line number changed).
+
+#### Conflict Resolution Patch
+
+- Removed Helgen Keep Bandit Chief Executioner as a master
+
+#### Wabbajack
+
+- Regenerated DynDOLOD
+- Updated SSE Display Tweaks to 0.4.11
+- Updated More Informative Console to 0.41
+- Updated Scrambled Bugs to 6
+- Updated Rally's Raven Rock to 1.1
+- Updated Mundus - A Standing Stone Overhaul to 1.5.1
+- Updated Manbeast - A Werewolf Overhaul to 1.1.0
+- Updated Blade and Blunt - A Combat Overhaul to 1.3.1
+- Updated Free Look to 3.0
+
 ## Release 4.5.2
 
 > 13/04/2021
@@ -36,14 +84,6 @@ Fixed a bunch of issues that were reported over the past couple of dayss. This u
 - Removed leftover edit to an Ash Spawn weapon from a mod I don't remember.
 - Removed leftover edit to blacksmith water trough in Riften.
 - Slapped bandaid on broken glaciers on Solstheim.
-
-#### Wabbajack
-
-- Regenerated DynDOLOD
-- Updated Mundus - A Standing Stone Overhaul to 1.5.1
-- Updated Manbeast - A Werewolf Overhaul to 1.1.0
-- Updated Blade and Blunt - A Combat Overhaul to 1.3.1
-- Updated Free Look to 3.0
 
 ## Release 4.5.1
 

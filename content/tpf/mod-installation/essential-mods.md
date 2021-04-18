@@ -55,20 +55,14 @@ description: >
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
   - **79** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
-  - **205** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
+  - **206** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
 - Hit CTRL+S to save and close the window.
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console for SKSE 2.17-2.19
-
-##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Dear Diary - Better More Informative Console
+* **Main Files:** More Informative Console 0.41
 
 ##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 

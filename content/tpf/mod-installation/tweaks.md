@@ -24,12 +24,6 @@ description: >
 
 - **Main Files:** Calcelmo Has Standards SE
 
-##### [Helgen Keep Bandit Chief Executioner](https://www.nexusmods.com/skyrimspecialedition/mods/26816?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** HelgenKeepBanditChiefExecutioner SE v1.0
-
 ##### [Windhelm Segregation - Stay at New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/21181?tab=files)
 
 #### Download Instructions
