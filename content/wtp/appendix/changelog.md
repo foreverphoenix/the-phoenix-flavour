@@ -11,8 +11,18 @@ description: >
 > TBD
 
 - Added F4 Creation Kit Fixes
-- Re-added some parts of DEF_INV (fixes scrap menu)
+- Added The Natural Bundle - Masonry Set
+- Added The Natural Bundle - Submarine Set
+- Added The Flamer Project
+- Added Leafblower Junk Jet
+- Rebuilt the Weapons BA2s
+- Re-added one DEF_INV file (fixes materials showing sorting tags in Workshop menu)
 - Regenerated precombines for the area around the new Sanctuary bridge (thanks for talking me through that, Lively!)
+- Updated Buffout to 1.23.0
+- Updated Workshop Framework to 2.0.12
+- Updated Companion Stealth Distance Fix to 5.1
+- Updated FallUI Confirm Boxes to 2.0.1
+- Updated FallUI Workbench to 1.2.3
 
 ## Release 1.5.2
 
