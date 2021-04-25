@@ -22,13 +22,15 @@ By default the Creation Kit will generate facetint textures with a 512x512 resol
 
 - Navigate to your **root** folder.
 - Double-click **skyrim64_test.ini**.
-- Scroll to **Line 32** and change the line to `TintMaskResolution=1024`.
+- Scroll to **Line 33** and change the line to `TintMaskResolution=1024`.
 - Save the file and close.
 
 ## NPCsWithFaces
 
 The official master files have a large amount of NPC records, not all of which need facegen. For example, we don't need to regenerate facegen for children, NPCs that have templates (use facegen from other records), or simply creatures. Thankfully, we can use zEdit and a code snippet by VictorF to filter out relevant records and copy them to a separate plugin. We will also use it to filter out NPC records with facegen from those mods that add new NPCs at the same time.
 
+- Navigate to your zEdit directory: `Your Modding Folder\Tools\zEdit\`.
+- Create a new **scripts** folder inside.
 - Download the **NPCsWithFaces - zEdit Script** from the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually.
 - Open the archive and extract the script to `Your Modding Folder\Tools\zEdit\scripts\`.
 

@@ -202,13 +202,15 @@ fWindGrassMultiplier=1.4
 
 #### Download Instructions
 
-- **Main Files:** SFO (No grass) v2.72G
+- **Main Files:** SFO (No Grass)
 
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
+  - `DynDOLOD\`
   - `meshes\`
   - `textures\architecture\`
+  - `textures\DynDOLOD\`
   - `textures\landscape\`
   - `textures\terrain\`
   - `Skyrim Flora Overhaul.esp`
