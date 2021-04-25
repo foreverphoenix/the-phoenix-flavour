@@ -72,6 +72,18 @@ ENBMan is one of several ENB manager tools available. It happens to my favourite
 * Double-click the **enblocal.ini** inside to import it.
 * Press CTRL+A to select all settings and click the green checkmark button in the toolbar to enable them.
 
+### Fix Black Hair
+
+There is an additional fix to improve ENB shaders on hair that is not in the INI file by default.
+
+- Click the green plus icon to add a setting.
+- Enter **FIX** under **Section**.
+- Enter **FixBlackHair** under **Setting**.
+- Enter **true** under **Value**.
+- Check the box for the new setting.
+
+![Fix Black Hair](/Pictures/tpf/finalisation/enb-fixblackhair.png)
+
 ### Better Hotkeys
 
 I'm personally not a fan of the default ENB ingame hotkeys. "KeyUseEffect", for instance, is on Shift+F12. At the same time, F12 is the Steam hotkey for "Take Screenshot". You can see how that might result in many unwanted screenshots.

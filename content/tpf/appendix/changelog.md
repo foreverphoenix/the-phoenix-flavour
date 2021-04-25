@@ -6,6 +6,48 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5.4
+
+> 25/04/2021
+
+Since More Informative Console was recently updated, I temporarily removed the Dear Diary MIC reskin in the last update (the author, uranreactor, is already aware and working on an update for the new version of MIC). Unfortunately, I forgot that my repack of those files also included the new font for the console for which the fontconfig.txt in Roboto was edited. After removing the font file with the Dear Diary - Better MIC mod, the console font was broken for everyone, whoops.
+
+- Manual users need to reinstall Roboto to reset the config file to default.
+- For Wabbajack users, it's fixed automatically when you update.
+
+Wabbajack users also need to **reinstall the game folder files**. The enblocal.ini updated.
+
+**This update is save-safe.**
+
+#### Initial Setup
+
+- **Additional Tools:** Removed instructions to download an older version of CAO (now using the latest).
+
+#### Mod Installation
+
+- **Interface:** Removed additional instructions to change console font for Roboto temporarily.
+- **Trees & Plants:** Updated download instructions for Skyrim Flora Overhaul (file version changed).
+- **Trees & Plants:** Updated additional instructions for Skyrim Flora Overhaul.
+
+#### Finalisation
+
+- **Facegen:** Fixed wrong line for the CK Fixes INI tweak (33 instead of 32 since last update).
+- **Facegen:** Added instructions to create the zEdit/scripts/ folder which doesn't exist by default.
+- **ENBSeries:** Added Fix Black Hair section.
+
+#### Wabbajack
+
+- Updated Cathedral Assets Optimizer to 5.1.3
+- Updated CAO - Basic Profiles Pack to 1.5
+- Updated More Informative Console to 0.42
+- Updated Skyrim Flora Overhaul to 2.72H
+- Updated Manbeast - A Werewolf Overhaul to 1.2.0
+- Updated Reliquary of Myth - Artifact Overhaul to 3.8.1
+- Updated Cannibal Draugr on Solstheim to 2.1
+- Fixed broken console font
+- Re-ran (hopefully) all relevant mods through the updated CAO
+- Regenerated facegen and repacked with new version of CAO
+
 ## Release 4.5.3
 
 > 18/04/2021
