@@ -10,19 +10,57 @@ description: >
 
 > TBD
 
+#### Mod Changes
+
+- Added zEdit (I needed it for one merge)
 - Added F4 Creation Kit Fixes
+- Added Jamaica Plain Navmesh Fix
 - Added The Natural Bundle - Masonry Set
 - Added The Natural Bundle - Submarine Set
+- Added Deathclaws HD Retexture
 - Added The Flamer Project
 - Added Leafblower Junk Jet
+- Added Auto Lockpick
+- Added Auto Hack
+- Added Better Explosives Redux
+- Added Fortune Finder 4 Fix
+- Added Workshop Power Pack
+- Added River Fix
+- Updated Buffout to 1.23.0
+- Updated Workshop Framework to 2.0.12a
+- Updated Wetness Shader Fix to 3.41
+- Updated Companion Stealth Distance Fix to 5.2
+- Updated FallUI Confirm Boxes to 2.0.3
+- Updated FallUI Workbench to 1.2.4
+- Updated Fallout 4 Ultimate Window Overhaul to 3.1
+- Updated Visible Idle Markers to 1.6
+- Removed Detailed Deathclaws
+- Removed Fallout 3 NV Feral Ghouls Replacer
+- Removed Simple Crafting Station - K-9 Harness Patch
+- Reinstalled Fixed Flickering Puddles (was missing one file, may fix lingering issues)
 - Rebuilt the Weapons BA2s
+- Rebuilt the Creatures BA2s
 - Re-added one DEF_INV file (fixes materials showing sorting tags in Workshop menu)
 - Regenerated precombines for the area around the new Sanctuary bridge (thanks for talking me through that, Lively!)
-- Updated Buffout to 1.23.0
-- Updated Workshop Framework to 2.0.12
-- Updated Companion Stealth Distance Fix to 5.1
-- Updated FallUI Confirm Boxes to 2.0.1
-- Updated FallUI Workbench to 1.2.3
+- Removed Fortune Finder tweaks from Loot Logic Scrounger Fortune Finder Rebalance
+- Added new 'Backpack' tag to DEV_INV_TAGS.xml
+- Merged the three music plugins together and removed the separate plugins
+- Replaced the now redundant music patch with the merged plugin
+- Extracted the Fallout Suite BA2 since there is no longer a plugin to load it
+- Fixed some conflicts between Better Explosives Redux and other mods
+- Regenerated INI files from scratch
+
+**K-9 Harness**
+
+Until now fadingsignal's K-9 Harness for Dogmeat could be crafted at the crafting station which was the original implementation. I have never been happy with this and in this update I finally did something about it. You can now find exactly *one* K-9 Harness in the world. The location happens to be a police station for obvious reasons - if you want to know where exactly you can find it, double-click the new K-9 Integration Patch in Mod Organizer 2 and check the **Notes** tab.
+
+**Creation Club**
+
+WTP 1.6 adds *optional* support for several "creations". You can find details and instructions [here](/wtp/wtp-resources/creation-club)
+
+#### Website Changes
+
+- Removed the Custom Files page. All relevant documentation was moved into Mod Organizer 2 (check the Notes for each mod).
 
 ## Release 1.5.2
 

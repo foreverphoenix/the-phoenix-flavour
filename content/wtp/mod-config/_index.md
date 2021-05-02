@@ -91,6 +91,8 @@ This disables the weird sidestep / dodge that makes it seem like all NPCs can us
 
 This is optional (personal preference) but if you hate hacking as much as I do, this is how you can disable it. Perk requirements still apply for hacking higher-level terminals but only the correct word will be shown.
 
+Be aware that since Auto Hacking was added in 1.6, you will be able to automatically hack any terminal difficulty that you have the perk for by simply interacting with it. If both tweaks made the hacking minigame *too* trivial for you, then again, feel free to not change the amount of potential passwords.
+
 ![GCM Hacking MCM](/Pictures/wtp/mod-config/gcm-hacking-mcm.jpg)
 
 ## Immersive HUD
