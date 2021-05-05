@@ -6,6 +6,29 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
+## Release 4.5.5
+
+> TBD
+
+DynDOLOD needs to be regenerated.
+
+#### Mod Installation
+
+- **Fixes:** Added instructions to also download the Scrambled Eggchantments main file.
+- **Fixes:** Updated additional instructions for Scrambled Bugs.
+- **Fixes:** Added additional instructions for Scrambled Eggchantments.
+- **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
+- **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
+- **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
+
+#### Wabbajack
+
+- Updated SSE Display Tweaks 0.4.13
+- Updated Scrambled Bugs to 8
+- Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
+- Updated Skyrim - A Mountainous Experience to 1.5
+- Updated Sovngarde HD to 3.1
+
 ## Release 4.5.4
 
 > 25/04/2021

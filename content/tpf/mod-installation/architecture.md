@@ -107,12 +107,6 @@ description: >
 
 - **Main Files:** Markarth - A Reflective Experience
 
-##### [Markarth - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Markarth - A Mountainous Experience
-
 ##### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292?tab=files)
 
 #### Download Instructions

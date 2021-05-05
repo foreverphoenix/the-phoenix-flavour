@@ -35,12 +35,6 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `textures\effects\projecteddiffuse.dds`
 
-##### [Majestic Mountains - Mesh Tangent Space Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48574?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Majestic Mountains - Mesh Tangent Space Fixes
-
 ##### [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files)
 
 #### Download Instructions
@@ -55,11 +49,19 @@ description: >
   - Tweaked Wet Rock Meshes
   - ~~Tweaked Rapid Rocks Textures~~
 
+##### [Skyrim - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Markarth - A Mountainous Experience
+
 ##### [Moss Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8838?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Moss Rocks 2K v3.4
+
+> We're using this mod instead of Majestic Mountains' moss module because its textures don't suffer from tiling.
 
 ##### [MystiriousDawn's HD Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19421?tab=files)
 

@@ -150,7 +150,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Ancient Dwemer Metal - My patches - No Smiling Female Helmet
+- **Optional Files:** Ancient Dwemer Metal - My patches - No Smiling Female Helmet
 
 ##### [Actual Orichalcum Orcish Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/33653?tab=files)
 
