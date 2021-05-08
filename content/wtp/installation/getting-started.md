@@ -6,11 +6,11 @@ description: >
   Requirements and preliminary instructions.
 ---
 
-## Warning
+## Requirements
 
 While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and **you are expected to follow it to the letter**.
 
-## Requirements
+You need:
 
 - A copy of Fallout 4 with all official DLC (Game of the Year Edition) on Steam.
 - A [Nexus Mods](https://www.nexusmods.com/fallout4) account, preferably with a Premium subscription.

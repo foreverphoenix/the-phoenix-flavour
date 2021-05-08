@@ -29,11 +29,12 @@ description: >
 - Updated Buffout to 1.23.0
 - Updated Workshop Framework to 2.0.12a
 - Updated Wetness Shader Fix to 3.41
-- Updated Companion Stealth Distance Fix to 5.2
+- Updated Companion Stealth Distance Fix to 7.0
 - Updated FallUI Confirm Boxes to 2.0.3
 - Updated FallUI Workbench to 1.2.4
 - Updated Fallout 4 Ultimate Window Overhaul to 3.1
 - Updated Visible Idle Markers to 1.6
+- Removed Scrolling Doesn't Change PoV
 - Removed Detailed Deathclaws
 - Removed Fallout 3 NV Feral Ghouls Replacer
 - Removed Simple Crafting Station - K-9 Harness Patch
@@ -56,10 +57,11 @@ Until now fadingsignal's K-9 Harness for Dogmeat could be crafted at the craftin
 
 **Creation Club**
 
-WTP 1.6 adds *optional* support for several "creations". You can find details and instructions [here](/wtp/wtp-resources/creation-club)
+WTP 1.6 adds *optional* support for some "creations". You can find details and instructions [here](/wtp/wtp-resources/creation-club)
 
 #### Website Changes
 
+- **Fallout 4:** Added a link for LostDragonist's Steam Library Setup Tool.
 - Removed the Custom Files page. All relevant documentation was moved into Mod Organizer 2 (check the Notes for each mod).
 
 ## Release 1.5.2
