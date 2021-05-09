@@ -61,7 +61,7 @@ Skip this step if you don't have the Zaaed - The Price of Revenge DLC.
 
 ### Altered Appearance
 
-Skip this step if you don't the Altered Appearance Packs 1 and 2.
+Skip this step if you don't want the Altered Appearance Packs 1 and 2.
 
 - Move up one level in the archive and open the **6 - OPTIONAL - Alt Appearance DLC** folder.
 - Navigate to your `Mass Effect 2\BIOGame\DLC\DLC_MOD_ME2Re\CookedPC` folder.
