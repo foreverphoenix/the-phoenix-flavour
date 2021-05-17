@@ -25,9 +25,10 @@ description: >
 - Added Better Explosives Redux
 - Added Fortune Finder 4 Fix
 - Added Workshop Power Pack
+- Added Whose Quest Is It Anyway
 - Added River Fix
 - Updated Buffout to 1.23.0
-- Updated Workshop Framework to 2.0.12a
+- Updated Workshop Framework to 2.0.13
 - Updated Wetness Shader Fix to 3.41
 - Updated Companion Stealth Distance Fix to 7.0
 - Updated FallUI Confirm Boxes to 2.0.3
