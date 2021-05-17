@@ -65,7 +65,9 @@ description: >
 
 - **Main Files:** Stalhrim Only
 - **Weapon Mods:** Outlandish Stalhrim
-- **Outlandish Stalhrim Patches:** Better Shaped Weapons
+- **Outlandish Stalhrim Patches:**
+  - ~~Believable Weapons~~
+  - Better Shaped Weapons
 - **Draugr Overhaul Patches:**
   - ~~Briraka's Draugr Overhaul~~
   - ~~Draugr Upgrades and Improvements~~
