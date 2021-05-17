@@ -10,7 +10,7 @@ description: >
 
 Mod Organizer 2 is the king of mod managing software for Bethesda games and TPF fully relies on its features. Any claims of MO2 being especially difficult to use are essentially myths perpetuated by inexperienced users. At the end of the TPF setup, you will be able to confidently handling a large mod setup with MO2.
 
-- Download the archive version of [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/tag/v2.4.0) from Github.
+- Download the archive version of [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/tag/v2.4.2) from Github.
 
 ![MO2 Download](/Pictures/tpf/initial-setup/mo2-download.png)
 

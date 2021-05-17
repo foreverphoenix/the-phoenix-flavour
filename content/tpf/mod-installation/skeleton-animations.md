@@ -59,6 +59,12 @@ description: >
 
 > All additional steps (downloading and running the SSEEdit scripted patchers) will be covered in the Finalisation section of the guide.
 
+##### [AllGUD - RUSTIC ANIMATED POTIONS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49669?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** AllGUD - Rustic Animated Potions Patch
+
 ##### [AllGUD Conditions Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download instructions

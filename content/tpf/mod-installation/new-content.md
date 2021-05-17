@@ -55,6 +55,21 @@ description: >
   - `textures\AMB Variants\armor\ironbrown\`
   - `textures\AMB Variants\armor\IronEngraved\`
 
+##### [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Nord Stalhrim
+
+#### FOMOD Instructions
+
+- **Main Files:** Stalhrim Only
+- **Weapon Mods:** Outlandish Stalhrim
+- **Outlandish Stalhrim Patches:** Better Shaped Weapons
+- **Draugr Overhaul Patches:**
+  - ~~Briraka's Draugr Overhaul~~
+  - ~~Draugr Upgrades and Improvements~~
+
 ##### [Armor of Yngol](https://www.nexusmods.com/skyrimspecialedition/mods/5006?tab=files)
 
 #### Download Instructions

@@ -57,8 +57,8 @@ description: >
 - **All or Custom:**
   - Install everything (default)
 - **Sheath Options:**
-  - Onehanded Sheaths
-  - Greatsword Sheaths
+  - ~~Onehanded Sheaths~~
+  - ~~Greatsword Sheaths~~
 - **Variants and Patches:**
   - FrankFamily HD Imperial Armor and Weapons
   - ~~FrankFamily Ultra HD Silver Sword~~
@@ -135,22 +135,11 @@ description: >
 
 * **Texture Resolution:** 2K Resolution
 
-##### [Ancient aMidianBorn Dwemer Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files)
+##### [CC's HD Dwemer Weapons and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Ancient Amidianborn Dwemer Metal Armory
-
-#### FOMOD Instructions
-
-- **Accent Color:** Purple (Original Amidianborn)
-- **Fixed Gauntlet Mesh for VR:** ~~Fixed Male Gauntlet Meshes~~
-
-##### [Ancient Dwemer Metal - My Patches - No Smiling Female Helmet](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Ancient Dwemer Metal - My patches - No Smiling Female Helmet
+* **Main Files:** CC's HD Dwemer Weapons and Armor - 2K - 1.0
 
 ##### [Actual Orichalcum Orcish Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/33653?tab=files)
 
@@ -227,7 +216,7 @@ description: >
 * **Weapon models:**
   * Leanwolf's Better Shaped Weapon
 * **Sheath options:**
-  * With Sheathes
+  * Without Sheathes
 * **Optional Armor tweaks:**
   * Daedric armor
   * Daedric Shield

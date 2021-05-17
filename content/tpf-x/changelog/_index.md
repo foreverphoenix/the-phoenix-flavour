@@ -6,20 +6,46 @@ description: >
   Changelog for TPF-X.
 ---
 
+## Release 1.2
+
+> TBD
+
+#### Visual Upgrade
+
+- Updated description, now using QW's Grass Patch.
+- Updated instructions for Folkvangr.
+- Added Cathedral 3D Pine Grass.
+- Added QW's Grass Patch.
+- Added grass density tweak instructions.
+
+#### New Gear
+
+- Updated FOMOD instructions for Royal Armory - New Artifacts Plugin Replacer.
+
+#### New Music
+
+- Finally moved over the base TPF music mods to TPF-X.
+
 ## Release 1.1
 
 > 07/04/2021
 
-#### Installation
+#### Gameplay
 
-- **Gameplay:** Added this new page.
-- **Gameplay:** Added Blade and Blunt - Vanilla Difficulty Modifiers.
-- **Gameplay:** Added Blade and Blunt - Timed Block Module.
-- **Gameplay:** Added Disable Cinematic Kills.
-- **Gameplay:** Added Werewolf Killcam Remover.
-- **New Gear:** Fixed optional files from Royal Armory Reforged being listed with the Plugin Replacer.
-- **New Gear:** Updated download and FOMOD instructions for Royal Armory - Plugin Replacer.
-- **Miscellaneous:** Switched from "sequential" to "simultaneous" version of Dragon Claws Auto-Unlock.
+- Added this new page.
+- Added Blade and Blunt - Vanilla Difficulty Modifiers.
+- Added Blade and Blunt - Timed Block Module.
+- Added Disable Cinematic Kills.
+- Added Werewolf Killcam Remover.
+
+#### New Gear
+
+- Fixed optional files from Royal Armory Reforged being listed with the Plugin Replacer.
+- Updated download and FOMOD instructions for Royal Armory - Plugin Replacer.
+
+#### Miscellaneous
+
+- Switched from "sequential" to "simultaneous" version of Dragon Claws Auto-Unlock.
 
 ## Release 1.0
 

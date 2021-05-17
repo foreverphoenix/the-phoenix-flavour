@@ -62,7 +62,13 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.41
+* **Main Files:** More Informative Console 0.42
+
+#### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dear Diary - Better More Informative Console
 
 ##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 
@@ -189,16 +195,13 @@ The plugin is now ESM-ified and will load with all other ESMs. This allows us to
 
 - **Main Files:** Grass Control v6
 
-> The Grass Generation MO2 plugin will be installed later on before we precache grass.
-
-#### INI Tweaks
+#### Additional Instructions
 
 - Double-click **No Grass In Objects** in your mod order.
-- Switch to the **Text Files** tab and select the **GrassControl.config.txt** file.
-- In **Line 99**, change **UseGrassCache** to **True**.
-- In **Line 111**, change **ExtendGrassDistance** to **True**.
-- In **Line 134**, change **EnsureMaxGrassTypesPerTextureSetting** to **15**.
-- In **Line 149**, change **OverwriteGrassDistance** to **12000**.
-- In **Line 163**, change **OverwriteGrassFadeRange** to **8000**.
-- In **Line 187**, change **OnlyLoadFromCache** to **True**.
-- Close the window and click **Yes** when prompted to save.
+- Switch to the **Text Files** tab and select the **GrassControl.config.txt**.
+- Scroll down to **Line 134** and set **EnsureMaxGrassTypesPerTextureSetting =** to **0**.
+- Scroll down to **Line 149** and set **OverwriteGrassDistance =** to **-1**.
+- Scroll down to **Line 163** and set **OverwriteGrassFadeRange =** to **-1**.
+- Hit **CTRL+S** to save and close the window.
+
+> I prefer handling the INI changes directly in the game INI files. Other changes are not required as we are not going to generate grass cache.

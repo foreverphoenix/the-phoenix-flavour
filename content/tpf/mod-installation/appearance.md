@@ -141,6 +141,12 @@ description: >
 
 - **Main Files:** Vanilla hair - Salt and Wind
 
+##### [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SLF Hair - Rough Hair - Lite 1K
+
 ##### [Argonians Enhanced - HD Argonian Hair](https://www.nexusmods.com/skyrimspecialedition/mods/4830?tab=files)
 
 #### Download Instructions

@@ -101,12 +101,6 @@ description: >
 
 * **Main Files:** 3D Solitude Market Trellis
 
-##### [Markarth - A Reflective Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43864?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Markarth - A Reflective Experience
-
 ##### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292?tab=files)
 
 #### Download Instructions

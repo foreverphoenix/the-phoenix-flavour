@@ -238,22 +238,6 @@ description: >
 
 * **Custom:** Full version - skin with a mesh fabric veil (RECOMMENDED)
 
-##### [Ancient Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Automatons 4K
-
-#### Porting Instructions
-
-* Run the mod through **SSE NIF Optimizer**.
-
-##### [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Dwemer Metal - Missing Forgemaster Fix
-
 ##### [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files)
 
 #### Download Instructions

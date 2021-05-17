@@ -64,7 +64,7 @@ While at this point many installed plugins are already flagged as ESL (ESP-Lite)
 
 ### Remaining Plugins
 
-You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it.
+You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it. You can do all of them at once (there is no need to restart SSEEdit for each plugin).
 
 * QuestsAreInSkyrimUSSEP.esp
 * ~~Raven Rock - Fix Exit on Horseback.esp~~ *already flagged*
@@ -88,15 +88,10 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * dD-Reduced Wound Size.esp
 * DeadlySpellImpacts.esp
 * Enhanced Vanilla Trees SSE.esp
+* Veydosebrom Regions.esp **compact FormIDs**
 * RUSTIC SOULGEMS - Sorted.esp
 * homeymealyum.esp
 * GQJ_DG_vampireamuletfix.esp
 * Miscellaneous Quests…as Miscellaneous Quests.esp
 * Mortal Enemies - No RunWalk Changes.esp
 * Realistic Melee Range.esp
-* Northerner Diaries in Skyrim.esp **compact FormIDs**
-* Still.esp
-* Hun Lovaas.esp
-* NirShor-MusicalLore.esp **compact FormIDs**
-
-> After renumbering the form IDs for Northern Diaries in Skyrim.esp and NirShor-MusicalLore.esp, the Phoenix - Merged Music Patch.esp will also be marked as updated which is intended behaviour as the previously renumbered form IDs are referenced there and updated accordingly.

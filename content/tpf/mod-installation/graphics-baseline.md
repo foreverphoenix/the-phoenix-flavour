@@ -87,6 +87,12 @@ description: >
 
 - **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
+##### [TB's HD Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/46644)
+
+#### Download Instructions
+
+- **Main Files:** TB's HD Cubemaps
+
 ##### [Noble Skyrim Mod HD-2K (NSM)](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
 
 #### Download Instructions

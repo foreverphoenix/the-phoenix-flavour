@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-weight: 7
+weight: 9
 type: docs
 description: >
   Various other mods I personally play with.

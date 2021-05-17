@@ -67,11 +67,23 @@ Regardless of whether you build the setup manually or use the Wabbajack installe
 - **Body Replacer:** None included.
 - **Needs and Survival Mods:** None included.
 
-TPF also includes several mods adding **new music tracks** which I added to a convenient [YouTube playlist](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
+Included in TPF-X (an official addon for the main guide) is among other things a collection of mods **new music tracks** which I added to a convenient [YouTube playlist](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
 
 ### Additional Mods
 
 Please wait until **after** you completed the guide and tested your setup before adding more mods, otherwise you will no longer be eligible to receive support on our Discord server should you need it. We do not - and cannot - offer support for setups that are not 100% TPF. This includes **Creation Club** content.
+
+If you want to expand the base TPF setup without losing support, there are:
+
+### TPF Addons
+
+Still want more mods after completing TPF? We got you covered. For users of the manual guide, there is the option to install **Addons** on top of the base TPF installation.
+
+**TPF-X** is the "official" addon by yours truly. It's fully modular and features a new music, new gear, support for Creation Club player homes as well as Rudy ENB, new followers (Lucien and Inigo), and more.
+
+Other addons include **Slidikins' Strenuous Skyrim** which implements survival mechanics and makes loot significantly rarer. Additionally, there are patches for other Creation Club content as well as an integration patch for **Legacy of the Dragonborn**.
+
+Find out about TPF Addons **[here](/tpf/tpf-addons/)**. Obviously they require an existing installation of base TPF.
 
 ### Our Tools
 
@@ -133,7 +145,7 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 
 ### Phoenix's Build
 
-- **CPU:** Intel i5 7600k @4.2GHz, hybrid-cooled
+- **CPU:** Intel i7 10700k w/ NZXT Kraken X73
 - **RAM:** Corsair Vengeance 16GB DDR4-3200 Memory
 - **GPU:** Gigabyte RTX 3080 Gaming OC (10GB VRAM)
 - **SSD:** Samsung 850 Evo Series 256GB SSD (OS)
@@ -145,7 +157,7 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 
 Never underestimate the impact that high monitor resolutions have on performance and how closely they tie performance to your GPU. With my previous card, a 1070 FE, I could play @1080p with a stable 60-100 FPS and all the bells & whistles (such as ENB, DynDOLOD on high with 3D trees, etc). Setting my monitor's resolution to its native 1440p, I would lose about 20-30 FPS on average, making the game feel choppy in many places. The 3080 eliminated any performance issues on 1440p, essentially giving me the performance at 1440p that my 1070 managed at 1080p.
 
-In summary: Hardware requirements for 2K and especially 4k are considerable and the recommended resolution for gameplay is 1080p. Note that compared to the majority of Skyrim SE guides and Wabbajack lists, TPF is heavily geared toward performance over visuals.
+In summary: Hardware requirements for 2K and especially 4K are considerable and the recommended resolution for gameplay is 1080p. Note that compared to the majority of Skyrim SE guides and Wabbajack lists, TPF is heavily geared towards performance over visuals.
 
 > The guide includes instructions to change the game's resolution.
 

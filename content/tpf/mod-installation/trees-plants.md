@@ -124,7 +124,7 @@ description: >
 - **Mod Manager:** Mod Organizer 2
 - **Options:** Fresh Install
 - **Vegetation Quality:** Standard Quality
-- **Style:** Vanilla Landscape
+- **Style:** Dense Landscape
 - **Choose Your INI:** Default
 
 #### FOMOD Instructions - Fall Forest
@@ -141,48 +141,6 @@ description: >
 - Delete the `Veydosebrom Regions.ini`.
 
 > The grass settings are handled by No Grass In Objects.
-
-#### INI Tweak
-
-- Open the **INI Editor** in Mod Organizer 2.
-- Switch to the **skyrimcustom.ini** tab.
-- Add the following section:
-
-```
-[Grass]
-iMinGrassSize=35
-```
-
-- Click **Save** and close the window.
-
-> Unfortunately Veydosebrom grass is *very* sparse on iMinGrassSize=35. If you have a strong system, you can lower the value to 20 for more dense grass.
-
-##### [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Cathedral - 3D Pine Grass - Full 3D Coverage
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Cathedral - 3D Pine Grass.ini`
-
-> All relevant grass INI settings are handled by No Grass In Objects. Remaining changes will be added to the skyrimcustom.ini in the next step.
-
-#### INI Tweaks
-
-- Open the **INI Editor** in Mod Organizer 2 (Tools >> Tool Plugins >> INI Editor).
-- Switch to the **skyrimcustom.ini** tab.
-- Below the existing lines, copy and paste the following:
-
-```
-[Display]
-fSAOIntensity=7
-fWindGrassMultiplier=1.4
-```
-
-- Close the window and click **Yes** when asked to save your changes.
 
 ##### [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files)
 

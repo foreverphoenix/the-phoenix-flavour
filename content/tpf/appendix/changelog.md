@@ -6,28 +6,144 @@ description: >
   For all versions since the Github release (3.2 and later).
 ---
 
-## Release 4.5.5
+## Release 4.6
 
 > TBD
 
-DynDOLOD needs to be regenerated.
+**About Cathedral Assets Optimizer:**
+
+CAO updated multiple times in the past weeks but there were lingering issues with each new release and they once again reverted to the (stable) 5.0.15 which we used for a long time. The guide will do the same thing.
+
+If you used CAO 5.1.3:
+
+- Revert to Cathedral Assets Optimizer 5.0.15.
+- Go through the entire guide to find mods with CAO instructions.
+- Reinstall those mods, then process them with CAO 5.0.15.
+- This includes redoing the entire facegen step.
+
+**About the removal of grass cache:**
+
+A sizeable portion of users (including myself) has reported mild stutters caused by grass cache. There are some workarounds but they mostly defeat the point of generating grass cache to begin with. Thus I decided to drop it. It's unfortunate because grass cache is the single best way to check for repeatable crashes but there are still too many issues with it (the stutters, cells sometimes randomly don't have grass, etc).
+
+And it means one less patcher to run so there's that.
+
+**About the grass mod change:**
+
+By default Veydosebrom's grass is made to look good at iMinGrassSize=20 while Cathedral 3D Pine Grass is made to look good at iMinGrassSize=60. For the sake of consistency and simplicity, I finally removed Cathedral 3D Pine Grass. The main guide moving forward will have only Veydosebrom for grass (and Unique Solstheim Grasses).
+
+However, in TPF-X I am now offering support for QW's Grass Patch which combines Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass with density tweaks for consistency. Take a look if you are unhappy with the new TPF default.
+
+**About the Dwarven texture changes:**
+
+So for the longest time I was a huge fan of [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610) which changes the Dwemer metal's vanilla gold to a bronze hue. Plenty of mods have since been released to cover whatever the original mod did not (including weapons, armors, DLC creatures, and support for other mods like SMIM). Very recently a new mod was released to finally consolidate all bronze dwemer retextures in one place: [Dwemer 4K](https://www.nexusmods.com/skyrimspecialedition/mods/49234). This prompted me to have another look.
+
+My final verdict was that neither sticking with the vanilla golden hue nor embracing the ancient bronze would deliver perfect results. To keep it short: I found that consistency across the board in quality and color is not currently achievable for either option. Ultimately I decided that TPF would stick with the default golden look and Noble Skyrim textures for the most part. Support for the bronze look will be part of TPF-X.
+
+**About the music mod changes:**
+
+I finally decided to move all mods adding to music, including my merged plugin, to TPF-X (the official TPF addon). Support and instructions for them all still exist, just not in the default guide.
+
+#### How to update
+
+- **New save required.**
+- Regenerate INI files ([instructions](/tpf/guide-resources/various-tutorials/#how-to-re-generate-ini-files-from-scratch)).
+- Regenerate AllGUD outputs ([instructions](/tpf/finalisation/allgud/))
+- Rerun TexGen, DynDOLOD, and Occlusion ([instructions](/tpf/guide-resources/how-to-update/#dyndolod)).
+
+#### Introduction
+
+- Clarified that the new music tracks in the TPF playlist are now part of TPF-X and no longer in the base guide.
+- Added a new section to introduce the new TPF addons.
+- Updated the Phoenix's Build section.
+
+#### Initial Setup
+
+- **Mod Organizer 2:** Updated link and picture for MO2 2.4.2 (latest).
+- **INI Files:** Updated BethINI - Detail instructions (increased Detail Draw Distance).
+- **INI Files:** Updated BethINI - View Distance (re-added tweak to grass fade).
+- **INI Files:** Updated BethINI - Visuals instructions (increased tree fade distance and tweaked grass settings).
+- **Additional Tools:** Updated instructions for CAO (reverted to 5.0.15).
+- **Additional Tools:** Removed instructions for Modwat.ch (no longer necessary with Load Order Library).
 
 #### Mod Installation
 
+- **Essential Mods:** Updated download instructions for More Informative Console (file name changed).
+- **Essential Mods:** Re-added Dear Diary - Better More Informative Console.
+- **Essential Mods:** Updated the INI tweak section for No Grass In Objects.
 - **Fixes:** Added instructions to also download the Scrambled Eggchantments main file.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Added additional instructions for Scrambled Eggchantments.
+- **Interface:** Re-added instructions to change the console font for Roboto Font Replacer.
+- **Graphics Baseline:** Added TB's HD Cubemaps.
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
 - **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
 - **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
+- **Trees & Plants:** Updated FOMOD instructions for Veydosebrom Regions.
+- **Trees & Plants:** Removed INI tweak instructions for Veydosebrom Regions (moved to BethINI).
+- **Trees & Plants:** Removed Cathedral 3D Pine Grass.
+- **Architecture:** Removed Markarth - A Reflective Experience (tweaks part of The Dwemer).
+- **Dungeons:** Removed Gecko's Dwarven Ruins Textures (prefer Noble Skyrim).
+- **Dungeons:** Moved Metallurgy - Ingots and Ores HD to Clutter.
+- **Dungeons:** Removed Ancient Dwemer Metal.
+- **Dungeons:** Removed Dwemer Pipework Reworked.
+- **Dungeons:** Removed Ancient DWemer Metal - My Patches for SMIM Dawnguard Dragonborn.
+- **Dungeons:** Removed Dwemer Ichor Barrel.
+- **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
+- **Dungeons:** Removed Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
+- **Clutter:** Added instructions to remove some files from RUSTIC CLUTTER COLLECTION.
+- **Apparel & Weapons:** Updated FOMOD instructions for LeanWolf's Better-Shaped Weapons (no longer choosing sheaths).
+- **Apparel & Weapons:** Added CC's HD Dwemer Weapons and Armor.
+- **Apparel & Weapons:** Removed Ancient aMidianBorn Dwarven Armory.
+- **Apparel & Weapons:** Removed Ancient Dwemer Metal - My Patches - No Smiling Female Helmet.
+- **Apparel & Weapons:** Updated FOMOD instructions for Rudy HQ - Daedric Weapons and Armor (no longer using sheaths).
+- **Unique Artifacts:** Removed Black Bow of Fate Retexture (covered by CC's Dwemer Weapons and Armor).
+- **Creatures:** Removed Ancient Automatons.
+- **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix.
+- **Appearance:** Added Superior Lore-Friendly Hair.
+- **New Content:** Added Ancient Nord Stalhrim.
+- **Assorted Plugins:** Added instructions for Enhanced Reanimation to manually create the INI file.
+- **Assorted Plugins:** Updated instructions to manually create the INI file instead.
+- **Sound FX:** Renamed this step to "Sound FX" from "Sounds & Music" as the music mods were moved to TPF-X.
+- **Sound FX:** Added Thunder Sounds - WiZkiD Mix.
+- **Sound FX:** Removed Musical Lore - Soundtrack Mod by Nir Shor (now part of TPF-X).
+- **Sound FX:** Removed The Northerner Diaries - Immersive Edition (now part of TPF-X).
+- **Sound FX:** Removed Still - Skyrim Inspired Music (now part of TPF-X).
+- **Sound FX:** Removed Hun Lovaas - Skyrim Fan-Made Combat Music (now part of TPF-X).
+- **Sound FX:** Removed Melodies of Civilization - Skyrim Fan-Made Music (now part of TPF-X).
+- **Sound FX:** Removed Around the Fire - Skyrim Fan-Made Music (now part of TPF-X).
+- **Sound FX:** Removed Dawnguard Music Overhaul - Skyrim Fan-Made Music (now part of TPF-X).
+- **Sound FX:** Removed Yet Another Music Merge (now part of TPF-X).
+- **Skeleton & Animations:** Added AllGUD - RUSTIC ANIMATION POTIONS Patch.
+- **Utilities:** Updated download instructions for Spell Perks Item Distributor (file name changed).
+
+#### Finalisation
+
+- **Wrapping Up:** Added Veydosebrom to the list of plugins to ESL-ify.
+- **Wrapping Up:** Removed the music mod plugins from the list of plugins to ESL-ify.
+- **Grass Cache:** This page was removed for the forseeable future.
+
+#### Conflict Resolution Patch
+
+- Fixed a few typos in Civil War Deserters
 
 #### Wabbajack
 
-- Updated SSE Display Tweaks 0.4.13
+- Regenerated INIs
+- Reverted to Cathedral Assets Optimizer 5.1.3
+- Updated Mod Organizer 2 to 2.4.2
+- Updated SSE Display Tweaks 0.4.14
+- Updated Dear Diary - Better More Informative Console to 1.2
 - Updated Scrambled Bugs to 8
+- Updated Equip Enchantment Fix to 1.2.4
+- Updated Dwemer Gates Don't Reset to 1.2.6
 - Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
-- Updated Skyrim - A Mountainous Experience to 1.5
+- Updated Skyrim - A Mountainous Experience to 1.5.6
+- Updated Whiterun Mesh Fixes to 1.1
 - Updated Sovngarde HD to 3.1
+- Updated Reliquary of Myth - Artifact Overhaul to 3.8.3
+- Updated Enhanced Reanimation to 1.3
+- Updated Essential Favorites to 2.1
+- Updated Spell Perk Item Distributor to 4.4
 
 ## Release 4.5.4
 

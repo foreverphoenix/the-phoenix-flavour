@@ -131,12 +131,6 @@ description: >
 
 * **Main Files:** Remiros' Hrothmund's Axe HD 2k
 
-##### [2K Black Bow of Fate Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/13803?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** 2K Black Bow Of Fate DARK WOOD
-
 ##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
 
 #### Download Instructions

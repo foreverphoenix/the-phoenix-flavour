@@ -8,25 +8,17 @@ description: >
 
 ## About this section
 
-The main guide has always tried to stay as performance-friendly as possible in its choices of INI settings, mods, ENB, and so forth. Even though I'm lucky enough to own an RTX 3080 now, I wanted to keep base TPF useable for a variety of systems. However, for those with more powerful hardware there are now some additional mods.
+The main guide has always tried to stay as performance-friendly as possible in its choices of INI settings, mods, ENB, and so forth. Even though I'm lucky enough to own a RTX 3080 now, I wanted to keep base TPF useable for a variety of systems. However, for those with more powerful hardware there are now some additional mods.
 
-There are two sections on this mod page: Grass overhaul (for Folkvangr) and ENB (for Rudy ENB). You can install either, both, or none.
+There are two sections on this mod page: Grass overhaul (for QW's Grass Patch) and ENB (for Rudy ENB). You can install either, both, or none.
 
 ## Grass Overhaul
 
-My personal favourite grass overhaul is Folkvangr nowadays and only the increased performance impact over the TPF default Veydosebrom has kept me from including it in the main guide.
-
-If you choose to install Folkvangr (you can skip it if you like), expect an FPS loss of around 5-10FPS (not noticeable for me since I play capped at 60).
-
-Disable the following mods in your mod order:
-
-- **Trees & Plants:** Veydosebrom Regions
-- **Trees & Plants:** Veydosebrom Regions - Fall Forest
-- **Trees & Plants:** Cathedral 3D Pine Grass
+QW's Grass Patch combines the best of Veydosebrom, Cathedral 3D Pine Grass, and Folkvangr, tweaking grass density to be consistent across the board. The performance impact over default TPF (which only has Veydosebrom) is likely increased.
 
 ### **[Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899?tab=files)**
 
-An absolutely incredible grass overhaul. Does stray from vanilla quite a bit but I haven't yet found a single place I didn't like. I prefer it over Veydosebrom.
+An absolutely incredible grass overhaul. Does stray from vanilla quite a bit but I haven't yet found a single place I didn't like. QW's Grass Patch mostly retains Folkvangr's phenomenal pine forest and rift grasses. 
 
 #### Download Instructions
 
@@ -37,19 +29,90 @@ An absolutely incredible grass overhaul. Does stray from vanilla quite a bit but
 - Delete the following file(s) and / or folder(s):
   - `Folkvangr - Grass and Landscape Overhaul.ini`
 
-#### INI Tweak
+### **[Cathedral 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032?tab=files)**
 
-- Open the **INI Editor** in Mod Organizer 2.
+This is a very performance-friendly and beautiful overhaul for pine grass only. It adds a large number of different grasses, including higher plants that make the Falkreath forest look significantly more dense and overgrown (which is toned down by QW's Grass Patch though).
+
+#### Download Instructions
+
+- **Main Files:** Cathedral - 3D Pine Grass - Full 3D Coverage
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `Cathedral - 3D Pine Grass.ini`
+
+#### INI Tweaks
+
+- Open the **INI Editor** in Mod Organizer 2 (Tools >> Tool Plugins >> INI Editor).
 - Switch to the **skyrimcustom.ini** tab.
-- Change the following value:
+- Below the existing lines, copy and paste the following:
 
 ```
-iMinGrassSize=60
+[Display]
+fSAOIntensity=7
+fWindGrassMultiplier=1.4
 ```
 
-- Click **Save** and close the window.
+- Close the window and click **Yes** when asked to save your changes.
 
-> Thanks to the MO2 profile-specific INI files option, this change will only apply to the TPF-X profile and not affect the base TPF profile.
+### ESL-ifying Plugins
+
+The plugin for QW's Grass Patch will expect all three grass overhauls to have compacted formIDs (otherwise it will throw errors and you will be unable to even launch the game). We already compacted and ESL-ified Veydosebrom for the main guide, but Folkvangr and Cathedral 3D Pine Grass will need the same treatment.
+
+- Make sure both **Folkvangr** and **Cathedral 3D Pine Grass** are active in your mod and load order.
+- Launch **SSEEdit** through Mod Organizer 2.
+- Click **OK** in the plugin selection window and wait for SSEEdit to finish loading.
+
+Now you can renumber FormIDs for Folkvangr:
+
+- Scroll down to **Folkvangr - Grass and Landscape Overhaul.esp**.
+- Right-click the plugin and select **Compact FormIDs for ESL**. 
+- A warning will pop up, click **Yes I'm absolutely sure**.
+- Click **OK** again for the warning about renumbering FormIDs.
+- Wait until SSEEdit returns `Done: Changing FormIDs` (should only take a second).
+
+Since FormIDs are renumbered now for ESL space, you can flag the plugin as ESL:
+
+- At the bottom (below the SSEEdit log) click the **View** tab to see Folkvangr's file header.
+- Right-click the empty space to the right of **Record Header** >> **Record Flags**.
+- Select **Edit**, check **ESL** in the list, and click **OK**.
+
+Done! Folkvangr is now successfully compacted and ESL-ified.
+
+**Repeat the same process for Cathedral 3D Pine Grass:** Renumber FormIDs, then flag the plugin as ESL.
+
+Once both plugins are done, close SSEEdit. Click **OK** when prompted to save your changes.
+
+### **[QW's Grass Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48689?tab=files)**
+
+This is the patch to rule them all, tweaking various grasses added by Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass as well picking which grasses should appear where.
+
+#### Download Instructions
+
+- **Main Files:** QW's Grass Patch (no DoS)
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `QW's Grass Patch.ini`
+
+### Grass Density
+
+TPF's default grass density is iMinGrassSize=20 which is how Veydosebrom looks best. However, while QW's Grass Patch was also made for the same value, its grass is *very* dense at that setting and you can gain back some valuable frames by increasing iMinGrassSize slightly. I recommend testing your frame rate ingame before deciding to increase iMinGrassSize which will *lower* grass density and *improve* performance.
+
+If you decide that you want a higher frame rate, follow these steps:
+
+- Open the **INI Editor** in Mod Organizer 2 (Tools >> Tool Plugins >> INI Editor).
+- Switch to the **skyrimcustom.ini** tab.
+- Below the existing lines, copy and paste the following:
+
+```
+[Grass]
+iMinGrassSize=35
+```
+
+- Close the window and click **Yes** when asked to save your changes.
 
 ## Rudy ENB
 
@@ -130,7 +193,7 @@ Synchronises sun and exterior shadows. This mod is a hard requirement for Rudy E
 
 - **Main Files:** Dynamic Volumetric Lighting and Sun Shadows
 
-### **Rudy ENB - DVLaSS INI**
+### Rudy ENB - DVLaSS INI
 
 Rudy comes with its own preset for DLVaSS.
 
@@ -144,7 +207,7 @@ Rudy comes with its own preset for DLVaSS.
 - Extract the **SKSE** folder into the mod folder you created before.
 - In Mod Organizer 2, press F5 to refresh.
 
-### **DynDOLOD - Generate Terrain Underside**
+### DynDOLOD - Generate Terrain Underside
 
 While there is a terrain underside mesh available on the DLVaSS mod page, it is recommended to use DynDOLOD to generate one for one's setup. This is a new feature in DynDOLOD 3.0 that you need to enable now. DynDOLOD will be regenerated later on.
 

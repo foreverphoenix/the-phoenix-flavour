@@ -1,9 +1,9 @@
 ---
-title: "Sounds & Music"
+title: "Sound FX"
 weight: 38
 type: docs
 description: >
-  Improved sound effects with additional sliders and new music tracks.
+  Improved sound effects with additional sliders.
 ---
 
 ##### [Audio Overhaul for Skyrim (AOS)](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files)
@@ -72,6 +72,12 @@ description: >
 * Delete the following file(s) and/or folder(s):
   * `AOS_ISC_Integration.modgroups`
 
+##### [Thunder Sounds - WiZkiD Mix](https://www.nexusmods.com/skyrimspecialedition/mods/44656?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Thunder Sounds -WiZkiD Mix-
+
 ##### [Improved Horse Step Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/848?tab=files)
 
 #### Download Instructions
@@ -101,88 +107,3 @@ description: >
 #### Download Instructions
 
 * **Main Files:** LowerVolume
-
-##### [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Musical Lore V1.2
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `NirShor-MusicalLore.esp`
-
-##### [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** The Northerner Diaries - Skyrim and Solstheim
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Northerner Diaries in Skyrim.esp`
-
-##### [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Still - ESP Version
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Still.esp`
-
-##### [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hun Lovaas - ESP version
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Hun Lovaas.esp`
-
-##### [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Melodies of Civilization 1.01
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Melodies of Civilization.esp`
-
-##### [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Around the Fire
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Around the Fire.esp`
-
-##### [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Dawnguard Music Overhaul - Main Module
-- **Main Files:** Dawnguard Music Overhaul - Combat Module >> `merge with the main file`
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Dawnguard Music Overhaul.esp`
-  - `Dawnguard Music Overhaul - Combat.esp`
-
-##### [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725/?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Yet Another Music Merge

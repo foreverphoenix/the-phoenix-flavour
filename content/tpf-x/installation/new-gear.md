@@ -1,6 +1,6 @@
 ---
 title: "New Gear"
-weight: 4
+weight: 5
 type: docs
 description: >
   Additional weapons and armors.
@@ -36,7 +36,6 @@ Royal Armory is **optional**. If you choose to install it, install the other two
 
 #### FOMOD Instructions
 
-- **Royal Armory:** Royal Armory
 - **Patches:**
   - ~~Blue Palace Terrace Patch~~
   - ~~Immersive College of Winterhold Patch~~
