@@ -27,6 +27,7 @@ description: >
 - Added Workshop Power Pack
 - Added Whose Quest Is It Anyway
 - Added River Fix
+- Updated Mod Organizer 2 to 2.4.2
 - Updated Buffout to 1.23.0
 - Updated Workshop Framework to 2.0.13
 - Updated Wetness Shader Fix to 3.41
