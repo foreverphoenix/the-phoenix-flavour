@@ -116,29 +116,6 @@ description: >
 * **Main Files:** Mysticism - Trade and Barter Patch
 * **Main Files:** Adamant - Trade and Barter Patch
 
-##### [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612?tab=files)
-
-#### Download Instructions
-
-* **Main FIles:** Reliquary of Myth - Artifact Overhaul
-
-#### FOMOD Instructions
-
-* **Main Installation:**
-  * Reliquary of Myth - Artifact Overhaul
-  * ROM - Dragon Priest Masks Pack
-* **Main Patches:**
-  * ROM - REB Patch
-* **ICH Patches:**
-  * None
-* **SPID Patches:**
-  * ROM - SPID Patch
-  * ROM - SPID DPM Patch
-* **Optional Patches:**
-  * ~~ROM - WMA Patch~~
-
-> Only check the one patch marked above. All other patches offered are not required as conflicts are resolved in TPF's final patch.
-
 ##### [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
 
 #### Download Instructions

@@ -90,6 +90,12 @@ description: >
 
 * **Main Files:** Werewolf Sounds - LOW AGGRESSION
 
+##### [Realistic Dog Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/49948?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Realistic Dog Sounds
+
 ##### [Realistic Husky Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/11038?tab=files)
 
 #### Download Instructions

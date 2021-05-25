@@ -33,11 +33,13 @@ By default Veydosebrom's grass is made to look good at iMinGrassSize=20 while Ca
 
 However, in TPF-X I am now offering support for QW's Grass Patch which combines Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass with density tweaks for consistency. Take a look if you are unhappy with the new TPF default.
 
-**About the Dwarven texture changes:**
+**About the removal of Reliquary of Myth:**
 
-So for the longest time I was a huge fan of [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610) which changes the Dwemer metal's vanilla gold to a bronze hue. Plenty of mods have since been released to cover whatever the original mod did not (including weapons, armors, DLC creatures, and support for other mods like SMIM). Very recently a new mod was released to finally consolidate all bronze dwemer retextures in one place: [Dwemer 4K](https://www.nexusmods.com/skyrimspecialedition/mods/49234). This prompted me to have another look.
+In TPF 4.6, I'm removing Reliquary of Myth - and I realise this change will be a controversial one. The heart of the matter is that ROM is more Enairim than Simonrim and I have long felt it doesn't fit in thematically. I apologise to those of you who are unhappy about this change, feel free to stay on TPF 4.5 in that case.
 
-My final verdict was that neither sticking with the vanilla golden hue nor embracing the ancient bronze would deliver perfect results. To keep it short: I found that consistency across the board in quality and color is not currently achievable for either option. Ultimately I decided that TPF would stick with the default golden look and Noble Skyrim textures for the most part. Support for the bronze look will be part of TPF-X.
+**About the facegen changes:**
+
+We traced down a bug with Urag gro-Shub's facegen to the Creation Kit starting to stumbled over its own feet when generating all facegen at once (in this case, the bug could be fixed by skipping the six Snow Elves when generating facegen). Since facegen now has to be generated in small batches by everyone, I figured it would be easier to simply provide pre-made facegen after all so that is what I will be doing from now on. The facegen step in Finalisation was removed entirely.
 
 **About the music mod changes:**
 
@@ -49,6 +51,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Regenerate INI files ([instructions](/tpf/guide-resources/various-tutorials/#how-to-re-generate-ini-files-from-scratch)).
 - Regenerate AllGUD outputs ([instructions](/tpf/finalisation/allgud/))
 - Rerun TexGen, DynDOLOD, and Occlusion ([instructions](/tpf/guide-resources/how-to-update/#dyndolod)).
+- **Wabbajack:** Reinstall Game Folder Files (ENBSeries updated).
 
 #### Introduction
 
@@ -73,8 +76,11 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Fixes:** Added instructions to also download the Scrambled Eggchantments main file.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Added additional instructions for Scrambled Eggchantments.
+- **Interface:** Removed No More Laser-Printed Book.
+- **Interface:** Added Convenient Reading.
 - **Interface:** Re-added instructions to change the console font for Roboto Font Replacer.
-- **Graphics Baseline:** Added TB's HD Cubemaps.
+- **Graphics Baseline:** Added Quality Cubemaps.
+- **Graphics Baseline:** Moved aMidianBorn Book of Silence to Creatures.
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
 - **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
 - **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
@@ -91,20 +97,41 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Removed Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
 - **Clutter:** Added instructions to remove some files from RUSTIC CLUTTER COLLECTION.
-- **Apparel & Weapons:** Updated FOMOD instructions for LeanWolf's Better-Shaped Weapons (no longer choosing sheaths).
+- **Apparel & Weapons:** Added Modular Armory.
+- **Apparel & Weapons:** Removed Armor and Mesh Fixes (temporary until I get permission to patch Modular Armory).
+- **Apparel & Weapons:** Removed Cathedral Armory (superseded by Modular Armory).
+- **Apparel & Weapons:** Removed Project Clarity - Weapons - TPF Repack (superseded by Modular Armory).
+- **Apparel & Weapons:** Removed Warmth - Light Armors Replacer temporarily (need to patch for Modular Armory).
+- **Apparel & Weapons:** Updated FOMOD instructions for LeanWolf's Better-Shaped Weapons.
 - **Apparel & Weapons:** Added CC's HD Dwemer Weapons and Armor.
 - **Apparel & Weapons:** Removed Ancient aMidianBorn Dwarven Armory.
 - **Apparel & Weapons:** Removed Ancient Dwemer Metal - My Patches - No Smiling Female Helmet.
 - **Apparel & Weapons:** Updated FOMOD instructions for Rudy HQ - Daedric Weapons and Armor (no longer using sheaths).
-- **Unique Artifacts:** Removed Black Bow of Fate Retexture (covered by CC's Dwemer Weapons and Armor).
+- **Apparel & Weapons:** Removed aMidianBorn Stormcloak Officer Armour (part of Modular Armory).
+- **Apparel & Weapons:** Removed Actual Orichalcum Orcish Equipment.
+- **Apparel & Weapons:** Removed Outlandish Stalhrim.
+- **Apparel & Weapons:** Added Stalhrim Refrozen.
+- **Apparel & Weapons:** Removed Outlandish Chitin Armour (part of Modular Armory).
+- **Apparel & Weapons:** Removed HD Reflective Ebony Armor and Weapons.
+- **Apparel & Weapons:** Removed Rudy HQ - Daedric Weapons and Armor (don't currently have a patch for Modular Armory).
+- **Apparel & Weapons:** Removed Dragon Priest Weapons Improved (part of Modular Armory).
+- **Unique Artifacts:** Merged with Apparel & Weapons page since most mods were consolidated into Modular Armory.
+- **Unique Artifacts:** Removed HD Reflective Ebony Mail.
+- **Unique Artifacts:** Removed Remiros' Ebony Blade HD.
+- **Unique Artifacts:** Removed Remiros' Wabbajack HD.
+- **Unique Artifacts:** Removed Remiros' Hrothmund's Axe HD.
+- **Unique Artifacts:** Removed Aevrigheim - Miraak's Sword and Staff Replacer.
 - **Creatures:** Removed Ancient Automatons.
 - **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix.
 - **Appearance:** Added Superior Lore-Friendly Hair.
+- **Gameplay Overhauls:** Removed Reliquary of Myth - Artifact Overhaul.
+- **New Content:** Updated aMidianBorn AVL FOMOD instructions (no longer selecting ROM patch).
 - **New Content:** Added Ancient Nord Stalhrim.
 - **Assorted Plugins:** Added instructions for Enhanced Reanimation to manually create the INI file.
 - **Assorted Plugins:** Updated instructions to manually create the INI file instead.
 - **Sound FX:** Renamed this step to "Sound FX" from "Sounds & Music" as the music mods were moved to TPF-X.
 - **Sound FX:** Added Thunder Sounds - WiZkiD Mix.
+- **Sound FX:** Added Realistic Dog Sounds.
 - **Sound FX:** Removed Musical Lore - Soundtrack Mod by Nir Shor (now part of TPF-X).
 - **Sound FX:** Removed The Northerner Diaries - Immersive Edition (now part of TPF-X).
 - **Sound FX:** Removed Still - Skyrim Inspired Music (now part of TPF-X).
@@ -131,16 +158,19 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Regenerated INIs
 - Reverted to Cathedral Assets Optimizer 5.1.3
 - Updated Mod Organizer 2 to 2.4.2
+- Updated ENBSeries to 0.454
 - Updated SSE Display Tweaks 0.4.14
 - Updated Dear Diary - Better More Informative Console to 1.2
 - Updated Scrambled Bugs to 8
 - Updated Equip Enchantment Fix to 1.2.4
-- Updated Dwemer Gates Don't Reset to 1.2.6
+- Updated Dwemer Gates Don't Reset to 1.2.8
 - Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
 - Updated Skyrim - A Mountainous Experience to 1.5.6
 - Updated Whiterun Mesh Fixes to 1.1
 - Updated Sovngarde HD to 3.1
-- Updated Reliquary of Myth - Artifact Overhaul to 3.8.3
+- Updated Deiform Alduin to 1.1
+- Updated Forceful Tongues - Shouts Overhaul to 2.1
+- Updated Classic Paralysis to 2.1
 - Updated Enhanced Reanimation to 1.3
 - Updated Essential Favorites to 2.1
 - Updated Spell Perk Item Distributor to 4.4

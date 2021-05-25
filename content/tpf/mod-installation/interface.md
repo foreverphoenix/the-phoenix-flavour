@@ -154,11 +154,18 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
-##### [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
+##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** No More Laser-Printed Book
+- **Main Files:** Convenient Reading
+
+#### Additional Instructions
+
+- Double-click **Convenient Reading** in your mod order.
+- Switch to the **INI Files** tab and select the **Convenient Reading.ini**.
+- In **Line 11** set **sBookStealTextColor=** to **0xFF0000**.
+- Hit **CTRL + S** to save your changes and close the window.
 
 ##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
 

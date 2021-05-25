@@ -5,6 +5,86 @@ type: docs
 description: >
   Retextures for generic equipment.
 ---
+
+##### [Modular Armory](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Modular Armory
+- **Optional Files:** Modular Armory - Unique Nettlebane Mesh
+
+#### FOMOD Instructions
+
+- **Misc Armors:**
+  - ~~Fur Armor~~
+  - Hide Armor
+  - Leather Armor
+  - Scaled Armor
+  - Steel Plate Armor
+- **Misc Weapons:**
+  - ~~Shiv~~
+  - ~~Executioner's Axe~~
+  - Longbow
+  - ~~Scimitar~~
+  - Silver Swords
+  - Nord Hero Weapons
+  - Dragon Priest Weapons
+  - Staves
+  - ~~Giant's Club~~
+- **Basic Sets:**
+  - Iron Armor and Weapons
+  - Steel Armor and Weapons
+  - Ancient Draugr Armor and Weapons
+- **Advanced Sets:**
+  - Falmer Armor and Weapons
+  - Dwarven Armor and Weapons
+  - Elven Armor and Weapons
+  - Orcish Armor and Weapons
+- **Rare Sets:**
+  - Ebony Armor and Weapons
+  - Daedric Armor and Weapons
+- **Dragonborn Sets:**
+  - Chitin Armor
+  - Bonemold Armor
+  - Nordic Set
+- **Faction Sets:**
+  - Wolf Armor
+  - Blades Armor and Weapons
+  - Stormcloak Officer Armor
+- **Companions:**
+  - Wuuthrad
+  - Shield of Ysgramor
+  - Savior's Hide
+  - Tsun's Armor
+- **Dwarven:**
+  - Keening
+  - Aetherial Set
+  - Black Bow of Fate
+- **Daedric:**
+  - Mehrunes' Razor
+  - Blade of Sacrifice
+  - ~~Sanguine Rose~~
+  - ~~Skull of Corruption~~
+  - Mace of Molag Bal
+  - ~~Rueful Axe~~
+  - Volendrung
+  - Wabbajack
+  - Ebony Mail
+  - Ebony Blade
+- **Other:**
+  - Helm of Yngol
+  - ~~Nettlebane~~
+  - Chillrend
+  - Targe of the Blooded
+  - Blade of Woe
+  - Staff of Magnus
+- **Dragonborn:**
+  - Hrothmund's Axe
+  - Miraak's Sword
+  - Miraak's Staff
+
+> Many of the options skipped in the FOMOD are repacks of Project Clarity textures which we already have installed. In the case of the Fur armor, I prefer Gamwich's textures from RUSTIC CLOTHING. The Scimitar is skipped in favour of LeanWolf's new mesh and textures.
+
 ##### [RUSTIC CLOTHING](https://www.nexusmods.com/skyrimspecialedition/mods/4703?tab=files)
 
 #### Download Instructions
@@ -17,35 +97,6 @@ description: >
 
 * **Main Files:** RAW SSE 2K
 
-##### [Armor Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39704?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Armor Mesh Fixes
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\armor\daedric\`
-  - `meshes\armor\orcish\`
-
-##### [Warmth - Light Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2959?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Warmth - Light Armor Replacer
-
-#### FOMOD Instructions
-
-* **Replace all armours:**
-  * Replace all armours.
-* **Select which armors you want to replace:**
-  * ~~Replaces only the leather armor.~~
-  * ~~Replaces only the hide armor.~~
-  * ~~Replaces only the studded armor.~~
-  * ~~Replaces only the scaled armor.~~
-  * ~~Replaces only the scaled horn armor.~~
-
 ##### [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
 
 #### Download Instructions
@@ -55,48 +106,96 @@ description: >
 #### FOMOD Instructions
 
 - **All or Custom:**
-  - Install everything (default)
-- **Sheath Options:**
-  - ~~Onehanded Sheaths~~
-  - ~~Greatsword Sheaths~~
+  - Custom Install
+- **Iron:**
+  - ~~Iron Weapons~~
+  - ~~Iron Sword Dagger Sheath~~
+  - ~~Iron Greatsword Sheath~~
+  - ~~Iron Quiver~~
+- **Steel:**
+  - ~~Steel Weapons~~
+  - ~~Steel Greatsword Sheath~~
+  - ~~Steel Quiver~~
+- **Skyforge:**
+  - ~~Skyforge Weapons~~
+  - ~~Skyforge Greatsword Sheath~~
+  - ~~Skyforge Quiver~~
+- **Silver:**
+  - ~~Silver Swords~~
+  - ~~Silver Sword Sheath~~
+  - ~~Silver Greatsword Sheath~~
+- **Orcish:**
+  - ~~Orcish Weapons~~
+  - ~~Orcish Greatsword Sheath~~
+  - ~~Orcish Quiver~~
+- **Elven:**
+  - ~~Elven Weapons~~
+  - ~~Elven Greatsword Sheath~~
+  - ~~Elven Quiver~~
+- **Nord Hero:**
+  - ~~Nord Hero Weapons~~
+  - ~~Nord Hero Sword Sheath~~
+  - ~~Nord Hero Greatsword Sheath~~
+  - ~~Nord Hero Quiver~~
+- **Dwarven:**
+  - ~~Dwarven Weapons~~
+  - ~~Dwarven Greatsword Sheath~~
+  - ~~Dwarven Quiver~~
+- **Glass:**
+  - ~~Glass Weapons~~
+  - ~~Glass Sword Dagger Sheath~~
+  - ~~Glass Greatsword Sheath~~
+  - ~~Glass Quiver~~
+- **Ebony:**
+  - ~~Ebony Weapons~~
+  - ~~BladeOfSacrifice Sheath~~
+  - ~~Ebony Greatsword Sheath~~
+  - ~~Ebony Quiver~~
+- **Daedric and Bound:**
+  - ~~Daedric weapons~~
+  - ~~Daedric Sword Dagger Sheath~~
+  - ~~Daedric Greatsword Sheath~~
+  - ~~Daedric Quiver~~
+- **Nightingale:**
+  - None
+- **Dawnbreaker:**
+  - Dawnbreaker Sheath Elf
+- **Dragonbone:**
+  - Dragonbone Weapons
+  - ~~Dragonbone Greatsword Sheath~~
+  - Dragonbone Quiver
+- **Stalhrim:**
+  - ~~Stalhrim weapons~~
+  - ~~Stalhrim Sword Dagger Sheath~~
+  - ~~Stalhrim Greatsword Sheath~~
+  - ~~Stalhrim Quiver~~
+- **Nordic:**
+  - ~~Nordic weapons~~
+  - ~~Nordic Sword Sheath~~
+  - ~~Nordic Greatsword Sheath~~
+  - ~~Nordic Quiver~~
+- **Keening:**
+  - None
+- **Individual Weapons:**
+  - ~~Ancient Nordic Weapons~~
+  - ~~Ancient Nordic Quiver~~
+  - ~~Imperial Sword~~
+  - Scimitar
+  - ~~Mehrunes Razor~~
+  - ~~Forsworn Quiver~~
+  - ~~Falmer Quiver~~
 - **Variants and Patches:**
-  - FrankFamily HD Imperial Armor and Weapons
+  - ~~FrankFamily HD Imperial Armor and Weapons~~
   - ~~FrankFamily Ultra HD Silver Sword~~
   - ~~Scimitar Bling~~
   - ~~Keening with Refraction~~
   - ~~Runed Nord Hero Weapons~~
-- **Glass Refraction Options:**
-  - No Refraction
-- **Stalhrim Refraction Options:**
-  - No Refraction
-- **Dawnbreaker:**
-  - Dawnbreaker Sheath Elf
 - **Dawnbreaker ENB Option:**
   - Dawnbreaker for ENB
 - **Dragonbone Options:**
   - DragonBoring Weapons
 - **Left-hand Meshes:**
   - No Dual Sheath
-
-##### [Cathedral Armory - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/20199?tab=files)
-
-#### Download Instructions
-
-- **Miscellaneous Files:** Cathedral Armory - TPF Repack
-- **Optional Files:** Armor Mesh Fixes SE Patch
-
-#### Additional Instructions
-
-- Double-click **Cathedral Armory - Armor Mesh Fixes Patch** in your mod order.
-- Delete the following file(s) and / or folder(s):
-  - `meshes\armor\daedric\`
-  - `meshes\armor\orcish\`
-
-##### [Project Clarity - Weapons - TPF Repack](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Project Clarity - Weapons - TPF Repack
 
 ##### [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files)
 
@@ -110,12 +209,6 @@ description: >
 
 * **Main Files:** UltraHD - Stormcloak and City Guards 2K version
 * **Optional Files:** Fix by SpriterSan for 2k version >> `merge with the main file`
-
-##### [aMidianBorn Stormcloak Officer Armour](https://www.nexusmods.com/skyrim/mods/45692?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** aMidianBorn Stormcloak officer
 
 ##### [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files)
 
@@ -134,18 +227,6 @@ description: >
 #### FOMOD Instructions
 
 * **Texture Resolution:** 2K Resolution
-
-##### [CC's HD Dwemer Weapons and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/32384?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** CC's HD Dwemer Weapons and Armor - 2K - 1.0
-
-##### [Actual Orichalcum Orcish Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/33653?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Actual Orichalcum Orcish Equipment
 
 ##### [Frankly HD Thieves Guild Armor](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files)
 
@@ -168,36 +249,6 @@ description: >
 * **Texture Resolution:** 2K Resolution
 * **Options:** ~~Oblivion Style~~
 
-##### [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Outlandish Stalhrim SSE
-* **Optional Files:** Outlandish Stalhrim SSE - Better Shaped Weapons Patch >> `merge with the main file`
-* **Miscellaneous Files:** Outlandish Stalhrim SSE - Blue Cubemap >> `merge with the main file`
-
-##### [Outlandish Chitin Armour](https://www.nexusmods.com/skyrim/mods/70681?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Outlandish Chitin Armour
-
-##### [HD Reflective Ebony Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37701?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** HD Reflective Ebony Armor and Weapons
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\armor\`
-  - `textures\weapons\ebony\ebony shield_d.dds`
-  - `textures\weapons\ebony\ebony shield_m.dds`
-  - `textures\weapons\ebony\ebony shield_n.dds`
-
-> We are removing the mod's textures in favour of aMidianBorn's for consistency with aMidianBorn Variants which adds gold and silver Ebony variations.
-
 ##### [Frankly HD Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files)
 
 #### Download Instructions
@@ -205,45 +256,140 @@ description: >
 * **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
 * **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch >> `merge with the main file`
 
-##### [Rudy HQ - More Lights for ENB - Daedric Weapons and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/40951?tab=files)
+##### [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Rudy HQ - More lights for ENB SE - Daedric Weapons and Armor
+* **Main Files:** Stalhrim Refrozen
+* **Optional Files:** Stalhrim Refrozen - Core Package 4k
 
 #### FOMOD Instructions
 
-* **Weapon models:**
-  * Leanwolf's Better Shaped Weapon
-* **Sheath options:**
-  * Without Sheathes
-* **Optional Armor tweaks:**
-  * Daedric armor
-  * Daedric Shield
-* **Daedric Armor light:**
-  * ~~Armor light~~
-* **Armor glow:**
-  * Subtle glow
-* **Shield Glow:**
-  * Strong glow
-* **Patches:**
-  * ~~Scoped bows~~
-  * ~~Animated Armoury~~
-  * ~~Heavy Armory~~
-  * ~~Katana Crafting~~
+- **Addons:**
+  - ~~Animated Armory~~
+  - ~~Believable Weapons~~
+  - ~~Briraka's Draugr Overhaul~~
+  - ~~Fulcimentum~~
+  - ~~Heavy Armory~~
+  - ~~Konahrik's Accountrements~~
+  - ~~Legacy of the Dragonborn~~
+  - ~~Royal Armory~~
+  - ~~Stalhrim Extra Crafting~~
+- **Ancient Nord Stalhrim**
+  - --pending--
+- **Katana Crafting:**
+  - None
+- **Leanwolf's Better Shaped Weapons:**
+  - No Sheaths
+- **Lovely Longswords:**
+  - None
 
-##### [Dragon Priest Weapons Improved](https://www.nexusmods.com/skyrim/mods/60075?tab=files)
+#### Additional Instructions
+
+- Run the **Stalhrim Refrozen - Core Package 4K** through Cathedral Assets Optimizer (**Downsize Textures**).
+
+##### [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Dragon Priest Weapon Improved
-* **Update Files:** Quick Update >> `merge with the main file`
+* **Main Files:** Unique Uniques SE
+
+##### [Unique Uniques - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42145?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Unique Uniques SE - Fixes
+
+##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Frankly HD Nightingale Armor and Weapons 1.1
+* **Optional Files:** Frankly HD Nightingale LeanWolfs Better-Shaped Weapons and Dual Sheath Redux Patch >> `merge with the main file`
+
+#### FOMOD Instructions
+
+* **Texture Resolution:**
+  * 2K Resolution
+* **Options:**
+  * ~~Less Saturated Weathering~~
+  * ~~No Cloak~~
+  * ~~Full Glove~~
+
+##### [Masks of the Dovah Sonaak](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Masks of the Dovah Sonaak
+
+#### FOMOD Instructions
+
+* **Improved Closefaced Helmets Patch:** Don’t install
+* **Warmonger Armory Patch:** Don’t install
+* **Craftable Hoods:** Don’t install
+* **aMidianBorn Content Addon:** Nahkriin - Default Ebony >> `page is greyed out but this option is selected by default`
+* **Frankly HD Patch:** Konahrik - Frankly HD Gold
+
+##### [Remiros’ Dawnbreaker HD](https://www.nexusmods.com/skyrimspecialedition/mods/22334?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Remiros’ Dawnbreaker HD - Vanilla Colors
+
+#### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+
+##### [Spellbreaker Oblivionized Retexture in HD](https://www.nexusmods.com/skyrimspecialedition/mods/32430?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Spell Breaker HD
+
+##### [Remiros’ Ancient Falmer Armor HD](https://www.nexusmods.com/skyrimspecialedition/mods/22458?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Remiros’ Ancient Falmer Armor
+
+#### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+
+##### [Harkon’s Sword - HD Retexture](https://www.nexusmods.com/skyrim/mods/52004?tab=files)
+
+#### Download Instructions
+
+* **Miscellaneous Files:** Harkons Sword - Scabbard 2k
+
+##### [Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/16956?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Unique Zephyr 1.0
+
+##### [Remiros' Bloodskal Blade HD](https://www.nexusmods.com/skyrimspecialedition/mods/18626?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Remiros' Bloodskal Blade HD
 
 #### Porting Instructions
 
-* Run the mod through **SSE NIF Optimizer**.
+* Run the mod through Cathedral Assets Optimizer (**SSE - Downsize Textures**).
 
-> Processing the meshes with CAO results in the staff 3rd person mesh being invisible ingame. Not processing causes the dagger 1st and 3rd person meshes to be invisible. Only SSE NIF Optimizer reliably fixes all meshes.
+##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Frankly HD Miraak 1.0
+* **Update Files:** Frankly HD Miraak HOTFIX 1.11 >> `merge with the main file`
+
+#### FOMOD Instructions
+
+* **Texture Resolution:** 2K Resolution
+* **Alternative Colors:** Vanilla Green
+* **Other:** ~~Improved Closefaced Helmets Patch~~
 
 ##### [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files)
 

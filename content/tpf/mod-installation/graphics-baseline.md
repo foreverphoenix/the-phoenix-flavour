@@ -87,11 +87,17 @@ description: >
 
 - **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
-##### [TB's HD Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/46644)
+##### [Quality Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** TB's HD Cubemaps
+- **Main Files:** Quality Cubemaps
+
+#### Additional Instructions
+
+- Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+
+> While the mod does not have SLE assets, it does have uncompressed textures which CAO will compress to BC7 with this profile.
 
 ##### [Noble Skyrim Mod HD-2K (NSM)](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
 
@@ -110,21 +116,6 @@ description: >
 - The resulting file path should be `textures\effects\projecteddiffuse.dds`.
 
 > The projecteddiffuse.dds is applied by the snow shader to various objects like rocks, roads, etc. If it does not perfectly match the regular snow01.dds texture, it will be very noticeable ingame as you can see [in this comparison](https://imgsli.com/NDY1OTk).
-
-##### [aMidianBorn Book of Silence (AMB)](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 1) aMidianBorn Book of Silence SE -- COMPLETE
-
-#### Additional Instructions
-
-- Unpack **aMidianBorn_Book Of Silence.bsa** through Mod Organizer 2.
-- Delete the following file(s) and / or folder(s):
-  - `aMidianBorn Optional Plugins`
-  - `scripts`
-  - `aMidianBorn_Book Of Silence.bsa`
-  - `aMidianBorn_Book Of Silence.esp`
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 

@@ -44,6 +44,56 @@ description: >
 * **Werewolf:** None
 * **Werewolf Eyes:** None
 
+##### [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** aMidianBorn Book of Silence SE -- CREATURES
+- **Optional Files:** aMidianBorn Book of Silence SE -- DRAGONBORN
+
+#### FOMOD Instructions - Creatures
+
+- **Options:**
+  - Custom
+- **Skeleton:**
+  - Skeleton
+- **Dragon Priest:**
+  - Dragon Priest - Concept Edition
+- **Draugr:**
+  - Draugr
+- **Falmer:**
+  - ~~Falmer~~
+- **Chaurus:**
+  - ~~Chaurus~~
+- **Spriggan:**
+  - ~~Spriggan~~
+
+#### FOMOD Instructions - Dragonborn
+
+- **Options:**
+  - Custom
+- **Nordic Carved Armor:**
+  - None
+- **Bonemold Armor:**
+  - None
+- **Acolyte Masks:**
+  - ~~Acolyte Masks~~
+- **Dragon Priest Acolytes:**
+  - Dragon Priest Acolytes
+- **Hulking Draugr:**
+  - Hulking Draugr
+- **Ash Spawn:**
+  - Ash Spawn
+- **Ash Guardians:**
+  - ~~Ash Guardians~~
+
+#### Additional Instructions
+
+- Double-click **aMidianBorn Book of Silence - Creatures** in your mod order.
+- Switch to the **Filetree** tab.
+- Delete the following file(s) and / or folder(s):
+  - `textures\weapons\`
+
 ##### [OH GOD BEES - HD Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2932?tab=files)
 
 #### Download Instructions

@@ -29,7 +29,7 @@ description: >
 - **Patches:**
   - Enchanting Adjustments Patch
   - Finding Velehk Sain Patch
-  - Reliquary of Myth Patch
+  - ~~Reliquary of Myth Patch~~
   - Weapons Armor Clothing and Clutter Fixes Patch
 
 ##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
@@ -64,10 +64,9 @@ description: >
 #### FOMOD Instructions
 
 - **Main Files:** Stalhrim Only
-- **Weapon Mods:** Outlandish Stalhrim
-- **Outlandish Stalhrim Patches:**
+- **Weapon Mods:**
   - ~~Believable Weapons~~
-  - Better Shaped Weapons
+  -  ~~Outlandish Stalhrim~~
 - **Draugr Overhaul Patches:**
   - ~~Briraka's Draugr Overhaul~~
   - ~~Draugr Upgrades and Improvements~~
