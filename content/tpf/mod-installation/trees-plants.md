@@ -222,6 +222,12 @@ description: >
 
 - **Main Files:** Rallys Hanging Moss - Desaturated
 
+##### [Improved Gourds](https://www.nexusmods.com/skyrimspecialedition/mods/48160?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Improved Gourds
+
 ##### [Realistic HD Mushrooms Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/21996?tab=files)
 
 #### Download Instructions

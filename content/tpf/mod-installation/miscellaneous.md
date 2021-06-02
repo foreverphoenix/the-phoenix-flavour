@@ -14,7 +14,6 @@ description: >
 - **Main Files:** Misc Tweaks - Better Horses
 - **Main Files:** Misc Tweaks - More Expensive Inns
 - **Main Files:** Misc Tweaks - More Expensive Player Homes
-- **Main Files:** Misc Tweaks - More Realistic Animal Loot
 - **Main Files:** Misc Tweaks - Night Eye Redux
 - **Main Files:** Misc Tweaks - No Starting Spells
 - **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
@@ -26,6 +25,25 @@ description: >
 #### FOMOD Instructions - Shrines Don't Cure Diseases
 
 - **Plugin:** Adamant Shrines Version
+
+##### [Faster Mining Plus](https://www.nexusmods.com/skyrimspecialedition/mods/2656?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** FMPSE 3-3 Script (v2.0)
+- **Main Files:** Stalhrim (Vanilla Speed) ESP
+
+##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Craftable Torches
+
+##### [Craftable Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/3385?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Craftable Lockpicks Option - 5
 
 ##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
 
@@ -62,6 +80,12 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 #### Download Instructions
 
 - **Main Files:** Ish's Respec Mod
+
+##### [Bounty Preview](https://www.nexusmods.com/skyrimspecialedition/mods/33877?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bounty Preview
 
 ##### [Viewable Faction Ranks](https://www.nexusmods.com/skyrimspecialedition/mods/17924?tab=files)
 

@@ -33,10 +33,6 @@ By default Veydosebrom's grass is made to look good at iMinGrassSize=20 while Ca
 
 However, in TPF-X I am now offering support for QW's Grass Patch which combines Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass with density tweaks for consistency. Take a look if you are unhappy with the new TPF default.
 
-**About the removal of Reliquary of Myth:**
-
-In TPF 4.6, I'm removing Reliquary of Myth - and I realise this change will be a controversial one. The heart of the matter is that ROM is more Enairim than Simonrim and I have long felt it doesn't fit in thematically. I apologise to those of you who are unhappy about this change, feel free to stay on TPF 4.5 in that case.
-
 **About the facegen changes:**
 
 We traced down a bug with Urag gro-Shub's facegen to the Creation Kit starting to stumbled over its own feet when generating all facegen at once (in this case, the bug could be fixed by skipping the six Snow Elves when generating facegen). Since facegen now has to be generated in small batches by everyone, I figured it would be easier to simply provide pre-made facegen after all so that is what I will be doing from now on. The facegen step in Finalisation was removed entirely.
@@ -70,43 +66,47 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 #### Mod Installation
 
+- **Essential Mods:** Updated INI lines for SSE Display Tweaks (changed in recent update).
+- **Essential Mods:** Added instructions to use SSE Display Tweaks to block load screens from certain plugins.
 - **Essential Mods:** Updated download instructions for More Informative Console (file name changed).
 - **Essential Mods:** Re-added Dear Diary - Better More Informative Console.
+- **Essential Mods:** Added WACCF Greatsword Weapon Speed Tweaks.
 - **Essential Mods:** Updated the INI tweak section for No Grass In Objects.
-- **Fixes:** Added instructions to also download the Scrambled Eggchantments main file.
+- **Fixes:** Added instructions to also download the Scrambled Eggchantments main file for Scrambled Bugs.
+- **Fixes:** Added instructions to also download the Soul Gem Too Small file for Scrambled Bugs.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Added additional instructions for Scrambled Eggchantments.
+- **Fixes:** Added hank's Gamepad and Controller Fixes.
 - **Interface:** Removed No More Laser-Printed Book.
 - **Interface:** Added Convenient Reading.
 - **Interface:** Re-added instructions to change the console font for Roboto Font Replacer.
 - **Graphics Baseline:** Added Quality Cubemaps.
-- **Graphics Baseline:** Moved aMidianBorn Book of Silence to Creatures.
+- **Graphics Baseline:** Moved aMidianBorn Book of Silence to the CREATURES step.
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
 - **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
 - **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
 - **Trees & Plants:** Updated FOMOD instructions for Veydosebrom Regions.
 - **Trees & Plants:** Removed INI tweak instructions for Veydosebrom Regions (moved to BethINI).
 - **Trees & Plants:** Removed Cathedral 3D Pine Grass.
+- **Trees & Plants:** Added Improved Gourds.
 - **Architecture:** Removed Markarth - A Reflective Experience (tweaks part of The Dwemer).
 - **Dungeons:** Removed Gecko's Dwarven Ruins Textures (prefer Noble Skyrim).
 - **Dungeons:** Moved Metallurgy - Ingots and Ores HD to Clutter.
 - **Dungeons:** Removed Ancient Dwemer Metal.
 - **Dungeons:** Removed Dwemer Pipework Reworked.
-- **Dungeons:** Removed Ancient DWemer Metal - My Patches for SMIM Dawnguard Dragonborn.
+- **Dungeons:** Removed Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn.
 - **Dungeons:** Removed Dwemer Ichor Barrel.
 - **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Removed Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
 - **Clutter:** Added instructions to remove some files from RUSTIC CLUTTER COLLECTION.
 - **Apparel & Weapons:** Added Modular Armory.
-- **Apparel & Weapons:** Removed Armor and Mesh Fixes (temporary until I get permission to patch Modular Armory).
 - **Apparel & Weapons:** Removed Cathedral Armory (superseded by Modular Armory).
 - **Apparel & Weapons:** Removed Project Clarity - Weapons - TPF Repack (superseded by Modular Armory).
 - **Apparel & Weapons:** Removed Warmth - Light Armors Replacer temporarily (need to patch for Modular Armory).
+- **Apparel & Weapons:** Added Modular Armory - Armor Mesh Fixes Patch.
 - **Apparel & Weapons:** Updated FOMOD instructions for LeanWolf's Better-Shaped Weapons.
-- **Apparel & Weapons:** Added CC's HD Dwemer Weapons and Armor.
 - **Apparel & Weapons:** Removed Ancient aMidianBorn Dwarven Armory.
 - **Apparel & Weapons:** Removed Ancient Dwemer Metal - My Patches - No Smiling Female Helmet.
-- **Apparel & Weapons:** Updated FOMOD instructions for Rudy HQ - Daedric Weapons and Armor (no longer using sheaths).
 - **Apparel & Weapons:** Removed aMidianBorn Stormcloak Officer Armour (part of Modular Armory).
 - **Apparel & Weapons:** Removed Actual Orichalcum Orcish Equipment.
 - **Apparel & Weapons:** Removed Outlandish Stalhrim.
@@ -115,20 +115,51 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Apparel & Weapons:** Removed HD Reflective Ebony Armor and Weapons.
 - **Apparel & Weapons:** Removed Rudy HQ - Daedric Weapons and Armor (don't currently have a patch for Modular Armory).
 - **Apparel & Weapons:** Removed Dragon Priest Weapons Improved (part of Modular Armory).
+- **Apparel & Weapons:** Added Modular Armory - Masks of the Dovah Sonaak Patch.
+- **Apparel & Weapons:** Added Unique Uniques Re-Ported.
 - **Unique Artifacts:** Merged with Apparel & Weapons page since most mods were consolidated into Modular Armory.
+- **Unique Artifacts:** Removed Unique Uniques.
+- **Unique Artifacts:** Removed Unique Uniques - Fixes.
 - **Unique Artifacts:** Removed HD Reflective Ebony Mail.
-- **Unique Artifacts:** Removed Remiros' Ebony Blade HD.
-- **Unique Artifacts:** Removed Remiros' Wabbajack HD.
-- **Unique Artifacts:** Removed Remiros' Hrothmund's Axe HD.
-- **Unique Artifacts:** Removed Aevrigheim - Miraak's Sword and Staff Replacer.
-- **Creatures:** Removed Ancient Automatons.
-- **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix.
+- **Unique Artifacts:** Removed Remiros' Dawnbreaker (part of Modular Armory).
+- **Unique Artifacts:** Removed Remiros' Ebony Blade HD (part of Modular Armory).
+- **Unique Artifacts:** Removed Remiros' Wabbajack HD (part of Modular Armory).
+- **Unique Artifacts:** Removed Remiros' Ancient Falmer Armor HD (part of Modular Armory).
+- **Unique Artifacts:** Removed Harkon's Sword - HD Retexture (part of Modular Armory).
+- **Unique Artifacts:** Removed Unique Zephyr.
+- **Unique Artifacts:** Removed Remiros' Bloodskal Blade (part of Modular Armory).
+- **Unique Artifacts:** Removed Remiros' Hrothmund's Axe HD (part of Modular Armory).
+- **Unique Artifacts:** Removed Aevrigheim - Miraak's Sword and Staff Replacer (part of Modular Armory).
+- **Creatures:** Removed Ancient Automatons (replaced by The Dwemer).
+- **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix (replaced by The Dwemer).
 - **Appearance:** Added Superior Lore-Friendly Hair.
-- **Gameplay Overhauls:** Removed Reliquary of Myth - Artifact Overhaul.
-- **New Content:** Updated aMidianBorn AVL FOMOD instructions (no longer selecting ROM patch).
+- **Gameplay Overhauls:** Updated download instructions for Skyrim Uncapper - Adamant Arena (now using the Phoenix cut).
+- **Gameplay Overhauls:** Added Open World Loot.
+- **Gameplay Overhauls:** Updated Reliquary of Myth FOMOD instructions (no longer selecting the Ebony Blade patch).
+- **Gameplay Overhauls:** Added Modular Armory - Reliquary of Myth Patch.
+- **Gameplay Overhauls:** Added Unique Item Tweaks.
+- **Gameplay Overhauls:** Added Simple Smithing Overhaul.
+- **Gameplay Overhauls:** Updated download instructions for Lightweight Smithing Tweaks.
+- **Gameplay Overhauls:** Added Enchanting Adjustments Updated.
+- **Improved Vanilla Quests:** Added Silence Is Golden.
+- **Combat & Encounters:** Removed Arena - An Encounter Zone Overhaul (replaced by Open World Loot).
+- **Combat & Encounters:** Added Briraka's Draugr Overhaul.
+- **Combat & Encounters:** Added Briraka's Draugr Overhaul - Cannibal Draugr Patch.
+- **Balancing:** This step is just too vague, moved everything to Gameplay Overhauls with some exceptions:
+- **Balancing:** Moved Faster Mining Plus to Miscellaneous.
+- **Balancing:** Moved Craftable Lockpicks to Miscellaneous.
+- **Balancing:** Moved Craftable Torches to Miscellaneous.
+- **Balancing:** Moved Reasonable Quest Rewards to Improved Vanilla Quests.
+- **Balancing:** Moved Bounty Preview to Miscellaneous.
+- **Balancing:** Removed Enchanting Adjustments and Price Bug Fix.
+- **Balancing:** Removed Less Cure Disease Potions.
+- **Balancing:** Removed Morrowloot Miscellania - Unleveled Uniques.
+- **New Content:** Added Open World Loot - WACCF and ACE Patch.
 - **New Content:** Added Ancient Nord Stalhrim.
+- **New Content:** Added Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch.
+- **Miscellaneous:** No longer downloading Misc Tweaks - More Realistic Animal Loot.
 - **Assorted Plugins:** Added instructions for Enhanced Reanimation to manually create the INI file.
-- **Assorted Plugins:** Updated instructions to manually create the INI file instead.
+- **Assorted Plugins:** Added instructions for Essential Favorites to manually create the INI file.
 - **Sound FX:** Renamed this step to "Sound FX" from "Sounds & Music" as the music mods were moved to TPF-X.
 - **Sound FX:** Added Thunder Sounds - WiZkiD Mix.
 - **Sound FX:** Added Realistic Dog Sounds.
@@ -148,10 +179,18 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Wrapping Up:** Added Veydosebrom to the list of plugins to ESL-ify.
 - **Wrapping Up:** Removed the music mod plugins from the list of plugins to ESL-ify.
 - **Grass Cache:** This page was removed for the forseeable future.
+- **DynDOLOD:** Removed instructions to manually delete the loading screens (done automatically by SSE Display Tweaks).
 
 #### Conflict Resolution Patch
 
 - Fixed a few typos in Civil War Deserters
+- Removed Less Cure Disease Potions as a master
+- Adjustments for Reliquary of Myth and Unique Item Tweaks
+- Removed chance for ROM's new ingredients to be harvestable from Spriggans killed with Nettlebane
+- ROM's Dremora Archers are no longer wearing weird skimpy Daedric armor
+- Resolved conflicts with WACCF Greatsword Weapon Speed Tweaks
+- Updated various records for Enchanting Adjustments Updated
+- The unique Poacher's Axe is no longer disenchantable
 
 #### Wabbajack
 
@@ -170,6 +209,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated Sovngarde HD to 3.1
 - Updated Deiform Alduin to 1.1
 - Updated Forceful Tongues - Shouts Overhaul to 2.1
+- Updated Dragon Aspect Overhaul to 2.0
 - Updated Classic Paralysis to 2.1
 - Updated Enhanced Reanimation to 1.3
 - Updated Essential Favorites to 2.1

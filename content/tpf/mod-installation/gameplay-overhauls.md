@@ -35,7 +35,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Skyrim Uncapper - Adamant Arena
+* **Optional Files:** CHADD Uncapper Phoenix Cut
 
 ##### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files)
 
@@ -99,9 +99,14 @@ description: >
 #### FOMOD Instructions
 
 - **Version:** Shout
-- **Unique Dragon Aspect:**
-  - ~~Dragon Aspect Overhaul Vanilla - Unique Dragon Aspect Patch~~
-  - Dragon Aspect Overhaul Shout - Unique Dragon Aspect Patch
+- **Unique Dragon Aspect Patch:** Shout Version Patch
+
+##### [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** OWL Main File
+- **Update Files:** OWL Randomized Special Loot
 
 ##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
 
@@ -115,6 +120,122 @@ description: >
 
 * **Main Files:** Mysticism - Trade and Barter Patch
 * **Main Files:** Adamant - Trade and Barter Patch
+
+##### [Bounties Are Worthwhile - Leveled Bounty Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/33594?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bounties are Worthwhile
+
+##### [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Reliquary of Myth - Artifact Overhaul
+
+#### FOMOD Instructions
+
+- **Main Installation:**
+  - Reliquary of Myth - Artifact Overhaul
+  - ROM - Dragon Priest Masks Pack
+- **Main Patches:**
+  - *choose none*
+- **ICH Patches:**
+  - None
+- **SPID Patches:**
+  - ROM - SPID Patch
+  - ROM - SPID DPM Patch
+- **Optional Patches:**
+  - ~~ROM - WMA Patch~~
+
+##### [Modular Armory - Reliquary of Myth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Modular Armory - Reliquary of Myth Patch
+
+##### [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unique Items Tweaks
+- **Optional Files:** Unique Items Tweaks - RoM Tweaks
+
+##### [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Smithing Overhaul
+
+#### FOMOD Instructions
+
+- **Perk Overhauls:**
+  - Adamant
+- **Patches:**
+  - Armor and Clothing Expansion
+  - Reliquary of Myth
+  - ~~MorrowLoot Ultimate~~
+  - ~~MorrowLoot Ultimate RoM~~
+
+##### [Lightweight Smithing Tweaks for SSO](https://www.nexusmods.com/skyrimspecialedition/mods/43441?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Lightweight Smithing Tweaks for SSO
+
+##### [Enchanting Adjustments Updated](https://www.nexusmods.com/skyrimspecialedition/mods/49471?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Enchanting Adjustments
+
+#### FOMOD Instructions
+
+- **Add-ons:**
+  - ~~Unique Weapons~~
+  - ~~Slow Bug Fix~~
+- **Other:**
+  - ~~Audio Overhaul for Skyrim~~ >> *uncheck this*
+  - ~~Complete Alchemy and Cooking Overhaul~~
+  - ~~Vokrii - Minimalistic Perks of Skyrim~~
+  - Weapons Armor Clothing and Clutter Fixes
+- **Summermyst + Visual Animated Enchantments:**
+  - None
+- **Add-on patches**
+  - ~~Weapons Armor Clothing and Clutter Fixes~~
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `EnchantingAdjustments - WACCF.modgroups`
+  - `EnchantingAdjustments.modgroups`
+
+##### [Alchemy Potions and Food Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/5877?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Alchemy Potions and Food Adjustments V2.5 FOMOD Installer
+
+#### FOMOD Instructions
+
+- **Main File:**
+  - Complete Version
+- **Optional Addons:**
+  - ~~Distinctive Rare Ingredients~~
+- **Patches:**
+  - Weapons Armor Clothing and Clutter Fixes Conflicts Patch
+  - ~~Cutting Room Floor Consistency Patch~~
+  - ~~Dawn of Skyrim Consistency Patch~~
+  - ~~Alchemist Compendium Consistency Patch~~
+  - ~~Beyond Skyrim Bruma Consistency Patch~~
+  - ~~Rare Curios Consistency Patch~~
+  - ~~Awesome Potions Consistency Patch~~
+
+##### [Alchemy Adjustments - TPF Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Alchemy Adjustments - TPF Tweaks
 
 ##### [Carriage and Ferry Travel Overhaul (CFTO)](https://www.nexusmods.com/skyrimspecialedition/mods/8379?tab=files)
 

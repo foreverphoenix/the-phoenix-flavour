@@ -18,6 +18,12 @@ description: >
 
 - **Main Files:** Tweaks for WACCF and ACE
 
+##### [Open World Loot - WACCF and ACE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Patch - WACCF and Armor and Clothing Extension
+
 ##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
 
 #### Download Instructions
@@ -70,6 +76,12 @@ description: >
 - **Draugr Overhaul Patches:**
   - ~~Briraka's Draugr Overhaul~~
   - ~~Draugr Upgrades and Improvements~~
+
+##### [Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Patch - Ancient Nord Stalhrim and Briraka's Draugr Overhaul
 
 ##### [Armor of Yngol](https://www.nexusmods.com/skyrimspecialedition/mods/5006?tab=files)
 

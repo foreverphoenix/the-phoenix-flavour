@@ -54,8 +54,10 @@ description: >
 
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
-  - **79** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
-  - **206** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
+  - **82** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
+  - **207** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
+  - **600** `LoadScreenFilter=true` to enable the load screen filter
+  - **602** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
 - Hit CTRL+S to save and close the window.
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
@@ -169,6 +171,12 @@ The plugin is now ESM-ified and will load with all other ESMs. This allows us to
 #### Download Instructions
 
 - **Main Files:** Hooded Skeleton Corpse Fix for WACCF
+
+##### [WACCF Greatsword Weapon Speed Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WACCF Greatsword Weapon Speed Tweaks
 
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 

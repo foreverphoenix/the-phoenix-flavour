@@ -18,12 +18,6 @@ description: >
 
 * **Main Files:** Encounter Zones Unlocked SE
 
-##### [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487?tab=files)
-
-#### Download Instructions
-
-* **Main File:** Arena - An Encounter Zone Overhaul
-
 ##### [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files)
 
 #### Download Instructions
@@ -100,6 +94,13 @@ description: >
 
 - **Main Files:** Steam Driven Automotons
 
+##### [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Briraka's Draugr Overhaul
+- **Optional Files:** BriDO - Weapons Armor Clothing and Clutter Fixes Patch
+
 ##### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files)
 
 #### Download Instructions
@@ -116,6 +117,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Cannibal Draugr on Solstheim
+
+##### [Briraka's Draugr Overhaul - Cannibal Draugr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** BriDO - Cannibal Draugr Patch
 
 ##### [The Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files)
 

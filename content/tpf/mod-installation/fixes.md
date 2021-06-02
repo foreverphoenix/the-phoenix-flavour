@@ -12,6 +12,7 @@ description: >
 
 - **Main Files:** Scrambled Bugs
 - **Main Files:** Scrambled Eggchantments
+- **Optional Files:** Underfilled Soul Gems - Soul Gem Too Small
 
 #### Additional Instructions - Scrambled Bugs
 
@@ -219,3 +220,9 @@ description: >
 - The full file name should be `KeyboardShortcutsFix.log`.
 
 > The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
+
+##### [hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** hank's gamepad and controller fixes

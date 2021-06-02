@@ -12,6 +12,7 @@ description: >
 
 - **Main Files:** Modular Armory
 - **Optional Files:** Modular Armory - Unique Nettlebane Mesh
+- **Optional Files:** Modular Armory - Unique Zephyr
 
 #### FOMOD Instructions
 
@@ -63,6 +64,7 @@ description: >
 - **Daedric:**
   - Mehrunes' Razor
   - Blade of Sacrifice
+  - Dawnbreaker
   - ~~Sanguine Rose~~
   - ~~Skull of Corruption~~
   - Mace of Molag Bal
@@ -78,7 +80,12 @@ description: >
   - Targe of the Blooded
   - Blade of Woe
   - Staff of Magnus
+- **Dawnguard:**
+  - Harkon's Sword
+  - Auriel's Set
+  - Ancient Falmer Armor
 - **Dragonborn:**
+  - Bloodskal Blade
   - Hrothmund's Axe
   - Miraak's Sword
   - Miraak's Staff
@@ -96,6 +103,30 @@ description: >
 #### Download Instructions
 
 * **Main Files:** RAW SSE 2K
+
+##### [Armor Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39704?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Armor Mesh Fixes
+
+##### [Modular Armory - Armor Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Modular Armory - Armor Mesh Fixes Patch
+
+#### FOMOD Instructions
+
+- **Select Patches:**
+  - Ancient Draugr Armor
+  - Iron Armor
+  - Steel Armor
+  - Wolf Armor
+  - Blades Armor
+  - Orcish Armor
+  - Ancient Falmer Armor
+  - Daedric Armor
 
 ##### [LeanWolf’s Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017?tab=files)
 
@@ -159,7 +190,7 @@ description: >
 - **Nightingale:**
   - None
 - **Dawnbreaker:**
-  - Dawnbreaker Sheath Elf
+  - No Dawnbreaker
 - **Dragonbone:**
   - Dragonbone Weapons
   - ~~Dragonbone Greatsword Sheath~~
@@ -190,8 +221,6 @@ description: >
   - ~~Scimitar Bling~~
   - ~~Keening with Refraction~~
   - ~~Runed Nord Hero Weapons~~
-- **Dawnbreaker ENB Option:**
-  - Dawnbreaker for ENB
 - **Dragonbone Options:**
   - DragonBoring Weapons
 - **Left-hand Meshes:**
@@ -268,15 +297,16 @@ description: >
 - **Addons:**
   - ~~Animated Armory~~
   - ~~Believable Weapons~~
-  - ~~Briraka's Draugr Overhaul~~
+  - Briraka's Draugr Overhaul
   - ~~Fulcimentum~~
   - ~~Heavy Armory~~
   - ~~Konahrik's Accountrements~~
   - ~~Legacy of the Dragonborn~~
+  - ~~Noble Armors~~
   - ~~Royal Armory~~
   - ~~Stalhrim Extra Crafting~~
 - **Ancient Nord Stalhrim**
-  - --pending--
+  - With Leanwolf's Better Shaped Weapons Patch
 - **Katana Crafting:**
   - None
 - **Leanwolf's Better Shaped Weapons:**
@@ -288,17 +318,26 @@ description: >
 
 - Run the **Stalhrim Refrozen - Core Package 4K** through Cathedral Assets Optimizer (**Downsize Textures**).
 
-##### [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334?tab=files)
+##### [Unique Uniques Re-Ported](https://www.nexusmods.com/skyrimspecialedition/mods/47725?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Unique Uniques SE
+- **Main Files:** Unique Uniques SE Re-Ported
 
-##### [Unique Uniques - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42145?tab=files)
+#### FOMOD Instructions
 
-#### Download Instructions
-
-* **Main Files:** Unique Uniques SE - Fixes
+- **Options:**
+  - Unique Uniques WACCF
+- **Patches:** 
+  - Reliquary of Myth WACCF
+- **Alternative Models:**
+  - ~~Alternate Dragonbone - Golden~~
+  - Alternate Oathblade - Blades
+  - ~~Angis Bow - Scoped~~
+- **Smithing Overhauls:**
+  - SSO (Requires WACCF!)
+- **Patches:**
+  - Reliquary of Myth WACCF
 
 ##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
 
@@ -330,53 +369,17 @@ description: >
 * **aMidianBorn Content Addon:** Nahkriin - Default Ebony >> `page is greyed out but this option is selected by default`
 * **Frankly HD Patch:** Konahrik - Frankly HD Gold
 
-##### [Remiros’ Dawnbreaker HD](https://www.nexusmods.com/skyrimspecialedition/mods/22334?tab=files)
+##### [Modular Armory - Masks of the Dovah Sonaak Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Remiros’ Dawnbreaker HD - Vanilla Colors
-
-#### Additional Instructions
-
-* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+- **Optional Files:** Modular Armory - Masks of the Dovah Sonaak Patch
 
 ##### [Spellbreaker Oblivionized Retexture in HD](https://www.nexusmods.com/skyrimspecialedition/mods/32430?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Spell Breaker HD
-
-##### [Remiros’ Ancient Falmer Armor HD](https://www.nexusmods.com/skyrimspecialedition/mods/22458?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Remiros’ Ancient Falmer Armor
-
-#### Additional Instructions
-
-* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
-
-##### [Harkon’s Sword - HD Retexture](https://www.nexusmods.com/skyrim/mods/52004?tab=files)
-
-#### Download Instructions
-
-* **Miscellaneous Files:** Harkons Sword - Scabbard 2k
-
-##### [Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/16956?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Unique Zephyr 1.0
-
-##### [Remiros' Bloodskal Blade HD](https://www.nexusmods.com/skyrimspecialedition/mods/18626?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Remiros' Bloodskal Blade HD
-
-#### Porting Instructions
-
-* Run the mod through Cathedral Assets Optimizer (**SSE - Downsize Textures**).
 
 ##### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files)
 
