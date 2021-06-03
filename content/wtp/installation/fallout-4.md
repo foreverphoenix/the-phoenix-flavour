@@ -16,19 +16,14 @@ The reinstallation also serves the purpose of relocating the game files to a bet
 
 Note that this does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam` which is completely fine.
 
-### Preferred hard drive
-
-Fallout 4 and Mod Organizer 2 should be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
+> Fallout 4 and Mod Organizer 2 should be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
 
 ## Uninstallation
 
-> Skip this if you do not have Fallout 4 installed.
+If you never modded Fallout 4 and never installed other Wabbajack lists, you may skip this step. However, I still recommend you verify the game files through Steam in that case.
 
-- Open Steam and go into your games library.
-- Find **Fallout 4** in the list, right-click it and select **Manage** >> **Uninstall**.
-- Click **Uninstall** to confirm.
-- Navigate to your Fallout 4 directory. This is most likely:
-  - `C:\Program File x86\Steam\steamapps\common\Fallout 4`
+- Uninstall **Fallout 4** through Steam
+- Navigate to your Fallout 4 directory: `C:\Program File x86\Steam\steamapps\common\Fallout 4`.
 - Delete any left-over files in this folder.
 
 ### INI Folder
@@ -48,11 +43,11 @@ In order to prevent some confusion, I will refer to the Library in Steam as the 
 
 A **Steam Library** on the other hand is a folder on your hard drive into which Steam games are installed. By default this would be `C:\Program Files x86\Steam\steamapps\common\`. Since we do not want to have files inside a UAC protected folder like Program Files x86, we should not install Fallout 4 in the default directory. A new **Steam Library** is required.
 
-> It is important to note that Steam only allows one Steam Library per hard drive, although there is a workaround. If for instance you already have a Steam Library on your C drive, but you want to have your modding files on C as well, you need to create a second Steam Library manually following the instructions [here](https://steamcommunity.com/discussions/forum/1/1355112940663240029).
+> Unfortunately Steam allows only one Steam Library per hard drive. You can find a workaround [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 
 ### Creating a new library
 
-If you already have a separate Steam Library outside the UAC protected folders on the drive you want to install Fallout 4 and Mod Organizer 2 on, skip ahead to the next step (Reinstalling the game).
+If you already have a separate Steam Library outside the UAC protected folders on the drive you want to install Fallout 4 and Mod Organizer 2 on, skip ahead to the next step.
 
 Otherwise follow the instructions below to create a new Steam Library:
 
@@ -76,7 +71,7 @@ Non-English installations of Fallout 4 are not supported.
 
 - Open Steam and go into your **Game Library**.
 - Find **Fallout 4** in the list and click **Install**.
-- As location, select the **Steam Library** you just created and click **Next**.
+- As location, select a **Steam Library** in a non-UAC protected folder and click **Next**.
 
 Wait for Fallout 4 to be downloaded before you proceed.
 
@@ -127,7 +122,7 @@ Bethesda published a free 55GB texture pack with upscaled 4K textures that are n
 
 ## Creation Club Content
 
-If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they may still be present in your Data folder. Since WTP does not currently support Creation Club content you need to remove the files from your **Data** folder for the time being.
+If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they may still be present in your Data folder. Some select "creations" are supported in WTP as of version 1.6 but I recommend you install them as separate mods later on.
 
 - Navigate to `steamapps\common\Fallout4\Data` and cut (CTRL + X) all files starting with **cc**.
 - Paste (CTRL + V) all files to `Fallout 4 Modding\Backups\Creation Club`.
