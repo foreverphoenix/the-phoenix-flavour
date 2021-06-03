@@ -8,13 +8,13 @@ description: >
 
 ## Requirements
 
-While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and **you are expected to follow it to the letter**.
+While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
 
-You need:
+**You need:**
 
-- A copy of Fallout 4 with all official DLC (Game of the Year Edition) on Steam.
+- A copy of [Fallout 4](https://store.steampowered.com/sub/199943/) with all official DLC (Game of the Year Edition) on Steam.
 - A [Nexus Mods](https://www.nexusmods.com/fallout4) account, preferably with a Premium subscription.
-- Around 38GB disc space for all mods and archives.
+- Around 25GB for WTP, 13.7GB for the downloaded mods, and 34.5GB for the base game.
 
 Grab a cup of coffee and let's get started.
 
@@ -35,8 +35,7 @@ As usual, I recommend creating a dedicated folder that will hold all files *exce
 
 Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable.
 
-- Open the [official VC Redists page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and download the following file:
-  - **vc_redist.x64.exe**
+- Open the [official VC Redists page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and download the **vc_redist.x64.exe**.
 - Run downloaded executable. It will guide you through the installation process.
 - You may have to restart your computer in order to finalise the installation.
 

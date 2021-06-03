@@ -8,44 +8,92 @@ description: >
 
 ## Release 1.6
 
-> TBD
+> 03/06/2021
+
+**Starting a new game is required.**
+
+For this update I checked out the new **FallUI** suite of interface replacers and took the opportunity to review WTP's existing interface mods. I came to the decision to once again remove [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) and revert to [Full Dialogue Interface](https://www.nexusmods.com/fallout4/mods/1235) which I like far better. After careful consideration, I decided *against* including [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813) because even with my DEF_UI HUD preset, it would make item pickup prompts look [weird](https://i.imgur.com/Bd9w9VZ.jpg) with a huge gap between the item name and the button prompts. I also removed FallUI - Map because I didn't like it. However, FallUI - HUD and FallUI - Map are still going to be installed in case someone wants them (but are disabled by default).
+
+I also removed **Widescreen** support. I can't test it, it's additional headache, I'd have to write extra instructions for changing the aspect ratio in the various FallUI MCMs. Sorry to everyone on ultrawide monitors, it's just not worth the effort to me.
+
+When updating, please also move the Game Folder Files into your root folder and overwrite (ENB binaries updated).
 
 #### Mod Changes
 
 - Added zEdit (I needed it for one merge)
-- Added F4 Creation Kit Fixes
+- Added deorder's MO2 Plugins (only useful for me)
+- Added F4 Creation Kit Fixes (only useful for me)
+- Added DEF_HUD - My Preset (smaller vanilla, crosshair to dot)
+- Added Tactical Reload
 - Added Jamaica Plain Navmesh Fix
+- Added Weston Water LOD Fix
+- Added Assaultron Left Hand Hydraulic Frame Arm Mesh Bug Fix
+- Added Perception Bug Fix
+- Added Carlisle Typewriter Mesh Fix
+- Added Car Physics Death Bug Fix
+- Added 1 Rad Bugfix
+- Added Far Harbor Marine Armor Boots Fix
+- Added Cryo Fix
+- Added Cryolator Cryo-Cell Fix
+- Added Pool Rack Fix (finally the game is playable)
+- Added X-01 Power Armor Neck and Minor Light FX Fix
+- Added FallUI - HUD (disabled by default)
+- Added Full Dialogue Interface
+- Added String Patches for Full Dialogue Interface
+- Added UNLIMITED POWER - Tesla Rifle Projectiles Create Visual Effect on Impact
+- Added Fix for Forsythia
+- Added Far Harbor Pine Branches
 - Added The Natural Bundle - Masonry Set
 - Added The Natural Bundle - Submarine Set
+- Added Defined Hightech Floor Tiles
+- Added Fix for Tiles02
+- Added ADs 2X Rez
+- Added Wall Worldmap
+- Added Globes (retexture)
+- Added Library and Subway Tokens HD Remastered
 - Added Deathclaws HD Retexture
 - Added The Flamer Project
 - Added Leafblower Junk Jet
+- Added Synthkind Redefined
 - Added Auto Lockpick
 - Added Auto Hack
 - Added Better Explosives Redux
 - Added Fortune Finder 4 Fix
+- Added Vault 88 Template - Optimised
 - Added Workshop Power Pack
+- Added Vault 88 Essentials
+- Added Vault 88 Essentials - WTP Tweaks
 - Added Whose Quest Is It Anyway
 - Added River Fix
 - Updated Mod Organizer 2 to 2.4.2
+- Updated ENBSeries to 0.455
 - Updated Buffout to 1.23.0
-- Updated Workshop Framework to 2.0.13
+- Updated Bullet Counted Reload System to 2.0
+- Updated Workshop Framework to 2.0.14a
 - Updated Wetness Shader Fix to 3.41
 - Updated Companion Stealth Distance Fix to 7.0
-- Updated FallUI Confirm Boxes to 2.0.3
+- Updated FallUI Confirm Boxes to 2.1
 - Updated FallUI Workbench to 1.2.4
 - Updated Fallout 4 Ultimate Window Overhaul to 3.1
 - Updated Visible Idle Markers to 1.6
+- Updated LOST Audio Tweaks to 1.7a
+- Updated the LOST Audio Tweaks - True Storms and RAO Patch to 1.1
+- Removed Extended Dialogue Interface
 - Removed Scrolling Doesn't Change PoV
+- Removed Valentine Jaw Sync (part of Synthkind Redefined)
+- Removed Weapon Rack Fixes (largely covered by UFO4P)
 - Removed Detailed Deathclaws
 - Removed Fallout 3 NV Feral Ghouls Replacer
 - Removed Simple Crafting Station - K-9 Harness Patch
+- Removed Sprint Engine Limitations
 - Reinstalled Fixed Flickering Puddles (was missing one file, may fix lingering issues)
+- FallUI - Map is now disabled by default
 - Rebuilt the Weapons BA2s
 - Rebuilt the Creatures BA2s
-- Re-added one DEF_INV file (fixes materials showing sorting tags in Workshop menu)
+- Deleted the broken IMAD record in True Nights to be on the safe side (I tweaked it before but can't remember how)
 - Regenerated precombines for the area around the new Sanctuary bridge (thanks for talking me through that, Lively!)
 - Removed Fortune Finder tweaks from Loot Logic Scrounger Fortune Finder Rebalance
+- Reverted UNLIMITED POWER changes to Tesla Rifle damage, capacity, and reload speed
 - Added new 'Backpack' tag to DEV_INV_TAGS.xml
 - Merged the three music plugins together and removed the separate plugins
 - Replaced the now redundant music patch with the merged plugin
@@ -59,12 +107,16 @@ Until now fadingsignal's K-9 Harness for Dogmeat could be crafted at the craftin
 
 **Creation Club**
 
-WTP 1.6 adds *optional* support for some "creations". You can find details and instructions [here](/wtp/wtp-resources/creation-club)
+WTP 1.6 adds *optional* support for some "creations" (only the Modular Military Backpack so far). You can find details and instructions [here](/wtp/wtp-resources/creation-club).
 
 #### Website Changes
 
-- **Fallout 4:** Added a link for LostDragonist's Steam Library Setup Tool.
+- Updated a bunch of pages. Added stuff on the **Finalisation** page. Don't remember everything.
+- Added a link for LostDragonist's Steam Library Setup Tool on the **Fallout 4** page.
+- Removed Widescreen support stuff from the **Finalisation** page (sorry).
+- Added new **Creation Club** page under Resources for Modular Military Backpack support.
 - Removed the Custom Files page. All relevant documentation was moved into Mod Organizer 2 (check the Notes for each mod).
+- Linked to True Nights for instructions on how to change night brightness on **Troubleshooting**.
 
 ## Release 1.5.2
 

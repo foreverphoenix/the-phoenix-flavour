@@ -27,7 +27,7 @@ You can change or disable LUTs at any time.
 
 ## Controller Fix
 
-For FallUI, the interface overhaul, I increased the Pipboy resolution in the `fallout4prefs.ini` file. Unfortunately this will cause the map cursor to lock in the upper left corner when playing with a controller.
+The resolution of the Pip-Boy interface was increased in the `fallout4prefs.ini` file. Unfortunately this will cause the map cursor to lock in the upper left corner when playing with a controller.
 
 If you play with a controller, follow these instructions to revert the INI tweak:
 
@@ -77,18 +77,5 @@ If you are unhappy with the default cap at 60FPS, you can change it. To do so, f
 - Press **CTRL + S** to save and close the window.
 
 ![Change FPS Cap](/Pictures/wtp/installation/change-fps-cap.png)
-
-## Resolution
-
-Wabbajack will automatically adjust the INI files to your current default monitor resolution.
-
-### Ultrawide Monitor
-
-For compatibility with 21:9 ultrawide monitors you need to follow some extra steps to patch the interface. The most comprehensive widescreen fix mod for Fallout 4, [TruBy9 Ultrawide](https://www.nexusmods.com/fallout4/mods/2463), is already pre-installed in WTP. All you need to do is activate it and some additional fixes.
-
-- In Mod Organizer 2, expand to the **ULTRAWIDE SUPPORT (OPTIONAL)** separator.
-- Enable all mods below that separator.
-
----
 
 #### Continue with the [New Game](/wtp/installation/new-game/) page.

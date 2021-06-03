@@ -15,11 +15,11 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 
 > **Unlike its Skyrim SE counterpart, my Fallout 4 setup is Wabbajack-exclusive.** There is no manual installation guide and there will likely never be one as I do not have the time to maintain two modding guides.
 
-\* *Only around 280 mods are shown in Mod Organizer 2 which is due to the fact that several dozen mods packed into custom BA2s are missing from the count as they are not installed and activated separately.*
+\* *Less than that number may appear in Mod Organizer 2 which is due to the fact that several dozen mods packed into custom BA2s are missing from the count as they are not installed separately.*
 
 ### Useful Links
 
-- Join us on the official [Phoenix Flavour Discord](https://discord.com/invite/BpwXX5f) for support, feedback, and modding discussions.
+- Join us on the official [Discord server](https://discord.com/invite/BpwXX5f) for support, feedback, and modding discussions.
 - You can find a list of all included mods in the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise).
 - Check my [Trello Board](https://trello.com/b/7W1seSqA/the-phoenix-flavour-fallout-4) to see all mods considered for inclusion (see "State of the List").
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
@@ -31,6 +31,8 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 With the 1.5 update published in March 2021, I have brought WTP up-to-date with the latest developments in the modding scene. For the forseeable future, I do not intend to work on WTP beyond the occasional maintenance update (which will hopefully not take as long as 1.4.1 > 1.5 took). At present, I am a great deal more involved with my Skyrim SE guide The Phoenix Flavour and haven't felt the "Fallout itch" in altogether too much time. If or rather when it returns (as it always does), there may be a 2.0 update but that's all speculation.
 
 At present, WTP is in a good state where it delivers solid performance, stability, and reasonable improvements of the vanilla game.
+
+**June 2021:** Fine, I'm not quite done yet. Updated WTP to 1.6 and returned to indefinite maintenance mod.
 
 ### About the name
 
@@ -47,11 +49,12 @@ Using Wabbajack is much easier than following a manual installation guide **but 
 ## Features
 
 -  Moderately improved visuals while retaining a high frame rate.
+-  Performance exceeds vanilla in some areas, especially when the ENB is disabled.
 -  The weather / ENB combination is True Storms, True Nights, and Subtle ENB.
 -  Adventure with Dogmeat and one other companion as originally intended by Bethesda.
 -  Many custom file edits and patches for a coherent experience.
 -  VIS-based sorting overhaul with a custom keywords resource.
--  Modern interface with the new FallUI mods.
+-  Modern interface - you choose between DEF_UI and FallUI.
 -  Simple implementation of crafting stations with support for included mods.
 -  Faster workshop system with better object placement and new stuff to build.
 -  Power armors are more rare. Paint and material mods were split.
@@ -61,13 +64,14 @@ Using Wabbajack is much easier than following a manual installation guide **but 
 
 If you are looking for any of the following features, **Welcome to Paradise** may not be the mod list for you:
 
+- Widescreen support.
 - Silent protagonist.
 - Hardcore combat.
 - Survival mode.
 - Any type of NSFW content.
 - New quest mods.
 - Mods that are vastly different from the vanilla experience.
-- Creation Club support.
+- Creation Club support with one exception)
 
 At present, WTP does not include any additional armor or weapon mods with the exception of fadingsignal's K-9 Harness for Dogmeat (can't play without it anymore). Some high quality ones may be included in the future, however.
 
