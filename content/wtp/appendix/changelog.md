@@ -6,6 +6,20 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6.1
+
+> 04/06/2021
+
+As it turns out, I got sloppy last night. I'd already recompiled once when [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178) updated and part of the update was support for [Tactical Reload](https://www.nexusmods.com/fallout4/mods/49444). I dropped in both, did a cursory check in xEdit, fixed some conflicts, and called it a day. Evidently I shouldn't have done that as something about the combination has caused frequent crashes in WTP 1.6 that was reported twice so far and I was able to reproduce it on my end. Dropping Tactical Reload fixed it so at least there was an easy solution. I haven't investigated further why exactly the crashes happen because I frankly don't care about the mod that much and don't have time today either.
+
+This update is **save safe**. It's a crash fix. You'll be asked about missing plugins when loading your save, click Yes.
+
+#### Mod Changes
+
+- Removed Tactical Reload
+- Replaced the TR version of BCR Lever Action Rifle with the regular one
+- Removed Tactical Reload as a master from the CRP
+
 ## Release 1.6
 
 > 03/06/2021
