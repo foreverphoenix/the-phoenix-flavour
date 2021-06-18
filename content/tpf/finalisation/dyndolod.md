@@ -8,13 +8,11 @@ description: >
 
 ## DynDOLOD and Performance
 
-Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the **Low** or **Medium** presets and regular tree LOD, you will hardly notice a performance impact at all, even on weaker machines, while distant terrain is still drastically improved.
+Contrary to popular belief, DynDOLOD is not inherently performance-intense. In fact, generating with the **Low** profile may even improve performance over vanilla in some places.
 
-However, more taxing is what is typically referred to as "ultra tree LOD" or "3D tree LOD". This is a DynDOLOD feature which disables regular tree LOD, the two dimensional, flat "cut-outs". Instead, object LOD is generated for distant trees, utilising 3D meshes which improves the visual quality of tree LOD to the point where you can barely tell fully-rendered trees and distant trees apart anymore.
+However, for TPF we are going to use the **High** preset with 3D tree LOD which is quite taxing, especially for people with 4GB of VRAM or less. Especially 3D tree LOD is a substantial improvement visually as it replaces the vanilla 2D "cut-outs" with proper models for the leaves for a seamless transition.
 
-3D tree LOD is not recommended for people with less than 4GB of VRAM. For everyone else, there is still a potential performance impact but it is usually negligible on modern machines (and very much worth the visual improvement).
-
-**You will have the option to generate *either* regular or 3D tree LOD.** Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.
+**If you have 4GB of VRAM or less:** Please skip this entire page and use the DynDOLOD instructions from the [Performance Guide] instead.
 
 ## DynDOLOD Setup
 

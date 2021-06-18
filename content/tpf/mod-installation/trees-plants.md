@@ -295,6 +295,12 @@ fWindGrassMultiplier=1.4
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
 
+##### [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179?tab=files)
+
+#### Download Instructions 
+
+- **Main Files:** Rallys Blackreach Mushroom - 2K
+
 ##### [High Poly Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40418?tab=files)
 
 #### Download Instructions
