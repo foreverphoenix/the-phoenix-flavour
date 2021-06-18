@@ -12,6 +12,13 @@ description: >
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
 - Install it as usual, place it last below the **FINAL PATCHES** separator, and activate it.
 
+## Facegen
+
+Facegen for all vanilla and mod-added NPCs was regenerated with TPF's appearance section as base. That means all improvements to assets such as warpaints will now also apply to NPC's faces, plus their facetint textures is twice the vanilla resolution.
+
+- Download [The Phoenix Flavour - Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide's Nexus page.
+- Install the mod as usual, place it below the Conflict Resolution Patch in the mod order, and activate it.
+
 ## Load Order TXT
 
 The pre-made TXT will arrange your plugins exactly like the way they are sorted in my personal setup. This is much faster than adjusting the load order manually or setting up LOOT with custom rules.
@@ -89,6 +96,7 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * DeadlySpellImpacts.esp
 * Enhanced Vanilla Trees SSE.esp
 * Veydosebrom Regions.esp **compact FormIDs**
+* Cathedral - 3D Pine Grass.esp **compact FormIDs**
 * RUSTIC SOULGEMS - Sorted.esp
 * homeymealyum.esp
 * GQJ_DG_vampireamuletfix.esp

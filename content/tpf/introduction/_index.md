@@ -9,11 +9,11 @@ description: >
 
 ## Overview
 
-The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 500 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
+The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 600 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
 
 *The concept of "Vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay loop.*
 
-Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything *carefully*. The guide was written with the assumption that most readers have little previous knowledge about modding and supplies the basics before going more in-depth.
+Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations, and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything *carefully*. The guide was written with the assumption that most readers have little to no previous knowledge about modding and supplies the basics before going more in-depth.
 
 Please note that installing the TPF setup by following the manual guide here on the website is time-consuming. Completion will likely take several days, depending on your internet connection and modding experience. If you are not interested in learning how to mod, it is highly recommended to install TPF with Wabbajack which requires only a fraction of the time and effort.
 
@@ -31,17 +31,19 @@ Please note that installing the TPF setup by following the manual guide here on 
 
 ### Modularity & Customisation
 
-Up until the release of version 3.0, TPF was fully modular and split up into four modules (Core, Visuals, Gameplay, Content), from 3.0 onwards, all parts were merged together into one. The Customisation section with alternative and additional mods was removed in version 3.4 and finally with 3.6, all mods were made mandatory (where some were previously optional). This has all but eliminated the original pitch (full customisability) in favour of a more traditional approach featured in guides such as Lexy's LOTD.
+Up until the release of version 3.0, TPF was fully modular and split up into four modules (Core, Visuals, Gameplay, Content). From release 3.0 onwards, all parts were merged together into one. The Customisation section with alternative and additional mods was removed in version 3.4 and finally with 3.6, all mods were made mandatory (where some were previously optional). This has all but eliminated the original pitch (full customisability) in favour of a more traditional approach featured in guides such as Lexy's LOTD.
 
 The simple truth of the matter is that TPF is written and patched by two people with a limited amount of free time. Customisability has become completely unsustainable as the guide continued to grow and had to be dropped as a feature so that we can focus on the heart of the setup and its improvement.
 
 Those experienced with modding and SSEEdit will find it very easy to customise the guide to their liking (though you should be aware that you are no longer eligible for support once you deviate from the instructions). Otherwise, there are many alternatives in the form of other guides and Wabbajack mod lists, including forks of TPF with mods adding more content.
 
+> With the release of the TPF-X addon, customisability has made a limited return. The addon contains various additions from which the user can pick and choose. Other addons further expand the amount of supported mods.
+
 ### TPF as a teacher
 
-TPF has two purposes: 1) to create and document what I consider my personal ideal version of Skyrim, and 2) to teach its users as much about modding as possible without requiring any prior modding experience. Throughout the guide we will make use of a large amount of tools and procedures, including proper use of Mod Organizer 2 or how to rebuild facegen using the Creation Kit. 
+TPF has two purposes: **1)** to create and document what I consider my personal ideal version of Skyrim, and **2)** to teach its users as much about modding as possible without requiring any prior modding experience. Throughout the guide we will make use of a large amount of tools and procedures, including proper use of Mod Organizer 2 and how to run various patchers such as DynDOLOD.
 
-The manual guide exists first and foremost to show users step-by-step how TPF was built. Naturally, there are some steps missing, most notably the creation of the Conflict Resolution Patch which would require a near TPF-length guide in itself to cover its creation. Everything else is, however, covered in detail.
+The manual guide exists first and foremost to show users step-by-step how TPF was built. Naturally, there are some steps missing, most notably the creation of the Conflict Resolution Patch which would require a near TPF-length guide in itself to cover its creation. However, everything else is explained in detail.
 
 The nature of the guide requires a certain motivation on the part of the user to read and learn. Thankfully, there is a shortcut (the autoinstaller Wabbajack) that is detailed a little further down.
 
@@ -51,23 +53,23 @@ Regardless of whether you build the setup manually or use the Wabbajack installe
 
 - **A Better Skyrim:** The guide includes hundreds of mods across several dozen categories, all carefully selected to fit my vision of a lore-friendly, improved but not radically changed Skyrim. The Phoenix Flavour strives to provide a solid upgrade of the vanilla experience with modern visuals and rebalanced gameplay.
 - **Custom Files and Patches:** Both the final patch as well as some patches and plugin replacers installed during the mod setup have been made specifically for the guide by Umgak and myself. They ensure compatibility as well as consistency between all included mods.
-- **Performance:** The Phoenix Flavour was created for gameplay rather than screen-archery and will for most people deliver solid framerates on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through INI changes, reasonable texture resolutions, a performance-friendly grass overhaul as well as a skippable ENB section and the choice to use lower settings in DynDOLOD, you can tweak your game until you reach a stable framerate.
+- **Performance:** The Phoenix Flavour was created for gameplay rather than screen-archery and will for most people deliver solid framerates on a 1080p monitor resolution. For higher resolutions, better hardware is required. Through conservative INI tweaks, reasonable texture resolutions, and a performance-friendly ENB preset, TPF is careful to improve the visuals without making the game unplayable.
 - **Stability:** Skyrim SE itself is already very stable compared to Classic Skyrim. You may still experience the occasional freeze or crash, but they will be very rare (perhaps once every 20 to 30 hours). These happen in Vanilla and they will happen in TPF.
 
 ### Included Mods
 
 - **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
-- **Textures:** Noble Skyrim 2K overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
+- **Textures:** Noble Skyrim overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
 - **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory; 3D tree LOD is optional.
 - **ENBSeries:** Using Serio's ENB which is performance-friendly and does not break nighteye.
-- **Gameplay:** Featuring the full suite of [SimonMagus' suite of lightweight overhauls](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
-- **Loot and Rarity:** Lightly tweaked vanilla loot which remains leveled.
-- **New Companions:** None included.
+- **Gameplay:** Featuring the full suite of [**SimonMagus' suite of lightweight overhauls**](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
+- **Loot and Rarity:** Based on the fantastic [**Open World Loot**](https://www.nexusmods.com/skyrimspecialedition/mods/49681) overhaul.
+- **New Companions:** None included. *TPF-X adds support for Inigo and Lucien.*
 - **DLC-Sized Mods:** None included.
-- **Body Replacer:** None included.
-- **Needs and Survival Mods:** None included.
+- **Body Replacer:** None included. *But there are high poly hands and feet.*
+- **Needs and Survival Mods:** None included. *CC Survival support available in an addon.*
 
-Included in TPF-X (an official addon for the main guide) is among other things a collection of mods **new music tracks** which I added to a convenient [YouTube playlist](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
+Included in TPF-X (an official addon for the main guide) is among other things a collection of mods **new music tracks** which I added to a convenient [**YouTube playlist**](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
 
 ### Additional Mods
 
@@ -79,17 +81,17 @@ If you want to expand the base TPF setup without losing support, there are:
 
 Still want more mods after completing TPF? We got you covered. For users of the manual guide, there is the option to install **Addons** on top of the base TPF installation.
 
-**TPF-X** is the "official" addon by yours truly. It's fully modular and features a new music, new gear, support for Creation Club player homes as well as Rudy ENB, new followers (Lucien and Inigo), and more.
+**TPF-X** is the "official" addon by yours truly. It's fully modular and features new music, new gear, support for Creation Club player homes, Rudy ENB, new followers (Lucien and Inigo), and more.
 
-Other addons include **Slidikins' Strenuous Skyrim** which implements survival mechanics and makes loot significantly rarer. Additionally, there are patches for other Creation Club content as well as an integration patch for **Legacy of the Dragonborn**.
+Other addons include **Slidikins' Strenuous Skyrim** which implements survival mechanics and makes loot significantly rarer. Additionally, there are patches for other Creation Club content such as **CC Survival Mode** as well as an integration patch for **Legacy of the Dragonborn**.
 
 Find out about TPF Addons **[here](/tpf/tpf-addons/)**. Obviously they require an existing installation of base TPF.
 
 ### Our Tools
 
-The Phoenix Flavour is built using the most advanced, feature-rich mod manager out there: **Mod Organizer 2**, a tool vastly superior to both the outdated Nexus Mod Manager as well as the newer Vortex.
+The Phoenix Flavour is built using the most advanced, feature-rich mod manager out there: **Mod Organizer 2**, a tool superior to both the outdated Nexus Mod Manager as well as the newer Vortex.
 
-In addition to MO2, we will routinely utilise the official Creation Kit as well as SSEEdit and the Cathedral Assets Optimizer in the manual guide. You will be provided with detailed instructions for all these tools (and others) in order to teach you how and when to use them correctly.
+In addition to MO2, we will routinely utilise the official Creation Kit as well as SSEEdit and Cathedral Assets Optimizer in the manual guide. You will be provided with detailed instructions for all these tools (and others) in order to teach you how and when to use them correctly.
 
 > This guide neither supports nor recommends **LOOT**. You should not use it at any point on a TPF installation.
 
@@ -109,7 +111,7 @@ Wabbajack is an auto-installer capable of "cloning" a full mod setup including a
 
 ### TPF Wabbajack Installer
 
-While there is a lot that Wabbajack can automate, there are still some steps to complete in order to successfully set up Skyrim and TPF. These are covered in the [Wabbajack](/tpf/wabbajack/) section. By using Wabbajack, you essentially skip the Initial Setup, Mod Installation, and Finalisation steps of the manual guide. However, you still need to configure your mods according to the [Mod Configuration](/tpf/mod-configuration/) page just like users of the manual guide do.
+While there is a lot that Wabbajack can automate, there are still some steps to complete in order to successfully set up Skyrim and TPF. These are covered in the [**Wabbajack**](/tpf/wabbajack/) section. By using Wabbajack, you essentially skip the Initial Setup, Mod Installation, and Finalisation steps of the manual guide. However, you still need to configure your mods according to the [**Mod Configuration**](/tpf/mod-configuration/) page just like users of the manual guide do.
 
 ![TPF WJ Flowchart](/Pictures/tpf/introduction/tpf-guide-flowchart.png)
 
@@ -163,7 +165,11 @@ In summary: Hardware requirements for 2K and especially 4K are considerable and 
 
 ## Discord
 
-On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general. Feel free to join us [here](https://discord.gg/BpwXX5f)!
+On our dedicated Discord server for The Phoenix Flavour, we are providing support for the main guide as well as the Wabbajack version of TPF. We are also talking guide changes, Skyrim modding, and gaming in general.
+
+[**Join us on Discord.**](https://discord.gg/BpwXX5f)
+
+**Before you start the installation process:** Please check the [**changelog**](/tpf/appendix/changelog/) and the **#updates** channel on our Discord server for the latest news. If an update is imminent, I will be posting about this on the server and it will usually be recommended to wait for it to drop before starting to go through the guide. It is important to keep track of updates when installing TPF as instructions may literally change overnight.
 
 #### MANUAL GUIDE USERS: Get started with the [Prerequisites](/tpf/initial-setup/prerequisites/) page.
 

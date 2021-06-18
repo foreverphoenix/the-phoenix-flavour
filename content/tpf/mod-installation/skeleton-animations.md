@@ -51,25 +51,33 @@ description: >
 
 - **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
-##### [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
+##### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** All Geared Up Derivative SE
+- **Main Files:** Simple Dual Sheath
+- **Optional Files:** XPMSSE Left Hand Sheathe Rotation Fix
 
-> All additional steps (downloading and running the SSEEdit scripted patchers) will be covered in the Finalisation section of the guide.
+#### Additional Instructions
 
-##### [AllGUD - RUSTIC ANIMATED POTIONS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49669?tab=files)
+- Double-click **Simple Dual Sheath** in your mod order.
+- Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
+- In **Line 26** set `ClenchedHandWorkaround=` to `true`.
+- Press **CTRL+S** to save and close the window.
 
-#### Download Instructions
+#### Shields on Back
 
-- **Main Files:** AllGUD - Rustic Animated Potions Patch
+**Only follow these instructions if you want shields on back.**
 
-##### [AllGUD Conditions Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+By default, the player and NPCs carry their shields in their left hand when their weapons are sheathed. Shields on back look much better, however, there is a [noticable gap](/Pictures/tpf/mod-installation/sds-guard-shield-gap.jpg) between the character's back and the shield which annoys me personally. For the player, this can be adjusted in RaceMenu ([before](/Pictures/tpf/mod-installation/sds-shield-gap.jpg) and [after](/Pictures/tpf/mod-installation/sds-shield-gap-fixed.jpg)) but there is nothing to be done about NPCs. If this doesn't annoy you as much as much as it annoys me, feel free to enable shield on back.
 
-#### Download instructions
+- Double-click **Simple Dual Sheath** in your mod order.
+- Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
+- In **Line 22** add the following flags: `Flags=Player|NPC|FirstPerson`.
+- In **Line 34** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- Press **CTRL+S** to save and close the window.
 
-* **Main Files:** AllGUD Conditions Fix
+> The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
 
 ##### [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files)
 

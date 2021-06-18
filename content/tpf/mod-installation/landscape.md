@@ -102,18 +102,46 @@ description: >
 * **Optional Addons:**
   * ~~No Glacier Snow~~
 
-##### [Skyrim Remastered - Glaciers and Ice](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
+##### [Glacierslab](https://www.nexusmods.com/skyrimspecialedition/mods/24178?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Skyrim Remastered - Glaciers and Ice Quality Version
-- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
+- **Main Files:** Glacierslab 4.2.2.5 B-Bumpy-Chiseled
 
-##### [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files)
+##### [SC - Glacierslab Addon](https://www.nexusmods.com/skyrim/mods/99443?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Skyrim 3D Icefloes
+- **Main Files:** SC - GlacierslabAddon
+
+#### FOMOD Instructions
+
+- **Requirements:** First
+- **Pick whatever - Meshes:**
+  - ~~Ice caves~~
+  - ~~Cave icicles~~
+  - Landscape
+  - Landscape icicles
+  - Landscape glaciers
+  - ~~Magic ice~~
+  - Dawnguard landscape ice
+  - Dawnguard frozen creatures
+  - Dawnguard falmer playground
+  - Dragonborn Ice
+  - New ice and show shaders
+
+#### Porting Instructions
+
+- Run the mod through **SSE NIF Optimizer**.
+- Re-save **SC_IceShader.esp** in the Creation Kit.
+
+##### [Skyrim Remastered - Glaciers and Ice - Replacer ESP](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
+
+#### Download Instructions
+
+- **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP
+
+> This plugin fixes some glaciers on Solstheim (near the Altar of Thrond for instance) which otherwise look like solid white blocks. While it is made for the mod's main file, SC - Glacerslab has the same issue that is also fixed by this plugin.
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 

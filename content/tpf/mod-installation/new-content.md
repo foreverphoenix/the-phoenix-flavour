@@ -24,42 +24,36 @@ description: >
 
 - **Miscellaneous Files:** Patch - WACCF and Armor and Clothing Extension
 
-##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
+##### [Open World Loot - AMB AVL Addons](https://www.nexusmods.com/skyrimspecialedition/mods/51141?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** aMidianBorn Armor Variants Lite
+- **Main Files:** Open World Loot - AVL Iron and Steel Addon
+- **Main Files:** Open World Loot - AVL Thalmor Addon
+- **Main Files:** Open World Loot - AVL Morrowind Glass Addon
+- **Main Files:** Open World Loot - AVL Nordic Addon
 
-#### FOMOD Instructions
+#### FOMOD Instructions - AVL Iron and Steel
 
 - **Patches:**
-  - Enchanting Adjustments Patch
-  - Finding Velehk Sain Patch
-  - ~~Reliquary of Myth Patch~~
-  - Weapons Armor Clothing and Clutter Fixes Patch
+  - Modular Armory
+  - Enchanting Adjustments
 
-##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+#### FOMOD Instructions - AVL Thalmor
 
-#### Download Instructions
+- **Patches:** 
+  - AMB Glass Armory
 
-- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+#### FOMOD Instructions - AVL Morrowind Glass
 
-#### FOMOD Instructions
+- **Patches:**
+  - Enchanting Adjustments
 
-- **Skyrim:** *select nothing*
-- **Dawnguard:** *select nothing*
-- **Dragonborn:** *select nothing*
-- **Compatibility Patches:** aMidianBorn Content Addon
+#### FOMOD Instructions - AVL Nordic
 
-> All we need are the edited textures for AMB CA compatibility (they also work for AMB AVL). PFA meshes are already included in the Cathedral Armory - TPF Repack.
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\AMB Variants\armor\ebonyvariants\`
-  - `textures\AMB Variants\armor\Glassvariants\`
-  - `textures\AMB Variants\armor\ironbrown\`
-  - `textures\AMB Variants\armor\IronEngraved\`
+- **Patches:**
+  - Modular Armory
+  - Enchanting Adjustments
 
 ##### [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files)
 

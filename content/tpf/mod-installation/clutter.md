@@ -172,11 +172,11 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 * **Main Files:** RUSTIC MAPS - 2K
 
-##### [Business Ledger HD Retexture](https://www.nexusmods.com/skyrim/mods/38389?tab=files)
+##### [The Business Ledger](https://www.nexusmods.com/skyrimspecialedition/mods/48561?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Business Ledger HD Retexture
+* **Main Files:** The Business Ledger SD
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

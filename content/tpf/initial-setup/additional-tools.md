@@ -107,6 +107,22 @@ While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimiz
 * Download [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
 * Extract the executable into Your Modding Folder. It’s just a single file so no separate directory is required.
 
+## NifSkope
+
+While NifSkope is not meant to create new meshes, it is an excellent tool for quickly viewing and editing meshes.
+
+- Open the Github page for [NifSkope](https://github.com/niftools/nifskope/releases).
+- Scroll down all the way to **Assets** and download the 7z archive (see screenshot).
+- Create a new folder: `Your Modding Folder\Tools\NifSkope`.
+- Open the downloaded archive.
+- Double-click the **NifSkope_2_0_2018-02-22-x64** folder and extract its contents into the new folder.
+- Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
+- Click the tiny blue plus icon to add a new executable and select **Add from file**.
+- Navigate to `Your Modding Folder\Tools\NifSkope` and double-click NifSkope.exe.
+- Click **OK** to save the new executable and close the window.
+
+![Download NifSkope](/Pictures/tpf/initial-setup/download-nifskope.png)
+
 ---
 
 #### Continue with the [ESM Cleaning](/tpf/initial-setup/esm-cleaning/) page.

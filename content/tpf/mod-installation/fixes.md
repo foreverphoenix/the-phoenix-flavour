@@ -19,8 +19,8 @@ description: >
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 14**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
-- In **Line 17**, set **"underfilledSoulGems":** to **true**.
+- In **Line 18**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
+- In **Line 22**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 #### Additional Instructions - Scrambled Eggchantments
@@ -29,8 +29,6 @@ description: >
 - Switch to the **Text Files** tab and select the **ScrambledEggchantments.json** file.
 - In **Line 4**, set **"enchantmentCost"** to **false**.
 - Hit **CTRL+S** to save and close the window.
-
-> The enchantment cost bug is currently being addressed by Enchanting Adjustments and Price- Charge Bug Fix, a mod that will be installed later on. At the moment, we only want the multiple enchantments fix.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 

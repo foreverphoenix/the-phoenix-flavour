@@ -14,12 +14,11 @@ description: >
 
 CAO updated multiple times in the past weeks but there were lingering issues with each new release and they once again reverted to the (stable) 5.0.15 which we used for a long time. The guide will do the same thing.
 
-If you used CAO 5.1.3:
+If you used CAO 5.1.3 or 5.2.0:
 
 - Revert to Cathedral Assets Optimizer 5.0.15.
 - Go through the entire guide to find mods with CAO instructions.
 - Reinstall those mods, then process them with CAO 5.0.15.
-- This includes redoing the entire facegen step.
 
 **About the removal of grass cache:**
 
@@ -35,7 +34,7 @@ However, in TPF-X I am now offering support for QW's Grass Patch which combines 
 
 **About the facegen changes:**
 
-We traced down a bug with Urag gro-Shub's facegen to the Creation Kit starting to stumbled over its own feet when generating all facegen at once (in this case, the bug could be fixed by skipping the six Snow Elves when generating facegen). Since facegen now has to be generated in small batches by everyone, I figured it would be easier to simply provide pre-made facegen after all so that is what I will be doing from now on. The facegen step in Finalisation was removed entirely.
+We traced down a bug with Urag gro-Shub's facegen to the Creation Kit starting to stumbled over its own feet when generating all facegen at once (in this case, the bug could be fixed by skipping the six Snow Elves when generating facegen). Since facegen apparently absolutely *has* to be generated in small batches, I figured it would be easier to simply provide pre-made facegen for everyone after all. The facegen step in Finalisation was removed entirely.
 
 **About the music mod changes:**
 
@@ -51,54 +50,99 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 #### Introduction
 
+- General small updates (fixes, smalle additions, rephrased sections).
 - Clarified that the new music tracks in the TPF playlist are now part of TPF-X and no longer in the base guide.
-- Added a new section to introduce the new TPF addons.
+- Added a section to introduce the new TPF addons.
 - Updated the Phoenix's Build section.
+- Added warning to check Discord for news before starting the guide.
 
 #### Initial Setup
 
+- **Skyrim and Steam:** Rewrote many instructions on this page and added a new screenshot.
+- **Skyrim and Steam:** Added a link to LostDragonist's Steam Library Setup Tool.
 - **Mod Organizer 2:** Updated link and picture for MO2 2.4.2 (latest).
 - **INI Files:** Updated BethINI - Detail instructions (increased Detail Draw Distance).
 - **INI Files:** Updated BethINI - View Distance (re-added tweak to grass fade).
 - **INI Files:** Updated BethINI - Visuals instructions (increased tree fade distance and tweaked grass settings).
 - **Additional Tools:** Updated instructions for CAO (reverted to 5.0.15).
 - **Additional Tools:** Removed instructions for Modwat.ch (no longer necessary with Load Order Library).
+- **Additional Tools:** Added instructions to install NifSkope.
 
 #### Mod Installation
 
 - **Essential Mods:** Updated INI lines for SSE Display Tweaks (changed in recent update).
+- **Essential Mods:** Removed instructions to disable VSYNC for SSE Display Tweaks (it should be on for everyone).
 - **Essential Mods:** Added instructions to use SSE Display Tweaks to block load screens from certain plugins.
+- **Essential Mods:** Added a note about capping the framerate to SSE Display Tweaks.
 - **Essential Mods:** Updated download instructions for More Informative Console (file name changed).
 - **Essential Mods:** Re-added Dear Diary - Better More Informative Console.
+- **Essential Mods:** Removed Project Clarity AIO - Skyrim Textures Redone.
+- **Essential Mods:** Added Base Coat.
+- **Essential Mods:** Removed Hooded Skeleton Corpse Fix for WACCF (was fixed in WACCF 2.2).
 - **Essential Mods:** Added WACCF Greatsword Weapon Speed Tweaks.
 - **Essential Mods:** Updated the INI tweak section for No Grass In Objects.
 - **Fixes:** Added instructions to also download the Scrambled Eggchantments main file for Scrambled Bugs.
 - **Fixes:** Added instructions to also download the Soul Gem Too Small file for Scrambled Bugs.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Added additional instructions for Scrambled Eggchantments.
+- **Fixes:** Updated No Animals Report Crimes download instructions (version number increased).
 - **Fixes:** Added hank's Gamepad and Controller Fixes.
+- **Tweaks:** Updated FOMOD instructions for Dwemer Gates Don't Reset.
 - **Interface:** Removed No More Laser-Printed Book.
 - **Interface:** Added Convenient Reading.
-- **Interface:** Re-added instructions to change the console font for Roboto Font Replacer.
-- **Graphics Baseline:** Added Quality Cubemaps.
+- **Interface:** Moved Roboto Font Replacer to TPF-X.
+- **Interface:** Moved Sovngarde Font Replacer from TPF-X to the main guide. It's now the new default.
+- **Graphics Baseline:** Added SC - Cubemaps.
 - **Graphics Baseline:** Moved aMidianBorn Book of Silence to the CREATURES step.
+- **Weather:** Moved Dynamic Volumetric Lighting and Sun Shadows here (from TPF-X).
+- **Weather:** Moved Rudy ENB - Cathedral Weathers here (from TPF-X).
+- **Visual FX:** Added TB's Improved Dust Particles.
+- **Visual FX:** Moved Bright Snow Fix here (from TPF-X).
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
 - **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
 - **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
+- **Landscape:** Updated Skyrim Remastered - Glaciers and Ice download instructions.
+- **Landscape:** Removed Skyrim 3D Icefloes.
+- **Landscape:** Added Glacierslab.
+- **Landscape:** Added SC - Glacierslab Addon.
+- **Trees & Plants:** Changed download instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Updated FOMOD instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Added Aspens Ablaze Add-On - DynDOLOD 3.
+- **Trees & Plants:** Added instructions to delete another folder from HD Dead Trees and Driftwood.
 - **Trees & Plants:** Updated FOMOD instructions for Veydosebrom Regions.
 - **Trees & Plants:** Removed INI tweak instructions for Veydosebrom Regions (moved to BethINI).
-- **Trees & Plants:** Removed Cathedral 3D Pine Grass.
+- **Trees & Plants:** Added instructions to also download the High Poly Green Grass Update for Cathedral 3D Pine Grass.
+- **Trees & Plants:** Added The Phoenix Flavour - Grass Patch.
 - **Trees & Plants:** Added Improved Gourds.
+- **Trees & Plants:** Added Rally's Blackreach Mushrooms.
 - **Architecture:** Removed Markarth - A Reflective Experience (tweaks part of The Dwemer).
+- **Architecture:** Removed Castle Volkihar Reborn.
+- **Architecture:** Added CC's Castle Volkihar Remastered.
+- **Misc Structures:** Added Remiros' Dunmer Urns HD.
+- **Misc Structures:** Updated additional instructions for Iconic Statues.
+- **Misc Structures:** Added Remiros' Statues HD.
+- **Interiors:** Added instructions to also install the STAC patch for SD's Horn Candles (an oversight, thanks Althro!).
 - **Dungeons:** Removed Gecko's Dwarven Ruins Textures (prefer Noble Skyrim).
 - **Dungeons:** Moved Metallurgy - Ingots and Ores HD to Clutter.
+- **Dungeons:** Removed Ice Cave Parallax Improved.
+- **Dungeons:** Added Skyrim Remastered - Caves.
+- **Dungeons:** Added Skyrim Remastered - Azura and Blackreach Crystals
+- **Dungeons:** Removed ElSopa Realistic Dark Elf Urns.
 - **Dungeons:** Removed Ancient Dwemer Metal.
 - **Dungeons:** Removed Dwemer Pipework Reworked.
 - **Dungeons:** Removed Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn.
 - **Dungeons:** Removed Dwemer Ichor Barrel.
 - **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch.
 - **Dungeons:** Removed Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch.
+- **Dungeons:** Added The Dwemer.
+- **Dungeons:** Added Particle Lights for ENB - Light Orbs.
+- **Dungeons:** Added Aetherium Falmer Cave Ceiling Glow.
+- **Dungeons:** Added Skyrim Remastered - Azura and Blackreach Crystals.
 - **Clutter:** Added instructions to remove some files from RUSTIC CLUTTER COLLECTION.
+- **Clutter:** Removed Business Ledger HD Retexture.
+- **Clutter:** Added The Business Ledger.
+- **Valuable Items:** Removed ElSopa HD - Dragonborn Skull Variants.
+- **Valuable Items:** Added Iconic's Saerek and Torsten Skull Key Retexture (closer to vanilla).
 - **Apparel & Weapons:** Added Modular Armory.
 - **Apparel & Weapons:** Removed Cathedral Armory (superseded by Modular Armory).
 - **Apparel & Weapons:** Removed Project Clarity - Weapons - TPF Repack (superseded by Modular Armory).
@@ -109,14 +153,20 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Apparel & Weapons:** Removed Ancient Dwemer Metal - My Patches - No Smiling Female Helmet.
 - **Apparel & Weapons:** Removed aMidianBorn Stormcloak Officer Armour (part of Modular Armory).
 - **Apparel & Weapons:** Removed Actual Orichalcum Orcish Equipment.
+- **Apparel & Weapons:** Added aMidianBorn Matching Armory - Glass Armor and Weapons.
 - **Apparel & Weapons:** Removed Outlandish Stalhrim.
 - **Apparel & Weapons:** Added Stalhrim Refrozen.
 - **Apparel & Weapons:** Removed Outlandish Chitin Armour (part of Modular Armory).
-- **Apparel & Weapons:** Removed HD Reflective Ebony Armor and Weapons.
 - **Apparel & Weapons:** Removed Rudy HQ - Daedric Weapons and Armor (don't currently have a patch for Modular Armory).
 - **Apparel & Weapons:** Removed Dragon Priest Weapons Improved (part of Modular Armory).
 - **Apparel & Weapons:** Added Modular Armory - Masks of the Dovah Sonaak Patch.
 - **Apparel & Weapons:** Added Unique Uniques Re-Ported.
+- **Creatures:** Added Particle Lights for ENB - Undead Creatures.
+- **Creatures:** Added additional instructions for HD Reworked Dragons 4K.
+- **Creatures:** Re-added RUSTIC DRAGONS.
+- **Creatures:** Re-added HD Serpentine Dragon and Mesh Fix.
+- **Creatures:** Updated download instructions for Deiform Alduin (using 4K textures instead of 8K).
+- **Creatures:** Added instructions to also download the Deiform Alduin Eyes textures.
 - **Unique Artifacts:** Merged with Apparel & Weapons page since most mods were consolidated into Modular Armory.
 - **Unique Artifacts:** Removed Unique Uniques.
 - **Unique Artifacts:** Removed Unique Uniques - Fixes.
@@ -134,6 +184,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix (replaced by The Dwemer).
 - **Appearance:** Added Superior Lore-Friendly Hair.
 - **Gameplay Overhauls:** Updated download instructions for Skyrim Uncapper - Adamant Arena (now using the Phoenix cut).
+- **Gameplay Overhauls:** Updated Forceful Tongue - Shouts Overhaul FOMOD instructions.
 - **Gameplay Overhauls:** Added Open World Loot.
 - **Gameplay Overhauls:** Updated Reliquary of Myth FOMOD instructions (no longer selecting the Ebony Blade patch).
 - **Gameplay Overhauls:** Added Modular Armory - Reliquary of Myth Patch.
@@ -154,10 +205,15 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Balancing:** Removed Enchanting Adjustments and Price Bug Fix.
 - **Balancing:** Removed Less Cure Disease Potions.
 - **Balancing:** Removed Morrowloot Miscellania - Unleveled Uniques.
+- **New Content:** Removed aMidianBorn Variants Lite.
+- **New Content:** Removed Practical Female Armors - AMB AVL Patch.
+- **New Content:** Added Open World Loot - AMB AVL Addons.
 - **New Content:** Added Open World Loot - WACCF and ACE Patch.
 - **New Content:** Added Ancient Nord Stalhrim.
 - **New Content:** Added Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch.
 - **Miscellaneous:** No longer downloading Misc Tweaks - More Realistic Animal Loot.
+- **Miscellaneous:** Now also downloading the Misc Tweaks - Night Eye Redux - ENB Fix (was part of TPF-X).
+- **Miscellaneous:** Added Imperial Military Camps.
 - **Assorted Plugins:** Added instructions for Enhanced Reanimation to manually create the INI file.
 - **Assorted Plugins:** Added instructions for Essential Favorites to manually create the INI file.
 - **Sound FX:** Renamed this step to "Sound FX" from "Sounds & Music" as the music mods were moved to TPF-X.
@@ -171,13 +227,19 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Sound FX:** Removed Around the Fire - Skyrim Fan-Made Music (now part of TPF-X).
 - **Sound FX:** Removed Dawnguard Music Overhaul - Skyrim Fan-Made Music (now part of TPF-X).
 - **Sound FX:** Removed Yet Another Music Merge (now part of TPF-X).
-- **Skeleton & Animations:** Added AllGUD - RUSTIC ANIMATION POTIONS Patch.
+- **Skeleton & Animations:** Moved All Geared Up Derivative (AllGUD) to TPF-X.
+- **Skeleton & Animations:** Moved AllGUD Conditions Fix to TPF-X.
+- **Skeleton & Animations:** Added Simple Dual Sheath.
 - **Utilities:** Updated download instructions for Spell Perks Item Distributor (file name changed).
 
 #### Finalisation
 
+- **Wrapping Up:** Added instructions to download and install the new premade facegen.
 - **Wrapping Up:** Added Veydosebrom to the list of plugins to ESL-ify.
+- **Wrapping Up:** Added Cathedral 3D Pine Grass to the list of plugins to ESL-ify.
 - **Wrapping Up:** Removed the music mod plugins from the list of plugins to ESL-ify.
+- **Facegen:** Removed this step. Premade facegen is now provided.
+- **AllGUD:** Removed this step. We are now using Simple Dual Sheath. AllGUD was moved to TPF-X.
 - **Grass Cache:** This page was removed for the forseeable future.
 - **DynDOLOD:** Removed instructions to manually delete the loading screens (done automatically by SSE Display Tweaks).
 
@@ -191,6 +253,9 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Resolved conflicts with WACCF Greatsword Weapon Speed Tweaks
 - Updated various records for Enchanting Adjustments Updated
 - The unique Poacher's Axe is no longer disenchantable
+- Removed AMB Armor Variants Lite as a master
+- Overwrote an unresolved error in Imperial Military Camps
+- Removed some edits that were workarounds for Skyrim Remastered - Glaciers and Ice
 
 #### Wabbajack
 
@@ -198,22 +263,36 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Reverted to Cathedral Assets Optimizer 5.1.3
 - Updated Mod Organizer 2 to 2.4.2
 - Updated ENBSeries to 0.454
-- Updated SSE Display Tweaks 0.4.14
+- Updated SSE Display Tweaks 0.4.15-1
 - Updated Dear Diary - Better More Informative Console to 1.2
-- Updated Scrambled Bugs to 8
+- Updated Unofficial Skyrim Special Edition Patch to 4.2.5b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.4
+- Updated Scrambled Bugs to 10
+- Updated Skyrim Landscape and Water Fixes to 6.2
+- Updated No Animals Report Crimes to 1.0.3
+- Updated Bug Fixes SSE to 3
 - Updated Equip Enchantment Fix to 1.2.4
-- Updated Dwemer Gates Don't Reset to 1.2.8
+- Updated Dwemer Gates Don't Reset to 1.3.1
+- Updated WoW Dragon Mounds CTD Fix to 1.2
 - Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
 - Updated Skyrim - A Mountainous Experience to 1.5.6
 - Updated Whiterun Mesh Fixes to 1.1
 - Updated Sovngarde HD to 3.1
 - Updated Deiform Alduin to 1.1
-- Updated Forceful Tongues - Shouts Overhaul to 2.1
+- Updated Mild Complexions to 2.0
+- Updated Forceful Tongues - Shouts Overhaul to 2.3
 - Updated Dragon Aspect Overhaul to 2.0
+- Updated Reliquary of Myth to 3.9.1
+- Updated Cannibal Draugr on Solstheim to 2.2
+- Updated Forsworn Gravesingers to 1.0.1
+- Updated Tweaks for WACCF and ACE to 1.6
+- Updated Immersive Dragons to 1.4
 - Updated Classic Paralysis to 2.1
 - Updated Enhanced Reanimation to 1.3
 - Updated Essential Favorites to 2.1
 - Updated Spell Perk Item Distributor to 4.4
+- Removed ETHEREAL CLOUDS (mod was removed in TPF 4.5 but I forgot to delete it in MO2)
+- Installed [LOOT Preventifier](https://github.com/LostDragonist/MO2-Plugins) for Wabbajack only
 
 ## Release 4.5.4
 

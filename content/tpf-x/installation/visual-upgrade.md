@@ -193,7 +193,7 @@ Synchronises sun and exterior shadows. This mod is a hard requirement for Rudy E
 
 - **Main Files:** Dynamic Volumetric Lighting and Sun Shadows
 
-### Rudy ENB - DVLaSS INI
+### **Rudy ENB - DVLaSS INI**
 
 Rudy comes with its own preset for DLVaSS.
 
@@ -207,7 +207,7 @@ Rudy comes with its own preset for DLVaSS.
 - Extract the **SKSE** folder into the mod folder you created before.
 - In Mod Organizer 2, press F5 to refresh.
 
-### DynDOLOD - Generate Terrain Underside
+### **DynDOLOD - Generate Terrain Underside**
 
 While there is a terrain underside mesh available on the DLVaSS mod page, it is recommended to use DynDOLOD to generate one for one's setup. This is a new feature in DynDOLOD 3.0 that you need to enable now. DynDOLOD will be regenerated later on.
 

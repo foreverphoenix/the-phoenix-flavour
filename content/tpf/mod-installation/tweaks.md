@@ -15,7 +15,6 @@ description: >
 #### FOMOD Instructions
 
 - **Versions:** Dwemer Only
-- **USSEP:** USSEP
 - **Plugin Type:** ESP-FE
 
 ##### [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files)

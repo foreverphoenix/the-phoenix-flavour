@@ -77,12 +77,6 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 - **Main Files:** Windcaller Tomb And Horn 4K
 
-##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ice Cave Parallax Improved 1.4.1
-
 ##### [RUSTIC WORD WALLS](https://www.nexusmods.com/skyrim/mods/68561?tab=files)
 
 #### Download Instructions
@@ -101,35 +95,13 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** Ancient Pottery
 
-##### [ElSopa HD - Realistic Dark Elf Urns](https://www.nexusmods.com/skyrimspecialedition/mods/21717?tab=files)
+##### [Skyrim Remastered - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/38220?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** HD Dark Elf Urns 2k
-
-##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
-
-##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
-
-##### [WEBS](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** WEBS SE x2048
-
-##### [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** HD Lava (4k)
+- **Main Files:** Skyrim Remastered - Caves 2K Non Parallax
+- **Update Files:** Skyrim Remastered - Caves New Icicles >> `merge with the main file`
+- **Update Files:** Skyrim Remastered - Caves Updated ESP >> `merge with the main file`
 
 ##### [The Dwemer](https://www.nexusmods.com/skyrimspecialedition/mods/49234?tab=files)
 
@@ -148,3 +120,47 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - Unofficial Material Fix
   - ENB Particle Lights
   - ~~Dwemer Pipework Reworked~~
+
+##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
+
+##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
+
+##### [Aetherium Falmer Cave Ceiling GLow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Aetherium Falmer Ceiling 2K
+
+##### [Skyrim Remastered - Azura and Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/38371?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim Remastered - Azura and Blackreach Crystals 2K
+
+##### [WEBS](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WEBS SE x2048
+
+##### [HD Lava for Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/7285?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** HD Lava (4k)
+
+##### [Particle Lights for ENB - Light Orbs](https://www.nexusmods.com/skyrimspecialedition/mods/50737?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights for ENB - Light Orbs - Motes
+
+> These appear only in [one dungeon](https://en.uesp.net/wiki/Skyrim:Yngol_Barrow) in the entire game but they are very pretty.

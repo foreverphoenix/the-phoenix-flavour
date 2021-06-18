@@ -87,7 +87,7 @@ description: >
 
 - **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
-##### [Quality Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
+##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 
 #### Download Instructions
 
@@ -95,9 +95,9 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+- Run the mod through Cathedral Assets Optimiser (**Optimise SLE Assets**).
 
-> While the mod does not have SLE assets, it does have uncompressed textures which CAO will compress to BC7 with this profile.
+> While the mod doesn't contain any actual SLE assets, this profile will compress the uncompressed textures to save space.
 
 ##### [Noble Skyrim Mod HD-2K (NSM)](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
 

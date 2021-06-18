@@ -10,6 +10,17 @@ description: >
 
 > TBD
 
+#### Getting Started
+
+- Updated the Separators screenshot.
+- Updated the Load Order instructions and screenshot.
+
+#### Interface
+
+- Updated the description for the Font Replacer section.
+- Moved Sovngarde font to the main guide.
+- Moved Roboto font from the main guide to TPF-X.
+
 #### Visual Upgrade
 
 - Updated description, now using QW's Grass Patch.
@@ -17,6 +28,7 @@ description: >
 - Added Cathedral 3D Pine Grass.
 - Added QW's Grass Patch.
 - Added grass density tweak instructions.
+- Moved everything from the Rudy ENB section to the main guide.
 
 #### New Gear
 
@@ -25,6 +37,19 @@ description: >
 #### New Music
 
 - Finally moved over the base TPF music mods to TPF-X.
+
+#### Miscellaneous
+
+- Removed All No Tails (deleted from the Nexus).
+
+#### AllGUD
+
+- Moved over all AllGUD instructions from base TPF to TPF-X.
+
+#### Finalisation
+
+- Updated outputs section (removed regenerating AllGUD and Grass Cache).
+- Updated the Mod Config section (MCM tweaks are now part of the individual modules).
 
 ## Release 1.1
 

@@ -76,32 +76,30 @@ The default QuickLoot design can be a little heavy
 
 ## Font Replacer
 
-While I'm personally partial to the Roboto Font Replacer (which is in the main guide), I realise it's a controversial choice and many people prefer other font replacers. I have provided instructions for my two other preferred font mods but you can essentially install any font replacer you like. If you decide to install a different font replacer, I would suggest editing the `fontconfig.txt` to continue using the Consolas font in the console.
-
-If you chose to install Dear Diary with its font replacer you can still overwrite with another font if that is your preference.
+Swapping out the font mod is one of the easiest changes possible. I am personally partial to Roboto which is my go to font for Skyrim but in memory of the good old days (way back in 2015), I also recommend Fertigo Pro as an alternative which was then my standard font replacer. However, you can essentially install any font replacer you like. If you decide to install a different font replacer, I would suggest editing the `fontconfig.txt` to continue using the Consolas font in the console.
 
 This section is completely **optional**.
 
-### **[Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files)**
+### **[Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files)**
 
-This font was specifically created for Skyrim and I used it myself for many years. It fits a more fantasy or classic RPG atmosphere and looks good when paired with Dear Diary or the regular SkyUI interface.
+Roboto is my favourite font replacer because it just fits the vanilla UI's modern aesthetic so well. It was the default for TPF for a long time until I ultimately relented and swapped it with the far more popular Sovngarde font replacer.
 
 #### Download Instructions
 
-- **Main Files:** Sovngarde - A Nordic Font Light V8.9
+- **Main Files:** Roboto Main Font Replacer
 
 #### Additional Instructions
 
-- Double-click **Sovngarde - A Nordic Font** in your mod order.
+- Double-click **Roboto Font Replacer** in your mod order.
 - Switch to the **Text Files** tab and select the **fontconfig.txt** file.
-- Create a new line below `fontlib "Interface\fonts_drukaatieburti.swf"`.
-- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 6**.
-- In **Line 7**, change `"SovngardeConsole"` to `"Consolas"`.
+- Create a new line below `fontlib "Interface\fonts_en6.swf"`.
+- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 4**.
+- In **Line 5**, change `"Arial"` to `"Consolas"`.
 - Close the window and click **Yes** when asked to save.
 
-> This way you can use Sovngarde's font for most of the game with Dear Diary's Consolas font for the console.
+> This way we can use Roboto for dialogue, menus, etc and Dear Diary's Consolas font (packaged with Dear Diary - Better More Informative Console installed in the Essential Mods section) for the console.
 
-![Sovngarde Consolas](/Pictures/tpf-x/installation/sovngarde-consolas.png)
+![Roboto Console Font](/Pictures/tpf/mod-installation/roboto-console-font.png)
 
 ### **[Main Font Replacement - Fertigo Pro](https://www.nexusmods.com/skyrimspecialedition/mods/14356?tab=files)**
 

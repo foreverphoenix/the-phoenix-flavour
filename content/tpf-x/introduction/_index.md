@@ -25,10 +25,13 @@ TPF-X contains mods I personally want to play with but cannot reasonably add to 
 
 - **Interface:** Contains some interface mods most of which used to be in the base TPF setup but were removed. I don't actually play with most of these but they are easy additions and painless for me to support. Also contains two alternate font replacers!
 - **Visual Upgrade:** Support for Rudy ENB for Cathedral Weathers and my personal favourite grass overhaul, Folkvangr. May be expanded with separate INI instructions and more in the future.
+- **Gameplay Tweaks:** Additional mods that only affect combat so far, turning down the difficulty to more vanilla-like levels.
 - **New Gear:** I have added a long-time personal favourite of mine, Royal Armory by PrivateEye which has been fixed and improved by other mod authors and brought to a state where it will fit in beautifully.
 - **New Companions:** I have added Inigo, my beloved blue cat, with a bunch of improvements, as well as Lucien whom I've always wanted to try out. It is unlikely that I will be adding more companions in the future but these two already bring insane amounts of content to the table.
 - **Player Homes:** Currently includes patches for three player homes from the Creation Club. They obviously require the original "creations".
+- **New Music:** My personal favourite new music mods, all merged into a single, patched plugin. Features music by NirShor and OrganicView as well as new tracks from the original composer, Jeremy Soule.
 - **Miscellaneous:** A selection of mods I wouldn't add to TPF as they may be slightly controversial (see for yourself).
+- **AllGUD:** Support for All Geared Up Derivative which was removed from the main guide.
 
 **TPF-X is modular.** All mods are optional (although if you choose to install a mod, you need to also install all related mods and patches).
 

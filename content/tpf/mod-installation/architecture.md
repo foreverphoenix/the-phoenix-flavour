@@ -183,11 +183,19 @@ description: >
 
 * **Main File:** Dawnguard Fortress Improved SE v1.0
 
-##### [Castle Volkihar Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/10729?tab=files)
+##### [CC's Castle Volkihar Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/51071?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** CC’s Castle Volkihar Reborn - 2K - 2.0
+* **Main Files:** CC's Castle Volkihar Remastered - 4K - BC7 - 1.0
+
+#### Additional Information
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\dlc01\dungeons\castle\castlefloorwood01.dds`
+  - `textures\dlc01\dungeons\castle\castlefloorwood01_n.dds`
+
+> I prefer the Noble Skyrim version of this texture.
 
 ##### [Better Volkihar Secret Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/34739?tab=files)
 

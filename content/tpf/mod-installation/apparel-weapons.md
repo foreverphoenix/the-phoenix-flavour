@@ -42,7 +42,7 @@ description: >
   - Elven Armor and Weapons
   - Orcish Armor and Weapons
 - **Rare Sets:**
-  - Ebony Armor and Weapons
+  - ~~Ebony Armor and Weapons~~
   - Daedric Armor and Weapons
 - **Dragonborn Sets:**
   - Chitin Armor
@@ -71,7 +71,7 @@ description: >
   - ~~Rueful Axe~~
   - Volendrung
   - Wabbajack
-  - Ebony Mail
+  - ~~Ebony Mail~~
   - Ebony Blade
 - **Other:**
   - Helm of Yngol
@@ -284,6 +284,19 @@ description: >
 
 * **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
 * **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch >> `merge with the main file`
+
+##### [aMidianBorn Matching Armory - Glass Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/41711?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Concept Art Version
+
+##### [HD Reflective Ebony Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37701?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Reflective Ebony Armor and Weapons
+- **Main Files:** HD Reflective Ebony Mail
 
 ##### [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348?tab=files)
 

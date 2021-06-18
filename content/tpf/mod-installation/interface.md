@@ -221,24 +221,24 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 > Obviously you can select the "Left" option if you are left-handed.
 
-##### [Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files)
+##### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Roboto Main Font Replacer
+- **Main Files:** Sovngarde - A Nordic Font Light V8.9
 
 #### Additional Instructions
 
-- Double-click **Roboto Font Replacer** in your mod order.
+- Double-click **Sovngarde - A Nordic Font** in your mod order.
 - Switch to the **Text Files** tab and select the **fontconfig.txt** file.
-- Create a new line below `fontlib "Interface\fonts_en6.swf"`.
-- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 4**.
-- In **Line 5**, change `"Arial"` to `"Consolas"`.
+- Create a new line below `fontlib "Interface\fonts_drukaatieburti.swf"`.
+- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 6**.
+- In **Line 7**, change `"SovngardeConsole"` to `"Consolas"`.
 - Close the window and click **Yes** when asked to save.
 
-> This way we can use Roboto for dialogue, menus, etc and Dear Diary's Consolas font (packaged with Dear Diary - Better More Informative Console installed in the Essential Mods section) for the console.
+> This way you can use Sovngarde's font for most of the game with Dear Diary's Consolas font for the console.
 
-![Roboto Console Font](/Pictures/tpf/mod-installation/roboto-console-font.png)
+![Sovngarde Consolas](/Pictures/tpf-x/installation/sovngarde-consolas.png)
 
 ##### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files)
 

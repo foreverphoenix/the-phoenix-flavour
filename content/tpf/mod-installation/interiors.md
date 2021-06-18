@@ -90,6 +90,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** SD's Horn Candles SE 2k
+- **Optional Files:** SD's Horn Candles SE - STAC Patch (subtle version)
 
 ##### [Skyrim 3D Cooking](https://www.nexusmods.com/skyrimspecialedition/mods/23007?tab=files)
 

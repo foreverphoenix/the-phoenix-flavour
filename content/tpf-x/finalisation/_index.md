@@ -12,13 +12,10 @@ Please double-check that your plugins are sorted as instructed in the **Load Ord
 
 ## Outputs
 
-You need to rerun several patchers if you installed mods from the following modules:
+You need to rebuild several patchers if you installed mods from the following modules:
 
-- Visual Upgrade
-- New Gear
 - New Companions
 - Player Homes
-- Miscellaneous
 
 If you only installed mods from the other modules, skip this. You are done!
 
@@ -30,8 +27,6 @@ Strictly speaking not every single mod from those modules require you to rerun *
 
 In Mod Organizer 2 under the **PATCHER OUTPUT**, disable the following outputs:
 
-- AllGUD - Weapon Meshes
-- Grass Cache
 - TexGen_Output
 - DynDOLOD_Output
 - SSELODGen - Occlusion Data
@@ -40,11 +35,9 @@ In Mod Organizer 2 under the **PATCHER OUTPUT**, disable the following outputs:
 
 Each of the folders for the new outputs should have the same name as the old ones *but* with **TPF-X** added so they are easy to distinguish from (and do not replace) the regular TPF outputs.
 
-- Regenerate **AllGUD - Weapon Meshes** with [these instructions](/tpf/finalisation/allgud/#weapon-mesh-generator). Skip the fixed script installation, obviously you already have that.
-- Regenerate **Grass Cache** with [these instructions](/tpf/finalisation/grass-cache/).
 - Regenerate **TexGen** and **DynDOLOD** with [these instructions](/tpf/finalisation/dyndolod/). Rename the output folders before moving them to MO2\mods.
 - Regenerate **Occlusion** with [these instructions](/tpf/finalisation/occlusion/).
 
 ## Mod Config
 
-Nothing! Nada! None of the TPF-X mods actually have MCMs. You are done and can go play the game! Remember to start a new save.
+MCM instructions are listed on the installation pages of each separate module if appropriate.

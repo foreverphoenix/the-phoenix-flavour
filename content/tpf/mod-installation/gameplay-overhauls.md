@@ -86,8 +86,10 @@ description: >
   - Shouts in the Dragon Tongue - Words Only Patch
   - ~~SPERG Patch~~
   - Timing is Everything Patch
+  - ~~Unique Dragon Aspect Patch~~
   - ~~Vokrii Patch~~
   - ~~Weapon Speed Effects Fix Patch~~
+  - ~~WICO USSEP Version Patch~~
   - ~~Wyrmstooth Patch~~
 
 ##### [Dragon Aspect Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/29941?tab=files)

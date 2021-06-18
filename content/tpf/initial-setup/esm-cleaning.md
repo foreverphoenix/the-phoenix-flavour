@@ -94,7 +94,3 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * You’re done!
 
 ![Save Dawnguard ESM](/Pictures/tpf/initial-setup/save-dawnguard-esm.png)
-
----
-
-#### Continue with the [Instructions](/tpf/mod-installation/instructions/) page.

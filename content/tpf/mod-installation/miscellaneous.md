@@ -17,6 +17,7 @@ description: >
 - **Main Files:** Misc Tweaks - Night Eye Redux
 - **Main Files:** Misc Tweaks - No Starting Spells
 - **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
+- **Optional Files:** Misc Tweaks - Night Eye Redux - ENB Fix
 
 #### FOMOD Instructions - No Starting Spells
 
@@ -154,6 +155,12 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 * **Main Files:** Improved Shadowmarks (512)
 
 > This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
+
+##### [Imperial Military Camps](https://www.nexusmods.com/skyrimspecialedition/mods/47588?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Imperial Military Camps
 
 ##### [Contraband Confiscated](https://www.nexusmods.com/skyrimspecialedition/mods/34903?tab=files)
 
