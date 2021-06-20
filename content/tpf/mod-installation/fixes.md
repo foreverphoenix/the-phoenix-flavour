@@ -19,8 +19,8 @@ description: >
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 18**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
-- In **Line 22**, set **"underfilledSoulGems":** to **true**.
+- In **Line 19**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
+- In **Line 23**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 #### Additional Instructions - Scrambled Eggchantments
@@ -84,7 +84,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NARC Remade 1.0.2
+- **Main Files:** NARC Remade 1.0.3
 
 #### FOMOD Instructions
 
