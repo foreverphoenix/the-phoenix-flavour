@@ -56,8 +56,8 @@ description: >
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
   - **207** `FramerateLimit=60` if you want to cap the framerate (see note)
-  - **600** `LoadScreenFilter=true` to enable the load screen filter
-  - **602** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
+  - **601** `LoadScreenFilter=true` to enable the load screen filter
+  - **603** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
 - Hit CTRL+S to save and close the window.
 
 > You can leave the framerate uncapped if you prefer, it will no longer break the game.That being said, general physics weirdness (like flying objects) still happens more frequently at higher framerates. Additionally, achieving a framerate consistently above 60, especially with ENB, *especially* on resolutions of 1440p and upwards, requires very solid hardware. I personally think 60 is the sweet spot for everyone.
