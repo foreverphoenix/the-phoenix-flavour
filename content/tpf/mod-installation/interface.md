@@ -154,7 +154,7 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
-##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
+##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/50202?tab=files)
 
 #### Download Instructions
 
