@@ -84,7 +84,7 @@ description: >
 
 Game settings can be implemented in two ways: They can be added to a plugin or toggled in the console using the `SetGS` command. When using the console, the command would have to be entered every time the game is restarted. Fortunately we have Autorun which will execute any console commands configured in its text file automatically when loading a save.
 
-- Double-click **Autorun Console Commands** in Mod Organizer 2.
+- Double-click **Autorun** in Mod Organizer 2.
 - Switch to the **Text Files** tab and select the **Autorun.txt** file.
 - Copy and paste the following lines into the text field:
 
