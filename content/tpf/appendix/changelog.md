@@ -26,11 +26,9 @@ A sizeable portion of users (including myself) has reported mild stutters caused
 
 And it means one less patcher to run so there's that.
 
-**About the grass mod change:**
+**About the switch from AllGUD to Simple Dual Sheath:**
 
-By default Veydosebrom's grass is made to look good at iMinGrassSize=20 while Cathedral 3D Pine Grass is made to look good at iMinGrassSize=60. For the sake of consistency and simplicity, I finally removed Cathedral 3D Pine Grass. The main guide moving forward will have only Veydosebrom for grass (and Unique Solstheim Grasses).
-
-However, in TPF-X I am now offering support for QW's Grass Patch which combines Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass with density tweaks for consistency. Take a look if you are unhappy with the new TPF default.
+Recently a much simpler dual sheath mod than AllGUD was released that does not require any patching or mesh edits whatsoever. [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049) is just a SKSE plugin, completely plug and play. Of course, [AllGUD](https://www.nexusmods.com/skyrimspecialedition/mods/28833) has far more features than just dual sheaths so I did not remove it entirely. You can now find instructions for the mod and all additional steps in TPF-X.
 
 **About the facegen changes:**
 
@@ -61,6 +59,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Skyrim and Steam:** Rewrote many instructions on this page and added a new screenshot.
 - **Skyrim and Steam:** Added a link to LostDragonist's Steam Library Setup Tool.
 - **Mod Organizer 2:** Updated link and picture for MO2 2.4.2 (latest).
+- **Mod Organizer 2:** Added a new Splash Screen section.
 - **INI Files:** Updated BethINI - Detail instructions (increased Detail Draw Distance).
 - **INI Files:** Updated BethINI - View Distance (re-added tweak to grass fade).
 - **INI Files:** Updated BethINI - Visuals instructions (increased tree fade distance and tweaked grass settings).
@@ -81,10 +80,10 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Essential Mods:** Removed Hooded Skeleton Corpse Fix for WACCF (was fixed in WACCF 2.2).
 - **Essential Mods:** Added WACCF Greatsword Weapon Speed Tweaks.
 - **Essential Mods:** Updated the INI tweak section for No Grass In Objects.
+- **Fixes:** Added powerofthree's Tweaks.
 - **Fixes:** Added instructions to also download the Scrambled Eggchantments main file for Scrambled Bugs.
 - **Fixes:** Added instructions to also download the Soul Gem Too Small file for Scrambled Bugs.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
-- **Fixes:** Added additional instructions for Scrambled Eggchantments.
 - **Fixes:** Updated No Animals Report Crimes download instructions (version number increased).
 - **Fixes:** Added hank's Gamepad and Controller Fixes.
 - **Tweaks:** Updated FOMOD instructions for Dwemer Gates Don't Reset.
@@ -109,6 +108,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Trees & Plants:** Updated FOMOD instructions for Enhanced Vanilla Trees.
 - **Trees & Plants:** Added Aspens Ablaze Add-On - DynDOLOD 3.
 - **Trees & Plants:** Added instructions to delete another folder from HD Dead Trees and Driftwood.
+- **Trees & Plants:** Added High Poly Canticle Tree.
 - **Trees & Plants:** Updated FOMOD instructions for Veydosebrom Regions.
 - **Trees & Plants:** Removed INI tweak instructions for Veydosebrom Regions (moved to BethINI).
 - **Trees & Plants:** Added instructions to also download the High Poly Green Grass Update for Cathedral 3D Pine Grass.
@@ -267,7 +267,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated Dear Diary - Better More Informative Console to 1.2
 - Updated Unofficial Skyrim Special Edition Patch to 4.2.5b
 - Updated Weapons Armor Clothing and Clutter Fixes to 2.4
-- Updated Scrambled Bugs to 10
+- Updated Scrambled Bugs to 11
 - Updated Skyrim Landscape and Water Fixes to 6.2
 - Updated No Animals Report Crimes to 1.0.3
 - Updated Bug Fixes SSE to 3
@@ -276,13 +276,13 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated WoW Dragon Mounds CTD Fix to 1.2
 - Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
 - Updated Skyrim - A Mountainous Experience to 1.5.6
-- Updated Whiterun Mesh Fixes to 1.1
+- Updated Whiterun Mesh Fixes to 1.1.5
 - Updated Sovngarde HD to 3.1
-- Updated Deiform Alduin to 1.1
+- Updated Deiform Alduin to 1.1 r
 - Updated Mild Complexions to 2.0
 - Updated Forceful Tongues - Shouts Overhaul to 2.3
 - Updated Dragon Aspect Overhaul to 2.0
-- Updated Reliquary of Myth to 3.9.1
+- Updated Reliquary of Myth to 3.9.2
 - Updated Cannibal Draugr on Solstheim to 2.2
 - Updated Forsworn Gravesingers to 1.0.1
 - Updated Tweaks for WACCF and ACE to 1.6

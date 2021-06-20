@@ -6,6 +6,21 @@ description: >
   Covering issues and inconsistencies untouched by the USSEP.
 ---
 
+##### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** powerofthree's Tweaks
+
+#### Additional Instructions
+
+- Double-click **powerofthree's Tweaks** in your mod order.
+- Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
+- In **Line 28**, change `Faction Stealing = ` to `true`.
+- Hit **CTRL+S** to save your changes and close the window.
+
+> An example of what the Faction Stealing tweak fixes is in Riverwood: Giving Embry, the local drunk, a bottle of ale will set your relationship with him to "friends". Unfortunately, because Embry is in the RiverwoodSleepingGiantInnFaction, this will allow you take whatever you want from the Inn without it counting as stealing which makes very little sense.
+
 ##### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=files)
 
 #### Download Instructions
@@ -21,13 +36,6 @@ description: >
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
 - In **Line 19**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
 - In **Line 23**, set **"underfilledSoulGems":** to **true**.
-- Hit **CTRL+S** to save and close the window.
-
-#### Additional Instructions - Scrambled Eggchantments
-
-- Double-click **Scrambled Eggchantments** in your mod order.
-- Switch to the **Text Files** tab and select the **ScrambledEggchantments.json** file.
-- In **Line 4**, set **"enchantmentCost"** to **false**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)

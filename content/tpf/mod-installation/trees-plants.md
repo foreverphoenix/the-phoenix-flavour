@@ -126,6 +126,12 @@ description: >
 - **Optional Files:** Canticle Bark
 - **Optional Files:** Canticle Tree >> `merge with the first file`
 
+##### [High Poly Canticle Tree](https://www.nexusmods.com/skyrimspecialedition/mods/51433?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Poly Canticle Tree
+
 ##### [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files)
 
 #### Download Instructions
