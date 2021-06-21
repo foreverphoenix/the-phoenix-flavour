@@ -6,12 +6,6 @@ description: >
   Various modder's resources and extenders.
 ---
 
-##### [Private Profile Redirector](https://www.nexusmods.com/skyrimspecialedition/mods/18860?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** PrivateProfileRedirector SE 0.5
-
 ##### [PapyrusUtil](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files)
 
 #### Download Instructions
