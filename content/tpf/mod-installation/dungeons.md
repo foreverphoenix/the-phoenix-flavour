@@ -133,7 +133,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
 
-##### [Aetherium Falmer Cave Ceiling GLow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
+##### [Aetherium Falmer Cave Ceiling Glow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
 
 #### Download Instructions
 
