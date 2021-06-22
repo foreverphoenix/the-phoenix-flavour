@@ -10,7 +10,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** 1) Enhanced Vanilla Trees SE - Custom Large Trees v2.1.0
+- **Main Files:** 1) Enhanced Vanilla Trees SE - Custom Trees v2.1.0
 - **Optional Files:** 2) Enhanced Vanilla Trees SE - Alternative Branches v2.1.1 >> `merge with the main file`
 
 #### FOMOD Instructions - Main File

@@ -95,6 +95,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Graphics Baseline:** Moved aMidianBorn Book of Silence to the CREATURES step.
 - **Weather:** Moved Dynamic Volumetric Lighting and Sun Shadows here (from TPF-X).
 - **Weather:** Moved Rudy ENB - Cathedral Weathers here (from TPF-X).
+- **Lighting:** Updated download instructions for Luminosity (now using the new 4.2 version).
 - **Visual FX:** Added TB's Improved Dust Particles.
 - **Visual FX:** Moved Bright Snow Fix here (from TPF-X).
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
@@ -230,6 +231,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Skeleton & Animations:** Moved All Geared Up Derivative (AllGUD) to TPF-X.
 - **Skeleton & Animations:** Moved AllGUD Conditions Fix to TPF-X.
 - **Skeleton & Animations:** Added Simple Dual Sheath.
+- **Utilities:** Removed Private Profile Redirector (apprently it still does mess up ENBs).
 - **Utilities:** Updated download instructions for Spell Perks Item Distributor (file name changed).
 
 #### Finalisation
