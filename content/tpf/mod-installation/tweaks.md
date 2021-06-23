@@ -92,12 +92,6 @@ description: >
 
 - **Main Files:** Followers Don't Draw Weapons v1.0.1
 
-##### [No More Follower Hunting Bows](https://www.nexusmods.com/skyrimspecialedition/mods/11713?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** NoMoreFollowerHuntingBows
-
 ##### [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files)
 
 #### Download Instructions
