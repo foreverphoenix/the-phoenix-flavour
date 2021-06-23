@@ -147,6 +147,8 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 
 ### Phoenix's Build
 
+I have a fairly high-end PC these days:
+
 - **CPU:** Intel i7 10700k w/ NZXT Kraken X73
 - **RAM:** Corsair Vengeance 16GB DDR4-3200 Memory
 - **GPU:** Gigabyte RTX 3080 Gaming OC (10GB VRAM)
@@ -154,6 +156,8 @@ Modded Skyrim is highly GPU-dependent. A fast card with plenty of VRAM will cons
 - **SSD:** Samsung 860 Evo Series 1TB SSD (Games)
 - **Monitor:** LG 27GL850-B UltraGear 1440p @144Hz (primary)
 - **Monitor:** Acer S242HL 1080p @60Hz (secondary)
+
+That being said, a high-end system is NOT required to run TPF! In fact, one of the guide's priorities has always been performance-friendliness, and this has never changed. You can run TPF comfortably with specs far below my own.
 
 ### Monitor Resolution
 
@@ -169,7 +173,11 @@ On our dedicated Discord server for The Phoenix Flavour, we are providing suppor
 
 [**Join us on Discord.**](https://discord.gg/BpwXX5f)
 
-**Before you start the installation process:** Please check the [**changelog**](/tpf/appendix/changelog/) and the **#updates** channel on our Discord server for the latest news. If an update is imminent, I will be posting about this on the server and it will usually be recommended to wait for it to drop before starting to go through the guide. It is important to keep track of updates when installing TPF as instructions may literally change overnight.
+## Before You Begin
+
+Please check the [**changelog**](/tpf/appendix/changelog/) and the **#updates** channel on our Discord server for the latest news. If an update is imminent, I will be posting about this on the server and it will usually be recommended to wait for it to drop before starting to go through the guide. It is important to keep track of updates when installing TPF as instructions may literally change overnight.
+
+---
 
 #### MANUAL GUIDE USERS: Get started with the [Prerequisites](/tpf/initial-setup/prerequisites/) page.
 

@@ -11,12 +11,14 @@ description: >
 #### Download Instructions
 
 - **Main Files:** powerofthree's Tweaks
+- **Optional Files:** INI file >> `merge with the main file`
 
 #### Additional Instructions
 
 - Double-click **powerofthree's Tweaks** in your mod order.
 - Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
-- In **Line 28**, change `Faction Stealing = ` to `true`.
+- In **Line 37**, change `Faction Stealing =` to `true`.
+- In **Line 60**, change `No Attack Messages =` to `3`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 > An example of what the Faction Stealing tweak fixes is in Riverwood: Giving Embry, the local drunk, a bottle of ale will set your relationship with him to "friends". Unfortunately, because Embry is in the RiverwoodSleepingGiantInnFaction, this will allow you take whatever you want from the Inn without it counting as stealing which makes very little sense.

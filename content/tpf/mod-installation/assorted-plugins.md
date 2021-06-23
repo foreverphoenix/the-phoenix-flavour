@@ -63,12 +63,6 @@ Patch Horses = true
 
 * **Main Files:** YesImSure
 
-##### [No Attack Messages](https://www.nexusmods.com/skyrimspecialedition/mods/42621?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** No Attack Messages
-
 ##### [Sales Overflow Solved](https://www.nexusmods.com/skyrimspecialedition/mods/41625?tab=files)
 
 #### Download Instructions

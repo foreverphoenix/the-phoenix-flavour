@@ -73,8 +73,8 @@ By default, the player and NPCs carry their shields in their left hand when thei
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 22** add the following flags: `Flags=Player|NPC|FirstPerson`.
-- In **Line 34** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- In **Line 23** add the following flags: `Flags=Player|NPC|FirstPerson`.
+- In **Line 35** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
 - Press **CTRL+S** to save and close the window.
 
 > The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
