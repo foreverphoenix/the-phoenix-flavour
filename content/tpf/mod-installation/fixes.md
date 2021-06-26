@@ -172,12 +172,6 @@ description: >
 
 - **Main Files:** Word Wall Transparency Fix for ENB
 
-##### [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Fixed Dragon Stalking Fix
-
 ##### [Serana's Hood Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files)
 
 #### Download Instructions
@@ -204,7 +198,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.03c
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 

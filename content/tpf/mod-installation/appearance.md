@@ -187,6 +187,13 @@ description: >
 
 - **Main Files:** Authentic Eyes v1.1
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\character\eyes\eyewolfenvironmentmask_m.DDS`
+
+> The werewolf eye textures by KrittaKitty will look strange and too bright otherwise.
+
 ##### [Immersive Mouth and Teeth for Orcs](https://www.nexusmods.com/skyrimspecialedition/mods/27343?tab=files)
 
 #### Download Instructions

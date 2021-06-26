@@ -23,7 +23,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Adamant - A Perk Overhaul
-* **Optional Files:** Adamant Addons - Shrines and Amulets
+* **Optional Files:** Adamant - Shrines and Amulets
 
 ##### [Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files)
 

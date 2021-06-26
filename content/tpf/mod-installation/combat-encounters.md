@@ -12,6 +12,22 @@ description: >
 
 - **Main Files:** Blade and Blunt - A Combat Overhaul
 
+##### [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dragon War - A Dragon Overhaul
+- **Optional Files:** Dragon War - Variants
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Audio Overhaul for Skyrim Patch
+  - Deadly Spell Impacts Patch
+  - Dragon Animation Replacer Patch
+  - Durnehviir Resurrected Patch
+  - ~~Skyrim Unbound Reborn Patch~~
+
 ##### [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608?tab=files)
 
 #### Download Instructions

@@ -8,6 +8,10 @@ description: >
 
 > **TPF does not use any alternate start mod.** That means that you have to go through the usual carriage ride and intro sequence after starting a new game from the main menu. The glitch present in 4.0 Beta 7 has since been fixed but very rarely users reported other problems with the carriage ride that could usually be fixed with a restart. If you do encounter issues with the intro quest, please report them on Discord.
 
+**When should I set up my MCMs?**
+
+Don't wait too long with it but you should be fine if you play through the intro quest first. You can go through the instructions below either after entering Helgen, or exiting it, or even after the scenes in Riverwood before you are sent to speak with the Jarl in Whiterun.
+
 ## A Matter of Time
 
 The clock is hidden by default thanks to Kaio's edit of the MCM script so you only have to interact with its MCM if you want to enable it. You can tweak it or simply load my preset.
@@ -15,12 +19,6 @@ The clock is hidden by default thanks to Kaio's edit of the MCM script so you on
 If you want to try my personal AMOT preset, go to **Presets** and click **Load user settings** (see screenshot).
 
 ![Load AMOT Preset](/Pictures/tpf/mod-configuration/load-amot-preset.jpg)
-
-## All Geared Up Derivative
-
-- In the **NPC** tab, check **Enable Weapons**.
-
-![AllGUD MCM](/Pictures/tpf/mod-configuration/allgud-mcm.jpg)
 
 ## Cathedral Weathers
 
@@ -41,6 +39,13 @@ If you want to try my personal AMOT preset, go to **Presets** and click **Load u
 - In the **Presets** tab, click **Load User Settings**.
 
 ![moreHUD MCM](/Pictures/tpf/mod-configuration/morehud-mcm.jpg)
+
+## Simple Smithing (Overhaul)
+
+- In the **Settings** tab, uncheck **Allow Artefact Replication**.
+- In the **Settings** tab, uncheck **Allow Upgrade Unique Gear Levels**.
+
+![Simple Smithing Overhaul MCM](/Pictures/tpf/mod-configuration/sso-mcm.jpg)
 
 ## Timing Is Everything
 

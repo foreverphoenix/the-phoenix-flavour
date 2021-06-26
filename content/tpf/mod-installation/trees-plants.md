@@ -203,20 +203,6 @@ fWindGrassMultiplier=1.4
 
 - **Main Files:** The Phoenix Flavour - Grass Patch
 
-##### [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Cathedral - Plants
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\architecture\whiterun\wrtreealivebark01.dds`
-  - `textures\architecture\whiterun\wrtreeadeadbark01.dds`
-
-> I prefer the bark textures from Noble Skyrim.
-
 ##### [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files)
 
 #### Download Instructions

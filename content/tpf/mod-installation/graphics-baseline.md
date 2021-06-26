@@ -59,9 +59,10 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
-  * `meshes\architecture\solitude\doors\sgatedoor.nif`
+  - `meshes\actors\ambient\`
+  - `meshes\architecture\solitude\doors\sgatedoor.nif`
 
-> Deleting the gate mesh will allow us to use Noble Skyrim's superior retexture for the Solitude gate.
+> Deleting the gate mesh will allow us to use Noble Skyrim's superior retexture for the Solitude gate. The other folder contains a mesh for the rabbit which would overwrite another BSA-packed mesh later on; removing it is faster than unpacking the other mod's archives.
 
 ##### [Static Mesh Improvement Mod - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388?tab=files)
 

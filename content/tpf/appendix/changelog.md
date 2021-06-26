@@ -10,6 +10,31 @@ description: >
 
 > TBD
 
+- Adamant 5.0
+- Open World Loot integration (a new loot overhaul).
+- Increased performance impact due to new INI and DynDOLOD configurations.
+- Rudy ENB with Rudy's Cathedral Weathers tweaks and DLVaSS are now default.
+- A brand-new performance guide with various options to improve your FPS.
+- Grass Cache was removed. Pre-made facegen will now be provided for download.
+- Added Modular Armory which I made specifically for TPF.
+- Added Simple Smithing Overhaul with some tweaks.
+- More dense grass and better swamp grass.
+- Much better glacier and ice assets (multilayered parallax).
+- Switching from AllGUD to Simple Dual Sheath (AllGUD is now part of TPF-X).
+- Roboto Font Replacer was moved to TPF-X. Sovngarde Font is now TPF default.
+
+**About the Performance Guide:**
+
+As you may have noticed from the above feature list, TPF 4.6 is even more demanding on your hardware than previous versions. Our INI settings are now based on the BethINI High preset and the DynDOLOD configuration is on High with 3D tree LOD by default.
+
+However, you can still enjoy TPF on mid- to low-end hardware!
+
+The new performance guide covers a variety of performance improvements: Regenerating INI files, the return of Cathedral Landscapes for FPS-friendly grass, ENB alternatives, a performance configuration for DynDOLOD, and optionally scaling down the resolution.
+
+Users of the manual guide can apply whichever of the tweaks they like.
+
+For Wabbajack, there will be a second "Performance" profile available in Mod Organizer 2 with DynDOLOD on Medium with 2D tree LOD, optimised INI settings, and less FPS-hungry grass mods. The Game Folder Files folder will also include both Rudy ENB and Serio's ENB for you to choose from.
+
 **About Cathedral Assets Optimizer:**
 
 CAO updated multiple times in the past weeks but there were lingering issues with each new release and they once again reverted to the (stable) 5.0.15 which we used for a long time. The guide will do the same thing.
@@ -42,7 +67,6 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 - **New save required.**
 - Regenerate INI files ([instructions](/tpf/guide-resources/various-tutorials/#how-to-re-generate-ini-files-from-scratch)).
-- Regenerate AllGUD outputs ([instructions](/tpf/finalisation/allgud/))
 - Rerun TexGen, DynDOLOD, and Occlusion ([instructions](/tpf/guide-resources/how-to-update/#dyndolod)).
 - **Wabbajack:** Reinstall Game Folder Files (ENBSeries updated).
 
@@ -85,6 +109,8 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Fixes:** Added instructions to also download the Soul Gem Too Small file for Scrambled Bugs.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Updated No Animals Report Crimes download instructions (version number increased).
+- **Fixes:** Removed Fixed Dragon Stalking Fix (part of Dragon War - A Dragon Combat Overhaul).
+- **Fixes:** Updated download instructions for NPC AI Process Position Fix (file name changed).
 - **Fixes:** Added hank's Gamepad and Controller Fixes.
 - **Tweaks:** Updated FOMOD instructions for Dwemer Gates Don't Reset.
 - **Tweaks:** Removed No Hunting Bows for Followers (single record, now included in the CRP).
@@ -92,6 +118,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Interface:** Added Convenient Reading.
 - **Interface:** Moved Roboto Font Replacer to TPF-X.
 - **Interface:** Moved Sovngarde Font Replacer from TPF-X to the main guide. It's now the new default.
+- **Graphics Baseline:** Added instructions to delete the meshes\actors\ambient\ folder from Static Mesh Improvement Mod.
 - **Graphics Baseline:** Added Quality Cubemaps - HD Cube Maps.
 - **Graphics Baseline:** Moved aMidianBorn Book of Silence to the CREATURES step.
 - **Weather:** Moved Dynamic Volumetric Lighting and Sun Shadows here (from TPF-X).
@@ -115,6 +142,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Trees & Plants:** Removed INI tweak instructions for Veydosebrom Regions (moved to BethINI).
 - **Trees & Plants:** Added instructions to also download the High Poly Green Grass Update for Cathedral 3D Pine Grass.
 - **Trees & Plants:** Added The Phoenix Flavour - Grass Patch.
+- **Trees & Plants:** Removed Cathedral Plants (part of Base Coat).
 - **Trees & Plants:** Added Improved Gourds.
 - **Trees & Plants:** Added Rally's Blackreach Mushrooms.
 - **Architecture:** Removed Markarth - A Reflective Experience (tweaks part of The Dwemer).
@@ -163,12 +191,6 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Apparel & Weapons:** Removed Dragon Priest Weapons Improved (part of Modular Armory).
 - **Apparel & Weapons:** Added Modular Armory - Masks of the Dovah Sonaak Patch.
 - **Apparel & Weapons:** Added Unique Uniques Re-Ported.
-- **Creatures:** Added Particle Lights for ENB - Undead Creatures.
-- **Creatures:** Added additional instructions for HD Reworked Dragons 4K.
-- **Creatures:** Re-added RUSTIC DRAGONS.
-- **Creatures:** Re-added HD Serpentine Dragon and Mesh Fix.
-- **Creatures:** Updated download instructions for Deiform Alduin (using 4K textures instead of 8K).
-- **Creatures:** Added instructions to also download the Deiform Alduin Eyes textures.
 - **Unique Artifacts:** Merged with Apparel & Weapons page since most mods were consolidated into Modular Armory.
 - **Unique Artifacts:** Removed Unique Uniques.
 - **Unique Artifacts:** Removed Unique Uniques - Fixes.
@@ -182,9 +204,18 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Unique Artifacts:** Removed Remiros' Bloodskal Blade (part of Modular Armory).
 - **Unique Artifacts:** Removed Remiros' Hrothmund's Axe HD (part of Modular Armory).
 - **Unique Artifacts:** Removed Aevrigheim - Miraak's Sword and Staff Replacer (part of Modular Armory).
+- **Creatures:** Added Particle Lights for ENB - Undead Creatures.
+- **Creatures:** Updated download instructions for Real Rabbits HD.
 - **Creatures:** Removed Ancient Automatons (replaced by The Dwemer).
 - **Creatures:** Removed Ancient Dwemer Metal - Missing Forgemaster Fix (replaced by The Dwemer).
+- **Creatures:** Added additional instructions for HD Reworked Dragons 4K.
+- **Creatures:** Re-added RUSTIC DRAGONS.
+- **Creatures:** Re-added HD Serpentine Dragon and Mesh Fix.
+- **Creatures:** Updated download instructions for Deiform Alduin (using 4K textures instead of 8K).
+- **Creatures:** Added instructions to also download the Deiform Alduin Eyes textures.
 - **Appearance:** Added Superior Lore-Friendly Hair.
+- **Appearance:** Added instructions to delete a file from Authentic Eyes.
+- **Gameplay Overhauls:** Updated download instructions for Adamant - A Perk Overhaul (file name changed).
 - **Gameplay Overhauls:** Updated download instructions for Skyrim Uncapper - Adamant Arena (now using the Phoenix cut).
 - **Gameplay Overhauls:** Updated Forceful Tongue - Shouts Overhaul FOMOD instructions.
 - **Gameplay Overhauls:** Added Open World Loot.
@@ -195,7 +226,9 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Gameplay Overhauls:** Updated download instructions for Lightweight Smithing Tweaks.
 - **Gameplay Overhauls:** Added Enchanting Adjustments Updated.
 - **Improved Vanilla Quests:** Added Silence Is Golden.
+- **Combat & Encounters:** Added Dragon War - A Dragon Combat Overhaul.
 - **Combat & Encounters:** Removed Arena - An Encounter Zone Overhaul (replaced by Open World Loot).
+- **Combat & Encounters:** Removed Splendor - Dragon Variants (replaced by Dragon War - Variants).
 - **Combat & Encounters:** Added Briraka's Draugr Overhaul.
 - **Combat & Encounters:** Added Briraka's Draugr Overhaul - Cannibal Draugr Patch.
 - **Balancing:** This step is just too vague, moved everything to Gameplay Overhauls with some exceptions:
@@ -215,6 +248,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **New Content:** Added Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch.
 - **Miscellaneous:** No longer downloading Misc Tweaks - More Realistic Animal Loot.
 - **Miscellaneous:** Now also downloading the Misc Tweaks - Night Eye Redux - ENB Fix (was part of TPF-X).
+- **Miscellaneous:** Removed now redundant FOMOD instructions for Misc Tweaks - Shrines Don't Cure Diseases.
 - **Miscellaneous:** Added Imperial Military Camps.
 - **Assorted Plugins:** Added instructions for Enhanced Reanimation to manually create the INI file.
 - **Assorted Plugins:** Added instructions for Essential Favorites to manually create the INI file.
@@ -243,6 +277,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Wrapping Up:** Added Cathedral 3D Pine Grass to the list of plugins to ESL-ify.
 - **Wrapping Up:** Removed the music mod plugins from the list of plugins to ESL-ify.
 - **Facegen:** Removed this step. Premade facegen is now provided.
+- **Nemesis:** Added a note on a potential fix if Nemesis stalls at 99% progress.
 - **AllGUD:** Removed this step. We are now using Simple Dual Sheath. AllGUD was moved to TPF-X.
 - **Grass Cache:** This page was removed for the forseeable future.
 - **DynDOLOD:** Added INI Adjustments section (for expert mode and DVLaSS terrain underside mesh).
@@ -251,11 +286,19 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **DynDOLOD:** Removed instructions to manually delete the loading screens (done automatically by SSE Display Tweaks).
 - **ENBSeries:** Updated the page to refer to Rudy ENB instead of Serio's ENB.
 
+#### Mod Configuration
+
+- Added a clarification on when it is best to take care of configuring the MCMs.
+- Removed AllGUD MCM instructions.
+- Added Simple Smithing Overhaul MCM instructions.
+
 #### Appendix
 
 - **Changelog:** Removed pre-4.0 changelogs (no longer relevant and this page is getting too long).
 
 #### Conflict Resolution Patch
+
+**Changes by Phoenix:**
 
 - Fixed a few typos in Civil War Deserters
 - Removed Less Cure Disease Potions as a master
@@ -268,6 +311,70 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Removed AMB Armor Variants Lite as a master
 - Overwrote an unresolved error in Imperial Military Camps
 - Removed some edits that were workarounds for Skyrim Remastered - Glaciers and Ice
+
+**Umgak's general adjustments**
+
+- Removed any old edits that are no longer necessary.
+- Fixed many, many typos.
+- Forwarded Luminosity 4.2 values in various cell records.
+- Forceful Tongue FExxx80D "Ice Form" will now use Immersive Sounds firing noise.
+- Forwarded USSEP changes into 00054226 "Bronze Water Cave" and 000778F1 "Robber's Cove".
+- Made a specific Quicksilver Ingot (REFR: 000CD6F1) near Ennodius Papius accessible per USSEP (RW2 was reverting it).
+- Fixed far more books than I'm bothering to list. It's a lot, okay? Book Covers Skyrim needs an update.
+- Skyforge Steel Greatsword will now use WACCF values, minus its speed, per WACCF Greatsword Weapon Speed Tweaks.
+- Various bandit bosses have had the Skull Crusher and Bone Breaker perks removed per USSEP (the perks don't work correctly on the player and the NPCs don't even have the prerequisite perk).
+- Forwarded a couple of EDIDs (no gameplay changes).
+- Fixed a couple of incompatibilities between Better Dynamic Ash and SMIM near Hrodulf's House.
+- Fixed the Wolf Guardian Spirit Kyne's Sacred Trials being vulnerable to disintegrate and paralysis unlike regular ghosts, and not being affected by spells targeting Undead or Ghosts.
+- Corrected a clunky subtitle in the College of Winterhold questline.
+- Corrected a number of clunky subtitles in Tolfdir's dialog.
+- Ensured that three Aspen trees which Better Dawnguard Entrance requires to be removed remain removed, instead of being re-enabled by Aspens Ablaze.
+- Forwarded aspen tree position fixes from Landscape and Water Fixes, fixing a number of 'floating tree' errors.
+- Forwarded a USSEP fix into the Tier 75 Alteration spellbooks table from Mysticism, fixing an inconsistency present in vanilla in which all T75 spells will appear at character level 35, *except* for Alteration's, which only appear at both level 35 CL and 75 Alteration.
+- Corrected scrolls of Reanimate Corpse using the weaker Raise Zombie effect instead when using Mysticism. This bug is a vanilla bug which is corrected by USSEP.
+- Added VendorItemScroll keyword to Scroll of Dead Thrall.
+- Hid the Bound Battleaxe and Bound Bow FX enchantments from being shown in the magic UI as they were reverted by Adamant.
+- Removed Alteration as the magic skill for Khajiit Unarmed Damage effect.
+- Forwarded USSEP script edit into the Vampire reanimate effects from Scion, which should cause living actors hit by it to become hostile.
+- Forwarded USSEP's text into the vampire side of the Dawnguard questline "Prophet".
+- Removed Night Eye script from Forceful Tongue.
+- Gave Gormlaith's summoned form the inventory a period-accurate shield per BriDraugrOverhaul, but kept her FT perks and stats.
+- Reduced the number of enchanted robes received from Warlock chests from 2 to 1.
+- Forwarded a slot tweak on the Nightingale Helmet from WACCF to Reliquary of Myth so that it will no longer hide the Circlet slot.
+- Vendors will now be slightly disgusted at the propsect of buying human hearts.
+- Guards will now comment on the Ring of Namira being in your possession less often.
+- Guards will now comment less on the player smelling like a wet dog.
+- Corrected stats of Skyforge Steel Sword while still allowing Guards to comment on it.
+- Hunters will no longer speak in typos while talking about how their poaching isn't hurting anyone, and the Jarl can hardly eat every deer now can he.
+- Hunters will no longer speak in typos while saying that they'll conquer the Reach, they'll also not say that to animals.
+- The player now "owns" the Hearthfire bed (I mean, you built it yourself).
+- Removed the "How about my new home?" option from marriage dialogue as there are no new home mods in TPF.
+- Removed a glitched script from the "whining child" dialogue.
+- The children at Honorhall will no longer report you to the guards for murdering Grelod the Kind, because she sucks.
+- Repaired a large portion of the Adoption script.
+- Jaree-Ra's quest is now declinable.
+- Redoran Guards will now be a bit less forthcoming about the werewolves in the mountains, the Deathbrand treasure, or Ralis' expedition, instead saying these lines only once per day.
+- You can no longer 'feed' on a burnt spriggan. They don't have hearts. That's a burnt root, your wolf stomach can't process it.
+- Leveled prey animals are now less likely to spawn at Hearthfire homes. In vanilla, they were predators! but also still wouldnt spawn.
+- Removed a random light source from this one random goat's enable parent between Dawnstar and Whiterun.
+- Removed script from 000B72A0 "Slow" - Bug Fixes is handling the slow effect fixes now, so this old script and legacy item are unnecessary.
+- Mysticism's xx0CFBC1 "Ice Hazard" will now use the lovely Immersive Sounds firing noise.
+- Corrected Mysticism's xx445FCF "Inferno" noises.
+- Forwarded "On Local Map" flag to campfires in accordance with Embers HD, corrected OBND records (not that those really matter).
+
+**Umgak's adjustments for Adamant 5.0.0:**
+
+- Fixed Quick Draw for Weapon Speed Effects Fix.
+- Fixed Dual Flurry for Weapon Speed Effects Fix.
+- Gave Fire Rune its own unique projectile so that it can be distinct from the one from AOS.
+- Forwarded new Chain Lightning Explosion effect.
+- Forwarded new Reanimate spell.
+- Forwarded condition to Blizzard spell.
+- Forwarded new Firebrand perk effects.
+- Forwarded new Flames spell.
+- Forwarded AOS sounds to new Static Field and North Wind effects.
+- Forwarded new conditions and name to Perfect Fit.
+- Forwarded new conditions to DLC1DawnguardItemPerk.
 
 #### Wabbajack
 
@@ -283,22 +390,32 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated Skyrim Landscape and Water Fixes to 6.2
 - Updated No Animals Report Crimes to 1.0.3
 - Updated Bug Fixes SSE to 3
+- Updated NPC AI Process Position Fix to 4.05
 - Updated Equip Enchantment Fix to 1.2.4
 - Updated Dwemer Gates Don't Reset to 1.3.1
 - Updated WoW Dragon Mounds CTD Fix to 1.2
+- Updated Shadows Of Sunlight to 0.3
 - Updated Majestic Mountains - LOD Pack for DynDOLOD to 1.2
 - Updated Skyrim - A Mountainous Experience to 1.5.6
 - Updated Whiterun Mesh Fixes to 1.1.5
 - Updated Sovngarde HD to 3.1
+- Updated Real Rabbits HD to 1.3
 - Updated Deiform Alduin to 1.1 r
 - Updated Mild Complexions to 2.0
-- Updated Forceful Tongues - Shouts Overhaul to 2.3
+- Updated Adamant - A Perk Overhaul to 5.0.0
+- Updated Adamant - Shrines and Amulets to 5.0.1
+- Updated Aetherius - A Race Overhaul to 2.5.1
+- Updated Mundus - A Standing Stone Overhaul to 1.6.0
+- Updated Scion - A Vampire Overhaul to 1.2.0
+- Updated Forceful Tongues - Shouts Overhaul to 2.3.1
 - Updated Dragon Aspect Overhaul to 2.0
+- Updated Adamant - Trade and Barter Patch to 1.1
 - Updated Reliquary of Myth to 3.9.2
 - Updated Cannibal Draugr on Solstheim to 2.2
 - Updated Forsworn Gravesingers to 1.0.1
 - Updated Tweaks for WACCF and ACE to 1.6
 - Updated Immersive Dragons to 1.4
+- Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.7
 - Updated Classic Paralysis to 2.1
 - Updated Enhanced Reanimation to 1.3
 - Updated Essential Favorites to 2.1

@@ -127,11 +127,11 @@ description: >
 * **HD Beehive Texture:** 1024×1024
 * **HD Apiary Texture:** 2048×2048
 
-##### [Real Rabbit](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
+##### [Real Rabbits HD](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Real Rabbits HD - Replacer
+* **Main Files:** Real Rabbits HD - Fluffy
 
 ##### [Better Than Nando’s](https://www.nexusmods.com/skyrimspecialedition/mods/1046?tab=files)
 

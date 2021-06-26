@@ -23,10 +23,6 @@ description: >
 
 - **Plugin:** AI Overhaul Compatible Plugin
 
-#### FOMOD Instructions - Shrines Don't Cure Diseases
-
-- **Plugin:** Adamant Shrines Version
-
 ##### [Faster Mining Plus](https://www.nexusmods.com/skyrimspecialedition/mods/2656?tab=files)
 
 #### Download Instructions
