@@ -98,12 +98,6 @@ description: >
 - **Main Files:** No Road Predators
 - **Main Files:** No Road Predators - Less Predators Addon
 
-##### [Splendor - Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Splendor - Dragon Variants
-
 ##### [Sable's Bits and Bobs - Steam Driven Automatons](https://www.nexusmods.com/skyrimspecialedition/mods/40225?tab=files)
 
 #### Download Instructions
