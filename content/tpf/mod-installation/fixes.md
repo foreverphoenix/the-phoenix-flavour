@@ -198,7 +198,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05b
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 

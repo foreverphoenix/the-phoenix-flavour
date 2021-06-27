@@ -67,6 +67,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 - **New save required.**
 - Regenerate INI files ([instructions](/tpf/guide-resources/various-tutorials/#how-to-re-generate-ini-files-from-scratch)).
+- Update [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-82-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/), delete your old terrain LOD output, and regenerate it ([instructions](/tpf/finalisation/sselodgen/)).
 - Rerun TexGen, DynDOLOD, and Occlusion ([instructions](/tpf/guide-resources/how-to-update/#dyndolod)).
 - **Wabbajack:** Reinstall Game Folder Files (ENBSeries updated).
 
@@ -267,6 +268,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Skeleton & Animations:** Moved All Geared Up Derivative (AllGUD) to TPF-X.
 - **Skeleton & Animations:** Moved AllGUD Conditions Fix to TPF-X.
 - **Skeleton & Animations:** Added Simple Dual Sheath.
+- **Skeleton & Animations:** Added instructions to remove some files from Dragon Animations Replacer.
 - **Utilities:** Removed Private Profile Redirector (apparently it still does mess up ENBs).
 - **Utilities:** Updated download instructions for Spell Perks Item Distributor (file name changed).
 
@@ -378,6 +380,8 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 #### Wabbajack
 
+In 4.6, I removed the Tools folder in Mod Organizer 2. The primary reason for this is that it should not be used anyway: At least any LOD generating tools are supposed to be installed and generate output *outside* of MO2 directories. Additionally, Wabbajack users are not meant to use these tools anyway. If for whatever reason you absolutely need to rerun DynDOLOD, etc, you can refer to the manual guide for installation instructions (but there will be no support).
+
 - Regenerated INIs
 - Reverted to Cathedral Assets Optimizer 5.1.3
 - Updated Mod Organizer 2 to 2.4.2
@@ -390,7 +394,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated Skyrim Landscape and Water Fixes to 6.2
 - Updated No Animals Report Crimes to 1.0.3
 - Updated Bug Fixes SSE to 3
-- Updated NPC AI Process Position Fix to 4.05
+- Updated NPC AI Process Position Fix to 4.05b
 - Updated Equip Enchantment Fix to 1.2.4
 - Updated Dwemer Gates Don't Reset to 1.3.1
 - Updated WoW Dragon Mounds CTD Fix to 1.2
@@ -403,8 +407,8 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - Updated Deiform Alduin to 1.1 r
 - Updated Mild Complexions to 2.0
 - Updated Adamant - A Perk Overhaul to 5.0.0
-- Updated Adamant - Shrines and Amulets to 5.0.1
-- Updated Aetherius - A Race Overhaul to 2.5.1
+- Updated Adamant - Shrines and Amulets to 5.0.3
+- Updated Aetherius - A Race Overhaul to 2.5.2
 - Updated Mundus - A Standing Stone Overhaul to 1.6.0
 - Updated Scion - A Vampire Overhaul to 1.2.0
 - Updated Forceful Tongues - Shouts Overhaul to 2.3.1

@@ -117,6 +117,12 @@ Regenerating TexGen should not be necessary. You could, in theory, to lower the 
 
 - Download the [**STEP DynDOLOD Performance Profile**](https://stepmodifications.org/wiki/images/c/c7/DynDOLOD_SSE_Performance.ini) (once again, thanks to STEP for allowing me to use their configurations!).
 - Save the **DynDOLOD_SSE_Optimal.ini** to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Presets\`.
+- Open the INI file in Notepad++.
+- Near the top, in **Line 2**, change the output folder to be within your DynDOLOD installation folder.
+- For me, that would be: `F:\Modding\Skyrim SE Mods\Tools\DynDOLOD 3.0 Alpha 33\DynDOLOD_Output\`.
+- Save your changes and close Notepad++.
+
+![DynDOLOD Preset Output](/Pictures/tpf/finalisation/dyndolod-preset-output.png)
 
 ### Regenerating DynDOLOD
 
@@ -125,7 +131,7 @@ Regenerating TexGen should not be necessary. You could, in theory, to lower the 
 - The **DynDOLOD Presets** folder should be opened automatically, double-click the **DynDOLOD_SSE_Optimal.ini**.
 - In the **Options** section at the bottom, check **Generate Tree LOD** (this will toggle off the **Ultra** setting).
 
-If you have *very* low-end specs (Skyrim SE minimum requirements or below), select the **Low** preset. This will largely remove DynDOLOD's performance impact. Otherwise, the loaded preset will be using the **Medium** mesh rules.
+If you have *very* low-end specs (Skyrim SE minimum requirements or below), select the **Low** preset. This will largely remove DynDOLOD's performance impact.
 
 - Click **OK** to start generating LOD.
 

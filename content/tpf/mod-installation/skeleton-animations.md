@@ -158,6 +158,18 @@ fInAirFallingCharGravityMult=1.8
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\actors\dragon\animations\ground_bite.hkx`
+  - `meshes\actors\dragon\animations\ground_biteleft.hkx`
+  - `meshes\actors\dragon\animations\ground_biteright.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhip.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipleft.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipright.hkx`
+
+> Adjusted versions of these behaviours are included in Dragon War - A Dragon Combat Overhaul.
+
 ##### [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 
 #### Download Instructions

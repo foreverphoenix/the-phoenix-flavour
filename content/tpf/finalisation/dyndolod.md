@@ -85,9 +85,21 @@ Some of the TexGen settings were adopted from the [STEP guide for SSE](https://s
 
 DynDOLOD has a multitude of features and settings through which performance impact and visual improvements can be balanced out. I've chosen to defer to the expertise of the STEP team who have spend vastly more time than me experimenting with various DynDOLOD settings. With their permission, I have included their Optimal preset for DynDOLOD 3.00 created for the [STEP Skyrim SE guide](https://stepmodifications.org/wiki/SkyrimSE:2.0.0).
 
+### DynDOLOD Preset
+
 - Click [here](https://stepmodifications.org/wiki/images/3/30/DynDOLOD_SSE_Optimal.ini) to download the STEP Optimal preset for DynDOLOD.
 - Save the **DynDOLOD_SSE_Optimal.ini** to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Presets\`.
+- Open the INI file in Notepad++.
+- Near the top, in **Line 2**, change the output folder to be within your DynDOLOD installation folder.
+- For me, that would be: `F:\Modding\Skyrim SE Mods\Tools\DynDOLOD 3.0 Alpha 33\DynDOLOD_Output\`.
+- Save your changes and close Notepad++.
+
+![DynDOLOD Preset Output](/Pictures/tpf/finalisation/dyndolod-preset-output.png)
+
+### Run DynDOLOD
+
 - Run **DynDOLOD** through Mod Organizer 2.
+- Make sure all worldspaces in the top left box are ticked.
 - Click **Load Preset** (one of the buttons on the bottom left).
 - The DynDOLOD Presets folder should be opened automatically, double-click the **DynDOLOD_SSE_Optimal.ini**.
 - Click **OK** to start generating LOD.
@@ -100,7 +112,7 @@ DynDOLOD has a multitude of features and settings through which performance impa
 
 - Once DynDOLOD is done, click **Save & Exit**.
 - Navigate to `\Your Modding Folder\Tools\DynDOLOD\`.
-- Cut (CTRL+X) the **DynDOLOD_output** folder and paste it (CTRL+V) to `\Mod Organizer 2\mods\`.
+- Cut (CTRL+X) the **DynDOLOD_Output** folder and paste it (CTRL+V) to `\Mod Organizer 2\mods\`.
 - Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
 - Place it last below the **PATCHER OUTPUT** separator and activate it.
 - Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
