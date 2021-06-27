@@ -24,9 +24,11 @@ description: >
 - **Patches:**
   - Audio Overhaul for Skyrim Patch
   - Deadly Spell Impacts Patch
+  - Deiform Alduin Patch
   - Dragon Animation Replacer Patch
   - Durnehviir Resurrected Patch
   - ~~Skyrim Unbound Reborn Patch~~
+  - ~~Wyrmstooth Patch~~
 
 ##### [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608?tab=files)
 

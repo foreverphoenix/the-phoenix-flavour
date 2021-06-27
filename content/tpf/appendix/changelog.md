@@ -109,6 +109,10 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Fixes:** Added instructions to also download the Scrambled Eggchantments main file for Scrambled Bugs.
 - **Fixes:** Added instructions to also download the Soul Gem Too Small file for Scrambled Bugs.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
+- **Fixes:** Added Assorted Mesh Fixes.
+- **Fixes:** Added Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch.
+- **Fixes:** Added Dlizzio's Mesh Fixes.
+- **Fixes:** Added Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch.
 - **Fixes:** Updated No Animals Report Crimes download instructions (version number increased).
 - **Fixes:** Removed Fixed Dragon Stalking Fix (part of Dragon War - A Dragon Combat Overhaul).
 - **Fixes:** Updated download instructions for NPC AI Process Position Fix (file name changed).
@@ -119,21 +123,33 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Interface:** Added Convenient Reading.
 - **Interface:** Moved Roboto Font Replacer to TPF-X.
 - **Interface:** Moved Sovngarde Font Replacer from TPF-X to the main guide. It's now the new default.
+- **Graphics Baseline:** Added Dlizzio's Mesh Fixes - HD LODs Textures SE Mesh Fix.
 - **Graphics Baseline:** Added instructions to delete the meshes\actors\ambient\ folder from Static Mesh Improvement Mod.
+- **Graphics Baseline:** Added SMIM - Assorted Mesh Fixes Patch.
+- **Graphics Baseline:** Added Unofficial Material Fix.
+- **Graphics Baseline:** Added Unofficial Material Fix - Assorted Mesh Fixes Patch.
+- **Graphics Baseline:** Added SMIM - Quality Addon - Unofficial Material Fix Patch.
 - **Graphics Baseline:** Added Quality Cubemaps - HD Cube Maps.
+- **Graphics Baseline:** Added instructions to also create a projectednormal.dds from Noble Skyrim's snow01_n.dds texture.
+- **Graphics Baseline:** Added Dlizzio's Mesh Fixes - Noble Skyrim Material Fix.
 - **Graphics Baseline:** Moved aMidianBorn Book of Silence to the CREATURES step.
+- **Graphics Baseline:** Added Unofficial Material Fix - High Poly Project Patch.
 - **Weather:** Moved Dynamic Volumetric Lighting and Sun Shadows here (from TPF-X).
 - **Weather:** Moved Rudy ENB - Cathedral Weathers here (from TPF-X).
 - **Lighting:** Updated download instructions for Luminosity (now using the new 4.2 version).
 - **Visual FX:** Added TB's Improved Dust Particles.
+- **Visual FX:** Removed Ljoss - Mage Light Fix.
+- **Visual FX:** Removed Fire Halo Remover (covered by Dlizzio's Mesh Fixes).
 - **Visual FX:** Moved Bright Snow Fix here (from TPF-X).
 - **Landscape:** Removed Majestic Mountains - Mesh Tangent Space Fixes (incorporated in Skyrim - A Mountainous Experience).
 - **Landscape:** Moved Skyrim - A Mountainous Experience (previously called Markarth - a Mountainous Experience) here.
 - **Landscape:** Added a note to Moss Rocks to explain why we're using it instead of Majestic Mountains' moss module.
+- **Landscape:** Added WalkWayCWall01 NIF - SLaWF SMIM BDS Patch.
 - **Landscape:** Updated Skyrim Remastered - Glaciers and Ice download instructions.
 - **Landscape:** Removed Skyrim 3D Icefloes.
 - **Landscape:** Added Glacierslab.
 - **Landscape:** Added SC - Glacierslab Addon.
+- **Landscape:** Added Assorted Mesh Fixes - SMIM - Really Blended Roads Patch.
 - **Trees & Plants:** Changed download instructions for Enhanced Vanilla Trees.
 - **Trees & Plants:** Updated FOMOD instructions for Enhanced Vanilla Trees.
 - **Trees & Plants:** Added Aspens Ablaze Add-On - DynDOLOD 3.
@@ -147,6 +163,8 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Trees & Plants:** Added Improved Gourds.
 - **Trees & Plants:** Added Rally's Blackreach Mushrooms.
 - **Architecture:** Removed Markarth - A Reflective Experience (tweaks part of The Dwemer).
+- **Architecture:** Removed Solitude Mesh Fixes (all fixes contained in Assorted Mesh Fixes and another patch).
+- **Architecture:** Added Unofficial Material Fix - Stone Solitude Castle Floor.
 - **Architecture:** Removed Castle Volkihar Reborn.
 - **Architecture:** Added CC's Castle Volkihar Remastered.
 - **Misc Structures:** Added Remiros' Dunmer Urns HD.

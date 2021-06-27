@@ -90,6 +90,32 @@ description: >
 
 - **Main Files:** No Grass In Caves
 
+##### [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Assorted mesh fixes
+
+##### [Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
+
+> The original [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621) is no longer needed. All its tweaks are contained in Assorted Mesh Fixes and this patch.
+
+##### [Dlizzio's Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dlizzio's Mesh Fixes
+
+##### [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=description)
+
+#### Download Instructions
+
+- **Main Files** Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions

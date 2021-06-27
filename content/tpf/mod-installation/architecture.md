@@ -74,12 +74,6 @@ description: >
 
 * Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
 
-##### [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Solitude Mesh Fixes
-
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 
 #### Download Instructions
@@ -100,6 +94,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** 3D Solitude Market Trellis
+
+##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Unofficial Material Fix - Stone Solitude Castle Floor
 
 ##### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292?tab=files)
 

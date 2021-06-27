@@ -40,6 +40,12 @@ description: >
 
 - **Main Files:** HD Lods Textures SE 1K V9.3 - DynDOLOD version
 
+##### [Dlizzio's Mesh Fixes - HD LODs Textures SE Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** HD LODs Textures SE Mesh Fix
+
 ##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
 #### Download Instructions
@@ -88,6 +94,32 @@ description: >
 
 - **Optional Files:** WM’s Flora Fixes - SMIM Patch
 
+##### [SMIM - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM - Assorted Mesh Fixes Patch
+
+##### [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unofficial Material Fix
+
+##### [Unofficial Material Fix - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM - Assorted Mesh Fixes Patch
+
+> Keep this mod page open, we need another file from it.
+
+##### [SMIM - Quality Addon - Unofficial Material Fix Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM - Quality Addon - Unofficial Material Fix Patch
+
 ##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 
 #### Download Instructions
@@ -111,12 +143,19 @@ description: >
 
 - Right-click **Noble Skyrim Mod** in your mod order and select **Open in Explorer**.
 - Double-click the **textures** folder and create a new **effects** folder inside.
-- Open the **landscape** folder and copy the **snow01.dds** texture.
-- Paste the texture into the new **textures\effects** folder.
-- Rename the copied texture to **projecteddiffuse.dds**.
+- Open the **landscape** folder and copy the **snow01.dds** and **snow01_n.dds** texture.
+- Paste the textures into the new **textures\effects** folder.
+- Rename the copy of **snow01.dds** to **projecteddiffuse.dds**.
+- Rename the copy of **snow01_n.dds** to **projectednormal.dds**.
 - The resulting file path should be `textures\effects\projecteddiffuse.dds`.
 
 > The projecteddiffuse.dds is applied by the snow shader to various objects like rocks, roads, etc. If it does not perfectly match the regular snow01.dds texture, it will be very noticeable ingame as you can see [in this comparison](https://imgsli.com/NDY1OTk).
+
+##### [Dlizzio's Mesh Fixes - Noble Skyrim Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Noble Skyrim Material Fix
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 
@@ -250,3 +289,9 @@ description: >
   - ~~Riften 3D Leaves~~
 - **No Snow Under the Roof Patch:**
   - ~~Statues~~
+
+##### [Unofficial Material Fix - High Poly Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Unofficial Material Fix - High Poly Project patch
