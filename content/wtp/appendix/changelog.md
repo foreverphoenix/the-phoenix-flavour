@@ -6,6 +6,26 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6.2
+
+> 27/06/2021
+
+This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack update to 2.5.0.0, I had to recompile anyway.
+
+Update your **Game Folder Files** to get the new ENBSeries binaries. The update is **save safe**.
+
+#### Mod Changes
+
+- Updated ENBSeries to 0.458
+- Updated the Unofficial Fallout 4 Patch to 2.1.3
+- Updated Buffout to 1.23.1
+- Updated Workshop Framework to 2.0.15a
+- Updated FallUI - Inventory to 1.13.3
+- Updated FallUI - HUD to 1.4
+- Updated Console Commands Extender to 1.2.0
+- Maybe fixed UI elements sometimes being misaligned
+- Fixed a few minor issues in Home Plate (thanks C19i)
+
 ## Release 1.6.1
 
 > 04/06/2021
