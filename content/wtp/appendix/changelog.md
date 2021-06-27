@@ -12,8 +12,11 @@ description: >
 
 This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack update to 2.5.0.0, I had to recompile anyway.
 
+Update your **Game Folder Files** to get the new ENBSeries binaries. The update is **save safe**.
+
 #### Mod Changes
 
+- Updated ENBSeries to 0.458
 - Updated the Unofficial Fallout 4 Patch to 2.1.3
 - Updated Buffout to 1.23.1
 - Updated Workshop Framework to 2.0.15a
