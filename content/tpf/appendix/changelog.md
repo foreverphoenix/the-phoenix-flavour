@@ -314,6 +314,8 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 - Removed Game Resolution section (Wabbajack adjusts the resolution automatically to match your monitor).
 - Updated the Game Folder Files instructions to account for the two different ENB presets that are now available.
+- Removed VSYNC instructions (VSYNC is now enabled by default).
+- Updated instructions in the Uncap Framerate section.
 
 #### Mod Configuration
 
