@@ -112,13 +112,6 @@ Some files must be moved into the root folder which cannot be managed by Mod Org
 
 ![Game Folder Files](/Pictures/tpf/wabbajack/game-folder-files.png)
 
-### Game Resolution
-
-By default, the game is set to run at 1440p which is very demanding. You should lower the resolution to 1080p if you have a 1080p monitor and/or weaker hardware. If you have a 1440p monitor but weaker hardware, you need to also enable BorderlessUpscaling in SSE Display Fixes. See the links below for instructions.
-
-- [How to change the game's resolution](/tpf/guide-resources/various-tutorials/#how-to-change-the-games-resolution)
-- [How to play below your monitor's native resolution](/tpf/appendix/troubleshooting/#skyrim-launches-in-a-small-window)
-
 ### Enable VSYNC
 
 VSYNC is disabled by default as I am playing on a GSYNC monitor. If you do not have either FreeSync or GSYNC, you need to re-enable VSYNC in SSE Display Fixes, otherwise you will encounter screentearing.

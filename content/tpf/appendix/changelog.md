@@ -312,6 +312,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 
 #### Wabbajack
 
+- Removed Game Resolution section (Wabbajack adjusts the resolution automatically to match your monitor).
 - Updated the Game Folder Files instructions to account for the two different ENB presets that are now available.
 
 #### Mod Configuration
