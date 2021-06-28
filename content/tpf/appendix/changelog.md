@@ -90,9 +90,7 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **Creation Kit:** Fixed link to Betheda.net being localised (it would open the German version, oops).
 - **Mod Organizer 2:** Updated link and picture for MO2 2.4.2 (latest).
 - **Mod Organizer 2:** Added a new Splash Screen section.
-- **INI Files:** Updated BethINI - Detail instructions (increased Detail Draw Distance).
-- **INI Files:** Updated BethINI - View Distance (re-added tweak to grass fade).
-- **INI Files:** Updated BethINI - Visuals instructions (increased tree fade distance and tweaked grass settings).
+- **INI Files:** Updated almost all steps in the BethINI configuration (now based on the High preset).
 - **Additional Tools:** Updated instructions for CAO (reverted to 5.0.15).
 - **Additional Tools:** Removed instructions for Modwat.ch (no longer necessary with Load Order Library).
 
