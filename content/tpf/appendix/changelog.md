@@ -310,6 +310,10 @@ I finally decided to move all mods adding to music, including my merged plugin, 
 - **DynDOLOD:** Removed instructions to manually delete the loading screens (done automatically by SSE Display Tweaks).
 - **ENBSeries:** Updated the page to refer to Rudy ENB instead of Serio's ENB.
 
+#### Wabbajack
+
+- Updated the Game Folder Files instructions to account for the two different ENB presets that are now available.
+
 #### Mod Configuration
 
 - Added a clarification on when it is best to take care of configuring the MCMs.

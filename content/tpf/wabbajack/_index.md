@@ -103,9 +103,14 @@ Wait until Wabbajack has finished installing TPF before moving on to the next st
 
 Some files must be moved into the root folder which cannot be managed by Mod Organizer 2. You need to move them by hand.
 
-- Navigate to your TPF installation `C:\The Phoenix Flavour\`.
-- Double-click the **Game Folder Files** folder and copy all files within.
-- Navigate to your Skyrim SE root folder `Steam\steamapps\common\Skyrim Special Edition` and paste all files.
+- Navigate to your TPF installation `\The Phoenix Flavour\`.
+- Double-click the **Game Folder Files** folder and copy all files within (but not the folders).
+- Navigate to your Skyrim SE root folder `\Steam\steamapps\common\Skyrim Special Edition\` and paste all files.
+- Choose one of the ENB presets: Rudy ENB (quality) or Serio's ENB (performance).
+- Double-click the respective folder and copy the contents.
+- Paste them into your root folder `\Steam\steamapps\common\Skyrim Special Edition\` as well.
+
+![Game Folder Files](/Pictures/tpf/wabbajack/game-folder-files.png)
 
 ### Game Resolution
 
