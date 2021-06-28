@@ -8,9 +8,13 @@ description: >
 
 ## Release 4.6
 
-> TBD
+> 28/06/2021
 
-- Adamant 5.0
+The Phoenix Flavour 4.6 is probably the most substantial update since 4.0 came out. I'm overall very happy with everything I managed to squeeze in and for the first time since TPF originally came out, I have no immediate plans for the next update.
+
+**Please consider 4.6 a beta release.** Like all major updates, this, too, is likely to contains oversights, typos, missing links, wrong FOMOD instructions, or my trademark cut-off sentences. Please bear with me and report your findings on Discord (`#tpf-feedback`). Wait for 4.6.1 if you'd rather have a more polished experience.
+
+- Adamant 5 and other SimonRim updates.
 - Open World Loot integration (a new loot overhaul).
 - Increased performance impact due to new INI and DynDOLOD configurations.
 - Rudy ENB with Rudy's Cathedral Weathers tweaks and DLVaSS are now default.
@@ -405,6 +409,7 @@ In 4.6, I removed the Tools folder in Mod Organizer 2. The primary reason for th
 - Updated Mod Organizer 2 to 2.4.2
 - Updated ENBSeries to 0.454
 - Updated SSE Display Tweaks 0.4.15-1
+- Updated More Informative Console to 0.43
 - Updated Dear Diary - Better More Informative Console to 1.2
 - Updated Unofficial Skyrim Special Edition Patch to 4.2.5b
 - Updated Weapons Armor Clothing and Clutter Fixes to 2.4
@@ -424,7 +429,7 @@ In 4.6, I removed the Tools folder in Mod Organizer 2. The primary reason for th
 - Updated Real Rabbits HD to 1.3
 - Updated Deiform Alduin to 1.1 r
 - Updated Mild Complexions to 2.0
-- Updated Adamant - A Perk Overhaul to 5.0.0
+- Updated Adamant - A Perk Overhaul to 5.0.1
 - Updated Adamant - Shrines and Amulets to 5.0.3
 - Updated Aetherius - A Race Overhaul to 2.5.2
 - Updated Mundus - A Standing Stone Overhaul to 1.6.0
@@ -670,7 +675,7 @@ It is done! TPF 4.5 is the biggest update since 4.0 and I spent altogether too l
 
 - **Prince and the Pauper:** While the FOMOD includes a Gamwich retexture option, most of the included clothing is still painfully low res. There *is* an upscale on the Nexus but frankly it cannot really be described as a visual improvement. I prefer having a smaller collection of children's clothing with consistently high quality textures.
 - **JK's Cities Lite:** Has some issues with clipping and flickering that I cannot fix (no permissions) and the author of the lite version has been inactive for a long, long time.
-- **Arthmoor's town additions:** Aka Arthmoor's awkwardly squeezed in houses. They don't look great and nobody is going to actually notice that some NPCs don't have homes.
+- **Arthmoor's town additions:** Aka Arthmoor's awkwardly-squeezed-in houses. They don't look great and nobody is going to actually notice that some NPCs don't have homes.
 - **Cathedral Landscapes:** A great concept that never received the updates and improvements it desperately needed. We switched to other mods that offer better grass and a similar degree of distant blending with custom terrain LOD.
 
 #### Initial Setup

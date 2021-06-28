@@ -66,7 +66,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.42
+* **Main Files:** More Informative Console 0.43
 
 ##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
