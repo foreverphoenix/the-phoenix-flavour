@@ -22,7 +22,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Luminosity - Lightweight Lighting
+* **Main Files:** Cathedral - Luminosity
 
 ##### [Luminosity - A Quality World Map Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30162?tab=files)
 

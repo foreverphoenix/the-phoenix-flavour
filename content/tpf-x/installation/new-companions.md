@@ -1,6 +1,6 @@
 ---
 title: "New Companions"
-weight: 5
+weight: 6
 type: docs
 description: >
   Inigo, Lucien, and related mods.

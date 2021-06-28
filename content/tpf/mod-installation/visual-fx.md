@@ -81,6 +81,12 @@ description: >
 - **Main Files:** Grindstones - Vanilla Sparks
 - **Main Files:** Impact Effects - Vanilla Sparks >> `merge with the first file`
 
+##### [TB's Improved Dust Particles](https://www.nexusmods.com/skyrimspecialedition/mods/39003?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** TB's Improved Dust Particles
+
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
 #### Download Instructions
@@ -93,17 +99,11 @@ description: >
 
 * **Main Files:** Reduced Glow FX SE
 
-##### [Ljoss ENB - Magelight Fix](https://www.nexusmods.com/skyrimspecialedition/mods/30971?tab=files)
+##### [Bright Snow Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41737?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** Fix overbright magelight and College of Winterhold lights
-
-##### [Fire Halo Remover](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Fire Halo Remover
+- **Main Files:** Bright Snow Fix
 
 ##### [Less Distracting Blowing Snow Effects for ENB Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36198?tab=files)
 

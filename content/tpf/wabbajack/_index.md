@@ -1,6 +1,6 @@
 ---
 title: "Wabbajack"
-weight: 5
+weight: 6
 type: docs
 description: >
   Setup instructions for the Wabbajack version of TPF.
@@ -103,33 +103,23 @@ Wait until Wabbajack has finished installing TPF before moving on to the next st
 
 Some files must be moved into the root folder which cannot be managed by Mod Organizer 2. You need to move them by hand.
 
-- Navigate to your TPF installation `C:\The Phoenix Flavour\`.
-- Double-click the **Game Folder Files** folder and copy all files within.
-- Navigate to your Skyrim SE root folder `Steam\steamapps\common\Skyrim Special Edition` and paste all files.
+- Navigate to your TPF installation `\The Phoenix Flavour\`.
+- Double-click the **Game Folder Files** folder and copy all files within (but not the folders).
+- Navigate to your Skyrim SE root folder `\Steam\steamapps\common\Skyrim Special Edition\` and paste all files.
+- Choose one of the ENB presets: Rudy ENB (quality) or Serio's ENB (performance).
+- Double-click the respective folder and copy the contents.
+- Paste them into your root folder `\Steam\steamapps\common\Skyrim Special Edition\` as well.
 
-### Game Resolution
-
-By default, the game is set to run at 1440p which is very demanding. You should lower the resolution to 1080p if you have a 1080p monitor and/or weaker hardware. If you have a 1440p monitor but weaker hardware, you need to also enable BorderlessUpscaling in SSE Display Fixes. See the links below for instructions.
-
-- [How to change the game's resolution](/tpf/guide-resources/various-tutorials/#how-to-change-the-games-resolution)
-- [How to play below your monitor's native resolution](/tpf/appendix/troubleshooting/#skyrim-launches-in-a-small-window)
-
-### Enable VSYNC
-
-VSYNC is disabled by default as I am playing on a GSYNC monitor. If you do not have either FreeSync or GSYNC, you need to re-enable VSYNC in SSE Display Fixes, otherwise you will encounter screentearing.
-
-- Double-click **SSE Display Tweaks** in Mod Organizer 2 (below the ESSENTIAL MODS separator near the top).
-- Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
-- Scroll to **Line 71** and change `EnableVSync=` to `true`.
-- Close the window and click **Yes** to save your change.
+![Game Folder Files](/Pictures/tpf/wabbajack/game-folder-files.png)
 
 ### Uncap Framerate
 
-Since we are using SSE Display Tweaks, it is possible to uncap the framerate without breaking the game. However, for this you must disable native VSYNC which means you will suffer from screentearing unless your monitor is capable of G-Sync or FreeSync.
+Since we are using SSE Display Tweaks, it is possible to uncap the framerate without breaking the game.
 
+- Navigate to your TPF installation `\The Phoenix Flavour\` and double-click **ModOrganizer.exe**.
 - Double-click **SSE Display Tweaks** in Mod Organizer 2 (below the ESSENTIAL MODS separator near the top).
 - Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
-- Scroll to **Line 205** and change `Frameratelimit=` to your desired value.
+- Scroll to **Line 207** and change `Frameratelimit=` to your desired value.
 - Close the window and click **Yes** to save your change.
 
 ## Playing TPF

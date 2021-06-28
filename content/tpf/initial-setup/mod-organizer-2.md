@@ -10,7 +10,7 @@ description: >
 
 Mod Organizer 2 is the king of mod managing software for Bethesda games and TPF fully relies on its features. Any claims of MO2 being especially difficult to use are essentially myths perpetuated by inexperienced users. At the end of the TPF setup, you will be able to confidently handling a large mod setup with MO2.
 
-- Download the archive version of [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/tag/v2.4.0) from Github.
+- Download the archive version of [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/tag/v2.4.2) from Github.
 
 ![MO2 Download](/Pictures/tpf/initial-setup/mo2-download.png)
 
@@ -143,6 +143,18 @@ While we're at it, we should create another separator which we'll need in the ne
 - Once again, click the **Tools** icon above the mod order.
 - Select **Create Separator** and enter **"ESSENTIAL MODS"** as the name.
 - Click **OK** and your new separator will appear at the bottom of your mod order where you should leave it for now.
+
+## Splash Screen
+
+Now comes the final touch: When you open MO2, you can see the default splash screen (the MO2 name and logo) before the app fully launches. Now ask yourself: Can we call ourselves modders if we don't mod this, too?
+
+- Close Mod Organizer 2.
+- Download [Mod Organizer 2 Splash Screen - Intro Title Style](https://www.nexusmods.com/skyrimspecialedition/mods/51391?tab=files) manually from the Nexus.
+- Open the download archive and double-click the **Splash - TPF** folder inside.
+- Drop the **splash.png** into your Mod Organizer 2 installation folder (the one containing ModOrganizer.exe).
+- Re-open Mod Organizer 2 to see your cool new splash screen (and to continue with the guide).
+
+> Thanks a ton to **sneaky-witch-thief** who created the splash screens and added a TPF-themed one specifically for us! <i class="fas fa-heart"></i>
 
 ---
 

@@ -52,6 +52,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 - **Main Files:** Rallys Fishing Pole
 
+##### [Metallurgy - Ingots and Ore HD](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Metallurgy - Ingots Ore and Veins HD 1K (LOOSE)
+
 ##### [Realistic HD Pickaxe Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/20168?tab=files)
 
 #### Download Instructions
@@ -98,6 +104,13 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 #### Download Instructions
 
 * **Main Files:** RUSTIC CLUTTER COLLECTION - Special Edition - 2K
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\clutter\dwemer\`
+
+> The textures for the Dwemer pottery should be supplied by The Dwemer for consistency.
 
 ##### [Medieval Silverworks](https://www.nexusmods.com/skyrimspecialedition/mods/23938?tab=files)
 
@@ -159,11 +172,11 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 * **Main Files:** RUSTIC MAPS - 2K
 
-##### [Business Ledger HD Retexture](https://www.nexusmods.com/skyrim/mods/38389?tab=files)
+##### [The Business Ledger](https://www.nexusmods.com/skyrimspecialedition/mods/48561?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Business Ledger HD Retexture
+* **Main Files:** The Business Ledger SD
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

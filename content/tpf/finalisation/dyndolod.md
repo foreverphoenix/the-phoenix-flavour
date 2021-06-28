@@ -8,13 +8,11 @@ description: >
 
 ## DynDOLOD and Performance
 
-Contrary to popular belief, DynDOLOD is not inherently performance-intense. With the **Low** or **Medium** presets and regular tree LOD, you will hardly notice a performance impact at all, even on weaker machines, while distant terrain is still drastically improved.
+Contrary to popular belief, DynDOLOD is not inherently performance-intense. In fact, generating with the **Low** profile may even improve performance over vanilla in some places.
 
-However, more taxing is what is typically referred to as "ultra tree LOD" or "3D tree LOD". This is a DynDOLOD feature which disables regular tree LOD, the two dimensional, flat "cut-outs". Instead, object LOD is generated for distant trees, utilising 3D meshes which improves the visual quality of tree LOD to the point where you can barely tell fully-rendered trees and distant trees apart anymore.
+However, for TPF we are going to use the **High** preset with 3D tree LOD which is quite taxing, especially for people with 4GB of VRAM or less. Especially 3D tree LOD is a substantial improvement visually, however, as it replaces the vanilla 2D "cut-outs" with proper models for the leaves for a seamless transition.
 
-3D tree LOD is not recommended for people with less than 4GB of VRAM. For everyone else, there is still a potential performance impact but it is usually negligible on modern machines (and very much worth the visual improvement).
-
-**You will have the option to generate *either* regular or 3D tree LOD.** Choose accordingly. Later on, you can always re-run DynDOLOD to generate the other type of tree LOD, depending on how well the game runs for you.
+*If you find High + 3D tree LOD too intense for your system, there are instructions in the Performance Guide that you can try out after completing base TPF.*
 
 ## DynDOLOD Setup
 
@@ -39,11 +37,36 @@ However, more taxing is what is typically referred to as "ultra tree LOD" or "3D
 
 ![Texgen DynDOLOD Executables](/Pictures/tpf/finalisation/texgen-dyndolod-executables.png)
 
+## INI Adjustments
+
+Before we generate LOD with DynDOLOD, we need to tweak a few settings:
+
+- Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\`.
+- Open **DynDOLOD_SSE.ini** in Notepad++.
+
+Enable expert mode in DynDOLOD:
+
+- In **Line 8**, set `Expert=` to `1`.
+
+Generate a terrain underside mesh for Dynamic Volumetric Lighting and Sun Shadows:
+
+- Uncomment **Line 270** (remove the semicolon).
+- In **Line 275**, set `Terrain Underside=` to `1`.
+
+And finally:
+
+- Press **CTRL + S** to save your changes and close the window.
+
+![DynDOLOD INI Tweaks](/Pictures/tpf/finalisation/dyndolod-ini-tweaks.png)
+
 ## TexGen
 
+Some of the TexGen settings were adopted from the [STEP guide for SSE](https://stepmodifications.org/wiki/SkyrimSE:2.0.0#Run_TexGen). The STEP team is known for extensively testing these settings.
+
 - Launch **TexGen** through Mod Organizer 2.
+- Under **Stitched Object LOD Textures**, set **Texture size** to `512`.
+- Under **Rendered Object LOD Textures**, set **Texture size** to `512`.
 - Under **Trees/Grass Billboards**, check the boxes for **Tree**, **HD Tree**, and **Rendered**.
-- Increase **Min Texture Size** to **256**.
 - Click **Start** to begin the process.
 
 > The generation will take a while (around 20 minutes for me) and you should step away from your PC in the meantime.
@@ -60,52 +83,38 @@ However, more taxing is what is typically referred to as "ultra tree LOD" or "3D
 
 ## DynDOLOD Generation
 
+DynDOLOD has a multitude of features and settings through which performance impact and visual improvements can be balanced out. I've chosen to defer to the expertise of the STEP team who have spend vastly more time than me experimenting with various DynDOLOD settings. With their permission, I have included their Optimal preset for DynDOLOD 3.00 created for the [STEP Skyrim SE guide](https://stepmodifications.org/wiki/SkyrimSE:2.0.0).
+
+### DynDOLOD Preset
+
+- Click [here](https://stepmodifications.org/wiki/images/3/30/DynDOLOD_SSE_Optimal.ini) to download the STEP Optimal preset for DynDOLOD.
+- Save the **DynDOLOD_SSE_Optimal.ini** to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Presets\`.
+- Open the INI file in Notepad++.
+- Near the top, in **Line 2**, change the output folder to be within your DynDOLOD installation folder.
+- For me, that would be: `F:\Modding\Skyrim SE Mods\Tools\DynDOLOD 3.0 Alpha 33\DynDOLOD_Output\`.
+- Save your changes and close Notepad++.
+
+![DynDOLOD Preset Output](/Pictures/tpf/finalisation/dyndolod-preset-output.png)
+
+### Run DynDOLOD
+
 - Run **DynDOLOD** through Mod Organizer 2.
-- In the DynDOLOD Wizard window, click **Advanced**.
-- In the **Advanced** window, you can see a list of all worldspaces at the top.
-- Right-click inside and **Select all**.
-- Under **Load rules for** check both **Candles** and **FXGlow**.
-- Also check **Glow Windows**, **High** and **Fake lights in child worlds**.
-
-Select one of the presets:
-
-- **Low** if you struggle with performance.
-- **Medium** as the default option.
-- **High** for modern machines.
-
-If you have 4GB of VRAM or more, you can generate 3D tree LOD.
-
-- Check the box for **Ultra** next to **Generate tree LOD**.
-  
-Click **OK** to start generating LOD.
+- Make sure all worldspaces in the top left box are ticked.
+- Click **Load Preset** (one of the buttons on the bottom left).
+- The DynDOLOD Presets folder should be opened automatically, double-click the **DynDOLOD_SSE_Optimal.ini**.
+- Click **OK** to start generating LOD.
 
 **Step away from your PC while DynDOLOD is working.** This may take around 20-30 minutes.
 
 ![DynDOLOD Settings](/Pictures/tpf/finalisation/dyndolod-settings.png)
 
-## DynDOLOD Output
+### DynDOLOD Output
 
-* Once DynDOLOD is done, click **Save & Exit**.
-* Go to `Your Modding Folder\Tools\DynDOLOD`.
-* Cut (CTRL+X) the **DynDOLOD_output** folder and paste it (CTRL+V) to `Mod Organizer 2\mods`.
-* Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
-* Place it last below the **PATCHER OUTPUT** separator and activate it.
-* Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
-* Leave **DynDOLOD.esp** at the very bottom as the last plugin.
-* Make sure both plugins are activated.
-
-## DynDOLOD Loading Screens
-
-As DynDOLOD was such a revolutionary mod when it came out, there's been an ongoing joke that one had to give their firstborn to the author, sheson, for using it - like in the [fairy tale](https://en.wikipedia.org/wiki/Rumpelstiltskin). Also there's a golden cow. Both memes were added to the mod as easter eggs and while the cow is optional in the FOMOD, the [three loading screens](/Pictures/tpf/finalisation/dyndolod-loading-screen.png) featuring those memes are part of the generated DynDOLOD.esm.
-
-Removing the loading screens can be done easily in SSEEdit after generating DynDOLOD. You can skip this step if they don't bother you.
-
-- Run **SSEEdit** through Mod Organizer 2.
-- Click **Yes** in the plugin selection window to load all plugins.
-- Wait until SSEEdit has loaded up your plugins.
-- Double-click **DynDOLOD.esm** in the left pane.
-- Right-click the **Load Screen** section and click **Remove**.
-- Click **Yes, I'm absolutely sure** and confirm deletion of all records.
-- Close SSEEdit and click **OK** to save your changes.
-
-![Delete DynDOLOD Load Screens](/Pictures/tpf/finalisation/delete-dyndolod-loadscreens.png)
+- Once DynDOLOD is done, click **Save & Exit**.
+- Navigate to `\Your Modding Folder\Tools\DynDOLOD\`.
+- Cut (CTRL+X) the **DynDOLOD_Output** folder and paste it (CTRL+V) to `\Mod Organizer 2\mods\`.
+- Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
+- Place it last below the **PATCHER OUTPUT** separator and activate it.
+- Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
+- Leave **DynDOLOD.esp** at the very bottom as the last plugin.
+- Make sure both plugins are activated.

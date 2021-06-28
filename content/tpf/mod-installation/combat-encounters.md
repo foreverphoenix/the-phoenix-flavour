@@ -12,17 +12,29 @@ description: >
 
 - **Main Files:** Blade and Blunt - A Combat Overhaul
 
+##### [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dragon War - A Dragon Overhaul
+- **Optional Files:** Dragon War - Variants
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Audio Overhaul for Skyrim Patch
+  - Deadly Spell Impacts Patch
+  - Deiform Alduin Patch
+  - Dragon Animation Replacer Patch
+  - Durnehviir Resurrected Patch
+  - ~~Skyrim Unbound Reborn Patch~~
+  - ~~Wyrmstooth Patch~~
+
 ##### [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Encounter Zones Unlocked SE
-
-##### [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487?tab=files)
-
-#### Download Instructions
-
-* **Main File:** Arena - An Encounter Zone Overhaul
 
 ##### [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files)
 
@@ -88,17 +100,18 @@ description: >
 - **Main Files:** No Road Predators
 - **Main Files:** No Road Predators - Less Predators Addon
 
-##### [Splendor - Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Splendor - Dragon Variants
-
 ##### [Sable's Bits and Bobs - Steam Driven Automatons](https://www.nexusmods.com/skyrimspecialedition/mods/40225?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Steam Driven Automotons
+
+##### [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Briraka's Draugr Overhaul
+- **Optional Files:** BriDO - Weapons Armor Clothing and Clutter Fixes Patch
 
 ##### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files)
 
@@ -116,6 +129,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Cannibal Draugr on Solstheim
+
+##### [Briraka's Draugr Overhaul - Cannibal Draugr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** BriDO - Cannibal Draugr Patch
 
 ##### [The Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files)
 

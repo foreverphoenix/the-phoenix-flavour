@@ -35,12 +35,6 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `textures\effects\projecteddiffuse.dds`
 
-##### [Majestic Mountains - Mesh Tangent Space Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48574?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Majestic Mountains - Mesh Tangent Space Fixes
-
 ##### [Majestic Mountains - Northside](https://www.nexusmods.com/skyrimspecialedition/mods/27981?tab=files)
 
 #### Download Instructions
@@ -55,11 +49,19 @@ description: >
   - Tweaked Wet Rock Meshes
   - ~~Tweaked Rapid Rocks Textures~~
 
+##### [Skyrim - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Markarth - A Mountainous Experience
+
 ##### [Moss Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8838?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Moss Rocks 2K v3.4
+
+> We're using this mod instead of Majestic Mountains' moss module because its textures don't suffer from tiling.
 
 ##### [MystiriousDawn's HD Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19421?tab=files)
 
@@ -100,18 +102,54 @@ description: >
 * **Optional Addons:**
   * ~~No Glacier Snow~~
 
-##### [Skyrim Remastered - Glaciers and Ice](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
+##### [WalkWayCWall01 NIF - SLaWF SMIM BDS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Skyrim Remastered - Glaciers and Ice Quality Version
-- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
+- **Main Files:** WalkWayCWall01 NIF - SLaWF SMIM BDS Patch
 
-##### [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101?tab=files)
+> This mesh consolidates the tweaks from SLaWF (fixes a hole) and SMIM (3D ropes) into one mesh, plus it removes parallax which is not compatible with Better Dynamic Snow 3.x.
+
+##### [Glacierslab](https://www.nexusmods.com/skyrimspecialedition/mods/24178?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Skyrim 3D Icefloes
+- **Main Files:** Glacierslab 4.2.2.5 B-Bumpy-Chiseled
+
+##### [SC - Glacierslab Addon](https://www.nexusmods.com/skyrim/mods/99443?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SC - GlacierslabAddon
+
+#### FOMOD Instructions
+
+- **Requirements:** First
+- **Pick whatever - Meshes:**
+  - ~~Ice caves~~
+  - ~~Cave icicles~~
+  - Landscape
+  - Landscape icicles
+  - Landscape glaciers
+  - ~~Magic ice~~
+  - Dawnguard landscape ice
+  - Dawnguard frozen creatures
+  - Dawnguard falmer playground
+  - Dragonborn Ice
+  - New ice and show shaders
+
+#### Porting Instructions
+
+- Run the mod through **SSE NIF Optimizer**.
+- Re-save **SC_IceShader.esp** in the Creation Kit.
+
+##### [Skyrim Remastered - Glaciers and Ice - Replacer ESP](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
+
+#### Download Instructions
+
+- **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP
+
+> This plugin fixes some glaciers on Solstheim (near the Altar of Thrond for instance) which otherwise look like solid white blocks. While it is made for the mod's main file, SC - Glacerslab has the same issue that is also fixed by this plugin.
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
@@ -155,6 +193,12 @@ description: >
 
 - **Main Files:** REALly Blended Roads
 - **SMIM Compatibility Patch:** REALly Blended Roads
+
+##### [Assorted Mesh Fixes - SMIM - Really Blended Roads Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
 
 ##### [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 

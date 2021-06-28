@@ -47,6 +47,8 @@ Nemesis will generate a number of files specifically for your setup. In order to
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Nemesis Output** mod folder.
 - A **FNIS.esp** will appear at the bottom of your load order. Make sure it's activated.
 
-> FNIS.esp is an empty dummy plugin used to trick XPMSSE, the skeleton replacer, into thinking FNIS is actually present in the load order. Functionally, FNIS is replaced by Nemesis.
+FNIS.esp is an empty dummy plugin used to trick XPMSSE, the skeleton replacer, into thinking FNIS is actually present in the load order. Functionally, FNIS is replaced by Nemesis.
+
+> Apparently, if Nemesis stalls at 99% progress, you can fix this by changing your Windows display language to English.
 
 ![Run Nemesis](/Pictures/tpf/finalisation/run-nemesis.png)

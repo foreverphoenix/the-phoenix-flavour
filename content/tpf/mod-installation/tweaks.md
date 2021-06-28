@@ -15,7 +15,6 @@ description: >
 #### FOMOD Instructions
 
 - **Versions:** Dwemer Only
-- **USSEP:** USSEP
 - **Plugin Type:** ESP-FE
 
 ##### [Calcelmo Has Standards](https://www.nexusmods.com/skyrimspecialedition/mods/26503?tab=files)
@@ -92,12 +91,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Followers Don't Draw Weapons v1.0.1
-
-##### [No More Follower Hunting Bows](https://www.nexusmods.com/skyrimspecialedition/mods/11713?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** NoMoreFollowerHuntingBows
 
 ##### [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files)
 

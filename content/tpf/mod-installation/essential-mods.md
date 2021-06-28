@@ -20,14 +20,15 @@ description: >
 
 #### Preloader
 
-- Download the following file manually:
-  * **(Part 2) Engine Fixes - skse64 Preloader and TBB Lib**
+- Download the **(Part 2) Engine Fixes - skse64 Preloader and TBB Lib** main file manually. 
 - Open the downloaded archive.
 - Extract the following files into your **root** folder:
   * **d3dx9_42.dll**
   * **tbb.dll**
   * **tbbmalloc.dll**
 - Click **Yes** when asked to overwrite.
+
+> **Root folder:** Steam\steamapps\common\Skyrim Special Edition\
 
 #### INI Tweaks
 
@@ -38,7 +39,7 @@ description: >
 
 > This is done so that quicksaves have proper names and stop overwriting each other.
 
-##### [.NET Script Framework (NSF)](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
+##### [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
 
 #### Download Instructions
 
@@ -54,15 +55,24 @@ description: >
 
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
-  - **79** `EnableVSync=false` if you have a G-Sync or FreeSync monitor.
-  - **206** `FramerateLimit=60` if VSYNC is disabled but you want to cap the framerate.
+  - **207** `FramerateLimit=60` if you want to cap the framerate (see note)
+  - **601** `LoadScreenFilter=true` to enable the load screen filter
+  - **603** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
 - Hit CTRL+S to save and close the window.
+
+> You can leave the framerate uncapped if you prefer, it will no longer break the game.That being said, general physics weirdness (like flying objects) still happens more frequently at higher framerates. Additionally, achieving a framerate consistently above 60, especially with ENB, *especially* on resolutions of 1440p and upwards, requires very solid hardware. I personally think 60 is the sweet spot for everyone.
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.41
+* **Main Files:** More Informative Console 0.43
+
+##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dear Diary - Better More Informative Console
 
 ##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 
@@ -74,7 +84,7 @@ description: >
 
 Game settings can be implemented in two ways: They can be added to a plugin or toggled in the console using the `SetGS` command. When using the console, the command would have to be entered every time the game is restarted. Fortunately we have Autorun which will execute any console commands configured in its text file automatically when loading a save.
 
-- Double-click **Autorun Console Commands** in Mod Organizer 2.
+- Double-click **Autorun** in Mod Organizer 2.
 - Switch to the **Text Files** tab and select the **Autorun.txt** file.
 - Copy and paste the following lines into the text field:
 
@@ -95,39 +105,49 @@ SetGS fSandboxCylinderBottom -576
 
 #### Download Instructions
 
-- **Main Files:** Music - HQ
+Click "Manual Download" for all files:
+
+- **Main Files:** Music - HQ 
 - **Main Files:** Voices EN - Part 1
 - **Main Files:** Voices EN - Part 2
 
-*If your internet connection is slow, there's a risk that MO2 won't properly download these files. In that case it is recommended to click "Manual Download", then move the files to your MO2 downloads directory. Refresh MO2 and the archives will appear in the Downloads tab. Right-click them and select "Query Info", then install them as usual.*
+> With large files, there's always a risk that MO2 won't download them properly and they may get corrupted.
 
-##### [Project Clarity AIO - Skyrim Textures Redone](https://www.nexusmods.com/skyrimspecialedition/mods/45306?tab=files)
+#### Installation Instructions
+
+- Wait for all three archives to be downloaded.
+- Move the files to your downloads folder: `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- Mod Organizer 2 may freeze briefly as it processes the files.
+- Once it unfreezes, you will find them in the **Downloads** tab (right pane).
+- Right-click each of the three archives (one at a time) and select **Query Info**.
+- After all data has been retrieved from the Nexus, install the archives as usual by double-clicking them.
+
+##### [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850?tab=description)
 
 #### Download Instructions
 
-- **Main Files:** Project Clarity AIO Half Res BSA
-- **Update Files:** Hotfix To v2.1 Half Res >> `merge with the main file`
+Click "Manual Download" for the following file:
 
-*Same as above - very large main file should be downloaded and moved manually.*
+- **Main Files:** Basecoat - Textures only
 
-#### Additional Instructions
+> The reason we are not downloading the other version that includes terrain LOD is because we will be generating terrain LOD from scratch at the end of the guide.
 
-- Run **SSEEdit** through Mod Organizer 2.
-- In the plugin selection window click **OK**.
-- Wait until SSEEdit returns `Background Loader: finished`.
-- Select the first of the Project Clarity plugins, **Half Res Packed.esp**.
-- On the right under **Record flags**, right-click and select **Edit**.
-- Click **Yes I'm absolutely sure** when the warning window appears.
-- Check the box for **ESM** at the top of the list and click **OK**.
+#### Installation Instructions
 
-The plugin is now ESM-ified and will load with all other ESMs. This allows us to place it above the USSEP in the load order which means that the assets packed in its BSAs will be overwritten by assets packed in the BSA loaded with the USSEP.
+- Wait for the archive to be downloaded.
+- Move it to your downloads folder: `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- Mod Organizer 2 may freeze briefly as it processes the files.
+- Once it unfreezes, you will find the archive in the **Downloads** tab (right pane).
+- Right-click it and select **Query Info**. This will take a while as the archive is very large.
+- After all data has been retrieved from the Nexus, install the archive as usual by double-clicking it.
+- Move **Base Coat** below **Official Master Files - Cleaned** in your mod order (left pane).
+- Activate the mod.
 
-- Repeat the process for all other **Half Res Packed---.esp** plugins.
-- Once you have ESM-ified all plugins, close the window.
-- Make sure all Project Clarity plugins appear in the list to be saved and are checked.
-- Click **OK** to close SSEEdit and save your changes.
+#### About the mod
 
-![ESMify Project Clarity](/Pictures/tpf/mod-installation/esmify-project-clarity.png)
+Base Coat is a repack of upscaled versions of all vanilla textures made to replace the vanilla BSAs. As such, we could simply drop it in the Data folder, overwrite the existing archives, and save 16GB of disk space. However, this would mean that in order to revert SSE to vanilla, you would have to reinstall the game or restore a manual back-up of the BSAs.
+
+Additionally, you will be unable to install other SSE mod lists through Wabbajack with the Base Coat BSAs replacing the vanilla ones in your Data folder. The app will detect that your SSE installation is edited and abort the installation process. This is why I chose to keep the Data folder clean and sacrifice 16GB of disk space insteads.
 
 ##### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
@@ -158,11 +178,11 @@ The plugin is now ESM-ified and will load with all other ESMs. This allows us to
   * `WACCF_BashedPatchLvlListFix.esp`
   * `Weapons Armor Clothing & Clutter Fixes.modgroups`
 
-##### [Hooded Skeleton Corpse Fix for WACCF](https://www.nexusmods.com/skyrimspecialedition/mods/47985?tab=files)
+##### [WACCF Greatsword Weapon Speed Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Hooded Skeleton Corpse Fix for WACCF
+- **Main Files:** WACCF Greatsword Weapon Speed Tweaks
 
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
@@ -189,16 +209,13 @@ The plugin is now ESM-ified and will load with all other ESMs. This allows us to
 
 - **Main Files:** Grass Control v6
 
-> The Grass Generation MO2 plugin will be installed later on before we precache grass.
-
-#### INI Tweaks
+#### Additional Instructions
 
 - Double-click **No Grass In Objects** in your mod order.
-- Switch to the **Text Files** tab and select the **GrassControl.config.txt** file.
-- In **Line 99**, change **UseGrassCache** to **True**.
-- In **Line 111**, change **ExtendGrassDistance** to **True**.
-- In **Line 134**, change **EnsureMaxGrassTypesPerTextureSetting** to **15**.
-- In **Line 149**, change **OverwriteGrassDistance** to **12000**.
-- In **Line 163**, change **OverwriteGrassFadeRange** to **8000**.
-- In **Line 187**, change **OnlyLoadFromCache** to **True**.
-- Close the window and click **Yes** when prompted to save.
+- Switch to the **Text Files** tab and select the **GrassControl.config.txt**.
+- Scroll down to **Line 134** and set **EnsureMaxGrassTypesPerTextureSetting =** to **0**.
+- Scroll down to **Line 149** and set **OverwriteGrassDistance =** to **-1**.
+- Scroll down to **Line 163** and set **OverwriteGrassFadeRange =** to **-1**.
+- Hit **CTRL+S** to save and close the window.
+
+> I prefer handling the INI changes directly in the game INI files. Other changes are not required as we are not going to generate grass cache.

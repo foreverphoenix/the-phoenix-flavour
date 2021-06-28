@@ -91,6 +91,7 @@ Continue with the sixth tab, **Detail**.
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
 - **Shadow Resolution:** Set to `2048` (unless you have a very slow CPU).
+- **Detailed Draw Distance:** Set to `3500`.
 - **Exterior Draw Distance:** Set to `8000`.
 - **Tree Shadows:** Check the box for this setting.
 - **Ambient Occlusion:** Uncheck the box for this setting (covered by ENB).
@@ -106,9 +107,8 @@ Continue with the seventh tab, **View Distance**.
 - **Object Fade:** Set to `12.0`.
 - **Actor Fade:** Set to `8.0`.
 - **Item Fade:** Set to `4.0`.
+- **Grass Fade:** Set to `15000`
 - **Light Fade:** Set to `21605`.
-
-> Grass Fade will be increased by a mod later on.
 
 ![BethINI View Distance](/Pictures/tpf/initial-setup/bethini-view-distance.png)
 
@@ -117,6 +117,9 @@ Continue with the seventh tab, **View Distance**.
 Continue with the eighth tab, **Visuals**.
 
 - Set **Contrast** to `-0.1800`. This should eliminate the "black crush" some people are experiencing in Skyrim SE.
+- Lower **Grass Density** to **20**.
+- Increase **Grass Diversity** to **15**.
+- Set **Tree Detail Fade** to **BethINI High**.
 
 ![BethINI Visuals](/Pictures/tpf/initial-setup/bethini-visuals.png)
 

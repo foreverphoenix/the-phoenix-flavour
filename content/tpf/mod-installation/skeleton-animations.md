@@ -51,19 +51,33 @@ description: >
 
 - **Main Files:** XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
-##### [All Geared Up Derivative (AllGUD)](https://www.nexusmods.com/skyrimspecialedition/mods/28833?tab=files)
+##### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** All Geared Up Derivative SE
+- **Main Files:** Simple Dual Sheath
+- **Optional Files:** XPMSSE Left Hand Sheathe Rotation Fix
 
-> All additional steps (downloading and running the SSEEdit scripted patchers) will be covered in the Finalisation section of the guide.
+#### Additional Instructions
 
-##### [AllGUD Conditions Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+- Double-click **Simple Dual Sheath** in your mod order.
+- Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
+- In **Line 26** set `ClenchedHandWorkaround=` to `true`.
+- Press **CTRL+S** to save and close the window.
 
-#### Download instructions
+#### Shields on Back
 
-* **Main Files:** AllGUD Conditions Fix
+**Only follow these instructions if you want shields on back.**
+
+By default, the player and NPCs carry their shields in their left hand when their weapons are sheathed. Shields on back look much better, however, there is a [noticable gap](/Pictures/tpf/mod-installation/sds-guard-shield-gap.jpg) between the character's back and the shield which annoys me personally. For the player, this can be adjusted in RaceMenu ([before](/Pictures/tpf/mod-installation/sds-shield-gap.jpg) and [after](/Pictures/tpf/mod-installation/sds-shield-gap-fixed.jpg)) but there is nothing to be done about NPCs. If this doesn't annoy you as much as much as it annoys me, feel free to enable shield on back.
+
+- Double-click **Simple Dual Sheath** in your mod order.
+- Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
+- In **Line 23** add the following flags: `Flags=Player|NPC|FirstPerson`.
+- In **Line 35** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- Press **CTRL+S** to save and close the window.
+
+> The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
 
 ##### [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files)
 
@@ -143,6 +157,18 @@ fInAirFallingCharGravityMult=1.8
 #### Download Instructions
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\actors\dragon\animations\ground_bite.hkx`
+  - `meshes\actors\dragon\animations\ground_biteleft.hkx`
+  - `meshes\actors\dragon\animations\ground_biteright.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhip.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipleft.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipright.hkx`
+
+> Adjusted versions of these behaviours are included in Dragon War - A Dragon Combat Overhaul.
 
 ##### [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 

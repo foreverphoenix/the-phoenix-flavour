@@ -44,6 +44,77 @@ description: >
 * **Werewolf:** None
 * **Werewolf Eyes:** None
 
+##### [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** aMidianBorn Book of Silence SE -- CREATURES
+- **Optional Files:** aMidianBorn Book of Silence SE -- DRAGONBORN
+
+#### FOMOD Instructions - Creatures
+
+- **Options:**
+  - Custom
+- **Skeleton:**
+  - Skeleton
+- **Dragon Priest:**
+  - Dragon Priest - Concept Edition
+- **Draugr:**
+  - Draugr
+- **Falmer:**
+  - ~~Falmer~~
+- **Chaurus:**
+  - ~~Chaurus~~
+- **Spriggan:**
+  - ~~Spriggan~~
+
+#### FOMOD Instructions - Dragonborn
+
+- **Options:**
+  - Custom
+- **Nordic Carved Armor:**
+  - None
+- **Bonemold Armor:**
+  - None
+- **Acolyte Masks:**
+  - ~~Acolyte Masks~~
+- **Dragon Priest Acolytes:**
+  - Dragon Priest Acolytes
+- **Hulking Draugr:**
+  - Hulking Draugr
+- **Ash Spawn:**
+  - Ash Spawn
+- **Ash Guardians:**
+  - ~~Ash Guardians~~
+
+#### Additional Instructions
+
+- Double-click **aMidianBorn Book of Silence - Creatures** in your mod order.
+- Switch to the **Filetree** tab.
+- Delete the following file(s) and / or folder(s):
+  - `textures\weapons\`
+
+##### [Particle Lights for ENB - Undead Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/48424?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights for ENB SE - Undead Creatures
+
+#### FOMOD Instructions
+
+- **Undead Creature Eyes:** Default
+- **Ghosts:** Weaker
+- **Patches:** Cannibal Draugr
+- **Skull Keys:** Red
+- **Cannibal Draugr Options:** Solstheim Version
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\clutter\`
+
+> This will remove the particle light effect from the Dragonborn skull keys in favour of Iconic's tweaks which add new textures for the eyes.
+
 ##### [OH GOD BEES - HD Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2932?tab=files)
 
 #### Download Instructions
@@ -56,11 +127,11 @@ description: >
 * **HD Beehive Texture:** 1024×1024
 * **HD Apiary Texture:** 2048×2048
 
-##### [Real Rabbit](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
+##### [Real Rabbits HD](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Real Rabbits HD - Replacer
+* **Main Files:** Real Rabbits HD - Fluffy
 
 ##### [Better Than Nando’s](https://www.nexusmods.com/skyrimspecialedition/mods/1046?tab=files)
 
@@ -238,21 +309,11 @@ description: >
 
 * **Custom:** Full version - skin with a mesh fabric veil (RECOMMENDED)
 
-##### [Ancient Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files)
+##### [Particle Lights for ENB - Wisps](https://www.nexusmods.com/skyrimspecialedition/mods/50868?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Ancient Automatons 4K
-
-#### Porting Instructions
-
-* Run the mod through **SSE NIF Optimizer**.
-
-##### [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Dwemer Metal - Missing Forgemaster Fix
+- **Main Files:** Particle Lights for ENB - Wisps - Witchlight
 
 ##### [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files)
 
@@ -284,9 +345,39 @@ description: >
 
 * **Main Files:** HD Reworked Dragon Collection 4K
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\alduin\`
+  - `textures\actors\Dlc02\`
+
+##### [RUSTIC DRAGONS](https://www.nexusmods.com/skyrimspecialedition/mods/37700?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** RUSTIC DRAGONS SE - Reduced
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\alduin\`
+  - `textures\cubemaps\`
+
+##### [HD Serpentine Dragon and Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18370?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Serpentine Dragon
+
+#### FOMOD Instructions
+
+- **Texture:** Smooth
+- **Mesh:** Fixed UVs
+
 ##### [Deiform Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/44329?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Deiform Alduin 8K
+- **Main Files:** Deiform Alduin Eye textures 2K
+- **Optional Files:** Deiform Alduin 4K >> `merge with the main file`
 - **Optional Files:** Deiform Alduin Particle Lights >> `merge with the main file`

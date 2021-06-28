@@ -128,29 +128,38 @@ description: >
 #### FOMOD Instructions
 
 - **Statue:** Auriel
-- **Statue:** Azura
+- **Statue:** None
 - **Statue:** Bee Statue
-- **Statue:** Boethiah
-- **Statue:** Clavicus Vile
+- **Statue:** None
+- **Statue:** None
 - **Statue:** Dibella
 - **Statue:** Falmer Statue
 - **Statue:** Hircine Shrine
 - **Statue:** Malacath (Option 1)
 - **Statue:** Mara
-- **Statue:** Mehrunes Dagon
-- **Alter Options:** Option 1
+- **Statue:** None
+- **Alter Options:** None
 - **Statue:** Meridia
 - **Statue:** Molag Bal
 - **Statue:** Namira
 - **Statue:** Nocturnal
 - **Statue:** Peryite
 - **Statue:** Ice Shalidor
-- **Statue:** None
+- **Statue:** Skyforge (MM Version)
 - **Statue:** Sovngarde Watcher
 - **Statue:** None
 - **Statue:** Vaermina
 - **Statue:** Ysgramor
 - **Optional Wuuthrad Retexture:** None
+
+##### [Remiros' Statues HD](https://www.nexusmods.com/skyrimspecialedition/mods/50744?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Remiros' Statue of Azura HD
+- **Main Files:** Remiros' Statue of Boethiah HD
+- **Main Files:** Remiros' Statue of Clavicus Vile HD
+- **Main Files:** Remiros' Statue of Mehrunes Dagon HD
 
 ##### [LeanWolf’s Better-Shaped Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/4752?tab=files)
 
@@ -181,6 +190,12 @@ description: >
 * **Monument Textures:** 2k
 * **Tomb Textures:** 4k
 * **Meshes:** SMIM
+
+##### [Remiros' Dunmer Urns HD](https://www.nexusmods.com/skyrimspecialedition/mods/50767?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Remiros' Dunmer Urns HD
 
 ##### [Rally's Solstheim Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/45867?tab=files)
 

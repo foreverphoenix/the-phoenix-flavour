@@ -6,19 +6,38 @@ description: >
   Covering issues and inconsistencies untouched by the USSEP.
 ---
 
+##### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** powerofthree's Tweaks
+- **Optional Files:** INI file >> `merge with the main file`
+
+#### Additional Instructions
+
+- Double-click **powerofthree's Tweaks** in your mod order.
+- Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
+- In **Line 37**, change `Faction Stealing =` to `true`.
+- In **Line 60**, change `No Attack Messages =` to `3`.
+- Hit **CTRL+S** to save your changes and close the window.
+
+> An example of what the Faction Stealing tweak fixes is in Riverwood: Giving Embry, the local drunk, a bottle of ale will set your relationship with him to "friends". Unfortunately, because Embry is in the RiverwoodSleepingGiantInnFaction, this will allow you take whatever you want from the Inn without it counting as stealing which makes very little sense.
+
 ##### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Scrambled Bugs
+- **Main Files:** Scrambled Eggchantments
+- **Optional Files:** Underfilled Soul Gems - Soul Gem Too Small
 
-#### Additional Instructions
+#### Additional Instructions - Scrambled Bugs
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
 - In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 13**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
-- In **Line 16**, set **"underfilledSoulGems":** to **true**.
+- In **Line 19**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
+- In **Line 23**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
@@ -71,11 +90,37 @@ description: >
 
 - **Main Files:** No Grass In Caves
 
+##### [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Assorted mesh fixes
+
+##### [Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
+
+> The original [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621) is no longer needed. All its tweaks are contained in Assorted Mesh Fixes and this patch.
+
+##### [Dlizzio's Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dlizzio's Mesh Fixes
+
+##### [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=description)
+
+#### Download Instructions
+
+- **Main Files** Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** NARC Remade 1.0.2
+- **Main Files:** NARC Remade 1.0.3
 
 #### FOMOD Instructions
 
@@ -153,12 +198,6 @@ description: >
 
 - **Main Files:** Word Wall Transparency Fix for ENB
 
-##### [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Fixed Dragon Stalking Fix
-
 ##### [Serana's Hood Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files)
 
 #### Download Instructions
@@ -185,7 +224,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.03c
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05b
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 
@@ -209,3 +248,9 @@ description: >
 - The full file name should be `KeyboardShortcutsFix.log`.
 
 > The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
+
+##### [hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** hank's gamepad and controller fixes

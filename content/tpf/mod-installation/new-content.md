@@ -18,42 +18,64 @@ description: >
 
 - **Main Files:** Tweaks for WACCF and ACE
 
-##### [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160?tab=files)
+##### [Open World Loot - WACCF and ACE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** aMidianBorn Armor Variants Lite
+- **Miscellaneous Files:** Patch - WACCF and Armor and Clothing Extension
 
-#### FOMOD Instructions
+##### [Open World Loot - AMB AVL Addons](https://www.nexusmods.com/skyrimspecialedition/mods/51141?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Open World Loot - AVL Iron and Steel Addon
+- **Main Files:** Open World Loot - AVL Thalmor Addon
+- **Main Files:** Open World Loot - AVL Morrowind Glass Addon
+- **Main Files:** Open World Loot - AVL Nordic Addon
+
+#### FOMOD Instructions - AVL Iron and Steel
 
 - **Patches:**
-  - Enchanting Adjustments Patch
-  - Finding Velehk Sain Patch
-  - Reliquary of Myth Patch
-  - Weapons Armor Clothing and Clutter Fixes Patch
+  - Modular Armory
+  - Enchanting Adjustments
 
-##### [Practical Female Armors - AMB AVL Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+#### FOMOD Instructions - AVL Thalmor
+
+- **Patches:** 
+  - AMB Glass Armory
+
+#### FOMOD Instructions - AVL Morrowind Glass
+
+- **Patches:**
+  - Enchanting Adjustments
+
+#### FOMOD Instructions - AVL Nordic
+
+- **Patches:**
+  - Modular Armory
+  - Enchanting Adjustments
+
+##### [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+- **Main Files:** Ancient Nord Stalhrim
 
 #### FOMOD Instructions
 
-- **Skyrim:** *select nothing*
-- **Dawnguard:** *select nothing*
-- **Dragonborn:** *select nothing*
-- **Compatibility Patches:** aMidianBorn Content Addon
+- **Main Files:** Stalhrim Only
+- **Weapon Mods:**
+  - ~~Believable Weapons~~
+  -  ~~Outlandish Stalhrim~~
+- **Draugr Overhaul Patches:**
+  - ~~Briraka's Draugr Overhaul~~
+  - ~~Draugr Upgrades and Improvements~~
 
-> All we need are the edited textures for AMB CA compatibility (they also work for AMB AVL). PFA meshes are already included in the Cathedral Armory - TPF Repack.
+##### [Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
 
-#### Additional Instructions
+#### Download Instructions
 
-- Delete the following file(s) and / or folder(s):
-  - `textures\AMB Variants\armor\ebonyvariants\`
-  - `textures\AMB Variants\armor\Glassvariants\`
-  - `textures\AMB Variants\armor\ironbrown\`
-  - `textures\AMB Variants\armor\IronEngraved\`
+- **Miscellaneous Files:** Patch - Ancient Nord Stalhrim and Briraka's Draugr Overhaul
 
 ##### [Armor of Yngol](https://www.nexusmods.com/skyrimspecialedition/mods/5006?tab=files)
 

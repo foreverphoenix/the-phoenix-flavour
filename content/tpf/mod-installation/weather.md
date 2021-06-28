@@ -6,11 +6,88 @@ description: >
   Overhaul of all vanilla weathers plus additional effects.
 ---
 
+##### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dynamic Volumetric Lighting and Sun Shadows
+
+#### Additional Instructions
+
+- Double-click **Dynamic Volumetric Lighting and Sun Shadows** in your mod order.
+- Switch to the **INI Files** tab and select the **DLVaSS.ini**.
+- Delete everything in the INI file and replace it with the following:
+
+```
+;----------------------------------------------------------------------------------------------;
+;                                   DVLaSS configuration file                                  ;
+;                         SKSE64 Plugin for Skyrim SE by LonelyKitsuune                        ;
+;----------------------------------------------------------------------------------------------;
+
+
+;----------------------------------------------------------------------------------------------
+; Various time points for value interpolation throughout the day
+
+[TimeOfDay]
+DawnHour         = 3.0
+SunriseStartHour = 6.5
+SunriseEndHour   = 7.5
+DayStartHour     = 9.0
+DayEndHour       = 17.0
+SunsetStartHour  = 18.5
+SunsetEndHour    = 21.0
+DuskHour         = 22.0
+
+
+;----------------------------------------------------------------------------------------------
+; Value override for "SunDirXExtreme". The higher the setting during sunrise/sunset, the "deeper" the sun shadows can go.
+; Lower values will have a lower performance impact on the other hand (not much tho).
+; It's recommended to set all values to somewhere between 200 (vanilla) and 1000 to avoid unnecessary instabilities.
+
+[SunDirX]
+DefaultValue =  200.0
+SunriseValue = 1000.0
+DayValue     =  200.0
+SunsetValue  = 1200.0
+
+
+;----------------------------------------------------------------------------------------------
+; Fades out volumetric lighting during the night, ignoring any weather provided values.
+
+[VolumetricLighting]
+EnableNightFadeOut = false
+
+
+;----------------------------------------------------------------------------------------------
+; Experimental - If you experience problems while saving or loading with DVLaSS installed,
+; try enabling this option to revert the SunDirX value to default while saving or loading.
+
+[SaveLoad]
+DisableWhileSavingAndLoading = false
+```
+- Press **CTRL+S** to save your changes and close the window.
+
+> The applied INI settings are specifically tweaked for Rudy ENB.
+
 ##### [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Cathedral - Weathers
+
+##### [Rudy ENB - Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rudy ENB Cathedral Weathers required files Part I
+- **Main Files:** Rudy ENB Cathedral Weathers required files Part II >> `merge with the main file`
+
+> These are edits and additions for Cathedral Weathers specifically made for Rudy ENB.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `Cathedral Weathers.ini`
 
 ##### [Cathedral Weathers MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24940?tab=files)
 

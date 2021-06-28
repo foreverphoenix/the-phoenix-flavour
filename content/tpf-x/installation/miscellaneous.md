@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-weight: 7
+weight: 9
 type: docs
 description: >
   Various other mods I personally play with.
@@ -49,30 +49,11 @@ This mod is **optional**.
 
 - **Main Files:** NoLockPicking v2
 
-### **[All No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/23927?tab=files)**
-
-Ok, so this one is probably *very* controversial. It removes tails from Khajiit and Argonians. Hear me out - what are the tails good for? They look awful, clip through clothing and armor, move weirdly. Cats have tails to help them balance but what do Khajiit with their human-like shape need them for?
-
-This mod is **optional**.
-
-#### Download Instructions
-
-- **Main Files:** All No Tails (PC)
-
-#### Installation Instructions
-
-- Install the mod as usual through Mod Organizer 2.
-- Check only the **All no tails** box at the top and click **Ok**.
-
-#### Additional Instructions
-
-- Flag the plugin as ESL in SSEEdit (no compacting required).
-
 ## Simple Potions
 
 Have you ever thought that potion bottles don't need to be so fancy? No? Then you can skip this mod. Simple Potions changes the mesh for all potion vials to the same one so they only differ in colour. The textures are by Gamwich (just like RUSTIC POTIONS in base TPF). Simple Potions is **optional** and you can skip this section.
 
-### **[Simple Potions](https://www.nexusmods.com/skyrimspecialedition/mods/15911?tab=files)**
+### [**Simple Potions**](https://www.nexusmods.com/skyrimspecialedition/mods/15911?tab=files)
 
 The main mod.
 
@@ -80,7 +61,7 @@ The main mod.
 
 - **Main Files:** Simple Potions
 
-### **[Simple Potions - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/42014?tab=files)**
+### [**Simple Potions - Compatibility Patches**](https://www.nexusmods.com/skyrimspecialedition/mods/42014?tab=files)
 
 This mod will cover all conflicts between Simple Potions and other TPF mods (the USSEP as well as Alchemy Food and Potions Adjustments).
 

@@ -74,12 +74,6 @@ description: >
 
 * Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
 
-##### [Solitude Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29621?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Solitude Mesh Fixes
-
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 
 #### Download Instructions
@@ -101,17 +95,11 @@ description: >
 
 * **Main Files:** 3D Solitude Market Trellis
 
-##### [Markarth - A Reflective Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43864?tab=files)
+##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Markarth - A Reflective Experience
-
-##### [Markarth - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Markarth - A Mountainous Experience
+- **Optional Files:** Unofficial Material Fix - Stone Solitude Castle Floor
 
 ##### [Rally's Raven Rock](https://www.nexusmods.com/skyrimspecialedition/mods/34292?tab=files)
 
@@ -195,11 +183,19 @@ description: >
 
 * **Main File:** Dawnguard Fortress Improved SE v1.0
 
-##### [Castle Volkihar Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/10729?tab=files)
+##### [CC's Castle Volkihar Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/51071?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** CC’s Castle Volkihar Reborn - 2K - 2.0
+* **Main Files:** CC's Castle Volkihar Remastered - 4K - BC7 - 1.0
+
+#### Additional Information
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\dlc01\dungeons\castle\castlefloorwood01.dds`
+  - `textures\dlc01\dungeons\castle\castlefloorwood01_n.dds`
+
+> I prefer the Noble Skyrim version of this texture.
 
 ##### [Better Volkihar Secret Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/34739?tab=files)
 

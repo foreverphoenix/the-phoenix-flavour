@@ -6,12 +6,6 @@ description: >
   Various modder's resources and extenders.
 ---
 
-##### [Private Profile Redirector](https://www.nexusmods.com/skyrimspecialedition/mods/18860?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** PrivateProfileRedirector SE 0.5
-
 ##### [PapyrusUtil](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files)
 
 #### Download Instructions
@@ -52,12 +46,12 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Spell Perk Item Distributor - 4.1
+* **Main Files:** Spell Perk Item Distributor - 4.4
 
 ##### [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files)
-
-*This mod was added mostly for the **spp** console command which allows you to quickly cheat perk points. This can be useful for testing, since vanilla Skyrim has no command to directly add perk points.*
 
 #### Download Instructions
 
 * **Main Files:** Console Commands Extender
+
+> This mod was added mostly for the **spp** console command which allows you to quickly cheat perk points. This can be useful for testing, since vanilla Skyrim has no command to directly add perk points.

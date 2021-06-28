@@ -6,45 +6,63 @@ description: >
   Configuring Skyrim SE and Steam settings.
 ---
 
-## Recommended Directory
+## Spring Cleaning
 
-The entire point of reinstalling Skyrim SE is not only to make sure you have a clean, vanilla setup but also to be able to control where the game is installed on your drive. Here is what you need to keep in mind:
+If you ever modded Skyrim before, chances are you have left-over files in various directories. The first step in this guide is going to be cleaning those up as they can interfere with the TPF setup.
+
+**If you have Skyrim SE installed, please uninstall it now.** Don't skip this step, even if you never modded Skyrim.
+
+> I expect everyone to reinstall the game from scratch not only for clean-up purposes but also because the game must not be installed in a certain directory (more on that in a bit). Yes, in theory people who never modded the game COULD just Steam's "Move install folder" option but this would bloat and complicate this page even more. Since the game is less than 13GB in size, I believe it is acceptable to ask everyone to redownload it from scratch.
+
+Unfortunately, when uninstalling the game through Steam, only vanilla files will be removed while mod-added files will stay. If you did mod the game previously, please navigate to your Steam games directory which is probably `C:\Program Files x86\Steam\steamapps\common\` and delete the **Skyrim Special Edition** folder if it is still there.
+
+### Documents Folder
+
+> If you literally just bought Skyrim SE and never ran it, this folder will not exists on your hard drive and you can skip to the next step.
+
+Additional configuration files as well as your save games are stored in the `Documents\My Games\Skyrim Special Edition` directory. We will remove this folder also and then regenerate a fresh set of INI files later on.
+
+- Navigate to `C:\Users\<Your User Name>\Documents\My Games\Skyrim Special Edition\`.
+
+If you have vanilla save files that you would like to keep, you need to back them up now. Copy the **saves** folder to `Your Modding Folder\Backups\`. From there you can restore it anytime you wish. 
+
+- Delete the `\My Games\Skyrim Special Edition\` folder with all its contents.
+
+## Installation Directory
+
+Before we can redownload the game, we need to make sure it can be installed in a suitable directory:
 
 - **Avoid UAC protected folders.** UAC protected folders and their contents have higher security standards than other folders which can cause all kinds of issues for modding tools. To prevent any such issues from occuring in the future, never install any modding tools or the game under `C:\Program Files` or `C:\Program Files x86`.
 
-- **Further considerations:** While it is highly recommend to install the modded game on an SSD for faster loading screens and potential decrease or elimination of stuttering, be aware that a large amount of free space is required. This is because  Skyrim SE and Mod Organizer 2 should be installed on the same drive. While the Skyrim SE base installation reaches around 12.5GB, your MO2 directory will eventually grow well beyond 50GB in size, depending on the amount and types of mods you add. If you can spare 100GB or more of SSD space, it is highly recommended you do so.
-
 > Installing Skyrim SE or any related tools in an UAC protected folder will disqualify from getting support on our Discord server.
 
-## Uninstall Skyrim SE
+- **Choose a hard drive with 150+ GB of free space.** While it is highly recommend to install the modded game on an SSD for faster load times, be aware that a large amount of free space is required. This is because Skyrim SE and Mod Organizer 2 should be installed on the same drive. While the Skyrim SE base installation reaches around 13GB, your MO2 directory will eventually grow to around 90GB in size. If you can spare 150GB or more of SSD space, it is highly recommended you do so.
 
-*Skip this step if you do not have Skyrim SE installed.*
+> It is generally recommended to leave around 10-20% of your SSD space free for optimal performance and longevity.
 
-- Open Steam and go to your **Library**.
-- Find **The Elder Scrolls V: Skyrim Special Edition** in the list.
-- Right-click it and select **Uninstall**.
-- Navigate to wherever Skyrim SE was previously installed and delete any left-over files.
+### New Steam Library
 
-## New Steam Library
+For the purposes of the guide I will refer to the Library in Steam as the **Game Library**. It is the second of four items in the top menu in Steam and contains a list of all your games.
 
-For the purpose of the guide (to prevent confusion) I will refer to the Library in Steam as the **Game Library**. It is the second of four items in the top menu in Steam and contains a list of all your games.
+A **Steam Library** on the other hand is a directory on your hard drive into which your Steam games are installed. By default this would be `C:\Program Files x86\Steam\steamapps\common\`. Since we do not want to have files inside an UAC protected folder like `Program Files x86`, we should not install Skyrim SE in the default directory. A new **Steam Library** is required.
 
-A **Steam Library** on the other hand is a directory on your hard drive into which your Steam games are installed. By default this would be `C:\Program Files x86\Steam\steamapps\common\`. Since we do not want to have files inside an UAC protected folder like Program Files x86, we should not install Skyrim SE in the default directory. A new **Steam Library** is required.
+If you already have a separate Steam Library outside the UAC protected folders on the drive you want to install Skyrim SE and Mod Organizer 2 on, you may use that and skip this step.
 
-> It is important to note that Steam only allows one **Steam Library** per hard drive, although there is a workaround. If for instance you already have a **Steam Library** on your C:\ drive, but you want to have your modding files on the same drive, you need to create a new **Steam Library** manually following the instructions [here](https://steamcommunity.com/discussions/forum/1/135511294066324002).
-
-If you already have a separate Steam Library outside the UAC protected folders on the drive you want to install Skyrim SE and Mod Organizer 2 on, skip ahead to section 2.4. Otherwise follow the instructions below to create a new **Steam Library**:
+Otherwise follow the instructions below to create a new **Steam Library**:
 
 * Open Steam and go into the **Settings**.
 * In the **Downloads** tab, select **Steam Library Folders**.
 * Click **Add Library Folder**.
-* Point it to a location somewhere outside the UAC protected folders.
-  * For example: `G:\Steam Library\`
+* Point it to a location somewhere outside the UAC protected folders, for example `G:\Steam Library\`.
 * Close all windows when you’re done.
+
+> It is important to note that Steam only allows one **Steam Library** per hard drive. However, there is a workaround: If you already have a **Steam Library** on your C:\ drive but inside a UAC protected folder and you want to have Skyrim and your modding files on the same drive, please check out LostDragonist's [**Steam Library Setup Tool**](https://github.com/LostDragonist/steam-library-setup-tool).
+
+![New Steam Library](/Pictures/tpf/initial-setup/new-steam-library.png)
 
 ## Game Language
 
-Non-English installations are not supported. Please make sure Skyrim SE is set to English in Steam.
+Non-English installations are not supported. Skyrim SE must be set to English in Steam.
 
 - Right-click **The Elder Scrolls V: Skyrim Special Edition** in your Steam games library.
 - Select **Properties** and switch to the **Language** tab.
@@ -99,6 +117,8 @@ Although Steam will no longer update Skyrim SE automatically, I still recommend 
 ## Creations
 
 If you bought anything from the Creation Club (or grabbed "creations" while they were up for free), they will be re-installed alongside Skyrim SE. **The guide does not support Creation Club content** so you will have to move them away from the game files.
+
+*However, there are TPF Addons that do add Creation Club support. If you choose to install any of them later on, you will then be able to reinstall the respective “creations” as mods from your backups.*
 
 - Create a new folder: `Your Modding Folder\Backups\Creation Club`.
 - Select all files beginning with **cc** (ESLs and BSAs) in your **Data** folder and hit CTRL+X.

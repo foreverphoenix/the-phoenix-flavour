@@ -141,6 +141,12 @@ description: >
 
 - **Main Files:** Vanilla hair - Salt and Wind
 
+##### [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SLF Hair - Rough Hair - Lite 1K
+
 ##### [Argonians Enhanced - HD Argonian Hair](https://www.nexusmods.com/skyrimspecialedition/mods/4830?tab=files)
 
 #### Download Instructions
@@ -180,6 +186,13 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Authentic Eyes v1.1
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\character\eyes\eyewolfenvironmentmask_m.DDS`
+
+> The werewolf eye textures by KrittaKitty will look strange and too bright otherwise.
 
 ##### [Immersive Mouth and Teeth for Orcs](https://www.nexusmods.com/skyrimspecialedition/mods/27343?tab=files)
 

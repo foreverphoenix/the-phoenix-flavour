@@ -154,11 +154,18 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
 
-##### [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462?tab=files)
+##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/50202?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** No More Laser-Printed Book
+- **Main Files:** Convenient Reading
+
+#### Additional Instructions
+
+- Double-click **Convenient Reading** in your mod order.
+- Switch to the **INI Files** tab and select the **Convenient Reading.ini**.
+- In **Line 11** set **sBookStealTextColor=** to **0xFF0000**.
+- Hit **CTRL + S** to save your changes and close the window.
 
 ##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
 
@@ -214,11 +221,24 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 > Obviously you can select the "Left" option if you are left-handed.
 
-##### [Roboto Font Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1779?tab=files)
+##### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Roboto Main Font Replacer
+- **Main Files:** Sovngarde - A Nordic Font Light V8.9
+
+#### Additional Instructions
+
+- Double-click **Sovngarde - A Nordic Font** in your mod order.
+- Switch to the **Text Files** tab and select the **fontconfig.txt** file.
+- Create a new line below `fontlib "Interface\fonts_drukaatieburti.swf"`.
+- Paste `fontlib "Interface\fonts_consolas.swf"` into the new **Line 6**.
+- In **Line 7**, change `"SovngardeConsole"` to `"Consolas"`.
+- Close the window and click **Yes** when asked to save.
+
+> This way you can use Sovngarde's font for most of the game with Dear Diary's Consolas font for the console.
+
+![Sovngarde Consolas](/Pictures/tpf-x/installation/sovngarde-consolas.png)
 
 ##### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files)
 

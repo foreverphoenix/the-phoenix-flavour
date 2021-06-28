@@ -162,12 +162,13 @@ description: >
 
 - **Main Files:** Particle Lights For ENB SE - Paragon Gems - Iconic's Gems Patch
 
-##### [ElSopa HD - Dragonborn Skull Variants](https://www.nexusmods.com/skyrimspecialedition/mods/21917?tab=files)
+##### [Iconic's Saerek and Torsten Skull Key Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45329?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** 1K Dragonborn Skull Variant
+* **Main Files:** Saerek And Torsten Skull Key
 
 #### FOMOD Instructions
 
-* **Step 1:** White Gold
+* **Texture Sizes:** 2K
+* **Eye Color Options:** Blue and Light Blue

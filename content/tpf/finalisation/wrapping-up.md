@@ -12,6 +12,13 @@ description: >
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide’s Nexus page.
 - Install it as usual, place it last below the **FINAL PATCHES** separator, and activate it.
 
+## Facegen
+
+Facegen for all vanilla and mod-added NPCs was regenerated with TPF's appearance section as base. That means all improvements to assets such as warpaints will now also apply to NPC's faces, plus their facetint textures is twice the vanilla resolution.
+
+- Download [The Phoenix Flavour - Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the guide's Nexus page.
+- Install the mod as usual, place it below the Conflict Resolution Patch in the mod order, and activate it.
+
 ## Load Order TXT
 
 The pre-made TXT will arrange your plugins exactly like the way they are sorted in my personal setup. This is much faster than adjusting the load order manually or setting up LOOT with custom rules.
@@ -64,7 +71,7 @@ While at this point many installed plugins are already flagged as ESL (ESP-Lite)
 
 ### Remaining Plugins
 
-You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it.
+You will now need to repeat the process for a handful of other mods, most of which will not need their FormIDs renumbered. The plugins to ESL-ify are listed below. Simply add the ESL flag to each of them and don’t forget to renumber FormIDs first for those that need it. You can do all of them at once (there is no need to restart SSEEdit for each plugin).
 
 * QuestsAreInSkyrimUSSEP.esp
 * ~~Raven Rock - Fix Exit on Horseback.esp~~ *already flagged*
@@ -88,15 +95,11 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * dD-Reduced Wound Size.esp
 * DeadlySpellImpacts.esp
 * Enhanced Vanilla Trees SSE.esp
+* Veydosebrom Regions.esp **compact FormIDs**
+* Cathedral - 3D Pine Grass.esp **compact FormIDs**
 * RUSTIC SOULGEMS - Sorted.esp
 * homeymealyum.esp
 * GQJ_DG_vampireamuletfix.esp
 * Miscellaneous Quests…as Miscellaneous Quests.esp
 * Mortal Enemies - No RunWalk Changes.esp
 * Realistic Melee Range.esp
-* Northerner Diaries in Skyrim.esp **compact FormIDs**
-* Still.esp
-* Hun Lovaas.esp
-* NirShor-MusicalLore.esp **compact FormIDs**
-
-> After renumbering the form IDs for Northern Diaries in Skyrim.esp and NirShor-MusicalLore.esp, the Phoenix - Merged Music Patch.esp will also be marked as updated which is intended behaviour as the previously renumbered form IDs are referenced there and updated accordingly.

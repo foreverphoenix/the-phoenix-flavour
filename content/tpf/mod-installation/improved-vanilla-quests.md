@@ -171,6 +171,12 @@ description: >
 
 * **Main Files:** Buyable Golden Claw
 
+##### [Silence Is Golden](https://www.nexusmods.com/skyrimspecialedition/mods/50581?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Silence is Golden
+
 ##### [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395?tab=files)
 
 #### Download Instructions
@@ -192,3 +198,11 @@ description: >
 - **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
 
 > Note that the amount of pamphlets required by the Mara quest will be reverted to vanilla by the guide's CRP.
+
+##### [Reasonable Quest Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/46910/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Reasonable Quest Rewards
+- **Optional Files:** Reasonable Quest Rewards - Bounties Are Worthwhile Patch
+- **Optional Files:** Reasonable Quest Rewards - Dark Brotherhood

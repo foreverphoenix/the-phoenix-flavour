@@ -50,6 +50,8 @@ This is what the TPF-X section in my Mod Organizer 2 instance looks like:
 
 ![Separators](/Pictures/tpf-x/getting-started/separators.png)
 
+> You won't have the "Phoenix' Little Helpers" and "Facegen Plugins" separators. They contain mods I need when working on TPF.
+
 ## Final Notes
 
 **TPF-X is more advanced than TPF**. I have abbreviated many instructions and you need to read *very carefully* so you don't miss anything. Because TPF-X is modular, it's tempting to skip over sections but I strongly urge you not to do that. Many mods have additional, complementary mods that should be installed alongside or patches that are required. Since you "graduated" from base TPF, I have higher expectations of you.
@@ -58,7 +60,7 @@ This is what the TPF-X section in my Mod Organizer 2 instance looks like:
 
 Because of the modular nature of TPF-X there is no **loadorder.txt** provided so you have to sort your plugins yourself. If you look at the base TPF load order you will notice that I have mirrored the mod order for the most part and only when conflicts could be resolved simply by moving a plugin did I deviate from that. Please do the same thing for the TPF-X plugins and sort the plugins in the order you installed them in.
 
-- Group all TPF-X plugins below **AllGUD Conditions Fix.esp** and above **RealisticWaterTwo.esp**.
+- Group all TPF-X plugins below **XPMSE.esp** and above **RealisticWaterTwo.esp**.
 - Group all **The Phoenix Flavour - <Mod\> Patch.esp** plugins below **The Phoenix Flavour - Conflict Resolution Patch**.
 - Creation Club content will always be sorted to the top automatically. You do not need to move them manually.
 - Some plugins have specific load order instructions that override the general "place in installation order" rule.

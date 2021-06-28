@@ -18,6 +18,39 @@ description: >
 
 - **Main Files:** Enhanced Reanimation
 
+#### Additional Instructions
+
+The INI file for Enhanced Reanimation would normally be generated upon launching the game and then be dumped into the MO2 Overwrite. Since multiple mods work like this, it would create a mess of various different files that need to be manually moved into their appropriate mod folders. It's faster to simply create the file by hand and in the right spot.
+
+- Right-click **Enhanced Reanimation** in your mod order and select **Open in Explorer**.
+- Navigate to `SKSE\Plugins\`. Right-click and select **New > Text Document**.
+- Rename it from **New Text Document.txt** to **po3_EnhancedReanimation.ini**.
+- Open your new INI file and paste the following inside:
+
+```
+[Settings]
+
+;fast travel fix
+Fast Travel = true
+
+;reanimated necromancers can cast reanimate spells
+Necromancer Cast = true
+
+;reanimate decapitated enemies
+Decapitated NPCs = true
+
+
+[Riding]
+
+;ride reanimated horses/mounts (not dragons)
+Ride Horses = true
+
+;patch all reanimate spells so mounts can be reanimated
+Patch Horses = true
+```
+
+- Save your changes and close the file.
+
 ##### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files)
 
 #### Download Instructions
@@ -29,12 +62,6 @@ description: >
 #### Download Instructions
 
 * **Main Files:** YesImSure
-
-##### [No Attack Messages](https://www.nexusmods.com/skyrimspecialedition/mods/42621?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** No Attack Messages
 
 ##### [Sales Overflow Solved](https://www.nexusmods.com/skyrimspecialedition/mods/41625?tab=files)
 
@@ -63,14 +90,41 @@ description: >
 
 - **Main Files:** Essential Favorites
 
-#### INI Configuration
+#### Additional Instructions
 
-- Double-click **Essential Favorites** in your mod order.
-- Switch to the **INI Files** tab and select the **po3_EssentialFavorites.ini**.
-- Change `No Disarm=` to `false`.
-- Close the window and click **Yes** to save your change.
+Same thing as with Enhanced Reanimation - we don't want a dozen INI files in our Overwrite to sort into the correct mod folders. Additionally, there is a small tweak to make in the INI file for Essential Favorites: No Disarm was set to false as otherwise Disarm shouts used against the player would be pointless.
 
-> This would make Disarm shouts used against the player pointless most of the time.
+- Right-click **Essential Favorites** in your mod order and select **Open in Explorer**.
+- Navigate to `SKSE\Plugins\`. Right-click and select **New > Text Document**.
+- Rename it from **New Text Document.txt** to **po3_EssentialFavorites.ini**.
+- Open your new INI file and paste the following inside:
+
+```
+[Settings]
+
+;Prevents favorited items from being sold
+No Bartering = true
+
+;Prevents favorited weapons from being disarmed
+No Disarm = false
+
+;Prevents favorited ingredients from showing up in Alchemy menu
+No Alchemy = true
+
+;Prevents favorited items from showing up in Crafting menu
+No Crafting = true
+
+;Prevents favorited items from being disenchanted
+No Disenchanting = true
+
+;Prevents favorited items from being dropped
+No Drop Item = false
+
+;Prevents favorited items from being gifted
+No Gifting = false
+```
+
+- Save your changes and close the file.
 
 ##### [Remember Lockpick Angle - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files)
 

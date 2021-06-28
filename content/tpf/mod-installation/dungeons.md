@@ -77,18 +77,6 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 - **Main Files:** Windcaller Tomb And Horn 4K
 
-##### [Ice Cave Parallax Improved](https://www.nexusmods.com/skyrimspecialedition/mods/24987?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ice Cave Parallax Improved 1.4.1
-
-##### [Gecko’s Dwarven Ruins Textures](https://www.nexusmods.com/skyrimspecialedition/mods/10738?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Gecko’s Dwarven Ruins Textures
-
 ##### [RUSTIC WORD WALLS](https://www.nexusmods.com/skyrim/mods/68561?tab=files)
 
 #### Download Instructions
@@ -101,60 +89,38 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
 
-##### [Metallurgy - Ingots and Ore HD](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Metallurgy - Ingots Ore and Veins HD 1K (LOOSE)
-
 ##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Ancient Pottery
 
-##### [ElSopa HD - Realistic Dark Elf Urns](https://www.nexusmods.com/skyrimspecialedition/mods/21717?tab=files)
+##### [Skyrim Remastered - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/38220?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** HD Dark Elf Urns 2k
+- **Main Files:** Skyrim Remastered - Caves 2K Non Parallax
+- **Update Files:** Skyrim Remastered - Caves New Icicles >> `merge with the main file`
+- **Update Files:** Skyrim Remastered - Caves Updated ESP >> `merge with the main file`
 
-##### [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Dwemer Metal 4K
-
-##### [Dwemer Pipework Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files)
+##### [The Dwemer](https://www.nexusmods.com/skyrimspecialedition/mods/49234?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Dwemer Pipework Reworked 3.1
+- **Main Files:** The Dwemer 4K by RGB03
+- **Optional Files:** The Dwemer v1.4 HotFix Patch >> `merge with the main file`
+- **Optional Files:** the Dwemer - Compatibility Patch Pack
 
-##### [Ancient Dwemer Metal - My Patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+#### FOMOD Instructions
 
-#### Download Instructions
-
-- **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
-- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v3
-- **Optional Files:** Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v3 4K
-
-#### Installation Instructions
-
-Unfortunately, "Mod Manager Download" was disabled for the main file.
-
-- Download the main file from the Nexus page manually.
-- Move the archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- In Mod Organizer 2, press F5 to refresh.
-- The mod will now appear in the **Downloads** tab.
-- Right-click it and select **Query Info**.
-- Double-click the mod to install it as usual.
-
-##### [Dwemer Ichor Barrel 2K](https://www.nexusmods.com/skyrimspecialedition/mods/16797?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** 2K Dwemer Ichor Barrel
+- **Resolution:** 4K
+- **Compatibility patch:**
+  - USSEP
+  - ~~aMidianBorn~~
+  - ~~ELFX~~
+  - Unofficial Material Fix
+  - ENB Particle Lights
+  - ~~Dwemer Pipework Reworked~~
 
 ##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
 
@@ -162,23 +128,23 @@ Unfortunately, "Mod Manager Download" was disabled for the main file.
 
 * **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
 
-##### [ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch
-
 ##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
 
-##### [Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+##### [Aetherium Falmer Cave Ceiling Glow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch
+- **Main Files:** Aetherium Falmer Ceiling 2K
+
+##### [Skyrim Remastered - Azura and Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/38371?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim Remastered - Azura and Blackreach Crystals 2K
 
 ##### [WEBS](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files)
 
@@ -191,3 +157,11 @@ Unfortunately, "Mod Manager Download" was disabled for the main file.
 #### Download Instructions
 
 * **Main Files:** HD Lava (4k)
+
+##### [Particle Lights for ENB - Light Orbs](https://www.nexusmods.com/skyrimspecialedition/mods/50737?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights for ENB - Light Orbs - Motes
+
+> These appear only in [one dungeon](https://en.uesp.net/wiki/Skyrim:Yngol_Barrow) in the entire game but they are very pretty.
