@@ -108,7 +108,7 @@ description: >
 
 - **Main Files:** WalkWayCWall01 NIF - SLaWF SMIM BDS Patch
 
-> This mesh consolidates the tweaks from SLaWF (fixes a whole) and SMIM (3D ropes) into one mesh, plus it removes parallax which is not compatible with Better Dynamic Snow 3.x.
+> This mesh consolidates the tweaks from SLaWF (fixes a hole) and SMIM (3D ropes) into one mesh, plus it removes parallax which is not compatible with Better Dynamic Snow 3.x.
 
 ##### [Glacierslab](https://www.nexusmods.com/skyrimspecialedition/mods/24178?tab=files)
 
