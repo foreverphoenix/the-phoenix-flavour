@@ -6,7 +6,7 @@ description: >
   Various Script Extender or NET Script Framework based plugins.
 ---
 
-##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab)
+##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab=files)
 
 #### Download Instructions
 

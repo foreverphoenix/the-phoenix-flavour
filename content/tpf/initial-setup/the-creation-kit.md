@@ -23,9 +23,9 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * When that is done, you must log-in with your Beth.net account or register a new one.
 * Once you’re logged in, check the list of game icons on the left.
 * Click the two arrows `>>` at the top to open the full list.
-* Select **Creation Kit: Skyrim** (with the white icon) and click **Install**.
+* Select **Creation Kit: Skyrim** (with the white icon).
 * The CK should be installed directly into your **root** folder (see picture).
-* Wait for the files to download.
+* Click **Install** and wait for the files to download.
 
 ![Creation Kit Installation Path](/Pictures/tpf/initial-setup/ck-installation-path.png)
 

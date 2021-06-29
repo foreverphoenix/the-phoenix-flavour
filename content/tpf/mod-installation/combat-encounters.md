@@ -1,6 +1,6 @@
 ---
 title: "Combat & Encounters"
-weight: 35
+weight: 34
 type: docs
 description: >
   Mods to improve and diversify combat.

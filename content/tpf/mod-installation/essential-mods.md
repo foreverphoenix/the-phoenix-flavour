@@ -182,13 +182,14 @@ Additionally, you will be unable to install other SSE mod lists through Wabbajac
 
 #### Download Instructions
 
-- **Main Files:** WACCF Greatsword Weapon Speed Tweaks
+- **Miscellaneous Files:** WACCF Greatsword Weapon Speed Tweaks
 
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 #### Download Instructions
 
-- Find the **SPECIAL EDITION** section in the forum post linked above and click the **GOOGLE DRIVE** link (see picture).
+- Find the **SPECIAL EDITION** section in the forum post linked above.
+- Click the **LATEST VERSION (GOOGLE DRIVE)** link (see picture).
 - Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
 - I recommend renaming it simply to **Skyrim Particle Patch** after the installation.

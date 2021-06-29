@@ -53,7 +53,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Markarth - A Mountainous Experience
+- **Main Files:** Skyrim - A Mountainous Experience
 
 ##### [Moss Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8838?tab=files)
 

@@ -110,7 +110,7 @@ description: >
 
 - **Main Files:** Dlizzio's Mesh Fixes
 
-##### [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=description)
+##### [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
 
 #### Download Instructions
 
@@ -249,7 +249,7 @@ description: >
 
 > The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
 
-##### [hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
+##### [Hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
 
 #### Download Instructions
 

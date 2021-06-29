@@ -6,6 +6,42 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.6.1
+
+> TBD
+
+#### Mod Installation
+
+- **Essential Mods:** Fixed download instructions for WACCF Greatsword Weapon Speed Tweaks (Misc File instead of Main File).
+- **Essential Mods:** Updated download instructions and screenshot for Skyrim Particle Patch.
+- **Fixes:** Fixed link for Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch (pointed to description instead of files page).
+- **Interface:** Fixed additional instructions for Convenient Reading UI (setting to edit is in Line 12 instead of 11).
+- **Graphics Baseline:** Fixed link and download instructions for Perfect Terrain LOD.
+- **Graphics Baseline:** Fixed download instructions for Unofficial Material Fix - Assorted Mesh Fixes Patch (copy-paste error).
+- **Landscape:** Fixed download instructions for Skyrim - A Mountainous Experience (file name changed).
+- **Architecture:** Added Marketplace Shingles - Alpha Patch.
+- **Unique Artifacts:** Removed 2K Black Bow of Fate (late note for 4.6 in which the Unique Artifacts step was also removed).
+- **Creatures:** Added Particle Lights for ENB - Wisps (late note for 4.6).
+- **Gameplay Overhauls:** Updated Reliquary of Myth FOMOD instructions.
+- **Assorted Plugins:** Fixed link for Classic Paralysis (now properly leads to the Files section).
+
+#### Finalisation
+
+- **Wrapping Up:** Updated load order warning: There should be no plugin below the Facegen plugin.
+- **Wrapping Up:** Removed NoMoreFollowerHuntingBow.esp from the list of plugins to ESL-ify (it was rolled into the CRP).
+- **SSELODGen:** Updated the AQWM conflicts screenshot (the files now also conflict with Base Coat).
+- **DynDOLOD:** Fixed the file path to the DynDOLOD_SSE.ini in the INI Adjustments section.
+
+#### Performance Guide
+
+- Added note to the grass overhaul section that The Phoenix Flavour - Grass Patch must also be disabled.
+
+#### Wabbajack
+
+- Updated Dlizzio's Mesh Fixes to 2.2
+- Updated Adamant - A Perk Overhaul to 5.0.2
+- Updated Dragon War - A Dragon Overhaul to 1.0.4
+
 ## Release 4.6
 
 > 28/06/2021

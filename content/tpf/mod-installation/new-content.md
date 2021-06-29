@@ -1,6 +1,6 @@
 ---
 title: "New Content"
-weight: 34
+weight: 35
 type: docs
 description: >
   Mods that add various things to Skyrim.
