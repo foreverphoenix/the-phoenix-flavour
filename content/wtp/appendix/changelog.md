@@ -6,11 +6,20 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6.3
+
+> TBD
+
+#### Mod Changes
+
+- Disabled frame limit in enblocal.ini (oversight from when I reinstalled ENBSeries in 1.6.2)
+- Enabled VSYNC in High FPS Physics Fix (should always be on)
+
 ## Release 1.6.2
 
 > 27/06/2021
 
-This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack update to 2.5.0.0, I had to recompile anyway.
+This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack updated to 2.5.0.0, I had to recompile anyway.
 
 Update your **Game Folder Files** to get the new ENBSeries binaries. The update is **save safe**.
 
