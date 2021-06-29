@@ -8,7 +8,11 @@ description: >
 
 ## Release 4.6.1
 
-> TBD
+> 29/06/2021
+
+Here is the first round of fixes for TPF 4.6 as expected. Since the update was larger than usual, I seem to also have messed up more (sorry). Huge thanks go to all the wonderful people who left feedback on Discord!
+
+We are currently investigating potential performance issues going beyond the increase that we had expected to see in the update. Anybody currently experiencing performance issues should use the performance guide/profile. If you have the time, please also leave us some feedback on Discord!
 
 #### Mod Installation
 
@@ -38,6 +42,7 @@ description: >
 
 #### Wabbajack
 
+- Fixed about a dozen mods being inactive because I forgot to sync with the main profile
 - Updated Dlizzio's Mesh Fixes to 2.2
 - Updated Adamant - A Perk Overhaul to 5.0.2
 - Updated Dragon War - A Dragon Overhaul to 1.0.4
