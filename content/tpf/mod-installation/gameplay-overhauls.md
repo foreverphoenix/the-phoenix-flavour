@@ -147,8 +147,8 @@ description: >
 - **SPID Patches:**
   - ROM - SPID Patch
   - ROM - SPID DPM Patch
-- **Optional Patches:**
-  - ~~ROM - WMA Patch~~
+- **WMA Patches:**
+  - None
 
 ##### [Modular Armory - Reliquary of Myth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
 

@@ -69,7 +69,7 @@ A major reason for the performance loss from TPF 4.5 onwards was the removal of 
 
 The good news is that you can keep Cathedral 3D Pine Grass which was made by the same author as Cathedral Landscapes, JonnyWang, and is also impressively performance-friendly.
 
-However, you need to **disable Veydosebrom** in your mod order.
+However, you need to **disable Veydosebrom and The Phoenix Flavour - Grass Patch** in your mod order.
 
 ##### [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=files)
 

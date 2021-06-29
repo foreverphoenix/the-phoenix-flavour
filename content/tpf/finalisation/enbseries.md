@@ -3,7 +3,7 @@ title: "ENBSeries"
 weight: 10
 type: docs
 description: >
-  Installation of ENBSeries with Serio's ENB.
+  Installation of ENBSeries with Rudy ENB.
 ---
 
 ## What is ENBSeries?

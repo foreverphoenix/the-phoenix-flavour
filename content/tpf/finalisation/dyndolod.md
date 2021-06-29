@@ -41,7 +41,7 @@ However, for TPF we are going to use the **High** preset with 3D tree LOD which 
 
 Before we generate LOD with DynDOLOD, we need to tweak a few settings:
 
-- Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\`.
+- Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\`.
 - Open **DynDOLOD_SSE.ini** in Notepad++.
 
 Enable expert mode in DynDOLOD:

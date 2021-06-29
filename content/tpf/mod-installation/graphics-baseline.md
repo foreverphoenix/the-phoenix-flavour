@@ -46,11 +46,11 @@ description: >
 
 - **Optional Files:** HD LODs Textures SE Mesh Fix
 
-##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Perfect Terrain LOD - Noise Texture
+- **Main Files:** Terrain Noise for xLODGen
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -110,7 +110,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** SMIM - Assorted Mesh Fixes Patch
+- **Main Files:** Unofficial Material Fix - Assorted Mesh Fixes Patch
 
 > Keep this mod page open, we need another file from it.
 
