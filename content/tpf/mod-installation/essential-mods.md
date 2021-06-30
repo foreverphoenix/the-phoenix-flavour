@@ -56,8 +56,8 @@ description: >
 - Double-click the mod in your mod order and switch to the **INI Files** tab.
 - Select the **SSEDisplayTweaks.ini** and edit the following:
   - **207** `FramerateLimit=60` if you want to cap the framerate (see note)
-  - **600** `LoadScreenFilter=true` to enable the load screen filter
-  - **602** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
+  - **601** `LoadScreenFilter=true` to enable the load screen filter
+  - **603** `LoadScreenBlock=DynDOLOD.esm,Lanterns Of Skyrim II.esm` to block load screens added by those plugins
 - Hit CTRL+S to save and close the window.
 
 > You can leave the framerate uncapped if you prefer, it will no longer break the game.That being said, general physics weirdness (like flying objects) still happens more frequently at higher framerates. Additionally, achieving a framerate consistently above 60, especially with ENB, *especially* on resolutions of 1440p and upwards, requires very solid hardware. I personally think 60 is the sweet spot for everyone.
@@ -66,7 +66,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.42
+* **Main Files:** More Informative Console 0.43
 
 ##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
@@ -84,7 +84,7 @@ description: >
 
 Game settings can be implemented in two ways: They can be added to a plugin or toggled in the console using the `SetGS` command. When using the console, the command would have to be entered every time the game is restarted. Fortunately we have Autorun which will execute any console commands configured in its text file automatically when loading a save.
 
-- Double-click **Autorun Console Commands** in Mod Organizer 2.
+- Double-click **Autorun** in Mod Organizer 2.
 - Switch to the **Text Files** tab and select the **Autorun.txt** file.
 - Copy and paste the following lines into the text field:
 
@@ -182,13 +182,14 @@ Additionally, you will be unable to install other SSE mod lists through Wabbajac
 
 #### Download Instructions
 
-- **Main Files:** WACCF Greatsword Weapon Speed Tweaks
+- **Miscellaneous Files:** WACCF Greatsword Weapon Speed Tweaks
 
 ##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 #### Download Instructions
 
-- Find the **SPECIAL EDITION** section in the forum post linked above and click the **GOOGLE DRIVE** link (see picture).
+- Find the **SPECIAL EDITION** section in the forum post linked above.
+- Click the **LATEST VERSION (GOOGLE DRIVE)** link (see picture).
 - Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
 - I recommend renaming it simply to **Skyrim Particle Patch** after the installation.

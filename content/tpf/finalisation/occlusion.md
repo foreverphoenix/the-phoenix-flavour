@@ -19,7 +19,7 @@ This will also fix the giant hole in the Sea of Ghosts behind Winterhold.
 - Set **Height** to **100**.
 - Click **Generate** and wait for the process to complete.
 
-> Occlusion generation is very CPU intense and will likely hold your processor load at 100% for the duration.
+> Occlusion generation is very CPU intense and will likely hold your processor load at 100% for the duration. You absolutely have to step away from your PC while it generates if you don't want to risk a complete crash / blue screen.
 
 ![Generate Occlusion Data](/Pictures/tpf/finalisation/generate-occlusion-data.png)
 

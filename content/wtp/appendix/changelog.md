@@ -6,6 +6,183 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6.2
+
+> 27/06/2021
+
+This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack update to 2.5.0.0, I had to recompile anyway.
+
+Update your **Game Folder Files** to get the new ENBSeries binaries. The update is **save safe**.
+
+#### Mod Changes
+
+- Updated ENBSeries to 0.458
+- Updated the Unofficial Fallout 4 Patch to 2.1.3
+- Updated Buffout to 1.23.1
+- Updated Workshop Framework to 2.0.15a
+- Updated FallUI - Inventory to 1.13.3
+- Updated FallUI - HUD to 1.4
+- Updated Console Commands Extender to 1.2.0
+- Maybe fixed UI elements sometimes being misaligned
+- Fixed a few minor issues in Home Plate (thanks C19i)
+
+## Release 1.6.1
+
+> 04/06/2021
+
+As it turns out, I got sloppy last night. I'd already recompiled once when [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178) updated and part of the update was support for [Tactical Reload](https://www.nexusmods.com/fallout4/mods/49444). I dropped in both, did a cursory check in xEdit, fixed some conflicts, and called it a day. Evidently I shouldn't have done that as something about the combination has caused frequent crashes in WTP 1.6 that was reported twice so far and I was able to reproduce it on my end. Dropping Tactical Reload fixed it so at least there was an easy solution. I haven't investigated further why exactly the crashes happen because I frankly don't care about the mod that much and don't have time today either.
+
+This update is **save safe**. It's a crash fix. You'll be asked about missing plugins when loading your save, click Yes.
+
+#### Mod Changes
+
+- Removed Tactical Reload
+- Replaced the TR version of BCR Lever Action Rifle with the regular one
+- Removed Tactical Reload as a master from the CRP
+
+## Release 1.6
+
+> 03/06/2021
+
+**Starting a new game is required.**
+
+For this update I checked out the new **FallUI** suite of interface replacers and took the opportunity to review WTP's existing interface mods. I came to the decision to once again remove [Extended Dialogue Interface](https://www.nexusmods.com/fallout4/mods/27216) and revert to [Full Dialogue Interface](https://www.nexusmods.com/fallout4/mods/1235) which I like far better. After careful consideration, I decided *against* including [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813) because even with my DEF_UI HUD preset, it would make item pickup prompts look [weird](https://i.imgur.com/Bd9w9VZ.jpg) with a huge gap between the item name and the button prompts. I also removed FallUI - Map because I didn't like it. However, FallUI - HUD and FallUI - Map are still going to be installed in case someone wants them (but are disabled by default).
+
+I also removed **Widescreen** support. I can't test it, it's additional headache, I'd have to write extra instructions for changing the aspect ratio in the various FallUI MCMs. Sorry to everyone on ultrawide monitors, it's just not worth the effort to me.
+
+When updating, please also move the Game Folder Files into your root folder and overwrite (ENB binaries updated).
+
+#### Mod Changes
+
+- Added zEdit (I needed it for one merge)
+- Added deorder's MO2 Plugins (only useful for me)
+- Added F4 Creation Kit Fixes (only useful for me)
+- Added DEF_HUD - My Preset (smaller vanilla, crosshair to dot)
+- Added Tactical Reload
+- Added Jamaica Plain Navmesh Fix
+- Added Weston Water LOD Fix
+- Added Assaultron Left Hand Hydraulic Frame Arm Mesh Bug Fix
+- Added Perception Bug Fix
+- Added Carlisle Typewriter Mesh Fix
+- Added Car Physics Death Bug Fix
+- Added 1 Rad Bugfix
+- Added Far Harbor Marine Armor Boots Fix
+- Added Cryo Fix
+- Added Cryolator Cryo-Cell Fix
+- Added Pool Rack Fix (finally the game is playable)
+- Added X-01 Power Armor Neck and Minor Light FX Fix
+- Added FallUI - HUD (disabled by default)
+- Added Full Dialogue Interface
+- Added String Patches for Full Dialogue Interface
+- Added UNLIMITED POWER - Tesla Rifle Projectiles Create Visual Effect on Impact
+- Added Fix for Forsythia
+- Added Far Harbor Pine Branches
+- Added The Natural Bundle - Masonry Set
+- Added The Natural Bundle - Submarine Set
+- Added Defined Hightech Floor Tiles
+- Added Fix for Tiles02
+- Added ADs 2X Rez
+- Added Wall Worldmap
+- Added Globes (retexture)
+- Added Library and Subway Tokens HD Remastered
+- Added Deathclaws HD Retexture
+- Added The Flamer Project
+- Added Leafblower Junk Jet
+- Added Synthkind Redefined
+- Added Auto Lockpick
+- Added Auto Hack
+- Added Better Explosives Redux
+- Added Fortune Finder 4 Fix
+- Added Vault 88 Template - Optimised
+- Added Workshop Power Pack
+- Added Vault 88 Essentials
+- Added Vault 88 Essentials - WTP Tweaks
+- Added Whose Quest Is It Anyway
+- Added River Fix
+- Updated Mod Organizer 2 to 2.4.2
+- Updated ENBSeries to 0.455
+- Updated Buffout to 1.23.0
+- Updated Bullet Counted Reload System to 2.0
+- Updated Workshop Framework to 2.0.14a
+- Updated Wetness Shader Fix to 3.41
+- Updated Companion Stealth Distance Fix to 7.0
+- Updated FallUI Confirm Boxes to 2.1
+- Updated FallUI Workbench to 1.2.4
+- Updated Fallout 4 Ultimate Window Overhaul to 3.1
+- Updated Visible Idle Markers to 1.6
+- Updated LOST Audio Tweaks to 1.7a
+- Updated the LOST Audio Tweaks - True Storms and RAO Patch to 1.1
+- Removed Extended Dialogue Interface
+- Removed Scrolling Doesn't Change PoV
+- Removed Valentine Jaw Sync (part of Synthkind Redefined)
+- Removed Weapon Rack Fixes (largely covered by UFO4P)
+- Removed Detailed Deathclaws
+- Removed Fallout 3 NV Feral Ghouls Replacer
+- Removed Simple Crafting Station - K-9 Harness Patch
+- Removed Sprint Engine Limitations
+- Reinstalled Fixed Flickering Puddles (was missing one file, may fix lingering issues)
+- FallUI - Map is now disabled by default
+- Rebuilt the Weapons BA2s
+- Rebuilt the Creatures BA2s
+- Deleted the broken IMAD record in True Nights to be on the safe side (I tweaked it before but can't remember how)
+- Regenerated precombines for the area around the new Sanctuary bridge (thanks for talking me through that, Lively!)
+- Removed Fortune Finder tweaks from Loot Logic Scrounger Fortune Finder Rebalance
+- Reverted UNLIMITED POWER changes to Tesla Rifle damage, capacity, and reload speed
+- Added new 'Backpack' tag to DEV_INV_TAGS.xml
+- Merged the three music plugins together and removed the separate plugins
+- Replaced the now redundant music patch with the merged plugin
+- Extracted the Fallout Suite BA2 since there is no longer a plugin to load it
+- Fixed some conflicts between Better Explosives Redux and other mods
+- Regenerated INI files from scratch
+
+**K-9 Harness**
+
+Until now fadingsignal's K-9 Harness for Dogmeat could be crafted at the crafting station which was the original implementation. I have never been happy with this and in this update I finally did something about it. You can now find exactly *one* K-9 Harness in the world. The location happens to be a police station for obvious reasons - if you want to know where exactly you can find it, double-click the new K-9 Integration Patch in Mod Organizer 2 and check the **Notes** tab.
+
+**Creation Club**
+
+WTP 1.6 adds *optional* support for some "creations" (only the Modular Military Backpack so far). You can find details and instructions [here](/wtp/wtp-resources/creation-club).
+
+#### Website Changes
+
+- Updated a bunch of pages. Added stuff on the **Finalisation** page. Don't remember everything.
+- Added a link for LostDragonist's Steam Library Setup Tool on the **Fallout 4** page.
+- Removed Widescreen support stuff from the **Finalisation** page (sorry).
+- Added new **Creation Club** page under Resources for Modular Military Backpack support.
+- Removed the Custom Files page. All relevant documentation was moved into Mod Organizer 2 (check the Notes for each mod).
+- Linked to True Nights for instructions on how to change night brightness on **Troubleshooting**.
+
+## Release 1.5.2
+
+> 06/04/2021
+
+This update is safe-save. Copy over the GFF into your root folder and overwrite (ENB binaries updated).
+
+#### Mod Changes
+
+- Updated Mod Organizer 2 to 2.4.1
+- Re-arranged and re-coloured MO2 separators
+- WTP changelogs are no longer available through MO2
+- Updated ENBSeries (no version change)
+- Updated Buffout 4 to 1.22.0
+- Updated PrivateProfileRedirector to 0.5.2
+- Updated High FPS Physics Fix to 0.8.3
+- Updated What's Your Name to 1.12.0
+- Added Less Annoying Water Foam Circles
+- Added No Quest Autostart - BoS Fire Support
+- Added No Quest Autostart - Automatron
+- Added No Quest Autostart - Vault-Tec
+- Added No Quest Autostart - Far Harbor
+- Added No Quest Autostart - Nuka World
+- Removed some unnecessary stuff from the Phoenix Tweaks plugin
+
+#### Website Changes
+
+- **Finalisation:** Shortened the Resolution section and moved Ultrawide tweaks to this page.
+- **Ultrawide:** Removed this page.
+
+*Turns out that Wabbajack auto-sets the resolution in the INI files.*
+
 ## Release 1.5.1
 
 > 08/03/2021

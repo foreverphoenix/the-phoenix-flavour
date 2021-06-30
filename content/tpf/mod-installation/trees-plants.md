@@ -10,7 +10,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** 1) Enhanced Vanilla Trees SE - Custom Large Trees v2.1.0
+- **Main Files:** 1) Enhanced Vanilla Trees SE - Custom Trees v2.1.0
 - **Optional Files:** 2) Enhanced Vanilla Trees SE - Alternative Branches v2.1.1 >> `merge with the main file`
 
 #### FOMOD Instructions - Main File
@@ -126,6 +126,12 @@ description: >
 - **Optional Files:** Canticle Bark
 - **Optional Files:** Canticle Tree >> `merge with the first file`
 
+##### [High Poly Canticle Tree](https://www.nexusmods.com/skyrimspecialedition/mods/51433?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Poly Canticle Tree
+
 ##### [Rudy HQ - Falling Leaves and Needles](https://www.nexusmods.com/skyrimspecialedition/mods/25939?tab=files)
 
 #### Download Instructions
@@ -196,20 +202,6 @@ fWindGrassMultiplier=1.4
 #### Download Instructions
 
 - **Main Files:** The Phoenix Flavour - Grass Patch
-
-##### [Cathedral Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Cathedral - Plants
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\architecture\whiterun\wrtreealivebark01.dds`
-  - `textures\architecture\whiterun\wrtreeadeadbark01.dds`
-
-> I prefer the bark textures from Noble Skyrim.
 
 ##### [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files)
 
@@ -294,6 +286,12 @@ fWindGrassMultiplier=1.4
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+
+##### [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179?tab=files)
+
+#### Download Instructions 
+
+- **Main Files:** Rallys Blackreach Mushroom - 2K
 
 ##### [High Poly Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40418?tab=files)
 

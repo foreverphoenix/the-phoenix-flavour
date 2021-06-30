@@ -23,7 +23,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Adamant - A Perk Overhaul
-* **Optional Files:** Adamant Addons - Shrines and Amulets
+* **Optional Files:** Adamant - Shrines and Amulets
 
 ##### [Skyrim Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files)
 
@@ -147,8 +147,8 @@ description: >
 - **SPID Patches:**
   - ROM - SPID Patch
   - ROM - SPID DPM Patch
-- **Optional Patches:**
-  - ~~ROM - WMA Patch~~
+- **WMA Patches:**
+  - None
 
 ##### [Modular Armory - Reliquary of Myth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49771?tab=files)
 

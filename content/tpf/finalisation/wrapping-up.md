@@ -33,9 +33,9 @@ The pre-made TXT will arrange your plugins exactly like the way they are sorted 
 * Open the archive and extract the **loadorder.txt** to `Mod Organizer 2\profiles\The Phoenix Flavour`.
 * Restart Mod Organizer 2 and the changes will be applied.
 
-After applying the loadorder.txt and restarting MO2, there should be no plugins below the **Conflict Resolution Patch.esp** in the load order (right pane).
+After applying the loadorder.txt and restarting MO2, there should be no plugins below the **The Phoenix Flavour - Facegen.esp** in the load order (right pane).
 
-If there are other plugins below the CRP, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. Go back to the mod(s) in question (they will be highlighted in the mod order when you click on the plugin in the load order) and re-install them according to the instructions in the guide.
+If there are other plugins below the Facegen plugin, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. Go back to the mod(s) in question (they will be highlighted in the mod order when you click on the plugin in the load order) and re-install them according to the instructions in the guide.
 
 If you are unable to resolve all issues, please join us on Discord and post your Modwat.ch link or a picture of the bottom of your load order in the `#tpf-guide-support` channels.
 
@@ -85,7 +85,6 @@ You will now need to repeat the process for a handful of other mods, most of whi
 * No NPC Greetings.esp
 * Don'tTalkWithYourMouthFull.esp
 * Followers Don't Draw Weapons.esp
-* NoMoreFollowerHuntingBow.esp
 * Random Encounter Tweaks.esp
 * dD-No Spinning Death Animation Merged.esp
 * SparklesSE.esp

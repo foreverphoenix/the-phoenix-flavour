@@ -6,7 +6,7 @@ description: >
   Various Script Extender or NET Script Framework based plugins.
 ---
 
-##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab)
+##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab=files)
 
 #### Download Instructions
 
@@ -62,12 +62,6 @@ Patch Horses = true
 #### Download Instructions
 
 * **Main Files:** YesImSure
-
-##### [No Attack Messages](https://www.nexusmods.com/skyrimspecialedition/mods/42621?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** No Attack Messages
 
 ##### [Sales Overflow Solved](https://www.nexusmods.com/skyrimspecialedition/mods/41625?tab=files)
 

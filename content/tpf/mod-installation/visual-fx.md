@@ -99,18 +99,6 @@ description: >
 
 * **Main Files:** Reduced Glow FX SE
 
-##### [Ljoss ENB - Magelight Fix](https://www.nexusmods.com/skyrimspecialedition/mods/30971?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** Fix overbright magelight and College of Winterhold lights
-
-##### [Fire Halo Remover](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Fire Halo Remover
-
 ##### [Bright Snow Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41737?tab=files)
 
 #### Download Instructions

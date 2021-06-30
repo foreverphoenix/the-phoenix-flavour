@@ -53,7 +53,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Markarth - A Mountainous Experience
+- **Main Files:** Skyrim - A Mountainous Experience
 
 ##### [Moss Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8838?tab=files)
 
@@ -101,6 +101,14 @@ description: >
   * None
 * **Optional Addons:**
   * ~~No Glacier Snow~~
+
+##### [WalkWayCWall01 NIF - SLaWF SMIM BDS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WalkWayCWall01 NIF - SLaWF SMIM BDS Patch
+
+> This mesh consolidates the tweaks from SLaWF (fixes a hole) and SMIM (3D ropes) into one mesh, plus it removes parallax which is not compatible with Better Dynamic Snow 3.x.
 
 ##### [Glacierslab](https://www.nexusmods.com/skyrimspecialedition/mods/24178?tab=files)
 
@@ -185,6 +193,12 @@ description: >
 
 - **Main Files:** REALly Blended Roads
 - **SMIM Compatibility Patch:** REALly Blended Roads
+
+##### [Assorted Mesh Fixes - SMIM - Really Blended Roads Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
 
 ##### [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 

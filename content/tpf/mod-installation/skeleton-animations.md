@@ -73,8 +73,8 @@ By default, the player and NPCs carry their shields in their left hand when thei
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 22** add the following flags: `Flags=Player|NPC|FirstPerson`.
-- In **Line 34** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- In **Line 23** add the following flags: `Flags=Player|NPC|FirstPerson`.
+- In **Line 35** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
 - Press **CTRL+S** to save and close the window.
 
 > The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
@@ -157,6 +157,18 @@ fInAirFallingCharGravityMult=1.8
 #### Download Instructions
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\actors\dragon\animations\ground_bite.hkx`
+  - `meshes\actors\dragon\animations\ground_biteleft.hkx`
+  - `meshes\actors\dragon\animations\ground_biteright.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhip.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipleft.hkx`
+  - `meshes\actors\dragon\animations\ground_tailwhipright.hkx`
+
+> Adjusted versions of these behaviours are included in Dragon War - A Dragon Combat Overhaul.
 
 ##### [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 

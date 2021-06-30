@@ -90,7 +90,7 @@ description: >
   - Miraak's Sword
   - Miraak's Staff
 
-> Many of the options skipped in the FOMOD are repacks of Project Clarity textures which we already have installed. In the case of the Fur armor, I prefer Gamwich's textures from RUSTIC CLOTHING. The Scimitar is skipped in favour of LeanWolf's new mesh and textures.
+> In the case of the Fur armor, I prefer Gamwich's textures from RUSTIC CLOTHING. The Scimitar is skipped in favour of LeanWolf's new mesh and textures.
 
 ##### [RUSTIC CLOTHING](https://www.nexusmods.com/skyrimspecialedition/mods/4703?tab=files)
 

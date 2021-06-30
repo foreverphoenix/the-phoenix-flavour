@@ -8,7 +8,9 @@ description: >
 
 ## Release 1.2
 
-> TBD
+> 28/06/2021
+
+This is the accompanying update for TPF 4.6 with some minor changes. However, there are major changes on the horizon for TPF-X which I will be talking about soon (tm).
 
 #### Getting Started
 
@@ -23,12 +25,8 @@ description: >
 
 #### Visual Upgrade
 
-- Updated description, now using QW's Grass Patch.
-- Updated instructions for Folkvangr.
-- Added Cathedral 3D Pine Grass.
-- Added QW's Grass Patch.
-- Added grass density tweak instructions.
-- Moved everything from the Rudy ENB section to the main guide.
+- Pretty much everything was moved to the main guide.
+- This section was removed for the time being.
 
 #### New Gear
 

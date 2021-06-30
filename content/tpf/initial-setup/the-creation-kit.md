@@ -10,7 +10,7 @@ description: >
 
 With the release of Skyrim SE, Bethesda also published a new version of their official tool kit, the Creation Kit (or CK for short), updated for the new 64bit engine. Unfortunately the CK 2.0 can no longer be downloaded directly from Steam but requires the Bethesda Launcher and a Beth.net account.
 
-- Go to [Bethesda.net](https://bethesda.net/de/dashboard), the official website.
+- Go to [Bethesda.net](https://bethesda.net/dashboard), the official website.
 - Scroll all the way down to the footer (bottom of the page).
 - Click the **Download** button in the **Bethesda Launcher** section.
 - Double-click the downloaded executable.
@@ -23,9 +23,9 @@ With the release of Skyrim SE, Bethesda also published a new version of their of
 * When that is done, you must log-in with your Beth.net account or register a new one.
 * Once you’re logged in, check the list of game icons on the left.
 * Click the two arrows `>>` at the top to open the full list.
-* Select **Creation Kit: Skyrim** (with the white icon) and click **Install**.
+* Select **Creation Kit: Skyrim** (with the white icon).
 * The CK should be installed directly into your **root** folder (see picture).
-* Wait for the files to download.
+* Click **Install** and wait for the files to download.
 
 ![Creation Kit Installation Path](/Pictures/tpf/initial-setup/ck-installation-path.png)
 
