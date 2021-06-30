@@ -194,8 +194,8 @@ description: >
 
 #### Download instructions
 
-- **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
-- **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
+- **Main Files:** Andrealphus' Harder Quests - Harder Mara Quests
+- **Main Files:** Andrealphus' Harder Quests - No Easy Bloodkin
 
 > Note that the amount of pamphlets required by the Mara quest will be reverted to vanilla by the guide's CRP.
 

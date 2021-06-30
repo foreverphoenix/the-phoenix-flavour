@@ -6,6 +6,18 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.6.2
+
+> TBD
+
+#### Initial Setup
+
+- **Additional Tools:** Removed zEdit (no longer needed for any steps).
+
+#### Mod Installation
+
+- **Improved Vanilla Quests:** Updated download instructions for Andrealphus' Tweaks - Harder Quests (file names updated).
+s
 ## Release 4.6.1
 
 > 29/06/2021
