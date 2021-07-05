@@ -16,8 +16,29 @@ description: >
 
 #### Mod Installation
 
+- **Interface:** Removed Loading Screen Smoke Removed.
+- **Interface:** Added Menu and Load Smoke Removed for ENB.
+- **Graphics Baseline:** Now using SSE NIF Optimizer instead of CAO on Revamped Assets Skyrim.
+- **Architecture:** Updated download instructions for Shingles - Alpha Patch (file name changed).
+- **Apparel & Weapons:** Fixed download instructions for Stalhrim Refrozen.
 - **Improved Vanilla Quests:** Updated download instructions for Andrealphus' Tweaks - Harder Quests (file names updated).
-s
+
+#### Conflict Resolution Patch
+
+- Re-enabled one of the temper recipes for the Champion's Cudgel (we have three and all three were, somehow, disabled).
+- Forwarded new Adamant keywords for bound equipment (4.6.1.1).
+- Disabled WACCF's alternative iron helmet (clipping on male model).
+
+#### Wabbajack
+
+- Updated ENBSeries (version number unchanged)
+- Updated Shingles - Alpha Patch to 1.2.0
+- Updated Open World Loot to 1.2.9
+- Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.8
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.1
+- Updated Simple Dual Sheath to 1.4.1
+- Replaced Beast Race Vampire Fang Removal SLE with SSE version
+
 ## Release 4.6.1
 
 > 29/06/2021

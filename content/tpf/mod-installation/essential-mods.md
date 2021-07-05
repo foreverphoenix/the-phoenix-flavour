@@ -147,7 +147,7 @@ Click "Manual Download" for the following file:
 
 Base Coat is a repack of upscaled versions of all vanilla textures made to replace the vanilla BSAs. As such, we could simply drop it in the Data folder, overwrite the existing archives, and save 16GB of disk space. However, this would mean that in order to revert SSE to vanilla, you would have to reinstall the game or restore a manual back-up of the BSAs.
 
-Additionally, you will be unable to install other SSE mod lists through Wabbajack with the Base Coat BSAs replacing the vanilla ones in your Data folder. The app will detect that your SSE installation is edited and abort the installation process. This is why I chose to keep the Data folder clean and sacrifice 16GB of disk space insteads.
+Additionally, you will be unable to install other SSE mod lists through Wabbajack with the Base Coat BSAs replacing the vanilla ones in your Data folder. The app will detect that your SSE installation is edited and abort the installation process. This is why I chose to keep the Data folder clean and sacrifice 16GB of disk space instead.
 
 ##### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 

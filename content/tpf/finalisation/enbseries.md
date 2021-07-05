@@ -54,7 +54,7 @@ ENBMan is one of several ENB manager tools available. It happens to my favourite
 
 ### Import to ENBMan
 
-* Back in ENBMan, click the arrow under **Binaries** and select **Add**.
+* Back in ENBMan, click the arrow under **Binary** and select **Add**.
 * Enter **ENBSeries** and the version number as name (eg **ENBSeries 0.454**).
 * Click the green checkmark to confirm.
 * Drag the three files from your temp folder into the **Binary** window.

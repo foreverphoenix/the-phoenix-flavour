@@ -27,11 +27,11 @@ description: >
 
 - **Main Files:** Whiterun Mesh Fixes
 
-##### [Marketplace Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
+##### [Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Marketplace Shingles - Alpha Patch
+- **Main Files:** Shingles - Alpha Patch
 
 ##### [Skyland Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/13015?tab=files)
 

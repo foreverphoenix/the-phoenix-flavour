@@ -57,7 +57,7 @@ One reason why TPF always used to be very performance-friendly was because we ra
 - In the **Visuals** tab, lower **Contrast** to **-0.1800**.
 - In the **Visuals** tab, increase **Grass Density** to **50**.
 - In the **Visuals** tab, increase **Grass Diversity** to **15**.
-- In the **Custom** tab, select **Section: Display**, then **Setting: bEnableLandFace**, change the value to **0**, and click **Save**.
+- In the **Custom** tab, select **Section: Display**, then **Setting: bEnableLandFade**, change the value to **0**, and click **Save**.
 
 Return to the **Basic** tab and click **Save and Exit**.
 

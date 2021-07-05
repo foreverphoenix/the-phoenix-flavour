@@ -237,9 +237,11 @@ description: >
 - **Display Cases:**
   * Light
 
-#### Porting Instructions
+#### Additional Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+* Run the mod through **SSE NIF Optimizer**.
+
+> Using Cathedral Assets Optimizer will leave you unable to use the alchemy tables.
 
 ##### [Revamped Assets Skyrim - Weapon Racks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
