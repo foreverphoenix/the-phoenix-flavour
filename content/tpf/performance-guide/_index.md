@@ -14,7 +14,7 @@ It must be said upfront that a "high, stable framerate" in modded Skyrim means s
 
 This guide exists for those struggling to achieve consistent 60 FPS.
 
-**You do not have to follow all steps:** For example, if you really love 3D tree LOD and highly detailed distant terrain, you can hold on to your High + 3D Tree LOD DynDOLOD output. Instead, you can compromise with your ENB or grass overhaul choice and regenerate your INI files with the recommended performance settings.
+**You do not have to follow all steps:** For example, if you really love 3D tree LOD and highly detailed distant terrain, you can hold on to your High + 3D Tree LOD DynDOLOD output. Instead, you can compromise with your ENB or grass overhaul choice, or regenerate your INI files with the recommended performance settings.
 
 > **Wabbajack Users:** You do not have to follow this guide. Your installation of TPF includes a Performance profile.
 
@@ -22,14 +22,35 @@ This guide exists for those struggling to achieve consistent 60 FPS.
 
 There may be various reasons which include:
 
-- **Playing at a high resolution (1440p or above):** Any of the options will help.
+- **Playing at a high resolution (1440p or above):** Any of the options will help. Check the resolution scale option.
 - **Having a low amount of VRAM (4GB or less):** Regenerate DynDOLOD on Medium with 2D tree LOD.
-- **AMD CPU and/or GPU:** Replace Rudy ENB with Serio's ENB (ENBSeries is optimised for Intel/NVIDIA).
-- **Older hardware in general:** Any of the options will help.
+- **AMD CPU and/or GPU:** Install the optimised INI for Rudy ENB, or a different ENB preset (ENBSeries is optimised for Intel/NVIDIA).
+- **Older/slower hardware in general:** Any of the options will help.
 
-## Regenerating INI Files
+### Very Low-End PCs
 
-One reason why TPF always used to be very performance-friendly was because we ran BethINI (the INI configuration tool) with the Medium preset. This has since changed (High is the default now) so the first thing we can do is revert to those more conservative settings. It should be noted that the visual degradation is not hugely noticeable, the difference in settings will mostly apply to distant objects. However, it should help you regain some frames.
+If your hardware is very outdated (Skyrim SE minimum requirements or even below), you should definitely follow all steps. INIs on medium, DynDOLOD on low with 2D trees, and ReShade instead of ENB should help you attain a playable framerate, at least on 1080p. Scaling down the resolution may help further in making the game playable.
+
+## INI Tweaks
+
+One reason why TPF always used to be very performance-friendly was because we ran BethINI (the INI configuration tool) with the Medium preset. This has since changed (High is the default now) so the first thing we can do is revert to those more conservative settings.
+
+It should be noted that the visual degradation is not hugely noticeable, the difference in settings will mostly apply to distant objects. However, it should help you regain some frames.
+
+Alternatively, there is also a single INI tweak that can already give your framerate a boost by itself.
+
+### Option 1: Block Level Tweak
+
+The performance gain from regenerating INI files comes largely from a single setting. If you only need a few extra FPS and don't want to lower visual quality by too much, you can start by tweaking this setting. As you can see in this [comparison slider](https://imgsli.com/NjAxMDY), you can gain about 7FPS depending on your location.
+
+- In **Mod Organizer 2**, open the **INI Editor**.
+- Switch to the **skyrimprefs.ini** tab and scroll to the bottom.
+- Under **[Terrain Manager]** change the value for `fBlockLevel1Distance=` to `32768`.
+- Click the **Save** button at the bottom and close the window.
+
+### Option 2: BethINI Medium
+
+First, restore the vanilla INI files to use as a base:
 
 - Make sure **Mod Organizer 2** is closed.
 - Navigate to your Documents folder: `C:\Users\Your User Name\Skyrim Special Edition`.
@@ -39,7 +60,7 @@ One reason why TPF always used to be very performance-friendly was because we ra
 
 > It is possible to tweak the BethINI configured INIs you already had. I just always preferred to re-do it from scratch.
 
-### Re-running BethINI
+Next, re-run BethINI to adjust the vanilla INIs:
 
 - Navigate to `\Your Modding Folder\Tools\BethINI\` and double-click **BethINI.exe**.
 - In the **Setup** tab, make sure the tool still points to your MO2 installation and TPF profile.
@@ -48,14 +69,20 @@ One reason why TPF always used to be very performance-friendly was because we ra
 - In the **Basic** tab, uncheck **VSync** and **Lock Frame Rate**.
 - In the **Interface** tab, uncheck **Mod Manager Menu** and optionally adjust your mouse sensitivity.
 - In the **Detail** tab, check **Reflect Objects** under Water.
-- In the **Detail** tab, set **Godrays** to **None** (this will give you a decent performance boost).
-- In the **Detail** tab, increase **Particles** to **7500**.
+
+While disabling godrays will noticeably improve performance, Rudy ENB was made with godrays in mind. I recommend keeping Godrays on **High** or **Medium** if you can spare the FPS.
+
+- In the **Detail** tab, set **Godrays** to **None** (for better performance) or **Medium** (for better visuals).
+
+For the remaining settings:
+
+- In the **Detail** tab, increase **Particles** to `7500`.
 - In the **Detail** tab, uncheck **Lens Flare** and **Anamorphic Lens Flare**.
-- In the **Detail** tab, increase **Shadow Resolution** to **2048** and **Exterior Draw Distance** to **6000**.
+- In the **Detail** tab, increase **Shadow Resolution** to `2048` and **Exterior Draw Distance** to `8000`.
 - In the **Detail** tab, check **Tree Shadows** and uncheck **Ambient Occlusion**.
-- In the **View Distance** tab, increase **Grass Fade** to **10000**.
-- In the **Visuals** tab, lower **Contrast** to **-0.1800**.
-- In the **Visuals** tab, increase **Grass Density** to **50**.
+- In the **View Distance** tab, increase **Grass Fade** to `10000`.
+- In the **View Distance** tab, lower **Level 8** to `32768`.
+- In the **Visuals** tab, lower **Contrast** to `-0.1800`.
 - In the **Visuals** tab, increase **Grass Diversity** to **15**.
 - In the **Custom** tab, select **Section: Display**, then **Setting: bEnableLandFade**, change the value to **0**, and click **Save**.
 
@@ -103,6 +130,19 @@ However, you need to **disable Veydosebrom and The Phoenix Flavour - Grass Patch
 
 ![Cath Grass Load Order](/Pictures/tpf/performance-guide/cath-grass-load-order.png)
 
+### Grass Density
+
+By default, grass density is set to 20 if you kept the base TPF INIs or 40 if you regenerated on BethINI Medium. The way grass density works in Skyrim is that a higher INI value will result in *less* dense grass ingame and *better* performance. A lower grass density setting will give you *more* grass and *worse* performance.
+
+For Cathedral Landscapes grass, I would recommend at least 40. If you continue to struggle with performance in grassy areas, you can increase the value further to regain more FPS.
+
+- In **Mod Organizer 2**, open the **INI Editor**.
+- In the **skyrim.ini** tab, scroll down to the `[Grass]` section.
+- Increase the value for `iMinGrassSize=` to anywhere between 40 and 60.
+- Click the **Save** button at the bottom and close the window.
+
+> Increasing the grass density beyond 60 will further improve performance, however, grass will become very sparse.
+
 ## DynDOLOD
 
 Another reason for performance loss is running DynDOLOD with the High profile and 3D tree LOD. The latter is especially heavy on VRAM so regenerating DynDOLOD with the Medium profile and 2D tree LOD is highly recommended if you have 4GB of VRAM or less.
@@ -126,12 +166,14 @@ Regenerating TexGen should not be necessary. You could, in theory, to lower the 
 
 ### Regenerating DynDOLOD
 
+By regenerating DynDOLOD, we will improve performance in two ways: We will be using mesh rules that are more performance-oriented (less detail), and we will generated regular tree LOD instead of 3D tree LOD. Especially the latter will likely improve your framerate by double-digit numbers.
+
 - Run **DynDOLOD** through Mod Organizer 2.
 - Click **Load Preset** (one of the buttons on the bottom left).
-- The **DynDOLOD Presets** folder should be opened automatically, double-click the **DynDOLOD_SSE_Optimal.ini**.
+- The **DynDOLOD Presets** folder should be opened automatically, double-click the **DynDOLOD_SSE_Performance.ini**.
 - In the **Options** section at the bottom, check **Generate Tree LOD** (this will toggle off the **Ultra** setting).
 
-If you have *very* low-end specs (Skyrim SE minimum requirements or below), select the **Low** preset. This will largely remove DynDOLOD's performance impact.
+If you have *very* low-end specs (Skyrim SE minimum requirements or below), select the **Low** preset. This should remove DynDOLOD's performance impact altogether.
 
 - Click **OK** to start generating LOD.
 
@@ -170,9 +212,9 @@ After regenerating DynDOLOD, the Occlusion.esp must also be regenerated.
 
 ## ENBSeries
 
-A major factor in performance loss is ENBSeries. While not as FPS-hungry as it used to be ENB presets will drop your performance and Rudy ENB, the TPF default, is not exactly lightweight.
+A major factor in performance loss is ENBSeries. While they are generally not as FPS-hungry as they used to be, ENB presets will still drop your performance and Rudy ENB, the TPF default, is not exactly light weight.
 
-You have several options here:
+You have several options:
 
 - You can install the Rudy ENB - Better Performance INI.
 - You can swap to a more lightweight ENB preset (I recommend Serio's).
@@ -192,7 +234,7 @@ If you like Rudy ENB and would prefer to stick with the preset, you can soften i
 
 ### Option 2: Serio's ENB
 
-Serio's ENB is my personal favourite ENB preset for Skyrim SE (right after Visceral ENB which is sadly very outdated). It used to be the default for TPF due to its very lightweight nature and should give you a performance improvement over the fully-featured Rudy ENB preset.
+Serio's ENB is my personal favourite ENB preset for Skyrim SE (right after Visceral ENB which is sadly very outdated). It used to be the default for TPF for a long time and should be a little lighter than stock Rudy ENB.
 
 If you want to switch to Serio's ENB, uninstall Rudy ENB first:
 

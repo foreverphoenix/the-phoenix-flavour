@@ -264,9 +264,3 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 - **Main Files:** Menu and Load Smoke Removed for ENB
-
-##### [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Time on loading v5

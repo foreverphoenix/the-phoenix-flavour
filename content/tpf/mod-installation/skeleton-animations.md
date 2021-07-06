@@ -62,7 +62,7 @@ description: >
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 26** set `ClenchedHandWorkaround=` to `true`.
+- In **Line 27** set `ClenchedHandWorkaround=` to `true`.
 - Press **CTRL+S** to save and close the window.
 
 #### Shields on Back
@@ -74,7 +74,7 @@ By default, the player and NPCs carry their shields in their left hand when thei
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
 - In **Line 23** add the following flags: `Flags=Player|NPC|FirstPerson`.
-- In **Line 35** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- In **Line 38** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
 - Press **CTRL+S** to save and close the window.
 
 > The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
@@ -97,18 +97,6 @@ By default, the player and NPCs carry their shields in their left hand when thei
 - **Jump Animations:** Realistic Jump (Recommended)
 - **Directional Jump Option:** Short Jump
 - **Patch Options:** *select nothing*
-
-#### INI Tweak
-
-- In Mod Organizer 2, go to **Tools** >> **Tool Plugins** >> **INI Editor**.
-- In the **skyrimcustom.ini** tab, add the following below the existing settings:
-
-```
-[HAVOK]
-fInAirFallingCharGravityMult=1.8
-```
-
-- Close the window and click **Yes** when asked to save.
 
 ##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
 
