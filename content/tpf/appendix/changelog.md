@@ -14,11 +14,12 @@ As it turns out the [**Aspens Ablaze Billboards**](https://www.nexusmods.com/sky
 
 **The performance impact of TPF 4.6.2 is still larger than in 4.5.x and earlier versions.** However, the performance guide really should fix this for most people; particularly regenerating INI files on BethINI Medium and/or regenerating DynDOLOD without 3D tree LOD should help.
 
-Otherwise, the alchemy workbenches are fixed (reinstall and run through SSE NIF Opt instead of CAO) and you should no longer fall to your death during Meridia's quest (remove havok tweak from your skyrimcustom.ini file).
+Otherwise, the alchemy workbenches are fixed (reinstall and run Revamped Assets Skyrim through SSE NIF Optimizer instead of CAO) and you should no longer fall to your death during Meridia's quest (remove havok tweak from your skyrimcustom.ini file).
 
 #### How to Update
 
-- Regenerate TexGen, DynDOLOD, and Occlusion ([instructions](https://thephoenixflavour.com/tpf/guide-resources/how-to-update/#dyndolod)).
+- Regenerate TexGen and DynDOLOD ([instructions](https://thephoenixflavour.com/tpf/guide-resources/how-to-update/#dyndolod)).
+- You can keep your old Occlusion output, but disable it while you regenerate TexGen and DynDOLOD.
 - **Wabbajack:** Also copy over GFF again (ENBSeries binaries updated).
 
 #### Initial Setup
