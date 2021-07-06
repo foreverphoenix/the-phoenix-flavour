@@ -303,7 +303,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Stalhrim Refrozen
-* **Optional Files:** Stalhrim Refrozen - Core Package 4k
+* **Miscellaneous Files:** Stalhrim Refrozen - Core Package 4k
 
 #### FOMOD Instructions
 

@@ -259,14 +259,8 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 > I prefer the original main menu track, Song of the Dragonborn.
 
-##### [Loading Screen Smoke Removed](https://www.nexusmods.com/skyrimspecialedition/mods/4634?tab=files)
+##### [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Loading Screen Smoke Removed v1.0
-
-##### [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Time on loading v5
+- **Main Files:** Menu and Load Smoke Removed for ENB

@@ -61,22 +61,6 @@ After editing a plugin in SSEEdit, a backup will automatically be created. With 
 
 ![Add QuickAutoClean to MO2](/Pictures/tpf/initial-setup/add-qac-to-mo2.png)
 
-## zEdit
-
-zEdit is an alternative to xEdit with some additional features. While it is far from being a replacement, it has some neat additional features. Unfortunately cannot take advantage from most of them because zEdit does not support ESL plugins.
-
-At the moment, we only need zEdit for one very small step toward the end of the guide.
-
-- Download [zEdit](https://github.com/z-edit/zedit/releases) manually from the Github page (see picture below).
-- Create a new folder: `Your Modding Folder\Tools\zEdit`.
-- Open the downloaded archive and extract everything to the new folder.
-- Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
-- Click the tiny blue plus icon to add a new executable and select **Add from file**.
-- Navigate to `Your Modding Folder\Tools\zEdit` and double-click zEdit.exe.
-- Click **OK** to save the new executable and close the window.
-
-![zEdit Download](/Pictures/tpf/initial-setup/zedit-download.png)
-
 ## Cathedral Assets Optimizer
 
 Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.

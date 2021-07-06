@@ -6,6 +6,69 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.6.2
+
+> 06/06/2021
+
+As it turns out the [**Aspens Ablaze Billboards**](https://www.nexusmods.com/skyrimspecialedition/mods/51135) played a huge role in the performance issues present in the latest versions of TPF. The performance loss could be as high as 20FPS which I do not consider worth the visual improvement. In fact, I would argue that the original billboards blend better with the non-LOD trees. Check this [**comparison slider**](https://imgsli.com/NjAxMDM) to see the difference in both visuals and performance. The mod was removed from TPF and, as a result of that, your framerate in the Rift should be much improved.
+
+**The performance impact of TPF 4.6.2 is still larger than in 4.5.x and earlier versions.** However, the performance guide really should fix this for most people; particularly regenerating INI files on BethINI Medium and/or regenerating DynDOLOD without 3D tree LOD should help.
+
+Otherwise, the alchemy workbenches are fixed (reinstall and run Revamped Assets Skyrim through SSE NIF Optimizer instead of CAO) and you should no longer fall to your death during Meridia's quest (remove havok tweak from your skyrimcustom.ini file).
+
+#### How to Update
+
+- Regenerate TexGen and DynDOLOD ([instructions](https://thephoenixflavour.com/tpf/guide-resources/how-to-update/#dyndolod)).
+- You can keep your old Occlusion output, but disable it while you regenerate TexGen and DynDOLOD.
+- **Wabbajack:** Also copy over GFF again (ENBSeries binaries updated).
+
+#### Initial Setup
+
+- **Additional Tools:** Removed zEdit (no longer needed for any steps).
+
+#### Mod Installation
+
+- **Interface:** Removed Loading Screen Smoke Removed.
+- **Interface:** Added Menu and Load Smoke Removed for ENB.
+- **Interface:** Removed KenMOD - Time on Loading Screen (file was removed from the Nexus).
+- **Graphics Baseline:** Now using SSE NIF Optimizer instead of CAO on Revamped Assets Skyrim.
+- **Trees & Plants:** Removed Aspens Ablaze Add-On - DynDOLOD 3 (unreasonable performance impact).
+- **Trees & Plants:** Removed INI Tweaks for Cathedral - 3D Pine Grass (they are fairly unnecessary).
+- **Architecture:** Updated download instructions for Shingles - Alpha Patch (file name changed).
+- **Interiors:** Now using the 1K textures instead of 2K for SD's Horn Candles.
+- **Apparel & Weapons:** Fixed download instructions for Stalhrim Refrozen.
+- **Improved Vanilla Quests:** Updated download instructions for Andrealphus' Tweaks - Harder Quests (file names updated).
+- **Skeleton & Animations:** Updated additional instructions for Simple Dual Sheath (lines changed).
+- **Skeleton & Animations:** Removed INI tweak instructions for Jumping Behaviour Overhaul (would kill you during Meridia's quest).
+
+#### Performance Guide
+
+- Added a new INI tweak that can be done instead of regenerating BethINI from scratch.
+- Elaborated on which setting godrays should be set to in the BethINI settings.
+- Added instructions to lower the fBlockLevel1Distance value when reconfiguring INIs through BethINI.
+- Removed grass density tweak from the BethINI instructions (leave at default).
+- Added grass density instructions to the Grass Overhaul section.
+- Fixed a pretty bad typo in the DynDOLOD section (use the Performance profile, not the Optimal one).
+
+#### Conflict Resolution Patch
+
+- Re-enabled one of the temper recipes for the Champion's Cudgel (we have three and all three were, somehow, disabled).
+- Forwarded new Adamant keywords for bound equipment (4.6.1.1).
+- Disabled WACCF's alternative iron helmet (4.6.1.2).
+
+#### Wabbajack
+
+- Updated ENBSeries (version number unchanged)
+- Updated Dlizzio's Mesh Fixes to 2.3
+- Updated Shingles - Alpha Patch to 1.2.0
+- Updated Adamant - A Perk Overhaul to 5.0.3
+- Updated Open World Loot to 1.2.9
+- Updated Dragon War - A Dragon Overhaul to 1.0.5
+- Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.8
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.1
+- Updated Simple Dual Sheath to 1.4.1
+- Replaced Beast Race Vampire Fang Removal SLE with SSE version
+
 ## Release 4.6.1
 
 > 29/06/2021
