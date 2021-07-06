@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.6.2
 
-> 06/06/2021
+> 06/07/2021
 
 As it turns out the [**Aspens Ablaze Billboards**](https://www.nexusmods.com/skyrimspecialedition/mods/51135) played a huge role in the performance issues present in the latest versions of TPF. The performance loss could be as high as 20FPS which I do not consider worth the visual improvement. In fact, I would argue that the original billboards blend better with the non-LOD trees. Check this [**comparison slider**](https://imgsli.com/NjAxMDM) to see the difference in both visuals and performance. The mod was removed from TPF and, as a result of that, your framerate in the Rift should be much improved.
 
