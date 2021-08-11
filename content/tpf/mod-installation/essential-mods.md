@@ -93,11 +93,12 @@ cl off
 SetGS fPhysicsDamage1Mass 9999999
 SetGS fSandboxCylinderTop 576
 SetGS fSandboxCylinderBottom -576
+SetGS fCombatProjectileRandomOffset to 70
 ```
 
 - Close the window and click **Yes** when asked to save.
 
-> The added commands will expand the radius in which NPCs can move when they sandbox as well as disable character lighting and physics damage sustained when colliding with clutter objects.
+> The added commands will expand the radius in which NPCs can move when they sandbox and lower NPC's accuracy with ranged attacks, as well as disable character lighting and physics damage sustained when colliding with clutter objects.
 
 ![ACC Add MFS](/Pictures/tpf/mod-installation/autorun-commands.png)
 

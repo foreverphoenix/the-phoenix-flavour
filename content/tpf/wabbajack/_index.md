@@ -106,7 +106,7 @@ Some files must be moved into the root folder which cannot be managed by Mod Org
 - Navigate to your TPF installation `\The Phoenix Flavour\`.
 - Double-click the **Game Folder Files** folder and copy all files within (but not the folders).
 - Navigate to your Skyrim SE root folder `\Steam\steamapps\common\Skyrim Special Edition\` and paste all files.
-- Choose one of the ENB presets: Rudy ENB (quality) or Serio's ENB (performance).
+- Choose one of the ENB presets: Serio's ENB (quality) or Cathedral Minimalist (performance).
 - Double-click the respective folder and copy the contents.
 - Paste them into your root folder `\Steam\steamapps\common\Skyrim Special Edition\` as well.
 
@@ -114,7 +114,7 @@ Some files must be moved into the root folder which cannot be managed by Mod Org
 
 ### Uncap Framerate
 
-Since we are using SSE Display Tweaks, it is possible to uncap the framerate without breaking the game.
+Since we are using SSE Display Tweaks, it is possible to uncap the framerate without breaking the game entirely. However, framerates exceeding 60FPS may still cause some general wonkiness which is why I personally do not recommend increasing or removing the frame cap.
 
 - Navigate to your TPF installation `\The Phoenix Flavour\` and double-click **ModOrganizer.exe**.
 - Double-click **SSE Display Tweaks** in Mod Organizer 2 (below the ESSENTIAL MODS separator near the top).
@@ -129,6 +129,7 @@ It is not possible to run modded Skyrim through Steam. You must always start the
 - Open your installation folder `C:\The Phoenix Flavour\` and double-click the **ModOrganizer.exe** inside.
 - In Mod Organizer 2, make sure **The Phoenix Flavour** is selected as executable.
 - Hit **Run** to start the game. Select **NEW** in the main menu.
+- Press **ESC** and go to **Settings** >> **Display**. Turn the **Depth of Field** slide all the way down.
 - After completing the intro quest (Helgen), continue with the [Mod Configuration](/tpf/mod-configuration) page.
 
 ![Launch Game](/Pictures/tpf/wabbajack/launch-game.png)

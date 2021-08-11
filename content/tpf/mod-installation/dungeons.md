@@ -108,7 +108,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 - **Main Files:** The Dwemer 4K by RGB03
-- **Optional Files:** The Dwemer v1.4 HotFix Patch >> `merge with the main file`
+- **Optional Files:** The Dwemer v1.42 HotFix Patch >> `merge with the main file`
 - **Optional Files:** the Dwemer - Compatibility Patch Pack
 
 #### FOMOD Instructions
@@ -145,6 +145,12 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 - **Main Files:** Skyrim Remastered - Azura and Blackreach Crystals 2K
+
+##### [High Poly Blackreach Mushrooms - Skyrim Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52700?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Poly Blackreach Mushrooms - Skyrim Remastered Patch
 
 ##### [WEBS](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files)
 

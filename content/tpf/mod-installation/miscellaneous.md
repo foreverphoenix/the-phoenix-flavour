@@ -17,7 +17,6 @@ description: >
 - **Main Files:** Misc Tweaks - Night Eye Redux
 - **Main Files:** Misc Tweaks - No Starting Spells
 - **Main Files:** Misc Tweaks - Shrines Don't Cure Diseases
-- **Optional Files:** Misc Tweaks - Night Eye Redux - ENB Fix
 
 #### FOMOD Instructions - No Starting Spells
 
@@ -66,11 +65,12 @@ description: >
 
 #### Additional Instructions
 
-If like me you don't want or need the "ride ahead" feature, you can easily disable it through the console:
+If, like me, you do not need the "ride ahead" feature of the mod, you can easily disable it through the console:
 
-- Double-click **Autorun** in your mod order (Essential Mods separator).
+- Double-click **Autorun** in your mod order (below the **ESSENTIAL MODS** separator).
 - In the **Text Files** tab, select the **Autorun.txt**.
 - Add `set hff_FollowerRideAheadEnabled to 0` below the existing lines.
+- Press **CTRL + S** to save your changes and close the window.
 
 ##### [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960?tab=files)
 
@@ -90,18 +90,17 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 
 - **Main Files:** Viewable Faction Ranks ESL
 
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `Interface`
-
-> The Interface folder contains string translations. The English translation for the Viewable Faction Ranks MCM is already included with Obscure's College of Winterhold during the FOMOD installation of which it was selected.
-
 ##### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Dragon Wall Wisdom - Readable Dragon Walls
+
+##### [Forceful Tongue - Dragon Wall Wisdom Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Forceful Tongue - Dragon Wall Wisdom Patch
 
 ##### [Unique Dragon Aspect](https://www.nexusmods.com/skyrimspecialedition/mods/18583?tab=files)
 
@@ -132,6 +131,18 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 * **Patches:**
   * ~~Durnehviir: God of Death~~
 
+##### [Forceful Tongue - Durnehviir Resurrected Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Forceful Tongue - Durnehviir Resurrected Patch
+
+##### [Dragon War - Durnehviir Resurrected Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dragon War - Durnehviir Resurrected Patch
+
 ##### [Smelters for Riften and Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/22566?tab=files)
 
 #### Download Instructions
@@ -142,7 +153,7 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 
 #### Download Instructions
 
-* **Main Files:** Simple Home Improvements AIO (Proudspire 4 Beds)
+* **Main Files:** Simple Home Improvements AIO (Proudspire 2 Beds)
 
 ##### [Improved Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/17609?tab=files)
 
@@ -151,12 +162,6 @@ If like me you don't want or need the "ride ahead" feature, you can easily disab
 * **Main Files:** Improved Shadowmarks (512)
 
 > This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
-
-##### [Imperial Military Camps](https://www.nexusmods.com/skyrimspecialedition/mods/47588?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Imperial Military Camps
 
 ##### [Contraband Confiscated](https://www.nexusmods.com/skyrimspecialedition/mods/34903?tab=files)
 

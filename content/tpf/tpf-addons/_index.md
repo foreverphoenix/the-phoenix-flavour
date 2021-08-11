@@ -90,16 +90,6 @@ Slidikins' guide has been around longer than TPF, however it has since been adap
 - Reading Is Good
 - rougeshot's skeleton replacers
 
-##### [D1Z4STRs' Bits n' Bobs](https://docs.google.com/document/d/1Qcu3hWV0P_SI4H8ccgONNdQWU73GFvq5WYVCbxsgpPA/edit#)
-
-- **Author:** D1Z4STR
-
-Collection of texture and mesh replacers to spice up the base setup. Everything is optional!
-
-#### Notable additions
-
-- Retextures by CC, cunny, Pfuscher, Mari, IconicDeath, rallyator, and other notable mod authors.
-
 ##### [Flavoured Legacy - LOTD Integration](https://www.nexusmods.com/skyrimspecialedition/mods/45777)
 
 - **Author:** Codygits
@@ -118,8 +108,11 @@ Modular patch hub for various Creation Club content with proper integration and 
 
 #### Supported creations
 
-- CC Survival Mode (also requires Conner's Survival Mode)
+- CC Survival Mode (also requires Conner's Survival Mode) **no longer supported***
 - CC Rare Curios
 - CC Rare Curios + Rare Curios - Bolt Expanded
 - CC Crossbow Collection
 - CC Vigil Enforcer Set
+- CC Umbra
+
+\* *If you are interested in playing TPF with survival mechanics, check out [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).*

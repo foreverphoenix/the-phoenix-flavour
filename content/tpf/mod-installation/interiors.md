@@ -50,12 +50,6 @@ description: >
 * **Main Files:** Vanilla Table Replacers 2k 1k
 * **Optional Files:** 2k Common Table replacer optional (No Ropes) >> `merge with the main file`
 
-##### [Nordic Beds](https://www.nexusmods.com/skyrimspecialedition/mods/38733?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Nordic Beds SE v3
-
 ##### [4K Retexture for Nordic Beds](https://www.nexusmods.com/skyrimspecialedition/mods/39007?tab=files)
 
 #### Download Instructions

@@ -6,13 +6,11 @@ description: >
   Large texture packs and LOD resources.
 ---
 
-##### [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files)
+##### [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files)
 
 #### Download Instructions
 
-- **Miscellaneous Files:** DynDOLOD Resources SE 3.00
-
-> Make absolutely sure you are downloading the **3.00** version from Miscellaneous Files.
+- **Miscellaneous Files:** DynDOLOD Resources SE 3
 
 #### FOMOD Instructions
 
@@ -45,12 +43,6 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** HD LODs Textures SE Mesh Fix
-
-##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Terrain Noise for xLODGen
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -156,6 +148,11 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** Noble Skyrim Material Fix
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\`
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 

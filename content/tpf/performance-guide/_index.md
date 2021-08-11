@@ -212,59 +212,34 @@ After regenerating DynDOLOD, the Occlusion.esp must also be regenerated.
 
 ## ENBSeries
 
-A major factor in performance loss is ENBSeries. While they are generally not as FPS-hungry as they used to be, ENB presets will still drop your performance and Rudy ENB, the TPF default, is not exactly light weight.
+A major factor in performance loss is ENBSeries. While ENB presets are gamechangers visually, they typically come with a hefty performance impact, which can be adjusted in the ENB GUI. You can open it ingame by pressing F11 (opening the console ~ as well makes editing easier) and adjust various settings.
 
-You have several options:
+Two especially FPS-hungry settings, Depth of Field and Detailed Shadows, are already disabled by default in Serio's ENB. Ambient occlusion also comes with a performance impact, however, I do not recommend disabling it in favour of Skyrim's native ambient occlusion as that can produce a few visual bugs.
 
-- You can install the Rudy ENB - Better Performance INI.
-- You can swap to a more lightweight ENB preset (I recommend Serio's).
-- You can remove ENBSeries altogether.
+If Serio's ENB is too performance-intense for you, I recommend swapping to **Cathedral Minimalist ENB**, a lightweight preset based on A Cathedralists ENB which in turn is based on The Truth ENB. The preset was made specifically for many of TPF's baseline visual mods (Cathedral series) and is much closer to vanilla visually than Serio's.
 
-### Option 1: Rudy ENB Performance INI
+The alternative would be disabling ENB altogether.
 
-If you like Rudy ENB and would prefer to stick with the preset, you can soften its performance impact by using the pre-packaged INI with appropriate tweaks:
+### Option 1: Cathedral Minimalist ENB
 
-- Navigate to `\Your Modding Folder\ARCHIVE\MO2 Downloads\` and find the **Rudy ENB** archive.
-- Open the archive and navigate to `Rudy for SSE 4.01a1 CW\ADDONS\! Better Performance ini\`.
-- Extract the **enbseries.ini** inside to `\Your Modding Folder\temp\`.
-- Open **ENB Man** and select the **Skyrim SE** profile.
-- Make sure the **Rudy ENB** preset is selected and click the red button at the bottom to uninstall it.
-- Drop the **enbseries.ini** into the files window and overwrite the existing one.
-- Click the green checkmark at the bottom to re-install the preset, now with the adjusted INI file.
+You can install the [**Cathedral Minimalist ENB**](https://www.nexusmods.com/skyrimspecialedition/mods/31367?tab=files) preset just like you did Serio's ENB in the [**ENBSeries**](/tpf/finalisation/enbseries/) step. Personally I found the preset too dark in interiors so I increased the brightness. I also enabled ambient occlusion and complex particle lights, so you'll get the most out of the preset and TPF in general. You can download my tweaked enbseries.ini and replace the preset's original one.
 
-### Option 2: Serio's ENB
+- Manually download the main file from the [**Cathedral Minimalist ENB**](https://www.nexusmods.com/skyrimspecialedition/mods/31367?tab=files) mod page.
+- Open the downloaded archive and extract everything *excecpt* for the **enbcache** folder into `\Your Modding Folder\temp\`.
+- Manually download my [**Cathedral Minimalist ENB - TPF Tweaks**](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files).
+- Open the downloaded archive and extract the enbseries.ini into `\Your Modding Folder\temp\`.
+- Click **Yes** when asked to overwrite.
 
-Serio's ENB is my personal favourite ENB preset for Skyrim SE (right after Visceral ENB which is sadly very outdated). It used to be the default for TPF for a long time and should be a little lighter than stock Rudy ENB.
+Now add the preset to ENB Man:
 
-If you want to switch to Serio's ENB, uninstall Rudy ENB first:
+- Open **ENB Man** and double-click the **Skyrim SE** instance.
+- Disable your current ENB preset by clicking the red button at the bottom.
+- Create a new profile and name it **Cathedral Minimalist ENB**.
+- Drag and drop the preset files from your **temp** folder into ENB Man.
+- Make sure the **Binaries** section is checked and the latest version of the ENB binaries are selected.
+- Click the green button at the bottom to deploy your new ENB preset.
 
-- Open **ENB Man** and double-click the **Skyrim SE** profile.
-- Click the red button at the bottom to remove all ENB-related files from your root folder.
-
-Next we need to download Serio's ENB:
-
-- Download [**Serio's ENB - TPF Tweaks**](https://www.nexusmods.com/skyrimspecialedition/mods/30506?tab=files) from the Nexus (Miscellaneous Files section).
-- Open the download archive and double-click the **Serio's ENB - TPF Edits** folder inside.
-- Extract the **enbseries** folder as well as the **enblocal.ini** and **enbseries.ini** to `\Your Modding Folder\temp\`.
-
-Before we install the files through ENB Man, there is one edit that will improve the distant view with Serio's ENB:
-
-- Open the **enbseries.ini** in Notepad++.
-- Scroll down to **Line 1122** in the `[Water]` section.
-- Change `DisableDistantReflection=` to `true`.
-- Press **CTRL + S** to save your changes and close the window.
-
-Now to install Serio's ENB:
-
-- Go back into **ENB Man**.
-- Click the arrow next to the Profiles drop-down and select **Blank Preset**.
-- Enter **Serio's ENB for Cathedral Weathers** as the preset's name and click the green checkmark to confirm.
-- Drag and drop the preset files from your temp folder into ENB Man.
-- Click the red button twice when asked whether to import palettes.
-- Make sure the latest version of ENBSeries is select under **Binaries** and that the box above it is checked.
-- Click the green checkmark at the bottom to install the new preset.
- 
-### Option 3: Removing ENBSeries
+### Option 2: Removing ENBSeries
 
 I do not recommend removing ENB altogether *unless* you either:
 

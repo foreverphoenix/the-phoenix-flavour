@@ -118,3 +118,13 @@ DynDOLOD has a multitude of features and settings through which performance impa
 - Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
 - Leave **DynDOLOD.esp** at the very bottom as the last plugin.
 - Make sure both plugins are activated.
+
+## Solstheim Ice Piles Fix
+
+For whatever reason, DynDOLOD reverts a change in the **Skyrim Remastered - Ice and Glaciers** plugin to vanilla. This in turn breaks three statics on Solstheim.
+
+- Download and install the [DynDOLOD - Solstheim Ice Piles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the **Optional Files** section.
+- Install it as usual in Mod Organizer 2 and active it in the mod order.
+- Leave the plugin at the bottom of your load order so that it overwrites **DynDOLOD.esp**.
+
+Check this [comparison slider](https://imgsli.com/NjUxMzE) to see what the objects in question look like before and after the fix.

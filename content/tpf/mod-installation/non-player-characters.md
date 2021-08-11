@@ -1,6 +1,6 @@
 ---
 title: "Non-Player Characters"
-weight: 30
+weight: 33
 type: docs
 description: >
   Mods affecting NPCs and their behaviour.
@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** AI Overhaul 1.6.4
+- **Main Files:** AI Overhaul 1.6.5
 
 ##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
@@ -98,19 +98,6 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 > Even though Timing Is Everything will be installed later and lower in the mod order, the scripts from the TNA TIE patch will still override because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
 
-##### [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hearthfire Multiple Adoptions and Custom Home Support SE
-
-#### Additional Instructions
-
-- Unpack **HearthfireMultiKid.bsa** through Mod Organizer 2.
-- Delete the following file(s) and / or folder(s):
-  - `HearthfireMultiKid.bsa`
-  - `HearthfireMultiKid.bsl`
-
 ##### [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 
 #### Download Instructions
@@ -140,3 +127,20 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - **Immersive Patrols Version:** Lite
 - **Patches:** No Merchants
+
+##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Immersive College NPCs
+
+#### FOMOD Instructions
+
+* Change nothing and click **Install**.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `ICNs_ImmersiveCollegeNPCs.bsa`
+
+> The BSA contains facegen files which we will later regenerate in higher quality.
