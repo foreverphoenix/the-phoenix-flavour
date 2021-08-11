@@ -12,8 +12,6 @@ description: >
 
 With this update, we are doing some spring cleaning. Several mods that we consider to be problematic (Hearthfire Multiple Adoptions) or out of place in TPF (Reliquary of Myth, Obscure's College of Winterhold) have been removed. On the other hand, I added **Apothecary**, Simon and Delta's new SimonRim alchemy and food overhaul. These changes all require **a new playthrough** which is why this update is a major release.
 
-The reasons for the removal of Realistic AI Detection as well as several content-related mods can be found in [**this Patreon post**](https://www.patreon.com/posts/august-update-54701613).
-
 I also (finally) added the -IKnowWhatImDoing argument for SSEEdit (so that the warning window is skipped). I removed the "click yes to warning" instruction in as many places as I could find it, but might have missed some.
 
 **About the ENB change:**
@@ -28,7 +26,7 @@ I also officially swapped the guide over to Folkvangr + Veydosebrom + Cathedral 
 
 **About (some of) the removed mods:**
 
-A good chunk of the mods removed in this update are going to re-appear in TPF-X. The point of 4.7 is to "purify" it as a base setup with as little added content as possible while TPF-X does add content (such as new enemy types or items).
+A good chunk of the mods removed in this update are going to re-appear in TPF-X. The point of 4.7 is to "purify" it as a base setup with as little added content as possible while TPF-X does add content (such as new enemy types or items). The reasons for the removal of Realistic AI Detection as well as several content-related mods can be found in [**this Patreon post**](https://www.patreon.com/posts/august-update-54701613).
 
 With the removal of Reliquary of Myth and Unique Item Tweaks, we have once again reverted to vanilla artifacts. They are not ideal, but ROM's effects are more suited to EnaiRim setups; they feel out of place in SimonRim. I'm confident there will be a v+ artifact overhaul released one day that can then finally cover uniques in TPF.
 
