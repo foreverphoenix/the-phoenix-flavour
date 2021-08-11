@@ -98,11 +98,15 @@ By default, the player and NPCs carry their shields in their left hand when thei
 - **Directional Jump Option:** Short Jump
 - **Patch Options:** *select nothing*
 
-##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
+##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrim/mods/213/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** No heavy muscular walk and idle
+* **Main Files:** No heavy muscular idle
+
+#### Additional Instructions
+
+- Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
 
 ##### [Relaxed Sneaking Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37260?tab=files)
 
@@ -140,23 +144,17 @@ By default, the player and NPCs carry their shields in their left hand when thei
 
 * **Main Files:** DWANIM
 
-##### [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files)
+##### [Dragon Animations Replace](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
 
-#### Additional Instructions
+##### [Dragon War - Dragon Animation Replace Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
 
-- Delete the following file(s) and / or folder(s):
-  - `meshes\actors\dragon\animations\ground_bite.hkx`
-  - `meshes\actors\dragon\animations\ground_biteleft.hkx`
-  - `meshes\actors\dragon\animations\ground_biteright.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhip.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhipleft.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhipright.hkx`
+#### Download Instructions
 
-> Adjusted versions of these behaviours are included in Dragon War - A Dragon Combat Overhaul.
+- **Main Files:** Dragon War - Dragon Animation Replace Patch
 
 ##### [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 

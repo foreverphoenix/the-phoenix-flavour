@@ -84,16 +84,15 @@ description: >
 
 > The optional file retextures the meat pies added by the USSEP which are not in fact vanilla food items.
 
-##### [Honey Pot](https://www.nexusmods.com/skyrimspecialedition/mods/3036?tab=files)
+##### [Rally's Honey Pot](https://www.nexusmods.com/skyrimspecialedition/mods/27984?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Honey pot 1.3b Special Edition
+- **Main Files:** Rallys Honey Pot HQ - Vanilla Colors
 
-#### FOMOD Instructions
+#### Additional Instructions
 
-* **Core:** Honey dripped mesh
-* **Texture size:** 1k Texture
+- Downsize the textures with Cathedral Assets Optimizer (**Downsize Textures**).
 
 ##### [True Homecooked Meal](https://www.nexusmods.com/skyrimspecialedition/mods/33785?tab=files)
 

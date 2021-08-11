@@ -11,7 +11,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** 2. Majestic Mountains Darkside
-* **Optional Files:** Lod Pack for DynDoLod (all versions)
+* **Optional Files:** DynDoLod V 3.0 Lod pack (all versions)
 
 #### FOMOD Instructions - Main File
 
@@ -26,8 +26,7 @@ description: >
 
 #### FOMOD Instructions - LOD Pack
 
-* **Lod Textures:**
-  * Darkside
+- **Lod Textures:** Darkside
 
 #### Additional Instructions
 
@@ -46,8 +45,8 @@ description: >
 - **Mountain Textures:** Main Northside
 - **Normal Maps:** Main Rocky
 - **Wet Rocks:**
-  - Tweaked Wet Rock Meshes
-  - ~~Tweaked Rapid Rocks Textures~~
+  - ~~Tweaked Wet Rock Meshes~~
+  - ~~Tweaked Rapid Rock Meshes~~
 
 ##### [Skyrim - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
 
@@ -62,126 +61,6 @@ description: >
 - **Main Files:** Moss Rocks 2K v3.4
 
 > We're using this mod instead of Majestic Mountains' moss module because its textures don't suffer from tiling.
-
-##### [MystiriousDawn's HD Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19421?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** LANDSCAPE ONLY TEXTURES - Mid Quality
-
-#### Additional Instructions
-
-- Delete **all files** except those shown in the picture below:
-
-![MD Landscape Files](/Pictures/tpf/mod-installation/md-landscape-files.png)
-
-##### [Better Dirt Cliffs and Alphas](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files)
-
-#### Download Instructions
-
-- **Miscellaneous Files:** Better Dirt Cliffs and Alphas (2K)
-
-##### [Nordic Coast](https://www.nexusmods.com/skyrimspecialedition/mods/32402)
-
-#### Download Instructions
-
-- **Main Files:** Nordic Coast - 2K
-
-##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Better Dynamic Snow SE v3.3
-
-#### FOMOD Instructions
-
-* **Plugin Installation:**
-  * Brighter Snow Materials
-* **Projected Diffuse Texture:**
-  * None
-* **Optional Addons:**
-  * ~~No Glacier Snow~~
-
-##### [WalkWayCWall01 NIF - SLaWF SMIM BDS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** WalkWayCWall01 NIF - SLaWF SMIM BDS Patch
-
-> This mesh consolidates the tweaks from SLaWF (fixes a hole) and SMIM (3D ropes) into one mesh, plus it removes parallax which is not compatible with Better Dynamic Snow 3.x.
-
-##### [Glacierslab](https://www.nexusmods.com/skyrimspecialedition/mods/24178?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Glacierslab 4.2.2.5 B-Bumpy-Chiseled
-
-##### [SC - Glacierslab Addon](https://www.nexusmods.com/skyrim/mods/99443?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** SC - GlacierslabAddon
-
-#### FOMOD Instructions
-
-- **Requirements:** First
-- **Pick whatever - Meshes:**
-  - ~~Ice caves~~
-  - ~~Cave icicles~~
-  - Landscape
-  - Landscape icicles
-  - Landscape glaciers
-  - ~~Magic ice~~
-  - Dawnguard landscape ice
-  - Dawnguard frozen creatures
-  - Dawnguard falmer playground
-  - Dragonborn Ice
-  - New ice and show shaders
-
-#### Porting Instructions
-
-- Run the mod through **SSE NIF Optimizer**.
-- Re-save **SC_IceShader.esp** in the Creation Kit.
-
-##### [Skyrim Remastered - Glaciers and Ice - Replacer ESP](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
-
-#### Download Instructions
-
-- **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP
-
-> This plugin fixes some glaciers on Solstheim (near the Altar of Thrond for instance) which otherwise look like solid white blocks. While it is made for the mod's main file, SC - Glacerslab has the same issue that is also fixed by this plugin.
-
-##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Realistic Water Two SE v3.1.0
-* **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
-
-#### FOMOD Instructions
-
-- **Optional Textures:**
-  - ~~Half Resolution~~
-  - ~~Smaller Water Drops~~
-  - ~~ENB Rain~~
-- **Ambience:**
-  -  ~~Extended Ambience~~
-
-##### [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
-
-#### FOMOD Instructions
-
-* **Textures:** 2048×2048 Resolution
-
-##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Majestic Mountains - Rapid Rocks Mesh
 
 ##### [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834?tab=files)
 
@@ -199,6 +78,144 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
+
+##### [Tamrielic Textures 1 - Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Tamrielic Textures SE 1 Landscapes 2K-4K
+
+#### FOMOD Instructions
+
+- **Options:**
+  - ~~Majestic Mountains~~
+  - ~~Green Tundra~~
+  - ~~Green Rift~~
+  - Gray Beach
+  - ~~Projected Snow Maps~~
+
+> We are skipping the Majestic Mountains textures because we are going to remove TT's mountain textures in favour of MM Northside. The snow maps are not needed because we are also not going to use TT's snow.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+  - `textures\landscape\mountains\`
+  - `textures\landscape\dirtsnowpath01.dds`
+  - `textures\landscape\dirtsnowpath01_n.dds`
+  - `textures\landscape\snow01.dds`
+  - `textures\landscape\snow01_n.dds`
+  - `textures\landscape\snow01alta.dds`
+  - `textures\landscape\snow01landscape.dds`
+  - `textures\landscape\snow02.dds`
+  - `textures\landscape\snow02_n.dds`
+  - `textures\landscape\snow02landscape.dds`
+  - `textures\lod\dirtsnowpath01lod.dds`
+  - `textures\lod\dirtsnowpath01lod_n.dds`
+  - `textures\lod\mountainslab01lod.dds`
+  - `textures\lod\mountainslab01lod_n.dds`
+  - `textures\lod\mountainslab02lod.dds`
+  - `textures\lod\mountainslab02lod_n.dds`
+  - `textures\lod\mountainslablod.dds`
+  - `textures\lod\mountainslablod_n.dds`
+  - `textures\lod\riverbededgelod.dds`
+  - `textures\lod\riverbededgelod_n.dds`
+  - `textures\lod\riverbottomlod.dds`
+  - `textures\lod\riverbottomlod_n.dds`
+  - `textures\lod\rivermudlod.dds`
+  - `textures\lod\rivermudlod_n.dds`
+  - `textures\lod\snow01lod.dds`
+  - `textures\lod\snow01lod_n.dds`
+  - `textures\lod\snow02lod.dds`
+  - `textures\lod\snow02lod_n.dds`
+
+#### Notes
+
+While Tamrielic Textures is our main landscape retexture, we are hiding a great number of files. As mentioned before, I prefer the mountain textures from Majestic Mountains Northside which is why the mountain textures from TT are removed. I did like the TT snow textures but found them to show some minor tiling in some locations.
+
+Another reason for why we continue to use Noble Skyrim snow is because TT would have required a patch for Windhelm. (A number of ground textures in Windhelm are basically copies of the regular snow textures.) Matching snow and Windhelm textures are already present in Noble Skyrim, so using that mod's snow was the best solution over all.
+
+The mesh folder is deleted because we need none of its contents. The road and bridge meshes packaged with TT are actually from Blended Roads which we already have installed. The dirt cliff and ice meshes are handled by Better Dirt Cliffs and Alphas and Skyrim Remastered - Glaciers and Ice respectively, both of which will be installed shortly.
+
+##### [MystiriousDawn's HD Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19421?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** LANDSCAPE ONLY TEXTURES - Mid Quality
+
+#### Additional Instructions
+
+Some of the textures surrounding rivers are a tad too bright in Tamrielic Textures for my taste which is why I chose to overwrite them with MystiriousDawn's. You can find a comparison slider [here](https://imgsli.com/NjUwNjM).
+
+- Delete **all files** except those shown in the picture below:
+
+![MD Landscape Files](/Pictures/tpf/mod-installation/md-landscape-files.png)
+
+##### [Better Dirt Cliffs and Alphas](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Better Dirt Cliffs and Alphas (2K)
+
+##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Better Dynamic Snow SE v3.3
+
+#### FOMOD Instructions
+
+* **Plugin Installation:**
+  * Brighter Snow Materials
+* **Projected Diffuse Texture:**
+  * None
+* **Optional Addons:**
+  * ~~No Glacier Snow~~
+
+##### [Skyrim Remastered - Glaciers and Ice](https://www.nexusmods.com/skyrimspecialedition/mods/41432?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim Remastered - Glaciers and Ice Quality Version
+- **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP >> `merge with the main file`
+- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
+
+##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Realistic Water Two SE v3.1.0
+* **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
+
+#### FOMOD Instructions
+
+- **Optional Textures:**
+  - ~~Half Resolution~~
+  - ~~Smaller Water Drops~~
+  - ~~ENB Rain~~
+- **Ambience:**
+  -  ~~Extended Ambience~~
+
+#### Additional Instructions - Darker Gradient Textures
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\effects\gradients\water_gradwavefoam.dds`
+
+##### [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
+
+#### FOMOD Instructions
+
+* **Textures:** 2048×2048 Resolution
+
+##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Majestic Mountains - Rapid Rocks Mesh
 
 ##### [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 

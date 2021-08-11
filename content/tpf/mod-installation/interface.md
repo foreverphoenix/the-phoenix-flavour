@@ -203,12 +203,6 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 - **Main Files:** Type 1
 
-##### [Dawnguard Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/20931?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Dawnguard Map Markers
-
 ##### [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files)
 
 #### Download Instructions
@@ -264,3 +258,48 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 - **Main Files:** Menu and Load Smoke Removed for ENB
+
+##### [KenMOD - Time On Loading Screen](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf)
+
+*This mod is now available only on Github. Because its installation is a little more involved, you can skip it if you like. All it does is add a tiny 24h clock to loading screens: [Preview here](https://raw.githubusercontent.com/KenneyNL/Skyrim-Mods/main/Time%20On%20Loading%20Screen/PreviewB.png).*
+
+- Download the [**loadingmenu.swf**](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf) file from KenneyNL's Github (click the **Download** button on the top right).
+
+![Download KenMOD Time](/Pictures/tpf/mod-installation/kenmod-time-download.png)
+
+- Move the downloaded file to your **temp** folder.
+- Create a new folder called **Interface** and move the **loadingmenu.swf** file inside.
+- Right-click the **Interface** folder and select **Add to archive**.
+- Rename the archive to **KenMOD - Time On Loading Screen**.
+- Move the new mod to `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
+- In MO2, press F5 to refresh and the mod will appear in the **Downloads** tab.
+- From there, you can install it as usual.
+
+#### Configuration File
+
+- Right-click **KenMOD - Time On Loading Screen** in your mod order and select **Open in Explorer**.
+- Open the **interface** folder. Right-click inside and select **New** >> **Text Document**.
+- Name the file **loadingmenu_settings.txt** and open it.
+- Paste the following inside:
+
+```
+// Clock settings (1 = true, 0 = false)
+&showAnalog=1&
+&showTimeString=1&
+&twelveHourClock=0&
+
+// Misc settings
+&showLevelProgressPercentage=0&
+
+// Static background (hides 3D model and hints, for potential spoilers)
+&showStaticBackground=0&
+
+// Turn on/off modules
+&showHints=1&
+&showLevelProgress=1&
+&showTime=1&
+```
+
+- Save your changes and close the text file.
+
+> If you prefer a 12h clock, feel free to set the fourth line to `&twelveHourClock=1&`.

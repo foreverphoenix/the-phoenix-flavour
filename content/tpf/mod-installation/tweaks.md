@@ -92,14 +92,6 @@ description: >
 
 - **Main Files:** Followers Don't Draw Weapons v1.0.1
 
-##### [Random Encounter Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/16804?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Random Encounter Tweaks
-
-> Be aware that the only part of the mod that will come into effect is the addition of Shivs for Skooma dealers. Everything else will eventually be overwritten by Timing Is Everything.
-
 ##### [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files)
 
 #### Download Instructions

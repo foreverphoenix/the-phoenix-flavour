@@ -82,7 +82,6 @@ There are [additional instructions written up by alt3rn1ty](https://forums.nexus
 * Navigate to `Block 5\Sub-Block 3` and select the record highlighted with red: `00016BCF RiftenRaggedFlagon`.
 * Scroll down in the right pane to the bottom until you can see the conflict in the line marked red.
 * Right-click `RiftenRatwayZone [ECZN:0009FBB9]` in **Dawnguard.esm** and select **Remove** (see picture below).
-* There will be a warning, simply click **Yes I’m absolutely sure**.
 
 ![ESM Cleaning - Manual Edit](/Pictures/tpf/initial-setup/esm-cleaning-manual-edit.png)
 

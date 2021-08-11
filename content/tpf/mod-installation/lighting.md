@@ -148,3 +148,9 @@ description: >
 #### Download Instructions
 
 * **Optional Files:** KD - Realistic Fireplaces - Charred Logs 2K
+
+##### [KD - Realistic Fireplaces - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52376?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** KD - Realistic Fireplaces - Fixes

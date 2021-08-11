@@ -6,6 +6,239 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7
+
+> 11/08/2021
+
+With this update, we are doing some spring cleaning. Several mods that we consider to be problematic (Hearthfire Multiple Adoptions) or out of place in TPF (Reliquary of Myth, Obscure's College of Winterhold) have been removed. On the other hand, I added **Apothecary**, Simon and Delta's new SimonRim alchemy and food overhaul. These changes all require **a new playthrough** which is why this update is a major release.
+
+Another notable change is the addition of the **vanilla modifiers** addon for our combat overhaul, Blade & Blunt. Combat will be easier with this addon. I chose to add it because I believe that, as a v+ list, TPF combat should not be significantly harder than vanilla (though it is certainly more complex). You can simply disable the plugin if you prefer the harder difficulty.
+
+The reasons for the removal of Realistic AI Detection as well as several content-related mods can be found in [**this Patreon post**](https://www.patreon.com/posts/august-update-54701613).
+
+I also (finally) added the -IKnowWhatImDoing argument for SSEEdit (so that the warning window is skipped). I removed the "click yes to warning" instruction in as many places as I could find it, but might have missed some.
+
+**About the ENB change:**
+
+In this update, we are swapping back to Serio's ENB and removing the Cathedral Weather edits for Rudy ENB. I've decided that base TPF will simply stick with Serio's going forward and the upcoming Wabbajack-only version of TPF-X will be using Rudy ENB. I'm really sorry about the back-and-forth in this matter, it's caused by my own indecisiveness. I'm relatively sure there will not be any more ENB changes in the (near) future though.
+
+**About the visual changes:**
+
+Thanks to a user suggestion, I finally gave [Tamrielic Textures - Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/32973) a shot and was thoroughly impressed. We are now using the mod for the vast majority of landscape textures (which is why this update requires regenerating terrain LOD). I also swapped to Enhanced Vanilla Trees Lush (instead of Custom) because those meshes work better with non-EVT bark retextures. I really dislike the default EVT bark texture so I'm happy we finally have a different one.
+
+I also officially swapped the guide over to Folkvangr + Veydosebrom + Cathedral 3D Pine Grass with QW Grass Patch as this combination is pretty damn perfect in my eyes. It is the only grass mod combination I am truly happy with in all areas of Skyrim.
+
+**About (some of) the removed mods:**
+
+A good chunk of the mods removed in this update are going to re-appear in TPF-X. The point of 4.7 is to "purify" it as a base setup with as little added content as possible while TPF-X does add content (such as new enemy types or items).
+
+With the removal of Reliquary of Myth and Unique Item Tweaks, we have once again reverted to vanilla artifacts. They are not ideal, but ROM's effects are more suited to EnaiRim setups; they feel out of place in SimonRim. I'm confident there will be a v+ artifact overhaul released one day that can then finally cover uniques in TPF.
+
+Finally a number of mods had to be removed because they were deleted from the Nexus due to recent drama.
+
+**About the difficulty change:**
+
+The vanilla difficulty modifiers addon for Blade & Blunt is now part of TPF. This is because occasionally users complain about tough combat while absolutely refusing to lower the game difficulty out of a misplaced sense of pride. TPF combat with Blade and Blunt (and some other mods) is more challenging than vanilla, and you should never feel bad for lowering the difficulty in order to have fun.
+
+You can disable the plugin to play with Adamant's adjusted difficulty levels for tougher combat.
+
+#### Updating
+
+- Manual guide users need to update [SSELODGen] and [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files).
+
+#### Initial Setup
+
+- **Additional Tools:** Added -IKnowWhatImDoing command for SSEEdit (to disable warning windows).
+
+#### Mod Installation
+
+- **Essentials:** Added console command to Autorun to decrease NPC's accuracy with ranged weapons.
+- **Fixes:** Removed one INI tweak from powerofthree's Tweaks (already present in latest version).
+- **Fixes:** Added Labyrinthian Shalidor's Maze Fixes.
+- **Tweaks:** Removed Random Encounter Tweaks (mod deleted from the Nexus).
+- **Interface:** Removed Dawnguard Map Markers (mod deleted from the Nexus).
+- **Interface:** Re-added KenMOD - Time On Loading Screen (now hosted on Github).
+- **Graphics Baseline:** Updated link and instructions for DynDOLOD Resources.
+- **Graphics Baseline:** Removed Perfect Terrain LOD - Noise Texture (included with Tamrielic Textures).
+- **Graphics Baseline:** Added instructions to delete some textures from Dlizzio's Mesh Fixes - Noble Skyrim Material Fix.
+- **Weather:** Removed additional instructions for Dynamic Volumetric Lighting and Sun Shadows (they are specifically for Rudy ENB).
+- **Weather:** Removed Rudy ENB - Cathedral Weathers.
+- **Lighting:** Added KD - Realistic Fireplaces - Fixes.
+- **Visual FX:** Removed TB's Improved Dust Particles.
+- **Visual FX:** Added Dust Effects by HHaley.
+- **Landscape:** Changed the order of some mods in this step.
+- **Landscape:** Updated Majestic Mountains download instructions.
+- **Landscape:** Updated Majestic Mountains Northside FOMOD instructions (no longer installing tweaked wet rock meshes).
+- **Landscape:** Removed WalkWayCWall01 NIF - SLaWF SMIM BDS Patch (overwritten by Real 3D Walls).
+- **Landscape:** Added Tamrielic Textures 1 - Landscape.
+- **Landscape:** Removed Nordic Coast.
+- **Landscape:** Removed Glacierslab.
+- **Landscape:** Removed SC - Glacierslab Addon.
+- **Landscape:** Re-added Skyrim Remastered - Glaciers and Ice (I honest to god don't remember why I ever removed it to begin with).
+- **Trees & Plants:** Updated download and FOMOD instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed Tree Bark in High Definition.
+- **Trees & Plants:** Added Realistic Spruce and Pine Bark Textures.
+- **Trees & Plants:** Added Aspen Bark HQ Variants.
+- **Trees & Plants:** Removed HD Dead Trees and Driftwood.
+- **Trees & Plants:** Removed HD Dead Trees and Driftwood 2K Mesh Fix.
+- **Trees & Plants:** Added Reach Trees Enhanced.
+- **Trees & Plants:** Added Spooknik's Tundra Trees.
+- **Trees & Plants:** Added Pine Shrubs Redone.
+- **Trees & Plants:** Added Folkvangr - Grass and Landscape Overhaul.
+- **Trees & Plants:** Removed The Phoenix Flavour - Grass Patch.
+- **Trees & Plants:** Added QW's Grass Patch.
+- **Trees & Plants:** No longer downloading Green Ivy from Flora Mod Collection.
+- **Trees & Plants:** Added Ivy by Mari.
+- **Trees & Plants:** Added Scallions of Skyrim - High Polygon Leeks.
+- **Architecture:** Added Northfire's Windhelm.
+- **Architecture:** Added Better Windhelm Ground Meshes.
+- **Misc Structures:** Added Rock-Wall Texture Patches for High Poly Project.
+- **Misc Structures:** Added Real 3D Walls.
+- **Misc Structures:** Added Real 3D Walls - Majestic Mountains Textures.
+- **Misc Structures:** Added Hearthfire Crafting Retextures.
+- **Misc Structures:** Added Rain Barrel Fix and Retexture.
+- **Misc Structures:** Updated FOMOD instructions for Iconic Statues.
+- **Misc Structures:** Added Statue of Shalidor - Mage Statue Replacer.
+- **Misc Structures:** Removed Astral Aspects - Standing Stones.
+- **Misc Structures:** Added Rudy HQ - Standing Stones.
+- **Interiors:** Removed Nordic Beds (all files included Retexture for Nordic Beds).
+- **Dungeons:** Updated download instructions for an optional file for The Dwemer (file name changed).
+- **Dungeons:** Added High Poly Blackreach Mushrooms - Skyrim Remastered Patch.
+- **Food & Ingredients:** Removed Honey Pot (deleted from the Nexus).
+- **Food & Ingredients:** Added Rally's Honey Pot.
+- **Apparel & Weapons:** Updated FOMOD instructions for Modular Armory (no longer selecting Wuuthrad and Shield of Ysgramor).
+- **Apparel & Weapons:** Added Sleeved Stormcloaks.
+- **Apparel & Weapons:** Now downloading the 2K Core Package for Stalhrim Refrozen.
+- **Apparel & Weapons:** Removed redundant instructions to downscale 4K Stalhrim Refrozen textures.
+- **Apparel & Weapons:** Updated FOMOD instructions for Unique Uniques Re-Ported (no longer selecting ROM patch).
+- **Apparel & Weapons:** Added Iconic's Wuuthrad Retexture.
+- **Apparel & Weapons:** Added Iconic's Ysgramor Shield Retexture.
+- **Gameplay Overhauls:** Updated download instructions for Forgotten Tongue - Shouts Overhaul.
+- **Gameplay Overhauls:** Removed FOMOD instructions for Forgotten Tongue - Shouts Overhaul (was removed).
+- **Gameplay Overhauls:** Removed Reliquary of Myth - Artifact Overhaul.
+- **Gameplay Overhauls:** Removed Modular Armory - Reliquary of Myth Patch.
+- **Gameplay Overhauls:** Removed Unique Item Tweaks.
+- **Gameplay Overhauls:** Removed Alchemy Potions and Food Adjustments.
+- **Gameplay Overhauls:** Removed Alchemy Adjustments - TPF Tweaks.
+- **Gameplay Overhauls:** Added Carriage and Ferry Travel Overhaul - Companions Radiant Quest Fix.
+- **Loot & Balancing:** Added this new step. Moved a bunch of mods from Gameplay Overhauls here.
+- **Loot & Balancing:** Updated FOMOD instructions for Simple Smithing Overhaul (no longer selecting ROM patch).
+- **Loot & Balancing:** Added Improvement Names Customized.
+- **Loot & Balancing:** Added Adamant - Plus Ten Smithing.
+- **Loot & Balancing:** Added Apothecary - An Alchemy Overhaul.
+- **Non-Player Characters:** Updated download instructions for AI Overhaul (file name changed).
+- **Non-Player Characters:** Removed Hearthfire Multiple Adoptions.
+- **Improved Vanilla Quests:** Removed Miscellaneous Quests As Miscellaneous Quests (removed from the Nexus).
+- **Improved Vanilla Quests:** Updated FOMOD instructions for Misc College of Winterhold Tweaks.
+- **Combat & Encounters:** Updated download instructions for Dragon War.
+- **Combat & Encounters:** Removed FOMOD instructions for Dragon War (no longer necessary).
+- **Combat & Encounters:** Re-added Arena - An Encounter Zone Overhaul (to overwrite OWL EZs).
+- **Combat & Encounters:** Removed Realistic AI Detection.
+- **Combat & Encounters:** Removed Less Sniper-Like NPCs (was added as a console command to Autorun).
+- **Combat & Encounters:** Removed More Werewolves.
+- **Combat & Encounters:** Removed Cannibal Draugr on Solstheim.
+- **Combat & Encounters:** Removed Briraka's Dragur Overhaul - Cannibal Draugr Patch.
+- **Combat & Encounters:** Removed The Blood Horker.
+- **Miscellaneous:** No longer installing the Night Eye Redux - ENB Fix from the Miscellaneous Tweaks Collection.
+- **Miscellaneous:** Removed additional instructions from Viewable Faction Ranks (no longer required).
+- **Miscellaneous:** Added Forceful Tongue - Dragon Wall Wisdom Patch.
+- **Miscellaneous:** Added Forceful Tongue - Durnehviir Resurrected Patch.
+- **Miscellaneous:** Added Dragon War - Durnehviir Resurrected Patch.
+- **Miscellaneous:** Now downloading the 2 bed version of Simple Player Home Improvements.
+- **Miscellaneous:** Removed Imperial Military Camps (hidden on the Nexus).
+- **New Content:** This step was removed again. Mods were distributed to other steps or removed (to be re-added in TPF-X).
+- **New Content:** Moved Armor and Clothing Extension to Loot & Crafting.
+- **New Content:** Moved Tweaks for WACCF and ACE to Loot & Crafting.
+- **New Content:** Moved Open World Loot - WACCF and ACE Patch to Loot & Crafting.
+- **New Content:** Moved Open World Loot - AMB AVL Addons to Loot & Crafting.
+- **New Content:** Moved Ancient Nord Stalhrim to Loot & Crafting.
+- **New Content:** Moved Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch to Combat & Encounters.
+- **New Content:** Removed Armor of Yngol.
+- **New Content:** Removed Armor of Yngol - WACCF Patch.
+- **New Content:** Removed Civil War Deserters.
+- **New Content:** Removed Forsworn Gravesingers.
+- **New Content:** Removed Forsworn Skinchangers.
+- **New Content:** Removed Obscure's College of Winterhold.
+- **New Content:** Moved Choose Your Own Arch-Mage to Improved Vanilla Quests.
+- **New Content:** Moved Misc College of Winterhold Tweaks to Improved Vanilla Quests.
+- **New Content:** Moved Immersive College NPCs to Non-Player Characters.
+- **New Content:** Removed Solstheim Lighthouse.
+- **New Content:** Removed Solstheim - Skaal Fishing Camp.
+- **Sound FX:** Added Forceful Tongue - Audio Overhaul for Skyrim Patch.
+- **Sound FX:** Added Dragon War - Audio Overhaul for Skyrim Patch.
+- **Skeleton & Animations:** Updated the link for No Heavy Muscular Walk and Idle to point to the SLE version (SSE port was removed).
+- **Skeleton & Animations:** Added instructions to run No Heavy Muscular Walk and Idle through CAO.
+- **Skeleton & Animations:** Removed additional instructions from Dragon ANimation Replace (no longer necessary).
+- **Skeleton & Animations:** Added Dragon War - Dragon Animation Replace Patch.
+
+#### Finalisation
+
+- **ENBSeries:** Reverted from Rudy ENB to Serio's ENB.
+- **ENBSeries:** Removed Fix Black Hair section (it actually exacerbates the problem, whoops).
+- **ENBSeries:** Finally updated the Install and Activate ENB Preset screenshots.
+- **DynDOLOD:** Added the Solstheim Ice Piles Fix section.
+
+#### Wabbajack
+
+- Updated Game Folder Files instructions (ENB choice now between Serio's and Cathedral Minimalist).
+- Added instructions to disable the ingame depth of field effect.
+
+#### Documentation
+
+- Renamed the Gameplay Guide to Documentation.
+- **Gameplay:** Updated and expanded this page.
+- **Quests:** Updated this page.
+
+#### Performance Guide
+
+- Removed instructions related to Serio's ENB and Rudy ENB.
+- Added Cathedral Minimalist ENB as an alternative to Serio's ENB.
+
+#### Conflict Resolution Patch
+
+- Removed Reliquary of Myth as a master
+- Removed Hearthfire Multiple Adoptions as a master
+- Removed Obscure's College of Winterhold as a master
+- Removed edit to disable LOS2 loading screen (done through SSE Display Tweaks)
+- Resolved conflicts between Apothecary and Book Covers Skyrim
+- Renamed the words of power added by Forceful Tongue for consistency with Shouts in the Dragontongue
+- Removed Forceful Tongue.esp as a master (plugin name was changed for 3.0)
+- Removed Cannibal Draugr of Solstheim as a master
+- Removed Blood Horker as a master
+- Removed Civil War Deserters as a master
+- Removed Armor of Yngol as a master
+- Marked a few quests as miscellaneous so they sort into the miscellaneous tab in the journal
+- Packaged a tweaked copy of the windhelmbridge2.nif mesh to prevent a very ugly seam on the Windhelm bridge
+
+#### Wabbajack
+
+- Updated the ENBSeries binaries to 0.460
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.5
+- Updated powerofthree's Tweaks to 1.2
+- Updated Serana's Hood Fix to 3.1.0
+- Updated hank's Gamepad and Controller Fixes to 1.6
+- Updated Dwemer Gates Don't Reset to 1.3.3
+- Updated Shadows Of Sunlight - In Small Exterior World Spaces to 0.4
+- Updated Realistic Water Two to 3.1.1
+- Updated High Poly Gleamblossoms to 1.2
+- Updated Retexture for Nordic Beds to 1.1
+- Updated JS Shrines of the Divines to 1.2
+- Updated The Business Ledger to 1.1.1
+- Updated Unique Uniques Re-Ported to 2.3.1
+- Updated Adamant - A Perk Overhaul to 5.1.5
+- Updated Scion - A Vampire Overhaul to 1.2.1
+- Updated Mundus - A Standing Stone Overhaul to 1.6.1
+- Updated Forceful Tongues - Shouts Overhaul to 3.0.1
+- Updated Open World Loot to 1.3.0
+- Updated Simple Smithing Overhaul to 1.1.3a
+- Updated AI Overhaul to 1.6.6
+- Updated Guard Dialogue Overhaul to 2.17
+- Updated Immersive Patrols Simplified to 2.1.1
+- Updated Dragon War - A Dragon Overhaul to 1.1
+- Updated Classic Sprinting Redone to 2.2
+- Regenerated terrain LOD with SSELODGen beta 84
+- Regenerated tree and object LOD with DynDOLOD alpha 35
+
 ## Release 4.6.2
 
 > 06/07/2021

@@ -64,6 +64,27 @@ description: >
 
 * **Main Files:** Riften in High Definition 2K
 
+##### [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Northfires Windhelm
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\windhelm\whdoor01.dds`
+  - `textures\architecture\windhelm\whdoor01_n.dds`
+
+> Northfire's texture is a little too saturated and I prefer Noble's. You can see a comparison [here](https://imgsli.com/NjUxMjE).
+
+##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Windhelm Ground Meshes
+- **Optional Files:** Better Windhelm Ground Meshes - Valunstrad >> `merge with the main file`
+
 ##### [Marvelous Windhelm Gate](https://www.nexusmods.com/skyrimspecialedition/mods/24349?tab=files)
 
 #### Download Instructions

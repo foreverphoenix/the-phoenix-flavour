@@ -1,5 +1,5 @@
 ---
-title: "Gameplay Guide"
+title: "Documentation"
 weight: 8
 type: docs
 description: >

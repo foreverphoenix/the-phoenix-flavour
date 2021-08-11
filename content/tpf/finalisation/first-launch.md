@@ -25,9 +25,7 @@ Changes to MCM settings do not carry over across save games so it would be a was
 
 - Press **ESCAPE** and select the **MCM** Option.
 - Scroll down and click on **Immersive HUD** to open the mod's MCM.
-- In the **Activation** tab, select the following two options:
-  - Key press toggles
-  - Link ALL SkyUI Widgets
+- In the **Activation** tab, check the **Key press toggles** and **Link ALL SkyUI Widgets** options.
 - You can also change the hotkey to a different one if its inconvenient for you (default is X).
 
 > This will make it so that the clock widget from A Matter of Time is toggled along with the rest of the HUD, and that you only have to press the button once to toggle all elements.
@@ -48,14 +46,18 @@ I recommend you spend at least 10 to 20 minutes ingame. Enjoy the improved graph
 * Activate the ENBSeries FPS counter (**F7**) to monitor your frame rate.
 * It may be convenient to use the console in order to enable godmode (`tgm`) and disable enemy AI (`tcai`) for testing purposes.
 * Travel around Skyrim and visit your favourite locations (open the console and type `tmm 1` to enable all map markers).
-* Especially intense areas where you frame rate might drop are:
-  * the southern forest, especially when looking down at Falkreath,
-  * the swamp surrounding Morthal,
-  * the bridge looking at Riverwood,
-  * the Rift, particularly when approaching Riften from the south.
+
+Especially intense areas where you frame rate might drop are:
+
+* the southern forest, especially when looking down at Falkreath,
+* the swamp surrounding Morthal,
+* the bridge looking at Riverwood,
+* the Rift, particularly when approaching Riften from the south.
 
 **When you are satisfied, close Skyrim SE again.**
 
 If you encounter any bugs, performance lower than expected, or even crashes, please join us on Discord and provide us with detailed information about the problem. Any outstanding issues should be solved before diving back into Skyrim for a proper playthrough.
+
+Once you are ready to begin a proper playthrough:
 
 #### Continue with the [Mod Configuration](/tpf/mod-configuration/) page.

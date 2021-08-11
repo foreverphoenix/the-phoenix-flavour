@@ -81,11 +81,15 @@ description: >
 - **Main Files:** Grindstones - Vanilla Sparks
 - **Main Files:** Impact Effects - Vanilla Sparks >> `merge with the first file`
 
-##### [TB's Improved Dust Particles](https://www.nexusmods.com/skyrimspecialedition/mods/39003?tab=files)
+##### [Dust Effects by HHaley](https://www.nexusmods.com/skyrimspecialedition/mods/2407?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** TB's Improved Dust Particles
+- **Main Files:** DustEffectsSSE
+
+#### Additional Instructions
+
+- Unpack the BSA and delete the ESP.
 
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
