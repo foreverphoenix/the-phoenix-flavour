@@ -12,8 +12,6 @@ description: >
 
 With this update, we are doing some spring cleaning. Several mods that we consider to be problematic (Hearthfire Multiple Adoptions) or out of place in TPF (Reliquary of Myth, Obscure's College of Winterhold) have been removed. On the other hand, I added **Apothecary**, Simon and Delta's new SimonRim alchemy and food overhaul. These changes all require **a new playthrough** which is why this update is a major release.
 
-Another notable change is the addition of the **vanilla modifiers** addon for our combat overhaul, Blade & Blunt. Combat will be easier with this addon. I chose to add it because I believe that, as a v+ list, TPF combat should not be significantly harder than vanilla (though it is certainly more complex). You can simply disable the plugin if you prefer the harder difficulty.
-
 The reasons for the removal of Realistic AI Detection as well as several content-related mods can be found in [**this Patreon post**](https://www.patreon.com/posts/august-update-54701613).
 
 I also (finally) added the -IKnowWhatImDoing argument for SSEEdit (so that the warning window is skipped). I removed the "click yes to warning" instruction in as many places as I could find it, but might have missed some.
@@ -38,7 +36,7 @@ Finally a number of mods had to be removed because they were deleted from the Ne
 
 **About the difficulty change:**
 
-The vanilla difficulty modifiers addon for Blade & Blunt is now part of TPF. This is because occasionally users complain about tough combat while absolutely refusing to lower the game difficulty out of a misplaced sense of pride. TPF combat with Blade and Blunt (and some other mods) is more challenging than vanilla, and you should never feel bad for lowering the difficulty in order to have fun.
+The vanilla difficulty modifiers addon for Blade & Blunt is now part of TPF. This is because occasionally users complain about tough combat while absolutely refusing to lower the game difficulty out of a misplaced sense of pride. TPF combat with Blade and Blunt (and some other mods) is more challenging than vanilla, and you should never feel bad for lowering the difficulty in order to have fun. I believe that as a v+ list, TPF should not be (much) harder than vanilla anyway.
 
 You can disable the plugin anytime to play with Adamant's adjusted difficulty levels for tougher combat.
 
