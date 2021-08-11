@@ -40,11 +40,14 @@ Finally a number of mods had to be removed because they were deleted from the Ne
 
 The vanilla difficulty modifiers addon for Blade & Blunt is now part of TPF. This is because occasionally users complain about tough combat while absolutely refusing to lower the game difficulty out of a misplaced sense of pride. TPF combat with Blade and Blunt (and some other mods) is more challenging than vanilla, and you should never feel bad for lowering the difficulty in order to have fun.
 
-You can disable the plugin to play with Adamant's adjusted difficulty levels for tougher combat.
+You can disable the plugin anytime to play with Adamant's adjusted difficulty levels for tougher combat.
 
 #### Updating
 
-- Manual guide users need to update [SSELODGen] and [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files).
+- Update [SSELODGen] and [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files).
+- Regenerate all LODs as well as occlusion.
+- Update ENBSeries binaries.
+- **A new save is required.**
 
 #### Initial Setup
 
