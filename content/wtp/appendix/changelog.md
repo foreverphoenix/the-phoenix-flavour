@@ -6,11 +6,36 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.6.3
+
+> 14/08/2021
+
+This update finally brings back WTP after an extended downtime due to Nexit. I was extremely unhappy to remove the Stormy Nights main menu replacer and Full Dialogue Interface (for which the string patch was taken down), but there is nothing to be done. I apologise that it took me so long to bring WTP back, it remains more of a smaller side project for me and sadly I have not felt the Fallout 4 itch in quite some time. Nevertheless, the list has always been doing surprisingly well, much better than I had expected, so I will definitely continue to maintain it.
+
+This is update is **not save-safe**. Please copy over the Game Folder Files into your root folder once again as the ENB binaries were updated.
+
+#### Mod Changes
+
+- Disabled frame limit in enblocal.ini (oversight from when I reinstalled ENBSeries in 1.6.2)
+- Enabled VSYNC in High FPS Physics Fix (should always be on)
+- Removed the main menu replacer as it was deleted from the Nexus (damn shame, it's been my favourite for years)
+- Removed More Attackers - Get Off My Buildzone as a master from the CRP
+- Removed More Attackers - Get Off My Buildzone (removed from the Nexus)
+- Removed Full Dialogue Interface
+- Removed String Patches for Full Dialogue Interface (removed from the Nexus)
+- Removed F4 Creation Kit Fixes from Game Folder Files
+- Updated ENBSeries binaries to 0.461
+- Updated Workshop Framework to 2.0.16
+- Updated Synthkind Redefined HD to 1.01
+- Updated What's Your Name to 1.12.1
+- Updated Vault 88 Essentials to 1.1
+- Added Extended Dialogue Interface
+
 ## Release 1.6.2
 
 > 27/06/2021
 
-This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack update to 2.5.0.0, I had to recompile anyway.
+This is just a quick update to fix two minor issues and update a couple of mods. Since Wabbajack updated to 2.5.0.0, I had to recompile anyway.
 
 Update your **Game Folder Files** to get the new ENBSeries binaries. The update is **save safe**.
 
