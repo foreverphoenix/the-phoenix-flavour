@@ -63,6 +63,18 @@ Patch Horses = true
 
 * **Main Files:** YesImSure
 
+##### [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Time Format Changer - FOMOD Installer
+
+I am making an exception for this mod in that it is **optional** and you may skip it. As a European, I prefer having a 24h clock (AM/PM confusing me a great deal), but this will not be the case for everyone. If you prefer the default 12h clock, feel free to skip this mod or make your own choice in the FOMOD installer.
+
+#### FOMOD Instructions
+
+- **Choose a preset:** Vanilla 24h
+
 ##### [Sales Overflow Solved](https://www.nexusmods.com/skyrimspecialedition/mods/41625?tab=files)
 
 #### Download Instructions

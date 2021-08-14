@@ -1,6 +1,6 @@
 ---
 title: "Improved Vanilla Quests"
-weight: 31
+weight: 32
 type: docs
 description: >
   Improvements and expansions for base game quests.
@@ -44,6 +44,17 @@ description: >
 
 > The "missing data" is not an issue. MO2 does not recognise the JSON file as a functioning mod but it does work as intended and automatically applies.
 
+##### [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** QuestsAreInSkyrim_USSEP_1_2_reupload
+
+#### Additional Instructions
+
+- ESL-ify **QuestsAreInSkyrimUSSEP.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+
 ##### [A Lovely Letter - Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916?tab=files)
 
 #### Download Instructions
@@ -73,7 +84,7 @@ description: >
 
 #### Additional Instructions
 
-- Resave **Finding_Derkeethus.esp** in the Creation Kit.
+- Resave **Finding_Derkeethus.esp** in the Creation Kit ([instructions](/tpf/guide-resources/basic-instructions/#converting-plugins)).
 
 > While the plugin has the correct Form Version, it contains a duplicate form ID which can cause issues. Resaving fixes that.
 
@@ -139,7 +150,7 @@ description: >
 
 #### FOMOD Instructions
 
-> Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
+Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
 
 * **Arniel's Appeals:**
   * Arniel's Appeals

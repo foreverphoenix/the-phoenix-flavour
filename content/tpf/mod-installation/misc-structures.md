@@ -44,7 +44,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Rock-Wall Texture Patches for High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/34143?tab=files)
 
@@ -125,12 +125,6 @@ In order to do so, we will create a new mod folder, set up the correct structure
 
 * **Optional Files:** WiZkiD Carriages 2k
 
-##### [Hearthfire Crafting Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52423?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hearthfire Crafting Retextures
-
 ##### [Skyrim 3D Signs](https://www.nexusmods.com/skyrimspecialedition/mods/21338?tab=files)
 
 #### Download Instructions
@@ -155,7 +149,7 @@ In order to do so, we will create a new mod folder, set up the correct structure
 
 * **Main Files:** Sekmet Shadowmarks 1K
 
-##### [ElSopa HD - Glorious Dummies](https://www.nexusmods.com/skyrimspecialedition/mods/13522?tab=files)
+##### [ElSopa HD - Glorious Dummies](https://www.nexusmods.com/skyrimspecialedition/mods/20865?tab=files)
 
 #### Download Instructions
 

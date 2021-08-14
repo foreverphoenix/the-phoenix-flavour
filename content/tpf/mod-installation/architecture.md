@@ -99,7 +99,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+* Run the mod through Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 

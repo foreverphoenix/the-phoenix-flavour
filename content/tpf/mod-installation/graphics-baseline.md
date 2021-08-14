@@ -112,6 +112,48 @@ description: >
 
 - **Main Files:** SMIM - Quality Addon - Unofficial Material Fix Patch
 
+##### [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Fixed Mesh Lighting
+
+#### FOMOD Instructions
+
+- **Main:** All in one
+- **Main:** Flora
+- **Beyon Skyrim:** ~~Beyond Skyrim : Bruma~~
+- **More Growable Plants:** ~~More Growable Plants~~
+- **Unique Flowers and Plants:** ~~Unique Flowers and Plants~~
+- **Wiseman's Flora Fixes:** Wiseman's Flora Fixes
+- **Mountain Flowers:** ~~3D Mountain Flowers~~
+- **Snowberries:** Sufficiently Optimized Snowberries
+- **Juniper:** 3D Juniper
+- **Tundra Cotton:** ~~Tundra Cotton by Mari~~
+- **Jazbay:** ~~Jaybay by Mari~~
+- **Canticle Tree:** High Poly Canticle Tree
+- **Main:** Trees
+- **Patches:**
+  - Assorted Mesh Fixes
+  - ~~Beyond Skyrim : Bruma~~
+  - Dlizzio's Mesh Fixes
+  - ~~HD Dead Trees and Driftwood~~
+  - Reach Trees Enhanced
+  - ~~Skyrim Flora Overhaul~~
+  - SMIM
+  - ~~UV-Tweaks~~
+- **Main:** Ice
+- **Patches:**
+  - ~~Beyond Skyrim : Bruma~~
+  - Dlizzio's Mesh Fixes
+  - Landscape and water fixes
+  - Unofficial Material Fix
+- **Ice Replacer:**
+  - ~~Northern Ice~~
+  - ~~Northern Ice without Ice Floes~~
+  - ~~Real Ice and Snow~~
+  - Remastered Glaciers and Ice
+
 ##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 
 #### Download Instructions
@@ -120,7 +162,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimiser (**Optimise SLE Assets**).
+- Run the mod through **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 > While the mod doesn't contain any actual SLE assets, this profile will compress the uncompressed textures to save space.
 
@@ -130,18 +172,6 @@ description: >
 
 - **Main Files:** A. Noble Skyrim - FULL PACK_2K
 - **Update Files:** NSM - SMIM Patch >> `merge with the main file`
-
-#### Additional Instructions
-
-- Right-click **Noble Skyrim Mod** in your mod order and select **Open in Explorer**.
-- Double-click the **textures** folder and create a new **effects** folder inside.
-- Open the **landscape** folder and copy the **snow01.dds** and **snow01_n.dds** texture.
-- Paste the textures into the new **textures\effects** folder.
-- Rename the copy of **snow01.dds** to **projecteddiffuse.dds**.
-- Rename the copy of **snow01_n.dds** to **projectednormal.dds**.
-- The resulting file path should be `textures\effects\projecteddiffuse.dds`.
-
-> The projecteddiffuse.dds is applied by the snow shader to various objects like rocks, roads, etc. If it does not perfectly match the regular snow01.dds texture, it will be very noticeable ingame as you can see [in this comparison](https://imgsli.com/NDY1OTk).
 
 ##### [Dlizzio's Mesh Fixes - Noble Skyrim Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
 
@@ -236,7 +266,7 @@ description: >
 
 #### Additional Instructions
 
-* Run the mod through **SSE NIF Optimizer**.
+* Run the mod through **SSE NIF Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#fixing-meshes)).
 
 > Using Cathedral Assets Optimizer will leave you unable to use the alchemy tables.
 
@@ -258,7 +288,7 @@ description: >
   - ~~Install Everything~~
   - Custom Installation
 - **Page 1:**
-  - Hearthfire Breads
+  - ~~Hearthfire Breads~~
   - ~~Vanilla Breads~~
   - ~~Farmhouse Stonewalls~~
   - Solitude Ropes

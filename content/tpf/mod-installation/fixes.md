@@ -51,12 +51,6 @@ description: >
 
 - **Main Files:** Weapon Speed Effects Fix
 
-##### [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** QuestsAreInSkyrim_USSEP_1_2_reupload
-
 ##### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files)
 
 #### Download Instructions
@@ -121,6 +115,12 @@ description: >
 
 - **Main Files** Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
 
+##### [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** College of Winterhold Quest Start Fixes
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions
@@ -148,17 +148,29 @@ description: >
 
 - **Main Files:** Raven Rock - Fix Exit on Horseback SE
 
+#### Additional Instructions
+
+- ESL-ify **Raven Rock - Fix Exit on Horseback.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Dawnguard Dont Hunt Cured Vampires 1_0
 
+#### Additional Instructions
+
+- ESL-ify **Dawnguard Dont Hunt Cured Vampires.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Charge Dialogue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/17716?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Charge Dialogue Fix
+
+#### Additional Instructions
+
+- ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32332?tab=files)
 
@@ -182,8 +194,10 @@ description: >
 #### Additional Instructions
 
 - Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
-- Switch to the **Filetree** tab.
-- Rename `SimpleVampFixesSSE.esl` to `SimpleVampFixesSSE.esp`.
+- Switch to the **Filetree** tab and rename the plugin:
+  - SimpleVampFixesSSE.**esl** >> SimpleVampFixesSSE.**esl**
+
+> This is faster than downloading and ESL-ifying the ESP version.
 
 ##### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files)
 
@@ -229,7 +243,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05b
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05c
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 
