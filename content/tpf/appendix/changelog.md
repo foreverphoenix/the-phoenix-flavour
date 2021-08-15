@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.7.1
 
-> TBD
+> 15/08/2021
 
 With this update the **Instructions** page for the Mod Installation section received a much-needed update. I rephrased and rearranged parts of it. "**Clean Example.esp**" as a possible instruction is no longer referenced and it was also removed from the Basic Instructions page. We have been removing ITMs manually for some time now which is preferable to -QAC in my opinion. ITMs are not always unnecessary and they are rarely problematic. The entire process of "cleaning" plugins, especially with -QAC, is massively overrated.
 
@@ -34,7 +34,11 @@ It seems I messed up the numbers when I added the Loot & Crafting page to the Mo
 
 #### Update Instructions
 
+**This update is save-safe.**
+
 Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files). Right-click **No Heavy Muscular Walk and Idle** in your mod order, select **Reinstall** and **Replace**. Run the mod once again through CAO (Optimise SLE Assets profile). Previously, the profile did not have processing of animations enabled, meaning the mod was not properly ported. Sorry about that.
+
+Please also redo all LODs (that includes terrain LOD). Instructions are [on this page](/tpf/guide-resources/how-to-update/).
 
 #### Mod Installation
 
@@ -70,10 +74,8 @@ Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimsp
 - **Visual FX:** Added instructions to ESL-ify both plugins from Enhanced Blood Textures.
 - **Visual FX:** Added instructions to ESL-ify the plugin from Deadly Spell Impacts.
 - **Visual FX:** Clarified the excessively vague additional instructions for Dust Effect by HHaley.
-- **Landscape:** Updated additional instructions for Tamrielic Textures (some files do not need to be deleted anymore).
 - **Landscape:** Updated picture for MD's Landscape Textures to prevent confusion (file sizes were from 4K version).
 - **Landscape:** Re-added HD Stone Quarry and Clay Deposit.
-- **Landscape:** Added Majestic Landscapes - Snow and Marsh Textures.
 - **Landscape:** No longer merging Skyrim Remastered - Glaciers and Ice with the LOD optional file.
 - **Landscape:** Added instructions to delete the meshes from Skyrim Remastered - Glaciers and Ice.
 - **Landscape:** Swapped mod order of Skyrim SE Improved Puddles and Realistic Water Two (no conflicts, just a consistency fix).
@@ -83,7 +85,6 @@ Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimsp
 - **Trees & Plants:** Removed instructions to delete billboards from Enhanced Vanilla Trees.
 - **Trees & Plants:** Added instructions to ESL-ify the plugin from Enhanced Vanilla Trees.
 - **Trees & Plants:** Added instructions to delete some files from Enhanced Vanilla Trees.
-- **Trees & Plants:** Added instructions to delete some files from Realistic Spruce and Pine Bark Textures.
 - **Trees & Plants:** Removed instructions to delete billboards from Aspens Ablaze.
 - **Trees & Plants:** Fixed Reach Trees Enhanced download instructions.
 - **Trees & Plants:** Added instructions to delete some files from Reach Trees Enhanced.
@@ -115,12 +116,26 @@ Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimsp
 - **Combat & Encounters:** Added instructions to ESL-ify the plugin from Realistic Melee Range.
 - **Miscellaneous:** Added Sleeves for Guards (undocumented TPF 4.7 addition, was in Apparel & Weapons).
 - **Assorted Plugins:** Added Time Format Changer.
+- **Skeleton & Animations:** Updated the line in the INI instructions for Simple Dual Sheath.
 - **Utilities:** Updated MCM Helper.
 
 #### Finalisation
 
 - **Wrapping Up:** Instructions to ESL-ify various plugins were removed from this page (now part of mod installation).
+- **DynDOLOD:** Updated lines in the INI Adjustment section for DynDOLOD.
+- **DynDOLOD:** Updated TexGen instructions and screenshot.
+- **DynDOLOD:** We are no longer using pre-made presets for DynDOLOD. Updated instructions and screenshot.
 - **ENBSeries:** Fixed a typo in the Disable Distant Reflections step.
+
+#### Performance Guide
+
+- Fixed a bunch of oversights from 4.7 (mostly related to Rudy ENB).
+- Updated DynDOLOD instructions and added a screenshot.
+
+#### TPF Addons
+
+- Removed TPF Addons from the list. I am not updating it currently since there will be a WJ-only remake soon (tm).
+- Added The Phoenix Flavour - Dragon's Edition to the list of addons
 
 #### Resources
 
@@ -146,6 +161,7 @@ Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimsp
 - Updated Apothecary - Food and Drink Addon to 1.0.2
 - Updated Radiant Requirements MCM to 1.2.0
 - Updated Radiant Requirements MCM - TPF Preset to 1.1
+- Regenerated all LODs
 
 ## Release 4.7
 

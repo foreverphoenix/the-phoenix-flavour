@@ -41,28 +41,13 @@ Of course Wabbajack users can *in theory* follow the manual instructions for Add
 
 ## Available Addons
 
-##### [TPF-X](/tpf-x/introduction/)
-
-- **Author:** Phoenix
-
-The Phoenix Flavour - Extended is a fully modular Addon containing mods I am personally interested in but couldn't add to TPF.
-
-#### Notable additions
-
-- QuickLoot & related mods
-- Folkvangr - Grass and Landscape Overhaul
-- Rudy ENB for Cathedral Weathers
-- Inigo & Lucien
-- CC Player Homes
-- Royal Armory - New Artifacts
-
 ##### [Slidikins' Strenuous Skyrim](https://docs.google.com/document/d/1Sy7OQe1SFoChvuct0ZhZIgdh9hBYDuMf2Qkg6sisB5w/edit#)
 
 - **Author:** Slidkins
 
 Slidikins' guide has been around longer than TPF, however it has since been adapted to use TPF as a base. The setup is generally more challenging, with Survival mode integration, a reduced HUD, and harsher economy. The **Survival Mode** from the Creation Club is required.
 
-#### Notable additions
+#### Notable additions:
 
 - Dynamic Volumetric Lighting and Sun Shadows
 - Conner's Survival Mode
@@ -80,7 +65,7 @@ Slidikins' guide has been around longer than TPF, however it has since been adap
 
 *Seasoning* is a small collection of personal tweaks and additions that integrate seamlessly with the base setup.
 
-#### Notable additions
+#### Notable additions:
 
 - Alternate Conversation Camera Plus
 - Undiscovered Means Unknown
@@ -96,7 +81,7 @@ Slidikins' guide has been around longer than TPF, however it has since been adap
 
 Features a proper integration patch for Legacy of the Dragonborn as well as detailed instructions for LOTD TPF compatibility.
 
-#### Patch for
+#### Patch for:
 
 - Legacy of the Dragonborn
 
@@ -106,7 +91,7 @@ Features a proper integration patch for Legacy of the Dragonborn as well as deta
 
 Modular patch hub for various Creation Club content with proper integration and instructions.
 
-#### Supported creations
+#### Supported creations:
 
 - CC Survival Mode (also requires Conner's Survival Mode) **no longer supported***
 - CC Rare Curios
@@ -116,3 +101,31 @@ Modular patch hub for various Creation Club content with proper integration and 
 - CC Umbra
 
 \* *If you are interested in playing TPF with survival mechanics, check out [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).*
+
+##### [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+- **Author:** DragonBlame
+
+As the most expansive addon to date, Dragon's Edition features a ton of new content and other popular types of mods that are not part of base TPF.
+
+#### Notable additions:
+
+- SmoothCam, QuickLoot, Alternate Conversation Camera
+- DLC-sized mods such as Beyond Skyrim: Bruma, The Forgotten City, Moon and Star, Wyrmstooth, Moonpath to Elsweyr
+- New player homes including Ryek's End and Morskom Estate
+- New companions such as Inigo, Kaidan, Gladys, and Interesting NPCs
+- High Poly Head, KS Hairdos Lite, HDT Physics, various NPC overhauls
+- ... and many, many more
+- [Full list of mods here](https://loadorderlibrary.com/lists/the-phoenix-flavour-extended)
+
+##### [GRIZZY'S CHOICE](https://docs.google.com/document/d/1-KYJ04mzystlcNLwOpTj9gMue5g7xVLVNkn7uDEhGCY/edit?usp=sharing)
+
+- **Author:** GRIZZY
+
+A collection of hand-picked asset replacers to further improve TPF's graphics, to be expanded.
+
+#### Notable additions:
+
+- Cathedral 3D Mountain Flowers
+- Rudy HQ Miscellaneous
+- Glorious Doors of Skyrim

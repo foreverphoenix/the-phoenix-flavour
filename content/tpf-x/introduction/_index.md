@@ -7,6 +7,10 @@ description: >
   About TPF-X, a content addon for The Phoenix Flavour.
 ---
 
+**TPF-X IS NOT CURRENTLY SUPPORTED.**
+
+I am working on standalone, expanded WJ-only version of TPF-X. Until that releases, the TPF-X section here on the site will stay online, but it is unsupported and partially outdated.
+
 ## Overview
 
 The Phoenix Flavour Extended or **TPF-X** for short is an **Addon** for the main TPF setup. It requires an up-to-date installation of The Phoenix Flavour and you will need to start a new save game.

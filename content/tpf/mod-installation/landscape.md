@@ -101,6 +101,33 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `meshes\`
   - `textures\landscape\mountains\`
+  - `textures\landscape\dirtsnowpath01.dds`
+  - `textures\landscape\dirtsnowpath01_n.dds`
+  - `textures\landscape\snow01.dds`
+  - `textures\landscape\snow01_n.dds`
+  - `textures\landscape\snow01alta.dds`
+  - `textures\landscape\snow01landscape.dds`
+  - `textures\landscape\snow02.dds`
+  - `textures\landscape\snow02_n.dds`
+  - `textures\landscape\snow02landscape.dds`
+ - `textures\lod\dirtsnowpath01lod.dds`
+ - `textures\lod\dirtsnowpath01lod_n.dds`
+ - `textures\lod\mountainslab01lod.dds`
+ - `textures\lod\mountainslab01lod_n.dds`
+ - `textures\lod\mountainslab02lod.dds`
+ - `textures\lod\mountainslab02lod_n.dds`
+ - `textures\lod\mountainslablod.dds`
+ - `textures\lod\mountainslablod_n.dds`
+ - `textures\lod\riverbededgelod.dds`
+ - `textures\lod\riverbededgelod_n.dds`
+ - `textures\lod\riverbottomlod.dds`
+ - `textures\lod\riverbottomlod_n.dds`
+ - `textures\lod\rivermudlod.dds`
+ - `textures\lod\rivermudlod_n.dds`
+ - `textures\lod\snow01lod.dds`
+ - `textures\lod\snow01lod_n.dds`
+ - `textures\lod\snow02lod.dds`
+ - `textures\lod\snow02lod_n.dds`
 
 #### Notes
 
@@ -142,12 +169,6 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
   - `textures\_byoh\clutter\resources\StoneQuarry01_n.dds`
 
 > We only want the clay deposit meshes and textures.
-
-##### [Majestic Landscapes - Snow and Marsh Textures](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Majestic Landscapes - Snow and Marsh Textures
 
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 

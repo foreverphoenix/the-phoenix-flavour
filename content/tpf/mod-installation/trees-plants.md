@@ -42,16 +42,6 @@ description: >
 
 - **Main Files:** Spruce 8K
 
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\landscape\trees\treepineforestbarkcompsnow.dds`
-  - `textures\landscape\trees\treepineforestbarkcompsnow_n_.dds`
-  - `textures\landscape\trees\treepineforestbarkcompsnowl.dds`
-  - `textures\landscape\trees\treepineforestbarkcompsnowl_n.dds`
-
-> Unfortunately the snow dusting the bottom of the trunk in this texture is far too bright for our snow texture and sticks out badly. This is why we fall back on less bright EVT snow pine bark textures.
-
 ##### [Aspens Ablaze](https://www.nexusmods.com/skyrimspecialedition/mods/39998/?tab=files)
 
 #### Download Instructions

@@ -62,7 +62,7 @@ description: >
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 27** set `ClenchedHandWorkaround=` to `true`.
+- In **Line 29** set `ClenchedHandWorkaround=` to `true`.
 - Press **CTRL+S** to save and close the window.
 
 #### Shields on Back
