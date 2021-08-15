@@ -250,18 +250,6 @@ description: >
 
 > Sleeved Stormcloak armor already exists in the vanilla game so we only use this mod for the edited Stormcloak Officer Armor meshes to add sleeves and pants to them.
 
-##### [Sleeves for Guards](https://www.nexusmods.com/skyrimspecialedition/mods/18077?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Sleeves for Guards - FOMOD
-
-#### FOMOD Instructions
-
-- **Do you use Cloaks of Skyrim?** No
-- **Do you use Winter is Coming?** No
-- **Do you use the USSEP?** Yes
-
 ##### [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files)
 
 #### Download Instructions
@@ -471,6 +459,10 @@ description: >
 
 #### Additional Instructions
 
+- ESL-ify **GQJ_DG_vampireamuletfix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+#### Plugin Edit
+
 The plugin contains one unnecessary edit to a scroll that overwrites an edit by the USSEP.
 
 * Run **SSEEdit** through Mod Organizer 2.
@@ -490,7 +482,7 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 
 #### Additional Instructions
 
-* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+* Downsize the mod’s textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [JS Circlet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
 

@@ -20,7 +20,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+- Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 > While the mod does not contain SLE assets, this will compress the normal maps and cut the overall file size in half.
 
@@ -35,6 +35,10 @@ description: >
 #### Download Instructions
 
 * **Main Files:** RUSTIC SOULGEMS - Special Edition - 1K Sorted
+
+#### Additional Instructions
+
+- ESL-ify **RUSTIC SOULGEMS - Sorted.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files)
 
@@ -137,7 +141,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+- Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files)
 

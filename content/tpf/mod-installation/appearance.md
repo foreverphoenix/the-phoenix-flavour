@@ -42,19 +42,29 @@ description: >
 
 - **Main Files:** Cathedral Player and NPC Overhaul - Female Skin Textures
 
-##### [SkySight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580?tab=files)
+##### [Vitruvia - Skin Texture Overhaul for Males](https://www.nexusmods.com/skyrimspecialedition/mods/9112?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** SkySight Skins HD with Real Feet Meshes (HIGH - Recommended)
-- **Optional Files:** PATCH - Shoe Fixes (Less Shine)
+- **Main Files:** Vitruvia - Skin texture overhaul for males
+- **Optional Files:** Fix for broken forsworn boot meshes by dariuskzoot >> `merge with the main file`
+
+#### Installation Instructions - Optional File
+
+The optional file (mesh fix) can only be downloaded manually.
+
+- Click the **manual download** button and move the downloaded archive to `\Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- In Mod Organizer 2, press F5 to refresh the UI and the mod will appear in the **Downloads** tab in the right pane.
+- Right-click it and select **Query Info** to download meta data, then install it as usual and merge it with the main file.
 
 #### FOMOD Instructions
 
-- **Meshes:** Real Feet Meshes PLUS Less Shiny Body Meshes
-- **Body Textures:** Hairy and Clean (default)
-- **Body Veins:** Reduced Veins
-- **Faces:** Vanilla Age (default)
+- **01 Option:** 1) Vitruvia - 2K
+- **02 Option:** 1) Never Nude
+- **A)Hair and scars-2K:** 03 Hairy Chest, Scars
+- **B)Hair and scars-4K:** None
+- **C)Hair and scars-Compressed:** None
+- **04 Option:** ~~Wet Body (CMO) specular~~
 
 ##### [Males of Skyrim - High Poly Hands](https://www.nexusmods.com/skyrimspecialedition/mods/37485?tab=files)
 
@@ -84,7 +94,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Grey Cat and Leopard Vanilla v1.0 - 2K Res Pack
+- **Main Files:** Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
 
 #### FOMOD Instructions
 

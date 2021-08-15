@@ -104,9 +104,8 @@ description: >
 
 - **Undead Creature Eyes:** Default
 - **Ghosts:** Weaker
-- **Patches:** Cannibal Draugr
+- **Patches:** ~~Cannibal Draugr~~
 - **Skull Keys:** Red
-- **Cannibal Draugr Options:** Solstheim Version
 
 #### Additional Instructions
 
@@ -175,7 +174,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [HD Werewolves](https://www.nexusmods.com/skyrim/mods/60804?tab=files)
 
@@ -191,7 +190,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [HD Reworked Bears 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41028?tab=files)
 
@@ -210,8 +209,6 @@ description: >
 * **PLEASE SELECT AT LEAST ONE:**
   * Install the Sabrecat and Sabrecat Snow
   * Install the Valecat
-
-> Select both options. Don't be confused by the name of the FOMOD page.
 
 ##### [Horker by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/28452?tab=files)
 

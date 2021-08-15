@@ -75,6 +75,19 @@ description: >
 
 * **Main Files:** Remiros' Dragonborn Alcohol HD 2k
 
+##### [Retexture for Bread - Hearthfire](https://www.nexusmods.com/skyrimspecialedition/mods/46919?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Retexture for Bread - Hearthfire
+
+##### [Hearthfire Crispy Dumplings](https://www.nexusmods.com/skyrimspecialedition/mods/38862?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hearthfire Crispy Dumplings - ESL Version
+- **Optional Files:** Skyrim 3D Cooking Oven Patch >> `merge with the main file`
+
 ##### [Boiled Creme Treat Sweet Roll and Pie](https://www.nexusmods.com/skyrimspecialedition/mods/9034?tab=files)
 
 #### Download Instructions
@@ -84,6 +97,16 @@ description: >
 
 > The optional file retextures the meat pies added by the USSEP which are not in fact vanilla food items.
 
+##### [Retexture for Soup](https://www.nexusmods.com/skyrim/mods/65238?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** For SMIM Mesh - Poor Version
+
+#### Additional Instructions
+
+- Downsize the textures with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
 ##### [Rally's Honey Pot](https://www.nexusmods.com/skyrimspecialedition/mods/27984?tab=files)
 
 #### Download Instructions
@@ -92,13 +115,17 @@ description: >
 
 #### Additional Instructions
 
-- Downsize the textures with Cathedral Assets Optimizer (**Downsize Textures**).
+- Downsize the textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [True Homecooked Meal](https://www.nexusmods.com/skyrimspecialedition/mods/33785?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Main File Homecooked Meals
+
+#### Additional Instructions
+
+- ESL-ify **homeymealyum.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/40777?tab=files)
 

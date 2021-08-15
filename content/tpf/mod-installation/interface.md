@@ -26,7 +26,7 @@ description: >
 
 #### FOMOD Instructions
 
-- **Options:** 2b - Save-MCM-etc, MCM renamed
+- **Options:** 1b - Save-Load-etc, MCM renamed
 
 > While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
 
@@ -101,8 +101,8 @@ description: >
 #### Additional Instructions
 
 - Double-click **moreHUD** in your mod order.
-- Switch to the **Filetree** tab.
-- Rename AHZmoreHUD.**esl** to AHZmoreHUD.**esp**.
+- Switch to the **Filetree** tab and rename the plugin:
+  - AHZmoreHUD.**esl** >> AHZmoreHUD.**esp** 
 
 > This is faster than ESL-ifying the ESP version.
 
@@ -137,6 +137,10 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 - **Main Files:** SIDT - Words Only
+
+#### Additional Instructions
+
+- ESL-ify **SIDT - Special Edition.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files)
 
@@ -234,24 +238,17 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 ![Sovngarde Consolas](/Pictures/tpf-x/installation/sovngarde-consolas.png)
 
-##### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files)
+##### [Main Menu Design Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/30810?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ReCleanedMenus
+- **Main Files:** Main Menu Design Replacer (clean)
 
-##### [DRELDYN's Original Main Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6992?tab=files)
+##### [DRELDYN's Original Main Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/53798/?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** DRELDYN's Original Main Menu Overhaul
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  - `music`
-
-> I prefer the original main menu track, Song of the Dragonborn.
+- **Main Files:** Yet Another Main Menu Replacer
 
 ##### [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986?tab=files)
 

@@ -62,7 +62,7 @@ description: >
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 27** set `ClenchedHandWorkaround=` to `true`.
+- In **Line 29** set `ClenchedHandWorkaround=` to `true`.
 - Press **CTRL+S** to save and close the window.
 
 #### Shields on Back
@@ -106,7 +106,7 @@ By default, the player and NPCs carry their shields in their left hand when thei
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+- Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Relaxed Sneaking Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37260?tab=files)
 

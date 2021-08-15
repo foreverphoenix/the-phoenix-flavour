@@ -6,6 +6,163 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.1
+
+> 15/08/2021
+
+With this update the **Instructions** page for the Mod Installation section received a much-needed update. I rephrased and rearranged parts of it. "**Clean Example.esp**" as a possible instruction is no longer referenced and it was also removed from the Basic Instructions page. We have been removing ITMs manually for some time now which is preferable to -QAC in my opinion. ITMs are not always unnecessary and they are rarely problematic. The entire process of "cleaning" plugins, especially with -QAC, is massively overrated.
+
+On the other hand, there is now a "**ESL-ify Example.esp**" instruction that you may now encounter throughout the guide instead of at the end under Finalisation. The reason for this is that we have one plugin (QW's Grass Patch) that depends on ESL-ified versions of the Veydosebrom, Folkvangr, and Cathedral 3D Pine Grass plugins. When opened in SSEEdit with non-ESL-ified dependencies it may throw errors that are only fixable by a reinstall. Thus, mods that are supposed to be ESL-ified are now ESL-ified right after they are installed.
+
+An added benefit of having the ESL-ify instructions on the Mod Installation pages is that I stop forgetting to remove a plugin from the "list of plugins to ESL-ify" when the mod they belong to is removed. This does happen all the time. It is also easier for people to catch when they reinstall a mod for whatever reason.
+
+While going through the guide to move the "ESL-ify plugin" instructions where necessary, I also added a link to the Basic Instructions page to *all* Basic Instructions. If you closed the page and can't find it again, you got a direct link now.
+
+**Base Coat:**
+
+I removed it, you're welcome. About two thirds of it were overwritten so I dug up some decent retextures for things that were not, then ditched the whole package. That's about ~30GB freed up.
+
+**Mod order:**
+
+It seems I messed up the numbers when I added the Loot & Crafting page to the Mod Installation section. Since the pages from that section are supposed to correspond to the mod order in MO2, this is rather problematic. Here is the correct order (which the pages are now in as well):
+
+- Gameplay Overhauls
+- Loot & Crafting
+- Non-Player Characters
+- Improved Vanilla Quests
+- Combat & Encounters
+
+#### Update Instructions
+
+**This update is save-safe.**
+
+Please update the [CAO - Basic Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files). Right-click **No Heavy Muscular Walk and Idle** in your mod order, select **Reinstall** and **Replace**. Run the mod once again through CAO (Optimise SLE Assets profile). Previously, the profile did not have processing of animations enabled, meaning the mod was not properly ported. Sorry about that.
+
+Please also redo all LODs (that includes terrain LOD). Instructions are [on this page](/tpf/guide-resources/how-to-update/).
+
+#### Mod Installation
+
+- **Instructions:** Overhauled this page, rewrote parts of it.
+- **Instructions:** Removed "Clean Example.esp" from the list of Basic Instructions.
+- **Instructions:** Added "ESL-ify Example.esp" to the list of Basic Instructions.
+- **Essential Mods:** Removed Base Coat.
+- **Fixes:** Added College of Winterhold Quest Start Fixes.
+- **Fixes:** Added instructions to ESL-ify the plugin from Raven Rock - Fix Exit on Horseback.
+- **Fixes:** Added instructions to ESL-ify the plugin from Dawnguard Don't Hunt Cured Vampires.
+- **Fixes:** Added instructions to ESL-ify the plugin from Charge Dialogue Fix.
+- **Fixes:** Updated the file name in the download instructions for NPC AI Process Position Fix.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Windhelm Segregation.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Move It Dammit.
+- **Tweaks:** Added instructions to ESL-ify the plugin from NPCs Run and Walk At Your Own Pace.
+- **Tweaks:** Added instructions to ESL-ify the plugin from No More Standing Too Close.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Realistic Conversations.
+- **Tweaks:** Added instructions to ESL-ify the plugin from No NPC Greetings.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Don't Talk With Your Mouth Full.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Followers Don't Draw Weapons.
+- **Tweaks:** Added instructions to ESL-ify the plugin from No Spinning Death Animation.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Improved Weapon Impact Effects.
+- **Tweaks:** Added instructions to ESL-ify the plugin from Simply Smaller Wolves.
+- **Interface:** Updated FOMOD instructions for Remove Quicksave Button from SkyUI Systems Menu.
+- **Interface:** Added instructions to ESL-ify the plugin from Shouts In The Dragon Tongue.
+- **Interface:** Removed ReCleaned Menu.
+- **Interface:** Added Main Menu Design Replacer.
+- **Interface:** Removed DRELDYN's Original Main Menu Overhaul.
+- **Interface:** Added Yet Another Main Menu Replacer.
+- **Graphics Baseline:** Removed additional instructions from Noble Skyrim (no longer required).
+- **Graphics Baseline:** Added Fixed Mesh Lighting.
+- **Graphics Baseline:** Updated FOMOD instructions for High Poly Project.
+- **Visual FX:** Added instructions to ESL-ify both plugins from Enhanced Blood Textures.
+- **Visual FX:** Added instructions to ESL-ify the plugin from Deadly Spell Impacts.
+- **Visual FX:** Clarified the excessively vague additional instructions for Dust Effect by HHaley.
+- **Landscape:** Updated picture for MD's Landscape Textures to prevent confusion (file sizes were from 4K version).
+- **Landscape:** Re-added HD Stone Quarry and Clay Deposit.
+- **Landscape:** No longer merging Skyrim Remastered - Glaciers and Ice with the LOD optional file.
+- **Landscape:** Added instructions to delete the meshes from Skyrim Remastered - Glaciers and Ice.
+- **Landscape:** Swapped mod order of Skyrim SE Improved Puddles and Realistic Water Two (no conflicts, just a consistency fix).
+- **Landscape:** Updated the file name in the download instructions for Realistic Water Two.
+- **Landscape:** Added instructions to delete a file from Realistic Water Two (TPF 4.7 addition).
+- **Trees & Plants:** Updated FOMOD instructions for Enhanced Vanilla Trees *again* (sorry).
+- **Trees & Plants:** Removed instructions to delete billboards from Enhanced Vanilla Trees.
+- **Trees & Plants:** Added instructions to ESL-ify the plugin from Enhanced Vanilla Trees.
+- **Trees & Plants:** Added instructions to delete some files from Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed instructions to delete billboards from Aspens Ablaze.
+- **Trees & Plants:** Fixed Reach Trees Enhanced download instructions.
+- **Trees & Plants:** Added instructions to delete some files from Reach Trees Enhanced.
+- **Trees & Plants:** Removed High Poly Canticle Tree (only one mesh and it's part of Fixed Mesh Lighting).
+- **Trees & Plants:** Added instructions to ESL-ify the plugin from Folkvangr - Grass and Landscape Overhaul.
+- **Trees & Plants:** Added instructions to ESL-ify the plugin from Veydosebrom.
+- **Trees & Plants:** Added instructions to delete some files from Sufficiently Optimised Snowberries.
+- **Trees & Plants:** Added instructions to delete some files from 3D Junipers - Trees & Berries.
+- **Misc Structures:** Fixed the link for ElSopa - Glorious Dummies.
+- **Interiors:** Added Solstheim Objects SMIMed - High Poly Dark Elf Furniture.
+- **Interiors:** Added Rally's Mead Barrels.
+- **Clutter:** Added Medieval Torch.
+- **Clutter:** Moved Hearthfire Crafting Resources here.
+- **Clutter:** Added instructions to also install the optional file for Hearthfire Crafting Resources.
+- **Clutter:** Fixed file name in the download instructions for The Business Ledger.
+- **Valuable Items:** Added instructions to ESL-ify the plugin from RUSTIC SOULGEMS.
+- **Food & Ingredients:** Added Retexture for Bread - Hearthfire.
+- **Food & Ingredients:** Added Retexture for Soup.
+- **Food & Ingredients:** Added instructions to ESL-ify the plugin from True Homecooked Meal.
+- **Apparel & Weapons:** Added instructions to ESL-ify the plugin from Gemling Queen Jewelry.
+- **Creatures:** Updated FOMOD instructions for Particle Lights for ENB - Undead Creatures.
+- **Appearance:** Removed SkySight Skins.
+- **Appearance:** Added Vitruvia - Skin Texture Overhaul for Males.
+- **Appearance:** Updated the file name in the download instructions for Masculine Khajiit Textures.
+- **Non-Player Characters:** Updated file name in the download instructions for AI Overhaul.
+- **Improved Vanilla Quests:** Moved Quests Are In Skyrim here.
+- **Improved Vanilla Quests:** Added instructions to ESL-ify the plugin from Quests Are In Skyrim.
+- **Combat & Encounters:** Added instructions to ESL-ify the plugin from Mortal Enemies.
+- **Combat & Encounters:** Added instructions to ESL-ify the plugin from Realistic Melee Range.
+- **Miscellaneous:** Added Sleeves for Guards (undocumented TPF 4.7 addition, was in Apparel & Weapons).
+- **Assorted Plugins:** Added Time Format Changer.
+- **Skeleton & Animations:** Updated the line in the INI instructions for Simple Dual Sheath.
+- **Utilities:** Updated MCM Helper.
+
+#### Finalisation
+
+- **Wrapping Up:** Instructions to ESL-ify various plugins were removed from this page (now part of mod installation).
+- **DynDOLOD:** Updated lines in the INI Adjustment section for DynDOLOD.
+- **DynDOLOD:** Updated TexGen instructions and screenshot.
+- **DynDOLOD:** We are no longer using pre-made presets for DynDOLOD. Updated instructions and screenshot.
+- **ENBSeries:** Fixed a typo in the Disable Distant Reflections step.
+
+#### Performance Guide
+
+- Fixed a bunch of oversights from 4.7 (mostly related to Rudy ENB).
+- Updated DynDOLOD instructions and added a screenshot.
+
+#### TPF Addons
+
+- Removed TPF Addons from the list. I am not updating it currently since there will be a WJ-only remake soon (tm).
+- Added The Phoenix Flavour - Dragon's Edition to the list of addons
+
+#### Resources
+
+- **Basic Instructions:** Removed plugin cleaning instructions.
+- **Basic Instructions:** Added ESL-flagging instructions.
+
+#### Conflict Resolution Patch
+
+- Resolved conflicts between Hearhfire Crispy Dumplings and Apothecary - Food and Drink Addon
+
+#### Wabbajack
+
+- Fixed mod order for Inferno and Embers HD (Inferno should be below Embers HD)
+- Updated Skyrim Landscape and Water Fixes to 6.3
+- Updated Assorted Mesh Fixes to 0.23
+- Updated NPC AI Process Position Fix to 4.05c
+- Updated DynDOLOD Resources to Alpha 11
+- Updated Shadows Of Sunlight - In Small Exterior World Spaces to 0.5
+- Updated Spooknik's Tundra Trees to 1.1
+- Updated Masculine Khajiit Textures to 1.1
+- Updated Scion - A Vampire Overhaul to 1.2.2
+- Updated Apothecary - An Alchemy Overhaul to 1.1.3
+- Updated Apothecary - Food and Drink Addon to 1.0.2
+- Updated Radiant Requirements MCM to 1.2.0
+- Updated Radiant Requirements MCM - TPF Preset to 1.1
+- Regenerated all LODs
+
 ## Release 4.7
 
 > 11/08/2021
@@ -112,19 +269,19 @@ You can disable the plugin anytime to play with Adamant's adjusted difficulty le
 - **Apparel & Weapons:** Updated FOMOD instructions for Unique Uniques Re-Ported (no longer selecting ROM patch).
 - **Apparel & Weapons:** Added Iconic's Wuuthrad Retexture.
 - **Apparel & Weapons:** Added Iconic's Ysgramor Shield Retexture.
-- **Gameplay Overhauls:** Updated download instructions for Forgotten Tongue - Shouts Overhaul.
-- **Gameplay Overhauls:** Removed FOMOD instructions for Forgotten Tongue - Shouts Overhaul (was removed).
+- **Gameplay Overhauls:** Updated download instructions for Forceful Tongue - Shouts Overhaul.
+- **Gameplay Overhauls:** Removed FOMOD instructions for Forceful Tongue - Shouts Overhaul (was removed).
 - **Gameplay Overhauls:** Removed Reliquary of Myth - Artifact Overhaul.
 - **Gameplay Overhauls:** Removed Modular Armory - Reliquary of Myth Patch.
 - **Gameplay Overhauls:** Removed Unique Item Tweaks.
 - **Gameplay Overhauls:** Removed Alchemy Potions and Food Adjustments.
 - **Gameplay Overhauls:** Removed Alchemy Adjustments - TPF Tweaks.
 - **Gameplay Overhauls:** Added Carriage and Ferry Travel Overhaul - Companions Radiant Quest Fix.
-- **Loot & Balancing:** Added this new step. Moved a bunch of mods from Gameplay Overhauls here.
-- **Loot & Balancing:** Updated FOMOD instructions for Simple Smithing Overhaul (no longer selecting ROM patch).
-- **Loot & Balancing:** Added Improvement Names Customized.
-- **Loot & Balancing:** Added Adamant - Plus Ten Smithing.
-- **Loot & Balancing:** Added Apothecary - An Alchemy Overhaul.
+- **Loot & Crafting:** Added this new step. Moved a bunch of mods from Gameplay Overhauls here.
+- **Loot & Crafting:** Updated FOMOD instructions for Simple Smithing Overhaul (no longer selecting ROM patch).
+- **Loot & Crafting:** Added Improvement Names Customized.
+- **Loot & Crafting:** Added Adamant - Plus Ten Smithing.
+- **Loot & Crafting:** Added Apothecary - An Alchemy Overhaul.
 - **Non-Player Characters:** Updated download instructions for AI Overhaul (file name changed).
 - **Non-Player Characters:** Removed Hearthfire Multiple Adoptions.
 - **Improved Vanilla Quests:** Removed Miscellaneous Quests As Miscellaneous Quests (removed from the Nexus).

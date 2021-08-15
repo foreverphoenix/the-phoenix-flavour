@@ -123,33 +123,6 @@ Click "Manual Download" for all files:
 - Right-click each of the three archives (one at a time) and select **Query Info**.
 - After all data has been retrieved from the Nexus, install the archives as usual by double-clicking them.
 
-##### [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850?tab=description)
-
-#### Download Instructions
-
-Click "Manual Download" for the following file:
-
-- **Main Files:** Basecoat - Textures only
-
-> The reason we are not downloading the other version that includes terrain LOD is because we will be generating terrain LOD from scratch at the end of the guide.
-
-#### Installation Instructions
-
-- Wait for the archive to be downloaded.
-- Move it to your downloads folder: `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- Mod Organizer 2 may freeze briefly as it processes the files.
-- Once it unfreezes, you will find the archive in the **Downloads** tab (right pane).
-- Right-click it and select **Query Info**. This will take a while as the archive is very large.
-- After all data has been retrieved from the Nexus, install the archive as usual by double-clicking it.
-- Move **Base Coat** below **Official Master Files - Cleaned** in your mod order (left pane).
-- Activate the mod.
-
-#### About the mod
-
-Base Coat is a repack of upscaled versions of all vanilla textures made to replace the vanilla BSAs. As such, we could simply drop it in the Data folder, overwrite the existing archives, and save 16GB of disk space. However, this would mean that in order to revert SSE to vanilla, you would have to reinstall the game or restore a manual back-up of the BSAs.
-
-Additionally, you will be unable to install other SSE mod lists through Wabbajack with the Base Coat BSAs replacing the vanilla ones in your Data folder. The app will detect that your SSE installation is edited and abort the installation process. This is why I chose to keep the Data folder clean and sacrifice 16GB of disk space instead.
-
 ##### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
 #### Download Instructions

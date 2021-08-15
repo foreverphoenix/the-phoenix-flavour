@@ -22,6 +22,11 @@ description: >
 - **Blurry Screen Blood:** ~~EBT Blurry Screen Blood (Optional)~~
 - **Alternate Textures:** Reduced Res / Default Color
 
+#### Additional Instructions
+
+- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+- ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [GORECAP](https://www.nexusmods.com/skyrimspecialedition/mods/16440?tab=files)
 
 #### Download Instructions
@@ -41,6 +46,10 @@ description: >
 * **Fire:** Alternate 1
 * **Frost:** Default
 * **Lightning:** Alternate 1
+
+#### Additional Instructions
+
+- ESL-ify **DeadlySpellImpacts.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files)
 
@@ -89,7 +98,10 @@ description: >
 
 #### Additional Instructions
 
-- Unpack the BSA and delete the ESP.
+- Unpack the BSA through Mod Organizer 2.
+- Delete the following file(s) and / or folder(s):
+  - `DustEffectsSSE.bsa`
+  - `DustEffectsSSE.esp`
 
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 

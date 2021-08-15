@@ -6,6 +6,12 @@ description: >
   Various modder's resources and extenders.
 ---
 
+##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** MCM Helper SE
+
 ##### [PapyrusUtil](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files)
 
 #### Download Instructions
