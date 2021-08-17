@@ -99,17 +99,17 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `meshes\`
-  - `textures\landscape\mountains\`
-  - `textures\landscape\dirtsnowpath01.dds`
-  - `textures\landscape\dirtsnowpath01_n.dds`
-  - `textures\landscape\snow01.dds`
-  - `textures\landscape\snow01_n.dds`
-  - `textures\landscape\snow01alta.dds`
-  - `textures\landscape\snow01landscape.dds`
-  - `textures\landscape\snow02.dds`
-  - `textures\landscape\snow02_n.dds`
-  - `textures\landscape\snow02landscape.dds`
+ - `meshes\`
+ - `textures\landscape\mountains\`
+ - `textures\landscape\dirtsnowpath01.dds`
+ - `textures\landscape\dirtsnowpath01_n.dds`
+ - `textures\landscape\snow01.dds`
+ - `textures\landscape\snow01_n.dds`
+ - `textures\landscape\snow01alta.dds`
+ - `textures\landscape\snow01landscape.dds`
+ - `textures\landscape\snow02.dds`
+ - `textures\landscape\snow02_n.dds`
+ - `textures\landscape\snow02landscape.dds`
  - `textures\lod\dirtsnowpath01lod.dds`
  - `textures\lod\dirtsnowpath01lod_n.dds`
  - `textures\lod\mountainslab01lod.dds`
@@ -193,7 +193,7 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 - **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP >> `merge with the main file`
 - **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD
 
-#### Additional Instructions
+#### Additional Instructions - Main File
 
 - Delete the following file(s) and / or folder(s):
   - `meshes\`

@@ -20,6 +20,7 @@ Due to some scheduling issues, TPF 4.7.1 never made it to Wabbajack. This update
 - **Interface:** Actually added Yet Another Main Menu Replacer.
 - **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting.
 - **Graphics Baseline:** Added note to Fixed Mesh Lighting that conflicts with yet to be installed mods will be dealt with.
+- **Landscape:** Clarified that files were supposed to be deleted from the main file of Skyrim Remastered - Glaciers and Ice.
 - **Interiors:** Added FOMOD instructions for Solstheim Objects SMIMed - High Poly Dark Elf Furniture.
 
 #### Performance Guide
