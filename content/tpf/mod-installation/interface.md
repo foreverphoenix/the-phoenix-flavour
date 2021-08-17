@@ -244,7 +244,7 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 - **Main Files:** Main Menu Design Replacer (clean)
 
-##### [DRELDYN's Original Main Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/53798/?tab=files)
+##### [Yet Another Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/53798?tab=files)
 
 #### Download Instructions
 

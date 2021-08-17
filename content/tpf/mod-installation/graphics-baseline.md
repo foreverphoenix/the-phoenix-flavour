@@ -139,6 +139,7 @@ description: >
   - Dlizzio's Mesh Fixes
   - ~~HD Dead Trees and Driftwood~~
   - Reach Trees Enhanced
+  - ~~Realistic Aspen Trees~~
   - ~~Skyrim Flora Overhaul~~
   - SMIM
   - ~~UV-Tweaks~~
@@ -153,6 +154,8 @@ description: >
   - ~~Northern Ice without Ice Floes~~
   - ~~Real Ice and Snow~~
   - Remastered Glaciers and Ice
+
+> Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 
 ##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 

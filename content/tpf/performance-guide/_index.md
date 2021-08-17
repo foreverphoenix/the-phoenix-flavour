@@ -71,13 +71,7 @@ Next, re-run BethINI to adjust the vanilla INIs:
 - In the **Basic** tab, uncheck **VSync** and **Lock Frame Rate**.
 - In the **Interface** tab, uncheck **Mod Manager Menu** and optionally adjust your mouse sensitivity.
 - In the **Detail** tab, check **Reflect Objects** under Water.
-
-While disabling godrays will noticeably improve performance, Rudy ENB was made with godrays in mind. I recommend keeping Godrays on **High** or **Medium** if you can spare the FPS.
-
-- In the **Detail** tab, set **Godrays** to **None** (for better performance) or **Medium** (for better visuals).
-
-For the remaining settings:
-
+- In the **Detail** tab, set **Godrays** to **None**.
 - In the **Detail** tab, increase **Particles** to `7500`.
 - In the **Detail** tab, uncheck **Lens Flare** and **Anamorphic Lens Flare**.
 - In the **Detail** tab, increase **Shadow Resolution** to `2048` and **Exterior Draw Distance** to `8000`.
