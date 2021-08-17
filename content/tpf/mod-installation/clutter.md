@@ -6,6 +6,17 @@ description: >
   Retextures for small items and everyday tools.
 ---
 
+##### [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Medieval Torch
+
+#### FOMOD Instructions
+
+- **Smoke Effect and Wield:** Smoke Effect (STAC Compatible Meshes)
+- **Style:** Version 1
+
 ##### [Qwafee Keys](https://www.nexusmods.com/skyrimspecialedition/mods/34719?tab=files)
 
 #### Download Instructions
@@ -19,7 +30,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - Open **Cathedral Assets Optimizer** and switch to the **SSE - Downsize Textures** profile.
 - In the **Textures** tab under **Resizing**, switch to **By fixed size**.
 - Replace both **Height** and **Width** with **1024**.
-- Click **Open Directory** and navigate to `Mod Organizer 2\mods\` and select the **Qwafee Keys** folder.
+- Click **Open Directory** and navigate to `\Mod Organizer 2\mods\` and select the **Qwafee Keys** folder.
 - Click **Select Folder** and hit **Run**.
 - When it's done (only takes a few seconds at most), switch back to **By ratio** in the **Textures** tab.
 - Close Cathedral Assets Optimizer.
@@ -119,6 +130,13 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 * **Main Files:** Medieval Silverworks
 * **Miscellaneous Files:** Medieval Silverworks STAC Patch >> `merge with the main file`
 
+##### [Hearthfire Crafting Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52423?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hearthfire Crafting Retextures
+- **Optional File:** Optional Lock Retexture >> `merge with the main file`
+
 ##### [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files)
 
 #### Download Instructions
@@ -176,7 +194,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-* **Main Files:** The Business Ledger SD
+* **Main Files:** Hermaeus Mora Tax Book SD
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

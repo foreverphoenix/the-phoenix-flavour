@@ -1,6 +1,6 @@
 ---
 title: "Non-Player Characters"
-weight: 33
+weight: 31
 type: docs
 description: >
   Mods affecting NPCs and their behaviour.
@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** AI Overhaul 1.6.5
+- **Main Files:** AI Overhaul 1.6.6
 
 ##### [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 

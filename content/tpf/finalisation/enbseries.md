@@ -109,7 +109,7 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 
 - Open the **enbseries.ini** in a Notepad++.
 - Scroll down to **Line 1122**.
-- Set **DisableDistantReflections** to **true**.
+- Set **DisableDistantReflection** to **true**.
 - Hit CTRL+S to save your changes and close the window.
 
 > This will improve the way water looks in the distance.

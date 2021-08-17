@@ -110,30 +110,28 @@ description: >
   - `textures\landscape\snow02.dds`
   - `textures\landscape\snow02_n.dds`
   - `textures\landscape\snow02landscape.dds`
-  - `textures\lod\dirtsnowpath01lod.dds`
-  - `textures\lod\dirtsnowpath01lod_n.dds`
-  - `textures\lod\mountainslab01lod.dds`
-  - `textures\lod\mountainslab01lod_n.dds`
-  - `textures\lod\mountainslab02lod.dds`
-  - `textures\lod\mountainslab02lod_n.dds`
-  - `textures\lod\mountainslablod.dds`
-  - `textures\lod\mountainslablod_n.dds`
-  - `textures\lod\riverbededgelod.dds`
-  - `textures\lod\riverbededgelod_n.dds`
-  - `textures\lod\riverbottomlod.dds`
-  - `textures\lod\riverbottomlod_n.dds`
-  - `textures\lod\rivermudlod.dds`
-  - `textures\lod\rivermudlod_n.dds`
-  - `textures\lod\snow01lod.dds`
-  - `textures\lod\snow01lod_n.dds`
-  - `textures\lod\snow02lod.dds`
-  - `textures\lod\snow02lod_n.dds`
+ - `textures\lod\dirtsnowpath01lod.dds`
+ - `textures\lod\dirtsnowpath01lod_n.dds`
+ - `textures\lod\mountainslab01lod.dds`
+ - `textures\lod\mountainslab01lod_n.dds`
+ - `textures\lod\mountainslab02lod.dds`
+ - `textures\lod\mountainslab02lod_n.dds`
+ - `textures\lod\mountainslablod.dds`
+ - `textures\lod\mountainslablod_n.dds`
+ - `textures\lod\riverbededgelod.dds`
+ - `textures\lod\riverbededgelod_n.dds`
+ - `textures\lod\riverbottomlod.dds`
+ - `textures\lod\riverbottomlod_n.dds`
+ - `textures\lod\rivermudlod.dds`
+ - `textures\lod\rivermudlod_n.dds`
+ - `textures\lod\snow01lod.dds`
+ - `textures\lod\snow01lod_n.dds`
+ - `textures\lod\snow02lod.dds`
+ - `textures\lod\snow02lod_n.dds`
 
 #### Notes
 
 While Tamrielic Textures is our main landscape retexture, we are hiding a great number of files. As mentioned before, I prefer the mountain textures from Majestic Mountains Northside which is why the mountain textures from TT are removed. I did like the TT snow textures but found them to show some minor tiling in some locations.
-
-Another reason for why we continue to use Noble Skyrim snow is because TT would have required a patch for Windhelm. (A number of ground textures in Windhelm are basically copies of the regular snow textures.) Matching snow and Windhelm textures are already present in Noble Skyrim, so using that mod's snow was the best solution over all.
 
 The mesh folder is deleted because we need none of its contents. The road and bridge meshes packaged with TT are actually from Blended Roads which we already have installed. The dirt cliff and ice meshes are handled by Better Dirt Cliffs and Alphas and Skyrim Remastered - Glaciers and Ice respectively, both of which will be installed shortly.
 
@@ -157,6 +155,21 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 - **Miscellaneous Files:** Better Dirt Cliffs and Alphas (2K)
 
+##### [HD Stone Quarry and Clay Deposit](https://www.nexusmods.com/skyrimspecialedition/mods/37985?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HD Stone Quarry and Clay Deposit SE - 2K v1.0.1
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\_byoh\clutter\resources\stoneresrouce01.nif`
+  - `textures\_byoh\clutter\resources\StoneQuarry01.dds`
+  - `textures\_byoh\clutter\resources\StoneQuarry01_n.dds`
+
+> We only want the clay deposit meshes and textures.
+
 ##### [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121?tab=files)
 
 #### Download Instructions
@@ -178,13 +191,30 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 - **Main Files:** Skyrim Remastered - Glaciers and Ice Quality Version
 - **Update Files:** Skyrim Remastered - Glaciers and Ice Replacer ESP >> `merge with the main file`
-- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD >> `merge with the main file`
+- **Optional Files:** Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> These meshes are part of Fixed Mesh Lighting and should not be overwritten.
+
+##### [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
+
+#### FOMOD Instructions
+
+* **Textures:** 2048×2048 Resolution
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Realistic Water Two SE v3.1.0
+* **Main Files:** Realistic Water Two SE v3.1.1
 * **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
 
 #### FOMOD Instructions
@@ -200,16 +230,6 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 - Delete the following file(s) and / or folder(s):
   - `textures\effects\gradients\water_gradwavefoam.dds`
-
-##### [Skyrim SE Improved Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/1462?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Skyrim SE Improved Puddles FOMOD v1-4 for ENB users
-
-#### FOMOD Instructions
-
-* **Textures:** 2048×2048 Resolution
 
 ##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 

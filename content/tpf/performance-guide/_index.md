@@ -16,15 +16,17 @@ This guide exists for those struggling to achieve consistent 60 FPS.
 
 **You do not have to follow all steps:** For example, if you really love 3D tree LOD and highly detailed distant terrain, you can hold on to your High + 3D Tree LOD DynDOLOD output. Instead, you can compromise with your ENB or grass overhaul choice, or regenerate your INI files with the recommended performance settings.
 
+Generally speaking, the INI files and grass mods are responsible for most of TPF's performance impact.
+
 > **Wabbajack Users:** You do not have to follow this guide. Your installation of TPF includes a Performance profile.
 
 ### Why do I have low performance?
 
 There may be various reasons which include:
 
-- **Playing at a high resolution (1440p or above):** Any of the options will help. Check the resolution scale option.
+- **Playing at a high resolution (1440p or above):** Any of the options will help. Definitely check the resolution scale option.
 - **Having a low amount of VRAM (4GB or less):** Regenerate DynDOLOD on Medium with 2D tree LOD.
-- **AMD CPU and/or GPU:** Install the optimised INI for Rudy ENB, or a different ENB preset (ENBSeries is optimised for Intel/NVIDIA).
+- **AMD CPU and/or GPU:** Install Cathedral Minimalist ENB or remove ENB altogether (ENBSeries is optimised for Intel/NVIDIA).
 - **Older/slower hardware in general:** Any of the options will help.
 
 ### Very Low-End PCs
@@ -35,7 +37,7 @@ If your hardware is very outdated (Skyrim SE minimum requirements or even below)
 
 One reason why TPF always used to be very performance-friendly was because we ran BethINI (the INI configuration tool) with the Medium preset. This has since changed (High is the default now) so the first thing we can do is revert to those more conservative settings.
 
-It should be noted that the visual degradation is not hugely noticeable, the difference in settings will mostly apply to distant objects. However, it should help you regain some frames.
+It should be noted that the visual degradation is not hugely noticeable, the difference in settings will mostly apply to distant objects. However, it should help you regain some frames (10FPS+).
 
 Alternatively, there is also a single INI tweak that can already give your framerate a boost by itself.
 
@@ -96,7 +98,12 @@ A major reason for the performance loss from TPF 4.5 onwards was the removal of 
 
 The good news is that you can keep Cathedral 3D Pine Grass which was made by the same author as Cathedral Landscapes, JonnyWang, and is also impressively performance-friendly.
 
-However, you need to **disable Veydosebrom and The Phoenix Flavour - Grass Patch** in your mod order.
+**First you need to disable the following mods in your mod order:**
+
+- Folkvangr - Grass and Landscape Overhaul
+- Veydosebrom Regions
+- Veydosebrom Regions - Fall Forest
+- QW's Grass Patch
 
 ##### [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954?tab=files)
 
@@ -153,31 +160,25 @@ Regenerating TexGen should not be necessary. You could, in theory, to lower the 
 - Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Cache\`.
 - Delete everything inside.
 
-### Performance Profile
-
-- Download the [**STEP DynDOLOD Performance Profile**](https://stepmodifications.org/wiki/images/c/c7/DynDOLOD_SSE_Performance.ini) (once again, thanks to STEP for allowing me to use their configurations!).
-- Save the **DynDOLOD_SSE_Optimal.ini** to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Presets\`.
-- Open the INI file in Notepad++.
-- Near the top, in **Line 2**, change the output folder to be within your DynDOLOD installation folder.
-- For me, that would be: `F:\Modding\Skyrim SE Mods\Tools\DynDOLOD 3.0 Alpha 33\DynDOLOD_Output\`.
-- Save your changes and close Notepad++.
-
-![DynDOLOD Preset Output](/Pictures/tpf/finalisation/dyndolod-preset-output.png)
-
 ### Regenerating DynDOLOD
 
 By regenerating DynDOLOD, we will improve performance in two ways: We will be using mesh rules that are more performance-oriented (less detail), and we will generated regular tree LOD instead of 3D tree LOD. Especially the latter will likely improve your framerate by double-digit numbers.
 
 - Run **DynDOLOD** through Mod Organizer 2.
-- Click **Load Preset** (one of the buttons on the bottom left).
-- The **DynDOLOD Presets** folder should be opened automatically, double-click the **DynDOLOD_SSE_Performance.ini**.
-- In the **Options** section at the bottom, check **Generate Tree LOD** (this will toggle off the **Ultra** setting).
+- Make sure all worldspaces in the top left box are ticked (right-click » Select all).
+- Check the boxes for both **Candles** and **FX Glow** at the top right.
 
-If you have *very* low-end specs (Skyrim SE minimum requirements or below), select the **Low** preset. This should remove DynDOLOD's performance impact altogether.
+Now you need to select either mesh rules profile. For most people with mid-range PCs, I recommend **Medium**, however, if you have a very low-end PCs (SSE minimum requirements), selecting **Low** should eliminate DynDOLOD's performance impact altogether while still improving distant terrain visually.
 
+- Select either the **Low** or **Medium** profile.
+- At the bottom make sure **Generate tree LOD** is checked (for 2D tree LOD).
+- Check **Glow Windows** but leave the **High** box unticked.
+- The **Upgrade NearGrid large references to FarGrid** option should also be unticked.
 - Click **OK** to start generating LOD.
 
 As usual, step away from your PC while DynDOLOD is being regenerated.
+
+![DynDOLOD Settings Perf](/Pictures/tpf/performance-guide/dyndolod-settings-perf.png)
 
 ### DynDOLOD Output
 

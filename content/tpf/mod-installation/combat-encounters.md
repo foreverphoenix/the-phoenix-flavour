@@ -40,11 +40,19 @@ description: >
 
 * **Main Files:** Mortal Enemies SE - No Run Walk Changes
 
+#### Additional Instructions
+
+- ESL-ify **Mortal Enemies - No RunWalk Changes.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Realistic Melee Range
+
+#### Additional Instructions
+
+- ESL-ify **Realistic Melee Range.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600?tab=files)
 
@@ -74,8 +82,8 @@ description: >
 #### Additional Instructions
 
 * Double-click **Disarming Traps Is Dangerous** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin to:
-  * DisarmingTrapsIsDangerous.**esp**
+* Switch to the **Filetree** tab and rename the plugin:
+  * DisarmingTrapsIsDangerous.**esl** >> DisarmingTrapsIsDangerous.**esp** 
 
 > This is faster than downloading and ESL-ifying the ESP version.
 

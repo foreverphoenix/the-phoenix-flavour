@@ -56,6 +56,12 @@ description: >
 
 * **Optional Files:** 2K Nordic Beds SE Retexture
 
+##### [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+
 ##### [Thrones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/41198?tab=files)
 
 #### Download Instructions
@@ -91,6 +97,12 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Skyrim 3D Cooking
+
+##### [Rally's Mead Barrels](https://www.nexusmods.com/skyrimspecialedition/mods/49641?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rally's Mead Barrels
 
 ##### [RUSTIC ALCHEMY AND ENCHANTING TABLES](https://www.nexusmods.com/skyrim/mods/62328?tab=files)
 

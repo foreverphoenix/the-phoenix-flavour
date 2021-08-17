@@ -94,10 +94,10 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `meshes`
-  - `textures`
+  - `meshes\`
+  - `textures\`
 
-> The folders contains facegen files which we will later regenerate in higher quality.
+> The folders contains facegen files will. We will install higher quality facegen for all NPCs later on.
 
 ##### [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651?tab=files)
 

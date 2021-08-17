@@ -90,6 +90,18 @@ If, like me, you do not need the "ride ahead" feature of the mod, you can easily
 
 - **Main Files:** Viewable Faction Ranks ESL
 
+##### [Sleeves for Guards](https://www.nexusmods.com/skyrimspecialedition/mods/18077?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Sleeves for Guards - FOMOD
+
+#### FOMOD Instructions
+
+- **Do you use Cloaks of Skyrim?** No
+- **Do you use Winter is Coming?** No
+- **Do you use the USSEP?** Yes
+
 ##### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591?tab=files)
 
 #### Download Instructions
