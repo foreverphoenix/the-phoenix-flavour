@@ -8,18 +8,22 @@ description: >
 
 ## Release 4.7.2
 
-> 17/08/2021
+> 18/08/2021
 
 Due to some scheduling issues, TPF 4.7.1 never made it to Wabbajack. This update corrects that, but it also incorporates a few other fixes and changes for the manual guide as well as updated mods for both. The 4.7.1 Wabbajack changelog was moved here and expanded.
 
+After a lot of digging, our moderator Slim discovered with the help of meh321 that a potential cause for the infamous **Dragonsreach infinite loading screen** (black screen) may have been No Grass In Objects without grass cache generated. I have removed the mod for the time being and hopefully the issue should go away. Of course it will be re-added (likely with pre-made, downloadable grass cache) once I have figured out how to set it up without stutters.
+
 #### Mod Installation
 
+- **Essential Mods:** Temporarily removed No Grass In Objects.
 - **Fixes:** Updated additional instructions for Scrambled Bugs.
 - **Fixes:** Fixed a very confusing typo in the additional instructions for Skyrim Ultimate Eyemeshes Ruhmastered.
 - **Interface:** Actually removed DRELDYN's Original Main Menu Overhaul.
 - **Interface:** Actually added Yet Another Main Menu Replacer.
 - **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting.
 - **Graphics Baseline:** Added note to Fixed Mesh Lighting that conflicts with yet to be installed mods will be dealt with.
+- **Visual FX:** Added instructions to remove some files from Arctic - Frost Effects Redux.
 - **Landscape:** Clarified that files were supposed to be deleted from the main file of Skyrim Remastered - Glaciers and Ice.
 - **Interiors:** Added FOMOD instructions for Solstheim Objects SMIMed - High Poly Dark Elf Furniture.
 
@@ -48,11 +52,13 @@ Due to some scheduling issues, TPF 4.7.1 never made it to Wabbajack. This update
 - Updated Adamant - A Perk Overhaul to 5.1.6
 - Updated Mundus - A Standing Stone Overhaul to 1.6.2
 - Updated Scion - A Vampire Overhaul to 1.2.2
-- Updated Apothecary - An Alchemy Overhaul to 1.1.3
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.2
+- Updated Apothecary - An Alchemy Overhaul to 1.1.4
 - Updated Apothecary - Food and Drink Addon to 1.0.2
 - Updated Radiant Requirements MCM to 1.2.0
-- Updated Radiant Requirements MCM - TPF Preset to 1.1
+- Updated Radiant Requirements MCM - TPF Preset to 1.2
 - Updated Blade and Blunt - A Combat Overhaul to 1.3.2
+- Updated Dragon War - A Dragon Overhaul to 1.1.1
 - Regenerated all LODs
 
 ## Release 4.7.1

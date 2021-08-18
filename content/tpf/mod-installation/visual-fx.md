@@ -71,6 +71,15 @@ description: >
 * **Icicles Style:** Transparent
 * **Optional Plugin:** Frost Meshes Patch (ESL-Tagged)
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\magic\frostbarrier01.nif`
+  - `meshes\magic\frostbarrierlarge01.nif`
+  - `meshes\magic\icehazard02.nif`
+
+> These meshes are part of Fixed Mesh Lighting and should not be overwritten.
+
 ##### [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files)
 
 #### Download Instructions
