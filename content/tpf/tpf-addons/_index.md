@@ -41,23 +41,24 @@ Of course Wabbajack users can *in theory* follow the manual instructions for Add
 
 ## Available Addons
 
-##### [Slidikins' Strenuous Skyrim](https://docs.google.com/document/d/1Sy7OQe1SFoChvuct0ZhZIgdh9hBYDuMf2Qkg6sisB5w/edit#)
+##### [Slidikins' Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939)
 
 - **Author:** Slidkins
 
-Slidikins' guide has been around longer than TPF, however it has since been adapted to use TPF as a base. The setup is generally more challenging, with Survival mode integration, a reduced HUD, and harsher economy. The **Survival Mode** from the Creation Club is required.
+Slidikins' guide has been around longer than TPF, however, it has since been adapted to use TPF as a base. The setup is generally more challenging, with Survival mode integration, a reduced HUD, and harsher economy. The **Survival Mode** from the Creation Club is required.
 
 #### Notable additions:
 
-- Dynamic Volumetric Lighting and Sun Shadows
+- CC Survival Mode and CC Rare Curios
 - Conner's Survival Mode
-- Honed Metal
+- Honed Metal & Item Durability
+- True Directional Movement & SmoothCam
 - Missives
-- Morrowloot Miscellania - Hybrid Loot
 - Resistances and Weaknesses
 - SSE Gameplay Tweaks
 - Dynamic Animation Replacer
 - Movement Behavior Overhaul
+- and many more
 
 ##### [Sr. Kaio's Seasoning](https://github.com/caiobraz/sr.kaio-seasoning)
 

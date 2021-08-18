@@ -34,9 +34,9 @@ description: >
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
-- In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 19**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
-- In **Line 23**, set **"underfilledSoulGems":** to **true**.
+- In **Line 10**, set **"magicEffectConditions":** to **false**.
+- In **Line 25**, set **"equipBestAmmo:"** to **true**.
+- In **Line 30**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
@@ -195,7 +195,7 @@ description: >
 
 - Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
 - Switch to the **Filetree** tab and rename the plugin:
-  - SimpleVampFixesSSE.**esl** >> SimpleVampFixesSSE.**esl**
+  - SimpleVampFixesSSE.**esl** >> SimpleVampFixesSSE.**esp**
 
 > This is faster than downloading and ESL-ifying the ESP version.
 

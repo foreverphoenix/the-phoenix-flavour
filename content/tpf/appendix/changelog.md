@@ -6,6 +6,61 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.2
+
+> 18/08/2021
+
+Due to some scheduling issues, TPF 4.7.1 never made it to Wabbajack. This update corrects that, but it also incorporates a few other fixes and changes for the manual guide as well as updated mods for both. The 4.7.1 Wabbajack changelog was moved here and expanded.
+
+After a lot of digging, our moderator Slim discovered with the help of meh321 that a potential cause for the infamous **Dragonsreach infinite loading screen** (black screen) may have been No Grass In Objects without grass cache generated. I have removed the mod for the time being and hopefully the issue should go away. Of course it will be re-added (likely with pre-made, downloadable grass cache) once I have figured out how to set it up without stutters.
+
+#### Mod Installation
+
+- **Essential Mods:** Temporarily removed No Grass In Objects.
+- **Fixes:** Updated additional instructions for Scrambled Bugs.
+- **Fixes:** Fixed a very confusing typo in the additional instructions for Skyrim Ultimate Eyemeshes Ruhmastered.
+- **Interface:** Actually removed DRELDYN's Original Main Menu Overhaul.
+- **Interface:** Actually added Yet Another Main Menu Replacer.
+- **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting.
+- **Graphics Baseline:** Added note to Fixed Mesh Lighting that conflicts with yet to be installed mods will be dealt with.
+- **Visual FX:** Added instructions to remove some files from Arctic - Frost Effects Redux.
+- **Landscape:** Clarified that files were supposed to be deleted from the main file of Skyrim Remastered - Glaciers and Ice.
+- **Interiors:** Added FOMOD instructions for Solstheim Objects SMIMed - High Poly Dark Elf Furniture.
+
+#### Performance Guide
+
+- Fixed yet another reference to Rudy ENB in the INI settings.
+
+#### TPF Addons
+
+- Updated link for Slidikins' Strenuous Skyrim and updated notable additions list.
+- Added GRIZZY'S CHOICE to the list of addons (undocumented 4.7.1 addition).
+
+#### Wabbajack
+
+- Fixed mod order for Inferno and Embers HD (Inferno should be below Embers HD)
+- Updated Scrambled Bugs to 12
+- Updated Skyrim Landscape and Water Fixes to 6.3
+- Updated Assorted Mesh Fixes to 0.23
+- Updated NPC AI Process Position Fix to 4.05c
+- Updated DynDOLOD Resources to Alpha 11
+- Updated Fixed Mesh Lighting to 1.2.1
+- Updated Shadows Of Sunlight - In Small Exterior World Spaces to 0.5
+- Updated Spooknik's Tundra Trees to 1.1
+- Updated Solstheim Objects SMIMed to 0.1.1
+- Updated Masculine Khajiit Textures to 1.1
+- Updated Adamant - A Perk Overhaul to 5.1.6
+- Updated Mundus - A Standing Stone Overhaul to 1.6.2
+- Updated Scion - A Vampire Overhaul to 1.2.2
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.2
+- Updated Apothecary - An Alchemy Overhaul to 1.1.4
+- Updated Apothecary - Food and Drink Addon to 1.0.2
+- Updated Radiant Requirements MCM to 1.2.0
+- Updated Radiant Requirements MCM - TPF Preset to 1.2
+- Updated Blade and Blunt - A Combat Overhaul to 1.3.2
+- Updated Dragon War - A Dragon Overhaul to 1.1.1
+- Regenerated all LODs
+
 ## Release 4.7.1
 
 > 15/08/2021
@@ -117,7 +172,7 @@ Please also redo all LODs (that includes terrain LOD). Instructions are [on this
 - **Miscellaneous:** Added Sleeves for Guards (undocumented TPF 4.7 addition, was in Apparel & Weapons).
 - **Assorted Plugins:** Added Time Format Changer.
 - **Skeleton & Animations:** Updated the line in the INI instructions for Simple Dual Sheath.
-- **Utilities:** Updated MCM Helper.
+- **Utilities:** Added MCM Helper.
 
 #### Finalisation
 
@@ -134,7 +189,7 @@ Please also redo all LODs (that includes terrain LOD). Instructions are [on this
 
 #### TPF Addons
 
-- Removed TPF Addons from the list. I am not updating it currently since there will be a WJ-only remake soon (tm).
+- Removed TPF-X from the list. I am not updating it currently since there will be a WJ-only remake soon (tm).
 - Added The Phoenix Flavour - Dragon's Edition to the list of addons
 
 #### Resources
@@ -145,23 +200,6 @@ Please also redo all LODs (that includes terrain LOD). Instructions are [on this
 #### Conflict Resolution Patch
 
 - Resolved conflicts between Hearhfire Crispy Dumplings and Apothecary - Food and Drink Addon
-
-#### Wabbajack
-
-- Fixed mod order for Inferno and Embers HD (Inferno should be below Embers HD)
-- Updated Skyrim Landscape and Water Fixes to 6.3
-- Updated Assorted Mesh Fixes to 0.23
-- Updated NPC AI Process Position Fix to 4.05c
-- Updated DynDOLOD Resources to Alpha 11
-- Updated Shadows Of Sunlight - In Small Exterior World Spaces to 0.5
-- Updated Spooknik's Tundra Trees to 1.1
-- Updated Masculine Khajiit Textures to 1.1
-- Updated Scion - A Vampire Overhaul to 1.2.2
-- Updated Apothecary - An Alchemy Overhaul to 1.1.3
-- Updated Apothecary - Food and Drink Addon to 1.0.2
-- Updated Radiant Requirements MCM to 1.2.0
-- Updated Radiant Requirements MCM - TPF Preset to 1.1
-- Regenerated all LODs
 
 ## Release 4.7
 
