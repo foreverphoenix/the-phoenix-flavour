@@ -177,20 +177,3 @@ Click "Manual Download" for all files:
   - `Particle Patch for ENB SSE.esp`
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
-
-##### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Grass Control v6
-
-#### Additional Instructions
-
-- Double-click **No Grass In Objects** in your mod order.
-- Switch to the **Text Files** tab and select the **GrassControl.config.txt**.
-- Scroll down to **Line 134** and set **EnsureMaxGrassTypesPerTextureSetting =** to **0**.
-- Scroll down to **Line 149** and set **OverwriteGrassDistance =** to **-1**.
-- Scroll down to **Line 163** and set **OverwriteGrassFadeRange =** to **-1**.
-- Hit **CTRL+S** to save and close the window.
-
-> I prefer handling the INI changes directly in the game INI files. Other changes are not required as we are not going to generate grass cache.

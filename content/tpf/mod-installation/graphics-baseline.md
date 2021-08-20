@@ -122,7 +122,9 @@ description: >
 
 - **Main:** All in one
 - **Main:** Flora
-- **Beyon Skyrim:** ~~Beyond Skyrim : Bruma~~
+- **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
+- **JK's Skyrim:** ~~JK's Skyrim~~
+- **Simply Bigger Trees:** ~~Simply Bigger Plants~~
 - **More Growable Plants:** ~~More Growable Plants~~
 - **Unique Flowers and Plants:** ~~Unique Flowers and Plants~~
 - **Wiseman's Flora Fixes:** Wiseman's Flora Fixes
@@ -132,18 +134,23 @@ description: >
 - **Tundra Cotton:** ~~Tundra Cotton by Mari~~
 - **Jazbay:** ~~Jaybay by Mari~~
 - **Canticle Tree:** High Poly Canticle Tree
-- **Main:** Trees
+- **Main:** ~~Trees~~
 - **Patches:**
   - Assorted Mesh Fixes
   - ~~Beyond Skyrim : Bruma~~
   - Dlizzio's Mesh Fixes
   - ~~HD Dead Trees and Driftwood~~
   - Reach Trees Enhanced
+  - ~~Realistic Aspen Trees~~
+  - ~~Sacred Trees~~
+  - ~~Simply Bigger Trees~~
+  - ~~Simply Bigger Realistic Aspen Trees~~
   - ~~Skyrim Flora Overhaul~~
   - SMIM
   - ~~UV-Tweaks~~
 - **Main:** Ice
 - **Patches:**
+  - Arctic
   - ~~Beyond Skyrim : Bruma~~
   - Dlizzio's Mesh Fixes
   - Landscape and water fixes
@@ -153,6 +160,8 @@ description: >
   - ~~Northern Ice without Ice Floes~~
   - ~~Real Ice and Snow~~
   - Remastered Glaciers and Ice
+
+> Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 
 ##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 

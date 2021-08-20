@@ -62,6 +62,10 @@ description: >
 
 - **Main Files:** Solstheim Objects SMIMed - High Poly Dark Elf Furniture
 
+#### FOMOD Instructions
+
+- **Optional:** Add ENB particle lights
+
 ##### [Thrones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/41198?tab=files)
 
 #### Download Instructions
