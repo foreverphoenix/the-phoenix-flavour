@@ -20,9 +20,9 @@ description: >
 While future updates will almost certainly change them, here is what LOTF looks like in numbers:
 
 - **Installation:** ~46GB
-- **Downloads:** ~31GB
-- **Mod Count:** 173
-- **Plugin Count:** 98
+- **Downloads:** ~35GB
+- **Mod Count:** 175
+- **Plugin Count:** 100
 
 > The file size is largely inflated by Base Coat and Skyrim Realistic Overhaul (the texture replacers) as well as the remastered audio files and generated outputs for LODs and facegen. 
 
@@ -108,3 +108,10 @@ If you want to access the Creation Club, through the main menu, do the following
 Finding all 24 Stones of Barenziah during the [No Stone Unturned](https://en.uesp.net/wiki/Skyrim:No_Stone_Unturned) quest can be a bit of a slog. If you would prefer quest markers to show you exactly where the stones are located, turn on this option in the **SSoB** MCM:
 
 ![SSoB MCM](/Pictures/lotf/lotf-ssob-mcm.jpg)
+
+### Increase combat difficulty
+
+If you find combat to be too easy, it is advisable to disable the Blade & Blunt vanilla damage modifiers plugin before increasing the difficulty through the game settings:
+
+- In **Mod Organizer 2**, expand the **GAMEPLAY** separator.
+- Uncheck the mod **Blade and Bunt - Vanilla Difficulty Modifiers**.
