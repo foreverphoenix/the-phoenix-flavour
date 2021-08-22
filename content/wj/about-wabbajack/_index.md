@@ -67,7 +67,7 @@ Because of the high frequency of updates in the Skyrim modding community, a mod 
 
 Theoretically, yes.
 
-**Editing a Wabbajack setup voids your right to get any support for it.** This is !rules4 on the Wabbajack Discord server and applies to all Wabbajack lists with very few exceptions. Similar rules are present in most sub-communities and Discord servers for individual lists.
+**Editing a Wabbajack setup voids your right to get any support for it.** This is `!rules11` on the Wabbajack Discord server and applies to all Wabbajack lists with very few exceptions. Similar rules are present in most sub-communities and Discord servers for individual lists.
 
 That being said: It is entirely possible to edit Wabbajack lists. What you install is simply another instance of Mod Organizer 2 with the list set up within it, so you can edit literally everything about it. You can add, tweak, or remove mods however you like *if you know what you are doing*. As mentioned before, advanced users frequently use Wabbajack lists as base for their own setups. However, this requires a good deal of modding experience, at the very least knowing how to edit plugins in SSEEdit and mod order management. Because the vast majority of Wabbajack users does not have this knowledge, the rule against support for modified setups had to be put in place to begin with.
 
@@ -81,4 +81,6 @@ Running LOOT on your load order will count as editing the setup and you will no 
 
 LOOT is not a perfect solution for plugin sorting. Most Wabbajack list authors prefer load order manual sorting using SSEEdit which will result in a far better optimised load order than running LOOT. There are some Wabbajack lists that utilise LOOT with custom rules (which are determined, once again, using SSEEdit).
 
-If you run LOOT, all you do is completely mess up the existing load order and likely break the setup. 
+**In most cases, if you run LOOT, all you do is completely mess up the existing load order and likely break the setup.**
+
+There are some exceptions to this: lists that utilise LOOT and custom rules to manage the load order and support optional mods. Please refer to your list's documentation. If it explicitly instructs you to sort with LOOT after enabling optional mods, the rules set up by the list author will ensure all plugins are sorted correctly.
