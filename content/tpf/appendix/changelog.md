@@ -24,6 +24,7 @@ The current Cathedral Assets Optimiser instructions sparked some confusion, so I
 
 - The Wabbajack page now simply links to the new "global" WJ instructions
 - Fixed Autorun.esp being disabled
+- Updated ENB binaries (no version change)
 - Updated Realistic Water Two to 3.1.2
 - Updated Realistic Skin Shaders - Falmer and Hagravens to 1.05
 - Updated Mysticism - A Magic Overhaul to 1.2.1
