@@ -44,7 +44,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Rock-Wall Texture Patches for High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/34143?tab=files)
 

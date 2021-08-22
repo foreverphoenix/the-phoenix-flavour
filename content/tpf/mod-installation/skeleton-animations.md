@@ -106,7 +106,7 @@ By default, the player and NPCs carry their shields in their left hand when thei
 
 #### Additional Instructions
 
-- Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Relaxed Sneaking Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37260?tab=files)
 

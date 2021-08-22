@@ -34,7 +34,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Immersive Sounds Compendium SSE 2.2
+- **Old Files:** Immersive Sounds Compendium SSE 2.2
 
 #### FOMOD Instructions
 
