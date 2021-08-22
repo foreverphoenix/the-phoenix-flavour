@@ -84,37 +84,6 @@ Configuring HoloTime and iHUD can be a little annoying sometimes. Quit the MCM a
 
 ![HoloTime MCM](/Pictures/wtp/mod-config/holotime-mcm.jpg)
 
-## More AGOMBz
-
-### More Attacks
-
-On the **More attacks** page, change the following:
-
-- **Far Harbor creatures:**
-  - Allow Far Harbor creatures attacks on The Island **ON**
-  - Allow Far Harbor creatures attacks worldwide **OFF**
-- **Nuka-World creatures**
-  - Allow Nuka-World creatures attacks on Nuka-World **ON**
-  - Allow Nuka-World creatures attacks worldwide **OFF**
-
-![More AGOMBz MCM](/Pictures/wtp/mod-config/more-agombz-mcm-1.jpg)
-
-### More ... Disable
-
-On the **More ... Disable** page, change the following:
-
-- Disable radstags attacks **ON**
-
-> This is done for consistency with the mod [Docile Radstags](https://www.nexusmods.com/fallout4/mods/3208).
-
-![More AGOMBz MCM](/Pictures/wtp/mod-config/more-agombz-mcm-2.jpg)
-
-## Photo Mode
-
-In this MCM, you can set a hotkey to go into Photo Mode and change its position in the Pause menu. Feel free to make changes or leave the settings at default.
-
-![Photo Mode MCM](/Pictures/wtp/mod-config/photo-mode-mcm.jpg)
-
 ## Photo Mode
 
 In this MCM, you can set a hotkey to go into Photo Mode and change its position in the Pause menu. Feel free to make changes or leave the settings at default.
@@ -135,7 +104,7 @@ Just build your settlers' beds somewhere below a roof to protect your immersion 
 
 - Manage Workbench **OFF**
 
-The Manage menu accessible at workbenches is only for scrapping stuff placed by the player and the WF layouts feature. Since TPF Fallout 4 doesn't currently include additional layouts, I would rather people disabled this entirely to prevent confusion. If you are interested in WF layouts, re-enable the Manage Workbench option and watch kinggath's tutorials on [importing](https://www.youtube.com/watch?v=N3MGiari9xc&feature=emb_logo) and [exporting](https://www.youtube.com/watch?v=9OVzgFzjnRw&feature=emb_logo) them. Obviously, downloading and installing layouts counts as adding mods and voids your right to get support for TPF Fallout 4.
+The Manage menu accessible at workbenches is only for scrapping stuff placed by the player and the WF layouts feature. Since TPF Fallout 4 doesn't currently include additional layouts, I would rather people disabled this entirely to prevent confusion. If you are interested in WF layouts, re-enable the Manage Workbench option and watch kinggath's tutorials on [importing](https://www.youtube.com/watch?v=N3MGiari9xc&feature=emb_logo) and [exporting](https://www.youtube.com/watch?v=9OVzgFzjnRw&feature=emb_logo) them. Obviously, downloading and installing layouts counts as adding mods and voids your right to get support for WTP.
 
 ![Workshop Framework MCM 1](/Pictures/wtp/mod-config/workshop-framework-mcm-1.jpg)
 
