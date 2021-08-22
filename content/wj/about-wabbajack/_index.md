@@ -18,7 +18,7 @@ If you are already familiar with Wabbajack and are looking only for setup instru
 
 ### Why should I use Wabbajack?
 
-Wabbajack lists are not simply collections of download links. A great deal of work is required in order to make hundreds of individual mods play well together, including SSSEEdit patching, asset edits, custom generated LOD, etc. Assembling a large, internally consistent setup requires experience and knowledge in modding the game which is why Wabbajack is so popular. In the same way that a concert allows you to appreciate music that somebody else wrote and performs, a Wabbajack list allows you to enjoy an experience that you may not have the time and motivation to create for yourself. In return, the mods and theme of the list are determined by the list author, much like an artist would decide the songs played at a concert.
+Wabbajack lists are not simply collections of download links. A great deal of work is required in order to make hundreds of individual mods play well together, including SSEEdit patching, asset edits, custom generated LOD, etc. Assembling a large, internally consistent setup requires experience and knowledge in modding the game which is why Wabbajack is so popular. In the same way that a concert allows you to appreciate music that somebody else wrote and performs, a Wabbajack list allows you to enjoy an experience that you may not have the time and motivation to create for yourself. In return, the mods and theme of the list are determined by the list author, much like an artist would decide the songs played at a concert.
 
 **Wabbajack lists are for you if:**
 
