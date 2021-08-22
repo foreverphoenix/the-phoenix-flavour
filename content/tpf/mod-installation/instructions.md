@@ -92,7 +92,8 @@ The linked page includes detailed explanations for the following instructions:
 - "Resave Example.esp in the Creation Kit."
 - "ESL-ify Example.esp with SSEEdit."
 - "Unpack Example.bsa through Mod Organizer 2."
-- "Run the mod through Cathedral Assets Optimizer (\<Profile>)."
+- "Optimise the mod with Cathedral Assets Optimizer."
+- "Downsize the mod with Cathedral Assets Optimizer."
 - "Run the mod through SSE NIF Optimizer."
 
 You will also be instructed to delete, rename, or move files through the MO2 interface frequently. This is very simple:

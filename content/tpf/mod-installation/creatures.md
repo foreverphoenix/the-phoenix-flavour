@@ -174,7 +174,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [HD Werewolves](https://www.nexusmods.com/skyrim/mods/60804?tab=files)
 
@@ -190,7 +190,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [HD Reworked Bears 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41028?tab=files)
 

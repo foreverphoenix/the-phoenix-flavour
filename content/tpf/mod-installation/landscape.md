@@ -214,7 +214,7 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 #### Download Instructions
 
-* **Main Files:** Realistic Water Two SE v3.1.1
+* **Main Files:** Realistic Water Two SE v3.1.2
 * **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
 
 #### FOMOD Instructions

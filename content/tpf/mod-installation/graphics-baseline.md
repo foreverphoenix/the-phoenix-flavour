@@ -171,7 +171,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+- Optimise the mod with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 > While the mod doesn't contain any actual SLE assets, this profile will compress the uncompressed textures to save space.
 

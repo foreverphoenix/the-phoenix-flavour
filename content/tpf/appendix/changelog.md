@@ -6,6 +6,34 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.3
+
+> 22/08/2021
+
+This is a small update, mostly for Wabbajack users. I went through my own files and fixed a few issues. TPF is in a pretty good place right now and ready to be the foundation for my upcoming TPF-X Wabbajack list.
+
+The current Cathedral Assets Optimiser instructions sparked some confusion, so I slightly changed the wording in the instructions. We already had "Downsize the mod with CAO" instructions for when the "Downsize Textures" profile was supposed to be selected. The other possibility is now "Optimise the mod with CAO" rather than "Run the mod through CAO" to clarify that the "Optimise SLE Assets" profile is supposed to be used.
+
+#### Mod Installation
+
+- **Fixes:** Removed Weapon Speed Effects Fix.
+- **Landscape:** Updated the file name in the download instructions for Realistic Water Two.
+- **Sound FX:** Updated download instructions for Immersive Sounds Compendium (using an Old File for the time being).
+
+#### Wabbajack
+
+- The Wabbajack page now simply links to the new "global" WJ instructions
+- Fixed Autorun.esp being disabled
+- Updated Realistic Water Two to 3.1.2
+- Updated Realistic Skin Shaders - Falmer and Hagravens to 1.05
+- Updated Mysticism - A Magic Overhaul to 1.2.1
+- Updated Adamant - A Perk Overhaul to 5.1.7
+- Updated Adamant - Amulets and Shrines to 5.0.3
+- Updated Tweaks for WACCF and ACE to 1.7
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.2
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.2
+- Updated Misc Tweaks - Shrines Don't Cure Diseases to 1.9
+
 ## Release 4.7.2
 
 > 18/08/2021

@@ -45,12 +45,6 @@ description: >
 
 - **Main Files:** WM's Flora Fixes - Revamped (No Scripts)
 
-##### [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Weapon Speed Effects Fix
-
 ##### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files)
 
 #### Download Instructions
