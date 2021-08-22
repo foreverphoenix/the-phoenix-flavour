@@ -69,7 +69,7 @@ If the issue persists, find the Discord support channel for your chosen list (ei
 
 Once Wabbajack has succesfully installed your list, you have one final step to complete. I already mentioned that Mod Organizer 2 only affects the **data** folder, but not the **root** folder. Certain files must be installed in the **root** folder, however, and users need to move them manually.
 
-> Some Wabbajack lists use a method to work around this and will already have moved these files for you. Check the documentation for your list to find out where you need to follow this step or not.
+> Some Wabbajack lists use the [stock game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) and will already have moved these files for you. Check the documentation for your list to find out where you need to follow this step or not.
 
 - Navigate to where you installed your list, e.g. `C:\Modlist Name\`.
 - You will find a **Game Folder Files** folder inside. Open it.
