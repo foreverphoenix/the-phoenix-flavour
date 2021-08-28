@@ -6,6 +6,104 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.4
+
+> TBD
+
+**INI Updates:**
+
+Thanks to @Judge Red on our Discord server, distant mountain peaks looking white are now fixed in most places. This was done by increasing the value to fBlockMaximumDistance and does not come with a performance impact. In my testing, some mountains may still look off (for instance I spotted one looking east from Katla's farm near Solitude), but they are far away and so shrouded by clouds that they do not look like visual bugs.
+
+**Projected Snow:**
+
+Snow in TPF is alright, although distant snow can look really atrocious in places because of our noise.dds texture. This is something I'm working on. When working on 4.7.1 I tried a few alternative snow textures and texture tweaks, but ultimately ran out of time and reverted to the status quo.
+
+Unfortunately, I forgot to re-add the additional instructions to Noble Skyrim where you create a projected diffuse texture so that regular snow and snow shaders (applied to rocks, roads, etc) match. If your snow is mismatched and looking awful right now, this is why. I brought these instructions back now and they will stay until we swap to a different snow texture for good.
+
+Curiously enough, I remembered to recreate that file in MO2, so WJ members are unaffected at least.
+
+**Controls & Camera:**
+
+This (second-to-last) section was newly added because I felt this was a category of mods that could be a little more accurately sorted. With one exception (Parapets' Auto Input Switch) it consists of mods already present in the guide. While TPF does not have mods affecting the *camera* specifically, several official TPF addons do and their authors may appreciate a dedicated section.
+
+#### Initial Setup
+
+- **INI Files:** Added Shadow Bias tweak to BethINI - Detail.
+- **INI Files:** Added LOD Level 8 (fBlockMaximumDistance) tweak to BethINI - View Distance.
+- **INI Files:** Added Distance Multiplier tweak to BethINI - View Distance.
+
+#### Mod Installation
+
+- **Essentials:** Finally fixed one line in Autorun (SetGS fCombatAimProjectileRandomOffset 70).
+- **Fixes:** Added missing FOMOD instructions for College of Winterhold Quest Start Fixes.
+- **Fixes:** Moved Keyboard Shortcuts Fix to Controls & Input.
+- **Fixes:** Moved Hank's Gamepad and Controller Fixes to Controls & Camera.
+- **Tweaks:** Moved Better Dialogue Controls to Controls & Camera.
+- **Tweaks:** Moved Better MessageBox Controls to Controls & Camera.
+- **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting.
+- **Graphics Baseline:** Re-added projected diffuse additional instructions for Noble Skyrim.
+- **Weather:** Updated FOMOD instructions for Volumetric Mist (now using Subtle Performance).
+- **Trees & Plants:** Updated download and FOMOD instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed Realistic Spruce and Pine Bark Textures.
+- **Trees & Plants:** Added HD Vanilla Tree Bark - ESRGAN AI Upscale.
+- **Trees & Plants:** Removed Aspens Ablaze.
+- **Trees & Plants:** Removed Aspen Bark HQ Variants.
+- **Trees & Plants:** Removed Pine Shrubs Redone.
+- **Trees & Plants:** Added Plants Repack for TPF.
+- **Trees & Plants:** Removed Flora Mod Collection (only swamp fungal pod retexture).
+- **Trees & Plants:** Added Jazbay by Mari.
+- **Trees & Plants:** Re-added Deathbell HD.
+- **Trees & Plants:** Removed Rally's Hanging Moss.
+- **Trees & Plants:** Added instructions to downsize the textures from Soul Husk Retexture from 2K to 1K.
+- **Trees & Plants:** Added instructions to delete some textures from Rally's Solstheim Plants.
+- **Architecture:** Added instructions to delete some textures from Rally's Raven Rock.
+- **Clutter:** Added Yee Haaa Horse Saddle Retexture.
+- **Clutter:** Added Imperial Saddle Retexture.
+- **Clutter:** Added Shadowmere Saddle Retexture.
+- **Clutter:** Added Rally's Nord War Horns.
+- **Clutter:** Added Rally's Civil War Document Tubes.
+- **Food & Ingredients:** Added Salmon Roe Model Replacer 3D.
+- **Creatures:** Added instructions to delete some textures from Better Than Nando's.
+- **Creatures:** Added instructions to delete the meshes from Goat HD by Pfuscher.
+- **Creatures:** Added instructions to delete the meshes from Highland Cow HD by Pfuscher.
+- **Creatures:** Added instructions to delete the meshes from HD Skeever by Pfuscher.
+- **Creatures:** Added instructions to delete some textures from HD Reworked Horses.
+- **Loot & Crafting:** Added instructions to download the Ancient Nord Stalhrim patch for Simple Smithing Overhaul.
+- **Combat & Encounters:** Added instructions to download the High Quality Shield Textures file for Briraka's Draugr Overhaul.
+- **Assorted Plugins:** Moved Yes I'm Sure to Controls & Camera.
+- **Assorted Plugins:** Added Unequip Quiver.
+- **Assorted Plugins:** Moved Classic Sprinting Redone to Controls & Camera.
+- **Assorted Plugins:** Moved Better Jumping to Controls & Camera.
+- **Assorted Plugins:** Removed Free Look.
+- **Controls & Camera:** Added this new step and moved some mods here from other sections.
+- **Controls & Camera:** Added Auto Input Switch.
+- **Utilities:** Updated download instructions for Spell Perk Item Distributor (file name changed).
+
+#### Performance Guide
+
+- Updated INI settings.
+
+#### Conflict Resolution Patch
+
+- Removed some unwanted overwrites of smithing recipes
+- Removed some left-over edits from Dawnguard Map Markers (mod removed in 4.7)
+- Removed Stendarr's Aura MGEF record with left-over edits
+- Disabled a duplicate sign for Birma's Ointments in Winterhold
+
+#### Wabbajack
+
+- Regenerated INI files for the regular profile
+- Regenerated INI files for the performance profile
+- Fixed framerate being capped to 144 instead of 60
+- Hid the terrain LOD files overwriting A Quality World Map
+- Updated ENBSeries binaries (no version number change)
+- Updated Fixed Mesh Lighting to 1.4
+- Updated Simple Smithing Overhaul to 1.1.4
+- Updated Lightweight Smithing Tweaks for SSO to 1.1
+- Updated MCM Helper to 1.3.0
+- Updated Spell Perk Item Distributor to 4.5.1
+- BethINI is once again packaged with the WJ installation
+
 ## Release 4.7.3
 
 > 22/08/2021

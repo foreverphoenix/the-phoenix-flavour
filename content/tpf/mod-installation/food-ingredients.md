@@ -178,6 +178,12 @@ description: >
 
 * **Main Files:** ElSopa HD - Briarheart Red 512
 
+##### [Salmon Roe Model Replacer 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42074?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Salmon Roe Replacer with Translucence
+
 ##### [Rudy HQ - More Lights for ENB - Torchbugs and Moths](https://www.nexusmods.com/skyrimspecialedition/mods/22819?tab=files)
 
 #### Download Instructions

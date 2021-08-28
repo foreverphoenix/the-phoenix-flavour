@@ -93,7 +93,7 @@ cl off
 SetGS fPhysicsDamage1Mass 9999999
 SetGS fSandboxCylinderTop 576
 SetGS fSandboxCylinderBottom -576
-SetGS fCombatProjectileRandomOffset to 70
+SetGS fCombatAimProjectileRandomOffset 70
 ```
 
 - Close the window and click **Yes** when asked to save.

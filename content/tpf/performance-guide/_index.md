@@ -43,7 +43,7 @@ Alternatively, there is also a single INI tweak that can already give your frame
 
 ### Option 1: Block Level Tweak
 
-The performance gain from regenerating INI files comes largely from a single setting. If you only need a few extra FPS and don't want to lower visual quality by too much, you can start by tweaking this setting. As you can see in this [comparison slider](https://imgsli.com/NjAxMDY), you can gain about 7FPS depending on your location.
+The performance gain from regenerating INI files comes largely from a single setting. If you only need a few extra FPS and don't want to lower visual quality by too much, you can start by tweaking this setting. As you can see in this [comparison slider](https://imgsli.com/NjAxMDY), you can regain about 6 FPS depending on your location.
 
 - In **Mod Organizer 2**, open the **INI Editor**.
 - Switch to the **skyrimprefs.ini** tab and scroll to the bottom.
@@ -66,21 +66,43 @@ Next, re-run BethINI to adjust the vanilla INIs:
 
 - Navigate to `\Your Modding Folder\Tools\BethINI\` and double-click **BethINI.exe**.
 - In the **Setup** tab, make sure the tool still points to your MO2 installation and TPF profile.
+
+Edit the following settings in the **Basic** tab:
+
 - In the **Basic** tab, make sure the **Resolution** matches your monitor's resolution.
 - In the **Basic** tab, check **Recommended Tweaks** and click **Medium** (under Presets).
 - In the **Basic** tab, uncheck **VSync** and **Lock Frame Rate**.
-- In the **Interface** tab, uncheck **Mod Manager Menu** and optionally adjust your mouse sensitivity.
-- In the **Detail** tab, check **Reflect Objects** under Water.
-- In the **Detail** tab, set **Godrays** to **None**.
-- In the **Detail** tab, increase **Particles** to `7500`.
-- In the **Detail** tab, uncheck **Lens Flare** and **Anamorphic Lens Flare**.
-- In the **Detail** tab, increase **Shadow Resolution** to `2048` and **Exterior Draw Distance** to `8000`.
-- In the **Detail** tab, check **Tree Shadows** and uncheck **Ambient Occlusion**.
+
+Edit the following settings in the **Interface** tab:
+
+- Uncheck **Mod Manager Menu** and optionally adjust your mouse sensitivity.
+
+Edit the following settings in the **Detail** tab:
+
+- Check **Reflect Objects** under Water.
+- Set **Godrays** to `None`.
+- Increase **Particles** to `7500`.
+- Uncheck **Lens Flare** and **Anamorphic Lens Flare**.
+- Increase **Shadow Resolution** to `2048`
+- Increase **Shadow Bias** to `0.7`
+- Increase **Exterior Draw Distance** to `8000`.
+- Check **Tree Shadows**.
+- Uncheck **Ambient Occlusion**.
+
+Edit the following settings in the **View Distance** tab:
+
 - In the **View Distance** tab, increase **Grass Fade** to `10000`.
 - In the **View Distance** tab, lower **Level 8** to `32768`.
+- In the **View Distance** tab, increase **Level 16** to `200000`.
+
+Edit the following settings in the **Visuals** tab:
+
 - In the **Visuals** tab, lower **Contrast** to `-0.1800`.
 - In the **Visuals** tab, increase **Grass Diversity** to **15**.
-- In the **Custom** tab, select **Section: Display**, then **Setting: bEnableLandFade**, change the value to **0**, and click **Save**.
+
+Edit the following settings in the **Custom** tab:
+
+- Select **Section: Display**, then **Setting: bEnableLandFade**, change the value to **0**, and click **Save**.
 
 Return to the **Basic** tab and click **Save and Exit**.
 

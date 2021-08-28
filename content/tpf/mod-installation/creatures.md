@@ -138,11 +138,25 @@ description: >
 
 * **Main Files:** Better than Nando’s
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\plants\`
+
+> I prefer the chicken nest and egg retexture from Rudy HQ - Hay, plus its more appropriately sized (1K rather than 2K).
+
 ##### [Goat HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/22802?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** HD Goat by Pfuscher
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> The meshes are part of Fixed Mesh Lighting which should not be overwritten.
 
 ##### [Highland Cow HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/20758?tab=files)
 
@@ -150,11 +164,25 @@ description: >
 
 * **Main Files:** Highlandcow HD
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> The meshes are part of Fixed Mesh Lighting which should not be overwritten.
+
 ##### [HD Skeever by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/23262?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** HD Skeevers
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> The meshes are part of Fixed Mesh Lighting which should not be overwritten.
 
 ##### [True Wolves of Skyrim](https://www.nexusmods.com/skyrim/mods/59174?tab=files)
 
@@ -227,6 +255,17 @@ description: >
 #### Download Instructions
 
 * **Main Files:** HD Reworked Horses
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\horses\saddle.dds`
+  - `textures\actors\horses\saddle_n.dds`
+  - `textures\actors\horses\saddleimperial.dds`
+  - `textures\actors\horses\saddleimperial_n.dds`
+  - `textures\actors\horses\saddleshadowmere.dds`
+
+> Higher quality versions of these textures by cunny1975 were installed in the Clutter section.
 
 ##### [Dawnguard Rewritten - Arvak](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files)
 

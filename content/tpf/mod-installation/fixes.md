@@ -115,6 +115,10 @@ description: >
 
 - **Main Files:** College of Winterhold Quest Start Fixes
 
+#### FOMOD Instructions
+
+- **Page 1:** Vanilla (Regular)
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions
@@ -244,26 +248,3 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Equip Enchantment Fix
-
-##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** KeyboardShortcutsFix_SKSE64
-
-#### Additional Instructions
-
-- Right-click **Keyboard Shortcuts Fix** in your mod order.
-- Select **Open in Explorer** and navigate to `SKSE\Plugins`.
-- Right-click anywhere and select **New** >> **Text Document**.
-- Enter **KeyboardShortcutsFix** as the name.
-- Change the file extension to .log by renaming it.
-- The full file name should be `KeyboardShortcutsFix.log`.
-
-> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
-
-##### [Hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** hank's gamepad and controller fixes
