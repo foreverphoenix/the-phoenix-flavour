@@ -1,6 +1,6 @@
 ---
 title: "Utilities"
-weight: 40
+weight: 41
 type: docs
 description: >
   Various modder's resources and extenders.
@@ -52,7 +52,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Spell Perk Item Distributor - 4.4
+* **Main Files:** Spell Perk Item Distributor - 4.5.1
 
 ##### [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files)
 

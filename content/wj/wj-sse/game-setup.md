@@ -16,7 +16,7 @@ Please refer to the documentation of your Wabbajack list before installing it an
 
 The following lists currently link back to this page:
 
-- None (yet)
+- [The Phoenix Flavour](/tpf/introduction/)
 
 ## Requirements
 

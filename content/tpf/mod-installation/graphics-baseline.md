@@ -120,21 +120,31 @@ description: >
 
 #### FOMOD Instructions
 
+**Page 1**
+
 - **Main:** All in one
-- **Main:** Flora
+
+**Page 2**
+
+- **Main:** Vanilla Flora
+- **Patches:**
+  - ~~More Growable Plants~~
+  - ~~Simply Bigger Plants~~
+  - Wiseman's Flora Fixes
 - **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
 - **JK's Skyrim:** ~~JK's Skyrim~~
-- **Simply Bigger Trees:** ~~Simply Bigger Plants~~
-- **More Growable Plants:** ~~More Growable Plants~~
-- **Unique Flowers and Plants:** ~~Unique Flowers and Plants~~
-- **Wiseman's Flora Fixes:** Wiseman's Flora Fixes
+- **Depths of Skyrim:** ~~Depths of Skyrim~~
+- **New Plants:** ~~Unique Flowers and Plants~~
 - **Mountain Flowers:** ~~3D Mountain Flowers~~
 - **Snowberries:** Sufficiently Optimized Snowberries
 - **Juniper:** 3D Juniper
 - **Tundra Cotton:** ~~Tundra Cotton by Mari~~
-- **Jazbay:** ~~Jaybay by Mari~~
+- **Jazbay:** Jaybay by Mari
 - **Canticle Tree:** High Poly Canticle Tree
-- **Main:** ~~Trees~~
+
+**Page 3**
+
+- **Main:** None
 - **Patches:**
   - Assorted Mesh Fixes
   - ~~Beyond Skyrim : Bruma~~
@@ -148,6 +158,9 @@ description: >
   - ~~Skyrim Flora Overhaul~~
   - SMIM
   - ~~UV-Tweaks~~
+
+**Page 4**
+
 - **Main:** Ice
 - **Patches:**
   - Arctic
@@ -156,10 +169,26 @@ description: >
   - Landscape and water fixes
   - Unofficial Material Fix
 - **Ice Replacer:**
+  - ~~Glacierslab~~
+  - ~~Glacierslab Bumpy Chiseled~~
   - ~~Northern Ice~~
   - ~~Northern Ice without Ice Floes~~
   - ~~Real Ice and Snow~~
   - Remastered Glaciers and Ice
+
+**Page 5**
+
+- **Patches:**
+  - ~~Bears of the North~~
+  - ~~Beyond Skyrim : Bruma~~
+  - ~~Dynamic Things Alterntive~~
+  - ~~Grahl~~
+  - HD Goat
+  - HD Highlandcow
+  - HD Skeever
+  - ~~Savage Skyrim~~
+  - ~~Skeleton Replacer HD~~
+  - ~~SkyTEST~~
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 
@@ -181,6 +210,18 @@ description: >
 
 - **Main Files:** A. Noble Skyrim - FULL PACK_2K
 - **Update Files:** NSM - SMIM Patch >> `merge with the main file`
+
+#### Additional Instructions
+
+- Right-click **Noble Skyrim Mod** in your mod order and select **Open in Explorer**.
+- Double-click the **textures** folder and create a new **effects** folder inside.
+- Open the **landscape** folder and copy the **snow01.dds** and **snow01_n.dds** texture.
+- Paste the textures into the new **textures\effects** folder.
+- Rename the copy of **snow01.dds** to **projecteddiffuse.dds**.
+- Rename the copy of **snow01_n.dds** to **projectednormal.dds**.
+- The resulting file path should be `textures\effects\projecteddiffuse.dds`.
+
+> The projecteddiffuse.dds is applied by the snow shader to various objects like rocks, roads, etc. If it does not perfectly match the regular snow01.dds texture, it will be very noticeable ingame as you can see [in this comparison](https://imgsli.com/NDY1OTk).
 
 ##### [Dlizzio's Mesh Fixes - Noble Skyrim Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
 

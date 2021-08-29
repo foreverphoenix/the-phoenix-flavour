@@ -57,12 +57,6 @@ Patch Horses = true
 
 * **Main Files:** WhoseQuestIsItAnyway
 
-##### [Yes I’m Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** YesImSure
-
 ##### [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921?tab=files)
 
 #### Download Instructions
@@ -138,23 +132,17 @@ No Gifting = false
 
 - Save your changes and close the file.
 
+##### [Unequip Quiver](https://www.nexusmods.com/skyrimspecialedition/mods/44031?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unequip Quiver SE
+
 ##### [Remember Lockpick Angle - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Remember Lockpick Angle - Updated
-
-##### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Classic Sprinting Redone
-
-##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Better Jumping SE
 
 ##### [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742?tab=files)
 
@@ -167,12 +155,6 @@ No Gifting = false
 #### Download Instructions
 
 - **Main Files:** DisableFollowerCollision v1.0.0 for SkyrimSE
-
-##### [Free Look](https://www.nexusmods.com/skyrimspecialedition/mods/42620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Free Look v3
 
 ##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
 

@@ -102,6 +102,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Simple Smithing Overhaul
+- **Optional Files:** SSO Ancient Nord Stalhrim Replacer Patch
 
 #### FOMOD Instructions
 

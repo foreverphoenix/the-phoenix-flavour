@@ -142,8 +142,13 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s) from the main file:
-  - `textures\DLC02\Architecture\RavenRock\dlc2rrbuildings01.dds`
-  - `textures\DLC02\Architecture\RavenRock\dlc2rrbuildings01_n.dds`
+  - `textures\dlc02\architecture\ravenrock\dlc2rrbuildings01.dds`
+  - `textures\dlc02\architecture\ravenrock\dlc2rrbuildings01_n.dds`
+  - `textures\dlc02\furniture\`
+  - `textures\dlc02\landscape\`
+  - `textures\dlc02\plants\`
+
+> Identical copies of the deleted textures from the furniture and landscape folders are already packaged with other Solstheim retextures by the same author.
 
 ##### [Rally's Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/35437?tab=files)
 

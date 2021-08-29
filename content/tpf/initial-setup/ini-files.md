@@ -44,10 +44,13 @@ Continue with regenerating the INI files from scratch:
 * After starting BethINI, you will be prompted with a window asking you to choose your game.
 * Select **Skyrim Special Edition** from the drop-down menu.
 * Once BethINI has loaded up, go to the first tab, **Setup**.
-* All filepaths should be configured correctly out of the box, however it’s best to double-check:
-  * **Game Path** should point at your **root** folder, `\steamapps\common\Skyrim Special Edition\`.
-  * **Mod Organizer** should point at your MO2 folder, `{Your File Path}\Mod Organizer 2\`.
-  * **INI Path** should point at your MO2 profile: `ModOrganizer 2 > The Phoenix Flavour`.
+
+
+All filepaths should be configured correctly out of the box, however it’s best to double-check:
+
+- **Game Path** should point to your root folder: `\steamapps\common\Skyrim Special Edition\`.
+- **Mod Organizer** should point to your MO2 folder: `{Your File Path}\Mod Organizer 2\`.
+- **INI Path** should point to your MO2 profile: `ModOrganizer 2 > The Phoenix Flavour`.
 
 > Changing the INI Path will prompt BethINI to restart. Click No when asked about using the skyrimcustom.ini file.
 
@@ -86,6 +89,7 @@ Continue with the sixth tab, **Detail**.
 - **Particles:** Increase the particle count to `7500`.
 - **Lens Flare:** Matter of taste. Personally I disable this.
 - **Anamorphic Lens Flare:** Looks ugly, recommended to be turned off.
+- **Shadow Bias:** Set to `0.7` to mostly fix the weird pyramid shapes in snowy regions.
 - **Detailed Draw Distance:** Set to `3500`.
 - **Ambient Occlusion:** Uncheck the box for this setting (covered by ENB).
 
@@ -97,7 +101,9 @@ Continue with the sixth tab, **Detail**.
 
 Continue with the seventh tab, **View Distance**.
 
-- **Grass Fade:** Set to `15000`
+- **Grass Fade:** Set to `15000` for to increase the distance at which grass is rendered.
+- **Level 16:** Set to `248705` to prevent distant mountain peaks from looking completely white.
+- **Distance Multiplier:** Set to `1.500` to increase the distance at which landscape LOD is loaded.
 
 ![BethINI View Distance](/Pictures/tpf/initial-setup/bethini-view-distance.png)
 

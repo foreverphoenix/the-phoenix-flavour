@@ -77,7 +77,7 @@ description: >
 
 #### FOMOD Instructions
 
-- **Select an option:** Balanced Performance
+- **Select an option:** Subtle Performance
 - **Other lands:** Solstheim
 
 ##### [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044?tab=files)

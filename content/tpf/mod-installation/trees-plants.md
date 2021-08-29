@@ -10,23 +10,20 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** 1) Enhanced Vanilla Trees SE - Lush Trees v2.1.0
-- **Optional Files:** 2) Enhanced Vanilla Trees SE - Alternative Branches v2.1.1 >> `merge with the main file`
+- **Main Files:** Enhanced Vanilla Trees SE v2.2.0
 
-#### FOMOD Instructions - Main File
+#### FOMOD Instructions
 
-- **Mesh Options:** Enhanced Darker Meshes
-- **Clutter:**
-  - Enhanced Tree Clutter (recommended)
-  - Firewood Textures
-- **Tree LODs:** Billboards
-
-#### FOMOD Instructions - Alternative Branches
-
-- **Custom Tree Options:** No
-- **Normal Pine Branches:** SFO Branch Textures - Version 2
-- **Snowy Pine Branches** None
-- **Light Snowy Pine Branches:** None
+- **Alternative Pine Meshes:** Lush/Darker Pine Meshes
+- **Alternative Pine Branches:** SFO Pine Branches (alt 2)
+- **Alternative Snow Pine Branches:** SFO Snow Pine Branches
+- **Alternative Light Snow Pine Branches:** SFO Light Snow Pine Branches
+- **Options:**
+  - ~~SFO Aspen Branches~~
+  - Miscellaneous
+  - Firewood Texture
+- **Alternative Aspen Trees:** None
+- **Alternative Pine Trees:** None
 
 #### Additional Instructions
 
@@ -36,28 +33,11 @@ description: >
 
 > This mesh is part of Fixed Mesh Lighting and should not be overwritten.
 
-##### [Realistic Spruce and Pine Bark Textures](https://www.nexusmods.com/skyrimspecialedition/mods/44226?tab=files)
+##### [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Spruce 8K
-
-##### [Aspens Ablaze](https://www.nexusmods.com/skyrimspecialedition/mods/39998/?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Aspens Ablaze 2.0
-
-#### FOMOD Instructions
-
-- **Leaf Color:** Autumnal
-- **LOD Assets:** Install
-
-##### [Aspen Bark HQ Variants](https://www.nexusmods.com/skyrimspecialedition/mods/51992?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Birch 4K
+- **Main Files:** ESRGAN TREE BARK
 
 ##### [Reach Trees Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/52614?tab=files)
 
@@ -186,17 +166,11 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
   - `textures\terrain\`
   - `Skyrim Flora Overhaul.esp`
 
-##### [Pine Shrubs Redone](https://www.nexusmods.com/skyrimspecialedition/mods/46183?tab=files)
+##### [Plants Repack for TPF](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Pine Shrubs Redone
-
-##### [Flora Mod Collection](https://www.nexusmods.com/skyrim/mods/80722/?tab=files)
-
-#### Download Instructions
-
-- **Miscellaneous Files:** Swamp Fungal Pod - 2K
+- **Main Files:** Plants Repack for TPF
 
 ##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
@@ -274,17 +248,34 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 > These meshes are part of Fixed Mesh Lighting and should not be overwritten.
 
+##### [Jazbay by Mari](https://www.nexusmods.com/skyrimspecialedition/mods/43480?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Jazbay by Mari - Green
+
+#### FOMOD Instructions
+
+- **resolution:** 1k
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> The meshes are part of Fixed Mesh Lighting and should not be overwritten.
+
+##### [Deathbell HD](https://www.nexusmods.com/skyrimspecialedition/mods/10755?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Deathbell HD 1K
+
 ##### [Rudy HQ - More Lights for ENB - Deathbells and Nirnroots](https://www.nexusmods.com/skyrimspecialedition/mods/22814?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
-
-##### [Rally's Hanging Moss](https://www.nexusmods.com/skyrimspecialedition/mods/33225?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Rallys Hanging Moss - Desaturated
 
 ##### [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205?tab=files)
 
@@ -352,6 +343,10 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Optional Files:** 2K Soul Husk for wSkeever High Poly Soul Husk
 
+#### Additional Instructions
+
+- Downsize the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
 ##### [Unique Solstheim Grass](https://www.nexusmods.com/skyrimspecialedition/mods/34581?tab=files)
 
 #### Download Instructions
@@ -364,6 +359,14 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Main Files:** Rally's Solstheim Plants 2K
 - **Optional Files:** Lods for Mushroom Trees 512x512 >> `merge with the main file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\dlc02\plants\dlc2hangingmoss01.dds`
+  - `textures\dlc02\plants\dlc2hangingmoss01_n.dds`
+  - `textures\dlc02\plants\dlc2scathecraw01.dds`
+  - `textures\dlc02\plants\dlc2scathecraw01_n.dds`
 
 ##### [Scathecraw HD 2K](https://www.nexusmods.com/skyrimspecialedition/mods/38454?tab=files)
 

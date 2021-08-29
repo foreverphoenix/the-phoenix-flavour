@@ -94,6 +94,27 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
   - `meshes\furniture\blacksmithforgemarkerwr.nif`
   - `meshes\furniture\blacksmithingskyforgemarker.nif`
 
+> The forge mesh is removed in favour of Embers HD.
+
+##### [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Horse Saddle
+
+##### [Imperial Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42577?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 2K Imperial Saddle
+
+##### [Shadowmere Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42594?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Shadowmere Saddle
+- **Optional Files:** ESL flagged plugin >> `merge with the main file`
+
 ##### [Skyrim 3D Misc](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
 
 #### Download Instructions
@@ -109,6 +130,36 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 - **Optional Files:** 2K Deer Skull and Antlers
 - **Optional Files:** 2K Mounted Antlers >> `merge with the main file`
+
+##### [Rally's Nord War Horns](https://www.nexusmods.com/skyrimspecialedition/mods/46872?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rallys Nord War Horns
+
+#### FOMOD Instructions
+
+- **Color Variations:** Golden Red
+- **Torygg's Horn Replacer:** Enhanced Vanilla
+
+#### Additional Instructions
+
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ((instructions)[/tpf/guide-resources/basic-instructions/#downsizing-textures]).
+
+##### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rally's Civil War Document Tubes
+
+#### FOMOD Instructions
+
+- **Color Options:** Lore Version
+- **Enhanced Battlemap Flags:** Gimme that!
+
+#### Additional Instructions
+
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ((instructions)[/tpf/guide-resources/basic-instructions/#downsizing-textures]).
 
 ##### [RUSTIC CLUTTER COLLECTION](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files)
 

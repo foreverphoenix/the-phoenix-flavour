@@ -106,6 +106,7 @@ description: >
 
 - **Main Files:** Briraka's Draugr Overhaul
 - **Optional Files:** BriDO - Weapons Armor Clothing and Clutter Fixes Patch
+- **Miscellaneous Files:** High Quality Shield Textures
 
 ##### [Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
 

@@ -185,15 +185,3 @@ description: >
 #### Download Instructions
 
 - **Main Files:** True Teacher Durnehviir
-
-##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Better Dialogue Controls v1_2
-
-##### [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Better MessageBox Controls v1_2
