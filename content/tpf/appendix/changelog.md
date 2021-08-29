@@ -8,11 +8,11 @@ description: >
 
 ## Release 4.7.4
 
-> TBD
+> 29/08/2021
 
 **INI Updates:**
 
-Thanks to @Judge Red on our Discord server, distant mountain peaks looking white are now fixed in most places. This was done by increasing the value to fBlockMaximumDistance and does not come with a performance impact. In my testing, some mountains may still look off (for instance I spotted one looking east from Katla's farm near Solitude), but they are far away and so shrouded by clouds that they do not look like visual bugs.
+Thanks to @Judge Red on our Discord server, distant mountain peaks looking white are now fixed in most places. This was done by increasing the value to fBlockMaximumDistance and does not come with a performance impact. In my testing, some mountains may still look off (for instance I spotted one looking east from Katla's farm near Solitude), but they are far away and obscured by clouds so that they do not look like visual bugs.
 
 **Projected Snow:**
 
@@ -25,6 +25,17 @@ Curiously enough, I remembered to recreate that file in MO2, so WJ members are u
 **Controls & Camera:**
 
 This (second-to-last) section was newly added because I felt this was a category of mods that could be a little more accurately sorted. With one exception (Parapets' Auto Input Switch) it consists of mods already present in the guide. While TPF does not have mods affecting the *camera* specifically, several official TPF addons do and their authors may appreciate a dedicated section.
+
+**ENB Water Settings:**
+
+I have been unhappy with the strongly turquoise water in TPF for a long time and finally got around to tweaking the enbseries.ini a little to get a bluer tone. It's not perfect and a true solution would be editing water colours in the Realistic Water Two plugin, but that's more work and will have to be looked into another time.
+
+#### Update Instructions
+
+**This update is save safe.**
+
+- Update ENBSeries binaries
+- Regenerate TexGen and DynDOLOD for the new version of EVT
 
 #### Initial Setup
 
@@ -79,6 +90,11 @@ This (second-to-last) section was newly added because I felt this was a category
 - **Controls & Camera:** Added Auto Input Switch.
 - **Utilities:** Updated download instructions for Spell Perk Item Distributor (file name changed).
 
+#### Finalisation
+
+- **SSELODGen:** Updated the SSE-Terrain-Tamriel instructions and removed the now redundant screenshot.
+- **ENBSeries:** Added Water settings section.
+
 #### Performance Guide
 
 - Updated INI settings.
@@ -89,6 +105,7 @@ This (second-to-last) section was newly added because I felt this was a category
 - Removed some left-over edits from Dawnguard Map Markers (mod removed in 4.7)
 - Removed Stendarr's Aura MGEF record with left-over edits
 - Disabled a duplicate sign for Birma's Ointments in Winterhold
+- Fixed Dawnguard Rune Hammer (still had leftover edits in the CRP)
 
 #### Wabbajack
 
@@ -96,13 +113,14 @@ This (second-to-last) section was newly added because I felt this was a category
 - Regenerated INI files for the performance profile
 - Fixed framerate being capped to 144 instead of 60
 - Hid the terrain LOD files overwriting A Quality World Map
-- Updated ENBSeries binaries (no version number change)
+- Updated ENBSeries binaries to 0.462
 - Updated Fixed Mesh Lighting to 1.4
 - Updated Simple Smithing Overhaul to 1.1.4
 - Updated Lightweight Smithing Tweaks for SSO to 1.1
 - Updated MCM Helper to 1.3.0
 - Updated Spell Perk Item Distributor to 4.5.1
 - BethINI is once again packaged with the WJ installation
+- DynDOLOD is once again packaged with the WJ installation
 
 ## Release 4.7.3
 
@@ -2276,7 +2294,7 @@ With the removal of Fuz Ro D'oh and new instructions for Keyboard Shortcuts Fix,
 
 With this update, **Alternate Start - Live Another Life** (aka AS LAL), got the boot. Gonna be honest here, I've been meaning to remove that mod for a long, long time. Unfortunately, there never was a simple alternative to it that just puts you in a quiet place to go through MCM settings and character creation before the vanilla start. And, spoiler alert, there still isn't.
 
-However, I discovered that the vanilla start - once a buggy mess in modded games - works perfectly fine in TPF. This is due to the fact that most mods no longer instantly fire all their scripts as soon as you start the game and we have very mods that run many scripts anyway. The overall stability of SSE and the decoupling of framerate and physics are helping here as well.
+However, I discovered that the vanilla start - once a buggy mess in modded games - works perfectly fine in TPF. This is due to the fact that most mods no longer instantly fire all their scripts as soon as you start the game and we have very few mods that run many scripts anyway. The overall stability of SSE and the decoupling of framerate and physics are helping here as well.
 
 Without AS LAL, everyone is forced to go through the vanilla intro which makes balancing far easier for us. There is simply no way we can balance every single one of AS LAL's starting points so that it's a fair start for a new playthrough. I always recommended the vanilla start anyway. Additionally, AS LAL touches so many parts of Skyrim that it's essentially patching hell. Now we are rid of that, too.
 

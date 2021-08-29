@@ -105,14 +105,84 @@ This means you can quickly toggle ENB ingame with F10, open the GUI to customise
 * Open the downloaded archive and double-click the folder inside.
 * Extract the **enbseries.ini**, the **enblocal.ini**, and the **enbseries** folder to `Your Modding Folder\temp`.
 
-### Disable Distant Reflections 
+### Water Settings
+
+We will be editing Serio's ENB to largely use mindflux' settings from [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) with some custom tweaks to Muddiness and Sun Lighting Multiplier.
 
 - Open the **enbseries.ini** in a Notepad++.
-- Scroll down to **Line 1122**.
-- Set **DisableDistantReflection** to **true**.
-- Hit CTRL+S to save your changes and close the window.
+- Press **CTRL + F** and enter **Water** as the search term.
+- Hit **Enter** for times until you get to the `[WATER]` section.
+- Replace the entire section with the following:
 
-> This will improve the way water looks in the distance.
+```
+[WATER]
+IgnoreWeatherSystem=true
+EnableDispersion=true
+EnableCaustics=true
+EnableParallax=true
+EnableSelfReflection=false
+EnableDisplacement=true
+DisplacementQuality=0
+ReflectionAmount=1.0
+DispersionAmount=0.35
+CausticsAmount=1.0
+SunSpecularMultiplier=2.0
+SunScatteringMultiplier=0.75
+WavesAmplitudeDawn=0.5
+WavesAmplitudeSunrise=0.75
+WavesAmplitudeDay=1.0
+WavesAmplitudeSunset=0.75
+WavesAmplitudeDusk=0.5
+WavesAmplitudeNight=0.25
+WavesAmplitudeInteriorDay=1.0
+WavesAmplitudeInteriorNight=1.0
+DisableDistantReflection=true
+EnableTemporalAA=true
+EnableTessellation=true
+TessellationQuality=0
+FresnelMultiplier=0.35
+Muddiness=0.35
+BrightnessDawn=1.0
+BrightnessSunrise=1.0
+BrightnessDay=1.0
+BrightnessSunset=1.0
+BrightnessDusk=1.0
+BrightnessNight=1.0
+BrightnessInteriorDay=1.0
+BrightnessInteriorNight=1.0
+EnableShadow=false
+EnableVolumetricShadow=false
+EnableCloudsShadow=true
+EnableLighting=true
+VolumetricShadowQuality=2
+FresnelMin=0.0
+FresnelMax=1.0
+SunLightingMultiplier=0.1
+WetMultiplier=1.0
+```
+
+- Press **CTRL + F** and search for water again.
+- Go to the third result, the `[UNDERWATER]` section.
+- Replace the entire section with the following:
+
+```
+[UNDERWATER]
+IgnoreWeatherSystem=true
+TintAmount=1.65
+EnableCaustics=true
+HighQualityCaustics=true
+CausticsAmount=3.0
+CausticsAmountDawn=3.0
+CausticsAmountSunrise=3.0
+CausticsAmountDay=3.0
+CausticsAmountSunset=3.0
+CausticsAmountDusk=3.0
+CausticsAmountNight=3.0
+CausticsAmountInteriorDay=3.0
+CausticsAmountInteriorNight=3.0
+```
+
+- Finally press **CTRL + S** to save your changes and close the editor.
 
 ### Create a new preset
 
