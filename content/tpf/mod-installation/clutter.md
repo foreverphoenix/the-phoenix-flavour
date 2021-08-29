@@ -144,7 +144,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Additional Instructions
 
-- Downsize the mod's textures with **Cathedral Assets Optimiser** ((instructions)[/tpf/guide-resources/basic-instructions/#downsizing-textures]).
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637?tab=files)
 
@@ -159,7 +159,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Additional Instructions
 
-- Downsize the mod's textures with **Cathedral Assets Optimiser** ((instructions)[/tpf/guide-resources/basic-instructions/#downsizing-textures]).
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [RUSTIC CLUTTER COLLECTION](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files)
 
