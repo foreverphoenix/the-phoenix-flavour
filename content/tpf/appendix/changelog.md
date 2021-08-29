@@ -47,7 +47,7 @@ I have been unhappy with the strongly turquoise water in TPF for a long time and
 
 - **Essentials:** Finally fixed one line in Autorun (SetGS fCombatAimProjectileRandomOffset 70).
 - **Fixes:** Added missing FOMOD instructions for College of Winterhold Quest Start Fixes.
-- **Fixes:** Moved Keyboard Shortcuts Fix to Controls & Input.
+- **Fixes:** Moved Keyboard Shortcuts Fix to Controls & Camera.
 - **Fixes:** Moved Hank's Gamepad and Controller Fixes to Controls & Camera.
 - **Tweaks:** Moved Better Dialogue Controls to Controls & Camera.
 - **Tweaks:** Moved Better MessageBox Controls to Controls & Camera.
@@ -114,7 +114,7 @@ I have been unhappy with the strongly turquoise water in TPF for a long time and
 - Fixed framerate being capped to 144 instead of 60
 - Hid the terrain LOD files overwriting A Quality World Map
 - Updated ENBSeries binaries to 0.462
-- Updated Fixed Mesh Lighting to 1.4
+- Updated Fixed Mesh Lighting to 1.4.1
 - Updated Simple Smithing Overhaul to 1.1.4
 - Updated Lightweight Smithing Tweaks for SSO to 1.1
 - Updated MCM Helper to 1.3.0
