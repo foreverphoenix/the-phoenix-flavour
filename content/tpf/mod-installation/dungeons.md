@@ -53,6 +53,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** Rudy HQ - Nordic Ruins SE version
 * **Optional Files:** Chests addon >> `merge with the main file`
+* **Optional Files:** Pots addon SE version >> `merge with the main file`
 * **Optional Files:** Ruin Levers addon SE version >> `merge with the main file`
 
 #### Additional Instructions
@@ -69,6 +70,10 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff02.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze01.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze02.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze03.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze04.nif`
   - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
 
 ##### [Iconic's Windcaller Tomb and Horn Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45440?tab=files)
@@ -88,12 +93,6 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 * **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
-
-##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Pottery
 
 ##### [Skyrim Remastered - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/38220?tab=files)
 

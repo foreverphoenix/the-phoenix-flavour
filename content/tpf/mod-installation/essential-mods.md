@@ -173,6 +173,7 @@ Click "Manual Download" for all files:
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
+  - `meshes\clutter\deadanimals\`
   - `textures\effects\gradients\gradwhitewater.dds`
   - `Particle Patch for ENB SSE.esp`
 
