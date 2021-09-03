@@ -6,6 +6,115 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.5
+
+> 03/09/2021
+
+This update consists of many smaller changes and additions largely related to graphics that accumulated while I was working on TPF-X. This also affected NPCs (I added a different makeup retexture) so facegen was regenerated.
+
+**Removal of STAC:**
+
+Smoking Torches and Candles was removed in this update because Umgak and I agreed that it doesn't look particularly good. Additionally, the effect may disappear entirely when there are too many particle effects on screen. There is also a performance impact, although it should be negligible for all but the weakest machines.
+
+**Skyrim Remastered - High Hrothgar:**
+
+My interest in [gochargers2156](https://www.nexusmods.com/skyrimspecialedition/users/3302086) was already piqued when I came upon their comprehensive and beautiful ice, glacier, and ice cave overhauls which have been in TPF for a while now.
+
+Upon checking through their published mods again I found [Skyrim Remastered - High Hrothgar v2](https://www.nexusmods.com/skyrimspecialedition/mods/51788). Not only does it include the meshes (UV fixes) from [T4's High Hrothgar overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=description) that we are currently using, it also comes with *highly* improved door textures which were still vanilla and a huge eyesore in TPF. On top of that it includes [Pilgrim's Delight](https://www.nexusmods.com/skyrimspecialedition/mods/3273), but with higher res textures and 3D meshes for the steps similar to [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905), but using projected snow so that the snowy steps blend with their surroundings.
+
+In short, the mod is a huge improvement for TPF.
+
+**Removal of Ancient Pottery:**
+
+Mathy's meshes from [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039) are as usual extremely high quality. However, I found that I preferred the more vanilla-like urns and more colourful pots from [Rudy HQ - Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/19365) (which also come with high quality meshes) as well as [Remiros' Dunmer Urns](https://www.nexusmods.com/skyrimspecialedition/mods/50767) (which were already in TPF).
+
+#### Mod Installation
+
+- **Essential Mods:** Updated download instructions for .NET Script Framework (file name updated).
+- **Essential Mods:** Added instructions to delete a mesh from Skyrim Particle Patch.
+- **Graphics Baseline:** Added DynDOLOD Bright LOD Waterfall Fix.
+- **Graphics Baseline:** Removed 2K SMIM Whiterun Bench.
+- **Lighting:** Removed Smoking Torches and Candles.
+- **Lighting:** Lanterns of Skyrim II was moved here (from Landscape).
+- **Lighting:** Medieval Torch was moved here (from Clutter).
+- **Lighting:** Updated FOMOD instructions for Medieval Torch (no longer selecting STAC meshes).
+- **Lighting:** Updated FOMOD instructions for Inferno - Fire Effects HD (no longer selecting STAC meshes).
+- **Visual FX:** Removed Bright Snow Fix for ENB (part of Bright Waterfall Fix).
+- **Visual FX:** Removed Less Distracting Blowing Snow Effects for ENB Particle Patch.
+- **Landscape:** Removed instructions to download the Darker Gradient Textures for Realistic Water Two.
+- **Landscape:** Removed additional instructions for Realistic Water Two (no longer necessary).
+- **Landscape:** Added Bright Waterfall Fix.
+- **Landscape:** Removed Majestic Mountains - Rapid Rocks Mesh.
+- **Landscape:** Moved Lanterns of Skyrim II to Lighting.
+- **Architecture:** Added instructions to delete some redundant files from Skyland - Winterhold.
+- **Architecture:** Removed The Halls of the Greybeards - A High Hrothgar Retexture.
+- **Architecture:** Added Skyrim Remastered - High Hrothgar v2.
+- **Misc Structures:** Removed Pilgrim's Delight - High Hrothgar Shrine Retexture.
+- **Misc Structures:** Removed Skyrim 3D High Hrothgar Steps.
+- **Interiors:** Removed Ennead - Banners.
+- **Interiors:** Removed Ennead Banners - RUGNAROK Patch. 
+- **Interiors:** Added Sigils of Skyrim - Banners.
+- **Interiors:** Removed 4K Retexture for Nordic Beds.
+- **Interiors:** Updated FOMOD instructions for Medieval Candlehorns and Sconces.
+- **Interiors:** Removed instructions to install the STAC patch for SD's Horn Candles.
+- **Dungeons:** Added instructions to download the Pots Addon for Rudy HQ - Nordic Ruin.
+- **Dungeons:** Added instructions to delete four more meshes from Rudy HQ - Nordic Ruins.
+- **Dungeons:** Removed Ancient Pottery.
+- **Clutter:** Moved Medieval Torch to Lighting.
+- **Clutter:** Added Chisel Replacer HD.
+- **Clutter:** Removed Medieval Silverworks.
+- **Clutter:** Added Rudy HQ - Miscellaneous.
+- **Valuable Items:** Added Gemstone Replacer HD.
+- **Valuable Items:** Removed Iconic's Falmer Eye Gem Retexture.
+- **Valuable Items:** Changed download instructions for Particle Lights for ENB - Bugs In A Jar.
+- **Valuable Items:** Added Unique Skulls HD.
+- **Valuable Items:** Removed Iconic's Saerek and Torsten Skull Key Retexture.
+- **Valuable Items:** Removed Iconic's Remastered Paragon Gems Retexture.
+- **Valuable Items:** Removed Particle Lights for ENB - Paragon Gems.
+- **Valuable Items:** Added Paragon Gems HD.
+- **Creatures:** Slightly changed the mod order.
+- **Creatures:** Split up the instructions for the two aMidianBorn Book of Silence files.
+- **Creatures:** Updated FOMOD instructions for Particle Lights for ENB - Undead Creatures.
+- **Creatures:** Removed additional instructions (file deletion) from Particle Lights for ENB - Undead Creatures (no longer necessary).
+- **Creatures:** Added Skeleton Replacer HD.
+- **Creatures:** Added Draugr by Kajuan.
+- **Creatures:** Updated FOMOD instructions for aMidianBorn Book of Silence - Creatures.
+- **Appearance:** Removed Cathedral Player and NPC Overhaul - Female Skin Textures.
+- **Appearance:** Added Lucid Skin.
+- **Appearance:** Updated FOMOD instructions for Vitruvia - Skin Texture Overhaul for Males.
+- **Appearance:** Removed Mild Complexions.
+- **Appearance:** Updated download and FOMOD instructions for Feminine Khajiit Textures.
+- **Appearance:** Updated download and FOMOD instructions for Macsuline Khajiit Textures.
+- **Appearance:** Removed Forgotten Argonian Roots.
+- **Appearance:** Removed Forgotten Argonian Roots - FOMOD.
+- **Appearance:** Added Argonian Weight Slider Affected Tails.
+- **Appearance:** Added Flawn's Vanilla Argonians Redux.
+- **Appearance:** Removed instructions to download the update file for Vanilla Makeup HD (no longer required).
+- **Appearance:** Added Better Makeup for SKSE.
+
+#### TPF Addons
+
+- Updated the page as there are now Addons with Wabbajack installers.
+
+#### Conflict Resolution Patch
+
+- Fixed conflicts between Unique Skulls HD and WACCF
+- Remove the lootable Potema's Crown from Unique Skulls HD because it doesn't work well with all races / hair styles
+- Fixed conflicts between Skeleton Replacer HD and WACCF
+- Re-added Non-Playable flag to a version of Miraak's Robes that are not intended for the player
+- Disabled the floating pot in High Hrothgar
+
+#### Wabbajack
+
+- Updated ENBSeries binaries (no version change)
+- Updated NET Script Framework to 16
+- Updated Landscape Fixes for Grass Mods to 4.9
+- Updated Better Windhelm Ground Meshes to 1.3.2
+- Updated WiZkiD - Hall of the Dead Stained Glass Windows to 1.5
+- Updated Feminine Khajiit Textures to 3.0
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.3
+- Updated Auto Input Switch to 1.1.2
+
 ## Release 4.7.4
 
 > 29/08/2021

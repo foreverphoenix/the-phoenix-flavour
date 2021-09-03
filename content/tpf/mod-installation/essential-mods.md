@@ -43,7 +43,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NetScriptFramework SkyrimSE v14
+- **Main Files:** NetScriptFramework SkyrimSE v16
 
 ##### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
@@ -173,6 +173,7 @@ Click "Manual Download" for all files:
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
+  - `meshes\clutter\deadanimals\`
   - `textures\effects\gradients\gradwhitewater.dds`
   - `Particle Patch for ENB SSE.esp`
 

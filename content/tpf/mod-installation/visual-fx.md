@@ -123,15 +123,3 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Reduced Glow FX SE
-
-##### [Bright Snow Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41737?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Bright Snow Fix
-
-##### [Less Distracting Blowing Snow Effects for ENB Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36198?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Less Distracting Blowing Snow Effects 1.0

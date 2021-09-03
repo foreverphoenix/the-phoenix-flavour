@@ -18,13 +18,6 @@ description: >
 
 * **Main Files:** WiZkiD - Hall of the Dead Stained Glass Windows
 
-##### [Ennead - Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ennead - Banners 2K
-* **Miscellaneous Files:** Ennead Banners - 2K Riften Silver >> `merge with the main file`
-
 ##### [PELTAPALOOZA](https://www.nexusmods.com/skyrimspecialedition/mods/5442?tab=files)
 
 #### Download Instructions
@@ -37,11 +30,20 @@ description: >
 
 * **Main Files:** RUGNAROK - Special Edition - 2K
 
-##### [Ennead Banners - RUGNAROK Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+##### [Sigils of Skyrim - Banners](https://www.nexusmods.com/skyrimspecialedition/mods/54108?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Ennead Banners - RUGNAROK Patch
+* **Main Files:** Sigils of Skyrim - Banners
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\clutter\citybannerhighhrothgard01.dds`
+  - `textures\clutter\citybannerhighhrothgard02.dds`
+  - `textures\dlc02\clutter\`
+
+> I prefer the High Hrothgar banners from Skyrim Remastered - High Hrothgar v2 and the Raven Rock banners from Rally's Raven Rock.
 
 ##### [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041?tab=files)
 
@@ -49,12 +51,6 @@ description: >
 
 * **Main Files:** Vanilla Table Replacers 2k 1k
 * **Optional Files:** 2k Common Table replacer optional (No Ropes) >> `merge with the main file`
-
-##### [4K Retexture for Nordic Beds](https://www.nexusmods.com/skyrimspecialedition/mods/39007?tab=files)
-
-#### Download Instructions
-
-* **Optional Files:** 2K Nordic Beds SE Retexture
 
 ##### [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779?tab=files)
 
@@ -86,15 +82,14 @@ description: >
 
 #### FOMOD Instructions
 
-* **Smoke Effect:** Smoke Effect (STAC Compatible)
-* **Lantern:** Version_1
+* **Smoke Effect:** No Smoke Effect
+* **Lantern:** Version_2
 
 ##### [SD's Horn Candles](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** SD's Horn Candles SE 1k
-- **Optional Files:** SD's Horn Candles SE - STAC Patch (subtle version)
 
 ##### [Skyrim 3D Cooking](https://www.nexusmods.com/skyrimspecialedition/mods/23007?tab=files)
 

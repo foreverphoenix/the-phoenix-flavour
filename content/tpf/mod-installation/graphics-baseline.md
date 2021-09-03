@@ -26,6 +26,12 @@ description: >
   * Desync Birds of Prey
   * ~~Holy Cow~~
 
+##### [DynDOLOD Bright LOD Waterfall Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37956?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DynDOLOD Bright LOD Waterfall Fix
+
 ##### [Better DynDOLOD Red Mountain Plume](https://www.nexusmods.com/skyrimspecialedition/mods/43863?tab=files)
 
 #### Download Instructions
@@ -67,12 +73,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Smim - Quality Addon
-
-##### [SMIM Whiterun Bench](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 2K SMIM Whiterun Bench
 
 ##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
 

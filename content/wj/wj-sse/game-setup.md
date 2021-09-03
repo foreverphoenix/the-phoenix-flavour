@@ -17,6 +17,8 @@ Please refer to the documentation of your Wabbajack list before installing it an
 The following lists currently link back to this page:
 
 - [The Phoenix Flavour](/tpf/introduction/)
+- [Slidikins' Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939)
+- [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 ## Requirements
 

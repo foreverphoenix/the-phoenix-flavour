@@ -269,15 +269,3 @@ In order to do so, we will create a new mod folder, set up the correct structure
 #### FOMOD Instructions
 
 - **Colors and Resolutions:** Bright Version 2K
-
-##### [Pilgrim’s Delight - High Hrothgar Shrine Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/3273?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Pilgrim’s Delight
-
-##### [Skyrim 3D High Hrothgar Steps](https://www.nexusmods.com/skyrimspecialedition/mods/19905?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Skyrim 3D High Hrothgar Steps
