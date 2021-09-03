@@ -6,6 +6,32 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 1.7
+
+> TBD
+
+#### Mod Changes
+
+- Added NPC Drinking Fix
+- Added Atmospheric Animated Menu Replacer (Night Version)
+- Added CC's Vertibirds
+- Added The Nuka Project
+- Added U.S. Covert Operations Manual Revised - Magazine Retexture
+- Added Pipboy UHD - Holotape
+- Added CC's UHD Bloatflies - Reimagined
+- Updated ENBSeries binaries (no version number change)
+- Updated Buffout to 1.24.0
+- Updated Buffout TBB Redistributables to 2021.3
+- Removed Main Menu Music Replacer - Wandering The Foothills
+- Removed U.S. Covert Operations Manual - Magazine Retexture
+- Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
+- Removed CC's UHD Bloatflies
+- Included Library and Subway Tokens HD in the Clutter texture pack
+- Included Globes 2K in the Clutter texture pack
+- Included Wall Worldmap in the Clutter texture pack
+- Included ADs 2X Rez in the Clutter texture pack
+- New separator colours in MO2
+
 ## Release 1.6.3
 
 > 14/08/2021

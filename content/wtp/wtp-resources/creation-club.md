@@ -1,6 +1,6 @@
 ---
 title: "Creation Club"
-weight: 2
+weight: 3
 type: docs
 description: >
   Optional support for some Creation Club content.
