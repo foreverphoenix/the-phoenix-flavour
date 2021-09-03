@@ -20,43 +20,45 @@ description: >
 
 ## The Skyrim Script Extender
 
-If you have any previous modding experience at all, you will likely have heard of the **Skyrim Script Extender** or **SKSE** for short. Of all the mods and tools out there, the Script Extender is one of the most vital ones: It *extends* the scripting capabilities of the engine, allowing mod authors to implement features that would not have been possible before. SKSE is required by many of mods, among them the most complex ones available.
+If you have any previous modding experience at all, you will likely have heard of the **Skyrim Script Extender** or **SKSE** for short. Of all the mods and tools out there, the Script Extender is one of the most vital ones: It *extends* the scripting capabilities of the engine, allowing mod authors to implement features that would not have been possible before. SKSE is required by many mods, among them the most complex ones available.
 
-A popular example of an SKSE-dependant feature is the **Mod Configuration Menu**, or **MCM** for short which is part of the UI overhaul mod **SkyUI**. But there are also a multitude of SKSE-based plugins that, among other things, fix engine-level bugs that could not have been addressed otherwise.
+A popular example of an SKSE-dependant feature is the **Mod Configuration Menu**, or **MCM** for short, which is part of the UI overhaul mod [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). But there are also a multitude of SKSE-based plugins that, among other things, fix engine-level bugs that could not have been addressed otherwise.
 
 ### SKSE and Skyrim Updates
 
 Due to its very nature, the Skyrim Script Extender is **version dependant**. Any version of SKSE will *only* work with the specific version of Skyrim SE it was compiled for. For example, the current version (as of Summer 2021) of SKSE, `2.0.19`, functions only with the latest version of Skyrim SE, `1.5.97.0`.
 
-Unfortunately, Skyrim SE is still being updated occasionally. These patches are almost exclusively to add or update "creations" for the Skyrim SE "Creation Club" (an ingame store for mini DLC largely created by mod authors) and rarely ever changes something about the base game, but they will break SKSE regardless. In the past it has taken anywhere from between a few days to a few weeks for the SKSE team to update for the latest version of Skyrim.
+Unfortunately, Skyrim SE is still being updated occasionally. These patches are almost exclusively to add or update "creations" for the Skyrim SE "Creation Club" (an ingame store for mini DLC) and rarely ever changes something about the base game, but they will break SKSE regardless. In the past it has taken anywhere from between a few days to a few weeks for the SKSE team to update for the latest version of Skyrim.
 
 The issue of version dependancy does not only affect SKSE and the game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a specific version of SKSE to function, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
 
 Until recently, mod authors had to wait for the SKSE team to update whenever Skyrim updated before they could update their own SKSE plugins in turn. Occasionally, authors were not actively modding anymore when a Skyrim patch dropped and were not around to update their mods until weeks later, if at all. Since many mods have closed permissions, nobody else could update their mods for them either. And because SKSE plugins are among the most complex of mods (written in C or C++), there are very few people capable of updating them for a new Skyrim version to begin with.
 
-This was the primary problem with Skyrim SE - until Address Library was released.
+This was the primary problem with Skyrim SE - until the Address Library was released.
 
 ### Address Library
 
-To fix the problem of SKSE and SKSE plugins breaking with every Skyrim update, **meh321** (the author of a number of groundbreaking mods) released [**Address Library**](https://www.nexusmods.com/skyrimspecialedition/mods/32444). It is a modder's resource allowing SKSE plugins to become version independent from SKSE by storing their offsets in a separate database instead. This has all but eliminated the problem of Skyrim updates: Since Address Library was released, the vast majority of SKSE plugins has been updated to utilise the resource and no longer requires a specific version of SKSE.
+To fix the problem of SKSE and SKSE plugins breaking with every Skyrim update, **meh321** (the author of a number of groundbreaking mods) released [**Address Library for SKSE**](https://www.nexusmods.com/skyrimspecialedition/mods/32444). It is a modder's resource allowing SKSE plugins to become version independent from SKSE by storing their offsets in a separate database instead. This has all but eliminated the problem of Skyrim updates: Since Address Library was released, the vast majority of SKSE plugins has been updated to utilise the resource and no longer requires a specific version of SKSE.
 
 ## Update Proofing
 
-While the release of Address Library has all but eliminated the danger of parts of your setup being rendered unplayable due to a Skyrim update, it is still important to make sure your game is not updated automatically when a new patch drops. Otherwise, you may still be unable to play until SKSE is updated for the new version. Fortunately, this is simple to do.
+While the release of Address Library has all but eliminated the danger of parts of your setup being rendered unplayable due to a Skyrim update, it is still important to make sure your game is not updated automatically when a new patch drops. Otherwise, you will still be unable to play until SKSE is updated for the new version.
+
+Fortunately, update-proofing your game is simple:
 
 - In your games library in Steam, right-click **The Elder Scrolls V: Skyrim Special Edition**.
 - Select **Properties** and switch to the **Updates** tab.
 - Make sure **Automatic updates** is set to **Only update this game when I launch it**.
 
-Of course this would still force you to update whenever you attempt to launch the game through its default executables. However, SKSE comes with its own launcher which you must use to launch the game for it to work properly. Launching the game through SKSE will not prompt Steam to update, meaning you can stay on an old version for as long as you desire.
+Of course, this would still force you to update whenever you attempt to launch the game through its default executables. However, SKSE comes with its own launcher (which you must always use to launch the game for it to work properly). Launching the game through SKSE will *not* prompt Steam to update, meaning you can stay on an older version of the game for as long as you desire.
 
 ![Steam Disable Auto Updates](/Pictures/tpf/initial-setup/sse-disable-auto-updates.png)
 
 ### Game Backup
 
-Accidents happen - and rolling back to a previous version of Skyrim if you unintentionally updated to a newer version can be annoying. If you want to be absolutely certain, you can use Steam to create a compressed backup of the current version of the game. This can be done by right-clicking the game, going to Properties >> Local Files >> Backup game files.
+Accidents happen - and rolling back to a previous version of Skyrim if you unintentionally updated to a newer version can be annoying. If you want to be absolutely certain, you can use Steam to create a compressed backup of the current version of the game. This can be done by right-clicking the game and going to **Properties** >> **Local Files** >> **Backup game files**.
 
-I personally only keep manual backups of the executables (SkyrimSE.exe and SkyrimSELauncher.exe). Reverting to them is enough to launch an old version of SKSE when the game updated. However, if a Skyrim patch also affected any of the game files, this may still not be enough (always check the changelog). In that case, you need to restore a full backup of all files.
+I personally only keep manual backups of the executables (**SkyrimSE.exe** and **SkyrimSELauncher.exe**). Reverting to them is enough to launch an old version of SKSE when the game updated. However, if a Skyrim patch also affected any of the game files, this may still not be enough (always check the changelog). In that case, you need to restore a full backup of all files.
 
 ## File Name Extensions
 
@@ -69,7 +71,7 @@ Before we continue, please make sure file name extensions are set to visible in 
 
 ## Root and Data Folder
 
-After so much talk about the Script Extender, we should install it - but we cannot do it through Mod Organizer 2. To understand why SKSE must be installed differently from other mods, we need to talk about the root and data folders.
+After so much talk about the Script Extender, we should install it. However, we cannot do it through Mod Organizer 2. To understand why SKSE must be installed differently from other mods, we need to talk about the root and data folders.
 
 Navigate over to your Skyrim installation, `\Your Steam Library\steamapps\common\Skyrim Special Edition\`. This folder is referred to as the **root folder**. In its current vanilla state, it will look like this:
 
@@ -87,7 +89,7 @@ Mods are, in essence, no different to the base game files, they can consist of p
 
 Mod Organizer 2 and other mod managers exist to manage the contents of the **data folder**. They do not, however, control the **root folder**.
 
-SKSE is not a mod as such. It is a modder's resource and a framework. Almost all parts of SKSE must be installed into the **root folder** which cannot be done through Mod Organizer 2.
+SKSE is not a mod as such. It is a modder's resource and a framework. Almost all parts of SKSE must be installed into the **root folder** which is exactly why it cannot be installed through Mod Organizer 2.
 
 ## Installing SKSE
 
@@ -111,12 +113,12 @@ I personally keep the archives for the Script Extender (past and current version
 
 ### SKSE Loader
 
-Due to its nature, SKSE only functions properly if Skyrim SE is run through its executable, meaning you can no longer click play in Steam or open the game through its launcher. This executable as well as the two SKSE DLLs must be in the same folder as the game executables (your root folder).
+SKSE only functions properly if Skyrim SE is run through its executable, **skse_loader.exe**, meaning you can no longer click play in Steam or open the game through its launcher. This executable as well as the two SKSE DLLs must be in the same folder as the game executables, your **root folder**.
 
 - Open the downloaded archive and double-click the folder inside. There are a number of files and folders inside.
 - Extract **skse64_1_5_97.dll**, **skse64_loader.exe**, and **skse64_steam_loader.dll** into your **root folder**.
 
-The two text files are, as you can tell from the names, the readme and changelog. There is no need to extract
+The two text files are, as you can tell from the names, the readme and changelog. There is no need to extract them into your **root folder** as well.
 
 ![SKSE Root Files](/Pictures/embers/module-1/skse-root-files.png)
 
@@ -126,21 +128,23 @@ If you currently have Mod Organizer 2 open, close it now. Then re-open it. SKSE 
 
 ![SKSE MO2 Executable](/Pictures/embers/module-1/skse-mo2-executable.png)
 
-Going back to the downloaded SKSE archive, you will notice two folders inside: **Data** and **src**. The latter is short for "source", meaning it contains source files as resources for mod authors which we do not need. But the **Data** folder contains scripts which are a required component of SKSE. Theoretically, we could have dropped the **Data** folder containing the scripts into the **root folder** alongside the executable and DLLs where it would have merged with the existing **data folder**. 
+Going back to the downloaded SKSE archive, you will notice two folders inside: **Data** and **src**. The latter is short for "source", meaning it contains the source code as resources for mod authors which we do not need.
+
+The **Data** folder though contains scripts which are a required component of SKSE. Theoretically, we could have dropped the **Data** folder containing the scripts into the **root folder** alongside the executable and DLLs where it would have merged with the existing **data folder**. 
 
 However, those scripts are regular assets belonging into the **data folder** and can therefore be handled by a mod manager instead. The best feature of Mod Organizer 2 is precisely the way it handles mod files: It is time to talk about the virtual file system.
 
 ## Managing Mod Files
 
-As mentioned, mods can consist of various files: They are not always neatly stowed away in BSAs with a matching plugin. A large modded setup may consist of literally hundreds of plugins and thousands of loose files, such as those SKSE scripts. A big part of building a setup is managing those loose files, that is, deciding which files should overwrite.
+As mentioned, mods can consist of various files: They are not always neatly stowed away in BSAs with a matching plugin. A large modded setup may consist of hundreds of plugins and thousands of loose files, such as those SKSE scripts. A big part of building a setup is managing those loose files, that is, deciding which files should overwrite.
 
-If all those loose files are simply dropped into the **data folder**, new files will overwrite existing files with the same name. Although this can be undone, the original file will still be lost once it has been overwritten. Every file conflict must painstakingly be reviewed *before* installing a new mod (each of which may contain hundreds of loose files). Short of creating dedicated Excel tables, it is impossible to track which files belong to which mod.
+If all those loose files are simply dropped into the **data folder**, new files will overwrite existing files with the same name. Although this can be undone, the original file will still be lost once it has been overwritten. Every file conflict must painstakingly be reviewed *before* installing a new mod (each of which may contain hundreds of loose files). Short of creating dedicated Excel tables, it is impossible to keep track of which files belong to which mod.
 
-Nexus Mod Manager was certainly an improvement over dropping files into the **data folder** manually. For mods installed into the **data folder** through its interface, it did track which files belonged to which mod, but it could not remember if you had overwritten any of them. The worst case scenario was that upon uninstalling one mod, you inadvertendly removed parts of a different mod that you had overwritten the first mod with. This means that, ideally, you would need to know the order in which mods should overwrite each other *before* you installed them.
+Nexus Mod Manager was certainly an improvement over dropping files into the **data folder** manually. For mods installed into the **data folder** through its interface, it did track which files belonged to which mod, but it could not remember if you had overwritten any of them. The worst case scenario was that upon uninstalling one mod, you inadvertendly removed parts of a different mod that you had overwritten the first mod with.
 
-Additionally, if you updated a mod and the previous version of it had some files that were removed in the update, you had to know that was the case in the first place and then track those files down to delete them by hand.
+This method of modding meant that, ideally, you would need to know the order in which mods should overwrite each other *before* you installed them. Additionally, if you updated a mod and the previous version of it had some files that were removed in the update, you had to know that was the case in the first place and then track those files down to delete them by hand.
 
-In short: You had chaos on your hands. This chaos was once what everyone had to contend with - until Mod Organizer revolutionised asset management.
+In short: It was absolute chaos. But this chaos was once what everyone had to contend with - until Mod Organizer revolutionised asset management.
 
 ### MO2's Virtual File System
 
@@ -228,21 +232,21 @@ The SKSE INI must be located under `\Data\SKSE\SKSE.ini` so we can use Mod Organ
 
 ### Notepad++
 
-To edit the new INI file, you *can* simply open it through Notepad, which is a default TXT editor pre-installed in Windows. However, I highly recommend installing [**Notepad++**](https://notepad-plus-plus.org/), an open-source, feature-rich alternative. Even for simple text file editing, it is more than worth it, and we will need it again for other INI files later on.
+To edit the new INI file, you *can* simply open it through Notepad, which is a default TXT editor pre-installed in Windows. However, I highly recommend installing [**Notepad++**](https://notepad-plus-plus.org/), an open-source, feature-rich alternative. Even for simple text file editing, it is more than worth it, and we will need it again for other INI, TOML, and JSON files later on.
 
-If you do not have Notepad++ installed yet, I recommend doing it now. Afterwards, you can set it to be the default app to open INI files by following these steps:
+If you do not have Notepad++ installed yet, I recommend installing it now. Afterwards, you can set it to be the default app to open INI files by following these steps:
 
 - Right-click your **SKSE.ini** file and select **Open with** >> **Choose another app**.
 - Choose **Notepad++**, and check the **Always use this app to open .ini files** box at the bottom.
 - Click **OK** to confirm.
 
-> In Embers, all pictures of INIs not edited through Mod Organizer 2 will show Notepad++.
+> In **Embers**, all pictures of INIs not edited through Mod Organizer 2 will show Notepad++.
 
 ![Notepad++ Set Default](/Pictures/embers/module-1/notepadpp-set-default.png)
 
 ### INI Edits for SKSE SE
 
-- Open **SKSE.ini** with your preferred text editor (Notepad++ in my case).
+- Open **SKSE.ini** with your preferred text editor (e.g. Notepad++).
 - Copy and paste the following into the empty file:
 
 ```
@@ -253,11 +257,11 @@ iTintTextureResolution=2048
 ClearInvalidRegistrations=1
 ```
 
-> You can set the texture resolution for face tints to any resolution you like, although 2048 (2K) should be perfect for most people. Anyone looking to primarily take close-up screenshots rather than play the game can increaase the resolution to 4096 (4K). Keep in mind that you will also have to install 4K resolution retextures for tint masks later on for this setting to work.
+> You can set the texture resolution for face tints to any resolution you like, although 2048 (2K) should be perfect for most people. Anyone looking to primarily take close-up screenshots rather than play the game can potentially increase the resolution to 4096 (4K). Keep in mind that you will also have to install higher resolution retextures for tint masks later on for this setting to make a difference.
 
 - Hit **CTRL+S** to save your edits and close the file.
 - Back in Mod Organizer 2, press F5 to refresh the UI.
-- SKSE INI will appear in your mod order (left pane).
+- **SKSE INI** will appear in your mod order (left pane).
 - Check the new mod to enable it.
 
 ### Other SKSE INI Settings
@@ -303,9 +307,13 @@ This will now download the file through Mod Organizer 2 into the downloads folde
  
 ## MO2 Interface Adjustments
 
-Before we conclude this lesson, let us clean up Mod Organizer 2 a bit. We have installed our first three mods which now show up in the left pane, the **mod order**. All mods will appear here after they are installed, but they will only be loaded in MO2's virtual data folder if they are checked. Unchecking a mod here is functionally the same thing as uninstalling it entirely.
+Before we conclude this lesson, let's clean up Mod Organizer 2 a bit. We have installed our first three mods which now show up in the left pane, the **mod order**. All mods will appear here after they are installed, but they will only be loaded in MO2's virtual data folder if they are checked. Unchecking a mod here is functionally the same thing as uninstalling it entirely.
 
-However, you may have noticed that nothing new showed up in the **load order** in the right pane of Mod Organizer 2. All we see here are Skyrim's five official master files. This is because Skyrim mods do not always include Skyrim plugins which is the type of file that is sorted in the load order (again, Skyrim plugins are different from SKSE plugins). We will talk about Skyrim plugins very soon but for now the mod order is more relevant to us.
+However, you may have noticed that nothing new showed up in the **load order** in the right pane of Mod Organizer 2. All we see here are Skyrim's five official master files. This is because Skyrim **mods** do not always include Skyrim **plugins** which is the type of file that is sorted in the load order (again, Skyrim plugins are different from SKSE plugins).
+
+**"Plugins" and "mods" are not the same thing and cannot be used interchangeably.** This is a very common misconception. Plugins are potential parts of mods. Some mods achieve their effect exclusively through a plugin or several. Many mods do not include any plugins at all.
+
+We will talk about Skyrim plugins very soon but for now the mod order is more relevant to us.
 
 ## Mod Order Columns
 
@@ -313,7 +321,7 @@ While the left pane is looking rather tame right now, it is easy to become compl
 
 First up, I recommend adjusting the columns at the top of the left pane. Several are already enabled and several more can be added. By clicking any one of the columns you can sort by whatever is displayed in it: For example, clicking the **Mod Name** column will sort all your mods alphabetically. By default the mod order is sorted by **Priority** which is what you want 99% of the time - after all, the point of the left pane is to show you the order in which your mods are loaded.
 
-You can toggle each column separately by right-clicking the any one of them and checking or unchecking the respective boxes.
+You can toggle each column separately by right-clicking any one of them and checking or unchecking the respective boxes.
 
 ![MO2 Column Options](/Pictures/embers/module-1/mo2-column-options.png)
 
@@ -330,7 +338,7 @@ These are the columns that are available:
 - **Priority:** Displays where the mod is loaded in the order. Absolutely essential.
 - **Notes:** Displays any notes in the note header (not the extended notes). Recommended.
 
-Which of these columns you use is entirely up to you. As you become familiar with Mod Organizer 2, you should absolutely customise its interface however seems most sensible to you. Some people prefer adding the version number to the mod name instead of using the dedicated column, some use the Categories column for better sorting and even define custom categories. I personally find it much easier to sort mods by separator than category which we will look at next.
+Which of these columns you use is entirely up to you. As you become familiar with Mod Organizer 2, you should absolutely customise its interface however seems most sensible to you. Some people prefer adding the version number to the mod name instead of using the dedicated column, some use the Categories column for better sorting and even define custom categories. I personally find it much easier to sort mods by separator than category.
 
 For now, please make sure that at least the following columns are enabled:
 
@@ -389,4 +397,4 @@ At this point, your mod order should look something like this:
 
 **Congratulations, you have completed Lesson 2!**
 
-With the proper setup of the Script Extender and all related files, we are now free to install most other mods.
+With the proper setup of the Script Extender and all related files out of the way, we are now free to install most other mods.

@@ -41,7 +41,7 @@ Some of its features include:
 
 ### SKSE64 Preloader
 
-Before we grab the main file, let us install the preloader.
+Before we grab the main file, we should install the preloader:
 
 - From the [**SSE Engine Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 2)** main file (click the **Manual Download** button).
 - Open the downloaded archive and extract all three plugins (DLLs) into your **root folder**.
@@ -65,7 +65,7 @@ Like many other SKSE plugins, SSE Engine Fixes can be customised through a confi
 - In Mod Organizer 2, double-click **SSE Engine Fixes** in your mod order.
 - Switch to the **Text Files** tab.
 
-Configuration files for mods will show up in one of two tabs in Mod Organizer 2: Most have the **INI** file extension and will show up in the **INI Files** tab. While MO2 can also read **TOML** files, they will show up in the **Text Files** tab instead. Functionally, this makes no difference, they can be viewed and edited through the MO2 UI, but it may be confusing at first.
+Configuration files for mods will show up in one of two tabs in Mod Organizer 2: Most have the **INI** file extension and will show up in the **INI Files** tab. While MO2 can also read **TOML** files, those will show up in the **Text Files** tab instead. Functionally, this makes no difference, they can be viewed and edited through the MO2 UI just the same, but it may be confusing at first.
 
 - Select the `SKSE\Plugins\EngineFixes.toml` in the list on the left. This is the primary config file for SSE Engine Fixes.
 
@@ -75,13 +75,13 @@ Here you can see a long list of various fixes and tweaks that are part of the mo
 
 > **You do not have to make any of these changes.** They are meant as an example. But remember the notes feature in MO2 and try to get into the habit of leaving notes for yourself when you change something. It is easy to forget small tweaks like these.
 
-There are two tweaks that I do personally enable:
+Here are two tweaks that I personally enable:
 
 **DisableChargenPrecache** prevents slowdowns and crashes in the character creation menu in heavily modded setups. This fix is already included in [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080), a very popular UI overhaul of the character creation menu which is also required for the number one skeleton replacer. Almost everyone uses RaceMenu so they do not need to use the precache killer in Engine Fixes. But since I skip RaceMenu in my personal setup, I do enable it.
 
 **SleepWaitTime** speeds up the wait menu. When you press T to wait in vanilla, the hours tick down slowly, and especially for mod testing this can sometimes be a little frustrating.
 
-- In the `[Patches]` section, set `DisableChargenPrecache =` and `SleepWaitTime = ` to `true`.
+- In the `[Patches]` section, set `DisableChargenPrecache =` and `SleepWaitTime =` to `true`.
 - Press **CTRL + S** to save your changes.
 
 This is a pretty minor change and of course I can revert it anytime. However, I am forgetful so I also switch to the **Notes** tab in MO2 and leave a quick reminder for myself (see screenshot below). If in the future I should install RaceMenu after all, I will (hopefully) check my notes on SSE Engine Fixes and disable the precache killer again.
@@ -92,9 +92,9 @@ I put the note into the line at the top which is what is displayed in the **Note
 
 ## .NET Script Framework
 
-**.NET Script Framework** (NSF) is another framework and modder's resource, not unlike the Script Extender. While it is a dependency for various other mods, it also brings one of the most important features for any setup to the table: **crash logs**.
+**.NET Script Framework** is another framework and modder's resource, not unlike the Script Extender. While it is a dependency for various other mods, it also brings one of the most important features for any setup to the table: **crash logs**.
 
-For the longest time, Skyrim modders used to enable the debugging functionality of the scripting engine, Papyrus. Unfortunately, the Papyrus logs were difficult to read and rarely helpful in diagnosing a crash which they were never meant for to begin with. NSF crash logs are admittedly not always easy to read, either, but they usually include relevant information related to the cause of the crash that are genuinely helpful in troubleshooting and fixing it.
+For the longest time, Skyrim modders used to enable the debugging functionality of the scripting engine, Papyrus. Unfortunately, the Papyrus logs were difficult to read and rarely helpful in diagnosing a crash which they were never meant for to begin with. This mod's crash logs are admittedly not always easy to read either, but they usually include relevant information related to the cause of the crash that are genuinely helpful in troubleshooting and fixing it.
 
 - Open the Nexus page for [**.NET Script Framework**](https://www.nexusmods.com/skyrimspecialedition/mods/21294) and download the latest main file through MO2.
 - Click **Download** in the mod requirements window.
@@ -112,11 +112,11 @@ It also enables the game to run (mostly) without issues at framerate exceeding 6
 
 > It should be noted that some minor bugs may still occur with increasing frequency at higher framerates. These include small physics bugs, such as objects moving for no reason or "spazzing out" and creatures falling from the sky.
 
-While this is not the time nor the place to talk about performance and hardware, you should be aware that modded Skyrim is unforgiving, particularly on high resolutions. Reaching stable 60FPS at resolutions above 1080p but especially at 4K with many visual mods and an ENB preset will require a very solid modern PC.
+While this is not the time to talk about performance and hardware, you should be aware that modded Skyrim is unforgiving, particularly on high resolutions. Reaching stable 60FPS at resolutions above 1080p but especially at 4K with many visual mods and an ENB preset will require a very solid modern PC.
 
-For the vast majority of users, **capping the frame rate at 60FPS or 75FPS is appropriate**, both to keep physics strangeness to a minimum as well as to ensure that the framerate does not fluctuate too much.
+For the vast majority of users, **capping the frame rate at 60FPS or 72FPS is appropriate**, both to keep physics strangeness to a minimum as well as to ensure that the framerate does not fluctuate too much.
 
-> Since we already installed several mods, the instructions (download, install, activate) will be briefer from now on.
+(Since we already installed several mods, the instructions (download, install, activate) will be briefer from now on.)
 
 - Download and install the latest main file of [**SSE Display Tweaks**](https://www.nexusmods.com/skyrimspecialedition/mods/34705).
 
@@ -141,13 +141,13 @@ You can also use SSE Display Tweaks to set your resolution:
 
 > Do not uncomment the ResolutionScale line. It enables down-scaling which is a great way to improve performance, but we will discuss it more indepth later on.
 
-If you would like to change the framerate cap (default is 240FPS), you can do so in the SSEDisplayTweaks.ini as well.  Once again, I recommend **60** or **75** for the aforementioned reasons.
+If you would like to change the framerate cap (default is 240FPS), you can do so in the SSEDisplayTweaks.ini as well.  Once again, I recommend **60** or **72** for the aforementioned reasons.
 
 - Scroll down to find the `FramerateLimit=` line and change the value to your desired framerate cap.
 
-After making all necessary changes, press **CTRL+S** to save them.
+After making all desired changes, press **CTRL+S** to save them.
 
-Finally, I added `Enabled borderless fullscreen. Capped framerate at 60FPS.` in the mod's **Notes** tab. Again, make heavy use of that feature in Mod Organizer 2. With all the changes and edits a custom setup has, you will not be able to remember everything by heart, and, thanks to the **Notes** tab, you will not have to.
+Finally, I added `Enabled borderless fullscreen. Capped framerate at 60FPS.` in the mod's **Notes** tab. Always make heavy use of that feature in Mod Organizer 2. With all the changes and edits a custom setup has, you will not be able to remember everything by heart, and, thanks to the **Notes** tab, you will not have to.
 
 ![Display Tweaks INI](/Pictures/embers/module-1/display-tweaks-ini.png)
 
@@ -159,19 +159,21 @@ In addition, we are going to install four more mods to serve as examples during 
 
 ### Unofficial Skyrim Special Edition Patch
 
-What SSE Engine Fixes is for engine bugs, the **Unofficial Skyrim Special Edition Patch** is for the rest of the game. Usually referred to as **USSEP**, it fixes a ton of various issues and serves as the base for most modded setups. Some of its changes have been controversial, but considering how deeply embedded the USSEP is in the general modding scene with countless mods directly requiring it, installing it is highly recommended.
+What SSE Engine Fixes is for engine bugs, the **Unofficial Skyrim Special Edition Patch** is for the rest of the game. Usually shortened to **USSEP**, it fixes a ton of various issues and serves as the base for most modded setups. Some of its changes have been controversial, but considering how deeply embedded the USSEP is in the general modding scene with countless mods directly requiring it, installing it is highly recommended.
 
 - Download and install the latest main file of the [**Unofficial Skyrim Special Edition Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/266).
 
-After installing and activating the USSEP, you will notice that it is different from the other mods we installed so far. In a way, it is the first "regular" mod that we installed: As you can see in the Contents column in Mod Organizer 2, it contains multiple file types, including a plugin. We will take a closer look at these files very soon, but for now there are a few more mods to be installed first.
+After installing and activating the USSEP, you will notice that it is different from the other mods we installed so far. In a way, it is the first "regular" mod that we installed: As you can see in the Contents column in Mod Organizer 2, it contains multiple file types, including a plugin. This plugin should now also show up in the right pane, the load order. We will take a closer look at all of the USSEP's files very soon, but for now there are a few more mods to be installed first.
 
 ### Skyrim Landscape and Water Fixes
 
-Many landscape bugs and oddities that remain unaffected by the USSEP have been addressed in **Skyrim Landscape and Water Fixes** (SLaWF). Interesting for us is also that the mod is contained in a **FOMOD** installer. The acronym hails from the Fallout New Vegas days and stands for **F**all**o**ut **Mod** Archive. What it does is allow for a modular installation of any mods which may include picking or skipping optional files, or choosing between various alternatives. Mods with FOMOD installers are rather common.
+Many landscape bugs and oddities that remain unaffected by the USSEP have been addressed in **Skyrim Landscape and Water Fixes** (SLaWF). Interesting for us is also that the mod is contained in a **FOMOD** installer. The acronym hails from the Fallout New Vegas days and stands for **F**all**o**ut **Mod** Archive. It allows for a modular installation which may include picking or skipping optional files, or choosing between various alternatives. Mods with FOMOD installers are common.
 
 - Download the latest main file of the [**Skyrim Landscape and Water Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/26138).
 
-Upon double-clicking the mod in the **Downloads** pane in Mod Organizer 2, the FOMOD installer will open. As you can see at the top, the main files are installed automatically (you cannot uncheck them). In addition, patches are offered for various mods, none of which we have installed right now, so you do not have to check any of them. There is a fix for a specific file that by default will install a version for vanilla which we also do not need to change. And finally there are some optional fixes which were separated from the main file for compatibility reasons.
+Upon double-clicking the mod in the **Downloads** pane in Mod Organizer 2, the FOMOD installer will open. As you can see at the top, the core files are installed automatically (you cannot uncheck them). In addition, patches are offered for various mods, none of which we have installed right now, so you do not have to check any of them. There is a fix for a specific file (a mesh with a gap on one side) that by default will install a version for vanilla which we also do not need to change.
+
+And finally there are some optional fixes which were separated from the main file for compatibility reasons. For now I recommend you check the **Missing Lights Fix** as well (although you may need to remove it down the line if you choose to install ELFX or Tamriel Master Lights).
 
 Since we do not need any of the compatibility options, we can simply click **Install** now to install the mod.
 
@@ -179,9 +181,9 @@ Since we do not need any of the compatibility options, we can simply click **Ins
 
 ### More Informative Console
 
-We already had a first look at the console in the previous step when we verified that SKSE was installed correctly. While it is already useful for mod testing in its vanilla state, **More Informative Console** is an invaluable extension of functionality, turning the console into one of the best tools to easily track down various issues. 
+We already had a first look at the console in the previous step when we verified that SKSE was installed correctly. While it is already useful for mod testing in its vanilla state, **More Informative Console** is a truly invaluable extension of its functionality, turning the console into the best tools to easily track down various issues. 
 
-One of the best features of the mod is the ability to click any object ingame to find out its unique **Form ID**. We will talk more about Form IDs later on, but for now imagine them as "ID cards" of whatever rock, or weapon, or NPC you clicked on. Knowing an object's Form ID makes it infinitely easier to find it in the game files if there is something that needs to be fixed or adjusted, particularly since the mod will also tell you where the object was last edited.
+One of the great features of the mod is the ability to click any object ingame to find out its unique **Form ID**. We will talk more about Form IDs later on, but for now imagine them as "ID cards" of whatever rock, or weapon, or NPC you clicked on. Knowing an object's Form ID makes it infinitely easier to find it in the game files if there is something that needs to be fixed or adjusted, particularly since More Informative Console will also tell you where the object was last edited.
 
 The mod also adds a ton of additional information that can be viewed directly ingame as well as new hotkeys for easier navigation of the console.
 
@@ -191,7 +193,7 @@ The mod also adds a ton of additional information that can be viewed directly in
 
 As one of the most popular Skyrim mods of all time, **SkyUI** is a staple in almost everyone's load order. It changes Skyrim's very simplistic, controller-optimised interface into a useful and modern-looking alternative that is far better suited for mouse and keyboard (but still works perfectly with a controller).
 
-In addition to overhauling the interface, SkyUI also adds the **Mod Configuration Menu** already mentioned in the previous lesson. The Mod Configuration Menu, or **MCM** for short, is a new option in the Pause menu through which mods with MCM support can be customised. Before SkyUI implemented this option, mods would offer ingame customisation through spells, powers, and other workarounds which was intrusive and limited.
+In addition to overhauling the interface, SkyUI also adds the **Mod Configuration Menu** already mentioned in the previous lesson. The Mod Configuration Menu, or **MCM** for short, is a new option in the Pause menu through which mods with MCM support can be customised. Before SkyUI implemented this option, mods would offer ingame customisation through spells, powers, and other workarounds which was intrusive and inconvenient.
 
 It is because of the Mod Configuration Menus that SkyUI must be considered an essential mod.
 
@@ -205,9 +207,11 @@ Several mod installations later, we have the beginning of a mod order in the lef
 
 ![Lesson 3 Plugins](/Pictures/embers/module-1/lesson-three-plugins.png)
 
-### ESM and ESP
+> If they are not automatically arranged this way, you can drag them around to match the image.
 
-Curiously, two of the three new plugins are displayed in ***bold italics*** while the third is not.
+### ESM vs ESP
+
+Curiously, two of the four new plugins are displayed in ***bold italics*** while the others are not.
 
 This is how Mod Organizer 2 distinguishes between plugin types in the load order. If you look at the official master files (**Skyrim.esm**, etc) they are greyed out because they cannot be disabled, but they are also in ***bold italics***. That is what **ESM** (Elder Scrolls Master) plugins look like. They are different from **ESP** (Elder Scrolls Plugin) files in multiple ways.
 
@@ -237,11 +241,13 @@ Alternatively, you can hover over the **Landscape and Water Fixes.esp** which ha
 
 Since the SLAWF plugin requires the USSEP plugin directly, we know that it must be placed *below* it in the load order as plugins are always placed below their masters. Be sure to re-enable the USSEP plugin and to place it above the SLAWF plugin before we proceed with the next step.
 
+> It should be noted that Skyrim SE, unlike Skyrim LE, does not *always* immediately crash on launch when a master is missing. However, a missing master error must still be fixed.
+
 ## The Unwanted Effects Book
 
 Among vanilla Skyrim's many bugs are certain active effects, applied by spells for instance, that may get "stuck" on the player after they are supposed to expire. The USSEP fixes these effects, but it also adds an option for the player to rid themselves of any leftovers. Initially, this could be accessed through a second shrine in the Temple of Kynareth in Whiterun, but was later moved to a book added to the player's inventory upon loading the game. Following complaints about a lack of immersion, a compromise was finally reached by placing the book in the Temple of Kynareth.
 
-Using books or powers in order to access or customise a mod's functionality was rather common before the Script Extender and SkyUI came along, although nowadays such options have largely been moved to dedicated mod configuration menus. With the release of Skyrim SE and the introduction of mods on consoles, many mod authors had to revert to these old workarounds as it is impossible to install files outside the Data folder on consoles, and thus impossible to install the Skyrim Script Extender. The USSEP team does not want to move the option to an MCM or make it available only through the (ingame) console as that would exclude XBOX and Playstation players.
+Using books or powers in order to access or customise a mod's functionality was rather common before the Script Extender and SkyUI came along, although nowadays such options have largely been moved to dedicated mod configuration menus. With the release of Skyrim SE and the introduction of mods on consoles, many mod authors had to revert to these old workarounds as it is impossible to install files outside the Data folder on consoles, and thus impossible to install the Skyrim Script Extender. The USSEP team does not want to move the option to an MCM or make it available only through the (ingame) console as that would not work for the XBOX and Playstation ports of the mod.
 
 However, for us PC players, the book is entirely redundant. If you ever find yourself stuck with an active effect, you can get the book through the console very easily, so there is no need to have it lying around in the game world or lugging it around with you. Does it really break immersion? Some players are vehemently opposed to having any sort mod config items in the world. Others probably never noticed the book in the first place.
 
@@ -278,9 +284,9 @@ Everything we could possibly need to know we can see at a glance thanks to the m
 
 ## About Form IDs
 
-Every object, NPC, magic effect, music track, etc, in the game is defined in a plugin. For vanilla Skyrim, that is what the official master files do: Skyrim.esm, Update.esm, Dawnguard.esm, HearthFires.esm, and Dragonborn.esm. Each of these plugins contains thousands of **records**, one for each of these objects, NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
+Every object, NPC, magic effect, music track, etc, in the game is defined in a unique *record* which is contained in a *plugin*. For vanilla Skyrim, that is what the official master files do: Each of the five plugins contains thousands of **records**, one for every *thing* in the game, for NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
 
-Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F). The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: They will always differ in the first two digits, the Index.
+Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F). The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: No two plugins can be loaded in the same spot in the load order so they will always have a different index.
 
 ### Base and Ref Form ID
 
@@ -290,7 +296,7 @@ However, if we check the info we grabbed through More Informative Console, we wi
 
 The **Base Form ID** is `050B1985` and describes the book itself: It defines which model it uses, what its contents are, and, in this case, what script is attached to it. From the first two digits of the Form ID, you can tell that it is defined in the **Unofficial Skyrim Special Edition Patch.esp** plugin. If you check the load order in Mod Organizer 2, the mod index of the USSEP plugin is **05** which is identical to the index of the book's Base Form ID.
 
-The **Ref Form ID** is `0190001B` and describes the book's placement: That it is located in the `WhiterunTempleofKynareth` cell, how it is placed, and so on. The reason a second Form ID is needed is because you may have various copies of the same object distributed throughout the game. While the book is unique right now, a Steel Sword would not be. There are dozens of hand-placed Steel Swords in Skyrim. Each of them has a unique REFR (reference) record with its unique Ref Form ID: They *refer* to the original item defined in the record with the Base Form ID.
+The **Ref Form ID** is `0190001B` and describes the book's placement: That it is located in the `WhiterunTempleofKynareth` cell, that it is enabled, how it is placed, and so on. The reason a second Form ID is needed is because you may have various copies of the same object distributed throughout the game. While the book is unique right now, a Steel Sword would not be. There are dozens of hand-placed Steel Swords in Skyrim. Each of them has a unique REFR (reference) record with its unique Ref Form ID: They *refer* to the original item defined in the record with the Base Form ID.
 
 **In short:** `050B1985` is the USSEP Unwanted Effects Remover book and `0190001B` is the copy of it placed in the Temple of Kynareth.
 
