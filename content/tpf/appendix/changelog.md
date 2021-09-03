@@ -8,7 +8,7 @@ description: >
 
 ## Release 4.7.5
 
-> 01/09/2021
+> 03/09/2021
 
 This update consists of many smaller changes and additions largely related to graphics that accumulated while I was working on TPF-X. This also affected NPCs (I added a different makeup retexture) so facegen was regenerated.
 
@@ -30,6 +30,7 @@ Mathy's meshes from [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedi
 
 #### Mod Installation
 
+- **Essential Mods:** Updated download instructions for .NET Script Framework (file name updated).
 - **Essential Mods:** Added instructions to delete a mesh from Skyrim Particle Patch.
 - **Graphics Baseline:** Added DynDOLOD Bright LOD Waterfall Fix.
 - **Graphics Baseline:** Removed 2K SMIM Whiterun Bench.
@@ -98,12 +99,16 @@ Mathy's meshes from [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedi
 #### Conflict Resolution Patch
 
 - Fixed conflicts between Unique Skulls HD and WACCF
-- You can no longer loot a circlet from Potema's remains
+- Remove the lootable Potema's Crown from Unique Skulls HD because it doesn't work well with all races / hair styles
 - Fixed conflicts between Skeleton Replacer HD and WACCF
 - Re-added Non-Playable flag to a version of Miraak's Robes that are not intended for the player
+- Disabled the floating pot in High Hrothgar
 
 #### Wabbajack
 
+- Updated ENBSeries binaries (no version change)
+- Updated NET Script Framework to 16
+- Updated Landscape Fixes for Grass Mods to 4.9
 - Updated Better Windhelm Ground Meshes to 1.3.2
 - Updated WiZkiD - Hall of the Dead Stained Glass Windows to 1.5
 - Updated Feminine Khajiit Textures to 3.0
