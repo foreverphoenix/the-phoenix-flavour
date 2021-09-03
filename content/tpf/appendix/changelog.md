@@ -28,6 +28,14 @@ In short, the mod is a huge improvement for TPF.
 
 Mathy's meshes from [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039) are as usual extremely high quality. However, I found that I preferred the more vanilla-like urns and more colourful pots from [Rudy HQ - Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/19365) (which also come with high quality meshes) as well as [Remiros' Dunmer Urns](https://www.nexusmods.com/skyrimspecialedition/mods/50767) (which were already in TPF).
 
+#### Update Instructions
+
+**This update is save safe.**
+
+- Update ENBSeries binaries
+- Update TPF Facegen
+- Regenerate TexGen and DynDOLOD
+
 #### Mod Installation
 
 - **Essential Mods:** Updated download instructions for .NET Script Framework (file name updated).
