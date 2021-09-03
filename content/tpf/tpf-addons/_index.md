@@ -111,7 +111,7 @@ As the most expansive addon to date, Dragon's Edition features a ton of new cont
 - New companions such as Inigo, Kaidan, Gladys, and Interesting NPCs
 - High Poly Head, KS Hairdos Lite, HDT Physics, various NPC overhauls
 - ... and many, many more
-- [Full list of mods here](https://loadorderlibrary.com/lists/the-phoenix-flavour-extended)
+- [Full list of mods here](https://loadorderlibrary.com/lists/the-phoenix-flavour-dragons-edition)
 
 ##### [GRIZZY'S CHOICE](https://www.nexusmods.com/skyrimspecialedition/mods/54281) by GRIZZY
 
