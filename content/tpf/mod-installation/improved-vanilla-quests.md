@@ -1,6 +1,6 @@
 ---
 title: "Improved Vanilla Quests"
-weight: 31
+weight: 32
 type: docs
 description: >
   Improvements and expansions for base game quests.
@@ -44,11 +44,16 @@ description: >
 
 > The "missing data" is not an issue. MO2 does not recognise the JSON file as a functioning mod but it does work as intended and automatically applies.
 
-##### [Miscellaneous Quests … As Miscellaneous Quests (MQM)](https://www.nexusmods.com/skyrimspecialedition/mods/11626?tab=files)
+##### [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Miscellaneous Quests…as Miscellaneous Quests
+- **Main Files:** QuestsAreInSkyrim_USSEP_1_2_reupload
+
+#### Additional Instructions
+
+- ESL-ify **QuestsAreInSkyrimUSSEP.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 
 ##### [A Lovely Letter - Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916?tab=files)
 
@@ -79,7 +84,7 @@ description: >
 
 #### Additional Instructions
 
-- Resave **Finding_Derkeethus.esp** in the Creation Kit.
+- Resave **Finding_Derkeethus.esp** in the Creation Kit ([instructions](/tpf/guide-resources/basic-instructions/#converting-plugins)).
 
 > While the plugin has the correct Form Version, it contains a duplicate form ID which can cause issues. Resaving fixes that.
 
@@ -136,6 +141,57 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Improved College Entry
+
+##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Misc. College of Winterhold Tweaks
+
+#### FOMOD Instructions
+
+Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
+
+* **Arniel's Appeals:**
+  * Arniel's Appeals
+* **The Augur's Admonishment:**
+  * None
+* **A College Coup:**
+  * A College Coup
+  * ~~Obscure's College of Winterhold Add-on~~
+  * Immersive College NPCs Add-on
+  * ~~Immersive College NPCs Add-on - version 1.0.4~~
+  * ~~Interesting NPCs Add-on~~
+* **Dead Dunmer Delivery:**
+  * Dead Dunmer Delivery
+* **Mage-light Maintenance**
+  * ~~Mage-light Maintenance~~
+* **Governable Gatekeeper:**
+  * Governable Gatekeeper
+* **Expedite the Expirate:**
+  * Expedite the Expirate
+* **Unflappable Faculty:**
+  * Unflappable Faculty
+* **Friendly Faralda:**
+  * ~~Friendly Faralda~~
+* **Scheduled Savos:**
+  * Scheduled Savos
+* **A Wizard's Walk:**
+  * A Wizard's Walk
+* **Erratum Etc.:**
+  * Erratum Etc.
+* **The Early Elementalist:**
+  * None
+* **Inescapable Insights:**
+  * Quests are in Skyrim USSEP Version
+* **Readme:**
+  * *select nothing*
+
+##### [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Choose Your Own Arch-Mage
 
 ##### [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815?tab=files)
 
@@ -194,8 +250,8 @@ description: >
 
 #### Download instructions
 
-- **Main Files:** ANDR Tweaks 02 - Harder Mara Quests
-- **Main Files:** ANDR Tweaks 06 - No Easy Bloodkin
+- **Main Files:** Andrealphus' Harder Quests - Harder Mara Quests
+- **Main Files:** Andrealphus' Harder Quests - No Easy Bloodkin
 
 > Note that the amount of pamphlets required by the Mara quest will be reverted to vanilla by the guide's CRP.
 

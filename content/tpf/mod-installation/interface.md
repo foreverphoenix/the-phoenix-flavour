@@ -26,7 +26,7 @@ description: >
 
 #### FOMOD Instructions
 
-- **Options:** 2b - Save-MCM-etc, MCM renamed
+- **Options:** 1b - Save-Load-etc, MCM renamed
 
 > While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
 
@@ -101,8 +101,8 @@ description: >
 #### Additional Instructions
 
 - Double-click **moreHUD** in your mod order.
-- Switch to the **Filetree** tab.
-- Rename AHZmoreHUD.**esl** to AHZmoreHUD.**esp**.
+- Switch to the **Filetree** tab and rename the plugin:
+  - AHZmoreHUD.**esl** >> AHZmoreHUD.**esp** 
 
 > This is faster than ESL-ifying the ESP version.
 
@@ -137,6 +137,10 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 #### Download Instructions
 
 - **Main Files:** SIDT - Words Only
+
+#### Additional Instructions
+
+- ESL-ify **SIDT - Special Edition.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files)
 
@@ -203,12 +207,6 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 - **Main Files:** Type 1
 
-##### [Dawnguard Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/20931?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Dawnguard Map Markers
-
 ##### [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files)
 
 #### Download Instructions
@@ -240,33 +238,65 @@ Installing the preset won't prevent you from being able to configure the AMOT se
 
 ![Sovngarde Consolas](/Pictures/tpf-x/installation/sovngarde-consolas.png)
 
-##### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680?tab=files)
+##### [Main Menu Design Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/30810?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ReCleanedMenus
+- **Main Files:** Main Menu Design Replacer (clean)
 
-##### [DRELDYN's Original Main Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6992?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** DRELDYN's Original Main Menu Overhaul
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  - `music`
-
-> I prefer the original main menu track, Song of the Dragonborn.
-
-##### [Loading Screen Smoke Removed](https://www.nexusmods.com/skyrimspecialedition/mods/4634?tab=files)
+##### [Yet Another Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/53798?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Loading Screen Smoke Removed v1.0
+- **Main Files:** Yet Another Main Menu Replacer
 
-##### [KenMOD - Time on Loading Screen](https://www.nexusmods.com/skyrim/mods/98?tab=files)
+##### [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Time on loading v5
+- **Main Files:** Menu and Load Smoke Removed for ENB
+
+##### [KenMOD - Time On Loading Screen](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf)
+
+*This mod is now available only on Github. Because its installation is a little more involved, you can skip it if you like. All it does is add a tiny 24h clock to loading screens: [Preview here](https://raw.githubusercontent.com/KenneyNL/Skyrim-Mods/main/Time%20On%20Loading%20Screen/PreviewB.png).*
+
+- Download the [**loadingmenu.swf**](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf) file from KenneyNL's Github (click the **Download** button on the top right).
+
+![Download KenMOD Time](/Pictures/tpf/mod-installation/kenmod-time-download.png)
+
+- Move the downloaded file to your **temp** folder.
+- Create a new folder called **Interface** and move the **loadingmenu.swf** file inside.
+- Right-click the **Interface** folder and select **Add to archive**.
+- Rename the archive to **KenMOD - Time On Loading Screen**.
+- Move the new mod to `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
+- In MO2, press F5 to refresh and the mod will appear in the **Downloads** tab.
+- From there, you can install it as usual.
+
+#### Configuration File
+
+- Right-click **KenMOD - Time On Loading Screen** in your mod order and select **Open in Explorer**.
+- Open the **interface** folder. Right-click inside and select **New** >> **Text Document**.
+- Name the file **loadingmenu_settings.txt** and open it.
+- Paste the following inside:
+
+```
+// Clock settings (1 = true, 0 = false)
+&showAnalog=1&
+&showTimeString=1&
+&twelveHourClock=0&
+
+// Misc settings
+&showLevelProgressPercentage=0&
+
+// Static background (hides 3D model and hints, for potential spoilers)
+&showStaticBackground=0&
+
+// Turn on/off modules
+&showHints=1&
+&showLevelProgress=1&
+&showTime=1&
+```
+
+- Save your changes and close the text file.
+
+> If you prefer a 12h clock, feel free to set the fourth line to `&twelveHourClock=1&`.

@@ -42,20 +42,74 @@ description: >
 
 * **Main Files** - No Floating Fog
 
-##### [Smoking Torches and Candles (STAC)](https://www.nexusmods.com/skyrimspecialedition/mods/8607?tab=files)
+##### [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Smoking Torches and Candles
+* **Main Files:** Lanterns Of Skyrim II - FOMOD
 
 #### FOMOD Instructions
 
-* **Main Component:**
-  * Smoking Torches (Subtle)
-* **Smoking Candles:**
-  * Optimized
-* **Plugin Selection:**
-  * ESPFE
+* **Addons:**
+  * ~~LoS II - Lantern Workers Addon~~
+  * ~~LoS II - Tamriel Master Lights (No Cities) Addon~~
+  * ~~LoS II - Tamriel Master Lights (Cities version) Addon~~
+* **Main Patches:**
+  * LoS II - SMIM patch
+* **Patches (A):**
+  * ~~LoS II - Beginner’s Shack in Riverwood patch~~
+  * ~~LoS II - Blackthorn Manor patch~~
+  * ~~LoS II - Bruma patch~~
+  * ~~LoS II - Camp Argentum patch~~
+  * ~~LoS II - Camp Varglya patch~~
+  * ~~LoS II - City Entrances Overhaul - Windhelm patch~~
+  * ~~LoS II - Convenient Bridges -Beta- patch~~
+  * ~~LoS II - Eli’s Breezehome patch~~
+  * ~~LoS II - Enhanced Solitude SSE patch~~
+  * ~~LoS II - JK's Riverwood patch~~
+  * ~~LoS II - JK’s Skyrim patch~~
+  * ~~LoS II - Northern Marsh Bridges patch~~
+  * ~~LoS II - Old Hroldan Ruins SE patch~~
+  * ~~LoS II - Overstead SE patch~~
+  * ~~LoS II - Solitude Expansion patch~~
+* **Patches (B):**
+  * ~~LoS II - Books of Skyrim patch~~
+  * ~~LoS II - Cutting Room Floor patch~~
+  * ~~LoS II - Expanded Towns and Cities (SSE) patch~~
+  * ~~LoS II - Hunters Cabin of Riverwood SE patch~~
+  * ~~LoS II - Legacy of the Dragonborn V5 patch~~
+  * ~~LoS II - Midwood Isle patch~~
+  * ~~LoS II - Run of the Mill Inn patch~~
+  * ~~LoS II - Settlements Expanded patch~~
+  * ~~LoS II - Skyrim Bridges patch~~
+  * ~~LoS II - Solitude Docks patch~~
+  * ~~LoS II - Weathered Road Signs patch~~
+* **Patches (C):**
+  * ~~LoS II - Darkwater Crossing patch~~
+  * ~~LoS II - Dragon Bridge patch~~
+  * ~~LoS II - Falkreath patch~~
+  * ~~LoS II - Helarchen Creek patch~~
+  * ~~LoS II - Ivarstead patch~~
+  * ~~LoS II - Karthwasten patch~~
+  * ~~LoS II - Kynesgrove patch~~
+  * ~~LoS II - Oakwood patch~~
+  * ~~LoS II - Provincial Courier Service patch~~
+  * ~~LoS II - Shor’s Stone patch~~
+  * ~~LoS II - Soljund’s Sinkhole patch~~
+  * ~~LoS II - Telengard patch~~
+  * ~~LoS II - The Fall of Granite Hill patch~~
+  * ~~LoS II - Whistling Mine patch~~
+
+##### [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Medieval Torch
+
+#### FOMOD Instructions
+
+- **Smoke Effect and Wield:** No Smoke
+- **Style:** Version 1
 
 ##### [Embers HD](https://www.nexusmods.com/skyrimspecialedition/mods/14368?tab=files)
 
@@ -112,7 +166,7 @@ description: >
 * **Optional Patches:**
   * KD - Realistic Fireplaces + Ember HD
 * **Optional Patches:**
-  * Smoking Torches and Candles
+  * ~~Smoking Torches and Candles~~
 * **Optional Plugin:**
   * Flame Meshes Patch (ESL-Tagged)
 
@@ -148,3 +202,9 @@ description: >
 #### Download Instructions
 
 * **Optional Files:** KD - Realistic Fireplaces - Charred Logs 2K
+
+##### [KD - Realistic Fireplaces - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52376?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** KD - Realistic Fireplaces - Fixes

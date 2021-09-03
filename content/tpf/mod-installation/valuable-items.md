@@ -12,6 +12,19 @@ description: >
 
 - **Main Files:** Ancient Imperial Septims - Classic Gold
 
+##### [Gemstone Replacers HD](https://www.nexusmods.com/skyrimspecialedition/mods/46531?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Gemstones Replacers HD SE Main Version
+- **Miscellaneous Files:** FalmerEyeGemstone 1K >> `merge with the main file`
+- **Miscellaneous Files:** kagrumez gems 1K >> `merge with the main file`
+
+#### FOMOD Instructions
+
+- **Options:** With Unique Gems Option 1 ISC
+- **Resources:** ~~UniqueGems Damaged Versions~~
+
 ##### [JS Dragon Claws](https://www.nexusmods.com/skyrimspecialedition/mods/1394?tab=files)
 
 #### Download Instructions
@@ -20,7 +33,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**SSE - Optimise SLE Assets**).
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 > While the mod does not contain SLE assets, this will compress the normal maps and cut the overall file size in half.
 
@@ -35,6 +48,10 @@ description: >
 #### Download Instructions
 
 * **Main Files:** RUSTIC SOULGEMS - Special Edition - 1K Sorted
+
+#### Additional Instructions
+
+- ESL-ify **RUSTIC SOULGEMS - Sorted.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files)
 
@@ -96,12 +113,6 @@ description: >
 
 * **Resolution Options:** Default Red Textures MEDIUM
 
-##### [Iconic's Falmer Eye Gem Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44795?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Falmer Eye Gem 2K
-
 ##### [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882?tab=files)
 
 #### Download Instructions
@@ -119,13 +130,31 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Particle Lights For ENB SE - Bugs in a Jar
+- **Optional Files:** Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values - No Dirt
 
 ##### [Bust of the Gray Fox](https://www.nexusmods.com/skyrimspecialedition/mods/45595?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Gray Fox Bust 2K
+
+##### [Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Unique Skulls HD - SE 1K
+
+#### FOMOD Instructions
+
+* **MainPluginOptions:** ESPFE
+* **SkullKeyOptions:**
+  * ~~SkullKeys~~
+  * SkullKeys EnbLightPatch
+* **LOTD Options:**
+  * ~~New Textures + ESP~~
+  * ~~New Textures + ESPFE~~
+  * ~~Previous Textures + ESP~~
+  * ~~Previous Textures + ESPFE~~
 
 ##### [Draw Knife Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
 
@@ -137,7 +166,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+- Downsize the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files)
 
@@ -145,30 +174,14 @@ description: >
 
 * **Main Files:** BLOODSTONE CHALICE REBORN 1K
 
-##### [Iconic's Remastered Paragon Gems Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45734?tab=files)
+##### [Paragon Gems HD](https://www.nexusmods.com/skyrimspecialedition/mods/47199?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Remastered Paragon Gems
+- **Main Files:** Paragon gems 1K
+- **Optional Files:** Paragon gems EnbLight Patch >> `merge with the main file`
 
 #### FOMOD Instructions
 
 - **Texture Sizes:** 2K
 - **Choose Metal Colors:** Bronze
-
-##### [Particle Lights for ENB - Paragon Gems](https://www.nexusmods.com/skyrimspecialedition/mods/45761?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Particle Lights For ENB SE - Paragon Gems - Iconic's Gems Patch
-
-##### [Iconic's Saerek and Torsten Skull Key Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45329?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Saerek And Torsten Skull Key
-
-#### FOMOD Instructions
-
-* **Texture Sizes:** 2K
-* **Eye Color Options:** Blue and Light Blue

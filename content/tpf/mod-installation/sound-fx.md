@@ -18,11 +18,23 @@ description: >
 * Delete the following file(s) and/or folder(s):
   * `Audio Overhaul Skyrim.modgroups`
 
+##### [Forceful Tongue - Audio Overhaul for Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Forceful Tongue - Audio Overhaul for Skyrim Patch
+
+##### [Dragon War - Audio Overhaul for Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Dragon War - Audio Overhaul for Skyrim Patch
+
 ##### [Immersive Sounds - Compendium (ISC)](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Immersive Sounds Compendium SSE 2.2
+- **Old Files:** Immersive Sounds Compendium SSE 2.2
 
 #### FOMOD Instructions
 

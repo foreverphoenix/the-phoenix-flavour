@@ -53,8 +53,8 @@ description: >
   - Blades Armor and Weapons
   - Stormcloak Officer Armor
 - **Companions:**
-  - Wuuthrad
-  - Shield of Ysgramor
+  - ~~Wuuthrad~~
+  - ~~Shield of Ysgramor~~
   - Savior's Hide
   - Tsun's Armor
 - **Dwarven:**
@@ -232,6 +232,24 @@ description: >
 
 * **Main Files:** Open Face Guard Helmets
 
+##### [Sleeved Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/52718?tab=description)
+
+#### Download Instructions
+
+- **Main Files:** sleevedstormcloaks
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\armor\stormcloaks\`
+  - `textures\armor\bear\banditglovesf.dds`
+  - `textures\armor\bear\banditglovesm.dds`
+  - `textures\armor\bear\bootslight.dds`
+  - `textures\armor\bear\goatskin.dds`
+  - `textures\armor\bear\snow---.dds` >> *all nine files*
+
+> Sleeved Stormcloak armor already exists in the vanilla game so we only use this mod for the edited Stormcloak Officer Armor meshes to add sleeves and pants to them.
+
 ##### [Frankly HD Stormcloaks and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files)
 
 #### Download Instructions
@@ -303,7 +321,7 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Stalhrim Refrozen
-* **Optional Files:** Stalhrim Refrozen - Core Package 4k
+* **Miscellaneous Files:** Stalhrim Refrozen - Core Package 2k
 
 #### FOMOD Instructions
 
@@ -327,10 +345,6 @@ description: >
 - **Lovely Longswords:**
   - None
 
-#### Additional Instructions
-
-- Run the **Stalhrim Refrozen - Core Package 4K** through Cathedral Assets Optimizer (**Downsize Textures**).
-
 ##### [Unique Uniques Re-Ported](https://www.nexusmods.com/skyrimspecialedition/mods/47725?tab=files)
 
 #### Download Instructions
@@ -342,7 +356,7 @@ description: >
 - **Options:**
   - Unique Uniques WACCF
 - **Patches:** 
-  - Reliquary of Myth WACCF
+  - None
 - **Alternative Models:**
   - ~~Alternate Dragonbone - Golden~~
   - Alternate Oathblade - Blades
@@ -350,7 +364,7 @@ description: >
 - **Smithing Overhauls:**
   - SSO (Requires WACCF!)
 - **Patches:**
-  - Reliquary of Myth WACCF
+  - None
 
 ##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
 
@@ -387,6 +401,18 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** Modular Armory - Masks of the Dovah Sonaak Patch
+
+##### [Iconic's Wuuthrad Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/47674?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Wuuthrad 2K
+
+##### [Iconic's Ysgramor Shield Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46864?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ysgramor Shield 2K
 
 ##### [Spellbreaker Oblivionized Retexture in HD](https://www.nexusmods.com/skyrimspecialedition/mods/32430?tab=files)
 
@@ -433,6 +459,10 @@ description: >
 
 #### Additional Instructions
 
+- ESL-ify **GQJ_DG_vampireamuletfix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+#### Plugin Edit
+
 The plugin contains one unnecessary edit to a scroll that overwrites an edit by the USSEP.
 
 * Run **SSEEdit** through Mod Organizer 2.
@@ -452,7 +482,7 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 
 #### Additional Instructions
 
-* Downsize the mod’s textures with Cathedral Assets Optimizer (**SSE - Downsize Textures**).
+* Downsize the mod’s textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
 ##### [JS Circlet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
 

@@ -22,6 +22,11 @@ description: >
 - **Blurry Screen Blood:** ~~EBT Blurry Screen Blood (Optional)~~
 - **Alternate Textures:** Reduced Res / Default Color
 
+#### Additional Instructions
+
+- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+- ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [GORECAP](https://www.nexusmods.com/skyrimspecialedition/mods/16440?tab=files)
 
 #### Download Instructions
@@ -41,6 +46,10 @@ description: >
 * **Fire:** Alternate 1
 * **Frost:** Default
 * **Lightning:** Alternate 1
+
+#### Additional Instructions
+
+- ESL-ify **DeadlySpellImpacts.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files)
 
@@ -62,6 +71,15 @@ description: >
 * **Icicles Style:** Transparent
 * **Optional Plugin:** Frost Meshes Patch (ESL-Tagged)
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\magic\frostbarrier01.nif`
+  - `meshes\magic\frostbarrierlarge01.nif`
+  - `meshes\magic\icehazard02.nif`
+
+> These meshes are part of Fixed Mesh Lighting and should not be overwritten.
+
 ##### [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files)
 
 #### Download Instructions
@@ -81,11 +99,18 @@ description: >
 - **Main Files:** Grindstones - Vanilla Sparks
 - **Main Files:** Impact Effects - Vanilla Sparks >> `merge with the first file`
 
-##### [TB's Improved Dust Particles](https://www.nexusmods.com/skyrimspecialedition/mods/39003?tab=files)
+##### [Dust Effects by HHaley](https://www.nexusmods.com/skyrimspecialedition/mods/2407?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** TB's Improved Dust Particles
+- **Main Files:** DustEffectsSSE
+
+#### Additional Instructions
+
+- Unpack the BSA through Mod Organizer 2.
+- Delete the following file(s) and / or folder(s):
+  - `DustEffectsSSE.bsa`
+  - `DustEffectsSSE.esp`
 
 ##### [ElSopa HD - Dirt Blast](https://www.nexusmods.com/skyrimspecialedition/mods/22342?tab=files)
 
@@ -98,15 +123,3 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Reduced Glow FX SE
-
-##### [Bright Snow Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41737?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Bright Snow Fix
-
-##### [Less Distracting Blowing Snow Effects for ENB Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36198?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Less Distracting Blowing Snow Effects 1.0

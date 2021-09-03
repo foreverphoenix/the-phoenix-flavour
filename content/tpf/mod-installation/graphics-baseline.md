@@ -6,13 +6,11 @@ description: >
   Large texture packs and LOD resources.
 ---
 
-##### [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files)
+##### [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files)
 
 #### Download Instructions
 
-- **Miscellaneous Files:** DynDOLOD Resources SE 3.00
-
-> Make absolutely sure you are downloading the **3.00** version from Miscellaneous Files.
+- **Miscellaneous Files:** DynDOLOD Resources SE 3
 
 #### FOMOD Instructions
 
@@ -27,6 +25,12 @@ description: >
 - **Misc Options:**
   * Desync Birds of Prey
   * ~~Holy Cow~~
+
+##### [DynDOLOD Bright LOD Waterfall Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37956?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DynDOLOD Bright LOD Waterfall Fix
 
 ##### [Better DynDOLOD Red Mountain Plume](https://www.nexusmods.com/skyrimspecialedition/mods/43863?tab=files)
 
@@ -45,12 +49,6 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** HD LODs Textures SE Mesh Fix
-
-##### [Perfect Terrain LOD - Noise Texture](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Terrain Noise for xLODGen
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -75,12 +73,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Smim - Quality Addon
-
-##### [SMIM Whiterun Bench](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 2K SMIM Whiterun Bench
 
 ##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
 
@@ -120,6 +112,86 @@ description: >
 
 - **Main Files:** SMIM - Quality Addon - Unofficial Material Fix Patch
 
+##### [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Fixed Mesh Lighting
+
+#### FOMOD Instructions
+
+**Page 1**
+
+- **Main:** All in one
+
+**Page 2**
+
+- **Main:** Vanilla Flora
+- **Patches:**
+  - ~~More Growable Plants~~
+  - ~~Simply Bigger Plants~~
+  - Wiseman's Flora Fixes
+- **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
+- **JK's Skyrim:** ~~JK's Skyrim~~
+- **Depths of Skyrim:** ~~Depths of Skyrim~~
+- **New Plants:** ~~Unique Flowers and Plants~~
+- **Mountain Flowers:** ~~3D Mountain Flowers~~
+- **Snowberries:** Sufficiently Optimized Snowberries
+- **Juniper:** 3D Juniper
+- **Tundra Cotton:** ~~Tundra Cotton by Mari~~
+- **Jazbay:** Jaybay by Mari
+- **Canticle Tree:** High Poly Canticle Tree
+
+**Page 3**
+
+- **Main:** None
+- **Patches:**
+  - Assorted Mesh Fixes
+  - ~~Beyond Skyrim : Bruma~~
+  - Dlizzio's Mesh Fixes
+  - ~~HD Dead Trees and Driftwood~~
+  - Reach Trees Enhanced
+  - ~~Realistic Aspen Trees~~
+  - ~~Sacred Trees~~
+  - ~~Simply Bigger Trees~~
+  - ~~Simply Bigger Realistic Aspen Trees~~
+  - ~~Skyrim Flora Overhaul~~
+  - SMIM
+  - ~~UV-Tweaks~~
+
+**Page 4**
+
+- **Main:** Ice
+- **Patches:**
+  - Arctic
+  - ~~Beyond Skyrim : Bruma~~
+  - Dlizzio's Mesh Fixes
+  - Landscape and water fixes
+  - Unofficial Material Fix
+- **Ice Replacer:**
+  - ~~Glacierslab~~
+  - ~~Glacierslab Bumpy Chiseled~~
+  - ~~Northern Ice~~
+  - ~~Northern Ice without Ice Floes~~
+  - ~~Real Ice and Snow~~
+  - Remastered Glaciers and Ice
+
+**Page 5**
+
+- **Patches:**
+  - ~~Bears of the North~~
+  - ~~Beyond Skyrim : Bruma~~
+  - ~~Dynamic Things Alterntive~~
+  - ~~Grahl~~
+  - HD Goat
+  - HD Highlandcow
+  - HD Skeever
+  - ~~Savage Skyrim~~
+  - ~~Skeleton Replacer HD~~
+  - ~~SkyTEST~~
+
+> Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
+
 ##### [Quality Cubemaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files)
 
 #### Download Instructions
@@ -128,7 +200,7 @@ description: >
 
 #### Additional Instructions
 
-- Run the mod through Cathedral Assets Optimiser (**Optimise SLE Assets**).
+- Optimise the mod with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 > While the mod doesn't contain any actual SLE assets, this profile will compress the uncompressed textures to save space.
 
@@ -156,6 +228,11 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** Noble Skyrim Material Fix
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\`
 
 ##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
 
@@ -237,9 +314,11 @@ description: >
 - **Display Cases:**
   * Light
 
-#### Porting Instructions
+#### Additional Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+* Run the mod through **SSE NIF Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#fixing-meshes)).
+
+> Using Cathedral Assets Optimizer will leave you unable to use the alchemy tables.
 
 ##### [Revamped Assets Skyrim - Weapon Racks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
@@ -259,7 +338,7 @@ description: >
   - ~~Install Everything~~
   - Custom Installation
 - **Page 1:**
-  - Hearthfire Breads
+  - ~~Hearthfire Breads~~
   - ~~Vanilla Breads~~
   - ~~Farmhouse Stonewalls~~
   - Solitude Ropes

@@ -43,7 +43,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NetScriptFramework SkyrimSE v14
+- **Main Files:** NetScriptFramework SkyrimSE v16
 
 ##### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
@@ -93,11 +93,12 @@ cl off
 SetGS fPhysicsDamage1Mass 9999999
 SetGS fSandboxCylinderTop 576
 SetGS fSandboxCylinderBottom -576
+SetGS fCombatAimProjectileRandomOffset 70
 ```
 
 - Close the window and click **Yes** when asked to save.
 
-> The added commands will expand the radius in which NPCs can move when they sandbox as well as disable character lighting and physics damage sustained when colliding with clutter objects.
+> The added commands will expand the radius in which NPCs can move when they sandbox and lower NPC's accuracy with ranged attacks, as well as disable character lighting and physics damage sustained when colliding with clutter objects.
 
 ![ACC Add MFS](/Pictures/tpf/mod-installation/autorun-commands.png)
 
@@ -121,33 +122,6 @@ Click "Manual Download" for all files:
 - Once it unfreezes, you will find them in the **Downloads** tab (right pane).
 - Right-click each of the three archives (one at a time) and select **Query Info**.
 - After all data has been retrieved from the Nexus, install the archives as usual by double-clicking them.
-
-##### [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850?tab=description)
-
-#### Download Instructions
-
-Click "Manual Download" for the following file:
-
-- **Main Files:** Basecoat - Textures only
-
-> The reason we are not downloading the other version that includes terrain LOD is because we will be generating terrain LOD from scratch at the end of the guide.
-
-#### Installation Instructions
-
-- Wait for the archive to be downloaded.
-- Move it to your downloads folder: `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- Mod Organizer 2 may freeze briefly as it processes the files.
-- Once it unfreezes, you will find the archive in the **Downloads** tab (right pane).
-- Right-click it and select **Query Info**. This will take a while as the archive is very large.
-- After all data has been retrieved from the Nexus, install the archive as usual by double-clicking it.
-- Move **Base Coat** below **Official Master Files - Cleaned** in your mod order (left pane).
-- Activate the mod.
-
-#### About the mod
-
-Base Coat is a repack of upscaled versions of all vanilla textures made to replace the vanilla BSAs. As such, we could simply drop it in the Data folder, overwrite the existing archives, and save 16GB of disk space. However, this would mean that in order to revert SSE to vanilla, you would have to reinstall the game or restore a manual back-up of the BSAs.
-
-Additionally, you will be unable to install other SSE mod lists through Wabbajack with the Base Coat BSAs replacing the vanilla ones in your Data folder. The app will detect that your SSE installation is edited and abort the installation process. This is why I chose to keep the Data folder clean and sacrifice 16GB of disk space insteads.
 
 ##### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files)
 
@@ -199,24 +173,8 @@ Additionally, you will be unable to install other SSE mod lists through Wabbajac
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
+  - `meshes\clutter\deadanimals\`
   - `textures\effects\gradients\gradwhitewater.dds`
   - `Particle Patch for ENB SSE.esp`
 
 > The plugin is not needed. Its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
-
-##### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Grass Control v6
-
-#### Additional Instructions
-
-- Double-click **No Grass In Objects** in your mod order.
-- Switch to the **Text Files** tab and select the **GrassControl.config.txt**.
-- Scroll down to **Line 134** and set **EnsureMaxGrassTypesPerTextureSetting =** to **0**.
-- Scroll down to **Line 149** and set **OverwriteGrassDistance =** to **-1**.
-- Scroll down to **Line 163** and set **OverwriteGrassFadeRange =** to **-1**.
-- Hit **CTRL+S** to save and close the window.
-
-> I prefer handling the INI changes directly in the game INI files. Other changes are not required as we are not going to generate grass cache.

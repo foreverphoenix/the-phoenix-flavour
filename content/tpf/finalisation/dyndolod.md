@@ -50,8 +50,8 @@ Enable expert mode in DynDOLOD:
 
 Generate a terrain underside mesh for Dynamic Volumetric Lighting and Sun Shadows:
 
-- Uncomment **Line 270** (remove the semicolon).
-- In **Line 275**, set `Terrain Underside=` to `1`.
+- Uncomment **Line 274** (remove the semicolon).
+- In **Line 279**, set `Terrain Underside=` to `1`.
 
 And finally:
 
@@ -61,15 +61,14 @@ And finally:
 
 ## TexGen
 
-Some of the TexGen settings were adopted from the [STEP guide for SSE](https://stepmodifications.org/wiki/SkyrimSE:2.0.0#Run_TexGen). The STEP team is known for extensively testing these settings.
-
 - Launch **TexGen** through Mod Organizer 2.
-- Under **Stitched Object LOD Textures**, set **Texture size** to `512`.
-- Under **Rendered Object LOD Textures**, set **Texture size** to `512`.
+- Under **Stitched Object LOD Textures**, set **Texture size** to `256` (increase to `512` if you play at 4K).
+- Under **Rendered Object LOD Textures**, set **Texture size** to `256` (increase to `512` if you play at 4K).
+- Set **Units per pixel** to `11` (1080p), `8` (1440p), or `5.5` (2160p).
 - Under **Trees/Grass Billboards**, check the boxes for **Tree**, **HD Tree**, and **Rendered**.
 - Click **Start** to begin the process.
 
-> The generation will take a while (around 20 minutes for me) and you should step away from your PC in the meantime.
+> The generation will take a while and I recommend you step away from your PC in the meantime.
 
 ![TexGen Settings](/Pictures/tpf/finalisation/texgen-settings.png)
 
@@ -83,28 +82,23 @@ Some of the TexGen settings were adopted from the [STEP guide for SSE](https://s
 
 ## DynDOLOD Generation
 
-DynDOLOD has a multitude of features and settings through which performance impact and visual improvements can be balanced out. I've chosen to defer to the expertise of the STEP team who have spend vastly more time than me experimenting with various DynDOLOD settings. With their permission, I have included their Optimal preset for DynDOLOD 3.00 created for the [STEP Skyrim SE guide](https://stepmodifications.org/wiki/SkyrimSE:2.0.0).
-
-### DynDOLOD Preset
-
-- Click [here](https://stepmodifications.org/wiki/images/3/30/DynDOLOD_SSE_Optimal.ini) to download the STEP Optimal preset for DynDOLOD.
-- Save the **DynDOLOD_SSE_Optimal.ini** to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Presets\`.
-- Open the INI file in Notepad++.
-- Near the top, in **Line 2**, change the output folder to be within your DynDOLOD installation folder.
-- For me, that would be: `F:\Modding\Skyrim SE Mods\Tools\DynDOLOD 3.0 Alpha 33\DynDOLOD_Output\`.
-- Save your changes and close Notepad++.
-
-![DynDOLOD Preset Output](/Pictures/tpf/finalisation/dyndolod-preset-output.png)
+DynDOLOD has a multitude of features and settings through which performance impact and visual improvements can be balanced out. We are simply going to use the default high preset which has mesh rules already set up for hybrid 3D tree LOD.
 
 ### Run DynDOLOD
 
 - Run **DynDOLOD** through Mod Organizer 2.
-- Make sure all worldspaces in the top left box are ticked.
-- Click **Load Preset** (one of the buttons on the bottom left).
-- The DynDOLOD Presets folder should be opened automatically, double-click the **DynDOLOD_SSE_Optimal.ini**.
-- Click **OK** to start generating LOD.
+- Make sure all worldspaces in the top left box are ticked (right-click >> Select all).
+- Check the boxes for both **Candles** and **FX Glow** at the top right.
+- Click the **High** button to load the mesh rules preset.
+- Increase **Max tile size LOD** to `2048` if you play at 4K.
+- Increase **Max tile size full** to `512` if you play at 4K.
+- Check the **Ultra** button at the bottom (this will uncheck **Generate tree LOD**).
+- Check the boxes for **Glow windows** and **High** for glowing windows at a distance.
+- Check the boxes for **Fake lights selected worlds** and **Fake lights child world**.
+- Check the box for **Upgrade NearGrid large references to FarGrid**.
+- Click **OK** to start the process.
 
-**Step away from your PC while DynDOLOD is working.** This may take around 20-30 minutes.
+> Just like with TexGen, I recommend you step away from your PC until DynDOLOD has finished.
 
 ![DynDOLOD Settings](/Pictures/tpf/finalisation/dyndolod-settings.png)
 
@@ -118,3 +112,13 @@ DynDOLOD has a multitude of features and settings through which performance impa
 - Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
 - Leave **DynDOLOD.esp** at the very bottom as the last plugin.
 - Make sure both plugins are activated.
+
+## Solstheim Ice Piles Fix
+
+For whatever reason, DynDOLOD reverts a change in the **Skyrim Remastered - Ice and Glaciers** plugin to vanilla. This in turn breaks three statics on Solstheim.
+
+- Download and install the [DynDOLOD - Solstheim Ice Piles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the **Optional Files** section.
+- Install it as usual in Mod Organizer 2 and active it in the mod order.
+- Leave the plugin at the bottom of your load order so that it overwrites **DynDOLOD.esp**.
+
+Check this [comparison slider](https://imgsli.com/NjUxMzE) to see what the objects in question look like before and after the fix.

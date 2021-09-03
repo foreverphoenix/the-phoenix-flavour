@@ -36,25 +36,44 @@ description: >
 
 - **Main Files:** Vanilla Body with UNP Textures
 
-##### [Cathedral Player and NPC Overhaul - Female Skin Textures](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
+##### [Lucid Skin](https://www.nexusmods.com/skyrimspecialedition/mods/53030?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Cathedral Player and NPC Overhaul - Female Skin Textures
-
-##### [SkySight Skins](https://www.nexusmods.com/skyrimspecialedition/mods/6580?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** SkySight Skins HD with Real Feet Meshes (HIGH - Recommended)
-- **Optional Files:** PATCH - Shoe Fixes (Less Shine)
+- **Main Files:** Lucid Skin
 
 #### FOMOD Instructions
 
-- **Meshes:** Real Feet Meshes PLUS Less Shiny Body Meshes
-- **Body Textures:** Hairy and Clean (default)
-- **Body Veins:** Reduced Veins
-- **Faces:** Vanilla Age (default)
+- **Body UV:** UNP
+- **Head Diffuse Map:** 2K
+- **Head Diffuse Maps:** Vanilla-style
+- **Head Normal Maps:** Vanilla-style
+- **Body Diffuse Maps:** Clean
+- **Female Afflicted Hands Plugin:** Install
+
+##### [Vitruvia - Skin Texture Overhaul for Males](https://www.nexusmods.com/skyrimspecialedition/mods/9112?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Vitruvia - Skin texture overhaul for males
+- **Optional Files:** Fix for broken forsworn boot meshes by dariuskzoot >> `merge with the main file`
+
+#### Installation Instructions - Optional File
+
+The optional file (mesh fix) can only be downloaded manually.
+
+- Click the **manual download** button and move the downloaded archive to `\Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- In Mod Organizer 2, press F5 to refresh the UI and the mod will appear in the **Downloads** tab in the right pane.
+- Right-click it and select **Query Info** to download meta data, then install it as usual and merge it with the main file.
+
+#### FOMOD Instructions
+
+- **01 Option:** 2) Vitruvia - 4K
+- **02 Option:** 1) Never Nude
+- **A)Hair and scars-2K:** None
+- **B)Hair and scars-4K:** Hairy Chest, Scars
+- **C)Hair and scars-Compressed:** None
+- **04 Option:** ~~Wet Body (CMO) specular~~
 
 ##### [Males of Skyrim - High Poly Hands](https://www.nexusmods.com/skyrimspecialedition/mods/37485?tab=files)
 
@@ -62,21 +81,14 @@ description: >
 
 - **Optional Files:** 03 - High Poly Hands Only
 
-##### [Mild Complexions](https://www.nexusmods.com/skyrimspecialedition/mods/28510?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Mild Complexions - SE
-
 ##### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Feminine Khajiit Textures (Grey Cat and Leopard) UNP
+- **Main Files:** Feminine Grey Cat and Leopard (UNP) 4K
 
 #### FOMOD Instructions
 
-- **Resolution Selection:** [2K] Res Pack
 - **Variations:** Grey Cat
 - **Chest Variations:** Furry
 
@@ -84,50 +96,40 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Grey Cat and Leopard Vanilla v1.0 - 2K Res Pack
+- **Main Files:** Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
 
 #### FOMOD Instructions
 
 - **Variations:** Grey Cat
 - **Chest textures:** Furry
 
-##### [Forgotten Argonian Roots (FAR)](https://www.nexusmods.com/skyrimspecialedition/mods/1704?tab=files)
+##### [Argonian Weight Slider Affected Tails](https://www.nexusmods.com/skyrimspecialedition/mods/23366?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** FAR 2k. all-in-one with readme
+- **Main Files:** Argonian Weight Slider Affected Tails
 
-> **Do not install this mod yet.**
-
-##### [Forgotten Argonian Roots - FOMOD](https://www.nexusmods.com/skyrimspecialedition/mods/23322?tab=files)
+##### [Flawn's Vanilla Argonians Redux](https://www.nexusmods.com/skyrimspecialedition/mods/43389?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Forgotten Argonian Roots – FOMOD
+* **Main Files:** FVAR - Main 4k Compressed
+* **Optional Files:** FVAR - BHUNP Patch 4k >> `merge with the main file`
+* **Optional Files:** FVAR - Weight Slider Affected Tails Patch
 
-#### Installation Instructions
+#### FOMOD Instructions - Main File
 
-* Extract the archive to `Your Modding Folder\Temp`.
-* Find the **FAR 2k.all-in-one with readme.zip** archive in `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-* Open the archive and move the following folders to  `Your Modding Folder\Temp\Forgotten Argonian Roots`:
-  * **Males**
-  * **Females**
-* Right-click the **Forgotten Argonian Roots** folder and select **Add to archive**.
-* Move the new archive to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-* Back in MO2, press F5 to refresh and it will show up in the **Downloads** tab.
-* Right-click it and select **Query Info** (Mod ID is **1704**), then double-click to install as usual.
+- **UNP:** UNP Standard
+- **SOS:** SOS Full Scales
+- **Feet:** Human-Like
 
-#### FOMOD Instructions
+#### FOMOD Instructions - BHUNP Patch
 
-* **FAR - Main:**
-  * Males
-  * Females
-* **FAR - Males:**
-  * Vanilla body
-* **FAR - Females 1:**
-  * UNP body
-* **FAR - Females 2 - UNP body:**
-  * None
+- **BHUNP:** Standard
+
+#### Additional Instructions
+
+- ESL-ify **VanillaArgonianRedux.esp** and **Argonian Weight Slider Affected Tails.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Natural Hair Colors](https://www.nexusmods.com/skyrimspecialedition/mods/46299?tab=files)
 
@@ -217,7 +219,24 @@ description: >
 #### Download Instructions
 
 * **Main Files:** VMHD - All Races - 2K
-* **Update Files:** VMHD - FemaleLowerEyeSocketFix - 2K >> `merge with the main file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\actors\character\character assets\tintmasks\female---.dds`
+  - `textures\actors\character\character assets\tintmasks\male---.dds`
+  - `textures\actors\character\character assets\tintmasks\redguardmaleeyelinerstyle_01.dds`
+
+##### [Better Makeup for SKSE](https://www.nexusmods.com/skyrim/mods/31665?tab=files)
+
+#### Download Instructions
+
+**Note:** You must install and merge the files in the exact order that they are listed in.
+
+- **Main Files:** High Res Female Face Makeup for SKSE
+- **Main Files:** High Res Male Face Makeup for SKSE >> `merge with the main file`
+- **Update Files:** High Res Female Face Makeup for SKSE -Softer Varient- >> `merge with the main file`
+- **Update Files:** High Res Female Face Makeup for SKSE -Softer Makeup Tweak Edition by HHaley- >> `merge with the main file`
 
 ##### [Xenius Character Enhancement - Dirt Masks](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
 

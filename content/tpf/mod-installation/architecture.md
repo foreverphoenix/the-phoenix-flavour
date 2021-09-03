@@ -27,11 +27,11 @@ description: >
 
 - **Main Files:** Whiterun Mesh Fixes
 
-##### [Marketplace Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
+##### [Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Marketplace Shingles - Alpha Patch
+- **Main Files:** Shingles - Alpha Patch
 
 ##### [Skyland Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/13015?tab=files)
 
@@ -64,6 +64,27 @@ description: >
 
 * **Main Files:** Riften in High Definition 2K
 
+##### [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Northfires Windhelm
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\windhelm\whdoor01.dds`
+  - `textures\architecture\windhelm\whdoor01_n.dds`
+
+> Northfire's texture is a little too saturated and I prefer Noble's. You can see a comparison [here](https://imgsli.com/NjUxMjE).
+
+##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Windhelm Ground Meshes
+- **Optional Files:** Better Windhelm Ground Meshes - Valunstrad >> `merge with the main file`
+
 ##### [Marvelous Windhelm Gate](https://www.nexusmods.com/skyrimspecialedition/mods/24349?tab=files)
 
 #### Download Instructions
@@ -78,7 +99,7 @@ description: >
 
 #### Porting Instructions
 
-* Run the mod through Cathedral Assets Optimizer (**Optimise SLE Assets**).
+* Optimise the mod with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 
@@ -121,8 +142,13 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s) from the main file:
-  - `textures\DLC02\Architecture\RavenRock\dlc2rrbuildings01.dds`
-  - `textures\DLC02\Architecture\RavenRock\dlc2rrbuildings01_n.dds`
+  - `textures\dlc02\architecture\ravenrock\dlc2rrbuildings01.dds`
+  - `textures\dlc02\architecture\ravenrock\dlc2rrbuildings01_n.dds`
+  - `textures\dlc02\furniture\`
+  - `textures\dlc02\landscape\`
+  - `textures\dlc02\plants\`
+
+> Identical copies of the deleted textures from the furniture and landscape folders are already packaged with other Solstheim retextures by the same author.
 
 ##### [Rally's Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/35437?tab=files)
 
@@ -143,17 +169,30 @@ description: >
 
 * **Main Files:** Skyland - Winterhold
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\winterhold\WinterholdWindow01.dds`
+  - `textures\architecture\winterhold\WinterholdWindow01_n.dds`
+  - `textures\architecture\winterhold\WinterholdWindow02.dds`
+  - `textures\architecture\winterhold\WinterholdWindow02_em.dds`
+  - `effects\`
+
+> The window textures are covered by RUSTIC WINDOWS. The effects folder includes window textures for the file paths used by ELFX, a mod that is not in TPF.
+
 ##### [Skyrim 3D Misc - Winterhold Gate](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Skyrim 3D Misc - Winterhold Gate
 
-##### [The Halls of the Greybeards - A High Hrothgar Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=files)
+##### [Skyrim Remastered - High Hrothgar v2](https://www.nexusmods.com/skyrimspecialedition/mods/51788?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** The halls of the Greybeards - Dark version
+* **Main Files:** Skyrim Remastered - High Hrothgar v2 Quality Version
+* **Optional Files:** Skyrim Remastered - High Hrothgar v2 LODs for DynDOLOD >> `merge with the main file`
+* **Optional Files:** Skyrim Remastered - High Hrothgar v2 Performance Banners >> `merge with the main file`
 
 ##### [Skyrim Textures Redone - Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files)
 

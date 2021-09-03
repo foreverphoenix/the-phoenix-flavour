@@ -11,6 +11,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Blade and Blunt - A Combat Overhaul
+- **Optional Files:** Blade and Bunt - Vanilla Difficulty Modifiers
 
 ##### [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
 
@@ -18,17 +19,8 @@ description: >
 
 - **Main Files:** Dragon War - A Dragon Overhaul
 - **Optional Files:** Dragon War - Variants
-
-#### FOMOD Instructions
-
-- **Patches:**
-  - Audio Overhaul for Skyrim Patch
-  - Deadly Spell Impacts Patch
-  - Deiform Alduin Patch
-  - Dragon Animation Replacer Patch
-  - Durnehviir Resurrected Patch
-  - ~~Skyrim Unbound Reborn Patch~~
-  - ~~Wyrmstooth Patch~~
+- **Miscellaneous Files:** Dragon War - Deadly Spell Impacts Patch
+- **Miscellaneous Files:** Dragon War - Deiform Alduin Light
 
 ##### [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608?tab=files)
 
@@ -36,11 +28,21 @@ description: >
 
 * **Main Files:** Encounter Zones Unlocked SE
 
+##### [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Arena - An Encounter Zone Overhaul
+
 ##### [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Mortal Enemies SE - No Run Walk Changes
+
+#### Additional Instructions
+
+- ESL-ify **Mortal Enemies - No RunWalk Changes.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378?tab=files)
 
@@ -48,17 +50,9 @@ description: >
 
 * **Main Files:** Realistic Melee Range
 
-##### [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199?tab=files)
+#### Additional Instructions
 
-#### Download Instructions
-
-- **Main Files:** Less Sniperlike NPCs 70 percent
-
-##### [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Realistic AI Detection 2 SE - Medium Interior Medium Exterior
+- ESL-ify **Realistic Melee Range.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600?tab=files)
 
@@ -88,8 +82,8 @@ description: >
 #### Additional Instructions
 
 * Double-click **Disarming Traps Is Dangerous** in your mod order.
-* Switch to the **Filetree** tab and rename the plugin to:
-  * DisarmingTrapsIsDangerous.**esp**
+* Switch to the **Filetree** tab and rename the plugin:
+  * DisarmingTrapsIsDangerous.**esl** >> DisarmingTrapsIsDangerous.**esp** 
 
 > This is faster than downloading and ESL-ifying the ESP version.
 
@@ -112,32 +106,10 @@ description: >
 
 - **Main Files:** Briraka's Draugr Overhaul
 - **Optional Files:** BriDO - Weapons Armor Clothing and Clutter Fixes Patch
+- **Miscellaneous Files:** High Quality Shield Textures
 
-##### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** More Werewolves
-
-#### FOMOD Instructions
-
-* **Version:** Standalone version
-* **Patches:** RFYL patch
-
-##### [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238?tab=files)
+##### [Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Cannibal Draugr on Solstheim
-
-##### [Briraka's Draugr Overhaul - Cannibal Draugr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** BriDO - Cannibal Draugr Patch
-
-##### [The Blood Horker](https://www.nexusmods.com/skyrimspecialedition/mods/13938?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Blood Horker
+- **Miscellaneous Files:** Patch - Ancient Nord Stalhrim and Briraka's Draugr Overhaul

@@ -18,7 +18,6 @@ description: >
 - Double-click **powerofthree's Tweaks** in your mod order.
 - Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
 - In **Line 37**, change `Faction Stealing =` to `true`.
-- In **Line 60**, change `No Attack Messages =` to `3`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 > An example of what the Faction Stealing tweak fixes is in Riverwood: Giving Embry, the local drunk, a bottle of ale will set your relationship with him to "friends". Unfortunately, because Embry is in the RiverwoodSleepingGiantInnFaction, this will allow you take whatever you want from the Inn without it counting as stealing which makes very little sense.
@@ -35,9 +34,9 @@ description: >
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
-- In **Line 4**, set **"activeEffectConditions":** to **false** (don't remove the comma).
-- In **Line 19**, set **"equipBestAmmo:"** to **true** (don't remove the comma).
-- In **Line 23**, set **"underfilledSoulGems":** to **true**.
+- In **Line 10**, set **"magicEffectConditions":** to **false**.
+- In **Line 25**, set **"equipBestAmmo:"** to **true**.
+- In **Line 30**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
@@ -45,18 +44,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** WM's Flora Fixes - Revamped (No Scripts)
-
-##### [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Weapon Speed Effects Fix
-
-##### [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** QuestsAreInSkyrim_USSEP_1_2_reupload
 
 ##### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files)
 
@@ -90,6 +77,12 @@ description: >
 
 - **Main Files:** No Grass In Caves
 
+##### [Labyrinthian Shalidor's Maze Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52239?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Labyrinthian Shalidor's Maze Fixes
+
 ##### [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files)
 
 #### Download Instructions
@@ -115,6 +108,16 @@ description: >
 #### Download Instructions
 
 - **Main Files** Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
+
+##### [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** College of Winterhold Quest Start Fixes
+
+#### FOMOD Instructions
+
+- **Page 1:** Vanilla (Regular)
 
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
@@ -143,17 +146,29 @@ description: >
 
 - **Main Files:** Raven Rock - Fix Exit on Horseback SE
 
+#### Additional Instructions
+
+- ESL-ify **Raven Rock - Fix Exit on Horseback.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Dawnguard Dont Hunt Cured Vampires 1_0
 
+#### Additional Instructions
+
+- ESL-ify **Dawnguard Dont Hunt Cured Vampires.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Charge Dialogue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/17716?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Charge Dialogue Fix
+
+#### Additional Instructions
+
+- ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Rude Imperial Soldiers Escort Prisoner Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32332?tab=files)
 
@@ -177,8 +192,10 @@ description: >
 #### Additional Instructions
 
 - Double-click **Skyrim Ultimate Eye Meshes Ruhmastered - Simple Vampire Fixes** in your mod order.
-- Switch to the **Filetree** tab.
-- Rename `SimpleVampFixesSSE.esl` to `SimpleVampFixesSSE.esp`.
+- Switch to the **Filetree** tab and rename the plugin:
+  - SimpleVampFixesSSE.**esl** >> SimpleVampFixesSSE.**esp**
+
+> This is faster than downloading and ESL-ifying the ESP version.
 
 ##### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files)
 
@@ -224,33 +241,10 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05b
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05c
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Equip Enchantment Fix
-
-##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** KeyboardShortcutsFix_SKSE64
-
-#### Additional Instructions
-
-- Right-click **Keyboard Shortcuts Fix** in your mod order.
-- Select **Open in Explorer** and navigate to `SKSE\Plugins`.
-- Right-click anywhere and select **New** >> **Text Document**.
-- Enter **KeyboardShortcutsFix** as the name.
-- Change the file extension to .log by renaming it.
-- The full file name should be `KeyboardShortcutsFix.log`.
-
-> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
-
-##### [Hank's Gamepad and Controller Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** hank's gamepad and controller fixes

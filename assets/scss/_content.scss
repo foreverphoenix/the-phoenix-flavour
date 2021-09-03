@@ -13,6 +13,7 @@
     @include themed() {
       color: t($theme-link-color);
     }
+    font-weight: $font-weight-bold;
   }
 
   > h1 {

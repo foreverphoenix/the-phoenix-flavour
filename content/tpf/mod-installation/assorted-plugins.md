@@ -57,11 +57,17 @@ Patch Horses = true
 
 * **Main Files:** WhoseQuestIsItAnyway
 
-##### [Yes I’m Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898?tab=files)
+##### [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** YesImSure
+- **Main Files:** Time Format Changer - FOMOD Installer
+
+I am making an exception for this mod in that it is **optional** and you may skip it. As a European, I prefer having a 24h clock (AM/PM confusing me a great deal), but this will not be the case for everyone. If you prefer the default 12h clock, feel free to skip this mod or make your own choice in the FOMOD installer.
+
+#### FOMOD Instructions
+
+- **Choose a preset:** Vanilla 24h
 
 ##### [Sales Overflow Solved](https://www.nexusmods.com/skyrimspecialedition/mods/41625?tab=files)
 
@@ -126,23 +132,17 @@ No Gifting = false
 
 - Save your changes and close the file.
 
+##### [Unequip Quiver](https://www.nexusmods.com/skyrimspecialedition/mods/44031?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unequip Quiver SE
+
 ##### [Remember Lockpick Angle - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Remember Lockpick Angle - Updated
-
-##### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Classic Sprinting Redone
-
-##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Better Jumping SE
 
 ##### [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742?tab=files)
 
@@ -155,12 +155,6 @@ No Gifting = false
 #### Download Instructions
 
 - **Main Files:** DisableFollowerCollision v1.0.0 for SkyrimSE
-
-##### [Free Look](https://www.nexusmods.com/skyrimspecialedition/mods/42620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Free Look v3
 
 ##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
 

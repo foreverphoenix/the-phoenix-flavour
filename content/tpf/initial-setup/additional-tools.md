@@ -8,7 +8,7 @@ description: >
 
 ## SSEEdit
 
-* Download [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164/) manually from the Nexus.
+* Download [**SSEEdit**](https://www.nexusmods.com/skyrimspecialedition/mods/164/) manually from the Nexus.
 * Create a new folder: `Your Modding Folder\Tools\SSEEdit`.
 * Open the downloaded archive and extract everything into the new folder.
 * Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
@@ -47,6 +47,18 @@ After editing a plugin in SSEEdit, a backup will automatically be created. With 
 
 ![xEdit Arguments](/Pictures/tpf/initial-setup/xedit-arguments.png)
 
+### Disable Warning Window
+
+Upon attempting to edit something for the first time each session, SSEEdit will display a [**warning**](https://tes5edit.github.io/docs/img/EditWarning.jpg) with a 3 second delay before you can close it. However, while the tool has no "undo" button, that does not mean any edits are permanent: They are only applied to the plugin in question if you explicitly save them after closing the tool. For longer sessions, it is advisable to save the plugins you are working on periodically (but this is not something you will need to do during the setup of TPF).
+
+There is a command that you can add in the arguments for SSEEdit in order to disable the warning window. It will speed up the process of making quick edits such as the removal of a few records or flagging a plugin as ESL. I highly recommend adding it in your MO2 instance after the two arguments for backups and cache:
+
+`-IKnowWhatImDoing`
+
+*Screenshot below shows some additional executables that you will not install until later on in the guide.*
+
+![Disable Warning](/Pictures/tpf/initial-setup/xedit-iknowwhatimdoing.png)
+
 ### QuickAutoClean
 
 * Click the tiny blue plus icon to add another new executable and select **Add from file**.
@@ -61,29 +73,13 @@ After editing a plugin in SSEEdit, a backup will automatically be created. With 
 
 ![Add QuickAutoClean to MO2](/Pictures/tpf/initial-setup/add-qac-to-mo2.png)
 
-## zEdit
-
-zEdit is an alternative to xEdit with some additional features. While it is far from being a replacement, it has some neat additional features. Unfortunately cannot take advantage from most of them because zEdit does not support ESL plugins.
-
-At the moment, we only need zEdit for one very small step toward the end of the guide.
-
-- Download [zEdit](https://github.com/z-edit/zedit/releases) manually from the Github page (see picture below).
-- Create a new folder: `Your Modding Folder\Tools\zEdit`.
-- Open the downloaded archive and extract everything to the new folder.
-- Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
-- Click the tiny blue plus icon to add a new executable and select **Add from file**.
-- Navigate to `Your Modding Folder\Tools\zEdit` and double-click zEdit.exe.
-- Click **OK** to save the new executable and close the window.
-
-![zEdit Download](/Pictures/tpf/initial-setup/zedit-download.png)
-
 ## Cathedral Assets Optimizer
 
 Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
 
 ### Installation
 
-- Download [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) **5.0.15** manually.
+- Download [**Cathedral Assets Optimizer**](https://www.nexusmods.com/skyrimspecialedition/mods/23316) **5.0.15** manually.
 - Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
 - Open the downloaded archive and extract everything into the new folder.
 - Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
@@ -94,7 +90,7 @@ You will be using CAO plenty of times during the installation of the guide, so I
 
 Cathedral Assets Optimiser allows you to set up dedicated profiles. I created several profiles for different purposes to be used during the installation of the guide.
 
-- Download the latest version of the [Cathedral Assets Optimizer - Basic Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually from the Nexus.
+- Download the latest version of the [**Cathedral Assets Optimizer - Basic Profiles Pack**](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually from the Nexus.
 - Open the downloaded archive.
 - Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 
@@ -104,9 +100,9 @@ Cathedral Assets Optimiser allows you to set up dedicated profiles. I created se
 
 While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimizer, there are some that will only work properly after running them through the original SSE NIF Optimizer.
 
-* Download [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
+* Download [**SSE NIF Optimizer**](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
 * Extract the executable into Your Modding Folder. It’s just a single file so no separate directory is required.
 
 ---
 
-#### Continue with the [ESM Cleaning](/tpf/initial-setup/esm-cleaning/) page.
+#### Continue with the [**ESM Cleaning**](/tpf/initial-setup/esm-cleaning/) page.

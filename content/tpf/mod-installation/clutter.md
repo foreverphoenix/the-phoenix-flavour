@@ -19,7 +19,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - Open **Cathedral Assets Optimizer** and switch to the **SSE - Downsize Textures** profile.
 - In the **Textures** tab under **Resizing**, switch to **By fixed size**.
 - Replace both **Height** and **Width** with **1024**.
-- Click **Open Directory** and navigate to `Mod Organizer 2\mods\` and select the **Qwafee Keys** folder.
+- Click **Open Directory** and navigate to `\Mod Organizer 2\mods\` and select the **Qwafee Keys** folder.
 - Click **Select Folder** and hit **Run**.
 - When it's done (only takes a few seconds at most), switch back to **By ratio** in the **Textures** tab.
 - Close Cathedral Assets Optimizer.
@@ -52,6 +52,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 - **Main Files:** Rallys Fishing Pole
 
+##### [Chisel Replacer HD](https://www.nexusmods.com/skyrimspecialedition/mods/47534?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Chisel 1K
+
 ##### [Metallurgy - Ingots and Ore HD](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)
 
 #### Download Instructions
@@ -83,6 +89,27 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
   - `meshes\furniture\blacksmithforgemarkerwr.nif`
   - `meshes\furniture\blacksmithingskyforgemarker.nif`
 
+> The forge mesh is removed in favour of Embers HD.
+
+##### [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Horse Saddle
+
+##### [Imperial Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42577?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 2K Imperial Saddle
+
+##### [Shadowmere Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42594?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Shadowmere Saddle
+- **Optional Files:** ESL flagged plugin >> `merge with the main file`
+
 ##### [Skyrim 3D Misc](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
 
 #### Download Instructions
@@ -99,6 +126,36 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - **Optional Files:** 2K Deer Skull and Antlers
 - **Optional Files:** 2K Mounted Antlers >> `merge with the main file`
 
+##### [Rally's Nord War Horns](https://www.nexusmods.com/skyrimspecialedition/mods/46872?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rallys Nord War Horns
+
+#### FOMOD Instructions
+
+- **Color Variations:** Golden Red
+- **Torygg's Horn Replacer:** Enhanced Vanilla
+
+#### Additional Instructions
+
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
+##### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rally's Civil War Document Tubes
+
+#### FOMOD Instructions
+
+- **Color Options:** Lore Version
+- **Enhanced Battlemap Flags:** Gimme that!
+
+#### Additional Instructions
+
+- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
 ##### [RUSTIC CLUTTER COLLECTION](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files)
 
 #### Download Instructions
@@ -112,12 +169,47 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 > The textures for the Dwemer pottery should be supplied by The Dwemer for consistency.
 
-##### [Medieval Silverworks](https://www.nexusmods.com/skyrimspecialedition/mods/23938?tab=files)
+##### [Rudy HQ - Miscellaneous](https://www.nexusmods.com/skyrimspecialedition/mods/19867?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Medieval Silverworks
-* **Miscellaneous Files:** Medieval Silverworks STAC Patch >> `merge with the main file`
+* **Main Files:** Rudy HQ - Miscellaneous SE
+
+#### FOMOD Instructions
+
+- **HQ Siverware:** Rudy HQ Silverware for Rustic Silverware
+- **HQ Silverware for Smoking Torches and Candles mod:** None
+- **Additional HQ candle models:**
+  - ~~Rudy HQ Imperial Candles~~
+  - ~~Rudy HQ Nordic Ruins Candles~~
+- **Additional HQ candle models for Smoking Torches and Candles mod:**
+  - ~~Rudy HQ Imperial Candles~~
+  - ~~Rudy HQ Nordic Ruins Candles~~
+- **HQ candles for vanilla Lanterns:**
+  - ~~Rudy HQ Lanterns~~
+- **HQ Glazed pottery:**
+  - Rudy HQ Glazed Pottery Vanilla Style 2K
+- **HQ Glazed pottery for Smoking Torches and Candles mod:**
+  - None
+- **Textures for Nordic ruins pottery:**
+  - Rudy HQ Brown Textures for Dungeons Pottery 2K
+- **Additions:**
+  - ~~Rudy HQ Apple Tomato Potato~~
+  - Rudy HQ Beds
+  - Rudy HQ Common Plates
+- **Textures for the candles:**
+  - 1k textures for the candles
+
+#### Additional Instructions
+
+- ESL-ify **Rudy Nordic Pottery SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [Hearthfire Crafting Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52423?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hearthfire Crafting Retextures
+- **Optional File:** Optional Lock Retexture >> `merge with the main file`
 
 ##### [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files)
 
@@ -176,7 +268,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-* **Main Files:** The Business Ledger SD
+* **Main Files:** Hermaeus Mora Tax Book SD
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

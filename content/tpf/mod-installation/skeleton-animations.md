@@ -62,7 +62,7 @@ description: >
 
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
-- In **Line 26** set `ClenchedHandWorkaround=` to `true`.
+- In **Line 29** set `ClenchedHandWorkaround=` to `true`.
 - Press **CTRL+S** to save and close the window.
 
 #### Shields on Back
@@ -74,7 +74,7 @@ By default, the player and NPCs carry their shields in their left hand when thei
 - Double-click **Simple Dual Sheath** in your mod order.
 - Switch to the **INI Files** tab and select the **SimpleDualSheath.ini**.
 - In **Line 23** add the following flags: `Flags=Player|NPC|FirstPerson`.
-- In **Line 35** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
+- In **Line 38** add the following flags: `DisableHideOnSit=Player|NPC|MountOnly`.
 - Press **CTRL+S** to save and close the window.
 
 > The "FirstPerson" flag for ShieldsOnBack prevents the shield from appearing in first person view when it is "sheathed".
@@ -98,23 +98,15 @@ By default, the player and NPCs carry their shields in their left hand when thei
 - **Directional Jump Option:** Short Jump
 - **Patch Options:** *select nothing*
 
-#### INI Tweak
-
-- In Mod Organizer 2, go to **Tools** >> **Tool Plugins** >> **INI Editor**.
-- In the **skyrimcustom.ini** tab, add the following below the existing settings:
-
-```
-[HAVOK]
-fInAirFallingCharGravityMult=1.8
-```
-
-- Close the window and click **Yes** when asked to save.
-
-##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrimspecialedition/mods/4746?tab=files)
+##### [No Heavy Muscular Walk and Idle](https://www.nexusmods.com/skyrim/mods/213/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** No heavy muscular walk and idle
+* **Main Files:** No heavy muscular idle
+
+#### Additional Instructions
+
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Relaxed Sneaking Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37260?tab=files)
 
@@ -152,23 +144,17 @@ fInAirFallingCharGravityMult=1.8
 
 * **Main Files:** DWANIM
 
-##### [Dragon Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files)
+##### [Dragon Animations Replace](https://www.nexusmods.com/skyrimspecialedition/mods/2163?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** DragonAnimationReplace_inSE_1_01
 
-#### Additional Instructions
+##### [Dragon War - Dragon Animation Replace Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
 
-- Delete the following file(s) and / or folder(s):
-  - `meshes\actors\dragon\animations\ground_bite.hkx`
-  - `meshes\actors\dragon\animations\ground_biteleft.hkx`
-  - `meshes\actors\dragon\animations\ground_biteright.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhip.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhipleft.hkx`
-  - `meshes\actors\dragon\animations\ground_tailwhipright.hkx`
+#### Download Instructions
 
-> Adjusted versions of these behaviours are included in Dragon War - A Dragon Combat Overhaul.
+- **Main Files:** Dragon War - Dragon Animation Replace Patch
 
 ##### [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957?tab=files)
 

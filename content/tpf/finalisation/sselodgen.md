@@ -10,7 +10,7 @@ description: >
 
 SSELODGen is a tool for regenerating various LOD (level-of-detail) resources. We will be using it to generate better terrain LOD (distant ground textures) since the vanilla terrain LOD is of extremely low quality. This will also improve distant grass blending. Tree LOD and object LOD are much better handled with DynDOLOD (which is done in the next step) but afterwards we will once again use SSELODGen for Occlusion generation.
 
-- Download the latest version of [SSELODGen](https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-66-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/) from MEGA (see screenshot for the link).
+- Download the latest version of [**SSELODGen**](https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-66-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/) from MEGA (see screenshot for the link).
 - Navigate to `Your Modding Folder\Tools` and create a new **SSELODGen** folder.
 - Open the downloaded archive, double-click the **xLODGen** folder, and extract all files into your new directory.
 
@@ -29,17 +29,10 @@ SSELODGen is a tool for regenerating various LOD (level-of-detail) resources. We
 
 ## SSE-Terrain-Tamriel
 
-- In the [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-76-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) post on the STEP forum, scroll down to **Recommended Optionals**.
-- Click the **SSE-Terrain-Tamriel-Extended.esm** link (see screenshot).
-- Download the file from MEGA.
-- Create a new folder: `Mod Organizer 2\mods\SSE-Terrain-Tamriel-Extended`.
-- Move the downloaded ESM into the new folder.
-- In Mod Organizer 2, press F5 to refresh. The new mod will show up at the bottom of your load order.
+- Download the [SSE Terrain Tamriel Extend](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) plugin from the Nexus and install it as usual.
 - Place the mod anywhere below the **PATCHER OUTPUT** separator and enable it.
 - In the load order, drag the new plugin up all the way below **Lanterns Of Skyrim II.esm**.
 - Make sure the plugin is checked.
-
-![SSE-Terrain-Tamriel](/Pictures/tpf/finalisation/download-lodgen-esm.png)
 
 ## Terrain LOD Generation
 
