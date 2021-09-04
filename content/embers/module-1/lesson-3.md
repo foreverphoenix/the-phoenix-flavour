@@ -1,28 +1,23 @@
 ---
-title: "Lesson 3: Plugins, Pt 1"
+title: "Lesson 3: Essential Mods"
 weight: 3
 type: docs
 no-list: false
 description: >
- Installation of essential mods, and plugin basics.
+ Installation of essential mods and how to organise them in MO2.
 ---
 
 ## Overview
 
-**Welcome to Lesson 3.**
-
 - Installation of a number of essential mods.
-- Installation of SSEEdit.
+- How to edit mod configuration files through Mod Organizer 2.
+- Using the MO2 Notes feature to keep track of your changes.
+- General Mod Organizer 2 interface adjustments.
+- How to keep your mod order clean and well-organised with separators.
 
 ## Workbase
 
-Before we can have a look at Skyrim plugins, we need to install a few mods first.
-
-There are thousands upon thousands of mods on the Nexus, and the vast majority are simply a matter of personal preference. In this step, however, we are going to install and configure some of those mods that should be part of any modded setup. They will serve as a workbase, to be put in place before we even start to think about going ingame.
-
-First up, we should create a new separator for the set of mods that we will be installing next. Name it **ESSENTIALS** and place it below the **SCRIPT EXTENDER** mods.
-
-![Lesson 3 Separator](/Pictures/embers/module-1/lesson-three-separator.png)
+Before we start diving into the specifics of Skyrim plugins and our first tweaks in SSEEdit, we need to establish a solid baseline of essential mods that should be part of every setup. Some of the mods that we will install in this lesson will also provide plenty of practical examples for us to look at in the next lessons.
 
 ## SSE Engine Fixes
 
@@ -55,8 +50,7 @@ With the required preloader in place, we can now install the other main file. Si
 - From the [**SSE Engine Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 1)** main file (click the **Mod Manager Download** button).
 - Click **Download** button again in the **Mod Requirements** window (all dependencies are already installed).
 - In Mod Organizer 2, find the downloaded file in the **Downloads** tab and double-click it to install.
-- The new mod will now appear in the mod order below the **ESSENTIALS** separator.
-- Check the box to activate it.
+- The new mod will now appear at the bottom of your mod order. Check the box to activate it.
 
 ### Configuration
 
@@ -85,8 +79,6 @@ Here are two tweaks that I personally enable:
 - Press **CTRL + S** to save your changes.
 
 This is a pretty minor change and of course I can revert it anytime. However, I am forgetful so I also switch to the **Notes** tab in MO2 and leave a quick reminder for myself (see screenshot below). If in the future I should install RaceMenu after all, I will (hopefully) check my notes on SSE Engine Fixes and disable the precache killer again.
-
-I put the note into the line at the top which is what is displayed in the **Notes** column in the mod order. If I had changed more, I would have edited the larger space below.
 
 ![Engine Fixes Note](/Pictures/embers/module-1/engine-fixes-note.png)
 
@@ -155,7 +147,7 @@ Finally, I added `Enabled borderless fullscreen. Capped framerate at 60FPS.` in 
 
 With SSE Engine Fixes, NET Script Framework, and SSE Display Tweaks, the most vital of mods are now in place.
 
-In addition, we are going to install four more mods to serve as examples during the second part of this lesson where we talk about plugins and load order. All four of these mods can also be counted as essentials so you would want to install them either way.
+In addition, we are going to install four more mods to serve as examples in the next lesson where we talk about plugins and load order. All four of these mods can also be counted as essentials so you would want to install them either way.
 
 ### Unofficial Skyrim Special Edition Patch
 
@@ -201,111 +193,110 @@ It is because of the Mod Configuration Menus that SkyUI must be considered an es
 
 > If you are on an ultrawide monitor (21:9 resolution), you will need an additional patch. I will cover widescreen support later on, so you are likely best off keeping SkyUI disabled for the time being.
 
-## Plugin Basics
+## Taking Stock
 
-Several mod installations later, we have the beginning of a mod order in the left pane. If you switch to the **Plugins** tab in the right pane of Mod Organizer 2, the load order, you will also see three new plugins, sorted in the order in which they were installed:
+We have installed our first set mods which now show up in the left pane, the **mod order**. All mods will appear here after they are installed, but they will only be loaded in MO2's virtual data folder if they are checked. Unchecking a mod here is functionally the same thing as uninstalling it altogether.
 
-![Lesson 3 Plugins](/Pictures/embers/module-1/lesson-three-plugins.png)
+However, you may have noticed that only a few plugins have shown up in the right pane, the **load order**. Here, we only see Skyrim's five official master files at the top and, below them, plugins from the USSEP, SLAWF, and SkyUI, respectively. Clearly, not every mod we installed has a corresponding plugin in the load order.
 
-> If they are not automatically arranged this way, you can drag them around to match the image.
+A common misconception among modding beginners is that "mods" and "plugins" can be used interchangeably. **However, mods and plugins are not the same thing.** Plugins can be  *part* of a mod. Some mods achieve their effect exclusively through a plugin (or several). Other mods do not include any plugins at all.
 
-### ESM vs ESP
+Speaking of plugins ...
 
-Curiously, two of the four new plugins are displayed in ***bold italics*** while the others are not.
+### Plugin Types
 
-This is how Mod Organizer 2 distinguishes between plugin types in the load order. If you look at the official master files (**Skyrim.esm**, etc) they are greyed out because they cannot be disabled, but they are also in ***bold italics***. That is what **ESM** (Elder Scrolls Master) plugins look like. They are different from **ESP** (Elder Scrolls Plugin) files in multiple ways.
+We have been using the word "plugin" for two different file types now, so it may get confusing. Here is the gist of it:
 
-**One important difference is that ESM plugins will *always* load above ESP plugins.**
+**Plugins** are files with an `.ESP`, `.ESM`, or `.ESL` file extension. They appear in the load order (you can see some of them right now). Plugins, their interactions, and the order they are loaded in are going to be extremely relevant. As file types they are also unique to Creation Engine games like Skyrim.
 
-However, as you may already have noticed, the two ESM plugins actually have the **.esp** file extension rather than **.esm**. Why then are they marked as ESM plugins in Mod Organizer 2?
+**SKSE Plugins** with the `.DLL` extension on the other hand use SKSE functions to make Engine-level edits to the game. They appear in the mod order. They are far more rare and cannot easily be viewed or edited. [DLL plugins](https://en.wikipedia.org/wiki/Dynamic-link_library) are a common file type and not specific to Skyrim.
 
-This is where matters get complicated: There are hybrid file types. Using a program called **SSEEdit** (which we are going to install shortly), one can *flag* an ESP as ESM to force it to load above all other ESPs. In the case of the USSEP and SLAWF, this is helpful because they are intended to overwrite the official game files, but then in turn be overwritten by various other mods. As **ESM-ified ESPs**, the USSEP and SLAWF plugins can always be at the very top of your load order, right below the official master files.
+**Always assume I'm talking about ESP/ESM/ESL files when I mention "plugins".** Otherwise, I will specify the files in question as "SKSE Plugins". These two types of files are wildly different in what they do and how they function, so the distinction is very important.
 
-> Technically, the SLAWF plugin is a hybrid of ESM, ESP, and a third plugin type, the **ESL** plugin. We will talk about ESLs later on.
+We are going to talk more about (non-SKSE) plugins in the next lesson.
 
-### Plugin Order
+## Mod Order Columns
 
-As we already established, ESM plugins (which include ESM-ified ESPs) always load above ESP plugins. If you try to drag the **Unofficial Skyrim Special Edition Patch.esp** below **SkyUI_SE.esp**, it will simply not work. However, you can freely change the order of the two ESM-ified ESPs via drag-and-drop.
+While the left pane is looking rather tame right now, it is easy to become completely disoriented after installing a hundred or so mods. Thankfully, Mod Organizer 2 has many features and options to simplify managing your mod order which we will look at now.
 
-**Plugins overwrite each other in the order they are placed in.** A plugin that is lower in the load order will overwrite plugins higher in the load order. That is why the official master files are right at the top, to be overwritten by any plugin placed after them.
+First up, I recommend adjusting the columns at the top of the left pane. Several are already enabled and several more can be added. By clicking any one of the columns you can sort by whatever is displayed in it: For example, clicking the **Mod Name** column will sort all your mods alphabetically. By default the mod order is sorted by **Priority** which is what you want 99% of the time - after all, the point of the left pane is to show you the order in which your mods are loaded.
 
-> Plugin order and load order are the same thing.
+You can toggle each column separately by right-clicking any one of them and checking or unchecking the respective boxes:
 
-### Dependencies
+![MO2 Column Options](/Pictures/embers/module-1/mo2-column-options.png)
 
-Often plugins directly depend not only on official master files but also on other plugins. This is the case with **Landscape and Water Fixes.esp** which depends on the **Unofficial Skyrim Special Edition.esp**. If you uncheck the USSEP's plugin in the load order, Mod Organizer 2 will instantly warn you about the missing master. The notification in the upper right corner will light up and show the warning if you click on it.
+These are the columns that are available:
 
-![SLAWF Missing Master](/Pictures/embers/module-1/slawf-missing-master.png)
+- **Conflicts:** Displays asset conflicts (overwrites/overwritten). Highly recommended.
+- **Flags:** Displays various additional information (whether a mod has notes attached, files hidden, etc). Recommended.
+- **Content:** Displays the kinds of files contained in a mod (e.g. SKSE plugins, BSAs, Scripts, etc). Highly recommended.
+- **Category:** Displays the Nexus category. Not recommended, separators are a better way to sort your mods.
+- **Nexus ID:** Displays the mod's ID (which is part of its unique Nexus link). Not recommended, no practical use.
+- **Source Game:** Displays whether a mod is from the Skyrim LE or Skyrim SE Nexus. Highly recommended.
+- **Version:** Displays the version number of the mod as defined on the Nexus page. Highly recommended.
+- **Installation:** Displays the date and time of installation. Not recommended, no practical use.
+- **Priority:** Displays where the mod is loaded in the order. Absolutely essential.
+- **Notes:** Displays any notes in the note header (not the extended notes). Recommended.
 
-Alternatively, you can hover over the **Landscape and Water Fixes.esp** which has now been marked with a small warning sign icon to see all its dependencies and which master is missing.
+Which of these columns you use is entirely up to you. As you become familiar with Mod Organizer 2, you should absolutely customise its interface however seems most sensible to you. Some people prefer adding the version number to the mod name instead of using the dedicated column, some use the Categories column for better sorting and even define custom categories. I personally find it much easier to sort mods by separator than category.
 
-Since the SLAWF plugin requires the USSEP plugin directly, we know that it must be placed *below* it in the load order as plugins are always placed below their masters. Be sure to re-enable the USSEP plugin and to place it above the SLAWF plugin before we proceed with the next step.
+For now, please make sure that at least the following columns are enabled:
 
-> It should be noted that Skyrim SE, unlike Skyrim LE, does not *always* immediately crash on launch when a master is missing. However, a missing master error must still be fixed.
+- Conflicts
+- Flags
+- Content
+- Source Game
+- Priority
 
-## The Unwanted Effects Book
+If you do not have enough space to fit all columns comfortably, change the ratio of the panes in Mod Organizer 2. I personally like the left pane to take up about two thirds of space and the right pane one third.
 
-Among vanilla Skyrim's many bugs are certain active effects, applied by spells for instance, that may get "stuck" on the player after they are supposed to expire. The USSEP fixes these effects, but it also adds an option for the player to rid themselves of any leftovers. Initially, this could be accessed through a second shrine in the Temple of Kynareth in Whiterun, but was later moved to a book added to the player's inventory upon loading the game. Following complaints about a lack of immersion, a compromise was finally reached by placing the book in the Temple of Kynareth.
+Below you can see what I prefer my mod order to look like. However, you can absolutely come up with your own layout, there is no need to copy mine.
 
-Using books or powers in order to access or customise a mod's functionality was rather common before the Script Extender and SkyUI came along, although nowadays such options have largely been moved to dedicated mod configuration menus. With the release of Skyrim SE and the introduction of mods on consoles, many mod authors had to revert to these old workarounds as it is impossible to install files outside the Data folder on consoles, and thus impossible to install the Skyrim Script Extender. The USSEP team does not want to move the option to an MCM or make it available only through the (ingame) console as that would not work for the XBOX and Playstation ports of the mod.
+![MO2 My Columns](/Pictures/embers/module-1/mo2-my-columns.png)
 
-However, for us PC players, the book is entirely redundant. If you ever find yourself stuck with an active effect, you can get the book through the console very easily, so there is no need to have it lying around in the game world or lugging it around with you. Does it really break immersion? Some players are vehemently opposed to having any sort mod config items in the world. Others probably never noticed the book in the first place.
+## MO2 Separators
 
-Whatever the case, disabling that book makes for a nice example edit, our first foray into the world of plugins.
+The single most useful feature in MO2 to organise your mod order is **separators**. They were highly requested by the community and ultimately implemented by the MO2 team. Each separator can be placed anywhere in the mod order, its name and colour can be customised, mods can be grouped below it, and they can be collapsed or expanded at will.
 
-### Finding the Book
+Check out [**this picture**](/Pictures/embers/module-1/tpf-mod-order.png) of the TPF mod order to get an idea of how separators can help with organising several hundreds of mods.
 
-Let's go and have a look at that book, shall we?
+### Master Files Separator
 
-- Launch **SKSE** through Mod Organizer 2.
-- In the main menu, open the **console** (press the *tilde* key above TAB on your keyboard).
-- Type `coc WhiterunTempleofKynareth` and press **Enter**.
+At the top of your **mod order**, you can see three "mods" prefixed with **DLC**. Obviously, these are the three official DLC by Bethesda which appear in Mod Organizer 2 like any mod because, structurally, that is exactly what they are. Upon clicking on either of the three DLC files, the corresponding ESM (master plugin) will light up in the load order (right pane). This is very useful, especially with a larger setup later on: Clicking a mod in the left pane will always highlight any plugins that belong to it in the right pane, making them easy to find.
 
-> Unfortunately, you cannot copy and paste in the console (without additional mods).
+I personally drag the **DLC: Dawnguard** above the **DLC: HearthFires** in the mod order to mirror the order in which the DLC were released which is also the order in which they should overwrite each other. For the master files, the mod order is irrelevant so this is purely a cosmetic change. It just bothers me to see them in the wrong order.
 
-The **coc** (**c**enter **o**n **c**ell) command is insanely useful for testing. When used from the main menu, it will create a test character in your chosen cell with some basic equipment (check your inventory if you like). Do note that **coc** is for testing *only*, you will run into all kinds of issues if you try to use it for an actual playthrough as skipping the intro will cause many of the game's scripts to never be properly initialised.
+Now to create a separator for the official master files:
 
-To find the book, go from where you spawned by entrance to the temple into the sleeping area on the right. There is a bookcase just in front of you with the **USSEP Unwanted Effects Remover** on the floor leaning against its side.
+- Click the tools icon above the mod order and select **Create separator**:
 
-![USSEP Book 1](/Pictures/embers/module-1/ussep-book-1.jpg)
+![MO2 Create Separator](/Pictures/embers/module-1/mo2-create-separator.png)
 
-![USSEP Book 2](/Pictures/embers/module-1/ussep-book-2.jpg)
+- Enter **OFFICIAL MASTER FILES** as the name and click **OK**.
+- Your new separator will show up at the bottom of your mod order.
+- Drag it up above the three **DLC** "mods".
 
-Now we know where the book is. How does that help us?
+> You do not have to type the name in uppercase. That is just my personal preference.
 
-The USSEP plugin is big. It has hundreds upon hundreds of records, and finding a single book among them sounds rather inconvenient. What you *really* need to know is the book's **Form ID**, its unique identification number. To figure out that Form ID, we installed **More Informative Console**.
+If you like you can also change the separator's colour. You can do so by right-clicking it and clicking **Select Color**. You can set the separator to any colour you like, it can be changed anytime, and every separator can have a different colour. Which colour you should choose also depends on your chosen MO2 theme (my colour scheme would be far too bright for anyone using dark mode).
 
-- Open the console once again and click on the book.
-- Here is what you should see:
+### SKSE & Essentials Separators
 
-![USSEP Book 3](/Pictures/embers/module-1/ussep-book-3.jpg)
+Now that you know how to create separators in Mod Organizer 2, add two more for the mods we installed so far.
 
-Everything we could possibly need to know we can see at a glance thanks to the mod. Either take a screenshot or simply refer to mine, then **save** and **close** the game. It is time to talk about Form IDs.
+How you organise your mods is ultimately up to you. Any sort of system or naming scheme will be the most helpful to you if you came up with it yourself. However, for now I recommend going along with my choices until you have a better idea of what kind of setup you are going to build.
 
-## About Form IDs
+- Create a second separator and name it **SCRIPT EXTENDER**.
+- Drag it below **DLC: Dragonborn** and above **SKSE Scripts**.
+- Create a third separator and name it **ESSENTIALS**.
+- Drag it below **Address Library for SKSE Plugins** and above **SSE Engine Fixes**.
 
-Every object, NPC, magic effect, music track, etc, in the game is defined in a unique *record* which is contained in a *plugin*. For vanilla Skyrim, that is what the official master files do: Each of the five plugins contains thousands of **records**, one for every *thing* in the game, for NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
+Your new separators can now be collapsed whenever you like so that the left pane does not become too cluttered.
 
-Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F). The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: No two plugins can be loaded in the same spot in the load order so they will always have a different index.
+At this point, your mod order should look something like this:
 
-### Base and Ref Form ID
-
-However, if we check the info we grabbed through More Informative Console, we will notice that the book has not one but *two* Form IDs:
-
-![USSEP Book FormID](/Pictures/embers/module-1/ussep-book-formid.jpg)
-
-The **Base Form ID** is `050B1985` and describes the book itself: It defines which model it uses, what its contents are, and, in this case, what script is attached to it. From the first two digits of the Form ID, you can tell that it is defined in the **Unofficial Skyrim Special Edition Patch.esp** plugin. If you check the load order in Mod Organizer 2, the mod index of the USSEP plugin is **05** which is identical to the index of the book's Base Form ID.
-
-The **Ref Form ID** is `0190001B` and describes the book's placement: That it is located in the `WhiterunTempleofKynareth` cell, that it is enabled, how it is placed, and so on. The reason a second Form ID is needed is because you may have various copies of the same object distributed throughout the game. While the book is unique right now, a Steel Sword would not be. There are dozens of hand-placed Steel Swords in Skyrim. Each of them has a unique REFR (reference) record with its unique Ref Form ID: They *refer* to the original item defined in the record with the Base Form ID.
-
-**In short:** `050B1985` is the USSEP Unwanted Effects Remover book and `0190001B` is the copy of it placed in the Temple of Kynareth.
-
-### Injected Forms
-
-As you may have noticed, the index for the book's Ref Form ID actually corresponds to **Update.esm** instead of the USSEP plugin. It is an **injected record**, meaning that while it is not *defined* in Update.esm, another plugin referring to it would not have a missing master if the USSEP were not present as long as Update.esm is there. This is helpful for patchless compatibility.
-
-For example, a mod might change the interior of the Temple of Kynareth in such a way that the USSEP book is suddenly stuck in furniture, or otherwise inaccessible or in the way. The mod author could add the USSEP as a master to their plugin and move the book out of the way, but now their Temple of Kynareth mod would always require the USSEP.
-
-Because the book's REFR record is an injected form though, adding the USSEP as a master would not be required in the first place - only Update.esm would have to be added (and everyone has Update.esm). That means the book would be moved if the USSEP was installed, but there would not be a missing master error if it was not.
+![Lesson 3 Mods](/Pictures/embers/module-1/lesson-three-mods.png)
 
 ## Conclusion
+
+While this lesson largely consisted of preparational steps for the next one, you should slowly be getting used to the process of downloading and installing mods as well as the user interface of Mod Organizer 2. We now have everything we need in order to start looking at various examples and learn more about plugins.

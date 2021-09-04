@@ -9,14 +9,11 @@ description: >
 
 ## Overview
 
-**Welcome to Lesson 2.**
-
 - The Skyrim Script Extender and its significance.
 - Skyrim SE updates and how to update-proof your installation.
 - The root and data folder, and the differences between them.
-- MO2's virtual file system and how it works.
+- MO2's virtual file system and (roughly) how it works.
 - Installation of the Script Extender and related mods.
-- How to keep your MO2 mod order clean and well-organised.
 
 ## The Skyrim Script Extender
 
@@ -304,97 +301,7 @@ This will now download the file through Mod Organizer 2 into the downloads folde
 - It will now appear in your mod order. Check the box to activate it.
 
 ![Address Library Installation](/Pictures/embers/module-1/address-library-installation.png)
- 
-## MO2 Interface Adjustments
-
-Before we conclude this lesson, let's clean up Mod Organizer 2 a bit. We have installed our first three mods which now show up in the left pane, the **mod order**. All mods will appear here after they are installed, but they will only be loaded in MO2's virtual data folder if they are checked. Unchecking a mod here is functionally the same thing as uninstalling it entirely.
-
-However, you may have noticed that nothing new showed up in the **load order** in the right pane of Mod Organizer 2. All we see here are Skyrim's five official master files. This is because Skyrim **mods** do not always include Skyrim **plugins** which is the type of file that is sorted in the load order (again, Skyrim plugins are different from SKSE plugins).
-
-**"Plugins" and "mods" are not the same thing and cannot be used interchangeably.** This is a very common misconception. Plugins are potential parts of mods. Some mods achieve their effect exclusively through a plugin or several. Many mods do not include any plugins at all.
-
-We will talk about Skyrim plugins very soon but for now the mod order is more relevant to us.
-
-## Mod Order Columns
-
-While the left pane is looking rather tame right now, it is easy to become completely disoriented after installing a hundred or so mods. Thankfully, Mod Organizer 2 has many features and options to simplify managing your mod order which we will look at now.
-
-First up, I recommend adjusting the columns at the top of the left pane. Several are already enabled and several more can be added. By clicking any one of the columns you can sort by whatever is displayed in it: For example, clicking the **Mod Name** column will sort all your mods alphabetically. By default the mod order is sorted by **Priority** which is what you want 99% of the time - after all, the point of the left pane is to show you the order in which your mods are loaded.
-
-You can toggle each column separately by right-clicking any one of them and checking or unchecking the respective boxes.
-
-![MO2 Column Options](/Pictures/embers/module-1/mo2-column-options.png)
-
-These are the columns that are available:
-
-- **Conflicts:** Displays asset conflicts (overwrites/overwritten). Highly recommended.
-- **Flags:** Displays various additional information (whether a mod has notes attached, files hidden, etc). Recommended.
-- **Content:** Displays the kinds of files contained in a mod (e.g. SKSE plugins, BSAs, Scripts, etc). Highly recommended.
-- **Category:** Displays the Nexus category. Not recommended, separators are a better way to sort your mods.
-- **Nexus ID:** Displays the mod's ID (which is part of its unique Nexus link). Not recommended, no practical use.
-- **Source Game:** Displays whether a mod is from the Skyrim LE or Skyrim SE Nexus. Highly recommended.
-- **Version:** Displays the version number of the mod as defined on the Nexus page. Highly recommended.
-- **Installation:** Displays the date and time of installation. Not recommended, no practical use.
-- **Priority:** Displays where the mod is loaded in the order. Absolutely essential.
-- **Notes:** Displays any notes in the note header (not the extended notes). Recommended.
-
-Which of these columns you use is entirely up to you. As you become familiar with Mod Organizer 2, you should absolutely customise its interface however seems most sensible to you. Some people prefer adding the version number to the mod name instead of using the dedicated column, some use the Categories column for better sorting and even define custom categories. I personally find it much easier to sort mods by separator than category.
-
-For now, please make sure that at least the following columns are enabled:
-
-- Conflicts
-- Flags
-- Content
-- Source Game
-- Priority
-
-If you do not have enough space to fit all columns comfortably, change the ratio of the panes in Mod Organizer 2. I personally like the left pane to take up about two thirds of space and the right pane one third.
-
-Below you can see what I prefer my mod order to look like. However, you can absolutely come up with your own layout, there is no need to copy mine.
-
-![MO2 My Columns](/Pictures/embers/module-1/mo2-my-columns.png)
-
-## MO2 Separators
-
-The single most useful feature in MO2 to organise your mod order is **separators**. They were highly requested by the community and ultimately implemented by the MO2 team. Each separator can be placed anywhere in the mod order, its name and colour can be customised, mods can be grouped below it, and they can be collapsed or expanded at will.
-
-Check out [**this picture**](/Pictures/embers/module-1/tpf-mod-order.png) of the TPF mod order to get an idea of how separators can help with organising several hundreds of mods.
-
-### Master Files Separator
-
-At the top of your **mod order**, you can see three "mods" prefixed with **DLC**. Obviously, these are the three official DLC by Bethesda which appear in Mod Organizer 2 like any mod because, structurally, that is exactly what they are. Upon clicking on either of the three DLC files, the corresponding ESM (master plugin) will light up in the load order (right pane). This is very useful, especially with a larger setup later on: Clicking a mod in the left pane will always highlight any plugins that belong to it in the right pane, making them easy to find.
-
-I personally drag the **DLC: Dawnguard** above the **DLC: HearthFires** in the mod order to mirror the order in which the DLC were released which is also the order in which they should overwrite each other. For the master files, the mod order is irrelevant so this is purely a cosmetic change. It just bothers me to see them in the wrong order.
-
-Now to create a separator for the official master files:
-
-- Click the tools icon above the mod order and select **Create separator**:
-
-![MO2 Create Separator](/Pictures/embers/module-1/mo2-create-separator.png)
-
-- Enter **OFFICIAL MASTER FILES** as the name and click **OK**.
-- Your new separator will show up at the bottom of your mod order.
-- Drag it up above the three **DLC** "mods".
-
-> You do not have to type the name in uppercase. That is just my personal preference.
-
-If you like you can also change the separator's colour. You can do so by right-clicking it and clicking **Select Color**. You can set the separator to any colour you like, it can be changed anytime, and every separator can have a different colour. Which colour you should choose also depends on your chosen MO2 theme (my colour scheme would be far too bright for anyone using dark mode).
-
-### Essentials Separator
-
-Now that you know how to create separators in Mod Organizer 2, I recommend creating an second one for the SKSE-related mods we just installed. How you organise your mods is ultimately up to you. Any sort of system or naming scheme will be the most helpful to you if came up with it yourself. However, for now I recommend going along with my choices until you have a better idea of what kind of setup you are going to build.
-
-- Create a second separator and name it **SCRIPT EXTENDER**.
-- Drag it below **DLC: Dragonborn** and above **SKSE Scripts**.
-
-Your new separators can now be collapsed whenever you like so that the left pane does not become too cluttered.
-
-At this point, your mod order should look something like this:
-
-![Lesson 2 Mod Order](/Pictures/embers/module-1/lesson2-mod-order.png)
 
 ## Conclusion
-
-**Congratulations, you have completed Lesson 2!**
 
 With the proper setup of the Script Extender and all related files out of the way, we are now free to install most other mods.

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 1: Setup"
+title: "Lesson 1: Initial Setup"
 weight: 1
 type: docs
 no-list: false
@@ -8,8 +8,6 @@ description: >
 ---
 
 ## Overview
-
-**Welcome to Lesson 1.**
 
 - About modding Skyrim in general.
 - The core differences between the available versions of Skyrim.
@@ -330,7 +328,5 @@ If you have not done so already, you need to connect Mod Organizer 2 to your Nex
 ![MO2 Nexus Authorisation](/Pictures/tpf/initial-setup/authorise-mo2.png)
 
 ## Conclusion
-
-**Congratulations, you completed Lesson 1!**
 
 We have now done all the basic preparations necessary before we can dive into actual mod installation. Of course, there are many more tools to install and procedures to follow, but they can be addressed later on. Since we have the setup out of the way now, the next lesson will finally deal with mods themselves.
