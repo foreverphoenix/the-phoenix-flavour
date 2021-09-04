@@ -243,11 +243,11 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 * **Main Files:** Immersive Dawnguard Dayspring Pass (IDDP)
 
-##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
+##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/54754?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Ash SE v2.0
+* **Main Files:** Better Dynamic Ash SE v2.1.1
 
 ##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
 

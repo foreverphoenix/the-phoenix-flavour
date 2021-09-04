@@ -29,18 +29,6 @@ description: >
 - **Main Files:** FMPSE 3-3 Script (v2.0)
 - **Main Files:** Stalhrim (Vanilla Speed) ESP
 
-##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Craftable Torches
-
-##### [Craftable Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/3385?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Craftable Lockpicks Option - 5
-
 ##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
 
 #### Download Instructions

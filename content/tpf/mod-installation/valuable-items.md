@@ -180,8 +180,3 @@ description: >
 
 - **Main Files:** Paragon gems 1K
 - **Optional Files:** Paragon gems EnbLight Patch >> `merge with the main file`
-
-#### FOMOD Instructions
-
-- **Texture Sizes:** 2K
-- **Choose Metal Colors:** Bronze

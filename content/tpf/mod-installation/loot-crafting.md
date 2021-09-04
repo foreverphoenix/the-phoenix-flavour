@@ -120,6 +120,12 @@ description: >
 
 - **Optional Files:** Lightweight Smithing Tweaks for SSO
 
+##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Craftable Torches
+
 ##### [Improvement Names Customized](https://www.nexusmods.com/skyrimspecialedition/mods/27776?tab=files)
 
 #### Download Instructions

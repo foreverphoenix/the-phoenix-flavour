@@ -232,7 +232,7 @@ description: >
 
 * **Main Files:** Open Face Guard Helmets
 
-##### [Sleeved Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/52718?tab=description)
+##### [Sleeved Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/52718?tab=files)
 
 #### Download Instructions
 

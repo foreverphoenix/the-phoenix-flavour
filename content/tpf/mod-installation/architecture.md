@@ -176,7 +176,7 @@ description: >
   - `textures\architecture\winterhold\WinterholdWindow01_n.dds`
   - `textures\architecture\winterhold\WinterholdWindow02.dds`
   - `textures\architecture\winterhold\WinterholdWindow02_em.dds`
-  - `effects\`
+  - `textures\effects\`
 
 > The window textures are covered by RUSTIC WINDOWS. The effects folder includes window textures for the file paths used by ELFX, a mod that is not in TPF.
 

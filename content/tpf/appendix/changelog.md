@@ -6,6 +6,31 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.7.6
+
+> TBD
+
+#### Mod Installation
+
+- **Graphics Baseline:** Fixed download instructions for DynDOLOD Bright LOD Waterfall Fix (Optional instead of Main File).
+- **Landscape:** Updated the link for Better Dynamic Ash to point to the new mod page.
+- **Landscape:** Updated the download instructions for Better Dynamic Ash.
+- **Architecture:** Fixed typo in additional instructions for Skyland - Winterhold (textures\effects\ folder).
+- **Valuable Items:** Removed FOMOD instructions for Paragon Gems HD (left over from a removed mod).
+- **Apparel & Gear:** Fixed link for Sleeved Stormcloaks (was pointing to description instead of files).
+- **Miscellaneous:** Moved Craftable Torches to Loot & Crafting.
+- **Miscellaneous:** Removed Craftable Lockpicks (functionality was added to Simple Smithing Overhaul).
+
+#### Conflict Resolution Patch
+
+- Fixed conflicts between SMIM and the BDA Large Ref Disabler
+- Removed Better Dynamic Ash as a master from the CRP (no longer necessary)
+
+#### Wabbajack
+
+- Updated Better Dynamic Ash to 2.1.1
+- Updated Adamant - A Perk Overhaul to 5.1.8
+
 ## Release 4.7.5
 
 > 03/09/2021

@@ -30,7 +30,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** DynDOLOD Bright LOD Waterfall Fix
+- **Optional Files:** DynDOLOD Bright LOD Waterfall Fix
 
 ##### [Better DynDOLOD Red Mountain Plume](https://www.nexusmods.com/skyrimspecialedition/mods/43863?tab=files)
 
