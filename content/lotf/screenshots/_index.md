@@ -8,6 +8,8 @@ description: >
 
 ![LOTF Main Menu](/Pictures/lotf/screenshots/lotf-main-menu.jpg)
 
+![LOTF Leaving Helgen](/Pictures/lotf/screenshots/lotf-leaving-helgen.jpg)
+
 ![LOTF Riverwood](/Pictures/lotf/screenshots/lotf-riverwood.jpg)
 
 ![LOTF Tundra Road](/Pictures/lotf/screenshots/lotf-tundra-road.jpg)

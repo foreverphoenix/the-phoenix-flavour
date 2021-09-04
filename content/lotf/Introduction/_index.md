@@ -19,12 +19,10 @@ description: >
 
 While future updates will almost certainly change them, here is what LOTF looks like in numbers:
 
-- **Installation:** ~46GB
-- **Downloads:** ~35GB
-- **Mod Count:** 175
-- **Plugin Count:** 100
-
-> The file size is largely inflated by Base Coat and Skyrim Realistic Overhaul (the texture replacers) as well as the remastered audio files and generated outputs for LODs and facegen. 
+- **Installation:** ~38GB
+- **Downloads:** ~31GB
+- **Mod Count:** 186
+- **Plugin Count:** 109
 
 ### Features
 
@@ -32,20 +30,20 @@ While future updates will almost certainly change them, here is what LOTF looks 
 - A plethora of fixes and tweaks for a smoother vanilla-like experience.
 - Fixed green-tinted blonde hair, weirdly bright falling leaves at night, and more.
 - **More lush trees, actually 3D roads, less oily water**, and many other visual improvements.
-- All textures replaced by cleaned and upscaled versions, courtesy of [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850).
 - Vanilla-like but higher quality textures for many objects provided by [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul).
+- All remaining textures replaced by cleaned and upscaled versions, courtesy of the [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) series.
 - Improved weathers with [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) consistent with the vanilla style and colours.
 - Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440).
 - More resource management-oriented combat with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) (and vanilla damage modifiers).
 - Better sound quality with the [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) and [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466).
 
-Legends of the Frost features rebuilt terrain LOD with [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-84-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/?ct=1629204990) as well as highly improved object LOD and hybrid tree LOD generated with [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382). All **facegen for vanilla NPCs was recreated** at twice the vanilla resolution with higher quality assets.
+Legends of the Frost features rebuilt terrain LOD with [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-84-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/?ct=1629204990) as well as highly improved object LOD and hybrid tree LOD generated with [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382). All facegen for vanilla NPCs was recreated at twice the vanilla resolution with higher quality assets.
 
 Please check the [Documentation](/lotf/documentation/) for more details on the included mods and why they were included, or check out the [Load Order Library](https://loadorderlibrary.com/lists/legends-of-the-frost) page for the full mod list and load order.
 
 ### Performance
 
-LOTF has **no significant performance impact**. It was not designed to be a "lite" list -  I am using the BethINI High preset as well as DynDOLOD on High with hybrid trees - but the absence of an ENB preset should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyrim Realistic Overhaul** for textures which has largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
+LOTF has **no significant performance impact**. It was not designed to be a "lite" list -  I am using the BethINI High preset as well as DynDOLOD on High with hybrid trees - but the absence of an ENB preset should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyrim Realistic Overhaul** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
 
 I personally play @1440p60FPS on a rather high-end PC (i7 10700k, RTX 3080) and barely ever dropped below 144FPS when I uncapped the framerate for testing purposes.
 
@@ -59,6 +57,8 @@ Just like my Fallout 4 list is named after one of my favourite songs, I picked "
 
 - To properly set up Skyrim SE for LOTF, [follow these instructions](/wj/wj-sse/game-setup/).
 - To install LOTF through Wabbajack, [follow these instructions](/wj/wj-sse/list-installation/).
+
+Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
 
 ### MCM Instructions
 

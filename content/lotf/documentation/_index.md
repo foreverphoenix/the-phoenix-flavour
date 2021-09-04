@@ -24,11 +24,15 @@ For interiors I combined [Relighting Skyrim](https://www.nexusmods.com/skyrimspe
 
 ### Textures & Meshes
 
-This section was the hardest one for me to limit myself. In my personal opinion, there are two choices when starting to replace textures in Skyrim: Either stick strictly to the vanilla style using primarily upscaled textures, or going all in with hundreds of hand-made, high-quality textures. Naturally, I went with the latter for Legends of the Frost and it was clear from the beginning that [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850) and [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul) were going to make up the bulk of the replaced textures (and the overall filesize).
+This section was the hardest one for me to limit myself. In my personal opinion, there are two choices when starting to replace textures in Skyrim: Either stick strictly to the vanilla style using primarily upscaled textures, or go all in with hundreds of hand-made, high-quality textures. Naturally, I went with the latter for Legends of the Frost and chose [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) and [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul) to make up the bulk of the replaced textures (and the overall filesize).
+
+(If you are wondering why vanilla textures were not an option, watch [this video](https://youtu.be/nHkCJcUJkTM).)
 
 Beyond these major overhauls, I elected to add only those mods that I consider absolutely essential for fixing various eye sores. This includes [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) and [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834) as well as [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052). Water was hugely improved by [Cathedral Water Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22962).
 
-All flora-related textures are covered by the aforementioned Base Coat repack which contains [Cathedral - Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104) and [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103) among other things. I did add [Enhanced Vanilla Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008) to the mix, using the lush version for improved meshes and textures, and vastly improved LOD resources, but with the same colours as vanilla trees. I considered sticking with vanilla grass, but eventually opted for [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154) grass instead. It is close in style to vanilla (more sparse than most other grass overhauls) while looking noticably better in many places.
+Most flora-related textures are covered by [Cathedral - Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104) and [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103). I did add [Enhanced Vanilla Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008) to the mix, using the lush version for improved meshes and textures, and vastly improved LOD resources, but with the same colours as vanilla trees. With [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890), their bark textures were significantly improved.
+
+I considered sticking with vanilla grass, but eventually opted for [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154) grass instead. It is close in style to vanilla (more sparse than most other grass overhauls) while looking noticably better in many places.
 
 ### Character Appearance
 
@@ -54,19 +58,19 @@ As background in the main menu you will see one of my favourite replacers: [DREL
 
 ### Gameplay & Difficulty
 
-There are only two major gameplay overhauls included in Legends of the Frost: [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) greatly enhances combat so that resource management (specifically Stamina) becomes central to every fight. I did add the vanilla damage modifiers addon so that combat does not become significantly harder. Please refer to the mod page for up-to-date details on everything the mod does.
+There is only a single major gameplay overhaul included in Legends of the Frost: [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) greatly enhances combat so that resource management (specifically Stamina) becomes central to every fight. I did add the vanilla damage modifiers addon so that combat does not become significantly harder. Please refer to the mod page for up-to-date details on everything the mod does. I also added [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) for its dragon AI improvements only.
 
-The second major overhaul is [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130) which fixes a large amount of annoyances and inconsistencies with the vanilla potion crafting. Among other things, it stretches the effect for various regeneration potions out over five seconds: A Restore Stamina will now restore X Stamina over 5 seconds instead of instantly. Again, check the mod page for more details.
+**Perks, standing stones, and racial traits remain vanilla.** That means any vanilla character builds will most likely work fine in LOTF. (Some smithing perks were adjusted by WACCF.)
 
-**Perks, standing stones, and racial traits remain largely vanilla.** That means any vanilla character builds will most likely work fine in LOTF. (Some smithing perks were adjusted by WACCF.)
-
-Encounter zones were adjusted by [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487), meaning that some dungeons may be slightly higher level, but that the specific levels also make a great deal more sense. I highly recommend checking the mod page for a detailed explanation. With [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592) now create detection events (meaning they can alert enemies) and you have additional ways to disarm traps. Fortunately, followers will no longer trigger traps thanks to [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755).
+With [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592) now create detection events (meaning they can alert enemies) and you have additional ways to disarm traps. Fortunately, followers will no longer trigger traps thanks to [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755).
 
 Due to [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532), you will no longer be able to underfill soul gems: For instance, if you have no Empty Lesser Soul Gems in your inventory, a lesser soul will be lost rather than placed in an Empty Greater Soul Gem. The same mod will also make it so your *best* arrows or bolts are equipped upon switching to a ranged weapon instead of your *worst* (which is vanilla behaviour).
 
+And finally horses were improved by [Simple Horse Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250). Most horses are set them to Cowardly and Protected, meaning they flee combat and can only be killed if the player deals the killing blow. Speed, stamina, and handling were also improved.
+
 ### Quests & NPCs
 
-In order to make sure you never get radiant quests for areas that you are underleveled for, I added the [Radiant Requirements MCM](https://www.nexusmods.com/skyrimspecialedition/mods/45427) along with my profile to match encounter zone levels from Arena. Radiant quests will also no longer have a chance to be on Solstheim with [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416).
+Radiant quests picked up in Skyrim will no longer have a chance to be on Solstheim with [Quests Are In Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18416).
 
 The following quests are also affected by mods:
 
