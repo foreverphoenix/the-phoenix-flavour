@@ -1,16 +1,60 @@
 ---
 title: "Changelog"
-weight: 4
+weight: 5
 type: docs
 description: >
   Changelog for LOTF.
 ---
 
+## Release 1.1
+
+> 06/09/2021
+
+**Fixing the intro dialogue:**
+
+So apparently increasing horse speed will mess up the intro carriage ride because the horses are too fast for the dialogue - who would have thought? I reverted *only* the forward walk speed tweak from Simple Horse Tweaks to vanilla which should fix it.
+
+**New ENB preset:**
+
+I also added an **ENB** preset in this update. If The Truth was still on the Nexus, it would have been part of the initial release, but with things as they are I had elected not to use an ENB at all. However, after some playing I realised that vanilla ambient occlusion crushes blacks on the character and some shadows to the point where it's just ugly as hell.
+
+Thankfully, @Shade088 from our Discord server recommended [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098) which turns out to be the perfect alternative. It does not affect colours (so you can also use it with any weather mod), but implements all those little improvements that ENB can bring to the table such as ambient occlusion. @Shade088 also provided tweaked water values to hide the distant water seams so I didn't even have to figure these out myself.
+
+Since LOTF is using the Stock Game folder system, ENB is already installed for you and you do not have to move any files.
+
+**This update is save-safe.**
+
+#### Mod Changes
+
+- Added deorder's MO2 plugins (largely for myself)
+- Added Minimal ENB for Obsidian Weathers
+- Added ENBSeries binaries
+- Added Skyrim Particle Patch for ENB
+- Added Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
+- Added DynDOLOD Bright LOD Waterfall Fix
+- Added Time Format Changer (disabled by default)
+- Added Menu and Load Smoke Removed for ENB
+- Added No Lockpicking (disabled by default)
+- Removed Loading Screen Smoke Removed
+- Disabled ambient occlusion in the INI files
+- Replaced the MO2 splash screen with one specifically made for LOTF
+- Actually hid the terrain LOD files overwriting AQWM
+
+#### Website Changes
+
+- **Introduction:** Removed LOTF in numbers section. No point maintaining this.
+- **Introduction:** Added ENB Hotkeys section.
+- **Introduction:** Fixed MCM instructions referencing removed mods.
+- **Introduction:** Moved the customisation section to the new dedicated page.
+- **Customisation:** Added new "Enable 24h time format" option.
+- **Customisation:** Added new "Skip Lockpicking" option.
+- **Documentation:** Added notes on the new ENB preset and my tweaks for it
+
 ## Release 1.0
 
 > 04/09/2021
 
-**First public release of LOFT.**
+**First public release of LOTF.**
 
 #### Mod Changes
 

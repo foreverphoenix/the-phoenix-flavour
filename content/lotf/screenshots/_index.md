@@ -1,10 +1,12 @@
 ---
 title: "Screenshots"
-weight: 3
+weight: 4
 type: docs
 description: >
   Screenshots to showcase Legends of the Frost.
 ---
+
+> All these screenshots were taken with a pre-release version of LOTF and are missing the ENB.
 
 ![LOTF Main Menu](/Pictures/lotf/screenshots/lotf-main-menu.jpg)
 

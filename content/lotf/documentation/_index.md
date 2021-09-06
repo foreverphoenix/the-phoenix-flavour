@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-weight: 2
+weight: 3
 type: docs
 description: >
   Mods and features included in Legends of the Frost.
@@ -19,6 +19,8 @@ In addition to these, there are several dozen other bug fix mods including many 
 ### Weather & Lighting
 
 After some testing, I settled on [Wander - A Weather Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24439) which turned out to be an incredible mod with some serious improvements to vanilla weathers. The mod's weathers, colours, and variance are spot on. Nights are darker, but not unplayable. I decreased the strength of the fog obscuring distant terrain, one of the mod's main features, as it looks infinitely better than in vanilla with LOTF's regenerated terrain, tree, and object LODs.
+
+I played without an ENB preset initially, but quickly realised that the visual improvements of a lightweight preset were simply too good to miss out on. Since The Truth ENB is no longer on the Nexus, I added [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098) which is perfectly suited for any weather overhaul on account of the fact that it does not change the colours. Water settings were tweaked to better hide the distant seams (thanks Shade!). I also disabled complex particle lights and reverted the edit to fire intensity during the night. More tweaks may be added down the line.
 
 For interiors I combined [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) with its lightbulb adjustments and fixes with [Ambiance](https://www.nexusmods.com/skyrimspecialedition/mods/46383). Together these two mods tone down vanilla's often overly bright interiors, again without making them unplayable, as well as reduce the ambient light without actual sources.
 
