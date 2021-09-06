@@ -52,7 +52,10 @@ If you want to access the Creation Club through the main menu, do the following:
 
 ## Skip Lockpicking
 
-If you are tired of the lockpicking minigame, I included a mod to skip it. Interacting with a locked container will unlock it, but consume lockpicks based on the lock difficulty
+If you are tired of the lockpicking minigame, I included a mod to skip it. Interacting with a locked container will unlock it, but consume lockpicks based on the lock difficulty.
+
+- In **Mod Organizer 2**, expand the **GAMEPLAY** separator.
+- Check the mod **No Lock Picking**.
 
 ## Enable Barenziah Quest Markers
 
