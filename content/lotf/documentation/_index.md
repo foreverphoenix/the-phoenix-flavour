@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-weight: 3
+weight: 4
 type: docs
 description: >
   Mods and features included in Legends of the Frost.
