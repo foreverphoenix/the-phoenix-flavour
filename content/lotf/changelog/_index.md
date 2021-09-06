@@ -113,6 +113,3 @@ Since LOTF is using the Stock Game folder system, ENB is already installed for y
 > 22/08/2021
 
 - Initial release for Wabbajack testing.
-
-
-*hi i'm a test you can ignore me*
