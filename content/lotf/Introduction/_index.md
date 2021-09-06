@@ -14,15 +14,8 @@ description: >
 
 - **LOTF** is a small list in scope, strictly limited to fixing vanilla annoyances.
 - **LOTF** features better distant terrain, sharper textures, and improved combat.
-- **LOTF** does not come with an ENB preset and is very light on performance.
+- **LOTF** comes with a lightweight ENB preset and is highly optimised for performance.
 - **LOTF** will not receive updates requiring a new save for the forseeable future.
-
-While future updates will almost certainly change them, here is what LOTF looks like in numbers:
-
-- **Installation:** ~38GB
-- **Downloads:** ~31GB
-- **Mod Count:** 186
-- **Plugin Count:** 109
 
 ### Features
 
@@ -33,6 +26,7 @@ While future updates will almost certainly change them, here is what LOTF looks 
 - Vanilla-like but higher quality textures for many objects provided by [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul).
 - All remaining textures replaced by cleaned and upscaled versions, courtesy of the [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) series.
 - Improved weathers with [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) consistent with the vanilla style and colours.
+- Better shadows, sensible ambient occlusion, and fixed water seams with [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098).
 - Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440).
 - More resource management-oriented combat with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) (and vanilla damage modifiers).
 - Better sound quality with the [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) and [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466).
@@ -43,7 +37,7 @@ Please check the [Documentation](/lotf/documentation/) for more details on the i
 
 ### Performance
 
-LOTF has **no significant performance impact**. It was not designed to be a "lite" list -  I am using the BethINI High preset as well as DynDOLOD on High with hybrid trees - but the absence of an ENB preset should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyrim Realistic Overhaul** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
+LOTF has **no significant performance impact**. It was not designed to be a "lite" list -  I am using the BethINI High preset as well as DynDOLOD on High with hybrid trees - but the absence of a fully-featured ENB preset should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyrim Realistic Overhaul** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
 
 I personally play @1440p60FPS on a rather high-end PC (i7 10700k, RTX 3080) and barely ever dropped below 144FPS when I uncapped the framerate for testing purposes.
 
@@ -60,58 +54,18 @@ Just like my Fallout 4 list is named after one of my favourite songs, I picked "
 
 Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
 
+### ENB Hotkeys
+
+The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter are the same as in TPF and WTP:
+
+- **F7** toggles the FPS counter.
+- **F10** toggles the ENB effect.
+- **F11** opens the ingame GUI.
+
+All other functions (screenshot, FPS cap, toggle DOF) were disabled. I recommend taking screenshots with Steam by pressing F12.
+
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. For instance, the **Radiant Requirements** MCM is already set up correctly with levels matching **Arena's** encounter zones thanks to the installed preset. However, you may wish to customise **Immersive HUD** in its MCM (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime.
+LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise **Immersive HUD** in its MCM (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime.
 
-## Customisation
-
-LOTF is a very small list and I do not expect that I will ever much customisation options. However, there are a few small changes that you can make:
-
-### Uncap the framerate
-
-Thanks to [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705), it is absolutely possible to play Skyrim SE at above 60FPS without breaking the game. In my experience, the likelyhood of (minor) physics bugs occuring increases with the framerate which is why I personally prefer capping at 60FPS. You can also try capping at 75FPS or 90FPS if you really want a higher framerate. Due to LOTF's performance-light nature, you should be able to achieve such framerates on most PCs.
-
-To change the FPS cap, you need to edit the INI file for SSE Display Tweaks:
-
-- In **Mod Organizer 2**, expand the **ESSENTIALS** separator.
-- Double-click the mod **SSE Display Tweaks**.
-- Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
-- Scroll down to `FramerateLimit=` (around **Line 207**) and adjust the value to your liking.
-- Press **CTRL + S** to save your changes and close the window.
-
-![LOTF Uncap Framerate](/Pictures/lotf/lotf-uncap-framerate.png)
-
-### Revert to vanilla font
-
-If you prefer the vanilla font over my choice, Roboto, you can disable the font replacer anytime:
-
-- In **Mod Organizer 2**, expand the **INTERFACE** separator.
-- Uncheck the mod **Roboto Font Replacer**.
-
-### Enable dot crosshair
-
-If you prefer a subtle dot over the vanilla crosshair, follow these steps:
-
-- In **Mod Organizer 2**, expand the **INTERFACE** separator.
-- Check the mod **SkyHUD - White Dot Crosshair**.
-
-### Access the Creation Club
-
-If you want to access the Creation Club, through the main menu, do the following:
-
-- In **Mod Organizer 2**, expand the **INTERFACE** separator.
-- Uncheck the mod **ReCleaned Menu**.
-
-### Enable Barenziah Quest Markers
-
-Finding all 24 Stones of Barenziah during the [No Stone Unturned](https://en.uesp.net/wiki/Skyrim:No_Stone_Unturned) quest can be a bit of a slog. If you would prefer quest markers to show you exactly where the stones are located, turn on this option in the **SSoB** MCM:
-
-![SSoB MCM](/Pictures/lotf/lotf-ssob-mcm.jpg)
-
-### Increase combat difficulty
-
-If you find combat to be too easy, it is advisable to disable the Blade & Blunt vanilla damage modifiers plugin before increasing the difficulty through the game settings:
-
-- In **Mod Organizer 2**, expand the **GAMEPLAY** separator.
-- Uncheck the mod **Blade and Bunt - Vanilla Difficulty Modifiers**.
+There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
