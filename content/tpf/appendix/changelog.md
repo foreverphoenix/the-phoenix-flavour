@@ -12,6 +12,7 @@ description: >
 
 #### Mod Installation
 
+- **Fixes:** Added Modern Clap Bug Fix.
 - **Graphics Baseline:** Fixed download instructions for DynDOLOD Bright LOD Waterfall Fix (Optional instead of Main File).
 - **Landscape:** Updated the link for Better Dynamic Ash to point to the new mod page.
 - **Landscape:** Updated the download instructions for Better Dynamic Ash.
@@ -29,6 +30,7 @@ description: >
 #### Wabbajack
 
 - Updated Better Dynamic Ash to 2.1.1
+- Updated Spooknik's Tundra Trees to 1.2
 - Updated Adamant - A Perk Overhaul to 5.1.8
 
 ## Release 4.7.5
