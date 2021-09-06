@@ -104,7 +104,7 @@ Since LOTF is using the Stock Game folder system, ENB is already installed for y
 
 #### Website Changes
 
-- Updated the Introduction (noted that LOTF uses the Stock Game folder systme)
+- Updated the Introduction (noted that LOTF uses the Stock Game folder system)
 - Updated the Documentation (removal of Apothecary and Arena, etc).
 - Added one new screenshot to the showcase page.
 
