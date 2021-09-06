@@ -6,7 +6,7 @@ description: >
   Small tweaks anyone can do for Legends of the Frost.
 ---
 
-LOTF is a very small list and I do not expect that I will ever much customisation options. However, there are a few small changes that you can make:
+LOTF is a very small list and I do not expect that I will ever add many customisation options. However, there are a few small changes that you can make:
 
 ## Uncap the framerate
 
