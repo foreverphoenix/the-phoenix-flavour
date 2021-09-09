@@ -76,8 +76,21 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
-* **Update Files:** SSE Meshes >> `merge with the main file`
+- **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
+- **Update Files:** SSE Meshes >> `merge with the main file`
+
+#### Additional Instructions
+
+- Download the **Optional glow files** file manually from the Optional Files section.
+- Place the downloaded archive in `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
+- Refresh MO2 and the archive will appear in your **Downloads** tab.
+- Right-click it and select **Query Info** to download meta data from the Nexus.
+- Double-click the mod to install it.
+- Expand the **Optional glow files** folder.
+- Right-click the **weaker glow** folder and select **Set as \<data> directory**.
+- Click **OK** to install the files, then click **Merge**.
+
+![RUSTIC POTIONS Glow](/Pictures/tpf/mod-installation/rustic-potions-glow.png)
 
 ##### [White Phial Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/6113?tab=files)
 

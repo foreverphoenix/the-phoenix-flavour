@@ -17,21 +17,45 @@ description: >
 - **Landscape:** Updated the link for Better Dynamic Ash to point to the new mod page.
 - **Landscape:** Updated the download instructions for Better Dynamic Ash.
 - **Architecture:** Fixed typo in additional instructions for Skyland - Winterhold (textures\effects\ folder).
+- **Valuable Items:** Added instructions to install weaker glow maps for RUSTIC POTIONS AND POISONS.
 - **Valuable Items:** Removed FOMOD instructions for Paragon Gems HD (left over from a removed mod).
 - **Apparel & Gear:** Fixed link for Sleeved Stormcloaks (was pointing to description instead of files).
+- **Loot & Crafting:** Updated instructions for all four OWL AVL FOMOD installers.
+- **Loot & Crafting:** Added instructions to download the OWL AVL Patches for Simple Smithing Overhaul.
 - **Miscellaneous:** Moved Craftable Torches to Loot & Crafting.
 - **Miscellaneous:** Removed Craftable Lockpicks (functionality was added to Simple Smithing Overhaul).
+- **Sound FX:** Updated download and FOMOD instructions for Immersive Sounds Compendium.
+- **Sound FX:** Added Immersive Sounds Compendium - Patches.
+- **Sound FX:** Added Immersive Sounds Compendium - ACE Patch.
+- **Sound FX:** Updated download instructions for Audio Overhaul Skyrim - Immersive Sounds Integration (file name changed).
+- **Sound FX:** Removed Immersive Horse Step Sounds (ISC is enough).
 
 #### Conflict Resolution Patch
 
 - Fixed conflicts between SMIM and the BDA Large Ref Disabler
 - Removed Better Dynamic Ash as a master from the CRP (no longer necessary)
+- Fixed conflicts between ISC 3.0 and other mods
+- Removed some records no longer required due to the new ISC WACCF and Mysticism patches
+- Reverted soul trap sound fx to AOS (vanilla sound instead of ISC)
+- Removed Immersive Horse Step Sounds as a master
+- Fixed potion drinking sounds not playing with ISC 3.0 (probably)
+- Removed EBT ISC conflict resolution (using the official patch instead, it is identical)
 
 #### Wabbajack
 
+- Updated Assorted Mesh Fixes to 0.25
 - Updated Better Dynamic Ash to 2.1.1
 - Updated Spooknik's Tundra Trees to 1.2
 - Updated Adamant - A Perk Overhaul to 5.1.8
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.3
+- Updated Open World Loot - AVL Thalmor Addon to 1.1
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.3
+- Updated Open World Loot - AVL Nordic Addon to 1.1
+- Updated Simple Smithing Tweaks to 1.1.5
+- Updated Apothecary - An Alchemy Overhaul to 1.1.5
+- Updated Apothecary - Food and Drink Addon to 1.1.5
+- Updated Immersive Sounds Compendium to 3.0
+- Updated Audio Overhaul Skyrim - Immersive Sounds Compendium Integration to 1.0.2
 
 ## Release 4.7.5
 
