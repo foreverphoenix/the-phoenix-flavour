@@ -22,33 +22,42 @@ To change the FPS cap, you need to edit the INI file for SSE Display Tweaks:
 
 ![LOTF Uncap Framerate](/Pictures/lotf/lotf-uncap-framerate.png)
 
-## Revert to vanilla font
+## Interface Adjustments
+
+### Revert to vanilla font
 
 If you prefer the vanilla font over my choice, Roboto, you can disable the font replacer anytime:
 
 - In **Mod Organizer 2**, expand the **INTERFACE** separator.
 - Uncheck the mod **Roboto Font Replacer**.
 
-## Enable dot crosshair
+### Enable dot crosshair
 
 If you prefer a subtle dot over the vanilla crosshair, follow these steps:
 
 - In **Mod Organizer 2**, expand the **INTERFACE** separator.
 - Check the mod **SkyHUD - White Dot Crosshair**.
 
-## Enable 24h time format
+### Enable 24h time format
 
 If you prefer a 24h time format over the 12h one (e.g., 23h instead of 11pm), do this:
 
 - In **Mod Organizer 2**, expand the **INTERFACE** separator.
 - Check the mod **Time Format Changer**.
 
-## Access the Creation Club
+### Access the Creation Club
 
 If you want to access the Creation Club through the main menu, do the following:
 
 - In **Mod Organizer 2**, expand the **INTERFACE** separator.
 - Uncheck the mod **ReCleaned Menu**.
+
+## Change sprinting from toggle to hold
+
+If you want to be able to hold the Sprint key to sprint instead of press it once to toggle, do this:
+
+- In **Mod Organizer 2**, expand the **IMPROVED CONTROLS** separator.
+- Check the mod **Classic Sprinting Redone**.
 
 ## Skip Lockpicking
 

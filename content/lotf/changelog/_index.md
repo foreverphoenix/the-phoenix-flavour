@@ -3,8 +3,40 @@ title: "Changelog"
 weight: 5
 type: docs
 description: >
-  Changelog for LOTF.
+  Update notes for Legends of the Frost.
 ---
+
+## Release 1.2
+
+> TBD
+
+After some deliberation, I swapped out the previous skin overhauls (Lucid and Vitruvia) for the Tempered Skins combination. They are closer to vanilla and look better with LOTF's lighting.
+
+I also fixed the purple waterfalls and improved the [book interface](https://imgsli.com/NzAzOTc).
+
+#### Mod Changes
+
+- Added ENB Helper
+- Added Realistic Paper
+- Added Blacksmith Forge Water Patch xEdit Script
+- Added Convenient Reading
+- Added Tempered Skins for Males
+- Added Tempered Skins for Females
+- Updated Minimal ENB for Obsidian Weathers to 1.2
+- Updated Scrambled Bugs to 13
+- Updated Enhanced Vanilla Trees to 2.2.1
+- Removed Vitruvia - Skin Texture Overhaul for Males
+- Removed Lucid Skin
+- Tweaked the updated ENB preset
+- Classic Sprinting Redone is now optional and disabled by default
+- Generated the Blacksmith Forge Water Patch
+- Regenerated TexGen and DynDOLOD
+
+#### Website Changes
+
+- **Customisation:** Added "Change sprinting from toggle to hold" option
+- **Documentation:** Updated accordingly for the recent mod changes.
+- **Screenshots:** Added a few more new screenshots.
 
 ## Release 1.1
 
