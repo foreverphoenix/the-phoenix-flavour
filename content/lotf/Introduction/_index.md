@@ -27,7 +27,7 @@ description: >
 - All remaining textures replaced by cleaned and upscaled versions, courtesy of the [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) series.
 - Improved weathers with [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) consistent with the vanilla style and colours.
 - Better shadows, sensible ambient occlusion, and fixed water seams with [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098).
-- Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440).
+- Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440). Better [Reading UI](https://imgsli.com/NzAzOTc).
 - More resource management-oriented combat with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) (and vanilla damage modifiers).
 - Better sound quality with the [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) and [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466).
 
