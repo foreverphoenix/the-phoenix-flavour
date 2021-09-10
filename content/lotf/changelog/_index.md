@@ -8,7 +8,7 @@ description: >
 
 ## Release 1.2
 
-> TBD
+> 10/09/2021
 
 After some deliberation, I swapped out the previous skin overhauls (Lucid and Vitruvia) for the Tempered Skins combination. They are closer to vanilla and look better with LOTF's lighting.
 
