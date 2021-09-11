@@ -361,6 +361,13 @@ description: >
 
 > While we did not actually install [Particle Lights for ENB - Nordic Ruin Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335), we do have all the mod's files. Its meshes are all part of the Skeleton Replacer HD patch collection while its textures are already included with SMIM.
 
+#### Additional Instructions - Main File
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\_byoh\architecture\byohhouse\trophy\byohhousetrophytrollfrost02.nif`
+
+> This mesh is part of Fixed Mesh Lighting which should not be overwritten.
+
 ##### [DRAUGR by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848?tab=files)
 
 #### Download Instructions

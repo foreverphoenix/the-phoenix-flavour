@@ -225,6 +225,12 @@ description: >
 
 * **Choose Version:** Realistic
 
+##### [Modern Clap Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38621?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Modern Clap Bug Fix
+
 ##### [Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
 
 #### Download Instructions

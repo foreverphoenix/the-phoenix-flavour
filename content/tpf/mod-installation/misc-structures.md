@@ -202,8 +202,8 @@ In order to do so, we will create a new mod folder, set up the correct structure
 - **Statue:** Nocturnal
 - **Statue:** Peryite
 - **Statue:** Shalidor
-- **Statue:** Skyforge (MM Version)
-- **Statue:** Sovngarde Watcher
+- **Statue:** None
+- **Statue:** None
 - **Statue:** None
 - **Statue:** Vaermina
 - **Statue:** Ysgramor
@@ -230,7 +230,7 @@ In order to do so, we will create a new mod folder, set up the correct structure
 * **Weapon:** Nord Hero Greatsword
 * **Patches:** ~~No Snow Under the Roof~~
 
-##### [Statues of Shalidor - Mage Statue Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/52483?tab=files)
+##### [Statue of Shalidor - Mage Statue Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/52483?tab=files)
 
 #### Download Instructions
 

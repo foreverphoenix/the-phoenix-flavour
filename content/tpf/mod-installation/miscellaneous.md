@@ -11,7 +11,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
-- **Main Files:** Misc Tweaks - Better Horses
 - **Main Files:** Misc Tweaks - More Expensive Inns
 - **Main Files:** Misc Tweaks - More Expensive Player Homes
 - **Main Files:** Misc Tweaks - Night Eye Redux
@@ -29,17 +28,11 @@ description: >
 - **Main Files:** FMPSE 3-3 Script (v2.0)
 - **Main Files:** Stalhrim (Vanilla Speed) ESP
 
-##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
+##### [Simple Horse Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Craftable Torches
-
-##### [Craftable Lockpicks](https://www.nexusmods.com/skyrimspecialedition/mods/3385?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Craftable Lockpicks Option - 5
+- **Main Files:** Simple Horse Tweaks
 
 ##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
 
