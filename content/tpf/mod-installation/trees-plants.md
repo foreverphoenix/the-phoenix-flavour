@@ -10,28 +10,26 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Enhanced Vanilla Trees SE v2.2.0
+- **Main Files:** Enhanced Vanilla Trees SE-Lush Trees
 
 #### FOMOD Instructions
 
-- **Alternative Pine Meshes:** Lush/Darker Pine Meshes
-- **Alternative Pine Branches:** SFO Pine Branches (alt 2)
-- **Alternative Snow Pine Branches:** SFO Snow Pine Branches
-- **Alternative Light Snow Pine Branches:** SFO Light Snow Pine Branches
-- **Options:**
-  - ~~SFO Aspen Branches~~
-  - Miscellaneous
-  - Firewood Texture
-- **Alternative Aspen Trees:** None
-- **Alternative Pine Trees:** None
+- **Mesh Tint Options:** Darker
+- **Tree Options:** Lush Trees (small)*
+- **Vanilla Pine Branch Textures:** SFO v2
+- **Vanilla Snow Pine Branch Textures:** Alternate SFO Snowy Branches
+- **Miscellaneous:**
+  - Enhanced Tree Clutter*
+  - Firewood*
+  - ~~Hi-Res Aspen Bark~~
+  - ~~SFO Aspen Branches*~~
+- **Alternative Trees:**
+  - ~~Realistic Aspen Trees~~
+  - ~~SFO Snowy Pine Trees~~
 
 #### Additional Instructions
 
 - ESL-ify **Enhanced Vanilla Trees SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
-- Delete the following file(s) and / or folder(s):
-  - `meshes\landscape\trees\treereachtreemagic01.nif`
-
-> This mesh is part of Fixed Mesh Lighting and should not be overwritten.
 
 ##### [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890?tab=files)
 

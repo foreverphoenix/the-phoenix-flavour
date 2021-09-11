@@ -194,6 +194,12 @@ description: >
 * **Optional Files:** Skyrim Remastered - High Hrothgar v2 LODs for DynDOLOD >> `merge with the main file`
 * **Optional Files:** Skyrim Remastered - High Hrothgar v2 Performance Banners >> `merge with the main file`
 
+##### [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Hrothgar Fixed
+
 ##### [Skyrim Textures Redone - Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files)
 
 #### Download Instructions

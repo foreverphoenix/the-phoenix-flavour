@@ -187,7 +187,7 @@ description: >
   - HD Highlandcow
   - HD Skeever
   - ~~Savage Skyrim~~
-  - ~~Skeleton Replacer HD~~
+  - Skeleton Replacer HD
   - ~~SkyTEST~~
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.

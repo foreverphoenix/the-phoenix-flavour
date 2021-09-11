@@ -8,22 +8,37 @@ description: >
 
 ## Release 4.7.6
 
-> TBD
+> 11/09/2021
+
+Another Saturday update to cover the past week's developments. I finally got around to creating patches for Immersive Sounds Compendium 3.0 (which has a new layered footstep featured) and updated my OWL AVL addons as well as Lightweight Smithing Tweaks (okay, that's a lie, m00se did it for me). I also took the opportunity to clean up the CRP a bit.
 
 #### Mod Installation
 
 - **Fixes:** Added Modern Clap Bug Fix.
 - **Graphics Baseline:** Fixed download instructions for DynDOLOD Bright LOD Waterfall Fix (Optional instead of Main File).
+- **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting (selecting the Skeleton Replacer HD patch).
+- **Landscape:** Added Mountains Enhanced.
 - **Landscape:** Updated the link for Better Dynamic Ash to point to the new mod page.
 - **Landscape:** Updated the download instructions for Better Dynamic Ash.
+- **Trees & Plants:** Updated download and FOMOD instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed instructions to delete a mesh from Enhanced Vanilla Trees (no longer necessary).
 - **Architecture:** Fixed typo in additional instructions for Skyland - Winterhold (textures\effects\ folder).
+- **Architecture:** Added High Hrothgar Fixed.
+- **Misc Structures:** Updated FOMOD instructions for Iconic Statues.
 - **Valuable Items:** Added instructions to install weaker glow maps for RUSTIC POTIONS AND POISONS.
 - **Valuable Items:** Removed FOMOD instructions for Paragon Gems HD (left over from a removed mod).
 - **Apparel & Gear:** Fixed link for Sleeved Stormcloaks (was pointing to description instead of files).
+- **Apparel & Gear:** Moved Gemling Queen Jewelry to Valuable Items.
+- **Apparel & Gear:** Moved JS Circlet Replacer to Valuable Items.
+- **Apparel & Gear:** Moved JS Circlet Replacer - USSEP Patch to Valuable Items.
+- **Apparel & Gear:** Moved RUSTIC AMULETS to Valuable Items.
 - **Loot & Crafting:** Updated instructions for all four OWL AVL FOMOD installers.
 - **Loot & Crafting:** Added instructions to download the OWL AVL Patches for Simple Smithing Overhaul.
+- **Loot & Crafting:** Updated download instructions for Lightweight Smithing Tweaks for SSO (Main instead of Optional file).
+- **Miscellaneous:** Removed instructions to download Misc Tweaks - Better Horses.
 - **Miscellaneous:** Moved Craftable Torches to Loot & Crafting.
 - **Miscellaneous:** Removed Craftable Lockpicks (functionality was added to Simple Smithing Overhaul).
+- **Miscellaneous:** Added Simple Horse Tweaks.
 - **Sound FX:** Updated download and FOMOD instructions for Immersive Sounds Compendium.
 - **Sound FX:** Added Immersive Sounds Compendium - Patches.
 - **Sound FX:** Added Immersive Sounds Compendium - ACE Patch.
@@ -40,20 +55,26 @@ description: >
 - Removed Immersive Horse Step Sounds as a master
 - Fixed potion drinking sounds not playing with ISC 3.0 (probably)
 - Removed EBT ISC conflict resolution (using the official patch instead, it is identical)
+- Fixed a conflict between Dawnguard Rewritten - Arvak and Simple Horse Tweaks
+- Merged horse race edits from Mortal Enemies, Simple Horse Tweaks, and Audio Overhaul for Skyrim
 
 #### Wabbajack
 
-- Updated Assorted Mesh Fixes to 0.25
+- Updated Assorted Mesh Fixes to 0.26
+- Updated Deadly Spell Impacts Transparency Fix to 3.0
 - Updated Better Dynamic Ash to 2.1.1
+- Updated Enhanced Vanilla Trees to 2.2.1
 - Updated Spooknik's Tundra Trees to 1.2
 - Updated Adamant - A Perk Overhaul to 5.1.8
 - Updated Open World Loot - AVL Iron and Steel Addon to 1.3
 - Updated Open World Loot - AVL Thalmor Addon to 1.1
 - Updated Open World Loot - AVL Morrowind Glass Addon to 1.3
 - Updated Open World Loot - AVL Nordic Addon to 1.1
-- Updated Simple Smithing Tweaks to 1.1.5
+- Updated Simple Smithing Overhaul to 1.1.6a
+- Updated Lightweight Smithing Tweaks to 1.2
 - Updated Apothecary - An Alchemy Overhaul to 1.1.5
-- Updated Apothecary - Food and Drink Addon to 1.1.5
+- Updated Apothecary - Food and Drink Addon to 1.0.3
+- Updated The Choice Is Yours to 2.1
 - Updated Immersive Sounds Compendium to 3.0
 - Updated Audio Overhaul Skyrim - Immersive Sounds Compendium Integration to 1.0.2
 

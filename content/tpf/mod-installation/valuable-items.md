@@ -104,6 +104,69 @@ description: >
 
 - **Main Files:** Weathered Dragonstone 2K
 
+##### [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Gemling Queen Jewelry SE
+
+#### FOMOD Instructions
+
+* **Main Modules:**
+  * Amulets
+  * ~~Circlets~~
+  * Rings
+* **DLC Addons:**
+  * Dawnguard Addon
+  * Dawnguard Addon - Unobtainable Items
+* **Amulet Textures:**
+  * Gamwich Amulet Textures - 512
+* **Ring Texture Options:**
+  * Gamwich Ring Textures - Combined - 1k
+* **Optional Mesh Packs:**
+  * None
+* **Optional Mesh Packs Dawnguard:**
+  * ~~Vampire Beast Blood Ring Left Hand~~
+
+#### Additional Instructions
+
+- ESL-ify **GQJ_DG_vampireamuletfix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+#### Plugin Edit
+
+The plugin contains one unnecessary edit to a scroll that overwrites an edit by the USSEP.
+
+* Run **SSEEdit** through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all your mods.
+* Wait until SSEEdit returns `Background loader: finished`.
+* Find and double-click **GQJ_DG_vampireamuletfix.esp** in the left pane to expand the plugin.
+* Right-click **Scroll** and select **Remove**.
+* Close SSEEdit and click **OK** to save your changes.
+
+![Gemling Queen Jewelry - Delete Records in xEdit](/Pictures/tpf/mod-installation/gqj-delete-wild-edit.png)
+
+##### [JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8686?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** JS Circlet Replacer
+
+#### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
+##### [JS Circlet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Circlet Replacer USKP Patch
+
+##### [RUSTIC AMULETS](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** RUSTIC AMULETS SE
+
 ##### [Barenziah's Glory](https://www.nexusmods.com/skyrimspecialedition/mods/6343?tab=files)
 
 #### Download Instructions
