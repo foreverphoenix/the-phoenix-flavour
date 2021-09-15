@@ -12,11 +12,12 @@ description: >
 
 This is a smaller update and will likely be the last one for the time being. I fixed the message when trying to drop a quest message so it does not just now show the raw string (was missing a dependency), removed the mod causing the purple waterfalls (couldn't be bothered to find the missing texture), updated a bunch of mods, and regenerated TexGen, DynDOLOD, and Occlusion with the latest version of DynDOLOD. I believe LOTF is in a pretty good place for now.
 
-#### Mod Changes
+### Mod Changes
 
 - Added Scaleform Translation Plus Plus
 - Added LeanWolf's Dawnbreaker ENB meshes
 - Updated .NET Script Framework to 17
+- Updated Disable USSEP Book to 1.1
 - Updated Assorted Mesh Fixes to 0.26
 - Updated College of Winterhold Quest Start Fixes to 0.2
 - Updated DynDOLOD Resources to Alpha-12
@@ -24,8 +25,9 @@ This is a smaller update and will likely be the last one for the time being. I f
 - Updated the Blacksmith Forge Water Patch Script and regenerated the patch
 - Updated DynDOLOD to Alpha 41 and regenerated all LODs
 - Removed horse walk movement tweak from the CRP
-- Removed DynDOLOD Bright LOD Waterfall Fix 
+- Removed DynDOLOD Bright LOD Waterfall Fix
 - Disabled the floating pot in High Hrothgar
+- xLODGen is no longer packaged with the installer
 
 ## Release 1.2
 
