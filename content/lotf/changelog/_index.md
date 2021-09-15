@@ -6,6 +6,27 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.3
+
+> 15/09/2021
+
+This is a smaller update and will likely be the last one for the time being. I fixed the message when trying to drop a quest message so it does not just now show the raw string (was missing a dependency), removed the mod causing the purple waterfalls (couldn't be bothered to find the missing texture), updated a bunch of mods, and regenerated TexGen, DynDOLOD, and Occlusion with the latest version of DynDOLOD. I believe LOTF is in a pretty good place for now.
+
+#### Mod Changes
+
+- Added Scaleform Translation Plus Plus
+- Added LeanWolf's Dawnbreaker ENB meshes
+- Updated .NET Script Framework to 17
+- Updated Assorted Mesh Fixes to 0.26
+- Updated College of Winterhold Quest Start Fixes to 0.2
+- Updated DynDOLOD Resources to Alpha-12
+- Updated Simple Horse Tweaks to 1.3
+- Updated the Blacksmith Forge Water Patch Script and regenerated the patch
+- Updated DynDOLOD to Alpha 41 and regenerated all LODs
+- Removed horse walk movement tweak from the CRP
+- Removed DynDOLOD Bright LOD Waterfall Fix 
+- Disabled the floating pot in High Hrothgar
+
 ## Release 1.2
 
 > 10/09/2021
