@@ -6,6 +6,19 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.8
+
+> TBD
+
+#### Mod Updates
+
+- Updated Disable USSEP Book to 1.1
+
+#### Wabbajack
+
+- Now using the Stock Game folder system
+- SSEEdit is once again packaged with the WJ installation
+
 ## Release 4.7.6
 
 > 11/09/2021
