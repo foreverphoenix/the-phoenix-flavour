@@ -264,11 +264,11 @@ description: >
 
 * **Optional Files:** Hagraven.2k
 
-##### [HD Reworked Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/23958?tab=files)
+##### [HD Reworked Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/55479?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** HD Reworked Mammoths
+* **Main Files:** HD Reworked Mammoths 4K
 
 ##### [GIANT by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/6179?tab=files)
 
@@ -473,3 +473,10 @@ description: >
 - **Main Files:** Deiform Alduin Eye textures 2K
 - **Optional Files:** Deiform Alduin 4K >> `merge with the main file`
 - **Optional Files:** Deiform Alduin Particle Lights >> `merge with the main file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `AlduinLight.esp`
+
+> The only relevant edit in the plugin is incorporated in Dragon War's patch for.

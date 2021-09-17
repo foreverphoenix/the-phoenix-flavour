@@ -121,12 +121,6 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - ENB Particle Lights
   - ~~Dwemer Pipework Reworked~~
 
-##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
-
 ##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
 
 #### Download Instructions

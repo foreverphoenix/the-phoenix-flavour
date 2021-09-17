@@ -10,14 +10,38 @@ description: >
 
 > TBD
 
-#### Mod Updates
+#### Mod Installation
 
-- Updated Disable USSEP Book to 1.1
+- **Essential Mods:** Updated download instructions for NET Script Framework (file name changed).
+- **Fixes:** Updated Additional Instructions for Scrambled Bugs (line numbers changed).
+- **Fixes:** Updated download instructions for NPC AI Process Position Fix (file name changed).
+- **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns (fully incorporated in The Dwemer patch for the mod).
+- **Clutter:** Added Troll Skull Retexture.
+- **Clutter:** Added instructions to also download the optional file for The Business Ledger.
+- **Creatures:** Updated link for HD Reworked Mammoths to point at the new mod page.
+- **Creatures:** Updated download instructions for HD Reworked Mammoths (file name changed).
+- **Creatures:** Added additional instructions to Deiform Alduin (plugin can be deleted).
+- **Appearance:** Updated download instructions for Masculine Khajiit Textures (file name changed).
 
 #### Wabbajack
 
+- Updated NET Script Framework to 17
+- Updated Disable USSEP Book to 1.1
+- Updated Scrambled Bugs to 13
+- Updated College of Winterhold Quest Start Fixes to 0.2
+- Updated NPC AI Process Pos Fix to 4.05d
+- Updated DynDOLOD Resources 3 to Alpha-12
+- Updated Spell Perk Item Distributor to 5.0.3
+- Updated Unique Uniques Re-Ported
+- Updated Masculine Khajiit Textures to 1.5
+- Updated Timing Is Everything to 2.2FFF
+- Updated The Choice Is Yours to 2.2
+- Updated Dragon War - A Dragon Overhaul to 1.2
+- Updated DynDOLOD to Alpha 42
 - Now using the Stock Game folder system
-- SSEEdit is once again packaged with the WJ installation
+- SSEEdit is now packaged with the WJ installation
+- SSELODGen is now packaged with the WJ installation
+- NifSkope is now packaged with the WJ installation
 
 ## Release 4.7.6
 

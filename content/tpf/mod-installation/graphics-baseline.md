@@ -298,7 +298,7 @@ description: >
 - **Clutter:**
   * ~~Install All~~
   * Clutter General
-  * Bones
+  * ~~Bones~~
   * Dead Animals
   * Display Cases
   * ~~Firewood~~
