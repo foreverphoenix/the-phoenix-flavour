@@ -41,6 +41,22 @@ Some Addons have Wabbajack installers. These are standalone and do not require t
 
 ## Available Addons
 
+##### [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973) by DragonBlame
+
+As the most expansive addon to date, Dragon's Edition features a ton of new content and other popular types of mods that are not part of base TPF.
+
+**Wabbajack installer available.**
+
+#### Notable additions:
+
+- SmoothCam, QuickLoot, Alternate Conversation Camera
+- DLC-sized mods such as Beyond Skyrim: Bruma, The Forgotten City, Moon and Star, Wyrmstooth, Moonpath to Elsweyr
+- New player homes including Ryek's End and Morskom Estate
+- New companions such as Inigo, Kaidan, Gladys, and Interesting NPCs
+- High Poly Head, KS Hairdos Lite, HDT Physics, various NPC overhauls
+- ... and many, many more
+- [Full list of mods here](https://loadorderlibrary.com/lists/the-phoenix-flavour-dragons-edition)
+
 ##### [Slidikins' Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939) by Slidikins
 
 Slidikins' guide has been around longer than TPF, however, it has since been adapted to use TPF as a base. The setup is generally more challenging, with Survival mode integration, a reduced HUD, and harsher economy. The **Survival Mode** from the Creation Club is required.
@@ -96,29 +112,3 @@ Modular patch hub for various Creation Club content with proper integration and 
 - CC Umbra
 
 \* *If you are interested in playing TPF with survival mechanics, check out [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414).*
-
-##### [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973) by DragonBlame
-
-As the most expansive addon to date, Dragon's Edition features a ton of new content and other popular types of mods that are not part of base TPF.
-
-**Wabbajack installer available.**
-
-#### Notable additions:
-
-- SmoothCam, QuickLoot, Alternate Conversation Camera
-- DLC-sized mods such as Beyond Skyrim: Bruma, The Forgotten City, Moon and Star, Wyrmstooth, Moonpath to Elsweyr
-- New player homes including Ryek's End and Morskom Estate
-- New companions such as Inigo, Kaidan, Gladys, and Interesting NPCs
-- High Poly Head, KS Hairdos Lite, HDT Physics, various NPC overhauls
-- ... and many, many more
-- [Full list of mods here](https://loadorderlibrary.com/lists/the-phoenix-flavour-dragons-edition)
-
-##### [GRIZZY'S CHOICE](https://www.nexusmods.com/skyrimspecialedition/mods/54281) by GRIZZY
-
-A modular collection of mods largely focused on improving graphics and adding survival mechanics.
-
-#### Notable additions:
-
-- Lux and Rudy ENB
-- Myrkvior Trees
-- Sunhelm (survival)

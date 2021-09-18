@@ -275,6 +275,18 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
 
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\_byoh\plants\byohhouseingrddeathbell01.nif`
+- `meshes\plants\floradeathbell01.nif`
+- `meshes\plants\floradeathbell02.nif`
+- `meshes\plants\floranirnroot01.nif`
+- `meshes\plants\floranirnroot01red.nif`
+
 ##### [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205?tab=files)
 
 #### Download Instructions
@@ -298,6 +310,18 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\_byoh\plants\switchnodechildren\byohhouseingrdglowmushrm01_1.nif`
+- `meshes\_byoh\plants\byohhouseingrdglowmushrm01.nif`
+- `meshes\plants\glowingmushroom01.nif`
+- `meshes\plants\glowingmushroomcluster01.nif`
+- `meshes\plants\glowingmushroomsingle01.nif`
 
 ##### [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179?tab=files)
 

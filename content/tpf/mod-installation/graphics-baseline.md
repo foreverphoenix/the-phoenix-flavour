@@ -130,6 +130,7 @@ description: >
 - **Patches:**
   - ~~More Growable Plants~~
   - ~~Simply Bigger Plants~~
+  - ~~Skyrim 2020 by Pfuscher~~
   - Wiseman's Flora Fixes
 - **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
 - **JK's Skyrim:** ~~JK's Skyrim~~
@@ -139,7 +140,7 @@ description: >
 - **Snowberries:** Sufficiently Optimized Snowberries
 - **Juniper:** 3D Juniper
 - **Tundra Cotton:** ~~Tundra Cotton by Mari~~
-- **Jazbay:** Jaybay by Mari
+- **Jazbay:** Jazbay by Mari
 - **Canticle Tree:** High Poly Canticle Tree
 
 **Page 3**
@@ -189,6 +190,7 @@ description: >
   - ~~Savage Skyrim~~
   - Skeleton Replacer HD
   - ~~SkyTEST~~
+  - Unique Barbas
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 

@@ -59,6 +59,19 @@ description: >
 
 * **Optional Files:** Rudy HQ - More Lights for ENB SE - Patch for Rustic Soulgems
 
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\clutter\soulgem\soulgemblack_full.nif`
+- `meshes\clutter\soulgem\soulgemcommon_full.nif`
+- `meshes\clutter\soulgem\soulgemgrand_full.nif`
+- `meshes\clutter\soulgem\soulgemgreater_full.nif`
+- `meshes\clutter\soulgem\soulgemlesser_full.nif`
+- `meshes\clutter\soulgem\soulgempetty_full.nif`
+
 ##### [RUSTIC AZURAS STAR](https://www.nexusmods.com/skyrimspecialedition/mods/18345?tab=files)
 
 #### Download Instructions
