@@ -6,6 +6,176 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 4.8
+
+> 18/09/2021
+
+**TPF 4.8 will be the final update for the time being. The guide is entering indefinite hiatus.** Please check this [Patreon post](https://www.patreon.com/posts/september-update-56305694) for more information.
+
+With this update, I am finally switching over TPF WJ to the brilliant stock game folder system. That means you no longer have to move any files (Game Folder Files) manually after installing - you can simply hit Run in Mod Organizer 2 and jump ingame once the installation finishes. This also means that WJ users can no longer decide between different ENB presets.
+
+All tools are also once again included with the WJ installation.
+
+The remaining changes in this update are rather minor. NifSkope is now being used to edit a few meshes (although those edits were marked as optional) and I updated 
+
+**This update is save-safe.** It's primarily a major release because of the structural changes (which largely affect the WJ users and myself).
+
+#### Website Updates
+
+- The home page now also links to LOTF.
+- Changed header text from "Guides by Phoenix" to "Mod Lists by Phoenix".
+- Updated the Discord invite link in the footer.
+
+#### Introduction
+
+- Added warning that TPF is now on an indefinite hiatus.
+- Removed some outdated references to TPF-X.
+- Updated the TPF Addons section.
+- Removed the TPF Forks section.
+
+#### Initial Setup
+
+- **Additional Tools:** Added note on why we use an older version of Cathedral Assets Optimizer.
+- **Additional Tools:** Added instructions to install NifSkope.
+
+#### Mod Installation
+
+- **Essential Mods:** Updated download instructions for NET Script Framework (file name changed).
+- **Fixes:** Updated Additional Instructions for Scrambled Bugs (line numbers changed).
+- **Fixes:** Updated download instructions for NPC AI Process Position Fix (file name changed).
+- **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting.
+- **Trees & Plants:** Added (optional) instructions to fix meshes in Rudy HQ - More Lights for ENB - Deathbells and Nirnroots.
+- **Trees & Plants:** Added (optional) instructions to fix meshes in Rudy HQ - More Lights for ENB - Glowing Mushrooms.
+- **Dungeons:** Removed ENB Particle Lights - Dwemer Lanterns (fully incorporated in The Dwemer patch for the mod).
+- **Dungeons:** Added (optional) instructions to fix meshes in Rudy HQ - More Lights for ENB - Bthardamz.
+- **Clutter:** Added Troll Skull Retexture.
+- **Clutter:** Added instructions to also download the optional file for The Business Ledger.
+- **Valuable Items:** Added (optional) instructions to fix meshes in Rudy HQ - More Lights for ENB - RUSTIC SOULGEMS.
+- **Food & Ingredients:** Added (optional) instructions to fix meshes in Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs.
+- **Creatures:** Updated link for HD Reworked Mammoths to point at the new mod page.
+- **Creatures:** Updated download instructions for HD Reworked Mammoths (file name changed).
+- **Creatures:** Added additional instructions to Deiform Alduin (plugin can be deleted).
+- **Appearance:** Updated download instructions for Masculine Khajiit Textures (file name changed).
+- **Sound FX:** Fixed FOMOD instructions for Immersive Sounds - Compendium (minor typo).
+
+#### Finalisation
+
+- **DynDOLOD:** Removed INI Adjustments instructions (can all be done through the UI now).
+- **DynDOLOD:** Updated DynDOLOD configuration instructions to account for the new UI options.
+- **DynDOLOD:** Updated the screenshot with the settings accordingly.
+- **DynDOLOD:** Updated the Output and Ice Piles Fix instructions.
+- **DynDOLOD:** Added a new reference screenshot for what the load order should look like at the end of the DynDOLOD step.
+- **Occlusion:** Removed the entire page. Generating Occlusion is now done by DynDOLOD.
+
+#### Performance Guide
+
+- Updated the DynDOLOD configuration instructions to account for the new UI options.
+- Removed instructions to regenerate Occlusion (which DynDOLOD does now).
+- Updated the screenshot for the new DynDOLOD UI.
+- Added instructions to account for the DynDOLOD - Solstheim Ice Piles Fix.
+- Changed the recommended performance ENB preset from Cathedral Minimalist ENB to Minimal ENB for Obsidian Weathers.
+
+#### Resources
+
+- **Various Tutorials:** Added instructions on how to add the No Decal flag to meshes.
+- **How to Update:** Removed the separate Occlusion instructions from the Updated DynDOLOD section.
+
+#### Wabbajack
+
+- Updated ENBSeries binaries to 0.463
+- Updated NET Script Framework to 17
+- Updated Disable USSEP Book to 1.1
+- Updated Scrambled Bugs to 13
+- Updated College of Winterhold Quest Start Fixes to 0.2
+- Updated NPC AI Process Position Fix to 4.05d
+- Updated DynDOLOD Resources 3 to Alpha-12
+- Updated Fixed Mesh Lighting to 1.4.2
+- Updated Spell Perk Item Distributor to 5.0.3
+- Updated Unique Uniques Re-Ported
+- Updated Masculine Khajiit Textures to 1.5
+- Updated Timing Is Everything to 2.2FFF
+- Updated The Choice Is Yours to 2.2
+- Updated Dragon War - A Dragon Overhaul to 1.2
+- Updated DynDOLOD to Alpha 43
+- Now using the Stock Game folder system
+- SSEEdit is now packaged with the WJ installation
+- SSELODGen is now packaged with the WJ installation
+- Cathedral Assets Optimizer (and the Basic Profiles Pack) is now packaged with the WJ installation
+- SSE NIF Optimizer is now packaged with the WJ installation
+- NifSkope is now packaged with the WJ installation
+
+## Release 4.7.6
+
+> 11/09/2021
+
+Another Saturday update to cover the past week's developments. I finally got around to creating patches for Immersive Sounds Compendium 3.0 (which has a new layered footstep featured) and updated my OWL AVL addons as well as Lightweight Smithing Tweaks (okay, that's a lie, m00se did it for me). I also took the opportunity to clean up the CRP a bit.
+
+#### Mod Installation
+
+- **Fixes:** Added Modern Clap Bug Fix.
+- **Graphics Baseline:** Fixed download instructions for DynDOLOD Bright LOD Waterfall Fix (Optional instead of Main File).
+- **Graphics Baseline:** Updated FOMOD instructions for Fixed Mesh Lighting (selecting the Skeleton Replacer HD patch).
+- **Landscape:** Added Mountains Enhanced.
+- **Landscape:** Updated the link for Better Dynamic Ash to point to the new mod page.
+- **Landscape:** Updated the download instructions for Better Dynamic Ash.
+- **Trees & Plants:** Updated download and FOMOD instructions for Enhanced Vanilla Trees.
+- **Trees & Plants:** Removed instructions to delete a mesh from Enhanced Vanilla Trees (no longer necessary).
+- **Architecture:** Fixed typo in additional instructions for Skyland - Winterhold (textures\effects\ folder).
+- **Architecture:** Added High Hrothgar Fixed.
+- **Misc Structures:** Updated FOMOD instructions for Iconic Statues.
+- **Valuable Items:** Added instructions to install weaker glow maps for RUSTIC POTIONS AND POISONS.
+- **Valuable Items:** Removed FOMOD instructions for Paragon Gems HD (left over from a removed mod).
+- **Apparel & Gear:** Fixed link for Sleeved Stormcloaks (was pointing to description instead of files).
+- **Apparel & Gear:** Moved Gemling Queen Jewelry to Valuable Items.
+- **Apparel & Gear:** Moved JS Circlet Replacer to Valuable Items.
+- **Apparel & Gear:** Moved JS Circlet Replacer - USSEP Patch to Valuable Items.
+- **Apparel & Gear:** Moved RUSTIC AMULETS to Valuable Items.
+- **Loot & Crafting:** Updated instructions for all four OWL AVL FOMOD installers.
+- **Loot & Crafting:** Added instructions to download the OWL AVL Patches for Simple Smithing Overhaul.
+- **Loot & Crafting:** Updated download instructions for Lightweight Smithing Tweaks for SSO (Main instead of Optional file).
+- **Miscellaneous:** Removed instructions to download Misc Tweaks - Better Horses.
+- **Miscellaneous:** Moved Craftable Torches to Loot & Crafting.
+- **Miscellaneous:** Removed Craftable Lockpicks (functionality was added to Simple Smithing Overhaul).
+- **Miscellaneous:** Added Simple Horse Tweaks.
+- **Sound FX:** Updated download and FOMOD instructions for Immersive Sounds Compendium.
+- **Sound FX:** Added Immersive Sounds Compendium - Patches.
+- **Sound FX:** Added Immersive Sounds Compendium - ACE Patch.
+- **Sound FX:** Updated download instructions for Audio Overhaul Skyrim - Immersive Sounds Integration (file name changed).
+- **Sound FX:** Removed Immersive Horse Step Sounds (ISC is enough).
+
+#### Conflict Resolution Patch
+
+- Fixed conflicts between SMIM and the BDA Large Ref Disabler
+- Removed Better Dynamic Ash as a master from the CRP (no longer necessary)
+- Fixed conflicts between ISC 3.0 and other mods
+- Removed some records no longer required due to the new ISC WACCF and Mysticism patches
+- Reverted soul trap sound fx to AOS (vanilla sound instead of ISC)
+- Removed Immersive Horse Step Sounds as a master
+- Fixed potion drinking sounds not playing with ISC 3.0 (probably)
+- Removed EBT ISC conflict resolution (using the official patch instead, it is identical)
+- Fixed a conflict between Dawnguard Rewritten - Arvak and Simple Horse Tweaks
+- Merged horse race edits from Mortal Enemies, Simple Horse Tweaks, and Audio Overhaul for Skyrim
+
+#### Wabbajack
+
+- Updated Assorted Mesh Fixes to 0.26
+- Updated Deadly Spell Impacts Transparency Fix to 3.0
+- Updated Better Dynamic Ash to 2.1.1
+- Updated Enhanced Vanilla Trees to 2.2.1
+- Updated Spooknik's Tundra Trees to 1.2
+- Updated Adamant - A Perk Overhaul to 5.1.8
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.3
+- Updated Open World Loot - AVL Thalmor Addon to 1.1
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.3
+- Updated Open World Loot - AVL Nordic Addon to 1.1
+- Updated Simple Smithing Overhaul to 1.1.6a
+- Updated Lightweight Smithing Tweaks to 1.2
+- Updated Apothecary - An Alchemy Overhaul to 1.1.5
+- Updated Apothecary - Food and Drink Addon to 1.0.3
+- Updated The Choice Is Yours to 2.1
+- Updated Immersive Sounds Compendium to 3.0
+- Updated Audio Overhaul Skyrim - Immersive Sounds Compendium Integration to 1.0.2
+
 ## Release 4.7.5
 
 > 03/09/2021

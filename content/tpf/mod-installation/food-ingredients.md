@@ -195,3 +195,14 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sacs
+
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\clutter\chauruseggs\eggs.nif`
+- `meshes\clutter\chauruseggs\eggsacs.nif`
+- `meshes\clutter\chauruseggs\eggsacs01.nif`
+- `meshes\clutter\chauruseggs\eggsacs02.nif`

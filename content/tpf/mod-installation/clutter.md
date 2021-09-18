@@ -119,6 +119,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 * **Main Files:** Skyrim 3D Misc - Markarth Cage
 * **Main Files:** Skyrim 3D Misc - Traps
 
+##### [Troll Skull Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45538?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Troll Skull
+
 ##### [Deer Skull and Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/45510?tab=files)
 
 #### Download Instructions
@@ -268,7 +274,8 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-* **Main Files:** Hermaeus Mora Tax Book SD
+- **Main Files:** Hermaeus Mora Tax Book SD
+- **Optional Files:** Book02lowpoly >> `merge with the main file`
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

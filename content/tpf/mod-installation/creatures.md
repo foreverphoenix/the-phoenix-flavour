@@ -264,11 +264,11 @@ description: >
 
 * **Optional Files:** Hagraven.2k
 
-##### [HD Reworked Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/23958?tab=files)
+##### [HD Reworked Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/55479?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** HD Reworked Mammoths
+* **Main Files:** HD Reworked Mammoths 4K
 
 ##### [GIANT by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/6179?tab=files)
 
@@ -360,6 +360,13 @@ description: >
   - ~~Smim~~
 
 > While we did not actually install [Particle Lights for ENB - Nordic Ruin Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335), we do have all the mod's files. Its meshes are all part of the Skeleton Replacer HD patch collection while its textures are already included with SMIM.
+
+#### Additional Instructions - Main File
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\_byoh\architecture\byohhouse\trophy\byohhousetrophytrollfrost02.nif`
+
+> This mesh is part of Fixed Mesh Lighting which should not be overwritten.
 
 ##### [DRAUGR by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848?tab=files)
 
@@ -466,3 +473,10 @@ description: >
 - **Main Files:** Deiform Alduin Eye textures 2K
 - **Optional Files:** Deiform Alduin 4K >> `merge with the main file`
 - **Optional Files:** Deiform Alduin Particle Lights >> `merge with the main file`
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `AlduinLight.esp`
+
+> The only relevant edit in the plugin is incorporated in Dragon War's patch for.

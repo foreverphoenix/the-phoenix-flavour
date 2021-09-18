@@ -58,3 +58,31 @@ iSize W=1920
 - Afterwards, click the **Save** button and close the window. 
 
 ![Change Game Resolution](/Pictures/tpf/guide-resources/change-game-resolution.png)
+
+## How to add the No Decal flag to meshes
+
+In their [Rudy ENB - More Lights for ENB](https://www.nexusmods.com/skyrimspecialedition/users/93362?tab=user+files) series, Rudy added particle light effects for ENB to various meshes. Unfortunately, the ENB light nodes did not have the No Decal flag added to them, meaning blood decals can be applied to them which looks [rather ugly](https://staticdelivery.nexusmods.com/mods/1704/images/55582/55582-1631610417-997186529.png). The meshes were fixed by wankingSkeever [here](https://www.nexusmods.com/skyrimspecialedition/mods/55582), however, for the purposes of the guide, we will be fixing those meshes ourselves with NifSkope (and get to know the tool in the process).
+
+These instructions are linked to at relevant points in the guide.
+
+- Right-click the mod you were instructed to edit and select **Open in Explorer**.
+- Find the **NIF** files (meshes) in the **meshes** folder. These need editing.
+- Run **NifSkope** through Mod Organizer 2.
+- Open the first mesh into NifSkope (drag from Windows Explorer into the tool).
+- Expand the **BSFadeNode** (see window in the upper left).
+- The **EnbParticleLight** node is at the bottom of the list. Expand it.
+
+> Sometimes the EnbParticleLight node is nested within other nodes in which case you need to expand those first. The quickest way to get to the correct node is often clicking the mesh which will usually select the EnbParticleLight node and move you to the BSTriShape.
+
+Here we see the **BSTriShape** settings which is what we need to edit:
+
+![NifSkope NoDecal 1](/Pictures/tpf/guide-resources/nifskope-nodecal-1.png)
+
+- Below the node list in the bottom left, you can see the **Block Details**.
+- Right-click the **Flags** line and select **Flags** to edit them.
+- Click **Yes** in the warning window.
+- In the **Flags** window, check the box for **Bit 10: No Decals (1024)** and click **Accept**.
+
+![NifSkope NoDecal 2](/Pictures/tpf/guide-resources/nifskope-nodecal-2.png)
+
+And that's it! Press **CTRL + S** to save your edits and close NifSkope. The first mesh is fixed.

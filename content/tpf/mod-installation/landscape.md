@@ -6,6 +6,25 @@ description: >
   Overhauling mountains, grass, water, and roads.
 ---
 
+##### [Mountains Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/38655?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Mountains Enhanced K747 SSE with HQ LODs
+
+#### Additional Instructions
+
+In order to place this plugin above MajesticMountains_Landscapes.esm, we need to ESM-ify it:
+
+- Run **SSEEdit** through Mod Organizer 2.
+- Click **OK** in the plugin selection window and wait until the log returns `Background loader: finished`.
+- Find and select **MountainsEnhanced.esp** in the left pane (should be at the bottom).
+- Right-click the empty space next to **Record Flags** in the Record Header and select **Edit**.
+- Check the box for **ESM** and click **OK**.
+- Close **SSEEdit** and click **OK** to save your changes.
+
+![Mountains Enhanced ESMify](/Pictures/tpf/mod-installation/mountains-enhanced-esmify.png)
+
 ##### [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052?tab=files)
 
 #### Download Instructions
@@ -243,11 +262,11 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 * **Main Files:** Immersive Dawnguard Dayspring Pass (IDDP)
 
-##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
+##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/54754?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Ash SE v2.0
+* **Main Files:** Better Dynamic Ash SE v2.1.1
 
 ##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
 

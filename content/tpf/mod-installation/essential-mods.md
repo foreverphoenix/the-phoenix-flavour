@@ -43,7 +43,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NetScriptFramework SkyrimSE v16
+- **Main Files:** NetScriptFramework SkyrimSE v17
 
 ##### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705?tab=files)
 
