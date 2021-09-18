@@ -172,22 +172,25 @@ Another reason for performance loss is running DynDOLOD with the High profile an
 
 Regenerating TexGen should not be necessary. You could, in theory, to lower the resolution of the LOD textures, but I do believe only regenerating DynDOLOD will yield a sizeable enough performance increase.
 
-- Delete your current **DynDOLOD Output** and **SSELODGen - Occlusion Data**.
+- Delete your current **DynDOLOD Output** in Mod Organizer 2.
+- Temporarily disable **DynDOLOD - Solstheim Ice Piles Fix** under the **PATCHER OUTPUT** separator.
 - Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Cache\`.
 - Delete everything inside.
 
 ### Regenerating DynDOLOD
 
-By regenerating DynDOLOD, we will improve performance in two ways: We will be using mesh rules that are more performance-oriented (less detail), and we will generated regular tree LOD instead of 3D tree LOD. Especially the latter will likely improve your framerate by double-digit numbers.
+By regenerating DynDOLOD, we will improve performance in two ways: We will be using mesh rules that are more performance-oriented (less detail), and we will generated regular tree LOD instead of 3D tree LOD. Especially the latter may improve your framerate by double-digit numbers.
 
-- Run **DynDOLOD** through Mod Organizer 2.
-- Make sure all worldspaces in the top left box are ticked (right-click » Select all).
+- Run **DynDOLOD** through Mod Organizer 2 and click the **Advanced** button.
+- Make sure all worldspaces in the top left box are ticked (right-click » **Select all**).
 - Check the boxes for both **Candles** and **FX Glow** at the top right.
 
 Now you need to select either mesh rules profile. For most people with mid-range PCs, I recommend **Medium**, however, if you have a very low-end PCs (SSE minimum requirements), selecting **Low** should eliminate DynDOLOD's performance impact altogether while still improving distant terrain visually.
 
 - Select either the **Low** or **Medium** profile.
 - At the bottom make sure **Generate tree LOD** is checked (for 2D tree LOD).
+- The **Occlusion** option with **Quality** `3` and **Plugin** should still be checked.
+- The **Terrain underside** option with **Quality** `10` and **Height** `500` should still be checked.
 - Check **Glow Windows** but leave the **High** box unticked.
 - The **Upgrade NearGrid large references to FarGrid** option should also be unticked.
 - Click **OK** to start generating LOD.
@@ -204,28 +207,12 @@ As usual, step away from your PC while DynDOLOD is being regenerated.
 - Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
 - Place it last below the **PATCHER OUTPUT** separator and activate it.
 - Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
-- Leave **DynDOLOD.esp** at the very bottom as the last plugin.
-- Make sure both plugins are activated.
+- Leave **DynDOLOD.esp** and **Occlusion.esp** at the very bottom as the last plugin.
+- Make sure all new plugins are activated.
+- Re-enable **DynDOLOD - Solstheim Ice Piles Fix** under the **PATCHER OUTPUT** separator.
+- Place the plugin below **DynDOLOD.esp**. Your load order should look like this:
 
-### Occlusion
-
-After regenerating DynDOLOD, the Occlusion.esp must also be regenerated.
-
-- Run **SSELODGen** through Mod Organizer 2.
-- In the worldspaces window, check **Tamriel "Skyrim"** and **DLC2SolstheimWorld "Solstheim"**.
-- Uncheck all options except for **Occlusion**.
-- The settings should still be correct (**Quality** to set to **3** and **Height** set to **100**).
-- Click **Generate** and wait for the process to complete.
-
-> Remember to step away from your PC while Occlusion is being generated. During the process your CPU will likely be maxed out and you risk blue screens if you try to keep doing something on the side.
-
-### Occlusion Output
-
-- Once SSELODGen returns **LOD generation complete**, you can close the window.
-- Right-click the ***Overwrite*** folder in Mod Organizer 2 and select **Create mod**.
-- Enter **SSELODGen - Occlusion Data** as the name and click **OK**.
-- Activate the mod in the mod order.
-- Make sure **Occlusion.esp** is at the bottom of your load order and active.
+![DynDOLOD Load Order](/Pictures/tpf/finalisation/dyndolod-load-order.png)"
 
 ## ENBSeries
 
@@ -237,24 +224,23 @@ If Serio's ENB is too performance-intense for you, I recommend swapping to **Cat
 
 The alternative would be disabling ENB altogether.
 
-### Option 1: Cathedral Minimalist ENB
+### Option 1: Minimal ENB for Obsidian Weathers
 
-You can install the [**Cathedral Minimalist ENB**](https://www.nexusmods.com/skyrimspecialedition/mods/31367?tab=files) preset just like you did Serio's ENB in the [**ENBSeries**](/tpf/finalisation/enbseries/) step. Personally I found the preset too dark in interiors so I increased the brightness. I also enabled ambient occlusion and complex particle lights, so you'll get the most out of the preset and TPF in general. You can download my tweaked enbseries.ini and replace the preset's original one.
+You can install the [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098) preset just like you did Serio's ENB in the [ENBSeries](/tpf/finalisation/enbseries/) step. Although it was made for a different weather overhaul, it will work perfectly fine with Cathedral Weathers as it does not change the colours.
 
-- Manually download the main file from the [**Cathedral Minimalist ENB**](https://www.nexusmods.com/skyrimspecialedition/mods/31367?tab=files) mod page.
+- Manually download the main file from the [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098?tab=files) mod page.
 - Open the downloaded archive and extract everything *excecpt* for the **enbcache** folder into `\Your Modding Folder\temp\`.
-- Manually download my [**Cathedral Minimalist ENB - TPF Tweaks**](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files).
-- Open the downloaded archive and extract the enbseries.ini into `\Your Modding Folder\temp\`.
-- Click **Yes** when asked to overwrite.
 
 Now add the preset to ENB Man:
 
 - Open **ENB Man** and double-click the **Skyrim SE** instance.
 - Disable your current ENB preset by clicking the red button at the bottom.
-- Create a new profile and name it **Cathedral Minimalist ENB**.
+- Create a new profile and name it **Minimal ENB for Obsidian Weathers**.
 - Drag and drop the preset files from your **temp** folder into ENB Man.
 - Make sure the **Binaries** section is checked and the latest version of the ENB binaries are selected.
 - Click the green button at the bottom to deploy your new ENB preset.
+
+> I recommend disabling Depth of Field (either directly in the enbseries.ini or through the ingame GUI which you can open with F11). I also tweaked the water settings and disabled the wetness reflection feature. Since the file has closed permissions, I cannot share my edits and you'll have to apply them yourself.
 
 ### Option 2: Removing ENBSeries
 

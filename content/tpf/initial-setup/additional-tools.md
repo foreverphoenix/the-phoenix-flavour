@@ -79,18 +79,20 @@ Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that 
 
 ### Installation
 
-- Download [**Cathedral Assets Optimizer**](https://www.nexusmods.com/skyrimspecialedition/mods/23316) **5.0.15** manually.
+- Download [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) **5.0.15** manually.
 - Create a new folder: `Your Modding Folder\Tools\Cathedral Assets Optimizer`.
 - Open the downloaded archive and extract everything into the new folder.
 - Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
 
 You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
 
+> We are using an old version because there have been some issues with the newer ones.
+
 ### Profiles
 
 Cathedral Assets Optimiser allows you to set up dedicated profiles. I created several profiles for different purposes to be used during the installation of the guide.
 
-- Download the latest version of the [**Cathedral Assets Optimizer - Basic Profiles Pack**](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually from the Nexus.
+- Download the latest version of the [Cathedral Assets Optimizer - Basic Profiles Pack](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files) manually from the Nexus.
 - Open the downloaded archive.
 - Extract all folders to `Your Modding Folder\Tools\Cathedral Assets Optimizer\profiles`.
 
@@ -100,8 +102,20 @@ Cathedral Assets Optimiser allows you to set up dedicated profiles. I created se
 
 While the vast majority of SLE meshes can be fixed with Cathedral Assets Optimizer, there are some that will only work properly after running them through the original SSE NIF Optimizer.
 
-* Download [**SSE NIF Optimizer**](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
+* Download [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089) manually from the Nexus.
 * Extract the executable into Your Modding Folder. It’s just a single file so no separate directory is required.
+
+## NifSkope
+
+NifSkope is a great tool that allows you to quickly edit meshes in various ways (although not create new ones).
+
+- Download [NifSkope](https://github.com/niftools/nifskope/releases/tag/v2.0.dev7) from Github (scroll down to **Assets** and click the archive).
+- Create a new folder: `\Your Modding Folder\Tools\NifSkope\`.
+- Open the downloaded archive and extract its contents into the new folder.
+
+In Mod Organizer 2, add **NifSkope.exe** as an executable like you did before with SSEEdit. No additional arguments are required.
+
+![Download NifSkope](/Pictures/tpf/initial-setup/download-nifskope.png)
 
 ---
 
