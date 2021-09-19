@@ -62,13 +62,16 @@ description: >
 - **Soul Trap Options:** Soul Suck
 - **Restoration Options:** High Fantasy
 - **Firebolt Options:** Swooshy
+
+**Page 5:**
+
 - **Creature Options:**
   - Demonic Draugr
   - Well-Mannered Wolves
   - Sensible Storm Atronarchs
   - ~~Brutal Bears~~
 
-**Page 5:**
+**Page 6:**
 
 - **Nirnroot Options:** High Fantasy
 - **Misc Options:**

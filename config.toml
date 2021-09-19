@@ -145,7 +145,7 @@ enable = false
         desc = "Development happens here!"
 [[params.links.developer]]
 	name = "Discord"
-	url = "https://discord.gg/BpwXX5f"
+	url = "https://discord.gg/xCPxJFbCTS"
 	icon = "fab fa-discord"
         desc = "Join our Discord!"
 [[params.links.developer]]

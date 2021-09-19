@@ -96,7 +96,7 @@ The optional file (mesh fix) can only be downloaded manually.
 
 #### Download Instructions
 
-- **Main Files:** Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
+- **Main Files:** Masculine Grey Cat and Leopard (Vanilla) 4K
 
 #### FOMOD Instructions
 

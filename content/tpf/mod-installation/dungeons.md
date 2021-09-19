@@ -121,17 +121,23 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - ENB Particle Lights
   - ~~Dwemer Pipework Reworked~~
 
-##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
-
 ##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
+
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\clutter\dwemer\dweichorbarrellfull01.nif`
+- `meshes\clutter\dwemer\dweichorbarrellfull02.nif`
+- `meshes\clutter\dwemer\dweichorgoo01.nif`
+- `meshes\clutter\dwemer\dweichorgoo02.nif`
+- `meshes\clutter\quest\da13vinegiantcluster01.nif`
 
 ##### [Aetherium Falmer Cave Ceiling Glow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
 

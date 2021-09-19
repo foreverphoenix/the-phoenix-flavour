@@ -7,11 +7,19 @@ description: >
   Welcome to The Phoenix Flavour, a Vanilla-plus modding guide for Skyrim SE.
 ---
 
+## PLEASE READ THIS FIRST
+
+**TPF is on indefinite hiatus!**
+
+On September, 18th 2021, it received its final update for the forseeable future. I am shifting my focus to my WIP beginner's guide and the TPF-X Wabbajack list which is an expansion of base TPF.
+
+The guide is *usable* and will remain so for at least a few weeks to months. I expect it won't be severely outdated before 2022, but with the speed that the modding scene usually moves at, it is impossible to predict.
+
+> Please read my September 2021 [Patreon post](https://www.patreon.com/posts/september-update-56305694) for more information.
+
 ## Overview
 
-The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide, featuring over 600 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.
-
-*The concept of "Vanilla plus" simply refers to a mod or mod setup that improves the existing game without attempting to turn it into something entirely different. It is a matter of preference and there are guides with different approaches out there for those who are tired of Skyrim's core gameplay loop.*
+The Phoenix Flavour for Skyrim SE is a visuals and gameplay-focused modding guide, featuring around 700 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and ~~continues to be updated and expanded frequently~~ is **currently on an indefinite hiatus**.
 
 Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations, and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything *carefully*. The guide was written with the assumption that most readers have little to no previous knowledge about modding and supplies the basics before going more in-depth.
 
@@ -37,8 +45,6 @@ The simple truth of the matter is that TPF is written and patched by two people 
 
 Those experienced with modding and SSEEdit will find it very easy to customise the guide to their liking (though you should be aware that you are no longer eligible for support once you deviate from the instructions). Otherwise, there are many alternatives in the form of other guides and Wabbajack mod lists, including forks of TPF with mods adding more content.
 
-> With the release of the TPF-X addon, customisability has made a limited return. The addon contains various additions from which the user can pick and choose. Other addons further expand the amount of supported mods.
-
 ### TPF as a teacher
 
 TPF has two purposes: **1)** to create and document what I consider my personal ideal version of Skyrim, and **2)** to teach its users as much about modding as possible without requiring any prior modding experience. Throughout the guide we will make use of a large amount of tools and procedures, including proper use of Mod Organizer 2 and how to run various patchers such as DynDOLOD.
@@ -58,16 +64,16 @@ Regardless of whether you build the setup manually or use the Wabbajack installe
 
 ### Included Mods
 
-- **Visuals:** Cathedral Weathers, Luminosity and Relighting Skyrim, Cathedral Landscapes.
+- **Visuals:** Cathedral Weathers, Luminosity, and Relighting Skyrim. EVT for trees, RW2 for water.
 - **Textures:** Noble Skyrim overwritten by dozens of smaller mods (including the RUSTIC series and aMidianBorn).
 - **Distant Level of Detail (LOD):** DynDOLOD is included and mandatory; 3D tree LOD is optional.
 - **ENBSeries:** Using Serio's ENB which is performance-friendly and does not break nighteye.
 - **Gameplay:** Featuring the full suite of [**SimonMagus' suite of lightweight overhauls**](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files).
 - **Loot and Rarity:** Based on the fantastic [**Open World Loot**](https://www.nexusmods.com/skyrimspecialedition/mods/49681) overhaul.
-- **New Companions:** None included. *TPF-X adds support for Inigo and Lucien.*
+- **New Companions:** None included.
 - **DLC-Sized Mods:** None included.
-- **Body Replacer:** None included. *But there are high poly hands and feet.*
-- **Needs and Survival Mods:** None included. *CC Survival support available in an addon.*
+- **Body Replacer:** None included. *Hands and feet are replaced by high poly meshes.*
+- **Needs and Survival Mods:** None included. *CC Survival support available through an Addon.*
 
 Included in TPF-X (an official addon for the main guide) is among other things a collection of mods **new music tracks** which I added to a convenient [**YouTube playlist**](https://youtube.com/playlist?list=PLj_QypS-aCNNyUBLpYsFAeCJk1Zq0xnmV) for you to listen to while you work through the guide.
 
@@ -79,13 +85,14 @@ If you want to expand the base TPF setup without losing support, there are:
 
 ### TPF Addons
 
-Still want more mods after completing TPF? We got you covered. For users of the manual guide, there is the option to install **Addons** on top of the base TPF installation.
+Looking for TPF but with more content or harder difficulty?
 
-**TPF-X** is the "official" addon by yours truly. It's fully modular and features new music, new gear, support for Creation Club player homes, Rudy ENB, new followers (Lucien and Inigo), and more.
+- Check out [Slidikins' Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939) for survival features and more challenging gameplay.
+- Check out [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973) for vastly more content, new quests, NPC replacer, and much more.
 
-Other addons include **Slidikins' Strenuous Skyrim** which implements survival mechanics and makes loot significantly rarer. Additionally, there are patches for other Creation Club content such as **CC Survival Mode** as well as an integration patch for **Legacy of the Dragonborn**.
+Both of these Addons are available through manual instructions (to be followed after completing the main TPF guide) or standalone Wabbajack installers.
 
-Find out about TPF Addons **[here](/tpf/tpf-addons/)**. Obviously they require an existing installation of base TPF.
+Other addons include patches for **Legacy of the Dragonborn** and certain **Creation Club** content. Find out more [on the TPF Addons page](/tpf/tpf-addons/). Obviously they require an existing installation of base TPF.
 
 ### Our Tools
 
@@ -120,12 +127,6 @@ While there is a lot that Wabbajack can automate, there are still some steps to 
 The Phoenix Flavour is far from the only modding guide for Skyrim SE. However, the term "modding guide" itself is used quite liberately in the community with many small mod lists being referred to as such. These are often written by inexperienced people and lack crucial features such as custom patches or certain essential mods.
 
 Unequivocally recommended by us is [Lexy's Legacy of the Dragonborn](https://lexyslotd.com/). For more information on this and other guides, please check out my [brief overview over existing modding guides](/tpf/guide-resources/modding-guides/) which lists recommended guides as well as some that should be avoided at all costs.
-
-### TPF Forks
-
-*[What is a fork in software terms?](https://en.wikipedia.org/wiki/Fork_(software_development))*
-
-If the vanilla-plus approach of TPF is to your liking but you find yourself missing additional content, check out [Elysium - A TPF Fork](https://github.com/TitansBane/Elysium) by TitansBane (author of Tools of Kagrenac and Reliquary of Myth) which expands the base setup with EnaiSiaion's suite of gameplay overhauls (replacing the default TPF SimonRim setup) and optional Creation Club support as well as [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), 3DNPC, Vigilant, and more quest mods.
 
 ## Recommended Hardware
 
