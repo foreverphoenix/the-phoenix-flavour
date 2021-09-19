@@ -10,11 +10,15 @@ description: >
 
 > TBD
 
+Just a quick update to fix the current issues with downloading ENB and some output.
+
 #### Mod Changes
 
 - Updated ENBSeries binaries to 0.463
 - Updated Spell Perk Item Distributor to 5.0.3
+- Updated Fixed Mesh Lighting to 1.4.2
 - Updated NPC AI Process Position Fix to 4.05d
+- Fixed TexGen and DynDOLOD output links
 
 ## Release 1.3
 
