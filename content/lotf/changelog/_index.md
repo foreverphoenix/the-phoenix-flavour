@@ -6,13 +6,27 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.3.1
+
+> 19/09/2021
+
+Just a quick update to fix the current issues with downloading ENB and some outputs.
+
+#### Mod Changes
+
+- Updated ENBSeries binaries to 0.463
+- Updated Spell Perk Item Distributor to 5.0.3
+- Updated Fixed Mesh Lighting to 1.4.2
+- Updated NPC AI Process Position Fix to 4.05d
+- Fixed TexGen and DynDOLOD output links
+
 ## Release 1.3
 
 > 15/09/2021
 
 This is a smaller update and will likely be the last one for the time being. I fixed the message when trying to drop a quest message so it does not just now show the raw string (was missing a dependency), removed the mod causing the purple waterfalls (couldn't be bothered to find the missing texture), updated a bunch of mods, and regenerated TexGen, DynDOLOD, and Occlusion with the latest version of DynDOLOD. I believe LOTF is in a pretty good place for now.
 
-### Mod Changes
+#### Mod Changes
 
 - Added Scaleform Translation Plus Plus
 - Added LeanWolf's Dawnbreaker ENB meshes
