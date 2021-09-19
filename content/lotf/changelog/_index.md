@@ -8,9 +8,9 @@ description: >
 
 ## Release 1.3.1
 
-> TBD
+> 19/09/2021
 
-Just a quick update to fix the current issues with downloading ENB and some output.
+Just a quick update to fix the current issues with downloading ENB and some outputs.
 
 #### Mod Changes
 
