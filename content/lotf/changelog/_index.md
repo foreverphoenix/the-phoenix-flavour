@@ -6,6 +6,28 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.4
+
+> TBD
+
+#### Mod Changes
+
+- Added WEBS
+- Added High Gate Ruins Puzzle Reset Fix
+- Added High Hrothgar - Fixed
+- Added moreHUD
+- Added Radiant - Candles
+- Added Simplicity of Snow
+- Added Unofficial Material Fix - Improved Traps Patch
+- Updated Spell Perk Item Distributor to 5.0.4
+- Updated DynDOLOD Resources to 3 Alpha 13
+- Updated Assorted Mesh Fixes to 0.30.1
+- Updated Relighting Skyrim to 1.2.1
+- Updated DynDOLOD to 3 Alpha 44
+- Enabled and tweaked ENB complex particle light effects
+- Increased particle count (iMaxDesired) to 7500 in the SkyrimPrefs.ini 
+- Fixed a few minor conflicts
+
 ## Release 1.3.1
 
 > 19/09/2021
