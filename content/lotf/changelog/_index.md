@@ -18,6 +18,7 @@ description: >
 - Added moreHUD
 - Added Radiant - Candles
 - Added Simplicity of Snow
+- Added Misc Dialogue Edits
 - Added Unofficial Material Fix - Improved Traps Patch
 - Updated Spell Perk Item Distributor to 5.0.4
 - Updated DynDOLOD Resources to 3 Alpha 13
