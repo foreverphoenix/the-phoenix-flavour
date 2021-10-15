@@ -49,6 +49,8 @@ Just like my Fallout 4 list is named after one of my favourite songs, I picked "
 
 **Legends of the Frost** can only be installed via [Wabbajack](https://www.wabbajack.org/#/). There is no manual guide.
 
+> The latest version of the .NET 5.0 Runtime is required for the mod Scrambled Bugs. Please download it from the [official website](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) and install it before installing LOTF.
+
 - To properly set up Skyrim SE for LOTF, [follow these instructions](/wj/wj-sse/game-setup/).
 - To install LOTF through Wabbajack, [follow these instructions](/wj/wj-sse/list-installation/).
 
@@ -66,6 +68,6 @@ All other functions (screenshot, FPS cap, toggle DOF) were disabled. I recommend
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise **Immersive HUD** in its MCM (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime.
+LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise **Immersive HUD** in its MCM (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime. The LOTF preset for the moreHUD MCM is applied automatically upon starting a new game.
 
 There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
