@@ -101,7 +101,7 @@ Everything we could possibly need to know we can see at a glance thanks to the m
 
 Every object, NPC, magic effect, music track, etc, in the game is defined in a unique *record* which is contained in a *plugin*. For vanilla Skyrim, that is what the official master files do: Each of the five plugins contains thousands of **records**, one for every *thing* in the game, for NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
 
-Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F). The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: No two plugins can be loaded in the same spot in the load order so they will always have a different index.
+Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F), for example `050B1985`. The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: No two plugins can be loaded in the same spot in the load order so they will always have a different index.
 
 ### Base and Ref Form ID
 
@@ -121,7 +121,7 @@ As you may have noticed, the index for the book's Ref Form ID `01` actually corr
 
 For example, a mod might change the interior of the Temple of Kynareth in such a way that the USSEP book is suddenly stuck in furniture, or otherwise inaccessible or in the way. The mod author could add the USSEP as a master to their plugin and move the book out of the way, but now their Temple of Kynareth mod would always require the USSEP.
 
-Because the book's REFR record is an injected form though, adding the USSEP as a master would not be required in the first place - only Update.esm would have to be added (and everyone has Update.esm). That means the book would be moved if the USSEP was installed, but there would not be a missing master error if it was not.
+But because the book's REFR record is an injected form though, adding the USSEP as a master would not be required in the first place - only Update.esm would have to be added (and everyone has Update.esm). That means the book would be moved if the USSEP was installed, but there would not be a missing master error if it was not.
 
 ## SSEEdit Basics
 
@@ -133,7 +133,7 @@ In the background, MO2 will be locked now. This will always happen when you laun
 
 In **SSEEdit**, you will now see your load order ("Module Selection"). All plugins should be checked by default, so go ahead and click **OK** to load them up. This will take a while. You can follow the tool's progress in SSEEdit and, spoiler alert, we are going to speed this process up in the future. While SSEEdit loads your plugins, it will display random tips.
 
-After a while, SSEEdit will ask you about activating **ModGroups**. This is because the USSEP comes with a modgroup file that was now recognised by the tool. We will talk about modgroups and their functionality later, for leave the USSEP one disabled and just click **OK**.
+After a while, SSEEdit will ask you about activating **ModGroups**. This is because the USSEP comes with a ModGroup file that was now recognised by the tool. We will talk about ModGroups and their functionality later, for now leave the USSEP ModGroup disabled and click just **OK**.
 
 The SSEEdit log should now return `Background Loader: finished`, so we can proceed.
 
@@ -168,7 +168,7 @@ As you can see, both the right pane side and the record name in the left pane ar
 
 You can see the original record as defined by **Skyrim.esm** in the first column, then the USSEP version in the second column. These columns correspond to the plugins and are sorted in the order of the plugins.
 
-Each of these columns is a **layer** and completely overwrites the earlier ones. Imagine placing a stack of papers on your desk: You can only read the one on the top. Similarly, the Skyrim engine can only read the layer at the very bottom that covers up all that were placed before it. You could now change anything you wanted in the **Skyrim.esm** layer; as long as the USSEP overwrote it, you would not see a change ingame.
+Each of these columns is a **layer** and completely overwrites the earlier ones. Imagine placing a stack of papers on your desk: You can only read the one on the top. Similarly, the Skyrim engine can only read the final layer that covers up all that were placed before it. You could now change anything you wanted in the **Skyrim.esm** layer; as long as the USSEP overwrote it, you would not see a change ingame.
 
 Later on with a longer load order, you may have multiple plugins overwriting a single record. Each of them may make a different change, but the engine will only read the one at the bottom of the load order and completely ignore the rest. This is why *patching* is so important: It means consolidating all desired changes in one final layer.
 
@@ -207,14 +207,14 @@ Under **NAME - Base** in the right pane, you can see the full name of the book r
 
 ### Creating a new layer
 
-While it is entirely possible to edit the ref record directly, it would mean that you would have to do it all over again whenever the USSEP updated. For any edit like this and, later on, patches I highly recommend creating new plugins instead of directly editing the mod(s) in question. It is also much easier to keep track of custom changes if they are in separate plugins.
+While it is entirely possible to edit the ref record directly, it would mean that you would have to do it all over again whenever the USSEP updated. For any edit like this and later on for patches I highly recommend creating new plugins instead of directly editing the mod(s) in question. It is also much easier to keep track of custom changes if they are in separate plugins.
 
 - Right-click the **Unofficial Skyrim Special Edition Patch.esp** column in the right pane.
 - Select **Copy as override into ...** to copy the layer into another plugin.
 
 ![SSEEdit Create Layer](/Pictures/embers/module-1/sseedit-create-layer.png)
 
-The warning window that now appears will always show up the first time you edit anything in an SSEEdit session. It can be turned off and I recommend doing that eventually. When changing anything in SSEEdit, it is important to keep in mind that there is no "Undo" button; if you make a mistake, you need to close without saving your changes and start over. It is also possible to save manually during a longer session. However, all of this is irrelevant for now.
+The warning window that now appears will always show up the first time you edit anything in an SSEEdit session. It can be turned off and I recommend doing that eventually. When changing anything in SSEEdit, it is important to keep in mind that there is no "Undo" button; if you make a mistake, you need to restore the previous state manually or close without saving your changes and start over. It is also possible to save manually during a longer session. However, this is mostly irrelevant for now.
 
 - Click **Yes I'm absolutely sure** to acknowledge the warning and proceed.
 - A new window will pop up with various different plugins that the record can be copied into.
@@ -223,7 +223,7 @@ The warning window that now appears will always show up the first time you edit 
 
 ![New ESPFE Plugin](/Pictures/embers/module-1/new-espfe-plugin.png)
 
-The new plugin was created and will appear at the bottom of the plugin list in the left pane. Scroll down and expand its Cell records until you find the ref record added by the USSEP. As you can see it is highlighted in green since the original record was overwritten now:
+The new plugin was created and will appear at the bottom of the plugin list in the left pane. Scroll down and expand its **Cell** records until you find the ref record added by the USSEP. As you can see it is highlighted in green since the original record was overwritten now:
 
 ![USSEP Book ITM](/Pictures/embers/module-1/ussep-book-itm.png)
 
@@ -241,25 +241,25 @@ A new window will pop up with a list of options that you can check. Near the top
 
 ![Add Record Flag](/Pictures/embers/module-1/add-record-flag.png)
 
-> Initially Disabled means a record can potentially be re-enabled by a script later on. For example, if an NPC dies, a coffin in the Hall of the Dead of their home city will be enabled. Up until then, that coffin's ref record would have been flagged as Initially Disabled.
+> Initially Disabled means a record can potentially be re-enabled by a script later on. For example, certain coffins are flagged as initially disabled. If an NPC dies, their coffin in the Hall of the Dead of their home city will be enabled and become visible to the player.
 
 ### Saving your changes
 
 Saving changes made in SSEEdit is a slightly unintuitive process: You actually have to *close* the tool to be prompted to save what you changed (unless you save manually).
 
-- Close **SSEEdit**.
+- Close **SSEEdit** (click the red X in the upper right corner).
 - A window with all plugins edited in that session will pop up. Only the **Disable USSEP Book.esp** should be listed here.
 - Make sure that the plugin is checked and click **OK**.
 
 ## The New Mod
 
-Back in Mod Organizer 2, you will notice that new plugin showing up in the load order. If you click on it, the ***Overwrite*** at the bottom of your mod order will light up, which means that is where your new plugin is currently located.
+Back in Mod Organizer 2, you will notice that the new plugin is already showing up in the load order. If you click on it, the ***Overwrite*** at the bottom of your mod order will light up, which means that is where your new plugin is currently located.
 
-So what is the ***Overwrite***? 
+So what is the ***Overwrite***?
 
 ### MO2 Overwrite
 
-We already established that, by default, Skyrim mod files are placed in the data folder, but that Mod Organizer 2 has a virtual file system to circumvent this. Some modding tools will attempt to place their own files into the data folder as well. MO2 will catch these files and deposit them in the ***Overwrite*** folder at the bottom of your mod order instead.
+We already established that, by default, Skyrim mod files are placed in the data folder, but that Mod Organizer 2 has a virtual file system to circumvent this. Some modding tools will attempt to place their own files into the data folder. MO2 will catch these files and deposit them in the ***Overwrite*** folder at the bottom of your mod order instead.
 
 The folder is named that because it does overwrite: Mod order, like plugin order, is priority-based. In the case of conflicts, files that are placed lower win and overwrite. Files in the ***Overwrite*** will always be loaded in the virtual data folder and overwrite everything else so it is important to keep track of its contents.
 
@@ -291,6 +291,20 @@ Functionally, all this did was create a new folder under `\Mod Organizer 2\mods\
 - For now, simply delete the **SSEEdit Cache** folder in the ***Overwrite*** (we will regenerate it).
 - Drag the new **Disable USSEP Book** below the USSEP in your mod order and activate it.
 
+### Renaming the plugin
+
+In the next lesson we are going to need a plugin with a very specific format for demonstration purposes. Don't worry about the implications of this change yet, it will be explained soon. For now, follow these instructions to turn the plugin into a full ESL:
+
+- Double-click **Disable USSEP Book** in your mod order.
+- Switch to the **Filetree** tab (furthest on the right).
+- Select the plugin and press F2 to rename it.
+- Only change the file extension from **ESP** to **ESL**.
+- Once done, close the window again.
+
+![Custom Plugin ESL](/Pictures/embers/module-1/custom-plugin-esl.png)
+
+The plugin will now be disabled and placed at the bottom of your load order in the right pane. This is normal. Re-enable it (check the box) and manually place it below **Landscape and Water Fixes.esp**.
+
 ## SSEEdit Ref Cache
 
 We already talked about reference records: They define the placement of various objects in the world. These objects may include books like the USSEP one, but also other items (such as food or weapons), furniture, NPCs, light sources, or invisible triggers (that fire scripts when you cross them). Every single dead shrub in Skyrim has its unique ref record. There are a *lot* of dead shrubs in Skyrim.
@@ -314,7 +328,7 @@ The file path will obviously depend on where you set up **Your Modding Folder**.
 
 Once you have entered the argument with the correct file path for your system, click **OK**.
 
-Note that the file path **must** end on a trailing backslash `\`. Otherwise it simply won't work, and Mod Organizer 2 will continue to place the refcache files into the Overwrite.
+Note that the file path **must** end on a trailing backslash `\`. Otherwise it simply will not work, and Mod Organizer 2 will continue to place the refcache files into the Overwrite.
 
 ![SSEEdit Cache Argument](/Pictures/embers/module-1/sseedit-cache-argument.png)
 
@@ -324,7 +338,7 @@ The next time you open your load order in SSEEdit will once again take a while a
 
 Now that we have created our first plugin tweak and cleaned everything up, it is time to jump ingame again to check if the plugin works as intended.
 
-- Launch **SKSE** through MO2.
+- Launch **SKSE** through Mod Organizer 2.
 - Select **Continue** in the main menu to load your previously created save.
 
 And ... gone!
@@ -335,6 +349,6 @@ And ... gone!
 
 You may wonder why we went through the process of digging through SSEEdit to disable a completely inconsequential feature before we even talk about load order and plugin types.
 
-This lesson was not about the book. It was about plugin structure: About records and Form IDs and layers. Load order should be more than a theoretical idea now, it's a tangible concept that you have seen in action. You have seen overwrites, you have created your own overwriting layer to make a change, and made sure that it works.
+This lesson was not about the book. It was about plugin structure: About records and form IDs and layers. Load order should be more than a theoretical idea now, it's a tangible concept that you have seen in action. You have seen overwrites, you have created your own overwriting layer to make a change, and made sure that it works.
 
 When we discuss plugin types and load order in the next lesson, these concepts will make a great deal more sense with the knowledge on plugin structure we gained in this lesson.

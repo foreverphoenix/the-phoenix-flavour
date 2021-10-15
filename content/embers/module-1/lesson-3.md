@@ -161,7 +161,7 @@ After installing and activating the USSEP, you will notice that it is different 
 
 Many landscape bugs and oddities that remain unaffected by the USSEP have been addressed in **Skyrim Landscape and Water Fixes** (SLaWF). Interesting for us is also that the mod is contained in a **FOMOD** installer. The acronym hails from the Fallout New Vegas days and stands for **F**all**o**ut **Mod** Archive. It allows for a modular installation which may include picking or skipping optional files, or choosing between various alternatives. Mods with FOMOD installers are common.
 
-- Download the latest main file of the [**Skyrim Landscape and Water Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/26138).
+- Download the latest main file of the [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138).
 
 Upon double-clicking the mod in the **Downloads** pane in Mod Organizer 2, the FOMOD installer will open. As you can see at the top, the core files are installed automatically (you cannot uncheck them). In addition, patches are offered for various mods, none of which we have installed right now, so you do not have to check any of them. There is a fix for a specific file (a mesh with a gap on one side) that by default will install a version for vanilla which we also do not need to change.
 
@@ -179,7 +179,7 @@ One of the great features of the mod is the ability to click any object ingame t
 
 The mod also adds a ton of additional information that can be viewed directly ingame as well as new hotkeys for easier navigation of the console.
 
-- Download and install the latest main file of [**More Informative Console**](https://www.nexusmods.com/skyrimspecialedition/mods/19250).
+- Download and install the latest main file of [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250).
 
 ### SkyUI
 
