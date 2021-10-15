@@ -26,6 +26,12 @@ description: >
   * Desync Birds of Prey
   * ~~Holy Cow~~
 
+##### [DynDOLOD Bright LOD Waterfall Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37956?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** DynDOLOD Bright LOD Waterfall Fix
+
 ##### [Better DynDOLOD Red Mountain Plume](https://www.nexusmods.com/skyrimspecialedition/mods/43863?tab=files)
 
 #### Download Instructions
@@ -67,12 +73,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Smim - Quality Addon
-
-##### [SMIM Whiterun Bench](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 2K SMIM Whiterun Bench
 
 ##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
 
@@ -130,6 +130,7 @@ description: >
 - **Patches:**
   - ~~More Growable Plants~~
   - ~~Simply Bigger Plants~~
+  - ~~Skyrim 2020 by Pfuscher~~
   - Wiseman's Flora Fixes
 - **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
 - **JK's Skyrim:** ~~JK's Skyrim~~
@@ -139,7 +140,7 @@ description: >
 - **Snowberries:** Sufficiently Optimized Snowberries
 - **Juniper:** 3D Juniper
 - **Tundra Cotton:** ~~Tundra Cotton by Mari~~
-- **Jazbay:** Jaybay by Mari
+- **Jazbay:** Jazbay by Mari
 - **Canticle Tree:** High Poly Canticle Tree
 
 **Page 3**
@@ -187,8 +188,9 @@ description: >
   - HD Highlandcow
   - HD Skeever
   - ~~Savage Skyrim~~
-  - ~~Skeleton Replacer HD~~
+  - Skeleton Replacer HD
   - ~~SkyTEST~~
+  - Unique Barbas
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 
@@ -298,7 +300,7 @@ description: >
 - **Clutter:**
   * ~~Install All~~
   * Clutter General
-  * Bones
+  * ~~Bones~~
   * Dead Animals
   * Display Cases
   * ~~Firewood~~

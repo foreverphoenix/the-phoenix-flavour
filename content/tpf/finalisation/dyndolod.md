@@ -37,35 +37,13 @@ However, for TPF we are going to use the **High** preset with 3D tree LOD which 
 
 ![Texgen DynDOLOD Executables](/Pictures/tpf/finalisation/texgen-dyndolod-executables.png)
 
-## INI Adjustments
-
-Before we generate LOD with DynDOLOD, we need to tweak a few settings:
-
-- Navigate to `\Your Modding Folder\Tools\DynDOLOD\Edit Scripts\DynDOLOD\`.
-- Open **DynDOLOD_SSE.ini** in Notepad++.
-
-Enable expert mode in DynDOLOD:
-
-- In **Line 8**, set `Expert=` to `1`.
-
-Generate a terrain underside mesh for Dynamic Volumetric Lighting and Sun Shadows:
-
-- Uncomment **Line 274** (remove the semicolon).
-- In **Line 279**, set `Terrain Underside=` to `1`.
-
-And finally:
-
-- Press **CTRL + S** to save your changes and close the window.
-
-![DynDOLOD INI Tweaks](/Pictures/tpf/finalisation/dyndolod-ini-tweaks.png)
-
 ## TexGen
 
 - Launch **TexGen** through Mod Organizer 2.
 - Under **Stitched Object LOD Textures**, set **Texture size** to `256` (increase to `512` if you play at 4K).
 - Under **Rendered Object LOD Textures**, set **Texture size** to `256` (increase to `512` if you play at 4K).
 - Set **Units per pixel** to `11` (1080p), `8` (1440p), or `5.5` (2160p).
-- Under **Trees/Grass Billboards**, check the boxes for **Tree**, **HD Tree**, and **Rendered**.
+- Under **Trees/Grass Billboards**, check the boxes for **HD Tree** (**Trees** and **Rendered** should already be checked).
 - Click **Start** to begin the process.
 
 > The generation will take a while and I recommend you step away from your PC in the meantime.
@@ -87,12 +65,15 @@ DynDOLOD has a multitude of features and settings through which performance impa
 ### Run DynDOLOD
 
 - Run **DynDOLOD** through Mod Organizer 2.
+- Click **Advanced** to configure DynDOLOD.
 - Make sure all worldspaces in the top left box are ticked (right-click >> Select all).
 - Check the boxes for both **Candles** and **FX Glow** at the top right.
 - Click the **High** button to load the mesh rules preset.
 - Increase **Max tile size LOD** to `2048` if you play at 4K.
 - Increase **Max tile size full** to `512` if you play at 4K.
-- Check the **Ultra** button at the bottom (this will uncheck **Generate tree LOD**).
+- Check the box for **Ultra** (this will uncheck **Generate tree LOD** as tree LOD will now be generated as object LOD).
+- Make sure **Occlusion Data** and **Plugin** are checked. Set **Quality** to `3`.
+- Make sure **Terrain underside** is checked. Keep the default settings for **Quality** and **Height** (`10` and `500` respectively).
 - Check the boxes for **Glow windows** and **High** for glowing windows at a distance.
 - Check the boxes for **Fake lights selected worlds** and **Fake lights child world**.
 - Check the box for **Upgrade NearGrid large references to FarGrid**.
@@ -110,15 +91,19 @@ DynDOLOD has a multitude of features and settings through which performance impa
 - Refresh Mod Organizer 2 (F5) and it will appear at the bottom of your load order.
 - Place it last below the **PATCHER OUTPUT** separator and activate it.
 - Move **DynDOLOD.esm** below your other ESMs at the top of your load order.
-- Leave **DynDOLOD.esp** at the very bottom as the last plugin.
+- Leave **DynDOLOD.esp** and **Occlusion.esp** as the final plugins at the bottom.
 - Make sure both plugins are activated.
 
 ## Solstheim Ice Piles Fix
 
-For whatever reason, DynDOLOD reverts a change in the **Skyrim Remastered - Ice and Glaciers** plugin to vanilla. This in turn breaks three statics on Solstheim.
+For whatever reason, DynDOLOD reverts a change in the **Skyrim Remastered - Ice and Glaciers** plugin to vanilla. This in turn breaks some statics on Solstheim.
 
 - Download and install the [DynDOLOD - Solstheim Ice Piles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files) from the **Optional Files** section.
 - Install it as usual in Mod Organizer 2 and active it in the mod order.
-- Leave the plugin at the bottom of your load order so that it overwrites **DynDOLOD.esp**.
+- Place the plugin below **DynDOLOD.esp**.
 
-Check this [comparison slider](https://imgsli.com/NjUxMzE) to see what the objects in question look like before and after the fix.
+> Check this [comparison slider](https://imgsli.com/NjUxMzE) to see what the objects in question look like before and after the fix.
+
+The bottom of your load order should now look like this:
+
+![DynDOLOD Load Order](/Pictures/tpf/finalisation/dyndolod-load-order.png)

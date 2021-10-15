@@ -53,6 +53,7 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 
 * **Main Files:** Rudy HQ - Nordic Ruins SE version
 * **Optional Files:** Chests addon >> `merge with the main file`
+* **Optional Files:** Pots addon SE version >> `merge with the main file`
 * **Optional Files:** Ruin Levers addon SE version >> `merge with the main file`
 
 #### Additional Instructions
@@ -69,6 +70,10 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmoff02.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon.nif`
   - `meshes\clutter\ruins\ruinsfloorcandlelampsmon02.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze01.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze02.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze03.nif`
+  - `meshes\dungeons\nordic\exterior\norlabyrinthianmaze04.nif`
   - `meshes\dungeons\nordic\exterior\dragonbridge01.nif`
 
 ##### [Iconic's Windcaller Tomb and Horn Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45440?tab=files)
@@ -88,12 +93,6 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
 #### Download Instructions
 
 * **Main Files:** CC's Remastered Murals - 4K - BC7 - 1.0
-
-##### [Ancient Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/24039?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Ancient Pottery
 
 ##### [Skyrim Remastered - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/38220?tab=files)
 
@@ -122,17 +121,23 @@ One of the meshes in Underground is in the wrong folder and will cause the mud o
   - ENB Particle Lights
   - ~~Dwemer Pipework Reworked~~
 
-##### [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
-
 ##### [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Bthardamz
+
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\clutter\dwemer\dweichorbarrellfull01.nif`
+- `meshes\clutter\dwemer\dweichorbarrellfull02.nif`
+- `meshes\clutter\dwemer\dweichorgoo01.nif`
+- `meshes\clutter\dwemer\dweichorgoo02.nif`
+- `meshes\clutter\quest\da13vinegiantcluster01.nif`
 
 ##### [Aetherium Falmer Cave Ceiling Glow](https://www.nexusmods.com/skyrimspecialedition/mods/43434?tab=files)
 

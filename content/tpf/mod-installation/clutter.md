@@ -6,17 +6,6 @@ description: >
   Retextures for small items and everyday tools.
 ---
 
-##### [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Medieval Torch
-
-#### FOMOD Instructions
-
-- **Smoke Effect and Wield:** Smoke Effect (STAC Compatible Meshes)
-- **Style:** Version 1
-
 ##### [Qwafee Keys](https://www.nexusmods.com/skyrimspecialedition/mods/34719?tab=files)
 
 #### Download Instructions
@@ -62,6 +51,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 #### Download Instructions
 
 - **Main Files:** Rallys Fishing Pole
+
+##### [Chisel Replacer HD](https://www.nexusmods.com/skyrimspecialedition/mods/47534?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Chisel 1K
 
 ##### [Metallurgy - Ingots and Ore HD](https://www.nexusmods.com/skyrimspecialedition/mods/30738?tab=files)
 
@@ -124,6 +119,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 * **Main Files:** Skyrim 3D Misc - Markarth Cage
 * **Main Files:** Skyrim 3D Misc - Traps
 
+##### [Troll Skull Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45538?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** 2K Troll Skull
+
 ##### [Deer Skull and Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/45510?tab=files)
 
 #### Download Instructions
@@ -174,12 +175,40 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 > The textures for the Dwemer pottery should be supplied by The Dwemer for consistency.
 
-##### [Medieval Silverworks](https://www.nexusmods.com/skyrimspecialedition/mods/23938?tab=files)
+##### [Rudy HQ - Miscellaneous](https://www.nexusmods.com/skyrimspecialedition/mods/19867?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Medieval Silverworks
-* **Miscellaneous Files:** Medieval Silverworks STAC Patch >> `merge with the main file`
+* **Main Files:** Rudy HQ - Miscellaneous SE
+
+#### FOMOD Instructions
+
+- **HQ Siverware:** Rudy HQ Silverware for Rustic Silverware
+- **HQ Silverware for Smoking Torches and Candles mod:** None
+- **Additional HQ candle models:**
+  - ~~Rudy HQ Imperial Candles~~
+  - ~~Rudy HQ Nordic Ruins Candles~~
+- **Additional HQ candle models for Smoking Torches and Candles mod:**
+  - ~~Rudy HQ Imperial Candles~~
+  - ~~Rudy HQ Nordic Ruins Candles~~
+- **HQ candles for vanilla Lanterns:**
+  - ~~Rudy HQ Lanterns~~
+- **HQ Glazed pottery:**
+  - Rudy HQ Glazed Pottery Vanilla Style 2K
+- **HQ Glazed pottery for Smoking Torches and Candles mod:**
+  - None
+- **Textures for Nordic ruins pottery:**
+  - Rudy HQ Brown Textures for Dungeons Pottery 2K
+- **Additions:**
+  - ~~Rudy HQ Apple Tomato Potato~~
+  - Rudy HQ Beds
+  - Rudy HQ Common Plates
+- **Textures for the candles:**
+  - 1k textures for the candles
+
+#### Additional Instructions
+
+- ESL-ify **Rudy Nordic Pottery SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Hearthfire Crafting Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52423?tab=files)
 
@@ -245,7 +274,8 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-* **Main Files:** Hermaeus Mora Tax Book SD
+- **Main Files:** Hermaeus Mora Tax Book SD
+- **Optional Files:** Book02lowpoly >> `merge with the main file`
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 

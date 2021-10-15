@@ -6,6 +6,25 @@ description: >
   Overhauling mountains, grass, water, and roads.
 ---
 
+##### [Mountains Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/38655?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Mountains Enhanced K747 SSE with HQ LODs
+
+#### Additional Instructions
+
+In order to place this plugin above MajesticMountains_Landscapes.esm, we need to ESM-ify it:
+
+- Run **SSEEdit** through Mod Organizer 2.
+- Click **OK** in the plugin selection window and wait until the log returns `Background loader: finished`.
+- Find and select **MountainsEnhanced.esp** in the left pane (should be at the bottom).
+- Right-click the empty space next to **Record Flags** in the Record Header and select **Edit**.
+- Check the box for **ESM** and click **OK**.
+- Close **SSEEdit** and click **OK** to save your changes.
+
+![Mountains Enhanced ESMify](/Pictures/tpf/mod-installation/mountains-enhanced-esmify.png)
+
 ##### [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052?tab=files)
 
 #### Download Instructions
@@ -215,7 +234,6 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 #### Download Instructions
 
 * **Main Files:** Realistic Water Two SE v3.1.2
-* **Miscellaneous:** Realistic Water Two SE - Darker Gradient Textures
 
 #### FOMOD Instructions
 
@@ -226,16 +244,11 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 - **Ambience:**
   -  ~~Extended Ambience~~
 
-#### Additional Instructions - Darker Gradient Textures
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\effects\gradients\water_gradwavefoam.dds`
-
-##### [Majestic Mountains - Rapid Rocks Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files)
+##### [Bright Waterfalls Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37956?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Majestic Mountains - Rapid Rocks Mesh
+* **Main Files:** Bright Waterfall Fix for Realistic Water Two
 
 ##### [Point The Way](https://www.nexusmods.com/skyrimspecialedition/mods/352?tab=files)
 
@@ -243,75 +256,17 @@ Some of the textures surrounding rivers are a tad too bright in Tamrielic Textur
 
 * **Main Files:** Point The Way
 
-##### [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Lanterns Of Skyrim II - FOMOD
-
-#### FOMOD Instructions
-
-* **Addons:**
-  * ~~LoS II - Lantern Workers Addon~~
-  * ~~LoS II - Tamriel Master Lights (No Cities) Addon~~
-  * ~~LoS II - Tamriel Master Lights (Cities version) Addon~~
-* **Main Patches:**
-  * LoS II - SMIM patch
-* **Patches (A):**
-  * ~~LoS II - Beginner’s Shack in Riverwood patch~~
-  * ~~LoS II - Blackthorn Manor patch~~
-  * ~~LoS II - Bruma patch~~
-  * ~~LoS II - Camp Argentum patch~~
-  * ~~LoS II - Camp Varglya patch~~
-  * ~~LoS II - City Entrances Overhaul - Windhelm patch~~
-  * ~~LoS II - Convenient Bridges -Beta- patch~~
-  * ~~LoS II - Eli’s Breezehome patch~~
-  * ~~LoS II - Enhanced Solitude SSE patch~~
-  * ~~LoS II - JK's Riverwood patch~~
-  * ~~LoS II - JK’s Skyrim patch~~
-  * ~~LoS II - Northern Marsh Bridges patch~~
-  * ~~LoS II - Old Hroldan Ruins SE patch~~
-  * ~~LoS II - Overstead SE patch~~
-  * ~~LoS II - Solitude Expansion patch~~
-* **Patches (B):**
-  * ~~LoS II - Books of Skyrim patch~~
-  * ~~LoS II - Cutting Room Floor patch~~
-  * ~~LoS II - Expanded Towns and Cities (SSE) patch~~
-  * ~~LoS II - Hunters Cabin of Riverwood SE patch~~
-  * ~~LoS II - Legacy of the Dragonborn V5 patch~~
-  * ~~LoS II - Midwood Isle patch~~
-  * ~~LoS II - Run of the Mill Inn patch~~
-  * ~~LoS II - Settlements Expanded patch~~
-  * ~~LoS II - Skyrim Bridges patch~~
-  * ~~LoS II - Solitude Docks patch~~
-  * ~~LoS II - Weathered Road Signs patch~~
-* **Patches (C):**
-  * ~~LoS II - Darkwater Crossing patch~~
-  * ~~LoS II - Dragon Bridge patch~~
-  * ~~LoS II - Falkreath patch~~
-  * ~~LoS II - Helarchen Creek patch~~
-  * ~~LoS II - Ivarstead patch~~
-  * ~~LoS II - Karthwasten patch~~
-  * ~~LoS II - Kynesgrove patch~~
-  * ~~LoS II - Oakwood patch~~
-  * ~~LoS II - Provincial Courier Service patch~~
-  * ~~LoS II - Shor’s Stone patch~~
-  * ~~LoS II - Soljund’s Sinkhole patch~~
-  * ~~LoS II - Telengard patch~~
-  * ~~LoS II - The Fall of Granite Hill patch~~
-  * ~~LoS II - Whistling Mine patch~~
-
 ##### [Immersive Dawnguard Dayspring Pass (IDDP)](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Immersive Dawnguard Dayspring Pass (IDDP)
 
-##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/14644?tab=files)
+##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/54754?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Ash SE v2.0
+* **Main Files:** Better Dynamic Ash SE v2.1.1
 
 ##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
 

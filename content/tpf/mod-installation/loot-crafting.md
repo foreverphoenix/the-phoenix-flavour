@@ -45,22 +45,26 @@ description: >
 - **Patches:**
   - Modular Armory
   - Enchanting Adjustments
+  - Immersive Sounds
 
 #### FOMOD Instructions - AVL Thalmor
 
 - **Patches:** 
   - AMB Glass Armory
+  - Immersive Sounds
 
 #### FOMOD Instructions - AVL Morrowind Glass
 
 - **Patches:**
   - Enchanting Adjustments
+  - Immersive Sounds
 
 #### FOMOD Instructions - AVL Nordic
 
 - **Patches:**
   - Modular Armory
   - Enchanting Adjustments
+  - Immersive Sounds
 
 ##### [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files)
 
@@ -102,9 +106,10 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Simple Smithing Overhaul
+- **Optional Files:** SSO Open World Loot AVL Addon Patches
 - **Optional Files:** SSO Ancient Nord Stalhrim Replacer Patch
 
-#### FOMOD Instructions
+#### FOMOD Instructions - Main File
 
 - **Perk Overhauls:**
   - Adamant
@@ -114,11 +119,25 @@ description: >
   - ~~MorrowLoot Ultimate~~
   - ~~MorrowLoot Ultimate RoM~~
 
+#### FOMOD Instructions - OWL AVL Patches
+
+- **OWL AMB Armor Variants:**
+  - AVL Iron and Steel Addon SSO
+  - AVL Morrowind Glass Addon SSO
+  - AVL Nordic Addon SSO
+  - AVL Thalmor Addon SSO
+
 ##### [Lightweight Smithing Tweaks for SSO](https://www.nexusmods.com/skyrimspecialedition/mods/43441?tab=files)
 
 #### Download Instructions
 
-- **Optional Files:** Lightweight Smithing Tweaks for SSO
+- **Main Files:** Lightweight Smithing Tweaks for SSO
+
+##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Craftable Torches
 
 ##### [Improvement Names Customized](https://www.nexusmods.com/skyrimspecialedition/mods/27776?tab=files)
 

@@ -34,9 +34,9 @@ description: >
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
-- In **Line 10**, set **"magicEffectConditions":** to **false**.
-- In **Line 25**, set **"equipBestAmmo:"** to **true**.
-- In **Line 30**, set **"underfilledSoulGems":** to **true**.
+- In **Line 11**, set **"magicEffectConditions":** to **false**.
+- In **Line 30**, set **"equipBestAmmo:"** to **true**.
+- In **Line 37**, set **"underfilledSoulGems":** to **true**.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
@@ -225,6 +225,12 @@ description: >
 
 * **Choose Version:** Realistic
 
+##### [Modern Clap Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38621?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Modern Clap Bug Fix
+
 ##### [Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
 
 #### Download Instructions
@@ -241,7 +247,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05c
+- **Main Files:** NPC AI Process Pos Fix-SSE-V4.05d
 
 ##### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839?tab=files)
 

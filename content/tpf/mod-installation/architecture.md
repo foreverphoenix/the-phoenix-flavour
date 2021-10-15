@@ -169,17 +169,36 @@ description: >
 
 * **Main Files:** Skyland - Winterhold
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\architecture\winterhold\WinterholdWindow01.dds`
+  - `textures\architecture\winterhold\WinterholdWindow01_n.dds`
+  - `textures\architecture\winterhold\WinterholdWindow02.dds`
+  - `textures\architecture\winterhold\WinterholdWindow02_em.dds`
+  - `textures\effects\`
+
+> The window textures are covered by RUSTIC WINDOWS. The effects folder includes window textures for the file paths used by ELFX, a mod that is not in TPF.
+
 ##### [Skyrim 3D Misc - Winterhold Gate](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Skyrim 3D Misc - Winterhold Gate
 
-##### [The Halls of the Greybeards - A High Hrothgar Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=files)
+##### [Skyrim Remastered - High Hrothgar v2](https://www.nexusmods.com/skyrimspecialedition/mods/51788?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** The halls of the Greybeards - Dark version
+* **Main Files:** Skyrim Remastered - High Hrothgar v2 Quality Version
+* **Optional Files:** Skyrim Remastered - High Hrothgar v2 LODs for DynDOLOD >> `merge with the main file`
+* **Optional Files:** Skyrim Remastered - High Hrothgar v2 Performance Banners >> `merge with the main file`
+
+##### [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** High Hrothgar Fixed
 
 ##### [Skyrim Textures Redone - Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files)
 

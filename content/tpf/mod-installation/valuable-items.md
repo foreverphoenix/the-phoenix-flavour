@@ -12,6 +12,19 @@ description: >
 
 - **Main Files:** Ancient Imperial Septims - Classic Gold
 
+##### [Gemstone Replacers HD](https://www.nexusmods.com/skyrimspecialedition/mods/46531?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Gemstones Replacers HD SE Main Version
+- **Miscellaneous Files:** FalmerEyeGemstone 1K >> `merge with the main file`
+- **Miscellaneous Files:** kagrumez gems 1K >> `merge with the main file`
+
+#### FOMOD Instructions
+
+- **Options:** With Unique Gems Option 1 ISC
+- **Resources:** ~~UniqueGems Damaged Versions~~
+
 ##### [JS Dragon Claws](https://www.nexusmods.com/skyrimspecialedition/mods/1394?tab=files)
 
 #### Download Instructions
@@ -46,6 +59,19 @@ description: >
 
 * **Optional Files:** Rudy HQ - More Lights for ENB SE - Patch for Rustic Soulgems
 
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\clutter\soulgem\soulgemblack_full.nif`
+- `meshes\clutter\soulgem\soulgemcommon_full.nif`
+- `meshes\clutter\soulgem\soulgemgrand_full.nif`
+- `meshes\clutter\soulgem\soulgemgreater_full.nif`
+- `meshes\clutter\soulgem\soulgemlesser_full.nif`
+- `meshes\clutter\soulgem\soulgempetty_full.nif`
+
 ##### [RUSTIC AZURAS STAR](https://www.nexusmods.com/skyrimspecialedition/mods/18345?tab=files)
 
 #### Download Instructions
@@ -63,8 +89,21 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
-* **Update Files:** SSE Meshes >> `merge with the main file`
+- **Main Files:** RUSTIC ANIMATED POTIONS and POISONS 1K
+- **Update Files:** SSE Meshes >> `merge with the main file`
+
+#### Additional Instructions
+
+- Download the **Optional glow files** file manually from the Optional Files section.
+- Place the downloaded archive in `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
+- Refresh MO2 and the archive will appear in your **Downloads** tab.
+- Right-click it and select **Query Info** to download meta data from the Nexus.
+- Double-click the mod to install it.
+- Expand the **Optional glow files** folder.
+- Right-click the **weaker glow** folder and select **Set as \<data> directory**.
+- Click **OK** to install the files, then click **Merge**.
+
+![RUSTIC POTIONS Glow](/Pictures/tpf/mod-installation/rustic-potions-glow.png)
 
 ##### [White Phial Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/6113?tab=files)
 
@@ -77,6 +116,69 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Weathered Dragonstone 2K
+
+##### [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Gemling Queen Jewelry SE
+
+#### FOMOD Instructions
+
+* **Main Modules:**
+  * Amulets
+  * ~~Circlets~~
+  * Rings
+* **DLC Addons:**
+  * Dawnguard Addon
+  * Dawnguard Addon - Unobtainable Items
+* **Amulet Textures:**
+  * Gamwich Amulet Textures - 512
+* **Ring Texture Options:**
+  * Gamwich Ring Textures - Combined - 1k
+* **Optional Mesh Packs:**
+  * None
+* **Optional Mesh Packs Dawnguard:**
+  * ~~Vampire Beast Blood Ring Left Hand~~
+
+#### Additional Instructions
+
+- ESL-ify **GQJ_DG_vampireamuletfix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+#### Plugin Edit
+
+The plugin contains one unnecessary edit to a scroll that overwrites an edit by the USSEP.
+
+* Run **SSEEdit** through Mod Organizer 2.
+* Click **OK** in the plugin selection window to load all your mods.
+* Wait until SSEEdit returns `Background loader: finished`.
+* Find and double-click **GQJ_DG_vampireamuletfix.esp** in the left pane to expand the plugin.
+* Right-click **Scroll** and select **Remove**.
+* Close SSEEdit and click **OK** to save your changes.
+
+![Gemling Queen Jewelry - Delete Records in xEdit](/Pictures/tpf/mod-installation/gqj-delete-wild-edit.png)
+
+##### [JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8686?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** JS Circlet Replacer
+
+#### Additional Instructions
+
+* Downsize the mod’s textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
+##### [JS Circlet Replacer - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Circlet Replacer USKP Patch
+
+##### [RUSTIC AMULETS](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** RUSTIC AMULETS SE
 
 ##### [Barenziah's Glory](https://www.nexusmods.com/skyrimspecialedition/mods/6343?tab=files)
 
@@ -100,12 +202,6 @@ description: >
 
 * **Resolution Options:** Default Red Textures MEDIUM
 
-##### [Iconic's Falmer Eye Gem Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44795?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Falmer Eye Gem 2K
-
 ##### [Rally's Werewolf Totems](https://www.nexusmods.com/skyrimspecialedition/mods/28882?tab=files)
 
 #### Download Instructions
@@ -123,13 +219,31 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Particle Lights For ENB SE - Bugs in a Jar
+- **Optional Files:** Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values - No Dirt
 
 ##### [Bust of the Gray Fox](https://www.nexusmods.com/skyrimspecialedition/mods/45595?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Gray Fox Bust 2K
+
+##### [Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Unique Skulls HD - SE 1K
+
+#### FOMOD Instructions
+
+* **MainPluginOptions:** ESPFE
+* **SkullKeyOptions:**
+  * ~~SkullKeys~~
+  * SkullKeys EnbLightPatch
+* **LOTD Options:**
+  * ~~New Textures + ESP~~
+  * ~~New Textures + ESPFE~~
+  * ~~Previous Textures + ESP~~
+  * ~~Previous Textures + ESPFE~~
 
 ##### [Draw Knife Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
 
@@ -149,30 +263,9 @@ description: >
 
 * **Main Files:** BLOODSTONE CHALICE REBORN 1K
 
-##### [Iconic's Remastered Paragon Gems Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45734?tab=files)
+##### [Paragon Gems HD](https://www.nexusmods.com/skyrimspecialedition/mods/47199?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Remastered Paragon Gems
-
-#### FOMOD Instructions
-
-- **Texture Sizes:** 2K
-- **Choose Metal Colors:** Bronze
-
-##### [Particle Lights for ENB - Paragon Gems](https://www.nexusmods.com/skyrimspecialedition/mods/45761?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Particle Lights For ENB SE - Paragon Gems - Iconic's Gems Patch
-
-##### [Iconic's Saerek and Torsten Skull Key Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45329?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Saerek And Torsten Skull Key
-
-#### FOMOD Instructions
-
-* **Texture Sizes:** 2K
-* **Eye Color Options:** Blue and Light Blue
+- **Main Files:** Paragon gems 1K
+- **Optional Files:** Paragon gems EnbLight Patch >> `merge with the main file`

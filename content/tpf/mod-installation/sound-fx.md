@@ -30,40 +30,51 @@ description: >
 
 - **Miscellaneous Files:** Dragon War - Audio Overhaul for Skyrim Patch
 
-##### [Immersive Sounds - Compendium (ISC)](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files)
+##### [Immersive Sounds - Compendium (ISC)](https://www.nexusmods.com/skyrimspecialedition/mods/523?tab=files)
 
 #### Download Instructions
 
-- **Old Files:** Immersive Sounds Compendium SSE 2.2
+- **Old Files:** Immersive Sounds Compendium 3.0
 
 #### FOMOD Instructions
 
-- **Weapon Impact Options:**
-  - IS Default (Extra Bloody)
-- **Weapon Draw/Sheathe Options:**
-  - Semi-Smooth Equip
-- **Bow Shot Option:**
-  - High Fantasy (Shorter Arrow Whistle)
-- **Bow Pull Option:**
-  - IS Default
-- **Arrow Impact Options:**
-  - High Fantasy
+**Page 1**
+
+- **Weapon Impact Options:** IS Default (Extra Bloody)
+- **Unarmed Impact Options:** S'wit Fighter Turbo
+- **Weapon Draw/Sheathe Options:** Semi-Smooth Equip
+
+**Page 2:**
+
+- **Bow Shot Option:** High Fantasy (Shorter Arrow Whistle)
+- **Bow Pull Option:** IS Default
+- **Arrow Impact Options:** High Fantasy
+
+**Page 3:**
+
 - **Extra Weaponry Options:**
   - Extra Gory Killmove Sounds
   - Smooth Weapon Swings
   - Silent Arrow Projectile Loop
-- **Restoration Options:**
-  - Vanilla
-- **Firebolt Options:**
-  - Swooshy
+
+**Page 4:**
+
+- **Soul Trap Options:** Soul Suck
+- **Restoration Options:** High Fantasy
+- **Firebolt Options:** Swooshy
+
+**Page 5:**
+
 - **Creature Options:**
   - Demonic Draugr
   - Well-Mannered Wolves
   - Sensible Storm Atronarchs
-- **Nirnroot Options:**
-  - Vanilla Nirnroot Sound
+  - ~~Brutal Bears~~
+
+**Page 6:**
+
+- **Nirnroot Options:** High Fantasy
 - **Misc Options:**
-  - ~~More Rustling Heavy Armor~~
   - ~~Oblivion Skillup Sound~~
   - Dungeon Ambiance
   - ~~TESO Summoning~~
@@ -73,11 +84,29 @@ description: >
   - ~~Silent World Map~~
   - Silent Player Ragdoll
 
-##### [Audio Overhaul - Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/36761?tab=files)
+##### [Immersive Sounds Compendium - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.1)
+- **Main Files:** ISC Enhanced Blood Textures Patch
+- **Main Files:** ISC Mysticism - A Magic Overhaul Patch
+- **Main Files:** ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch
+
+#### Additional Instructions
+
+- ESL-ify **ISC WACCF Patch.esp**, **ISC Enhanced Blood Patch.esp**, and **ISC Mysticism Patch.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [Immersive Sounds Compendium - ACE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Immersive Sounds Compendium - ACE Patch
+
+##### [Audio Overhaul - Immersive Sounds Compendium Integration](https://www.nexusmods.com/skyrimspecialedition/mods/36761?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)
 
 #### Additional Instructions
 
@@ -89,12 +118,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Thunder Sounds -WiZkiD Mix-
-
-##### [Improved Horse Step Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/848?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Improved Horse Step Sounds - Special Edition
 
 ##### [Heart of the Beast - Werewolf Sound and Texture Overhaul](https://www.nexusmods.com/skyrim/mods/13779?tab=files)
 

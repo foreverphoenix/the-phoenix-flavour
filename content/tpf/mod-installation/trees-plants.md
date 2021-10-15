@@ -10,28 +10,26 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Enhanced Vanilla Trees SE v2.2.0
+- **Main Files:** Enhanced Vanilla Trees SE-Lush Trees
 
 #### FOMOD Instructions
 
-- **Alternative Pine Meshes:** Lush/Darker Pine Meshes
-- **Alternative Pine Branches:** SFO Pine Branches (alt 2)
-- **Alternative Snow Pine Branches:** SFO Snow Pine Branches
-- **Alternative Light Snow Pine Branches:** SFO Light Snow Pine Branches
-- **Options:**
-  - ~~SFO Aspen Branches~~
-  - Miscellaneous
-  - Firewood Texture
-- **Alternative Aspen Trees:** None
-- **Alternative Pine Trees:** None
+- **Mesh Tint Options:** Darker
+- **Tree Options:** Lush Trees (small)*
+- **Vanilla Pine Branch Textures:** SFO v2
+- **Vanilla Snow Pine Branch Textures:** Alternate SFO Snowy Branches
+- **Miscellaneous:**
+  - Enhanced Tree Clutter*
+  - Firewood*
+  - ~~Hi-Res Aspen Bark~~
+  - ~~SFO Aspen Branches*~~
+- **Alternative Trees:**
+  - ~~Realistic Aspen Trees~~
+  - ~~SFO Snowy Pine Trees~~
 
 #### Additional Instructions
 
 - ESL-ify **Enhanced Vanilla Trees SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
-- Delete the following file(s) and / or folder(s):
-  - `meshes\landscape\trees\treereachtreemagic01.nif`
-
-> This mesh is part of Fixed Mesh Lighting and should not be overwritten.
 
 ##### [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890?tab=files)
 
@@ -277,6 +275,18 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
 
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\_byoh\plants\byohhouseingrddeathbell01.nif`
+- `meshes\plants\floradeathbell01.nif`
+- `meshes\plants\floradeathbell02.nif`
+- `meshes\plants\floranirnroot01.nif`
+- `meshes\plants\floranirnroot01red.nif`
+
 ##### [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205?tab=files)
 
 #### Download Instructions
@@ -300,6 +310,18 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+
+#### Additional Instructions
+
+To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+
+Edit the following files:
+
+- `meshes\_byoh\plants\switchnodechildren\byohhouseingrdglowmushrm01_1.nif`
+- `meshes\_byoh\plants\byohhouseingrdglowmushrm01.nif`
+- `meshes\plants\glowingmushroom01.nif`
+- `meshes\plants\glowingmushroomcluster01.nif`
+- `meshes\plants\glowingmushroomsingle01.nif`
 
 ##### [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179?tab=files)
 

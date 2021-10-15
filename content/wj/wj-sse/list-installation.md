@@ -69,16 +69,23 @@ If the issue persists, find the Discord support channel for your chosen list (ei
 
 Once Wabbajack has succesfully installed your list, you have one final step to complete. I already mentioned that Mod Organizer 2 only affects the **data** folder, but not the **root** folder. Certain files must be installed in the **root** folder, however, and users need to move them manually.
 
-> Some Wabbajack lists use the [stock game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) and will already have moved these files for you. Check the documentation for your list to find out where you need to follow this step or not.
+> You can SKIP this step if your Wabbajack list is using the Stock Game folder system!
 
 - Navigate to where you installed your list, e.g. `C:\Modlist Name\`.
 - You will find a **Game Folder Files** folder inside. Open it.
 
 The contents of this folder must be copied over into your **root** folder: `\Your Steam Library\steamapps\common\Skyrim Special Edition`.
 
-Please note that some lists (such as The Phoenix Flavour) contain *multiple* ENB presets for you to choose from. In that case, move only the loose files from **Game Folder Files** to your **root** folder, then open the folder for the ENB preset you want, and copy its contents into the **root** folder as well.
-
 Alternatively, you can use an ENB manager for any ENB or ReShade presets.
+
+### Stock Game Folder
+
+Some Wabbajack lists use the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) and no files must be manually. Check the documentation for your list to find out where you need to follow this step or not.
+
+Wabbajack lists using the Stock Game folder system:
+
+- [The Phoenix Flavour](/tpf/introduction)
+- [Legends of the Frost](/lotf/introduction)
 
 ## Launching the Game
 
