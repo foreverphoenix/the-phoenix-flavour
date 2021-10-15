@@ -24,12 +24,12 @@ To change the FPS cap, you need to edit the INI file for SSE Display Tweaks:
 
 ## Interface Adjustments
 
-### Revert to vanilla font
+### Enable Roboto Font Replacer
 
-If you prefer the vanilla font over my choice, Roboto, you can disable the font replacer anytime:
+I am personally partial to [Roboto](https://www.nexusmods.com/skyrimspecialedition/mods/1779) for my font in Skyrim. You can enable (or disable) the font replacer any time:
 
 - In **Mod Organizer 2**, expand the **INTERFACE** separator.
-- Uncheck the mod **Roboto Font Replacer**.
+- Check the mod **Roboto Font Replacer**.
 
 ### Enable dot crosshair
 
