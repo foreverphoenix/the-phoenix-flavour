@@ -6,6 +6,25 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.4.1
+
+> 16/10/2021
+
+After yesterday's larger update, I have some fixes and previously missed mod updates for you today. Save safe, etc.
+
+#### Mod Changes
+
+Note that I only updated DynDOLOD and the DynDOLOD Resources, but did not regenerate LODs.
+
+- Updated Skyrim Landscape and Water Fixes to 6.3
+- Updated DynDOLOD Resources to Alpha 15
+- Updated Shadows of Sunlight to 0.5
+- Updated Simplicity of Snow to 0.4
+- Updated ENBSeries (no version change)
+- Updated DynDOLOD to 3 Alpha 48
+- Added fixed moreHUD Settings Loader script (moreHUD MCM should no longer fail to initialise)
+- Added my ControlMap_Custom.txt to the list of files ignored by Wabbajack so my keybinds are no longer applied to users' setups 
+
 ## Release 1.4
 
 > 15/10/2021
