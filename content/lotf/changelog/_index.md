@@ -6,6 +6,19 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.5
+
+> TBD
+
+The butterfly update - in LOTF 1.5, I am adding some mods that improve critters in the world, how they move and where they can land.
+
+#### Mod Changes
+
+- Added Butterflies Land True
+- Added Butterflies Unchained
+- Updated Radiant - Candles to 2.1.0
+- Fixed a dumb typo in the WABBAJACK_IGNORE_FILES.txt file name
+
 ## Release 1.4.1
 
 > 16/10/2021
