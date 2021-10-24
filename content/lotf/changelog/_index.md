@@ -6,17 +6,23 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
-## Release 1.5
+## Release 1.4.2
 
-> TBD
+> 24/10/2021
 
-The butterfly update - in LOTF 1.5, I am adding some mods that improve critters in the world, how they move and where they can land.
+The butterfly update: In LOTF 1.4.2, I am adding some mods that improve critters in the world, how they move and where they can land. Did you know that Monarch butterfly wings were [upside down](https://staticdelivery.nexusmods.com/mods/110/images/54485-2-1401481905.jpg) in vanilla?
+
+Also you no longer get my custom keybinds. I fixed that.
 
 #### Mod Changes
 
+- Added Umgak's Hanging Elves Ear Mesh Fix
+- Added Wiseman303's Critter Fixes
 - Added Butterflies Land True
 - Added Butterflies Unchained
+- Updated Assorted Mesh Fixes to 0.32
 - Updated Radiant - Candles to 2.1.0
+- Updated DynDOLOD to 3 Alpha 53 (LOD was not regenerated)
 - Fixed a dumb typo in the WABBAJACK_IGNORE_FILES.txt file name
 
 ## Release 1.4.1
