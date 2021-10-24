@@ -20,6 +20,7 @@ Also you no longer get my custom keybinds. I fixed that.
 - Added Wiseman303's Critter Fixes
 - Added Butterflies Land True
 - Added Butterflies Unchained
+- Added Simplicity of Snow - Blended Roads Patch
 - Updated Assorted Mesh Fixes to 0.32
 - Updated Radiant - Candles to 2.1.0
 - Updated DynDOLOD to 3 Alpha 53 (LOD was not regenerated)
