@@ -23,6 +23,7 @@ description: >
 - Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
 - Updated High FPS Physics Fix to 0.8.4-5
+- Removed Jamaica Plain Navmesh Fix (fix included in UFO4P)
 - Removed Main Menu Music Replacer - Wandering The Foothills
 - Removed U.S. Covert Operations Manual - Magazine Retexture
 - Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
@@ -31,7 +32,10 @@ description: >
 - Included Globes 2K in the Clutter texture pack
 - Included Wall Worldmap in the Clutter texture pack
 - Included ADs 2X Rez in the Clutter texture pack
+- Now using the HighFPSPhysicsFix_custom.ini feature
 - New separator colours in MO2
+- Added MO2 Loot Preventifier (plugin by LostDragonist)
+- Sort button above the load order in MO2 was removed
 
 ## Release 1.6.3
 
