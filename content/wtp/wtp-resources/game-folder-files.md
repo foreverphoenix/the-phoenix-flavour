@@ -31,7 +31,7 @@ The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is 
 
 ### ENBSeries Binaries
 
-The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm), latest version (0.428), required for ENB presets to work.
+The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm) binaries, required for ENB presets to work.
 
 - `d3d11.dll`
 - `d3dcompiler_46e.dll`

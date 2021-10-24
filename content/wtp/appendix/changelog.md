@@ -6,7 +6,7 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
-## Release 1.7
+## Release 2.0
 
 > TBD
 
@@ -20,8 +20,9 @@ description: >
 - Added Pipboy UHD - Holotape
 - Added CC's UHD Bloatflies - Reimagined
 - Updated ENBSeries binaries (no version number change)
-- Updated Buffout to 1.24.0
+- Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
+- Updated High FPS Physics Fix to 0.8.4-5
 - Removed Main Menu Music Replacer - Wandering The Foothills
 - Removed U.S. Covert Operations Manual - Magazine Retexture
 - Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
@@ -484,5 +485,3 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 > 26/09/2020
 
 Initial release. For more info, check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
-
-*Please rebuilt the site, kthxbye.*
