@@ -24,6 +24,7 @@ description: >
 - Updated Buffout TBB Redistributables to 2021.3
 - Updated High FPS Physics Fix to 0.8.4-5
 - Removed Jamaica Plain Navmesh Fix (fix included in UFO4P)
+- Removed Corpse Collision
 - Removed Main Menu Music Replacer - Wandering The Foothills
 - Removed U.S. Covert Operations Manual - Magazine Retexture
 - Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
