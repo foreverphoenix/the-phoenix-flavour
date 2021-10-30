@@ -10,6 +10,10 @@ description: >
 
 > TBD
 
+**Removal of CBBE and EVB:**
+
+I ended up removing the body replacers in this update. There is simply nothing I really need CBBE for and EVB male bodies do not have dismemberment support. 
+
 #### Mod Changes
 
 - Added NPC Drinking Fix
@@ -19,6 +23,8 @@ description: >
 - Added U.S. Covert Operations Manual Revised - Magazine Retexture
 - Added Pipboy UHD - Holotape
 - Added CC's UHD Bloatflies - Reimagined
+- Added Immersive Mouth and Teeth
+- Added Valkyr Female Body Textures
 - Updated ENBSeries binaries (no version number change)
 - Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
@@ -29,6 +35,12 @@ description: >
 - Removed U.S. Covert Operations Manual - Magazine Retexture
 - Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
 - Removed CC's UHD Bloatflies
+- Removed Distinct Teeth for FO4
+- Removed Caliente's Beautiful Bodies Enhancer
+- Removed Kellogg's Gloves for CBBE Clipping Fix
+- Removed Skeletal Adjustments for CBBE - Knee Fix
+- Removed CBBE Ida Body Texture
+- Removed Enhanced Vanilla Bodies
 - Included Library and Subway Tokens HD in the Clutter texture pack
 - Included Globes 2K in the Clutter texture pack
 - Included Wall Worldmap in the Clutter texture pack
