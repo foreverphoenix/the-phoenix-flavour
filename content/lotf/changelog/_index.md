@@ -6,6 +6,19 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.4.3
+
+> TBD
+
+#### Mod Changes
+
+- Updated NET Script Framework to 18
+- Updated Skyrim Landscape and Water Fixes to 6.4
+- Updated Assorted Mesh Fixes to 0.32.2
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.3.0
+- Updated Enhanced Vanilla Trees (no version change)
+- Actually included the Blended Roads - Simplicity of Snow Patch
+
 ## Release 1.4.2
 
 > 24/10/2021
