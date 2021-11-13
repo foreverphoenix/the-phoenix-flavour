@@ -20,6 +20,7 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 - [Retextured Water - By Ben Ephla](https://www.nexusmods.com/fallout4/mods/20399)
 - [Gold Bars - FNV Dead Money Inspired Replacer](https://www.nexusmods.com/fallout4/mods/45675)
 - [Better Ammo Boxes](https://www.nexusmods.com/fallout4/mods/8087)
+- [Duffle Bag Retexture 2K](https://www.nexusmods.com/fallout4/mods/8879)
 - [Retextured First Aid Kids - Ephla's Unique First Aid](https://www.nexusmods.com/fallout4/mods/16841)
 - [PatrickJr's Redone Bobbleheads](https://www.nexusmods.com/fallout4/mods/12062)
 - [Classic Wasteland Survival Guide - Magazine Retexture](https://www.nexusmods.com/fallout4/mods/49999)
@@ -32,10 +33,10 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 
 ### Texture Pack - Apparel
 
-- [Pipboy UHD](https://www.nexusmods.com/fallout4/mods/40633)
-- [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187)
+- [Pipboy UHD 2K](https://www.nexusmods.com/fallout4/mods/40633)
+- [Vault Suit UHD 4K](https://www.nexusmods.com/fallout4/mods/40952)
 - [Combat Armor No Star Decal](https://www.nexusmods.com/fallout4/mods/524)
-- [Robot Armor Retextured](https://www.nexusmods.com/fallout4/mods/121879)
+- [Robot Armor Retextured](https://www.nexusmods.com/fallout4/mods/12187)
 - [Mechanist Armor Retextured](https://www.nexusmods.com/fallout4/mods/13053)
 - [Marine Helmet with Tactical Hood](https://www.nexusmods.com/fallout4/mods/14340)
 - [Piper's Coat HR](https://www.nexusmods.com/fallout4/mods/14010)
@@ -48,7 +49,7 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 - [Power Armors Redone](https://www.nexusmods.com/fallout4/mods/27917)
 - [Power Armors Redone Extended - CPAO Textures](https://www.nexusmods.com/fallout4/mods/28033)
 - [Power Armors Redone Extended - Minutemen Paint Job Textures](https://www.nexusmods.com/fallout4/mods/28033)
-- [Power Armor Jetpack HD](https://www.nexusmods.com/fallout4/mods/30796)
+- [Power Armor Jetpack 2K HD](https://www.nexusmods.com/fallout4/mods/30796)
 - [Power Armor Frame 4K UHD](https://www.nexusmods.com/fallout4/mods/39711)
 - [Matching White Brotherhood Rank Insignia](https://www.nexusmods.com/fallout4/mods/4092)
 
@@ -75,7 +76,6 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 - [Grognak's Axe](https://www.nexusmods.com/fallout4/mods/38644)
 - [Kremvh's Tooth Replacer](https://www.nexusmods.com/fallout4/mods/6960)
 - [M26 Fragmentation Grenade Replacer](https://www.nexusmods.com/fallout4/mods/37749)
-- [Better Recon Scope](https://www.nexusmods.com/fallout4/mods/554)
 
 ### Texture Pack - Creatures
 

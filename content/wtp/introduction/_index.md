@@ -13,8 +13,6 @@ description: >
 
 WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section.
 
-### Useful Links
-
 - Join us on the official [Discord server](https://discord.gg/xCPxJFbCTS) for support, feedback, and modding discussions.
 - You can find a list of all included mods on the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise) page.
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
@@ -73,7 +71,7 @@ At present, WTP does not include any additional armor or weapon mods with the ex
 
 While WTP was made for regular gameplay, a *somewhat* modern PC is required to run the setup comfortably. This is due to the bad optimisation of the vanilla game as much as the included mods. Keep in mind that the game will perform much better on 1080p than on 1440p or higher resolutions.
 
-You can see the details of my old setup below, sufficient for playing at 1440p with stable 60FPS.
+You can see the details of my old setup below, sufficient for playing at 1440p with stable 60FPS. Note that having 6GB VRAM or more is highly recommended for good performance.
 
 |           | Specs                                         |
 | --------- | --------------------------------------------- |

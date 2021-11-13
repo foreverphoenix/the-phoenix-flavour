@@ -37,5 +37,5 @@ We previously moved all "creations" (ESL+BA2 combinations) to `Your Modding Fold
 - Copy the files (an ESL and one or two BA2s) into the new folder.
 - Back in Mod Organizer 2, press **F5** to refresh.
 - The new mod will appear at the bottom of your mod order (left pane).
-- Drag it up below the **CREATION CLUB** separator and activate it.
+- Drag it up below the **NEW CONTENT** separator and activate it.
 - Also activate any patches available for that "creation" under the same separator.

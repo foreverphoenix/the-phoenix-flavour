@@ -46,8 +46,8 @@ uPipboyTargetWidth=876
 
 ## Flickering puddles
 
-This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), ~~but the bug still occurs and I'm honestly clueless.~~ I fixed the fix in WTP 1.6 and it should be fine now.
+This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), ~~but the bug still occurs and I'm honestly clueless.~~ I fixed the fix in WTP 1.6 and it should be fine now although the flickering does still seem to happen during rain storms for whatever reason.
 
 ## Nights are too dark
 
-You can change (night) brightness in the ENB settings. Please refer to the sticky comment on the [True Nights](https://www.nexusmods.com/fallout4/mods/9253?tab=posts) mod page for instructions (note that in WTP, the ENB GUI is open with F11).
+You can change (night) brightness in the ENB settings. Please refer to the sticky comment on the [True Nights](https://www.nexusmods.com/fallout4/mods/9253?tab=posts) mod page for instructions (note that in WTP the ENB GUI is opened with F11).

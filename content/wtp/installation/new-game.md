@@ -15,9 +15,9 @@ In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod 
 ## Starting a new save
 
 - In the main menu, click **NEW** to start a your playthrough.
-- Press 10 to temporarily toggle off ENB. It may look strange during the intro video and prologue.
+- Press **F10** to temporarily toggle off ENB. It may look strange during the intro video and prologue.
 
-Shortly after the character creation, you will get a prompt which is added by the mod **Start Me Up**. You will be asked whether you want to "relive the memory", giving you the option to skip the prologue. Do not select this option if you never played Fallout 4 before, you are going to miss some important things.
+Shortly after the character creation, you will get a prompt which is added by the mod **Start Me Up**. You will be asked whether you want to "relive the memory", giving you the option to skip the prologue. **Do not select this option if you never played Fallout 4 before**, you are going to miss some important things.
 
 If you want to play the regular Fallout 4 intro (highly recommended), click "This is a memory. Let's stay here a while" and the prologue will play out as usual. Proceed to the [Mod Configuration](/wtp/mod-config/) page after exiting the vault.
 

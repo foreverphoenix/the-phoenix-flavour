@@ -12,27 +12,77 @@ description: >
 
 **Removal of CBBE and EVB:**
 
-I ended up removing the body replacers in this update. There is simply nothing I really need CBBE for and EVB male bodies do not have dismemberment support. 
+I ended up removing the body replacers in this update. There is simply nothing I really need CBBE for and EVB male bodies do not have dismemberment support.
+
+**Removal of Workshop Re-arranged:**
+
+Workshop Re-arranged is a pretty great workshop overhaul. Unfortunately, it's also extremely difficult to work with on account of its rebalancing edits which change many of the building requirements as well as junk scrap yields. I finally decided to ditch the mod and return to smaller, individual workshop additions.
+
+**BOS Power Armor Paint Jobs:**
+
+I realised that without the stat changes, there is no need to have separate Knight/Paladin/Sentinel paint jobs for the power armor as they are visually identical. The exception is the Left Arm piece which displays the rank insignia. I rectified this by adding a single "Brotherhood of Steel" paint job that can be applied to any piece of power armor, then limiting the rank-specific paint job to Left Arm pieces. Problem solved!
 
 #### Mod Changes
 
 - Added NPC Drinking Fix
+- Added Fixed Textures for Mirelurk Egg Omelette
+- Added Automatron Load Screen Fix
+- Added No Crafting Experience
+- Added Base Scrap Is Not Junk Jet Ammo (custom)
+- Added No Holotape Tease - Texture Replacement
 - Added Atmospheric Animated Menu Replacer (Night Version)
+- Added NMC's Texture Bundle
+- Added Redder Red Rocket
+- Added Subway Transit Sign HD Texture
 - Added CC's Vertibirds
 - Added The Nuka Project
+- Added Scrap Metal and Makeshift Welds - A Pipe Gun Retexture
+- Added Duffle Bag Retexture
 - Added U.S. Covert Operations Manual Revised - Magazine Retexture
 - Added Pipboy UHD - Holotape
+- Added Vault Suits UHD
 - Added CC's UHD Bloatflies - Reimagined
 - Added Immersive Mouth and Teeth
 - Added Valkyr Female Body Textures
+- Added Easy Hacking
+- Added Simple Wait Anywhere
+- Added Moonracer's Armor Overhaul
+- Added Some Assembly Required - Atom Cats CPAO Patch
+- Added Locked Vault Tec Paint Job
+- Added Locked Abraxo and Sugar Bombs Power Armor Paints
+- Added No PA Battery Pathing
+- Added Power Grid Tools
+- Added Better Generators (x2)
+- Added Tune the Radios
+- Added Shackin' Up - A Prefab Shack Mod
+- Added Whisper's Extra Pieces and Snaps
+- Added Craftable Turret Stands
+- Added Wall Oil Lamps
+- Added Pip-Boy Retextured
+- Added LOST Audio Tweaks - MWTCF DC Patch
+- Added Previs Repair Pack
 - Updated ENBSeries binaries (no version number change)
 - Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
 - Updated High FPS Physics Fix to 0.8.4-5
+- Updated Simple Sorting Overhaul to 2.2.
+- Updated WET - Water Enhancement Textures to 2.0.4
+- Updated Retro Radio Replacer to 0.2
+- Updated Visible Idle Markers to 3
+- Updated BS Defence to 2.0
+- Updated LOST Audio Tweaks to 2
+- Updated AT - RAO and True Storms Patch to 2
+- Updated FO4Edit to 4.0.4
+- Removed Faster Workshop (replaced by Buffout and Configurable Hotkeys)
 - Removed Jamaica Plain Navmesh Fix (fix included in UFO4P)
 - Removed Corpse Collision
+- Removed No Lockpick Activate (F4SE)
 - Removed Main Menu Music Replacer - Wandering The Foothills
+- Removed Really Red Rocket
+- Removed Authentic Hand-Made Weapons (removed from the Nexus)
 - Removed U.S. Covert Operations Manual - Magazine Retexture
+- Removed Proto Vault Suit
+- Removed Better Recon Scope
 - Removed Spiffy's Workshop - Forged in Nuclear Fire - HQ Liberty Prime Retexture
 - Removed CC's UHD Bloatflies
 - Removed Distinct Teeth for FO4
@@ -41,14 +91,32 @@ I ended up removing the body replacers in this update. There is simply nothing I
 - Removed Skeletal Adjustments for CBBE - Knee Fix
 - Removed CBBE Ida Body Texture
 - Removed Enhanced Vanilla Bodies
-- Included Library and Subway Tokens HD in the Clutter texture pack
-- Included Globes 2K in the Clutter texture pack
-- Included Wall Worldmap in the Clutter texture pack
-- Included ADs 2X Rez in the Clutter texture pack
+- Removed Auto Hack
+- Removed Better Explosives Redux (too overpowered)
+- Removed Unique X-01
+- Removed No Quest Autostart - BOS Fire Support
+- Removed Main Quest Choices Extended
+- Removed Nuka World Collectable Quest Markers
+- Removed Corrunda's Red Rocket - Light and Curb Fix
+- Removed Vault 88 Template - Optimised
+- Removed Workshop Re-arranged
+- Removed Grab The Damn Mag (not adding custom weapons)
+- Removed RAO - True Storms Patch (replaced by AT - RAO and TS Patch)
+- Removed Game Configuration Menu (replaced with individual tweaks)
+- Removed Boston FPS Fix
+- Removed Boston FPS Fix - Hotfix for UFO4P 2.1.1a
+- Removed River Fix
+- Rebuilt all custom texture pack BA2s
+- Some retextures were increased from 2K to 4K
+- Packed up ADs 2X Rez HDTP in a BA2
+- Heavily edited the CRP (many patches are now separate)
 - Now using the HighFPSPhysicsFix_custom.ini feature
+- My BAT files for testing are no longer included
+- Changed interface color to a muted green matching the Pip-Boy
 - New separator colours in MO2
 - Added MO2 Loot Preventifier (plugin by LostDragonist)
 - Sort button above the load order in MO2 was removed
+- Installed NifSkope as an additional tool
 
 ## Release 1.6.3
 
