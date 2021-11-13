@@ -14,8 +14,10 @@ description: >
 
 - **LOTF** is a small list in scope, strictly limited to fixing vanilla annoyances.
 - **LOTF** features better distant terrain, sharper textures, and improved combat.
-- **LOTF** comes with a lightweight ENB preset and is highly optimised for performance.
+- **LOTF** comes with a lightweight ENB preset and is optimised for performance.
 - **LOTF** will not receive updates requiring a new save for the forseeable future.
+
+> Legends of the Frost was made for **Skyrim Special Edition**. It does not support **Skyrim Anniversary Edition**. The LOTF installation guide include instructions on how to roll back to SSE in order to be able to play the list.
 
 ### Features
 
@@ -45,29 +47,4 @@ I personally play @1440p60FPS on a rather high-end PC (i7 10700k, RTX 3080) and 
 
 Just like my Fallout 4 list is named after one of my favourite songs, I picked "Legends of the Frost" as tribute to the incredible [Miracle of Sound](https://www.youtube.com/channel/UCSfoxYTlCPFfglckBLrjpsA) (he's brilliant, his music is amazing, check him out). Way back in 2012, he collaborated with the equally amazing [Malukah](https://www.youtube.com/user/malufenix) on a Skyrim-themed song called, you guessed it, [Legends of the Frost](https://www.youtube.com/watch?v=0FLQ4rACE-0). It's one of his oldest songs, but it holds up very well and I love how well he captured the atmosphere of the game (as he always does).
 
-## Installation
-
-**Legends of the Frost** can only be installed via [Wabbajack](https://www.wabbajack.org/#/). There is no manual guide.
-
-> The latest version of the .NET 5.0 Runtime is required for the mod Scrambled Bugs. Please download it from the [official website](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) and install it before installing LOTF.
-
-- To properly set up Skyrim SE for LOTF, [follow these instructions](/wj/wj-sse/game-setup/).
-- To install LOTF through Wabbajack, [follow these instructions](/wj/wj-sse/list-installation/).
-
-Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
-
-### ENB Hotkeys
-
-The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter are the same as in TPF and WTP:
-
-- **F7** toggles the FPS counter.
-- **F10** toggles the ENB effect.
-- **F11** opens the ingame GUI.
-
-All other functions (screenshot, FPS cap, toggle DOF) were disabled. I recommend taking screenshots with Steam by pressing F12.
-
-### MCM Instructions
-
-LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise **Immersive HUD** in its MCM (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime. The LOTF preset for the moreHUD MCM is applied automatically upon starting a new game.
-
-There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
+#### To install LOTF, please follow the [Installation Guide](/lotf/instructions/).

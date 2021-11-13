@@ -6,8 +6,6 @@ description: >
   Small tweaks anyone can do for Legends of the Frost.
 ---
 
-LOTF is a very small list and I do not expect that I will ever add many customisation options. However, there are a few small changes that you can make:
-
 ## Uncap the framerate
 
 Thanks to [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705), it is absolutely possible to play Skyrim SE at above 60FPS without breaking the game. In my experience, the likelyhood of (minor) physics bugs occuring increases with the framerate which is why I personally prefer capping at 60FPS. You can also try capping at 75FPS or 90FPS if you really want a higher framerate. Due to LOTF's performance-friendly nature, you should be able to achieve such framerates on most PCs.
