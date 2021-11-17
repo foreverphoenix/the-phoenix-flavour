@@ -47,4 +47,4 @@ I personally play @1440p60FPS on a rather high-end PC (i7 10700k, RTX 3080) and 
 
 Just like my Fallout 4 list is named after one of my favourite songs, I picked "Legends of the Frost" as tribute to the incredible [Miracle of Sound](https://www.youtube.com/channel/UCSfoxYTlCPFfglckBLrjpsA) (he's brilliant, his music is amazing, check him out). Way back in 2012, he collaborated with the equally amazing [Malukah](https://www.youtube.com/user/malufenix) on a Skyrim-themed song called, you guessed it, [Legends of the Frost](https://www.youtube.com/watch?v=0FLQ4rACE-0). It's one of his oldest songs, but it holds up very well and I love how well he captured the atmosphere of the game (as he always does).
 
-#### To install LOTF, please follow the [Installation Guide](/lotf/instructions/).
+#### To install LOTF, please follow the [Installation Guide](/lotf/installation/).

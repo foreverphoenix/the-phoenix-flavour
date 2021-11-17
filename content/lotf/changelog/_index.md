@@ -6,11 +6,25 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.5.1
+
+> TBD
+
+#### Mod Changes
+
+- Added SkyUI Ghost Bug Fix
+- Updated NPC AI Process Position Fix to 4.06
+
+#### Website
+
+- **Installation:** Added Microsoft .NET 5.0 to the requirements section
+- **Installation:** Updated instructions for the downgrade patcher (now only an EXE)
+
 ## Release 1.5
 
 > 13/11/2021
 
-This is mostly a maintenance update although I did add the fantastic **CoMAP** by Jelidity as well as a brand-new installation guide. It is much shorter than the previous one on account of the Stock Game Folder system allowing us to skip several steps. It also accounts for the AE downgrade patcher.
+This is mostly a maintenance update although I did add the fantastic **CoMAP** by Jelidity and Parapets as well as a brand-new installation guide. It is much shorter than the previous one on account of the Stock Game Folder system allowing us to skip several steps. It also accounts for the AE downgrade patcher.
 
 Please for the love of Talos don't ask me when LOTF will get AE support.
 

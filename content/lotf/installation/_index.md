@@ -25,12 +25,21 @@ The initial installation process will be faster if the downloaded archives are a
 
 The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
 
-- Open the official [Microsoft Visual C++ website](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).
+- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
 - Scroll to the **Visual Studio 2015, 2017 and 2019** section.
 - Download the following file: `vc_redist.x64.exe`.
 - Run the executable, it will guide you through the installation process.
 
 ![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
+
+### Microsoft .NET 5.0
+
+Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will not launch if you do not have it installed.
+
+- Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
+- Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
+
+![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
 
 ## Skyrim SE Setup
 
@@ -49,7 +58,7 @@ If you are currently playing in a language other than English, please go into th
 If you downloaded or updated Skyrim SE after 11/11/2021, you are on version **1.6.318.0** which will not work with LOTF, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to **1.5.97.0** before you can proceed.
 
 - Download halgari's [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) from the Nexus (**Full Patcher**).
-- Extract the contents of the archive to a convenient location and run **Patcher.exe**.
+- Save **FullPatcher.exe** to a convenient location and double-click it to run.
 - It should find your Skyrim SE folder automatically and display the file path.
 - Click the green **Start Patching** button and wait for the process to complete.
 - When the tool returns `Finished Patching, enjoy your game!`, you can close it and proceed.
