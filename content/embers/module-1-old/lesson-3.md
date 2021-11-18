@@ -7,14 +7,6 @@ description: >
  Installation of essential mods and how to organise them in MO2.
 ---
 
-## Overview
-
-- Installation of a number of essential mods.
-- How to edit mod configuration files through Mod Organizer 2.
-- Using the MO2 Notes feature to keep track of your changes.
-- General Mod Organizer 2 interface adjustments.
-- How to keep your mod order clean and well-organised with separators.
-
 ## Workbase
 
 Before we start diving into the specifics of Skyrim plugins and our first tweaks in SSEEdit, we need to establish a solid baseline of essential mods that should be part of every setup. Some of the mods that we will install in this lesson will also provide plenty of practical examples for us to look at in the next lessons.
@@ -155,7 +147,7 @@ What SSE Engine Fixes is for engine bugs, the **Unofficial Skyrim Special Editio
 
 - Download and install the latest main file of the [**Unofficial Skyrim Special Edition Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/266).
 
-After installing and activating the USSEP, you will notice that it is different from the other mods we installed so far. In a way, it is the first "regular" mod that we installed: As you can see in the Contents column in Mod Organizer 2, it contains multiple file types, including a plugin. This plugin should now also show up in the right pane, the load order. We will take a closer look at all of the USSEP's files very soon, but for now there are a few more mods to be installed first.
+After installing and activating the USSEP, you will notice that it is different from the other mods we installed so far. In a way, it is the first "regular" mod that we installed: As you can see in the **Contents** column in Mod Organizer 2, it contains multiple file types, including a plugin. This plugin should now also show up in the right pane, the load order. We will take a closer look at all of the USSEP's files very soon, but for now there are a few more mods to be installed first.
 
 ### Skyrim Landscape and Water Fixes
 
@@ -183,7 +175,7 @@ The mod also adds a ton of additional information that can be viewed directly in
 
 ### SkyUI
 
-As one of the most popular Skyrim mods of all time, **SkyUI** is a staple in almost everyone's load order. It changes Skyrim's very simplistic, controller-optimised interface into a useful and modern-looking alternative that is far better suited for mouse and keyboard (but still works perfectly with a controller).
+As one of the most popular Skyrim mods of all time, **SkyUI** is a staple in almost everyone's load order. It changes Skyrim's very simplistic, controller-optimised interface into a useful and modern-looking alternative that is far better suited for mouse and keyboard (but still works perfectly with a controller). Even Todd Howard loves SkyUI!
 
 In addition to overhauling the interface, SkyUI also adds the **Mod Configuration Menu** already mentioned in the previous lesson. The Mod Configuration Menu, or **MCM** for short, is a new option in the Pause menu through which mods with MCM support can be customised. Before SkyUI implemented this option, mods would offer ingame customisation through spells, powers, and other workarounds which was intrusive and inconvenient.
 
@@ -191,7 +183,7 @@ It is because of the Mod Configuration Menus that SkyUI must be considered an es
 
 - Download and install the latest main file of [**SkyUI**](https://www.nexusmods.com/skyrimspecialedition/mods/12604).
 
-> If you are on an ultrawide monitor (21:9 resolution), you will need an additional patch. I will cover widescreen support later on, so you are likely best off keeping SkyUI disabled for the time being.
+> If you are on an ultrawide monitor (21:9 resolution), you will need an additional patch from [this mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Be sure to grab the one for SkyUI 5.2 SE Alpha.
 
 ## Taking Stock
 
@@ -209,7 +201,7 @@ We have been using the word "plugin" for two different file types now, so it may
 
 **Plugins** are files with an `.ESP`, `.ESM`, or `.ESL` file extension. They appear in the load order (you can see some of them right now). Plugins, their interactions, and the order they are loaded in are going to be extremely relevant. As file types they are also unique to Creation Engine games like Skyrim.
 
-**SKSE Plugins** with the `.DLL` extension on the other hand use SKSE functions to make Engine-level edits to the game. They appear in the mod order. They are far more rare and cannot easily be viewed or edited. [DLL plugins](https://en.wikipedia.org/wiki/Dynamic-link_library) are a common file type and not specific to Skyrim.
+**SKSE Plugins** with the `.DLL` extension on the other hand use SKSE functions to make Engine-level edits to the game. They are far more rare and cannot easily be viewed or edited. [DLL plugins](https://en.wikipedia.org/wiki/Dynamic-link_library) are a common file type and not specific to Skyrim.
 
 **Always assume I'm talking about ESP/ESM/ESL files when I mention "plugins".** Otherwise, I will specify the files in question as "SKSE Plugins". These two types of files are wildly different in what they do and how they function, so the distinction is very important.
 
@@ -276,9 +268,7 @@ Now to create a separator for the official master files:
 - Your new separator will show up at the bottom of your mod order.
 - Drag it up above the three **DLC** "mods".
 
-> You do not have to type the name in uppercase. That is just my personal preference.
-
-If you like you can also change the separator's colour. You can do so by right-clicking it and clicking **Select Color**. You can set the separator to any colour you like, it can be changed anytime, and every separator can have a different colour. Which colour you should choose also depends on your chosen MO2 theme (my colour scheme would be far too bright for anyone using dark mode).
+If you like you can also change the separator's colour. You can do so by right-clicking it and clicking **Select Color**. You can set the separator to any colour you like, it can be changed anytime, and every separator can have a different colour. Which colour you should choose also depends on your MO2 theme (my colour scheme would be far too bright for anyone using dark mode).
 
 ### SKSE & Essentials Separators
 
@@ -297,6 +287,6 @@ At this point, your mod order should look something like this:
 
 ![Lesson 3 Mods](/Pictures/embers/module-1/lesson-three-mods.png)
 
-## Conclusion
+---
 
-While this lesson largely consisted of preparational steps for the next one, you should slowly be getting used to the process of downloading and installing mods as well as the user interface of Mod Organizer 2. We now have everything we need in order to start looking at various examples and learn more about plugins.
+#### Continue with [Lesson 4](/embers/module-1/lesson-4/).

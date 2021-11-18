@@ -2,18 +2,9 @@
 title: "Lesson 1: Initial Setup"
 weight: 1
 type: docs
-no-list: false
 description: >
  Setting up Skyrim and Mod Organizer 2.
 ---
-
-## Overview
-
-- About modding Skyrim in general.
-- The core differences between the available versions of Skyrim.
-- Ensuring that you have a 100% vanilla installation of the game ready to go.
-- First look at the Nexus where the vast majority of all Skyrim mods are hosted.
-- Installation and configuration of Mod Organizer 2, a mod manager.
 
 ## About Modding
 
@@ -27,21 +18,23 @@ At first glance, installing mods for Skyrim is not so tough either: For the orig
 
 The Creation Engine that Skyrim was built in opens up almost unlimited modding capabilities. There are very few games that can boast as many unique mods, from small tweaks to total conversions, as Skyrim, all thanks to that engine. **However, with opportunity comes complexity.** Unlike Minecraft mods, Skyrim mods are not always self-contained: They interact and conflict with the vanilla game files as well as with each other. This means installing a large amount of mods in Skyrim requires an unusual degree of awareness and in-depth knowledge.
 
-In the [**Introduction**](/embers/introduction/) we already spoke about expectations. Deciding to follow **Embers** means taking the long road and that you will probably not have a playable setup within the next few days. In my honest opinion it is more than worth it: **Modding Skyrim can be incredibly rewarding**. What is it like to build that dream setup? Assemble your own collection, with hand-picked mods, customised through various tweaks, truly making it your own? There is a reason most of us veteran modders barely play the game anymore - we are too busy modding it.
+In the [Introduction](/embers/introduction/) we already spoke about expectations. Deciding to follow **Embers** means taking the long road and that you will probably not have a playable setup within the next few days. In my honest opinion it is more than worth it: **Modding Skyrim can be incredibly rewarding**. What is it like to build that dream setup? Assemble your own collection, with hand-picked mods, customised through various tweaks, truly making it your own? There is a reason most of us veteran modders barely play the game anymore - we are too busy modding it.
 
 It is this excitement that will carry you through the progress. Because it *can* be frustrating. It *can* be grueling. Sometimes things just do not work and you may not immediately figure out why, and it may take a great deal of experimenting to understand where you went wrong. Remember that this idea of creating your perfect Skyrim is why you are going through all of it.
 
-*Here is a word of warning: In years and years of modding Skyrim I have never reached that elusive peak, the moment of perfection. There is always something else, something that is missing, that is not quite right yet. Modding Skyrim means chasing the dragon. ~~Get out of here while you still can.~~*
-
 ## Skyrim Version
 
-Skyrim originally relased all the way in 2011 and after the release of all three DLC, it was repackaged as "Skyrim Legendary Edition", or **SLE** for short. In 2016, Bethesda released the remaster "Skyrim Special Edition", or **SSE** for short. Since then, SSE has slowly overtaken SLE for modding and is the better choice nowadays. Its upgraded 64bit engine is vastly more stable compared to SLE's old 32bit version. All major mods and tools have been ported, and most of them are now developed and updated exclusively for SSE.
+Skyrim was released so many times that it became a literal meme and it's perfectly normal to get confused. The most significant difference between the various versions is the engine: It was upgraded to the 64bit version for **Skyrim Special Edition** (SSE) in 2016. Most mods for **Classic Skyrim** (the 2011 release) need to be ported before they can be used for any variant of the SSE version of the game (Skyrim SE, Skyrim VR, Skyrim Anniversary Edition).
 
-In order to follow **Embers**, you must own [**Skyrim Special Edition**](https://store.steampowered.com/app/489830/) on Steam.
+Please check [this article](/embers/other-resources/skyrim-versions/) if you want to know more about the various versions of Skyrim.
 
-The XBOX Game Pass and VR versions of Skyrim SE will not work.
+> There are many more differences between **SLE** and **SSE** than noted here. We will talk about them later on.
 
-> There are many more differences between SLE and SSE than noted here. We will talk about them later on.
+### Required Version
+
+For **Embers**, you specifically need [Skyrim Special Edition](https://store.steampowered.com/app/489830/) on Steam. The Xbox Game Pass version will not work. Modding Skyrim VR is like modding Skyrim SE for the most part, but there are some important differences in VR that **Embers** does not account for so it's not recommended.
+
+Whether you own the **Anniversary Edition** DLC is irrelevant. **Embers** is based on the latest version of Skyrim SE, **1.6.318**, which was released alongside the AE update but does not require it in any way.
 
 ## Folder Structure
 
@@ -66,7 +59,7 @@ If you do not have Skyrim SE installed right now but you did mod the game at som
 
 First uninstall Skyrim SE through Steam. This will delete all vanilla files. After you have done so, check if any mod-added files remain:
 
-- Navigate to where the game was installed which is probably `C:\Program Files x86\Steam\steamapps\common\`.
+- Navigate to where the game was installed which is probably .
 - If there is still a **Skyrim Special Edition** folder present, delete it.
 
 ### Documents Folder
@@ -125,13 +118,15 @@ Skyrim should be installed:
 
 > An SSD is recommended for faster loading times. Depending on its speed, an HDD may also negatively impact overall performance.
 
-If you want to create a new Steam Library on your `C:\` drive but already have your regular Steam installation and its default Steam Library on the same drive, you will need to use LostDragonist's [**Steam Library Setup Tool**](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second Steam Library on that drive (follow the link for instructions).
+If you want to create a new Steam Library on your `C:\` drive but already have your regular Steam installation and its default Steam Library on the same drive, you will need to use LostDragonist's [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second Steam Library on that drive (follow the link for instructions).
 
 Otherwise, open the **Settings** in Steam, go to the **Downloads** tab, and click the **Steam Library Folders** button. You can choose the drive and folder for your new Steam Library directly through the interface. Once set up, the new Steam Library can be selected upon installing a new game.
 
 ## Reinstalling Skyrim
 
-Find the game in your library (in the Steam app) and click the big blue INSTALL button. Make sure to select a Steam Library outside any UAC-protected folders as the location to install all files to and wait for the game to be fully downloaded before you proceed.
+Find the game in your library (in the Steam app) and click the big blue INSTALL button. Make sure to select a Steam Library outside any UAC-protected folders as the location to install all files to and wait for the game to be fully downloaded.
+
+**Proceed when the download is complete.**
 
 ### First Test Run
 
@@ -176,13 +171,13 @@ Your mod manager is the heart and soul of your setup. The steps you go through i
 
 ## Nexus Mods
 
-The vast majority of mods and tools (including Mod Organizer 2) are hosted on [**Nexus Mods**](https://www.nexusmods.com/). The Nexus supports hundreds of games, but it should come as no surprise that the six games with the most downloads in total (by a wide margin) are the most recent Bethesda games. You will download many files from various Nexus pages over the coming lessons and we will also talk about the site in general. In order to download mods, you must have an account.
+The vast majority of mods and tools (including Mod Organizer 2) are hosted on [Nexus Mods](https://www.nexusmods.com/). The Nexus supports hundreds of games, but it should come as no surprise that the six games with the most downloads in total (by a wide margin) are the most recent Bethesda games. You will download many files from various Nexus pages over the coming lessons and we will also talk about the site in general. In order to download mods, you must have an account.
 
-If you do not have a [**Nexus Mods**](https://www.nexusmods.com/) account yet, go ahead and create one now.
+If you do not have a [Nexus Mods](https://www.nexusmods.com/) account yet, go ahead and create one now.
 
 ### About Nexus Premium
 
-[**Nexus Premium**](https://users.nexusmods.com/register/memberships) is a subscription service that grants certain perks to users, including removal of all ads as well as faster downloads. The Nexus has also added an additional click to the process of downloading a file which includes a countdown and an ad for the Premium membership to further incentivise purchasing a subscription.
+[Nexus Premium](https://users.nexusmods.com/register/memberships) is a subscription service that grants certain perks to users, including removal of all ads as well as faster downloads. The Nexus has also added an additional click to the process of downloading a file which includes a countdown and an ad for the Premium membership to further incentivise purchasing a subscription.
 
 I recommend holding off on Premium until you have progressed enough in your modding journey to know that you will stick with it for a while. When building a larger mod setup, paying for a month or so of Premium can be worth the asking price. It is also a great way of giving back to the Nexus for their service, especially for those of us with ad blockers installed.
 
@@ -190,9 +185,9 @@ I recommend holding off on Premium until you have progressed enough in your modd
 
 ### Navigating the Nexus
 
-While the Nexus has separate sections for more than 1,000 games, we are of course largely interested in the [**Skyrim Special Edition**](https://www.nexusmods.com/skyrimspecialedition) (SSE, 2016) and occasionally the [**Skyrim**](https://www.nexusmods.com/skyrim) (SLE, 2011) sections (mods can be ported from SLE to SSE, more on that later).
+While the Nexus has separate sections for more than 1,000 games, we are of course largely interested in the [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition) (SSE, 2016) and occasionally the [Skyrim](https://www.nexusmods.com/skyrim) (SLE, 2011) sections (mods can be ported from SLE to SSE, more on that later).
 
-- Open the [**Skyrim Special Edition**](https://www.nexusmods.com/skyrimspecialedition) part of the Nexus.
+- Open the [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition) part of the Nexus.
 - In the search bar at the top, enter "Mod Organizer 2" and select the first result.
 
 You are now looking at the mod page for Mod Organizer 2. All mod pages, whether they are for mods or for tools, have the same layout. There are screenshots near the top and if you scroll down, you will see the description which is typically the first thing you want to check about any mod. It is not necessary to read the description for MO2 right now (although you can if you like), so we can proceed directly to the **Files** section.
@@ -282,7 +277,7 @@ At this point, we are not going to discuss the meaning of the various parts of M
 
 ## MO2 Settings
 
-Open the **Settings** by clicking the first icon on the right in the Toolbar. Note that we will *not* go through all tabs.
+Open the **Settings** by clicking the first icon on the right in the Toolbar. Note that we will not go through all tabs.
 
 ### General
 
@@ -327,6 +322,6 @@ If you have not done so already, you need to connect Mod Organizer 2 to your Nex
 
 ![MO2 Nexus Authorisation](/Pictures/tpf/initial-setup/authorise-mo2.png)
 
-## Conclusion
+---
 
-We have now done all the basic preparations necessary before we can dive into actual mod installation. Of course, there are many more tools to install and procedures to follow, but they can be addressed later on. Since we have the setup out of the way now, the next lesson will finally deal with mods themselves.
+#### Continue with [Lesson 2](/embers/module-1/lesson-2/).

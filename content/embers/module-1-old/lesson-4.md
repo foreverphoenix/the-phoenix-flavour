@@ -7,29 +7,19 @@ description: >
  Installation of SSEdit and first plugin tweaks.
 ---
 
-## Overview
-
-- Installation of SSEEdit to prepare for our first plugin tweak.
-- About Form IDs and the difference between base and ref IDs.
-- Plugin records and layers in SSEEdit.
-- Example edit of a record including creation of a new plugin.
-- Handling of SSEEdit refcache output.
-
 ## Plugin Basics
 
 Several mod installations later, we have the beginning of a mod order in the left pane. If you switch to the **Plugins** tab in the right pane of Mod Organizer 2, the **load order**, you will also see four new plugins, sorted in the order they were installed in:
 
 ![Lesson 3 Plugins](/Pictures/embers/module-1/lesson-four-plugins.png)
 
-> If they are not automatically arranged this way, you can drag them around to match the image.
-
 Some of our currently installed plugins are displayed in **bold**, *italics*, or both, which is how Mod Organizer 2 visualises different plugin types in the load order. For the time being, you can simply consider all of them plugins. We will talk about the differences between these plugin types in the next lesson.
 
 ## SSEEdit
 
-While plugins can also be created and edited in Bethesda's official modding tool, the **Creation Kit**, the community-made **SSEEdit** is much better suited for beginners to get an idea of how plugins and load order work.
+While plugins can also be created and edited in Bethesda's official modding tool, the **Creation Kit**, the community-made **SSEEdit** is much better suited for beginners to get an idea of how plugins are structured and how load order works.
 
-However, neither of the two replaces the other, and the tool to use always depends on the type of plugin you are working on. For the vast majority of tweaks, edits, and especially patches, SSEEdit is the way to go because it is very good at visualising conflicts.
+However, neither of the two replaces the other, and the tool to use always depends on the type of plugin you are working on. For the vast majority of tweaks, edits, and especially patches, SSEEdit is the way to go because it is very good at visualising conflicts and interactions.
 
 **SSEEdit** is also commonly referred to as **xEdit**. It exists for most Bethesda games, not only Skyrim SE, and its name changes depending on the game: For example, xEdit for Skyrim LE was called TES5Edit. Once you have downloaded the program, you can use it for any game that is supported by either changing the name of the executable or starting it with a specific argument such as `-sse` for Skyrim SE. You will see the tool referred to as **SSEEdit** or **xEdit** interchangeably, it means the same thing.
 
@@ -54,9 +44,9 @@ SSEEdit will automatically be selected in the executables drop-down already. For
 
 The SSEEdit icon will now be show up above and clicking it there will be the same as selecting it from the executables drop-down and clicking run. After installing half a dozen tools, it is rather useful to be able to launch everything through that tool bar without having to select it from the drop-down first.
 
-![SSEEdit To Toolbar](/Pictures/embers/module-1/sseedit-to-toolbar.png)
+Now that SSEEdit is installed, we need to find ourselves a proper example edit to try out.
 
-Now that SSEEdit is installed, we need to find ourselves a proper example to try out.
+![SSEEdit To Toolbar](/Pictures/embers/module-1/sseedit-to-toolbar.png)
 
 ## The Unwanted Effects Book
 
@@ -80,7 +70,7 @@ Let's go and have a look at that book, shall we?
 
 The **coc** (**c**enter **o**n **c**ell) command is insanely useful for testing. When used from the main menu, it will create a test character in your chosen cell with some basic equipment (check your inventory if you like). Do note that **coc** is for testing *only*, you will run into all kinds of issues if you try to use it for an actual playthrough as skipping the intro will cause many of the game's scripts to never be properly initialised.
 
-To find the book, go from where you spawned by entrance to the temple into the sleeping area on the right. There is a bookcase just in front of you with the **USSEP Unwanted Effects Remover** on the floor leaning against its side.
+To find the book, go from where you spawned by the entrance to the temple into the sleeping area on the right. There is a bookcase just in front of you with the **USSEP Unwanted Effects Remover** on the floor leaning against its side.
 
 ![USSEP Book 1](/Pictures/embers/module-1/ussep-book-1.jpg)
 
@@ -99,7 +89,7 @@ Everything we could possibly need to know we can see at a glance thanks to the m
 
 ## About Form IDs
 
-Every object, NPC, magic effect, music track, etc, in the game is defined in a unique *record* which is contained in a *plugin*. For vanilla Skyrim, that is what the official master files do: Each of the five plugins contains thousands of **records**, one for every *thing* in the game, for NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
+Every object, NPC, magic effect, music track, etc, in the game is defined in a unique *record* which is contained in a *plugin*. For vanilla Skyrim, that is what the official master files do: Each of the five plugins contains thousands of **records**, one for every *thing* in the game: For NPCs, magic effects, music tracks, and so forth. Every record has a unique **Form ID** to be identified by. No two Form IDs can ever be identical.
 
 Form IDs consist of 8 [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) numbers (1-9 and A-F), for example `050B1985`. The first two denote the **Index** which refers to the load order position of the plugin that the record was initially defined in. They change depending on your load order. The remaining six numbers will always stay the same. This way, there can never be two plugins with duplicate Form IDs: No two plugins can be loaded in the same spot in the load order so they will always have a different index.
 
@@ -125,7 +115,7 @@ But because the book's REFR record is an injected form though, adding the USSEP 
 
 ## SSEEdit Basics
 
-Let's have a look at the book in SSEEdit now.
+Let's go find the book in SSEEdit.
 
 - Click the **SSEEdit** icon in your tool bar to quickly launch it through MO2.
 
@@ -133,7 +123,7 @@ In the background, MO2 will be locked now. This will always happen when you laun
 
 In **SSEEdit**, you will now see your load order ("Module Selection"). All plugins should be checked by default, so go ahead and click **OK** to load them up. This will take a while. You can follow the tool's progress in SSEEdit and, spoiler alert, we are going to speed this process up in the future. While SSEEdit loads your plugins, it will display random tips.
 
-After a while, SSEEdit will ask you about activating **ModGroups**. This is because the USSEP comes with a ModGroup file that was now recognised by the tool. We will talk about ModGroups and their functionality later, for now leave the USSEP ModGroup disabled and click just **OK**.
+After a while, SSEEdit will ask you about activating **ModGroups**. This is because the USSEP comes with a ModGroup file that was now recognised by the tool. We will talk about ModGroups and their functionality later, for now leave the USSEP ModGroup disabled and just click **OK**.
 
 The SSEEdit log should now return `Background Loader: finished`, so we can proceed.
 
@@ -182,13 +172,13 @@ We can easily find the book that we want to disable by searching for its unique 
 
 ![Search FormID](/Pictures/embers/module-1/sseedit-search-formid.png)
 
-You will notice that, unlike the other book records, this one is displayed in white (blue in my screenshot because it is currently selected). White records are records that are not overwritten at all: The book was newly added by the USSEP. Very often mod authors prefix their **EditorIDs** with their name or the mod name like you can see here.
+You will notice that, unlike the other book records, this one is displayed in white (blue in my screenshot because it is currently selected). White records are records that are not overwritten at all: The book was newly added by the USSEP, it was defined in its plugin. Very often mod authors prefix their **EditorIDs** with their name or the mod name like you can see here.
 
 So what are we going to do with it?
 
-Theoretically we could simply right-click and delete the book's record. Because the ref ID (the copy of the book placed in the Temple of Kynareth) is an injected record, this would even remove the book without causing an error.
+Theoretically we could simply right-click and delete the book's base record. However, the reference record placing the book in the Temple of Kynareth links back to the book's base record and would throw an error if it were just deleted. These kinds of errors can cause crashes and other issues.
 
-However, injected records are very rare and in most other plugins, brute-force deleting the base record would cause an `Error: Could not be resolved` in the ref record, causing the game to crash upon launch.
+![USSEP Book Error](/Pictures/embers/module-1/ussep-book-error.png)
 
 Instead, it is much better to simply leave the base record in place and *disable* the object in the ref record.
 
@@ -241,7 +231,7 @@ A new window will pop up with a list of options that you can check. Near the top
 
 ![Add Record Flag](/Pictures/embers/module-1/add-record-flag.png)
 
-> Initially Disabled means a record can potentially be re-enabled by a script later on. For example, certain coffins are flagged as initially disabled. If an NPC dies, their coffin in the Hall of the Dead of their home city will be enabled and become visible to the player.
+> **Initially Disabled** means a record can potentially be re-enabled by a script later on. For example, certain coffins are flagged as initially disabled. If an NPC dies, their coffin in the Hall of the Dead of their home city will be enabled and thus become visible to the player.
 
 ### Saving your changes
 
@@ -345,10 +335,12 @@ And ... gone!
 
 ![USSEP Book Removed](/Pictures/embers/module-1/ussep-book-removed.jpg)
 
-## Conclusion
-
 You may wonder why we went through the process of digging through SSEEdit to disable a completely inconsequential feature before we even talk about load order and plugin types.
 
 This lesson was not about the book. It was about plugin structure: About records and form IDs and layers. Load order should be more than a theoretical idea now, it's a tangible concept that you have seen in action. You have seen overwrites, you have created your own overwriting layer to make a change, and made sure that it works.
 
 When we discuss plugin types and load order in the next lesson, these concepts will make a great deal more sense with the knowledge on plugin structure we gained in this lesson.
+
+---
+
+#### Continue with [Lesson 5](/embers/module-1/lesson-5/).

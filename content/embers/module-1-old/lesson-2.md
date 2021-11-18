@@ -7,14 +7,6 @@ description: >
  The Skyrim Script Extender.
 ---
 
-## Overview
-
-- The Skyrim Script Extender and its significance.
-- Skyrim SE updates and how to update-proof your installation.
-- The root and data folder, and the differences between them.
-- MO2's virtual file system and (roughly) how it works.
-- Installation of the Script Extender and related mods.
-
 ## The Skyrim Script Extender
 
 If you have any previous modding experience at all, you will likely have heard of the **Skyrim Script Extender** or **SKSE** for short. Of all the mods and tools out there, the Script Extender is one of the most vital ones: It *extends* the scripting capabilities of the engine, allowing mod authors to implement features that would not have been possible before. SKSE is required by many mods, among them the most complex ones available.
@@ -23,11 +15,11 @@ A popular example of an SKSE-dependant feature is the **Mod Configuration Menu**
 
 ### SKSE and Skyrim Updates
 
-Due to its very nature, the Skyrim Script Extender is **version dependant**. Any version of SKSE will *only* work with the specific version of Skyrim SE it was compiled for. For example, the current version (as of Summer 2021) of SKSE, `2.0.19`, functions only with the latest version of Skyrim SE, `1.5.97.0`.
+Due to its very nature, the Skyrim Script Extender is **version dependant**. Any version of SKSE will *only* work with the specific version of Skyrim SE it was compiled for. For example,  SKSE version `2.0.19` functions only with the last pre-Anniversary Edition version of Skyrim SE, `1.5.97.0` which is required for **Embers**.
 
-Unfortunately, Skyrim SE is still being updated occasionally. These patches are almost exclusively to add or update "creations" for the Skyrim SE "Creation Club" (an ingame store for mini DLC) and rarely ever changes something about the base game, but they will break SKSE regardless. In the past it has taken anywhere from between a few days to a few weeks for the SKSE team to update for the latest version of Skyrim.
+Skyrim still receives the occasional patch to add or update Creation Club content. While these patches usually do not touch the base game, they always affect the primary executable, **SkyrimSE.exe** which means that SKSE needs to be updated as well. In the past it has taken anywhere from between a few days to a few weeks for the SKSE team to update for the latest version of Skyrim.
 
-The issue of version dependancy does not only affect SKSE and the game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a specific version of SKSE to function, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
+The issue of version dependancy does not only affect SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a *specific* version of SKSE to actually work, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
 
 Until recently, mod authors had to wait for the SKSE team to update whenever Skyrim updated before they could update their own SKSE plugins in turn. Occasionally, authors were not actively modding anymore when a Skyrim patch dropped and were not around to update their mods until weeks later, if at all. Since many mods have closed permissions, nobody else could update their mods for them either. And because SKSE plugins are among the most complex of mods (written in C or C++), there are very few people capable of updating them for a new Skyrim version to begin with.
 
@@ -35,7 +27,7 @@ This was the primary problem with Skyrim SE - until the Address Library was rele
 
 ### Address Library
 
-To fix the problem of SKSE and SKSE plugins breaking with every Skyrim update, **meh321** (the author of a number of groundbreaking mods) released [**Address Library for SKSE**](https://www.nexusmods.com/skyrimspecialedition/mods/32444). It is a modder's resource allowing SKSE plugins to become version independent from SKSE by storing their offsets in a separate database instead. This has all but eliminated the problem of Skyrim updates: Since Address Library was released, the vast majority of SKSE plugins has been updated to utilise the resource and no longer requires a specific version of SKSE.
+To fix the problem of SKSE and SKSE plugins breaking with every Skyrim update, **meh321** (the author of a number of groundbreaking mods) released [Address Library for SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/32444). It is a modder's resource allowing SKSE plugins to become version independent from SKSE by storing their offsets in a separate database instead. This has all but eliminated the problem of Skyrim updates: Since Address Library was released, the vast majority of SKSE plugins has been updated to utilise the resource and no longer requires a specific version of SKSE.
 
 ## Update Proofing
 
@@ -68,7 +60,7 @@ Before we continue, please make sure file name extensions are set to visible in 
 
 ## Root and Data Folder
 
-After so much talk about the Script Extender, we should install it. However, we cannot do it through Mod Organizer 2. To understand why SKSE must be installed differently from other mods, we need to talk about the root and data folders.
+After so much talk about the Script Extender, we should install it. However, we cannot do it through Mod Organizer 2. To understand why SKSE must be installed differently from other mods, we need to talk about the differences between the **root** and **data** folder.
 
 Navigate over to your Skyrim installation, `\Your Steam Library\steamapps\common\Skyrim Special Edition\`. This folder is referred to as the **root folder**. In its current vanilla state, it will look like this:
 
@@ -135,7 +127,7 @@ However, those scripts are regular assets belonging into the **data folder** and
 
 As mentioned, mods can consist of various files: They are not always neatly stowed away in BSAs with a matching plugin. A large modded setup may consist of hundreds of plugins and thousands of loose files, such as those SKSE scripts. A big part of building a setup is managing those loose files, that is, deciding which files should overwrite.
 
-If all those loose files are simply dropped into the **data folder**, new files will overwrite existing files with the same name. Although this can be undone, the original file will still be lost once it has been overwritten. Every file conflict must painstakingly be reviewed *before* installing a new mod (each of which may contain hundreds of loose files). Short of creating dedicated Excel tables, it is impossible to keep track of which files belong to which mod.
+If all those loose files were simply dropped into the **data folder**, new files would overwrite existing files with the same name. Although this could be undone, the original file would still be lost once it had been overwritten. Every file conflict would have to be painstakingly reviewed *before* installing a new mod (each of which may contain hundreds of loose files). Short of creating dedicated Excel tables, it would be impossible to keep track of which files belong to which mod.
 
 Nexus Mod Manager was certainly an improvement over dropping files into the **data folder** manually. For mods installed into the **data folder** through its interface, it did track which files belonged to which mod, but it could not remember if you had overwritten any of them. The worst case scenario was that upon uninstalling one mod, you inadvertendly removed parts of a different mod that you had overwritten the first mod with.
 
@@ -147,9 +139,14 @@ In short: It was absolute chaos. But this chaos was once what everyone had to co
 
 Arguably the most exciting feature of the original Mod Organizer was the **Virtual File System**, for **VFS** for short. Over the years, Nexus Mod Manager and its successor, Vortex, implemented similar functionalities although the modern Mod Organizer 2 remains the champion of asset managers.
 
-**This is how it works:**
+Here is how it works:
 
-MO2 builds a virtual **data folder** from various mod files at runtime. Instead of extracting mod files into the **data folder** directly, they are extracted into separate, self-contained **mod folders**. No files ever actually conflict with or overwrite each other.
+MO2 builds a virtual **data folder** from various mod files at runtime. Instead of extracting mod files into the **data folder** directly, they are extracted into separate, self-contained **mod folders**. No files ever actually conflict with or overwrite each other. Your actual folder structure will look like this:
+
+- `\Mod Organizer 2\mods\Mod 1\<files from mod 1>`
+- `\Mod Organizer 2\mods\Mod 2\<files from mod 2>`
+- `\Mod Organizer 2\mods\Mod 3\<files from mod 3>`
+- ...
 
 Mods being installed separately from one another created the concept of a **mod order**: If two mods contain the same files, the one placed lower in the mod order will overwrite in the virtual data folder. But because the files never *actually* conflict, you can change which file overwrites any time by changing the order of the two mods. You can also review and compare those files without having to reinstall and overwrite, and you will always know which mod they belong to.
 
@@ -174,7 +171,7 @@ Since one major advantage of MO2's virtual data folder is the ability to easily 
 - Double-click **SKSE Scripts** in your mod order.
 - Switch to the **Nexus Info** tab.
 
-When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file and MO2 has changed the Mod ID to -1. Under **Version**, you can now enter **2.0.19** (or whichever is the current SKSE version).
+When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file and MO2 has changed the Mod ID to `-1`. Under **Version**, you can now enter **2.0.19** (or whichever is the current SKSE version).
 
 After you close the window again, the version number will appear properly in the **Versions** column in the MO2 UI like it does for all mods that you will install in the future.
 
@@ -229,7 +226,7 @@ The SKSE INI must be located under `\Data\SKSE\SKSE.ini` so we can use Mod Organ
 
 ### Notepad++
 
-To edit the new INI file, you *can* simply open it through Notepad, which is a default TXT editor pre-installed in Windows. However, I highly recommend installing [**Notepad++**](https://notepad-plus-plus.org/), an open-source, feature-rich alternative. Even for simple text file editing, it is more than worth it, and we will need it again for other INI, TOML, and JSON files later on.
+To edit the new INI file, you *can* simply open it through Notepad, which is a default TXT editor pre-installed in Windows. However, I highly recommend installing [Notepad++](https://notepad-plus-plus.org/), an open-source, feature-rich alternative. Even for simple text file editing, it is more than worth it, and we will need it again for other INI, TOML, and JSON files later on.
 
 If you do not have Notepad++ installed yet, I recommend installing it now. Afterwards, you can set it to be the default app to open INI files by following these steps:
 
@@ -302,6 +299,6 @@ This will now download the file through Mod Organizer 2 into the downloads folde
 
 ![Address Library Installation](/Pictures/embers/module-1/address-library-installation.png)
 
-## Conclusion
+---
 
-With the proper setup of the Script Extender and all related files out of the way, we are now free to install most other mods.
+#### Continue with [Lesson 3](/embers/module-1/lesson-3/).
