@@ -6,19 +6,48 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
-## Release 1.5.1
+## Release 1.6
 
 > TBD
+
+The Immersive HUD MCM is now automated for anyone starting a new game (it does nothing for ongoing playthroughs). I also fixed the moreHUD Settings Loader (made a dumb mistake) so it should work as expected now.
 
 #### Mod Changes
 
 - Added SkyUI Ghost Bug Fix
+- Added Animated Static Reload Fix
+- Added Better Windhelm Meshes
+- Added Immersive HUD - Settings Loader
+- Added Immersive HUD - LOTF Preset
+- Added Oxygen Meter
+- Added Modern Toggle Walk-Run Fix
+- Added Picta Series - Improved Sky Meshes (experimental for now)
+- Added Security Overhaul SKSE - Lock Variations
+- Updated SKSE for Skyrim SE 1.5.97.0 to 2.0.20 (**STILL NO AE SUPPORT**)
+- Updated SSE Display Tweaks to 0.5.0b
+- Updated Dear Diary - Better More Informative Console to 1.3
+- Updated powerofthree's Tweaks to 1.4
+- Updated Equip Enchantment Fix to 1.3.2
+- Updated Spell Perk Item Distributor to 5.1.0
 - Updated NPC AI Process Position Fix to 4.06
+- Updated Unequip Quiver SE to 1.6
+- Updated Assorted Mesh Fixes to 0.33
+- Updated ENBSeries to 0.465
+- Now using a SSEDisplayTweaks_Custom.ini for config edits
+- Enabled Grabbing Is Stealing po3's Tweaks
+- Disabled sneak attack and critical hit messages in po3's Tweaks
+- Moved Unequip Quiver SE to the SKSE & NET PLUGINS separator
+- Moved No Lockpicking to the SKSE & NET PLUGINS separator
+- Fixed moreHUD preset (should now actually auto-load in new saves)
+- Forwarded HasWater flags for some cells that I'd previously missed
+- Reduced size of map markers by 25%
+- Changed the Mod Organizer 2 executable icon
 
 #### Website
 
 - **Installation:** Added Microsoft .NET 5.0 to the requirements section
 - **Installation:** Updated instructions for the downgrade patcher (now only an EXE)
+- **Customisation:** Updated "Uncap the framerate" section for the new SSEDisplayTweaks_Custom.ini
 
 ## Release 1.5
 

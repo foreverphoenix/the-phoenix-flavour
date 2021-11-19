@@ -13,12 +13,12 @@ Thanks to [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mo
 To change the FPS cap, you need to edit the INI file for SSE Display Tweaks:
 
 - In **Mod Organizer 2**, expand the **ESSENTIALS** separator.
-- Double-click the mod **SSE Display Tweaks**.
+- Double-click **SSE Display Tweaks - LOTF Settings**.
 - Switch to the **INI Files** tab and select the **SSEDisplayTweaks.ini**.
-- Scroll down to `FramerateLimit=` (around **Line 207**) and adjust the value to your liking.
+- Change the value for `FramerateLimit=` to your liking.
 - Press **CTRL + S** to save your changes and close the window.
 
-![LOTF Uncap Framerate](/Pictures/lotf/lotf-uncap-framerate.png)
+![LOTF Uncap Framerate](/Pictures/lotf/customisation/lotf-uncap-framerate.png)
 
 ## Interface Adjustments
 
@@ -61,7 +61,7 @@ If you want to be able to hold the Sprint key to sprint instead of press it once
 
 If you are tired of the lockpicking minigame, I included a mod to skip it. Interacting with a locked container will unlock it, but consume lockpicks based on the lock difficulty.
 
-- In **Mod Organizer 2**, expand the **GAMEPLAY** separator.
+- In **Mod Organizer 2**, expand the **SKSE & NET PLUGINS** separator.
 - Check the mod **No Lock Picking**.
 
 ## Enable Barenziah Quest Markers

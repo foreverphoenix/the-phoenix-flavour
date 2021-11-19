@@ -117,7 +117,7 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise is **Immersive HUD** (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime. The LOTF preset for the moreHUD MCM is applied automatically upon starting a new game.
+LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied for Immersive HUD and moreHUD so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
 There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
 
