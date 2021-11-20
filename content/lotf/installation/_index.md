@@ -11,7 +11,7 @@ description: >
 - [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
 - Latest version of Windows 10 (required by Wabbajack).
 - At least a free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
-- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
+- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
 
 > A Nexus Premium subscription is highly recommended for a significantly faster and easier installation. Without Premium, you will need to click download for every mod while Premium allows Wabbajack to automatically download everything for you.
 
@@ -43,27 +43,15 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 ## Skyrim SE Setup
 
-Before you can install LOTF, you need to make you are on the correct version of Skyrim SE and that your installation is set to English.
+The version of Skyrim SE you have installed does no longer matter for LOTF. A separate **Stock Game Folder** will be created with a copy of the vanilla files from the version currently supported by the list.
+
+**Please make sure to launch the game at least once before running Wabbajack.** If you just (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
 
 ### Set language to English
 
 **LOTF requires the English language version of Skyrim SE.**
 
 If you are currently playing in a language other than English, please go into the settings for Skyrim SE in your Steam library and revert the language to English. After changing the language, Steam should automatically download the required files (launch the game to force the download if it doesn't).
-
-### Revert to pre-AE Skyrim
-
-**LOTF does not currently support Skyrim Anniversary Edition.**
-
-If you downloaded or updated Skyrim SE after 11/11/2021, you are on version **1.6.318.0** which will not work with LOTF, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to **1.5.97.0** before you can proceed.
-
-- Download halgari's [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) from the Nexus (**Full Patcher**).
-- Save **FullPatcher.exe** to a convenient location and double-click it to run.
-- It should find your Skyrim SE folder automatically and display the file path.
-- Click the green **Start Patching** button and wait for the process to complete.
-- When the tool returns `Finished Patching, enjoy your game!`, you can close it and proceed.
-
-![Skyrim SE Version Downgrade](/Pictures/lotf/installation/skyrim-se-downgrade.png)
 
 ## Wabbajack Installation
 
