@@ -10,11 +10,13 @@ description: >
 
 > 20/11/2021
 
-This update introduces Tate Taylor's superbrain solution for Skyrim AE. It was compiled with the latest version of SAE (1.6.318.0) in my actual root folder and LOTF's current supported version of SSE (1.5.97.0) in the Stock Game folder. With the small addition of meh's DLL Plugin Loader for some immensely big-brained binary patching action this allows anyone to install LOTF regardless of what version Skyrim they have in their own root folder. The version in the Stock Game folder installed and used by LOTF will always be 1.5.97.0 until I eventually update to the latest one.
+This update introduces Tate Taylor's superbrain solution for Skyrim AE. It was compiled with the latest version of SAE (1.6.318.0) in my actual root folder and LOTF's current supported version of SSE (1.5.97.0) in the Stock Game folder. With the small addition of meh's DLL Plugin Loader for some immensely big-brained binary patching action this allows LOTF to function without having to run the downgrade patcher first. The version in the Stock Game folder installed and used by LOTF will still be 1.5.97.0 until I eventually update to the latest one.
 
 **Yes, I intend to update LOTF to SSE 1.6.318 / AE.** However, quite a few mods need updating first (currently the counter is at 13/40 and rising steadily). For more information on LOTF 2.0 / AE, please check my [November 2021 Update](https://www.patreon.com/posts/november-2021-58852886) post on Patreon.
 
 The Immersive HUD MCM is now automated for anyone starting a new game (it does nothing for ongoing playthroughs). I also fixed the moreHUD Settings Loader (made a dumb mistake) so it should work as expected now.
+
+**LATE NOTE:** LOTF 1.6 actually requires Skyrim SE 1.6.318.0 in your own root folder in order to install it. Updated the instructions accordingly.
 
 #### Mod Changes
 
@@ -56,7 +58,7 @@ The Immersive HUD MCM is now automated for anyone starting a new game (it does n
 
 - **Installation:** Updated link to NVIDIA drivers to point to the English page rather than the German one
 - **Installation:** Added Microsoft .NET 5.0 to the requirements section
-- **Installation:** Removed instructions for the downgrade patcher (your version of SSE no longer matters)
+- **Installation:** Removed instructions for the downgrade patcher (Skyrim SE 1.6.318.0 is now required)
 - **Installation:** Added a reminder to launch the game at least once after (re)installing it
 - **Customisation:** Updated "Uncap the framerate" section for the new SSEDisplayTweaks_Custom.ini
 

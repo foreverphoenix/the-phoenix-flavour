@@ -43,9 +43,12 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 ## Skyrim SE Setup
 
-The version of Skyrim SE you have installed does no longer matter for LOTF. A separate **Stock Game Folder** will be created with a copy of the vanilla files from the version currently supported by the list.
+**LOTF requires Skyrim SE 1.6.318.0**, the patch that was released alongside the Skyrim Anniversary Edition update. The Skyrim AE DLC itself is not required and not supported (it does not matter whether you own it or not). A copy of your vanilla game files downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game.
 
-**Please make sure to launch the game at least once before running Wabbajack.** If you just (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
+- If you are on **Skyrim SE 1.6.318.0**, you can install LOTF without running the downgrade patcher.
+- If you are on **Skyrim SE 1.5.97.0**, please verify files through Steam to install the update.
+
+**Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
 
 ### Set language to English
 
