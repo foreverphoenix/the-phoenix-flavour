@@ -33,8 +33,9 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added Institute Floor Fix
 - Added Automatron Load Screen Fix
 - Added No Crafting Experience
-- Added Base Scrap Is Not Junk Jet Ammo (custom)
 - Added No Holotape Tease - Texture Replacement
+- Added Base Scrap Is Not Junk Jet Ammo (custom)
+- Added NPC Protection Tweaks (custom)
 - Added Atmospheric Animated Menu Replacer (Night Version)
 - Added NMC's Texture Bundle
 - Added Redder Red Rocket
