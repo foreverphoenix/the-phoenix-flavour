@@ -11,7 +11,7 @@ description: >
 - [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
 - Latest version of Windows 10 (required by Wabbajack).
 - At least a free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
-- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
+- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
 
 > A Nexus Premium subscription is highly recommended for a significantly faster and easier installation. Without Premium, you will need to click download for every mod while Premium allows Wabbajack to automatically download everything for you.
 
@@ -25,36 +25,33 @@ The initial installation process will be faster if the downloaded archives are a
 
 The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
 
-- Open the official [Microsoft Visual C++ website](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).
+- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
 - Scroll to the **Visual Studio 2015, 2017 and 2019** section.
 - Download the following file: `vc_redist.x64.exe`.
 - Run the executable, it will guide you through the installation process.
 
 ![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
 
+### Microsoft .NET 5.0
+
+Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will not launch if you do not have it installed.
+
+- Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
+- Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
+
+![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
+
 ## Skyrim SE Setup
 
-Before you can install LOTF, you need to make you are on the correct version of Skyrim SE and that your installation is set to English.
+The version of Skyrim SE you have installed does no longer matter for LOTF. A separate **Stock Game Folder** will be created with a copy of the vanilla files from the version currently supported by the list.
+
+**Please make sure to launch the game at least once before running Wabbajack.** If you just (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
 
 ### Set language to English
 
 **LOTF requires the English language version of Skyrim SE.**
 
 If you are currently playing in a language other than English, please go into the settings for Skyrim SE in your Steam library and revert the language to English. After changing the language, Steam should automatically download the required files (launch the game to force the download if it doesn't).
-
-### Revert to pre-AE Skyrim
-
-**LOTF does not currently support Skyrim Anniversary Edition.**
-
-If you downloaded or updated Skyrim SE after 11/11/2021, you are on version **1.6.318.0** which will not work with LOTF, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to **1.5.97.0** before you can proceed.
-
-- Download halgari's [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) from the Nexus (**Full Patcher**).
-- Extract the contents of the archive to a convenient location and run **Patcher.exe**.
-- It should find your Skyrim SE folder automatically and display the file path.
-- Click the green **Start Patching** button and wait for the process to complete.
-- When the tool returns `Finished Patching, enjoy your game!`, you can close it and proceed.
-
-![Skyrim SE Version Downgrade](/Pictures/lotf/installation/skyrim-se-downgrade.png)
 
 ## Wabbajack Installation
 
@@ -108,7 +105,7 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs), most of which you should not need to touch. The only one you may wish to customise is **Immersive HUD** (change the hotkey, or adjust the transparency of various HUD elements) which can be done anytime. The LOTF preset for the moreHUD MCM is applied automatically upon starting a new game.
+LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied for Immersive HUD and moreHUD so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
 There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
 
