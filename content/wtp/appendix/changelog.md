@@ -10,6 +10,9 @@ description: >
 
 > TBD
 
+- Better shadow INI settings (thanks SpringHeelJon!)
+- Replaced Boston FPS Fix with Previs Pack to eliminate crashes and improve performance in even more areas
+
 **Removal of CBBE and EVB:**
 
 I ended up removing the body replacers in this update. There is simply nothing I really need CBBE for and EVB male bodies do not have dismemberment support.
@@ -24,8 +27,10 @@ I realised that without the stat changes, there is no need to have separate Knig
 
 #### Mod Changes
 
+- Added Fallout Priority - F4SE Plugin (may be placebo)
 - Added NPC Drinking Fix
 - Added Fixed Textures for Mirelurk Egg Omelette
+- Added Institute Floor Fix
 - Added Automatron Load Screen Fix
 - Added No Crafting Experience
 - Added Base Scrap Is Not Junk Jet Ammo (custom)
@@ -45,6 +50,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added Immersive Mouth and Teeth
 - Added Valkyr Female Body Textures
 - Added Easy Hacking
+- Added Consume Without Pickup
 - Added Simple Wait Anywhere
 - Added Moonracer's Armor Overhaul
 - Added Some Assembly Required - Atom Cats CPAO Patch
@@ -52,16 +58,25 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added Locked Abraxo and Sugar Bombs Power Armor Paints
 - Added No PA Battery Pathing
 - Added Power Grid Tools
+- Added Improved Workshop Lights
+- Added Better Workshop Street Oil Lamps
+- Added DLC Light Radius Redux
+- Added Wasteland Workshop Street Lamp and Ceiling Light Fix
 - Added Better Generators (x2)
 - Added Tune the Radios
 - Added Shackin' Up - A Prefab Shack Mod
 - Added Whisper's Extra Pieces and Snaps
+- Added Snappable Junk Fences
+- Added No More Gaps Under Junk Fences
+- Added Graf's Security Fences
 - Added Craftable Turret Stands
 - Added Wall Oil Lamps
+- Added Better Workshop Street Oil Lamps - Wall Oil Lamps Patch
 - Added Pip-Boy Retextured
 - Added LOST Audio Tweaks - MWTCF DC Patch
 - Added Previs Repair Pack
 - Updated ENBSeries binaries (no version number change)
+- Updated xSE Plugin Preloader F4 to 0.2.5.1
 - Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
 - Updated High FPS Physics Fix to 0.8.4-5
@@ -69,7 +84,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Updated WET - Water Enhancement Textures to 2.0.4
 - Updated Retro Radio Replacer to 0.2
 - Updated Visible Idle Markers to 3
-- Updated BS Defence to 2.0
+- Updated BS Defence to 2.3
 - Updated LOST Audio Tweaks to 2
 - Updated AT - RAO and True Storms Patch to 2
 - Updated FO4Edit to 4.0.4
@@ -78,6 +93,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed Corpse Collision
 - Removed No Lockpick Activate (F4SE)
 - Removed Main Menu Music Replacer - Wandering The Foothills
+- Removed Vehicle Overhaul
 - Removed Really Red Rocket
 - Removed Authentic Hand-Made Weapons (removed from the Nexus)
 - Removed U.S. Covert Operations Manual - Magazine Retexture
@@ -98,6 +114,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed Main Quest Choices Extended
 - Removed Nuka World Collectable Quest Markers
 - Removed Corrunda's Red Rocket - Light and Curb Fix
+- Removed Fixed and Cleaned Homeplate
 - Removed Vault 88 Template - Optimised
 - Removed Workshop Re-arranged
 - Removed Grab The Damn Mag (not adding custom weapons)
@@ -109,7 +126,11 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Rebuilt all custom texture pack BA2s
 - Some retextures were increased from 2K to 4K
 - Packed up ADs 2X Rez HDTP in a BA2
+- Switched to the merged legendary patch version of Some Assembly Required
 - Heavily edited the CRP (many patches are now separate)
+- Disabled ambient occlusion in the Fallout4Prefs.ini (in favour of ENB AO)
+- Increased fBlendSplitDirShadow from 48 to 96 in Fallout4Prefs.ini
+- Increased iDirShadowSplits from 2 to 3 in Fallout4Prefs.ini
 - Now using the HighFPSPhysicsFix_custom.ini feature
 - My BAT files for testing are no longer included
 - Changed interface color to a muted green matching the Pip-Boy
@@ -117,6 +138,16 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added MO2 Loot Preventifier (plugin by LostDragonist)
 - Sort button above the load order in MO2 was removed
 - Installed NifSkope as an additional tool
+
+#### Website Changes
+
+- Removed the Resources section
+- Added the Documentation section
+- [Finalisation](/wtp/installation/finalisation/): Removed the LUTs section
+- [Finalisation](/wtp/installation/finalisation/): Removed VSYNC section (it is now always enabled as it should be)
+- [Finalisation](/wtp/installation/finalisation/): Updated the FPS Cap section including the screenshot
+- [Game Folder Files](/wtp/documentation/game-folder-files/): Updated the page with the latest additions and changes
+- [Texture Packs](/wtp/documentation/texture-packs/): Added overview over included textures in the five WTP repacks
 
 ## Release 1.6.3
 
