@@ -6,6 +6,23 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 1.6.1
+
+> 22/11/2021
+
+Quick update to fix issues with ENB, it should download properly now. Sorry for the inconvenience!
+
+#### Mod Updates
+
+- Compiled with and requiring SSE 1.6.323 (latest)
+- Updated ENBSeries binaries (no version number change)
+- Updated Charge Dialogue Fix to 1.2
+- Updated Assorted Mesh Fixes to 0.34
+
+#### Website Updates
+
+- **Installation:** Updated required version of SSE to 1.6.323 (latest)
+
 ## Release 1.6
 
 > 20/11/2021
