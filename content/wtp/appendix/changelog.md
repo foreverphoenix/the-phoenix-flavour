@@ -10,8 +10,15 @@ description: >
 
 > TBD
 
+- New lighting and ENB combination for more consistent visuals as well as brighter nights and interiors
 - Better shadow INI settings (thanks SpringHeelJon!)
-- Replaced Boston FPS Fix with Previs Pack to eliminate crashes and improve performance in even more areas
+- Replaced Boston FPS Fix with Previs Pack to eliminate some crashes and improve performance in even more areas
+
+**ENB and lighting changes:**
+
+In WTP 2.0, I removed [True Storms](https://www.nexusmods.com/fallout4/mods/4472), [True Nights](https://www.nexusmods.com/fallout4/mods/9253), and [Subtle ENB](https://www.nexusmods.com/fallout4/mods/5885). The decision was not easy as I have never really played Fallout 4 *without* True Storms, and I really love the murky nights with this combination of mods. Unfortunately, True Storms makes the game's lackluster occlusion effect (intended to prevent rain and fogs in interiors) even more noticable. I also had a ton of people complain about dark nights.
+
+With this update, WTP is switching to [Clarity](https://www.nexusmods.com/fallout4/mods/31991) for some fantastic all around improvements to visuals as well as the lightweight [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset. This combination also mostly replaced [Interiors Enhanced](https://www.nexusmods.com/fallout4/mods/8768) which means that interiors are a little brighter now.
 
 **Removal of CBBE and EVB:**
 
@@ -27,16 +34,22 @@ I realised that without the stat changes, there is no need to have separate Knig
 
 #### Mod Changes
 
+**New Additions**
+
+- Added FallOpt ENB
 - Added Fallout Priority - F4SE Plugin (may be placebo)
 - Added NPC Drinking Fix
 - Added Fixed Textures for Mirelurk Egg Omelette
 - Added Institute Floor Fix
 - Added Automatron Load Screen Fix
+- Added No Negative Affinity
+- Added No Negative Affinity DLC Patch
 - Added No Crafting Experience
 - Added No Holotape Tease - Texture Replacement
 - Added Base Scrap Is Not Junk Jet Ammo (custom)
 - Added NPC Protection Tweaks (custom)
 - Added Atmospheric Animated Menu Replacer (Night Version)
+- Added Clarity - A Visual Overhaul
 - Added NMC's Texture Bundle
 - Added Redder Red Rocket
 - Added Subway Transit Sign HD Texture
@@ -76,6 +89,9 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added Pip-Boy Retextured
 - Added LOST Audio Tweaks - MWTCF DC Patch
 - Added Previs Repair Pack
+
+**Updated Mods**
+
 - Updated ENBSeries binaries (no version number change)
 - Updated xSE Plugin Preloader F4 to 0.2.5.1
 - Updated Buffout to 1.24.5
@@ -87,13 +103,22 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Updated Visible Idle Markers to 3
 - Updated BS Defence to 2.3
 - Updated LOST Audio Tweaks to 2
-- Updated AT - RAO and True Storms Patch to 2
 - Updated FO4Edit to 4.0.4
+
+**Removed Mods**
+
+- Removed Subtle ENB
 - Removed Faster Workshop (replaced by Buffout and Configurable Hotkeys)
 - Removed Jamaica Plain Navmesh Fix (fix included in UFO4P)
 - Removed Corpse Collision
+- Removed No More Glowing Water Coolers (replaced by Clarity)
+- Removed Fixed Flickering Puddles (Clarity removes the puddles)
 - Removed No Lockpick Activate (F4SE)
+- Removed Depth of Field (DOF) Removal
 - Removed Main Menu Music Replacer - Wandering The Foothills
+- Removed True Storms - Wasteland Edition
+- Removed True Nights
+- Removed Interiors Enhanced
 - Removed Vehicle Overhaul
 - Removed Really Red Rocket
 - Removed Authentic Hand-Made Weapons (removed from the Nexus)
@@ -119,11 +144,14 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed Vault 88 Template - Optimised
 - Removed Workshop Re-arranged
 - Removed Grab The Damn Mag (not adding custom weapons)
-- Removed RAO - True Storms Patch (replaced by AT - RAO and TS Patch)
+- Removed RAO - True Storms Patch
 - Removed Game Configuration Menu (replaced with individual tweaks)
 - Removed Boston FPS Fix
 - Removed Boston FPS Fix - Hotfix for UFO4P 2.1.1a
 - Removed River Fix
+
+**Other Edits**
+
 - Rebuilt all custom texture pack BA2s
 - Some retextures were increased from 2K to 4K
 - Packed up ADs 2X Rez HDTP in a BA2
@@ -144,11 +172,15 @@ I realised that without the stat changes, there is no need to have separate Knig
 
 - Removed the Resources section
 - Added the Documentation section
+- Renamed the "Troubleshooting" page to "Known Issues"
 - [Finalisation](/wtp/installation/finalisation/): Removed the LUTs section
 - [Finalisation](/wtp/installation/finalisation/): Removed VSYNC section (it is now always enabled as it should be)
 - [Finalisation](/wtp/installation/finalisation/): Updated the FPS Cap section including the screenshot
 - [Game Folder Files](/wtp/documentation/game-folder-files/): Updated the page with the latest additions and changes
 - [Texture Packs](/wtp/documentation/texture-packs/): Added overview over included textures in the five WTP repacks
+- [Known Issues](/wtp/appendix/troubleshooting/): Added "Invisible Spouse" bug
+- [Known Issues](/wtp/appendix/troubleshooting/): Updated the "Flickering Puddles" bug, eliminated in WTP 2.0
+- [Known Issues](/wtp/appendix/troubleshooting/): Removed the "Nights are too dark" section (they are no longer as dark in WTP 2.0)
 
 ## Release 1.6.3
 

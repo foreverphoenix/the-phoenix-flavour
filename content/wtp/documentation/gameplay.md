@@ -14,19 +14,17 @@ In my changes for WTP, I have decided to stay faithful to the vanilla colours an
 
 ### Weather & Lighting
 
-Welcome to Paradise does not feature a fully-fledged weather overhaul, but it does include the popular [True Storms](https://www.nexusmods.com/fallout4/mods/4472) by fadingsignal to improve the various rain, dust, and rad storm variations that haunt the Commonwealth. You can view fadingsignal's own video showcase of his mod [here](https://www.youtube.com/watch?v=InJwn_Y71n8).
+Welcome to Paradise does not feature a fully-fledged weather overhaul, but it does include [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which improves various visual effects to be much more pleasing. Combined with the lightweight [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset, it constitutes a solid upgrade over vanilla without changing the original style.
 
-![Misty Rain](/Pictures/wtp/documentation/misty-rain.jpg)
+![WTP Day](/Pictures/wtp/documentation/wtp-day.jpg)
 
-I paired True Storms with [True Nights](https://www.nexusmods.com/fallout4/mods/9253) which gives nights in the Commonwealth an incredibly murky, moody atmosphere. Nights are darker than vanilla so remember to use your Pip-Boy flashlight which can be activated by pressing and holding the Pip-Boy button (TAB by default). However, nights should not be pitch-black (if they are, you may need to check your monitor configuration.)
+![WTP Dusk](/Pictures/wtp/documentation/wtp-dusk.jpg)
 
-Finally, I added the beautiful [Subtle ENB](https://www.nexusmods.com/fallout4/mods/5885) which looks particularly amazing with True Storms and True Nights, but does not majorly impact performance or deviate from the original look. I disabled the depth of field (DOF) effect so you don't blurred / out of focus during conversations. DOF is often not practical for gameplay in general.
-
-![Diner At Night](/Pictures/wtp/documentation/diner-at-night.jpg)
+![WTP Night](/Pictures/wtp/documentation/wtp-night.jpg)
 
 ### Landscape & Textures
 
-In keeping with the pledge to stick with the vanilla style, I added [Lush Landscapes](https://www.nexusmods.com/fallout4/mods/9292) (the "Dried" edition) as the grass overhaul which does a good job at improving vanilla's sparse vegetation. Water was greatly improved by [Water Enhancement Textures](https://www.nexusmods.com/fallout4/mods/20775) and [Wave Animation Vanilla Enhanced](https://www.nexusmods.com/fallout4/mods/41568). With [Vehicle Overhaul](https://www.nexusmods.com/fallout4/mods/18732) you will find a greater variety of pre-war cars and trucks around Boston.
+In keeping with the pledge to stick with the vanilla style, I added [Lush Landscapes](https://www.nexusmods.com/fallout4/mods/9292) (the "Dried" edition) as the grass overhaul which does a good job at improving vanilla's sparse vegetation. Water was greatly improved by [Water Enhancement Textures](https://www.nexusmods.com/fallout4/mods/20775) and [Wave Animation Vanilla Enhanced](https://www.nexusmods.com/fallout4/mods/41568).
 
 As for textures, Fallout 4 is limited in that it greatly favours files packed in BA2s (basically ZIP archives for the Creation Engine). A large amount of loose textures will noticably impact not only load times but also ingame performance. On the other hand, higher resolution textures are among the best visual improvements this game can receive.
 
@@ -36,9 +34,10 @@ You can find the full list of retextures featured in WTP [here](/wtp/wtp-resourc
 
 ## Gameplay Changes
 
-### Quality of Life
+WTP features a good amount of quality of life improvements. These include:
 
 - [Start Me Up](https://www.nexusmods.com/fallout4/mods/18946): The Basic version of this mod included in WTP allows you to skip the pre-war part of the Prologue.
+- [Consume Without Pickup](https://www.nexusmods.com/fallout4/mods/45072): Immediately use a Stimpak or eat the Radstag stew without having to pick them up first.
 - [Simple Wait Anywhere](https://www.nexusmods.com/fallout4/mods/55597): You only need to be out of combat to open the Wait menu. Sitting is no longer required.
 - [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093): Player automatically lowers their weapon when not in combat.
 
@@ -54,7 +53,7 @@ You can find the full list of retextures featured in WTP [here](/wtp/wtp-resourc
 
 ### Photo Mode
 
-WTP includes the amazing [Photo Mode](https://www.nexusmods.com/fallout4/mods/49997) by reg2k. It's the perfect tool for screenarchers, pause the game and find the perfect angle for a great picture. You can access it through ESCAPE menu or define a hotkey in the associated MCM (**P** by default).
+WTP includes the amazing [Photo Mode](https://www.nexusmods.com/fallout4/mods/49997) by reg2k. It's the perfect tool for screenarchers, pause the game and find the perfect angle for a great picture. You can access it through ESCAPE menu or define a hotkey in the associated MCM.
 
 ## Power Armor
 
@@ -117,7 +116,7 @@ The **Vault-Tec** paint job for the T-45, T-51, T-60, and X-01 power armors is s
 
 ### Other Changes
 
-[Power Armor Animation Changes](https://www.nexusmods.com/fallout4/mods/4408) makes entering and exiting your power armor out of combat much faster. Upon exiting your power armor frame, your fusion core will immediately be placed in your inventory thanks to [Take Your Cores](https://www.nexusmods.com/fallout4/mods/14773). This saves you from having to grab them manually. If you leave the cores in, NPCs like your settlers may decide to take your power armor for a walk and they don't always return it either.
+[Power Armor Animation Changes](https://www.nexusmods.com/fallout4/mods/4408) makes entering and exiting your power armor out of combat much faster. Upon exiting your power armor frame, your fusion core will immediately be placed in your inventory thanks to [Take Your Cores](https://www.nexusmods.com/fallout4/mods/14773). This saves you from having to grab them manually. If you leave the cores in, NPCs like your settlers may decide to take your power armor for a walk and they don't always return it either. [No PA Battery Pathing](https://www.nexusmods.com/fallout4/mods/33080) removes the dreaded struggle of getting behind your power armor and slotting in the fusion core which in vanilla, if you get stuck, lasts up to 16 seconds.
 
 ## Settlement Building
 
@@ -126,8 +125,20 @@ The building system was generally improved by the following mods:
 - [Place Everywhere](https://www.nexusmods.com/fallout4/mods/9424) removes the dreaded red outlines. You can now build anywhere and have much finer movement controls.
 - [New Infinite Settlement Budget Plugin](https://www.nexusmods.com/fallout4/mods/16939) significantly increases the building budget (so be careful).
 - [Visible Idle Markers](https://www.nexusmods.com/fallout4/mods/46453) helps prevent building objects on idle markers which NPCs would clip through to reach the marker.
+  
+**Building objects in settlements no longer grants XP.**
 
-> The more objects you place in a settlement (or technically the higher the overall polycount of all object gets), the more performance will degrade. With the expanded building budget it is now up to the player to using objects sparingly and mind the framerate.
+> The more objects you place in a settlement (or technically the higher the overall polycount of all object gets), the more performance will degrade. With the expanded building budget it is now up to the player to decorate carefully and mind the framerate.
+
+### Scrapping Machine
+
+The mod [Scrapping Machine](https://www.nexusmods.com/fallout4/mods/35793) adds some very useful ~~washing~~ scrapping machines that you can build in your workshop. Any junk items placed inside will be broken down into their base scrap. This is extremely useful because junk broken down for components when crafting or building may cause unused base scrap to be lost.
+
+![WTP Scrap 1](/Pictures/wtp/documentation/wtp-scrap-1.jpg)
+
+![WTP Scrap 2](/Pictures/wtp/documentation/wtp-scrap-2.jpg)
+
+![WTP Scrap 3](/Pictures/wtp/documentation/wtp-scrap-3.jpg)
 
 ## Keybinds
 
@@ -139,8 +150,9 @@ In the MCM for the [Configurable Hotkeys](https://www.nexusmods.com/fallout4/mod
 
 ### WTP Default Keybinds
 
-- **V** Toggle HUD (Immersive HUD)
-- **F8** Toggle Place Everywhere (Place Everywhere)
+- **V** Toggle HUD
+- **F1** Toggle Place Everywhere
+- **F2** Toggle Snapping (requires Place Everywhere mode to be on)
 
 ## New Content
 
@@ -176,6 +188,8 @@ Also by fadingsignal is the [Modular Military Backpack](https://fallout.fandom.c
 Note that the backpack will no longer be given to you upon leaving Vault 111 and it will not be distributed either. You can find a single one within Vault 111 that you can pick up at the start of the game.
 
 ## SPOILER SECTION
+
+**PLEASE DO NOT KEEP SCROLLING IF YOU DON'T WANT TO KNOW WHERE VARIOUS RARE ITEMS ARE FOUND.**
 
 ### X-01 Power Armor
 

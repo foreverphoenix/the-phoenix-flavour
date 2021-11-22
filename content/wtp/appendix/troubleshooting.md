@@ -1,10 +1,16 @@
 ---
-title: "Troubleshooting"
+title: "Known Issues"
 weight: 3
 type: docs
 description: >
-  Problems and how to solve them.
+  Bugs currently present in WTP.
 ---
+
+## Nate/Nora is invisible in the cryo pod
+
+When skipping the pre war prologue, you may find your spouse's body is invisible in their cryo pod. You can still interact with them to get their wedding ring. The problem is caused by Start Me Up and Previs Repair Pack and unfortunately I haven't yet figured out how to fix it. Either the way, it's a minor issue and definitely not gamebreaking.
+
+![Invisible Spouse](/Pictures/wtp/appendix/invisible-spouse.jpg)
 
 ## Getting stuck when interacting with a terminal
 
@@ -48,6 +54,4 @@ uPipboyTargetWidth=876
 
 This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), ~~but the bug still occurs and I'm honestly clueless.~~ I fixed the fix in WTP 1.6 and it should be fine now although the flickering does still seem to happen during rain storms for whatever reason.
 
-## Nights are too dark
-
-You can change (night) brightness in the ENB settings. Please refer to the sticky comment on the [True Nights](https://www.nexusmods.com/fallout4/mods/9253?tab=posts) mod page for instructions (note that in WTP the ENB GUI is opened with F11).
+Puddles were removed altogether by [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which was added in WTP 2.0 and should eliminate the issue for good.

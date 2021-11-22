@@ -31,15 +31,6 @@ The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is 
 
 - `tbbmalloc.dll`
 
-### F4 Creation Kit Fixes
-
-[F4 Creation Kit Fixes](https://www.nexusmods.com/fallout4/mods/51165) are mostly installed for my benefit for when I do have to hop into the CK.
-
-- `\Data\F4CKFixes\`
-- `fallout4_test.ini`
-- `tbb.dll`
-- `winhttp.dll`
-
 ### ENBSeries Binaries
 
 The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm) binaries, required for ENB presets to work.
