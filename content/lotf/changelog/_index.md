@@ -6,20 +6,55 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.0
+
+> TBD
+
+#### Mod Changes
+
+- Added Weather of World
+- Added Realistic Water Two
+- Added Blacksmith Forge Water Fix - Realistic Water Two Patch
+- Added Cathedral Snow
+- Added Nemesis Unlimited Behavior Engine
+- Added RaceMenu (only files required for XPMSSE)
+- Added XP32 Maximum Skeleton Special Extended
+- Added XP32 Maximum Skeleton Special Extended - Fixed Scripts
+- Added XPMSSE Weapon Styles Uncloaked
+- Added Simple Dual Sheath
+- Updated SSELODGen to Beta 85
+- Updated DynDOLOD to Alpha 56
+- Updated SSE Display Tweaks to 0.5.3b
+- Updated DynDOLOD Resources to Alpha 16
+- Updated Assorted Mesh Fixes to 0.34.1
+- Updated powerofthree's Tweaks to 1.4.1
+- Removed Picta Series - Improved Sky Meshes
+- Removed Cathedral Water Overhaul (replaced by RW2)
+- Removed Volcanic Tundra - Heat Wave Effects (replaced by RW2)
+- Installed XPMSSE version of Werewolf Claws Affect Spider Webs and moved it lower in the mod order
+- Moved Ambiance plugin lower in the load order
+- Moved Skyrim Realistic Overhaul BSAs below Project Clarity BSAs to overwrite
+- Reinstalled Majestic Mountains without the effect meshes
+- Resolved conflicts between new mods in the CRP
+- Generated Nemesis output
+- Regenerated terrain LOD with SSELODGen Beta 85
+
+---
+
 ## Release 1.6.1
 
 > 22/11/2021
 
 Quick update to fix issues with ENB, it should download properly now. Sorry for the inconvenience!
 
-#### Mod Updates
+#### Mod Changes
 
 - Compiled with and requiring SSE 1.6.323 (latest)
 - Updated ENBSeries binaries (no version number change)
 - Updated Charge Dialogue Fix to 1.2
 - Updated Assorted Mesh Fixes to 0.34
 
-#### Website Updates
+#### Website Changes
 
 - **Installation:** Updated required version of SSE to 1.6.323 (latest)
 
@@ -71,7 +106,7 @@ The Immersive HUD MCM is now automated for anyone starting a new game (it does n
 - Reduced size of map markers by 25%
 - Changed the Mod Organizer 2 executable icon
 
-#### Website
+#### Website Changes
 
 - **Installation:** Updated link to NVIDIA drivers to point to the English page rather than the German one
 - **Installation:** Added Microsoft .NET 5.0 to the requirements section
