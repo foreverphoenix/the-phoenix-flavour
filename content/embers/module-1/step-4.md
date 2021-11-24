@@ -14,9 +14,9 @@ A popular example of an SKSE-dependant feature is the **Mod Configuration Menu**
 
 ### SKSE and Skyrim Updates
 
-Any updates for Skyrim SE change the main executable, **SkyrimSE.exe**, which then requires Script Extender to be updated in turn. SKSE is **version dependant** and will *only* work with the specific version of Skyrim SE it was compiled for. For example, SKSE SE version `2.0.19` functions only with the last pre-Anniversary Edition version of Skyrim SE, `1.5.97.0`.
+Any updates for Skyrim SE change the main executable, **SkyrimSE.exe**, which then requires Script Extender to be updated in turn. SKSE is **version dependant** and will *only* work with the specific version of Skyrim SE it was compiled for. For example, SKSE SE version `2.0.20` functions only with the last pre-Anniversary Edition version of Skyrim SE, `1.5.97.0`.
 
-The new SKSE AE was made for the post-AE versions of Skyrim SE. For **Embers**, you are currently expected to run the latest Skyrim SE build, `1.6.318.0`, with the corresponding SKSE AE build `2.1.2`.
+The new SKSE AE was made for the post-AE versions of Skyrim SE. For **Embers**, you are currently expected to run the latest Skyrim SE build, `1.6.323.0`, with the corresponding SKSE AE build `2.1.3`.
 
 The issue of version dependancy does not only affect SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a *specific* version of SKSE to actually work, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
 
@@ -26,7 +26,9 @@ The issue of version dependancy does not only affect SKSE and the base game, but
 
 To fix the problem of SKSE and SKSE plugins breaking with every Skyrim update, **meh321** (the author of a number of groundbreaking mods) released [Address Library for SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/32444). It is a modder's resource allowing SKSE plugins to become version independent from SKSE by storing their offsets in a separate database instead. This has all but eliminated the problem of Skyrim updates: Since Address Library was released, the vast majority of SKSE plugins has been updated to utilise the resource and no longer requires a specific version of SKSE.
 
-However, **Address Library for SKSE** currently does not support any post-AE builds of Skyrim SE.
+Due to the substantial changes that were made to the SkyrimSE.exe in the AE update, patch `1.6.318.0`, there is now a new version of Address Library exclusively for SAE, covering versions `1.6.x`. Various SKSE plugins for SKSE AE were updated to use this version of Address Library.
+
+We will install Address Library after installing SKSE.
 
 ## Update Proofing
 
@@ -55,8 +57,8 @@ First up, we should check the current version of Skyrim SE:
 Now that we know which version of Skyrim SE we have installed, we know which version of SKSE to download:
 
 - Open the official [**Skyrim Script Extender**](https://skse.silverlock.org/) website, the only place where SKSE is distributed.
-- As you can see the current version of SKSE for AE, `build 2.1.2`, correlates with my current Skyrim version, `runtime 1.6.318`.
-- Download the 7z archive for Skyrim AE. 
+- The current version of SKSE for AE, `build 2.1.x`, should correlate with the current Skyrim SE version, `runtime 1.6.xxx`.
+- Download SKSE for Skyrim AE by clicking the **7z archive** link.
 
 > Make sure to grab the correct file. The classic, SE, or VR versions will not work with post-AE versions of Skyrim SE.
 
@@ -69,9 +71,11 @@ I personally keep the archives for the Script Extender (past and current version
 SKSE only functions properly if Skyrim SE is run through its executable, **skse_loader.exe**, meaning you can no longer click play in Steam or open the game through its launcher. This executable as well as the two SKSE DLLs must be in the same folder as the game executables, your **root folder**.
 
 - Open the downloaded archive and double-click the folder inside. There are a number of files and folders inside.
-- Extract **skse64_1_5_97.dll**, **skse64_loader.exe**, and **skse64_steam_loader.dll** to `\Mod Organizer 2\Stock Game\`.
+- Extract **skse64_1_6_xxx.dll**, **skse64_loader.exe**, and **skse64_steam_loader.dll** to `\Mod Organizer 2\Stock Game\`.
 
 The two text files are, as you can tell from the names, the readme and changelog. There is no need to extract them as well.
+
+> The exact file names may differ in the screenshot if SKSE updated in the meantime.
 
 ![SKSE Root Files](/Pictures/embers/module-1/skse-root-files.png)
 
@@ -110,38 +114,11 @@ Since one major advantage of MO2's virtual data folder is the ability to easily 
 - Double-click **SKSE Scripts** in your mod order.
 - Switch to the **Nexus Info** tab.
 
-When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file and MO2 has changed the Mod ID to `-1`. Under **Version**, you can now enter **2.1.2** (or whichever is the current SKSE version).
+When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file and MO2 has changed the Mod ID to `-1`. Under **Version**, you can now enter `2.1.3` (or whichever is the current SKSE version).
 
 After you close the window again, the version number will appear properly in the **Versions** column in the MO2 UI like it does for all mods that you will install in the future.
 
 ![SKSE Scripts Version](/Pictures/embers/module-1/skse-scripts-version.png)
-
-## Test Run
-
-Before we install some more SKSE-related mods, we should make sure SKSE is running properly. As mentioned earlier, Skyrim must be run through the SKSE executable for SKSE to work, that simply means that you need to double-click **skse64_loader.exe** instead of **SkyrimSE.exe** to play. It also means that you CANNOT launch the game through Steam anymore (if you want to play with SKSE and mods) since that starts the **SkyrimSELauncher.exe**.
-
-Additionally, we established that any tool as well as the game itself MUST be run through Mod Organizer 2 as they cannot otherwise access MO2's virtual data folder. They would simply read the actual **data folder** where no mods will be installed to. If we now ran SKSE outside of MO2, the game would launch, but the scripts would not be loaded as they are installed through MO2. Any mods installed later on that reference those scripts would *not* work.
-
-**Always start the game by running the Script Extender through Mod Organizer 2.**
-
-- Make sure the **SKSE Scripts** mod is checked in the left pane of Mod Organizer 2.
-- Select **SKSE** from the executables drop-down menu in Mod Organizer 2.
-- Click **Run** to launch the Skyrim Script Extender through Mod Organizer 2.
-
-![SKSE MO2 Launch](/Pictures/embers/module-1/skse-mo2-launch.png)
-
-Instead of opening the launcher, running the game through SKSE will bring you into the main menu directly.
-
-Once you're in the main menu, open the **console**, a dev tool that will be hugely important particularly for troubleshooting. You can bring it up by pressing the **tilde** key:
-
-![Tilde key](https://www.computerhope.com/cdn/keyboard/tilde.jpg)
-
-- In the console, type **skse** and hit Enter (capitalisation is irrelevant).
-- It should return the version of SKSE you just installed.
-- If everything works, close the console (press the **tilde** key again).
-- Quit the game.
-
-![SKSE Check Ingame](/Pictures/embers/module-1/skse-check-ingame-ae.jpg)
 
 ## SKSE INI
 
@@ -205,6 +182,58 @@ We will talk about the implications of missing masters and missing plugins later
 [General]
 EnableDiagnostics=1
 ```
+
+## Address Library
+
+Since the Script Extender is now installed, we should also install **Address Library for SKSE** which is a hard requirement for many SKSE plugins and essentially an extension of SKSE itself.
+
+- Open the Nexus page for [Address Library for SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/32444) and switch to the **Files** tab.
+- Locate the **All in one (Anniversary Edition)** main file and click the **Mod Manager Download** button to download through MO2.
+
+![Address Library Download](/Pictures/embers/module-1/address-library-download.png)
+
+This will now download the file through Mod Organizer 2 into the downloads folder we previously specified, `\Your Modding Folder\ARCHIVE\MO2 Downloads\`. After installing the mod, the downloaded archive will remain in that folder as a backup and so you can reinstall it at a later point.
+
+- In the right pane of Mod Organizer 2, switch to the **Downloads** tab.
+- Double-click the downloaded file.
+
+Before installing a mod, you can rename it. The name you enter here will correspond to the name of the folder that will be created for the mod under `\Mod Organizer 2\mods\` and show up in the mod order (left pane of MO2). I frequently rename mods, often to reflect the version I downloaded, so you may find that your mods are sometimes named differently than they are in my screenshots. This is purely a matter of test and my own obsession with a clean naming scheme.
+
+In the case of this mod, I did not adjust the name.
+
+- Click **OK** to install the mod.
+- It will now appear in your mod order. Check the box to activate it.
+
+![Address Library Installation](/Pictures/embers/module-1/address-library-installation.png)
+
+## Test Run
+
+Before we install some more SKSE-related mods, we should make sure SKSE is running properly. As mentioned earlier, Skyrim must be run through the SKSE executable for SKSE to work, that simply means that you need to double-click **skse64_loader.exe** instead of **SkyrimSE.exe** to play. It also means that you CANNOT launch the game through Steam anymore (if you want to play with SKSE and mods) since that starts the **SkyrimSELauncher.exe**.
+
+Additionally, we established that any tool as well as the game itself MUST be run through Mod Organizer 2 as they cannot otherwise access MO2's virtual data folder. They would simply read the actual **data folder** where no mods will be installed to. If we now ran SKSE outside of MO2, the game would launch, but the scripts would not be loaded as they are installed through MO2. Any mods installed later on that reference those scripts would *not* work.
+
+**Always start the game by running the Script Extender through Mod Organizer 2.**
+
+- Make sure all new SKSE-related mods are checked in the left pane of Mod Organizer 2.
+- Select **SKSE** from the executables drop-down menu in Mod Organizer 2.
+- Click **Run** to launch the Skyrim Script Extender through Mod Organizer 2.
+
+![SKSE MO2 Launch](/Pictures/embers/module-1/skse-mo2-launch.png)
+
+Instead of opening the launcher, running the game through SKSE will bring you into the main menu directly.
+
+Once you're in the main menu, open the **console**, a dev tool that will be hugely important particularly for troubleshooting. You can bring it up by pressing the **tilde** key:
+
+![Tilde key](https://www.computerhope.com/cdn/keyboard/tilde.jpg)
+
+- In the console, type **skse** and hit Enter (capitalisation is irrelevant).
+- It should return the version of SKSE you just installed.
+- If everything works, close the console (press the **tilde** key again).
+- Quit the game.
+
+> Version in the screenshot may differ from yours if SKSE updated in the meantime.
+
+![SKSE Check Ingame](/Pictures/embers/module-1/skse-check-ingame-ae.jpg)
 
 ---
 

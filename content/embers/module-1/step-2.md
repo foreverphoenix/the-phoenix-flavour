@@ -26,6 +26,17 @@ Your mod manager is the heart and soul of your setup. The steps you go through i
 
 > The MO2 vs Vortex question is hotly debated in the community. In my personal opinion, there are many good reasons for using Vortex nowadays. However, I also believe that its approach to load and mod order management is critically flawed. In addition to that, many quality of life features that I use daily in Mod Organizer 2 are missing altogether. This is why **Embers** is built around Mod Organizer 2.
 
+## Visual C++ Redist
+
+The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
+
+- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
+- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
+- Download the following file: `vc_redist.x64.exe`.
+- Run the executable, it will guide you through the installation process.
+
+![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
+
 ## Nexus Mods
 
 The vast majority of mods and tools (including Mod Organizer 2) are hosted on [Nexus Mods](https://www.nexusmods.com/). The Nexus supports hundreds of games, but it should come as no surprise that the six games with the most downloads in total (by a wide margin) are the most recent Bethesda games. You will download many files from various Nexus pages over the coming lessons and we will also talk about the site in general. In order to download mods, you must have an account.

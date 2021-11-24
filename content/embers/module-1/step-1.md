@@ -8,29 +8,21 @@ description: >
 
 ## Skyrim
 
-First we need ... Skyrim.
+**Embers** is a guide for and requires a Steam copy of [Skyrim Special Edition](https://store.steampowered.com/app/489830/). Whether you own the Anniversary Edition DLC is irrelevant.
 
-But which Skyrim? The game was released and re-released so many times that anyone could be forgiven for getting confused. But for modding, the specific release of Skyrim and the version number are extremely relevant.
+There are a number of  notable differences between the various versions of Skyrim that have been released since 2011 which are important to be aware of when modding the game. The most substantial change came in 2016 when the remastered **Skyrim Special Edition** (SSE) was released, featuring a 64bit engine upgrade with far-reaching consequences for the modding community. Most mods created for **Classic Skyrim** (the 2011 version with the 32bit engine) need to be ported before they can be used safely in SSE.
 
-With the 2016 remaster, **Skyrim Special Edition** or SSE, the game's engine received a major overhaul. It was upgraded from 32bit to 64bit, massively improving its stability (alongside other changes that we will touch on later). Most mods from the 2011 version of the game are not automatically compatible with the 2016 remaster.
+Arguably the most important tool for modding is the **Skyrim Script Extender** (SKSE) which needed a full rewrite for Skyrim SE. Without SKSE, many of the best mods out there will straight up not work. Different versions of SKSE are now available for Classic Skyrim, Skyrim SE, Skyrim VR, and Skyrim AE.
 
-More importantly than that, Skyrim SE requires a different version of the **Skyrim Script Extender**. Without SKSE, many of the best mods out there will straight up not work, so using a version of Skyrim supported by SKSE is a top priority. Variants of SKSE exist for the **Steam** versions of Classic Skyrim, Skyrim SE, Skyrim VR, and Skyrim AE (Anniversary Edition).
+> SKSE is not compatible with the PC Xbox Game Pass version of Skyrim SE; hence, a Steam copy is required.
 
-### Classic Skyrim or Skyrim SE?
+Although the modding scene for Skyrim SE had a slow start, it has grown massively since 2016. Nowadays, many mods are developed exclusively for SSE and the most exciting new releases are usually exclusive to SSE as well. Due to this and the stability improvements that the engine upgrade provided, SSE is the superior option for modding today.
 
-When Skyrim SE initially released back in 2016, it didn't look like the modding community was going to move on as many baseline mods, including SKSE, needed full rewrites. However, Skyrim SE with its engine upgrade and improved stability was vastly more pleasant to mod and eventually all essential mods were ported to SSE.
+**Skyrim Anniversary Edition** (SAE) was released in 2021 as an update for Skyrim SE. The Anniversary Edition DLC has to be purchased separately, but the patch that accompanied it was applied to all SSE installations. Mods function the same in SAE as in SSE, although SKSE needed to be partially rewritten so that there is now a version of SKSE for AE in addition to the one for SSE.
 
-Nowadays, the modding community has overwhelmingly moved on to SSE. Many mods are developed exclusively for this version and the most exciting new releases are usually exclusive to SSE.
+While currently there are no advantages in using Skyrim SE `1.6.x` (post-AE versions) over Skyrim SE `1.5.97.0` (pre-AE version), mods are usually developed for the latest version available, meaning that in time the community will move on to post-AE versions of Skyrim. This is why **Embers** was written for the post-AE versions as well.
 
-### Skyrim SE or Skyrim AE?
-
-Skyrim Anniversary Edition is not a new version of Skyrim as such. It is not a new game in the Steam library, there were no engine changes, and the vast majority of mods does not require porting. SAE itself is simply a DLC with Creation Club content for Skyrim Special Edition that was accompanied by a free patch for all SSE owners. 
-
-This free patch means of course that an SKSE update was required. A new Anniversary Edition Script Extender was released that is support Skyrim Special Edition releases from patch `1.6.318.0` onwards. However, this SKSE AE can be used by any SSE owner playing SSE with the latest patch regardless of whether they own the Anniversary Edition DLC.
-
-### Required for Embers
-
-**Embers** is a guide for and thus requires [Skyrim Special Edition](https://store.steampowered.com/app/489830/). Whether you own the Anniversary Edition DLC is irrelevant, but it must be a Steam copy. SKSE is not compatible with the Xbox Game Pass version of Skyrim SE and Skyrim VR uses a different version of SKSE.
+> If you want to know more about the various releases and re-releases of Skyrim, check the [Skyrim Versions](/other-resources/skyrim-versions/) article.
 
 ## Modding Folder
 
@@ -130,6 +122,8 @@ At this point, we should see if Skyrim launches properly. Running the game once 
 - The registry keys will be set up which is required for modding tools to recognise your installation.
 - Certain issues with your vanilla game can be detected now.
 
+> Always remember to launch Skyrim once after updating or re-installing it, or after verifying game files.
+
 In Steam, click the big green **PLAY** button to open the launcher.
 
 - A message box will pop up, informing you that Skyrim SE will now be configured based on your hardware.
@@ -146,7 +140,7 @@ In Steam, click the big green **PLAY** button to open the launcher.
 
 If you own any Creation Club content, through AE or otherwise, it will have been redownloaded along with the base game.
 
-For all intents and purposes, creations are just mods. They can interact with mods and cause the same kind of compatibility issues that mods can cause with each other. Additionally, you may want to pick and choose from them just like you pick and choose your mods.
+For all intents and purposes, creations are just mods. They can interact with mods and cause the same kind of compatibility issues that mods can cause with each other. You will likely want to pick and choose from them just like you pick and choose your mods.
 
 For now I highly recommend removing the creations from your data folder and backing them up elsewhere. You will be able to reinstall them later on in a much more convenient and controlled fashion.
 

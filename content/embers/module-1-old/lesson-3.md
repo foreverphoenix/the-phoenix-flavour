@@ -30,7 +30,7 @@ Some of its features include:
 
 Before we grab the main file, we should install the preloader:
 
-- From the [**SSE Engine Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 2)** main file (click the **Manual Download** button).
+- From the [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 2)** main file (click the **Manual Download** button).
 - Open the downloaded archive and extract all three plugins (DLLs) into your **root folder**.
 
 ![SKSE Preloader Installation](/Pictures/embers/module-1/skse-preloader-installation.png)
@@ -39,14 +39,14 @@ Before we grab the main file, we should install the preloader:
 
 With the required preloader in place, we can now install the other main file. Since this one does belong into the **data folder** we can use Mod Organizer 2 as usual.
 
-- From the [**SSE Engine Fixes**](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 1)** main file (click the **Mod Manager Download** button).
+- From the [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod page, download the **(Part 1)** main file (click the **Mod Manager Download** button).
 - Click **Download** button again in the **Mod Requirements** window (all dependencies are already installed).
 - In Mod Organizer 2, find the downloaded file in the **Downloads** tab and double-click it to install.
 - The new mod will now appear at the bottom of your mod order. Check the box to activate it.
 
 ### Configuration
 
-Like many other SKSE plugins, SSE Engine Fixes can be customised through a configuration file (though it is a [**TOML**](https://en.wikipedia.org/wiki/TOML) file instead of [**INI**](https://en.wikipedia.org/wiki/INI_file)).
+Like many other SKSE plugins, SSE Engine Fixes can be customised through a configuration file (though it is a [TOML](https://en.wikipedia.org/wiki/TOML) file instead of [INI](https://en.wikipedia.org/wiki/INI_file)).
 
 - In Mod Organizer 2, double-click **SSE Engine Fixes** in your mod order.
 - Switch to the **Text Files** tab.
@@ -63,7 +63,7 @@ Here you can see a long list of various fixes and tweaks that are part of the mo
 
 Here are two tweaks that I personally enable:
 
-**DisableChargenPrecache** prevents slowdowns and crashes in the character creation menu in heavily modded setups. This fix is already included in [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080), a very popular UI overhaul of the character creation menu which is also required for the number one skeleton replacer. Almost everyone uses RaceMenu so they do not need to use the precache killer in Engine Fixes. But since I skip RaceMenu in my personal setup, I do enable it.
+**DisableChargenPrecache** prevents slowdowns and crashes in the character creation menu in heavily modded setups. This fix is already included in [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080), a very popular UI overhaul of the character creation menu which is also required for the number one skeleton replacer. Almost everyone uses RaceMenu so they do not need to use the precache killer in Engine Fixes. But since I skip RaceMenu in my personal setup, I do enable it.
 
 **SleepWaitTime** speeds up the wait menu. When you press T to wait in vanilla, the hours tick down slowly, and especially for mod testing this can sometimes be a little frustrating.
 
@@ -145,7 +145,7 @@ In addition, we are going to install four more mods to serve as examples in the 
 
 What SSE Engine Fixes is for engine bugs, the **Unofficial Skyrim Special Edition Patch** is for the rest of the game. Usually shortened to **USSEP**, it fixes a ton of various issues and serves as the base for most modded setups. Some of its changes have been controversial, but considering how deeply embedded the USSEP is in the general modding scene with countless mods directly requiring it, installing it is highly recommended.
 
-- Download and install the latest main file of the [**Unofficial Skyrim Special Edition Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/266).
+- Download and install the latest main file of the [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266).
 
 After installing and activating the USSEP, you will notice that it is different from the other mods we installed so far. In a way, it is the first "regular" mod that we installed: As you can see in the **Contents** column in Mod Organizer 2, it contains multiple file types, including a plugin. This plugin should now also show up in the right pane, the load order. We will take a closer look at all of the USSEP's files very soon, but for now there are a few more mods to be installed first.
 
@@ -181,7 +181,7 @@ In addition to overhauling the interface, SkyUI also adds the **Mod Configuratio
 
 It is because of the Mod Configuration Menus that SkyUI must be considered an essential mod.
 
-- Download and install the latest main file of [**SkyUI**](https://www.nexusmods.com/skyrimspecialedition/mods/12604).
+- Download and install the latest main file of [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604).
 
 > If you are on an ultrawide monitor (21:9 resolution), you will need an additional patch from [this mod page](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Be sure to grab the one for SkyUI 5.2 SE Alpha.
 
