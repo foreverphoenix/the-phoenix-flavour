@@ -24,9 +24,10 @@ description: >
 - Added Simple Dual Sheath
 - Updated SSELODGen to Beta 85
 - Updated DynDOLOD to Alpha 56
-- Updated SSE Display Tweaks to 0.5.3b
+- Updated SSE Display Tweaks to 0.5.5b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.6
 - Updated DynDOLOD Resources to Alpha 16
-- Updated Assorted Mesh Fixes to 0.34.1
+- Updated Assorted Mesh Fixes to 0.35.1
 - Updated powerofthree's Tweaks to 1.4.1
 - Removed Picta Series - Improved Sky Meshes
 - Removed Cathedral Water Overhaul (replaced by RW2)
