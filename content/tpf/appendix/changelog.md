@@ -6,6 +6,78 @@ description: >
   For all versions since the Github release (4.0 and later).
 ---
 
+## Release 5.0
+
+> TBD
+
+**New features:**
+
+- Major rewrites and many updates as well as new and improved screenshots for the entire guide.
+- **Stock Game Folder:** Self-contained setup that will not affect or interact with your default root folder in any way.
+- **ESM Cleaning:** No longer part of the guide as it is largely unnecessary even for demonstration purposes.
+
+#### Initial Setup
+
+- Pages were renamed to be prefixed with **Step X**. Their URLs were shortened to `/tpf/initial-setup/step-x/`.
+- [Prerequisites](/tpf/initial-setup/step-1/): Moved Visual C++ Redists section to Requirements.
+- [Prerequisites](/tpf/initial-setup/step-1/): Added Microsoft .NET 5.0 Runtime section to Requirements.
+- [Prerequisites](/tpf/initial-setup/step-1/): Simplified the instructions for a dedicated modding folder.
+- [Skyrim and Steam](/tpf/initial-setup/step-2/): Updated installation instructions (the location no longer matters due to using Stock Game folder).
+- [Skyrim and Steam](/tpf/initial-setup/step-2/): Moved first launch / regenerating INIs step here.
+- [Skyrim and Steam](/tpf/initial-setup/step-2/): Removed the Version Number section for Stock Game folder / SAE.
+- [Skyrim and Steam](/tpf/initial-setup/step-2/): Removed Executables Backup section (no longer important with Stock Game folder).
+- Swapped around the **Mod Organizer 2** and **Creation Kit** steps.
+- [Mod Organizer 2](/tpf/initial-setup/step-3/): Now using the installer version of MO2 instead of the archive one.
+- [Mod Organizer 2](/tpf/initial-setup/step-3/): Rephrased and changed many parts of this page. Added / replaced some screenshots.
+- [Mod Organizer 2](/tpf/initial-setup/step-3/): Added preview and hex codes for my personal MO2 separator colour palette.
+- Added the new **Stock Game Folder** page.
+- [The Creation Kit](/tpf/initial-setup/step-5/): Updated installation instructions (now installing into the Stock Game folder).
+- [Skyrim Script Extender](/tpf/initial-setup/step-6/): Updated and simplified SKSE installation instructions.
+- [Skyrim Script Extender](/tpf/initial-setup/step-6/): Now creating the SKSE.ini manually.
+- [INI Files](/tpf/initial-setup/step-7/): Removed the Generate Fresh INI Settings section (part of Skyrim and Steam now).
+- [INI Files](/tpf/initial-setup/step-7/): Setting *Shadow Bias* to 0.3 instead of 0.7 in BethINI.
+- [INI Files](/tpf/initial-setup/step-7/): Removed *Contrast* INI tweak (largely irrelevant with ENB).
+- [Additional Tools](/tpf/initial-setup/step-8/): Added Stock Game folder section to the SSEEdit instructions.
+- [Additional Tools](/tpf/initial-setup/step-8/): Reworked the arguments instructions for SSEEdit.
+- [Additional Tools](/tpf/initial-setup/step-8/): Now using the latest version of CAO (5.3.x).
+- Removed the **ESM Cleaning** page entirely (it is ultimately unnecessary).
+
+#### Mod Installation
+
+On account of the fact that so much changed in this section, I have only documented added and removed mods. Download instructions and file names were updated for most mods and many additional instructions changed. The mod installation pages were split up into four parts with some substantial changes compared to TPF 4.x versions.
+
+In addition, all file names for the separate pages were edited which also affects their URLs. They are now sorted correctly for me in the backend as opposed to being in a random order.
+
+**Added in TPF 5.0:**
+
+- powerofthree's Papyrus Extender
+- SSE Display Tweaks - Custom INI
+- WACCF Tweaks
+- SkyUI Ghost Item Bug Fix
+- Animated Static Reload Fix
+- Forget Spell
+- High Gate Ruins Puzzle Reset Fix
+- Ulfric, Tullius, Give Me A Break
+- Stamina of Steeds
+- Butterflies Land True
+- Butterflies Unchained
+- Oxygen Meter
+- Weather of World
+- CoMAP - Common Marker Addon Project
+- SmoothCam
+- iHUD - SmoothCam Automated Compatibility Patch
+- Modern Toggle Walk-Run Fix
+- ACE Tweaks
+
+**Removed in TPF 5.0:**
+
+- FileAccess Interface for Skyrim Scripts
+- Hank's Gamepad and Controller Fixes
+- Disable Follower Collision (part of I'm Walkin' Here)
+- SMIM - Assorted Mesh Fixes Patch (redundant)
+- Wiseman303's Flora Fixes - Revamped - SMIM Patch (redundant)
+- Tweaks for WACCF and ACE
+
 ## Release 4.8
 
 > 18/09/2021
@@ -16,7 +88,7 @@ With this update, I am finally switching over TPF WJ to the brilliant stock game
 
 All tools are also once again included with the WJ installation.
 
-The remaining changes in this update are rather minor. NifSkope is now being used to edit a few meshes (although those edits were marked as optional) and I updated 
+The remaining changes in this update are rather minor. NifSkope is now being used to edit a few meshes (although those edits were marked as optional).
 
 **This update is save-safe.** It's primarily a major release because of the structural changes (which largely affect the WJ users and myself).
 

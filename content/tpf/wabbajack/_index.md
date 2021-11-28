@@ -1,6 +1,6 @@
 ---
 title: "Wabbajack"
-weight: 6
+weight: 11
 type: docs
 description: >
   Setup instructions for the Wabbajack version of TPF.

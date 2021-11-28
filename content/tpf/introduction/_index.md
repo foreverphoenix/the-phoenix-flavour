@@ -4,7 +4,7 @@ weight: 1
 type: docs
 no-list: true
 description: >
-  Welcome to The Phoenix Flavour, a Vanilla-plus modding guide for Skyrim SE.
+  Welcome to The Phoenix Flavour, a modding guide for Skyrim SE.
 ---
 
 ## PLEASE READ THIS FIRST

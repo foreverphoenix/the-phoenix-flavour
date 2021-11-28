@@ -1,6 +1,6 @@
 ---
 title: "TPF Addons"
-weight: 9
+weight: 14
 type: docs
 description: >
   Expansions and tweaks of the original setup.

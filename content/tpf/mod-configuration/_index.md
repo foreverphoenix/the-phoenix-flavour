@@ -1,6 +1,6 @@
 ---
 title: "Mod Configuration"
-weight: 5
+weight: 10
 type: docs
 description: >
   Recommended MCM instructions.
