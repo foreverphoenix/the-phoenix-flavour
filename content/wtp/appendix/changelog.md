@@ -10,9 +10,13 @@ description: >
 
 > TBD
 
-- New lighting and ENB combination for more consistent visuals as well as brighter nights and interiors
-- Better shadow INI settings (thanks SpringHeelJon!)
-- Replaced Boston FPS Fix with Previs Pack to eliminate some crashes and improve performance in even more areas
+Welcome to Paradise 2.0 goes back to the roots. The list was refocused to vanilla improvements with a great deal of sorely needed backend changes, including a full rebuild with detailed documentation of all changes in Mod Organizer 2. All lingering issues and annoyances from previous versions (that I know of) were eliminated with the result being an overall more consistent, polished experience.
+
+- New lighting and ENB combination for more consistent visuals as well as brighter nights and interiors.
+- Better shadow INI settings to reduce pop-in and blurry shadows (thanks SpringHeelJon!).
+- Replaced Boston FPS Fix with Previs Pack to eliminate some crashes and improve performance in even more areas.
+- Replaced Workshop Re-arranged with smaller, more managable workshop additions.
+- New retextures, most of which were added to the WTP texture packs for better performance.
 
 **ENB and lighting changes:**
 
@@ -63,7 +67,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added CC's UHD Bloatflies - Reimagined
 - Added Immersive Mouth and Teeth
 - Added Valkyr Female Body Textures
-- Added Easy Hacking
+- Added Easy Lockpicking and Hacking
 - Added Consume Without Pickup
 - Added Simple Wait Anywhere
 - Added Moonracer's Armor Overhaul
@@ -115,6 +119,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed Fixed Flickering Puddles (Clarity removes the puddles)
 - Removed No Lockpick Activate (F4SE)
 - Removed Depth of Field (DOF) Removal
+- Removed Valdacil's Item Sorting - Perks
 - Removed Main Menu Music Replacer - Wandering The Foothills
 - Removed True Storms - Wasteland Edition
 - Removed True Nights
@@ -134,6 +139,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed CBBE Ida Body Texture
 - Removed Enhanced Vanilla Bodies
 - Removed Auto Hack
+- Removed Auto Lockpicking
 - Removed Better Explosives Redux (too overpowered)
 - Removed Unique X-01
 - Removed No Quest Autostart - BOS Fire Support
