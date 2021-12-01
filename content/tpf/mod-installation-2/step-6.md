@@ -1,60 +1,33 @@
 ---
-title: "Trees & Plants"
-weight: 11
+title: "Step 6: Trees, Grass, Plants"
+weight: 6
 type: docs
 description: >
-  Better meshes and textures for flora plus new variations.
+  Various flora mods.
 ---
 
-##### [Enhanced Vanilla Trees (EVT)](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files)
+##### [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Enhanced Vanilla Trees SE-Lush Trees
+- **Main Files:** Happy Little Trees
 
 #### FOMOD Instructions
 
-- **Mesh Tint Options:** Darker
-- **Tree Options:** Lush Trees (small)*
-- **Vanilla Pine Branch Textures:** SFO v2
-- **Vanilla Snow Pine Branch Textures:** Alternate SFO Snowy Branches
-- **Miscellaneous:**
-  - Enhanced Tree Clutter*
-  - Firewood*
-  - ~~Hi-Res Aspen Bark~~
-  - ~~SFO Aspen Branches*~~
-- **Alternative Trees:**
-  - ~~Realistic Aspen Trees~~
-  - ~~SFO Snowy Pine Trees~~
+- **Trees:** All Trees
+- **Add on:** ~~Tree size~~
 
-#### Additional Instructions
-
-- ESL-ify **Enhanced Vanilla Trees SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
-
-##### [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890?tab=files)
+##### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** ESRGAN TREE BARK
+- **Main Files:** Happy Little Trees - Better Dynamic Ash Patch
 
-##### [Reach Trees Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/52614?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Reach Trees Enhanced - No Parallax
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\`
-
-> These meshes are part of Fixed Mesh Lighting and should not be overwritten.
-
-##### [Spooknik's Tundra Trees](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+##### [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Spooknik's Tundra Trees
+- **Main Files:** Happy Little Trees 3D LOD - Quality
 
 ##### [Canticle Tree and Bark](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
 
@@ -99,23 +72,14 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 - **Main Files:** Veydosebrom Regions
-- **Optional Files:** Fall Forest - Regional Vegetation Pack
 
-#### FOMOD Instructions - Main File
+#### FOMOD Instructions
 
 - **Mod Manager:** Mod Organizer 2
 - **Options:** Fresh Install
 - **Vegetation Quality:** Standard Quality
 - **Style:** Dense Landscape
 - **Choose Your INI:** Default
-
-#### FOMOD Instructions - Fall Forest
-
-- **Vegetation Quality:** Standard Quality
-- **Vegetation Options:** Thickets and Shrubs
-- **Vegetation Size:** Medium
-- **Vegetation Color:** Saratoga and Chino
-- **Fallen Leaves Color:** Monarch
 
 #### Additional Instructions
 
@@ -146,6 +110,12 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - Delete the following file(s) and / or folder(s):
   - `QW's Grass Patch.ini`
+
+##### [Unique Solstheim Grass](https://www.nexusmods.com/skyrimspecialedition/mods/34581?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 1-Unique Solstheim Grass
 
 ##### [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files)
 
@@ -190,7 +160,7 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Bonus Stuff:** CLOVER PATCH FOREST GRASS (WITH EWI'S HIGH-RES RETEXTURE)
 
-> Fixes the overly bright clovers, see [this comparison](https://imgsli.com/NjU0NTc).
+> Mostly fixes the overly bright clovers, see [this comparison](https://imgsli.com/NjU0NTc).
 
 ![Download Mindflux Clovers](/Pictures/tpf/mod-installation/download-mindflux-clovers.png)
 
@@ -323,12 +293,6 @@ Edit the following files:
 - `meshes\plants\glowingmushroomcluster01.nif`
 - `meshes\plants\glowingmushroomsingle01.nif`
 
-##### [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179?tab=files)
-
-#### Download Instructions 
-
-- **Main Files:** Rallys Blackreach Mushroom - 2K
-
 ##### [High Poly Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40418?tab=files)
 
 #### Download Instructions
@@ -365,16 +329,6 @@ Edit the following files:
 
 - **Optional Files:** 2K Soul Husk for wSkeever High Poly Soul Husk
 
-#### Additional Instructions
-
-- Downsize the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
-
-##### [Unique Solstheim Grass](https://www.nexusmods.com/skyrimspecialedition/mods/34581?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 1-Unique Solstheim Grass
-
 ##### [Rally's Solstheim Plants](https://www.nexusmods.com/skyrimspecialedition/mods/35081?tab=files)
 
 #### Download Instructions
@@ -395,3 +349,7 @@ Edit the following files:
 #### Download Instructions
 
 - **Main File:** Scathecraw HD 2K
+
+---
+
+#### Continue with the [Appearance](/tpf/mod-installation-2/step-7/) page.

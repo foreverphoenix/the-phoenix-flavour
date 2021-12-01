@@ -6,59 +6,6 @@ description: >
   Retextures for buildings and elements unique to certain cities.
 ---
 
-##### [True Nordic Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/38150?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** True Nordic Farmhouses - Standard
-
-#### Additional Instructions
-
-- Delete the following file(s) and/or folder(s):
-  - `meshes\`
-  - `textures\architecture\farmhouse\stonewall01.dds`
-  - `textures\architecture\farmhouse\stonewall01_n.dds`
-
-> The low stone walls will be covered by another mod later on. The farmhouse walls doesn't look quite right in my opinion and by removing it, the game will revert to the Noble Skyrim textures which blends in better.
-
-
-
-##### [Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Shingles - Alpha Patch
-
-##### [Skyland Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/13015?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Skyland - Whiterun
-* **Optional Files:** Skyland - Whiterun Cobblestone >> `merge with the main file`
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\architecture\whiterun\wrskyforge01.dds`
-  - `textures\architecture\whiterun\wrskyforge01_n.dds`
-
-##### [Skyland Whiterun - SMIM Wood Color Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36803?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Skyland Whiterun - SMIM wood color patch SE
-
-##### [3D Whiterun Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/41801?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** 3D Whiterun Trellis v1.1
-
-##### [Riften in High Definition](https://www.nexusmods.com/skyrimspecialedition/mods/20296?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Riften in High Definition 2K
 
 ##### [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099?tab=files)
 

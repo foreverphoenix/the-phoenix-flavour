@@ -6,6 +6,19 @@ description: >
   Smaller, mostly plugin-based mods to fix bugs and tweak minor annoyances.
 ---
 
+##### [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Landscape Fixes For Grass Mods
+- **Optional Files:** z Vanilla Military Camps
+
+##### [No Grass In Caves](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** No Grass In Caves
+
 ##### [Labyrinthian Shalidor's Maze Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52239?tab=files)
 
 #### Download Instructions
@@ -71,7 +84,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Dawnguard Dont Hunt Cured Vampires.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Dawnguard Dont Hunt Cured Vampires.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Charge Dialogue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/17716?tab=files)
 
@@ -81,7 +94,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Ulfric ... Tullius ... Give Me A Break](https://www.nexusmods.com/skyrimspecialedition/mods/51221?tab=files)
 
@@ -143,7 +156,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Runandwalkpaces.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Runandwalkpaces.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Move It Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/752?tab=files)
 
@@ -157,7 +170,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Move it Dammit.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Move it Dammit.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [No More Standing Too Close](https://www.nexusmods.com/skyrimspecialedition/mods/4784?tab=files)
 
@@ -167,7 +180,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **No More Standing Too Close SSE 1-0.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **No More Standing Too Close SSE 1-0.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717?tab=files)
 
@@ -177,7 +190,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Realistic-Voice.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Realistic-Voice.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [No NPC Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1044?tab=files)
 
@@ -191,7 +204,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **No NPC Greetings.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **No NPC Greetings.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Don't Talk With Your Mouth Full](https://www.nexusmods.com/skyrimspecialedition/mods/17715?tab=files)
 
@@ -201,7 +214,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Don'tTalkWithYourMouthFull.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Don'tTalkWithYourMouthFull.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Followers Don't Draw Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/3870?tab=files)
 
@@ -211,7 +224,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **Followers Don't Draw Weapons.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **Followers Don't Draw Weapons.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Stamina of Steeds](https://www.nexusmods.com/skyrimspecialedition/mods/58742?tab=files)
 
@@ -227,7 +240,7 @@ Delete the following file(s) and / or folder(s):
 
 #### Additional Instructions
 
-- ESL-ify **SimplySmallerWolfs2.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+ESL-ify **SimplySmallerWolfs2.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434?tab=files)
 
@@ -243,4 +256,4 @@ Delete the following file(s) and / or folder(s):
 
 ---
 
-#### Continue with the [Interface](/tpf/mod-installation-basics/step-5/) page.
+#### Continue with the [Interface](/tpf/mod-installation-1/step-5/) page.

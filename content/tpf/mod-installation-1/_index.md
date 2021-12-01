@@ -1,5 +1,5 @@
 ---
-title: "Mod Installation: Basics"
+title: "Mods: Basics"
 weight: 4
 type: docs
 description: >

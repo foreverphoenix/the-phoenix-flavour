@@ -64,6 +64,21 @@ In addition, all file names for the separate pages were edited which also affect
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
+- Embers XD
+- ENB Lights For Effect Shaders
+- Player Spell (and Weapon) Lighting for Vanilla and ENB
+- Majestic Landscapes - Snow
+- Simplicity of Snow
+- Simplicity of Snow - Blended Roads Patch
+- Northfire's Skidmarks
+- Skyland - A Landscape Texture Overhaul
+- Lanterns of Skyrim
+- Waymark - A Road Signs Mod
+- Happy Little Trees
+- Happy Little Trees - Better Dynamic Ash Patch
+- Happy Little Trees Add-On - DynDOLOD 3
+- Shingles - Alpha Patch
+- WiZkid Riften and Ratway
 - SmoothCam
 - iHUD - SmoothCam Automated Compatibility Patch
 - Modern Toggle Walk-Run Fix
@@ -73,10 +88,39 @@ In addition, all file names for the separate pages were edited which also affect
 
 - FileAccess Interface for Skyrim Scripts
 - Hank's Gamepad and Controller Fixes
-- Disable Follower Collision (part of I'm Walkin' Here)
-- SMIM - Assorted Mesh Fixes Patch (redundant)
-- Wiseman303's Flora Fixes - Revamped - SMIM Patch (redundant)
+- Disable Follower Collision
+- SMIM - Assorted Mesh Fixes Patch
+- Wiseman303's Flora Fixes - Revamped - SMIM Patch
+- Dynamic Volumetric Lighting and Sun Shadows
+- Relighting Skyrim - No Player Homes
+- Luminosity Lighting Overhaul
+- Luminosity - A Quality World Map Patch
+- Lanterns of Skyrim II
+- Embers HD
+- High Poly Smelter - Embers HD Patch
+- Inferno - Fire Effects Redux
+- KD - Realistic Fireplaces
+- Charred Logs for KD - Realistic Fireplaces
+- KD - Realistic Fireplaces - Fixes
+- ElSopa HD - Dirt Blast
+- Mountains Enhanced
+- Moss Rocks
+- Better Dynamic Snow
+- Rally's Solstheim Landscapes
+- Point The Way
+- Enhanced Vanilla Trees
+- HD Vanilla Tree Bark - ESRGAN AI Upscale
+- Reach Trees Enhanced
+- Spooknik's Tundra Trees
+- Rally's Blackreach Mushrooms
+- Skyland Whiterun
+- Skyland Whiterun - SMIM Wood Color Patch
+- Riften in High Definition
 - Tweaks for WACCF and ACE
+
+**Other notable changes:**
+
+- Now using Enhanced Blood Textures 4.0 beta 3
 
 ## Release 4.8
 

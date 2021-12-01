@@ -23,10 +23,11 @@ description: >
 Delete the following file(s) and/or folder(s):
 
 - `\meshes\interface\`
+- `\meshes\plants\hangingelvesear01.nif`
 - `\textures\effects\gradients\gradwhitewater.dds`
 - `Particle Patch for ENB SSE.esp`
 
-> The plugin is not needed, its functionality was replaced by ENB Helper. The texture can cause water spray to look much darker than intended with Realistic Water Two.
+> The plugin is not needed, its functionality was replaced by ENB Helper. The mesh in the interface folder will be replaced later on. The hanging elves ear mesh is bugged, all adjacent hanging elves ear plants will switch to harvested state after harvesting one. The texture can cause water spray to look much darker than intended with Realistic Water Two.
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -98,6 +99,12 @@ Delete the following file(s) and/or folder(s):
 #### Download Instructions
 
 - **Main Files:** Unofficial Material Fix
+
+##### [SMIM - Quality Addon - Unofficial Material Fix Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM - Quality Addon - Unofficial Material Fix Patch
 
 ##### [Unofficial Material Fix - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
 
@@ -256,3 +263,7 @@ Delete the following file(s) and / or folder(s):
   - Unique Barbas
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
+
+---
+
+#### Continue with the [Graphics Baseline](/tpf/mod-installation-2/step-2/) page.

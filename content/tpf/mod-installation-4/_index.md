@@ -1,5 +1,5 @@
 ---
-title: "Mod Installation: Gameplay"
+title: "Mods: Gameplay"
 weight: 7
 type: docs
 description: >

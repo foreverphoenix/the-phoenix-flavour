@@ -174,4 +174,4 @@ Delete the following file(s) and/or folder(s):
 
 ---
 
-#### Continue with the [Assorted Plugins](/tpf/mod-installation-basics/step-3/) page.
+#### Continue with the [Assorted Plugins](/tpf/mod-installation-1/step-3/) page.

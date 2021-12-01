@@ -82,7 +82,7 @@ description: >
 
 #### Download Instructions
 
-- **Main File:** Simple Offence Suppression
+- **Main File:** Simple Offence Suppression SE
 
 ##### [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931?tab=files)
 

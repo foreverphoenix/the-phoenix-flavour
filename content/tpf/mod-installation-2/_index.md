@@ -1,5 +1,5 @@
 ---
-title: "Mod Installation: Visuals"
+title: "Mods: Visuals"
 weight: 5
 type: docs
 description: >

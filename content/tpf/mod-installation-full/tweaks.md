@@ -49,16 +49,6 @@ description: >
 
 - ESL-ify **dD-No Spinning Death Animation Merged.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
-##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Sparkles
-
-#### Additional Instructions
-
-- ESL-ify **Sparkles.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
-
 ##### [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files)
 
 #### Download Instructions

@@ -1,5 +1,5 @@
 ---
-title: "Mod Installation: Content"
+title: "Mods: Content"
 weight: 8
 type: docs
 description: >
