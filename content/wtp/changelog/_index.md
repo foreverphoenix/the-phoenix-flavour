@@ -1,6 +1,6 @@
 ---
 title: "Changelog"
-weight: 4
+weight: 7
 type: docs
 description: >
   Update notes for all non-Beta versions.
@@ -8,15 +8,19 @@ description: >
 
 ## Release 2.0
 
-> TBD
+> 01/12/2021
 
-Welcome to Paradise 2.0 goes back to the roots. The list was refocused to vanilla improvements with a great deal of sorely needed backend changes, including a full rebuild with detailed documentation of all changes in Mod Organizer 2. All lingering issues and annoyances from previous versions (that I know of) were eliminated with the result being an overall more consistent, polished experience.
+**A new save is required.**
+
+Welcome to Paradise 2.0 goes back to the roots. The list was refocused to vanilla improvements with a great deal of sorely needed back-end changes, including a full rebuild with detailed documentation of all edits in Mod Organizer 2. Lingering issues and annoyances from previous versions (that I know of) were eliminated with the result being an overall more consistent, polished experience.
 
 - New lighting and ENB combination for more consistent visuals as well as brighter nights and interiors.
 - Better shadow INI settings to reduce pop-in and blurry shadows (thanks SpringHeelJon!).
 - Replaced Boston FPS Fix with Previs Pack to eliminate some crashes and improve performance in even more areas.
 - Replaced Workshop Re-arranged with smaller, more managable workshop additions.
 - New retextures, most of which were added to the WTP texture packs for better performance.
+- MCM settings can now be applied automatically via a universal WTP preset thanks to MCM Settings Manager.
+- Finally some documentation in the form of the new [WTP Visuals](/wtp/documentation/wtp-visuals/) and [WTP Gameplay](/wtp/documentation/wtp-gameplay/) pages.
 
 **ENB and lighting changes:**
 
@@ -41,6 +45,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 **New Additions**
 
 - Added FallOpt ENB
+- Added MCM Settings Manager
 - Added Fallout Priority - F4SE Plugin (may be placebo)
 - Added NPC Drinking Fix
 - Added Fixed Textures for Mirelurk Egg Omelette
@@ -67,9 +72,9 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Added CC's UHD Bloatflies - Reimagined
 - Added Immersive Mouth and Teeth
 - Added Valkyr Female Body Textures
+- Added Baka Wait Anywhere
 - Added Easy Lockpicking and Hacking
 - Added Consume Without Pickup
-- Added Simple Wait Anywhere
 - Added Moonracer's Armor Overhaul
 - Added Some Assembly Required - Atom Cats CPAO Patch
 - Added Locked Vault Tec Paint Job
@@ -101,7 +106,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Updated Buffout to 1.24.5
 - Updated Buffout TBB Redistributables to 2021.3
 - Updated High FPS Physics Fix to 0.8.4-5
-- Updated Simple Sorting Overhaul to 2.2.
+- Updated Laser Weapons 1st Person Reposition to 1.5
 - Updated WET - Water Enhancement Textures to 2.0.4
 - Updated Retro Radio Replacer to 0.2
 - Updated Visible Idle Markers to 3
@@ -112,7 +117,6 @@ I realised that without the stat changes, there is no need to have separate Knig
 **Removed Mods**
 
 - Removed Subtle ENB
-- Removed Faster Workshop (replaced by Buffout and Configurable Hotkeys)
 - Removed Jamaica Plain Navmesh Fix (fix included in UFO4P)
 - Removed Corpse Collision
 - Removed No More Glowing Water Coolers (replaced by Clarity)
@@ -148,6 +152,7 @@ I realised that without the stat changes, there is no need to have separate Knig
 - Removed Corrunda's Red Rocket - Light and Curb Fix
 - Removed Fixed and Cleaned Homeplate
 - Removed Vault 88 Template - Optimised
+- Removed Obedient Concord Group (toggleable with Visible Idle Markers)
 - Removed Workshop Re-arranged
 - Removed Grab The Damn Mag (not adding custom weapons)
 - Removed RAO - True Storms Patch
@@ -176,17 +181,22 @@ I realised that without the stat changes, there is no need to have separate Knig
 
 #### Website Changes
 
-- Removed the Resources section
-- Added the Documentation section
-- Renamed the "Troubleshooting" page to "Known Issues"
 - [Finalisation](/wtp/installation/finalisation/): Removed the LUTs section
 - [Finalisation](/wtp/installation/finalisation/): Removed VSYNC section (it is now always enabled as it should be)
 - [Finalisation](/wtp/installation/finalisation/): Updated the FPS Cap section including the screenshot
+- [Mod Config](/wtp/mod-config/): Completely overhauled this page to account for automatic MCM settings loading and the new mods
+- Removed the Resources section
+- Added the Documentation section
 - [Game Folder Files](/wtp/documentation/game-folder-files/): Updated the page with the latest additions and changes
-- [Texture Packs](/wtp/documentation/texture-packs/): Added overview over included textures in the five WTP repacks
-- [Known Issues](/wtp/appendix/troubleshooting/): Added "Invisible Spouse" bug
-- [Known Issues](/wtp/appendix/troubleshooting/): Updated the "Flickering Puddles" bug, eliminated in WTP 2.0
-- [Known Issues](/wtp/appendix/troubleshooting/): Removed the "Nights are too dark" section (they are no longer as dark in WTP 2.0)
+- [WTP Visuals](/wtp/documentation/wtp-visuals/): Added page to discuss WTP's graphics mods, including a list of textures in the five WTP repacks
+- [WTP Gameplay](/wtp/documentation/wtp-gameplay/): Added page to discuss WTP's gameplay changes, including custom hotkeys and unique item locations
+- Renamed the "Troubleshooting" page to "Known Issues"
+- [Known Issues](/wtp/known-issues/): Added "Invisible Spouse" bug
+- [Known Issues](/wtp/known-issues/): Updated the "Flickering Puddles" bug, eliminated in WTP 2.0
+- [Known Issues](/wtp/known-issues/): Removed the "Nights are too dark" section (they are no longer as dark in WTP 2.0)
+- [Known Issues](/wtp/known-issues/): Added the "Load screens appear frozen" issue (which is not actually an bug)
+
+---
 
 ## Release 1.6.3
 

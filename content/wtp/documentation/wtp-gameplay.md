@@ -1,45 +1,20 @@
 ---
-title: "Gameplay"
+title: "WTP Gameplay"
 weight: 4
 type: docs
 description: >
   WTP's important changes and additions.
 ---
 
-## Visual Changes
-
-Fallout 4 was never a particularly beautiful game, but it has solid graphics. Compared to older Fallout titles, it is a great deal more colourful and "cartoonish", no green filter like in Fallout 3 and no distinct dusty hue like in Fallout New Vegas.
-
-In my changes for WTP, I have decided to stay faithful to the vanilla colours and style, opting to focus largely on improving texture quality. Any more profound changes such as a tree overhaul would have susbstantially increased the list's complexity due to FO4's precombine system which is the only thing that keeps performance from turning into a slide show.
-
-### Weather & Lighting
-
-Welcome to Paradise does not feature a fully-fledged weather overhaul, but it does include [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which improves various visual effects to be much more pleasing. Combined with the lightweight [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset, it constitutes a solid upgrade over vanilla without changing the original style.
-
-![WTP Day](/Pictures/wtp/documentation/wtp-day.jpg)
-
-![WTP Dusk](/Pictures/wtp/documentation/wtp-dusk.jpg)
-
-![WTP Night](/Pictures/wtp/documentation/wtp-night.jpg)
-
-### Landscape & Textures
-
-In keeping with the pledge to stick with the vanilla style, I added [Lush Landscapes](https://www.nexusmods.com/fallout4/mods/9292) (the "Dried" edition) as the grass overhaul which does a good job at improving vanilla's sparse vegetation. Water was greatly improved by [Water Enhancement Textures](https://www.nexusmods.com/fallout4/mods/20775) and [Wave Animation Vanilla Enhanced](https://www.nexusmods.com/fallout4/mods/41568).
-
-As for textures, Fallout 4 is limited in that it greatly favours files packed in BA2s (basically ZIP archives for the Creation Engine). A large amount of loose textures will noticably impact not only load times but also ingame performance. On the other hand, higher resolution textures are among the best visual improvements this game can receive.
-
-For WTP, I created five separate texture packs: Clutter, Apparel, Power Armors, Weapons, and Creatures. These include textures (and occasionally meshes and/or material files) by various amazing authors, neatly packed up so as not to ruin performance. These repacks are NOT redistributed with WTP. Wabbajack will download them from the original Nexus page for you and recreate the BA2s from my setup locally on your PC.
-
-You can find the full list of retextures featured in WTP [here](/wtp/wtp-resources/texture-packs/).
-
-## Gameplay Changes
+## General Changes
 
 WTP features a good amount of quality of life improvements. These include:
 
 - [Start Me Up](https://www.nexusmods.com/fallout4/mods/18946): The Basic version of this mod included in WTP allows you to skip the pre-war part of the Prologue.
-- [Consume Without Pickup](https://www.nexusmods.com/fallout4/mods/45072): Immediately use a Stimpak or eat the Radstag stew without having to pick them up first.
-- [Simple Wait Anywhere](https://www.nexusmods.com/fallout4/mods/55597): You only need to be out of combat to open the Wait menu. Sitting is no longer required.
+- [Consume Without Pickup](https://www.nexusmods.com/fallout4/mods/45072): Immediately use a Stimpak or eat that Radstag stew without having to pick it up first.
+- [Baka Wait Anywhere](https://www.nexusmods.com/fallout4/mods/52723): Allows you to wait anywhere without having to sit down (but with a few conditions).
 - [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093): Player automatically lowers their weapon when not in combat.
+- [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527): Only the correct word appears when hacking. Locks can be picked instantly.
 
 ### Quest Adjustments
 
@@ -50,6 +25,14 @@ WTP features a good amount of quality of life improvements. These include:
 [Preston Garvey No Radiant Settlement Quests](https://www.nexusmods.com/fallout4/mods/24940): After taking the Castle for the Minutemen, Preston Garvey will no longer give you radiant quests with the exception of those that you cannot get through the Radio Freedom broadcasts.
 
 [Whose Quest Is It Anyway](https://www.nexusmods.com/fallout4/mods/51979): Upon attempting to remove a quest item from your inventory, you will now be notified which quest the item is locked by.
+
+### Simple Crafting Station
+
+All vanilla Chem Stations were renamed to "Crafting Stations" to account for the fact that you can craft pretty much anything at them. Their models were changed accordingly by [this excellent mod](https://www.nexusmods.com/fallout4/mods/44691).
+
+Holotapes to configure a few mods were moved to a unique category at Crafting Stations called MOD CONFIG. They can now be crafted for free.
+
+![Config Holotape Crafting](/Pictures/wtp/documentation/config-holotape-crafting.jpg)
 
 ### Photo Mode
 
@@ -142,17 +125,32 @@ The mod [Scrapping Machine](https://www.nexusmods.com/fallout4/mods/35793) adds 
 
 ## Keybinds
 
-In addition to the vanilla keybinds there are a number of additional keybinds you can set through the various mods' configuration menus.
+WTP comes with a bunch of custom hotkeys, all of which can be configured in MCMs or INI files.
 
-In the MCM for the [Configurable Hotkeys](https://www.nexusmods.com/fallout4/mods/46419) mod, you can define custom keybinds for functions such as quickly using Stimpaks or RadAway, immediately opening the Workshop, toggling the radio, or separating Throw Grenade / Melee (which are forced to the same key in vanilla).
+### ENBSeries
 
-> Note that WTP includes a mod that allows you to wait without having to sit down. It is not necessary to assign a hotkey for the Show Wait Menu option in Configurable Hotkeys for that.
+Hotkeys for ENB can be adjusted in the `enblocal.ini` (located in the root folder). [Here](https://keycode.info/) is a great website to quickly figure out the keycode for any key by simply pressing it.
 
-### WTP Default Keybinds
+- **F8** Toggle FPS Counter
+- **F10** Toggle ENB Effect
+- **F11** Open ENB GUI
 
-- **V** Toggle HUD
-- **F1** Toggle Place Everywhere
+### Workshop
+
+- **Y** Open the Workshop (Faster Workshop)
+- **F1** Toggle Place Everywhere (can build objects anywhere)
 - **F2** Toggle Snapping (requires Place Everywhere mode to be on)
+
+### HUD
+
+- **V** Toggle HUD (if Immersive HUD is enabled)
+- **H** Toggle clock widget (if HoloTime is enabled)
+
+### Other
+
+- **P** Open Photo Mode
+- **CTRL + B** Toggle Radio
+- **CTRL + G** Use Stimpak
 
 ## New Content
 
@@ -186,6 +184,8 @@ I'm a huge fan of fadingsignal's [K-9 Harness](https://www.nexusmods.com/fallout
 Also by fadingsignal is the [Modular Military Backpack](https://fallout.fandom.com/wiki/Modular_military_backpack) which matches the K-9 Harness beautifully. It is a Creation so you will need to buy it from the Creation Club. There are instructions for installing the Creation in WTP on the [Creation Club](/wtp/wtp-resources/creation-club/) page.
 
 Note that the backpack will no longer be given to you upon leaving Vault 111 and it will not be distributed either. You can find a single one within Vault 111 that you can pick up at the start of the game.
+
+![CC Backpack](/Pictures/wtp/documentation/cc-backpack.jpg)
 
 ## SPOILER SECTION
 

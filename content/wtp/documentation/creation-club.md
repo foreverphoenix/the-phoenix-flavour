@@ -1,6 +1,6 @@
 ---
 title: "Creation Club"
-weight: 3
+weight: 2
 type: docs
 description: >
   Optional support for some Creation Club content.
@@ -8,7 +8,7 @@ description: >
 
 ## Preface
 
-I am not a fan of the Creation Club, whether you want to call it paid mods or microtransactions. That being said, some of my favourite modders have worked on some of the "creations" and there are some I really want to play with. That many of them fit in seamlessly with a vanilla-plus setup makes it even harder to resist.
+I am not a fan of the Creation Club, whether you want to call it paid mods or microtransactions. That being said, some of my favourite modders have worked on "creations" and there are a few I really want to play with.
 
 **Creations are optional.** WTP will never require you to spend extra money on mini DLC.
 
@@ -30,12 +30,12 @@ Note that because you are able to pick it up before you've even stepped foot in 
 
 ## Installation
 
-We previously moved all "creations" (ESL+BA2 combinations) to `Your Modding Folder\Backups\Creation Club\`. I recommend selectively installing the "creations" supported by WTP (only the Backpack currently) as mods through Mod Organizer 2.
+We previously moved all "creations" (ESL+BA2 combinations) to `\Your Modding Folder\Backups\Creation Club\`. I recommend selectively installing the "creations" supported by WTP (only the Backpack currently) as mods through Mod Organizer 2.
 
-- To do so, navigate to the mods folder within your Mod Organizer 2 instance - `Welcome To Paradise\mods\`.
+- To do so, navigate to the mods folder within your Mod Organizer 2 instance: `\Welcome To Paradise\mods\`.
 - Create a new folder there. Name it appropriately, e.g. "Creation Club - Modular Military Backpack".
 - Copy the files (an ESL and one or two BA2s) into the new folder.
 - Back in Mod Organizer 2, press **F5** to refresh.
 - The new mod will appear at the bottom of your mod order (left pane).
 - Drag it up below the **NEW CONTENT** separator and activate it.
-- Also activate any patches available for that "creation" under the same separator.
+- Also activate any patches available for that creation under the same separator.

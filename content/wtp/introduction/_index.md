@@ -9,9 +9,9 @@ description: >
 
 ## Overview
 
-**Welcome to Paradise** (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was designed with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware.
+**Welcome to Paradise** (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was built with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware.
 
-WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section.
+WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section as well as the **Mod Config** page.
 
 - Join us on the official [Discord server](https://discord.gg/xCPxJFbCTS) for support, feedback, and modding discussions.
 - You can find a list of all included mods on the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise) page.
@@ -19,13 +19,7 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 
 ### State of the List
 
-**Please note that WTP is not currently in active development.**
-
-With the 1.5 update published in March 2021, I have brought WTP up-to-date with the latest developments in the modding scene. For the forseeable future, I do not intend to work on WTP beyond the occasional maintenance update (which will hopefully not take as long as 1.4.1 > 1.5 took). At present, I am a great deal more involved with my Skyrim SE guide The Phoenix Flavour and haven't felt the "Fallout itch" in altogether too much time. If or rather when it returns (as it always does), there may be a 2.0 update but that's all speculation.
-
-At present, WTP is in a good state where it delivers solid performance, stability, and reasonable improvements of the vanilla game.
-
-**June 2021:** Fine, I'm not quite done yet. Updated WTP to 1.6 and returned to indefinite maintenance mod.
+As of the release of **WTP 2.0** in December 2021, the list is back in active developement.
 
 ### About the name
 
@@ -37,21 +31,21 @@ Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallou
 
 Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
 
-Using Wabbajack is much easier than following a manual installation guide **but it doesn't absolve you from reading.**
+**Using Wabbajack is much easier than following a manual installation guide but it doesn't absolve you from reading.**
 
 ## WTP Features
 
 -  Moderately improved visuals while retaining a high frame rate.
 -  Performance exceeds vanilla in some areas, especially when the ENB is disabled.
--  The weather / ENB combination is True Storms, True Nights, and Subtle ENB.
 -  Adventure with Dogmeat and one other companion as originally intended by Bethesda.
 -  Many custom file edits and patches for a coherent experience.
 -  VIS-based sorting overhaul with a custom keywords resource.
--  Modern interface - you choose between DEF_UI and FallUI.
+-  Modern interface with (almost) the full FallUI suite.
 -  Simple implementation of crafting stations with support for included mods.
 -  Faster workshop system with better object placement and new stuff to build.
 -  Power armors are more rare. Paint and material mods were split.
 -  Detailed instructions for the initial setup as well as ingame configuration.
+-  Support for one (1) creation: fadingsignal's Modern Military Backpack.
 
 ### Not Included
 
@@ -83,3 +77,5 @@ You can see the details of my old setup below, sufficient for playing at 1440p w
 | Monitor   | LG 27GL850-B UltraGear 1440p @144Hz           |
 
 > I have since upgraded to an i7 10700k and a RTX 3080 which are certainly NOT required to play WTP at a stable frame rate.
+
+#### Get started with the [Installation](/wtp/installation/getting-started/) now.

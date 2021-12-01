@@ -1,9 +1,9 @@
 ---
 title: "Known Issues"
-weight: 3
+weight: 6
 type: docs
 description: >
-  Bugs currently present in WTP.
+  Various issues currently present in WTP.
 ---
 
 ## Nate/Nora is invisible in the cryo pod
@@ -55,3 +55,7 @@ uPipboyTargetWidth=876
 This is a persistent issue with cubemaps. We have a fix for it, [Fixed flickering puddles](https://www.nexusmods.com/fallout4/mods/46787), ~~but the bug still occurs and I'm honestly clueless.~~ I fixed the fix in WTP 1.6 and it should be fine now although the flickering does still seem to happen during rain storms for whatever reason.
 
 Puddles were removed altogether by [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which was added in WTP 2.0 and should eliminate the issue for good.
+
+## Load screens appear frozen
+
+In loading screens, there is no spinning object and the loading symbol is not animated. This is actually not a bug, but a feature. Disabling animations in loading screens apparently increases load times. It was done in the High FPS Physics Fix custom INI file.

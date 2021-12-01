@@ -1,12 +1,34 @@
 ---
-title: "Texture Packs"
-weight: 2
+title: "WTP Visuals"
+weight: 3
 type: docs
 description: >
-  The individual mods which were packed together into BA2s.
+  How the graphics were improved in WTP.
 ---
 
-## WTP Texture Packs
+## Visual Changes
+
+Fallout 4 was never a particularly beautiful game, but it has solid graphics. Compared to older Fallout titles, it is a great deal more colourful and "cartoonish", no green filter like in Fallout 3 and no distinct dusty hue like in Fallout New Vegas.
+
+In my changes for WTP, I have decided to stay faithful to the vanilla colours and style, opting to focus largely on improving texture quality. Any more profound changes such as a tree overhaul would have susbstantially increased the list's complexity due to FO4's precombine system which is the only thing that keeps performance from turning into a slide show.
+
+### Weather & Lighting
+
+Welcome to Paradise does not feature a fully-fledged weather overhaul, but it does include [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which improves various visual effects to be much more pleasing. Combined with the lightweight [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset, it constitutes a solid upgrade over vanilla without changing the original style.
+
+![WTP Day](/Pictures/wtp/documentation/wtp-day.jpg)
+
+![WTP Dusk](/Pictures/wtp/documentation/wtp-dusk.jpg)
+
+![WTP Night](/Pictures/wtp/documentation/wtp-night.jpg)
+
+### Landscape
+
+In keeping with the pledge to stick with the vanilla style, I added [Lush Landscapes](https://www.nexusmods.com/fallout4/mods/9292) (the "Dried" edition) as the grass overhaul which does a good job at improving vanilla's sparse vegetation. Water was greatly improved by [Water Enhancement Textures](https://www.nexusmods.com/fallout4/mods/20775) and [Wave Animation Vanilla Enhanced](https://www.nexusmods.com/fallout4/mods/41568).
+
+![WTP Landscape](/Pictures/wtp/documentation/wtp-landscape.jpg)
+
+## Texture Packs
 
 In Fallout 4, loose assets can actually have a significant impact on performance and load time over BA2 packed assets, far more so than in Skyrim SE. This is why most mod authors pack up their assets in archives and it is why I have been religiously packing up most loose assets in WTP. On this page I am listing the mods that the individual textures and meshes in the custom WTP texture packs are from.
 
