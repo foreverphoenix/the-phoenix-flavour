@@ -57,16 +57,88 @@ description: >
 - **Main Files:** A. Noble Skyrim - FULL PACK_2K
 - **Update Files:** NSM - SMIM Patch >> `merge with the main file`
 
-##### [Dlizzio's Mesh Fixes - Noble Skyrim Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/39260?tab=files)
+##### [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380?tab=files)
 
 #### Download Instructions
 
-- **Optional Files:** Noble Skyrim Material Fix
+- **Main Files:** Revamped Assets Skyrim - High (FOMOD Package)
+
+#### FOMOD Instructions
+
+- **Installation:**
+  * Custom Install
+- **Architecture:**
+  * ~~Install All~~
+- **Armor:**
+  * ~~Install All~~
+  * Mystic Tuning Gloves
+- **Clothes:**
+  * ~~Install All~~
+  * ~~Clavicus Vile Mask~~
+- **Clutter:**
+  * ~~Install All~~
+  * Clutter General
+  * ~~Bones~~
+  * Dead Animals
+  * Display Cases
+  * ~~Firewood~~
+  * Pelagius Hipbone
+  * ~~Silver~~
+  * ~~Sovngarde~~
+  * ~~Statues~~
+  * Weapon Rack
+- **Furniture:**
+  * Install All
+- **Traps:**
+  * Install All
+- **Display Cases:**
+  * Light
+
+#### Additional Instructions
+
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+
+##### [Revamped Assets Skyrim - Weapon Racks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Revamped Assets Skyrim - Weapon Racks Patch
+
+##### [Ruins Clutter Improved (RCI)](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ruins_Clutter_Improved_SE_NMM_v3-1
+
+> The update files (fixes) are skipped on purpose. They would be overwritten by other mods.
+
+#### FOMOD Instructions
+
+* **Options:**
+  * Custom
+* **Custom:**
+  * ~~High Resolution Candles~~
+  * ~~HD Catacomb Candles~~
+  * ~~HD Enchanting Stations~~
+  * ~~HD Spider Eggs~~
+  * ~~HD Pots~~
+  * Improved Ruins Doors
+  * ~~Improved Dragonclaws~~
+  * ~~Subliminal Traps~~
+  * ~~Lantern~~
 
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `textures\architecture\`
+  - `meshes\dungeons\imperial\portcullissmall01\`
+
+> The mesh does not work well with Underground's retexture. On the other hand, Underground's imperial door meshes also use that specific retexture so I'd rather keep them and revert the portcullis meshes.
+
+##### [Ruins Clutter Improved - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Ruins Clutter Improved - Fixes 1.1
 
 ##### [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files)
 
@@ -139,53 +211,6 @@ description: >
   - `\meshes\clutter\common\`
   - `\meshes\clutter\shrines\`
   - `\meshes\furniture\`
-
-##### [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Revamped Assets Skyrim - High (FOMOD Package)
-
-#### FOMOD Instructions
-
-- **Installation:**
-  * Custom Install
-- **Architecture:**
-  * ~~Install All~~
-- **Armor:**
-  * ~~Install All~~
-  * Mystic Tuning Gloves
-- **Clothes:**
-  * ~~Install All~~
-  * ~~Clavicus Vile Mask~~
-- **Clutter:**
-  * ~~Install All~~
-  * Clutter General
-  * ~~Bones~~
-  * Dead Animals
-  * Display Cases
-  * ~~Firewood~~
-  * Pelagius Hipbone
-  * ~~Silver~~
-  * ~~Sovngarde~~
-  * ~~Statues~~
-  * Weapon Rack
-- **Furniture:**
-  * Install All
-- **Traps:**
-  * Install All
-- **Display Cases:**
-  * Light
-
-#### Additional Instructions
-
-- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
-
-##### [Revamped Assets Skyrim - Weapon Racks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Revamped Assets Skyrim - Weapon Racks Patch
 
 ##### [HD Falmer and Chaurus](https://www.nexusmods.com/skyrimspecialedition/mods/32301?tab=files)
 

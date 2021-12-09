@@ -217,6 +217,7 @@ Delete the following file(s) and/or folder(s):
 
 #### FOMOD Instructions
 
+- **CoMAP Core Pack:** CoMAP 1.5.97 (Pre-AE)
 - **Configs:** CoMAP Config Pack
 - **Obscured Undiscovered Options:** Obscured Undiscovered HUD Markers - Diamond
 - **Author's Cut Options:** Hearthfire Homes are Settlements

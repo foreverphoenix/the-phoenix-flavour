@@ -44,17 +44,6 @@ description: >
 * **Werewolf:** None
 * **Werewolf Eyes:** None
 
-##### [OH GOD BEES - HD Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2932?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** OH GOD BEES – HD Textures
-
-#### FOMOD Instructions
-
-* **HD Bee Texture:** 512×512
-* **HD Beehive Texture:** 1024×1024
-* **HD Apiary Texture:** 2048×2048
 
 ##### [Real Rabbits HD](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
 

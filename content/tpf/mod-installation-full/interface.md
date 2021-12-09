@@ -25,11 +25,7 @@ description: >
 
 
 
-##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
 
-#### Download Instructions
-
-- **Main Files:** 2k Textures
 
 
 

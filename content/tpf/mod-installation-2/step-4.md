@@ -14,7 +14,7 @@ description: >
 
 #### Additional Instructions
 
-- Unpack the BSA through Mod Organizer 2.
+- Unpack **DustEffectsSSE.bsa** through Mod Organizer 2 ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
 - Delete the following file(s) and / or folder(s):
   - `DustEffectsSSE.bsa`
   - `DustEffectsSSE.esp`
@@ -40,7 +40,7 @@ description: >
 #### FOMOD Instructions
 
 - **Smoke Effect and Wield:** No Smoke
-- **Style:** Version 1
+- **Style:** Version 2
 
 ##### [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
 
@@ -63,7 +63,9 @@ description: >
   - ~~Less Flying Embers~~
   - ~~Reduced Embers and Logs Glow~~
   - ~~Reduced Yellow Glow~~
-- **Compatibility Patches:** Mathy's Medieval Torch
+- **Compatibility Patches:** 
+  - Mathy's Medieval Torch
+  - ~~Skyrim 3D Blacksmith~~
 
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 
@@ -86,15 +88,16 @@ description: >
 
 #### Download Instructions
 
-* **Miscellaneous Files:** 4.0 beta 3
+* **Miscellaneous Files:** 4.0 BETA 4
 
 #### FOMOD Instructions
 
 - **SPID Compatibility and Script Distance:** SPID Compatible
 - **Compatibility Patch:** ~~Immersive Creatures~~
 - **Blood Size:** Default Splatter Size
-- **Wounds (optional):** ~~Reduced Wound Size (Optional)~~
-- **Screen Blood:** EBT - Default
+- **Wounds (optional):** EBT - Default
+- **Drips:** Default
+- **Screen Blood:** Default
 - **Textures:** Reduced Res / Default Color
 - **Alternate Textures:** Reduced Res / Default Color
 

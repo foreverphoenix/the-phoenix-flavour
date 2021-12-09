@@ -32,7 +32,7 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 #### Download Instructions
 
-- **Main Files:** Papyrus Extender SSE - 4.5.2
+- **Main Files:** Papyrus Extender SE
 
 ##### [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
 

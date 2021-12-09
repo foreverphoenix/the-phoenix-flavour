@@ -130,12 +130,6 @@ Delete the following file(s) and/or folder(s):
 
 - **Main Files:** Whiterun Mesh Fixes
 
-##### [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** High Hrothgar Fixed
-
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 
 #### Download Instructions
@@ -224,6 +218,8 @@ Delete the following file(s) and / or folder(s):
   - ~~Skyrim Flora Overhaul~~
   - SMIM
   - ~~UV-Tweaks~~
+- **Aspens Ablaze:**
+  - None
 
 **Page 4**
 

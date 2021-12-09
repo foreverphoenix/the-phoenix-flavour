@@ -94,7 +94,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Enhanced Reanimation
+- **Main Files:** Enhanced Reanimation SE
 
 #### Additional Instructions
 
@@ -208,7 +208,7 @@ No Gifting = false
 
 #### Download Instructions
 
-* **Main Files:** Vampires Cast No Shadows
+* **Main Files:** Vampires Cast No Shadows SE
 
 ##### [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files)
 
@@ -232,7 +232,7 @@ No Gifting = false
 
 #### Download Instructions
 
-- **Main Files:** Time Format Changer - FOMOD Installer
+- **Main Files:** Time Format Changer (Legacy SE)
 
 I am making an exception for this mod in that it is **optional** and you may skip it. As a European, I prefer having a 24h clock (AM/PM confusing me a great deal), but this will not be the case for everyone. If you prefer the default 12h clock, feel free to skip this mod or make your own choice in the FOMOD installer.
 

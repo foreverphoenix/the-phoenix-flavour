@@ -1,40 +1,16 @@
 ---
-title: "Clutter"
-weight: 22
+title: "Step 5: Clutter"
+weight: 5
 type: docs
 description: >
   Retextures for small items and everyday tools.
 ---
-
-##### [Qwafee Keys](https://www.nexusmods.com/skyrimspecialedition/mods/34719?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Qwafee Keys (WiZkiD Edit) .3.
-
-#### Additional Instructions
-
-Here's the problem: The textures from this mod are great but they are at 4K which is extremely overkill for keys. However, the mod also contains a 32x32 cubemap which, if we use CAO to reduce the resolution of all textures by ratio, would become extremely small. So we are going to tweak the CAO settings a bit.
-
-- Open **Cathedral Assets Optimizer** and switch to the **SSE - Downsize Textures** profile.
-- In the **Textures** tab under **Resizing**, switch to **By fixed size**.
-- Replace both **Height** and **Width** with **1024**.
-- Click **Open Directory** and navigate to `\Mod Organizer 2\mods\` and select the **Qwafee Keys** folder.
-- Click **Select Folder** and hit **Run**.
-- When it's done (only takes a few seconds at most), switch back to **By ratio** in the **Textures** tab.
-- Close Cathedral Assets Optimizer.
 
 ##### [Rally's Farming Tools](https://www.nexusmods.com/skyrimspecialedition/mods/32679?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Rallys Farming Tools
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\clutter\common\broom01.dds`
-  - `textures\clutter\common\broom01_n.dds`
 
 ##### [Rally's Hooks and Saws](https://www.nexusmods.com/skyrimspecialedition/mods/32652?tab=files)
 
@@ -89,7 +65,17 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
   - `meshes\furniture\blacksmithforgemarkerwr.nif`
   - `meshes\furniture\blacksmithingskyforgemarker.nif`
 
-> The forge mesh is removed in favour of Embers HD.
+> The forge mesh is removed in favour of Embers XD.
+
+##### [Skyrim 3D Misc](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyrim 3D Misc - Buckets v2
+- **Main Files:** Skyrim 3D Misc - Butterchurn
+- **Main Files:** Skyrim 3D Misc - Dining Set
+- **Main Files:** Skyrim 3D Misc - Giant Mortar and Pestle
+- **Main Files:** Skyrim 3D Misc - Mammoth Cheese
 
 ##### [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508?tab=files)
 
@@ -110,14 +96,12 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - **Optional Files:** 2K Shadowmere Saddle
 - **Optional Files:** ESL flagged plugin >> `merge with the main file`
 
-##### [Skyrim 3D Misc](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
+##### [Deer Skull and Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/45510?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Skyrim 3D Misc - Giant Mortar and Pestle
-* **Main Files:** Skyrim 3D Misc - Mammoth Cheese
-* **Main Files:** Skyrim 3D Misc - Markarth Cage
-* **Main Files:** Skyrim 3D Misc - Traps
+- **Optional Files:** 2K Deer Skull and Antlers
+- **Optional Files:** 2K Mounted Antlers >> `merge with the main file`
 
 ##### [Troll Skull Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45538?tab=files)
 
@@ -125,12 +109,11 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 - **Optional Files:** 2K Troll Skull
 
-##### [Deer Skull and Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/45510?tab=files)
+##### [Unreal Mammoth Skeleton Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/39356?tab=files)
 
 #### Download Instructions
 
-- **Optional Files:** 2K Deer Skull and Antlers
-- **Optional Files:** 2K Mounted Antlers >> `merge with the main file`
+- **Main Files:** Unreal 4K Mammoth Skeleton ReTexture
 
 ##### [Rally's Nord War Horns](https://www.nexusmods.com/skyrimspecialedition/mods/46872?tab=files)
 
@@ -146,6 +129,17 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 #### Additional Instructions
 
 - Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+
+#### Plugin Edit
+
+The mod requires a plugin to assign a unique mesh to Torygg's horn. The horn is also edited (slightly) by WACCF, so we are going to forward those changes.
+
+- Open **Rally's Nord War Horns - Unique Torygg's Horn.esp** in SSEEdit.
+- The plugin contains only a single record: `SolitudeToryggWarHorn` in the **Misc. Item** category.
+- Select the record and forward the WACCF edits to value and weight into Rally's plugin.
+- Close SSEEdit and click **OK** to save your changes.
+
+![Rally Warhorn WACCF Edit](/Pictures/tpf/mod-installation/rally-warhorn-waccf-edit.png)
 
 ##### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637?tab=files)
 
@@ -168,12 +162,15 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 * **Main Files:** RUSTIC CLUTTER COLLECTION - Special Edition - 2K
 
+> Note that this mod is getting overwritten for the most part. It won't look that way in MO2 because many of the textures don't actually conflict, but that is because other mods edited the respective meshes to use custom texture paths so there are no visible conflicts.
+
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
+  - `meshes\`
   - `textures\clutter\dwemer\`
 
-> The textures for the Dwemer pottery should be supplied by The Dwemer for consistency.
+> The textures for the Dwemer pottery should be supplied by The Dwemer for consistency. The only included meshes are for the Dwemer puzzle cube which should also be provided by The Dwemer as that mod has a mesh with environment mapping enabled.
 
 ##### [Rudy HQ - Miscellaneous](https://www.nexusmods.com/skyrimspecialedition/mods/19867?tab=files)
 
@@ -183,7 +180,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### FOMOD Instructions
 
-- **HQ Siverware:** Rudy HQ Silverware for Rustic Silverware
+- **HQ Siverware:** Rudy HQ Silverware Rudy102 Version
 - **HQ Silverware for Smoking Torches and Candles mod:** None
 - **Additional HQ candle models:**
   - ~~Rudy HQ Imperial Candles~~
@@ -202,13 +199,30 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 - **Additions:**
   - ~~Rudy HQ Apple Tomato Potato~~
   - Rudy HQ Beds
-  - Rudy HQ Common Plates
+  - ~~Rudy HQ Common Plates~~
 - **Textures for the candles:**
   - 1k textures for the candles
 
 #### Additional Instructions
 
 - ESL-ify **Rudy Nordic Pottery SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Instruments of Skyrim SE - 2k
+
+#### Plugin Edit
+
+The JS Instruments plugin edits a quest with a tiny typo in its description. We are going to forward the USSEP fix:
+
+- Open **JS Instruments of Skyrim SE - Uniques.esp** in SSEEdit.
+- Find the `BardsCollegeLute` record in the **Quest** category.
+- Select the record, scroll down to the conflict, and forward the USSEP edit into JS' plugin.
+- Close SSEEdit and click **OK** to save your changes.
+
+![JS Instruments USSEP Fix](/Pictures/tpf/mod-installation/js-instruments-ussep-fix.png)
 
 ##### [Hearthfire Crafting Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52423?tab=files)
 
@@ -233,7 +247,13 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-* **Main Files:** Book Covers Skyrim SE - Desaturated
+- **Main Files:** Book Covers Skyrim SE - Desaturated
+
+##### [Book Covers Skyrim - Vanilla-Like Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59669?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** BSC - Vanilla-Like Tweaks (USSEP)
 
 ##### [HD Ruined Book Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/15742?tab=files)
 
@@ -274,8 +294,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 #### Download Instructions
 
-- **Main Files:** Hermaeus Mora Tax Book SD
-- **Optional Files:** Book02lowpoly >> `merge with the main file`
+- **Main Files:** Business Ledger SD
 
 ##### [Retexture for The Scroll](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files)
 
@@ -287,3 +306,7 @@ Here's the problem: The textures from this mod are great but they are at 4K whic
 
 - **Choose Version:** Single Set
 - **Choose Texture:** Wet Set
+
+---
+
+#### Continue with the [Valuables](/tpf/mod-installation-3/step-6/) page.

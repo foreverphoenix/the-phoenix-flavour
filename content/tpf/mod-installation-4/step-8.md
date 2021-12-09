@@ -33,7 +33,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Classic Sprinting Redone
+- **Main Files:** Classic Sprinting Redone (Legacy SE)
 
 ##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
 

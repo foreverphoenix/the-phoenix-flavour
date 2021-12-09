@@ -77,8 +77,40 @@ In addition, all file names for the separate pages were edited which also affect
 - Happy Little Trees
 - Happy Little Trees - Better Dynamic Ash Patch
 - Happy Little Trees Add-On - DynDOLOD 3
-- Shingles - Alpha Patch
+- Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
+- Raven Rock Building Tweaks
+- WiZkiD Parallax Imperial Forts
+- Skyrim Remastered - Castle Volkihar and Clutter
+- Castle Volkihar HD
+- Auriel's Chantry HD
+- LeanWolf's Snowelf Wayshrine - No Walls
+- Simplicity of Snow - 3D Walls Patch
+- ENB Light - Dunmer Lanterns
+- Rudification - Rudy Candles Expanded
+- Enchanting Stations Candles
+- HD Glaze for JS Shrines of the Divines
+- Hectrol Spider Webs Retex
+- Skyrim 3D Misc - Buckets
+- Skyrim 3D Misc - Butterchurn
+- Skyrim 3D Misc - Dining Set
+- Unreal Mammoth Skeleton Retexture
+- JS Instruments of Skyrim
+- Book Covers Skyrim - Vanilla-Like Tweaks
+- Security Overhaul SKSE - Lock Variations
+- Ancient Dwemer Metal - Security Overhaul SKSE Patch
+- Security Overhaul SKSE - Addons
+- JS Dragon Claws - Anniversary Edition
+- Honningbrew Decanter
+- High Poly Sweet Rolls
+- Unique HF Potato Bread Mesh
+- High Poly Project - Hearthfire Braided Bread
+- True Homecooked Meals - Plugin Replacer
+- 2K Dog Meat
+- Dragonborn Ingredients
+- HD Bees and Honeycombs
+- Rally's Butterflies Moths and Torchbugs
+- Better Mammoth Tusks
 - SmoothCam
 - iHUD - SmoothCam Automated Compatibility Patch
 - Modern Toggle Walk-Run Fix
@@ -91,6 +123,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Disable Follower Collision
 - SMIM - Assorted Mesh Fixes Patch
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
+- Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
 - Dynamic Volumetric Lighting and Sun Shadows
 - Relighting Skyrim - No Player Homes
 - Luminosity Lighting Overhaul
@@ -116,6 +149,14 @@ In addition, all file names for the separate pages were edited which also affect
 - Skyland Whiterun
 - Skyland Whiterun - SMIM Wood Color Patch
 - Riften in High Definition
+- Windhelm Enhanced - HD Metalwork
+- CC's Castle Volkihar Remastered
+- Arri’s Snow Elf Ruins Retexture
+- RUSTIC WORD WALLS
+- HD Lava for Dawnguard
+- WEBS
+- JS Dragon Claws
+- Rudy HQ - More Lights for ENB - Torchbugs and Moths
 - Tweaks for WACCF and ACE
 
 **Other notable changes:**
