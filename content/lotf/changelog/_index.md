@@ -16,6 +16,8 @@ description: >
 - Added Realistic Water Two
 - Added Blacksmith Forge Water Fix - Realistic Water Two Patch
 - Added Cathedral Snow
+- Added HD Road Signs 2K
+- Added Security Overhaul SKSE - Add-ons
 - Added Nemesis Unlimited Behavior Engine
 - Added RaceMenu (only files required for XPMSSE)
 - Added XP32 Maximum Skeleton Special Extended
@@ -24,21 +26,33 @@ description: >
 - Added Simple Dual Sheath
 - Updated SSELODGen to Beta 85
 - Updated DynDOLOD to Alpha 56
-- Updated SSE Display Tweaks to 0.5.5b
-- Updated Weapons Armor Clothing and Clutter Fixes to 2.6
+- Updated SSE Display Tweaks to 0.5.6b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.8
 - Updated DynDOLOD Resources to Alpha 16
-- Updated Assorted Mesh Fixes to 0.35.1
+- Updated Assorted Mesh Fixes to 0.36
 - Updated powerofthree's Tweaks to 1.4.1
+- Updated Spell Perk Item Distributor to 5.2
+- Updated Security Overhaul SKSE - Lock Variations to 2.0.1
 - Removed Picta Series - Improved Sky Meshes
 - Removed Cathedral Water Overhaul (replaced by RW2)
 - Removed Volcanic Tundra - Heat Wave Effects (replaced by RW2)
 - Installed XPMSSE version of Werewolf Claws Affect Spider Webs and moved it lower in the mod order
 - Moved Ambiance plugin lower in the load order
 - Moved Skyrim Realistic Overhaul BSAs below Project Clarity BSAs to overwrite
+- Incorporated RW2's recommended ENB water settings
+- Removed some arbitrary tweaks in the ENB grass section
+- Removed some arbitrary tweaks in the ENB particles section that made water in interiors at night unnaturally bright
 - Reinstalled Majestic Mountains without the effect meshes
+- Installed zEdit in the Tools folder for the SLaWF Remove Crop Ownership script
+- Completely remove the crop ownership feature in Skyrim Landscape and Water Fixes
+- Re-enabled faction stealing in powerofthree's Tweaks
 - Resolved conflicts between new mods in the CRP
 - Generated Nemesis output
 - Regenerated terrain LOD with SSELODGen Beta 85
+
+#### Website Changes
+
+- **Documentation:** Fixed a wrong link.
 
 ---
 
