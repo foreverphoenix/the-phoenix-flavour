@@ -77,6 +77,12 @@ description: >
 - **Main Files:** Skyrim 3D Misc - Giant Mortar and Pestle
 - **Main Files:** Skyrim 3D Misc - Mammoth Cheese
 
+##### [Qwafee Bloody Rags](https://www.nexusmods.com/skyrimspecialedition/mods/59815?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Qwafee's Yuck Rag
+
 ##### [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508?tab=files)
 
 #### Download Instructions
@@ -254,6 +260,7 @@ The JS Instruments plugin edits a quest with a tiny typo in its description. We 
 #### Download Instructions
 
 - **Main Files:** BSC - Vanilla-Like Tweaks (USSEP)
+- **Optional Files:** BCS - No Skill Book Stars
 
 ##### [HD Ruined Book Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/15742?tab=files)
 

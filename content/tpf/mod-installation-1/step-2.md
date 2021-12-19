@@ -118,6 +118,71 @@ Delete the following file(s) and/or folder(s):
   - Missing Lights Fix
   - ~~ELFX - Exteriors Fixed Mesh~~
 
+#### Crop Ownership Removal
+
+Since release 5.1, SLaWF adds ownership flags to crops and modifies the harvesting favour. The result is that, in order to harvest crops on a farm, you need to first ask the farmer to permission after which interacting with them will no longer mean stealing them. In theory, this is a great addition to immersion - it makes sense that farmers would not just let you harvest everything in vanilla.
+
+In practice, this feature is problematic though. It breaks the Faction Stealing option from powerofthree's Tweaks for one. And it also requires a good amount of consistency patching work for a fairly minor change. Finally it is also simply feature creep for a mod intended to fix holes and seams in the landscape.
+
+We are going to use **zEdit** and a script by **VictorF** (thanks again!) to remove the ownership flags added by SLaWF:
+
+- Run **zEdit** through Mod Organizer 2.
+- Make sure **zEdit** mode is selected at the top and the **Skyrim SE (TPF)** profile at the bottom, then click **Start Session**.
+- In the plugin selection window, press CTRL+A to select all, then Space to disable them.
+- Check the **Landscape and Water Fixes.esm** (its masters will be enabled automatically) and click **OK**.
+- When the plugins are loaded, right-click the **Landscape and Water Fixes.esm** and select **Automate**.
+- Under **Script**, change the name to **Remove_New_Ownership.js** and paste the following below:
+
+```js
+let node = zedit.GetSelectedNodes()[0];
+let file = node.element_type === xelib.elementTypes.etFile? node.handle: xelib.GetElementFile(node.handle);
+
+function extractCells(blocks){
+	let subBlocks = blocks.map(block => xelib.GetElements(block, '')).flat();
+	let cells = subBlocks.map(subBlock => xelib.GetElements(subBlock, '')).flat();
+	return cells;
+}
+function extractWorldspaceCells(world){
+	let children = xelib.GetElements(xelib.GetChildGroup(world));
+	let persistentCell = children.find(el => xelib.Signature(el) === 'CELL');
+	let blocks = children.filter(el => xelib.Signature(el) === 'GRUP');
+	let cells = extractCells(blocks);
+	if(persistentCell) cells.push(persistentCell);
+	return cells;
+}
+function getAllCells(file){
+	let worldspaces = xelib.GetElements(file, 'WRLD');
+	let cells = worldspaces.map(extractWorldspaceCells).flat();
+	cells.unite(extractCells(xelib.GetElements(file, 'CELL')));
+	return cells;
+}
+function getRefs(cell){
+	return xelib.GetElements(xelib.GetChildGroup(cell))
+		.map(group => xelib.GetElements(group, '')).flat();
+}
+
+let refs = getAllCells(file).map(getRefs).flat()
+	.filter(ref => xelib.HasElement(ref, "Ownership") &&
+		!xelib.HasElement(xelib.GetPreviousOverride(ref, file), "Ownership"));
+refs.forEach(ref => xelib.RemoveElement(ref, "Ownership"));
+```
+
+- Click **OK** to run the script. It should finish near instantly.
+- Click the X in the corner to close zEdit. When prompted to save your changes to **Landscape and Water Fixes.esm**, click **Save**.
+
+![SLaWF zEdit Save Changes](/Pictures/tpf/mod-installation/slawf-zedit-save-changes.png)
+
+We have now successfully removed the ownership flags. All that remains are the dialogue edits which we can quickly delete in SSEEdit:
+
+- Run **SSEEdit** through Mod Organizer 2.
+- In the plugin selection window, right-click and **Select None**.
+- Check only **Landscape and Water Fixes.esm** (its masters will be enabled automatically again) and click **OK**.
+- Once the plugins are loaded up, double-click **Landscape and Water Fixes.esm** in the left pane to open it up.
+- Select the **Dialogue Topic** and **Dialogue Branch** sections, then right-click and **Remove** them both.
+- Close SSEEdit and click **OK** to save your changes.
+
+![SLaWF xEdit Delete Dialogue](/Pictures/tpf/mod-installation/slawf-xedit-delete-dialogue.png)
+
 ##### [Weapons, Armor, Clothing and Clutter Fixes (WACCF)](https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=files)
 
 #### Download Instructions

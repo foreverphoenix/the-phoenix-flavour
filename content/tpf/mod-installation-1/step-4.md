@@ -70,12 +70,6 @@ Delete the following file(s) and / or folder(s):
   - ~~Patch for Immersive Horses~~
   - ~~Patch for Skyrim Immersive Creatures~~
 
-##### [Misc Tweaks - Better Ancient Knowledge Perk](https://www.nexusmods.com/skyrimspecialedition/mods/38348?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Misc Tweaks - Better Ancient Knowledge Perk
-
 ##### [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files)
 
 #### Download Instructions

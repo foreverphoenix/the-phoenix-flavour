@@ -66,6 +66,7 @@ description: >
 - **Compatibility Patches:** 
   - Mathy's Medieval Torch
   - ~~Skyrim 3D Blacksmith~~
+  - Skyrim 3D Cooking
 
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 
@@ -88,7 +89,7 @@ description: >
 
 #### Download Instructions
 
-* **Miscellaneous Files:** 4.0 BETA 4
+* **Main Files:** Enhanced Blood Textures
 
 #### FOMOD Instructions
 
@@ -96,7 +97,7 @@ description: >
 - **Compatibility Patch:** ~~Immersive Creatures~~
 - **Blood Size:** Default Splatter Size
 - **Wounds (optional):** EBT - Default
-- **Drips:** Default
+- **Drips (optional):** Default
 - **Screen Blood:** Default
 - **Textures:** Reduced Res / Default Color
 - **Alternate Textures:** Reduced Res / Default Color

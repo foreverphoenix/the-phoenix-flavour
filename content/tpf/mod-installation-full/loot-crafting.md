@@ -6,31 +6,6 @@ description: >
   Better item distribution and rebalanced crafting.
 ---
 
-##### [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** OWL Main File
-- **Update Files:** OWL Randomized Special Loot
-
-##### [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Armor and Clothing Extension
-
-##### [Tweaks for WACCF and ACE](https://www.nexusmods.com/skyrimspecialedition/mods/43466?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Tweaks for WACCF and ACE
-
-##### [Open World Loot - WACCF and ACE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49681?tab=files)
-
-#### Download Instructions
-
-- **Miscellaneous Files:** Patch - WACCF and Armor and Clothing Extension
-
 ##### [Open World Loot - AMB AVL Addons](https://www.nexusmods.com/skyrimspecialedition/mods/51141?tab=files)
 
 #### Download Instructions
@@ -81,25 +56,6 @@ description: >
 - **Draugr Overhaul Patches:**
   - ~~Briraka's Draugr Overhaul~~
   - ~~Draugr Upgrades and Improvements~~
-
-##### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Trade and Barter SE
-
-##### [Trade and Barter - Mysticism and Adamant Patches](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Mysticism - Trade and Barter Patch
-* **Main Files:** Adamant - Trade and Barter Patch
-
-##### [Bounties Are Worthwhile - Leveled Bounty Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/33594?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Bounties are Worthwhile
 
 ##### [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115?tab=files)
 

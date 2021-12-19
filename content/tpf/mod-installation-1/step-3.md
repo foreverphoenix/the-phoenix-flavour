@@ -6,6 +6,30 @@ description: >
   Various SKSE and NET Script Framework plugins.
 ---
 
+##### [SSE Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41953?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** GameplayTweaks v6
+
+#### Configuration Instructions
+
+- Double-click **SSE Gameplay Tweaks** in your mod order.
+- Switch to the **Text Files** tab and select the **GamePlayTweaks.config.txt** file.
+- In **Line 29**, set `BlockPotionUse.Enabled =` to `True`.
+- In **Line 32**, set `BlockPotionUse.BlockPotionInCombat =` to `False`.
+- In **Line 38**, set `BlockPotionUse.BlockPoisonInCombat =` to `False`.
+- In **Line 126**, set `DisableAutoFullHeal.Enabled =` to `True`.
+- In **Line 128**, set `DisableAutoFullHeal.DisableOnRest =` to `0`.
+- In **Line 148**, set `ImpurePotionCostMultiplier.Enabled =` to `True`.
+- In **Line 149**, set `ImpurePotionCostMultiplier.CostMultiplier =` to `0.4`.
+- In **Line 158**, set `PlayerCreatedPotionCostChange.Enabled =` to `True`.
+- In **Line 159**, set `PlayerCreatedPotionCostChange.CostMultiplier =` to `0.8`.
+- In **Line 367**, set `TeammateDetection.Enabled =` to `True`.
+- In **Line 410**, set `TrainingGoldDisappearsFromNPC.Enabled =` to `True`.
+
+> The first set of changes will disallow consuming food or drink during combat. The second will disable Health/Stamina/Magicka being restored on selecting attributes after a level-up. The third will reduce the value of player-created potions, especially impure ones. Finally, your followers will no longer be detectable by enemies when the player is undetected and gold spent at skill trainers will no longer be added to the trainer's inventory (thus disallowing the player from simply taking it back if the trainer is also a follower).
+
 ##### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=files)
 
 #### Download Instructions
@@ -14,7 +38,7 @@ description: >
 - **Main Files:** Scrambled Eggchantments
 - **Optional Files:** Underfilled Soul Gems - Soul Gem Too Small
 
-#### Additional Instructions - Scrambled Bugs
+#### Configuration Instructions - Scrambled Bugs
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
@@ -24,7 +48,7 @@ description: >
 - In **Line 37**, set `"underfilledSoulGems":` to `true`.
 - Hit **CTRL+S** to save and close the window.
 
-#### Additional Instructions - Scrambled Eggchantments
+#### Configuration Instructions - Scrambled Eggchantments
 
 - Double-click **Scrambled Eggchantments** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledEggchantments.json** file.
@@ -40,10 +64,11 @@ description: >
 
 > We are installing the INI file separately so it does not get overwritten when the main file is updated.
 
-#### Additional Instructions
+#### Configuration Instructions
 
 - Double-click **powerofthree's Tweaks** in your mod order.
 - Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
+- In **Line 49**, change `Faction Stealing =` to `true`.
 - In **Line 72**, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing Is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
@@ -96,7 +121,7 @@ description: >
 
 - **Main Files:** Enhanced Reanimation SE
 
-#### Additional Instructions
+#### Configuration Instructions
 
 The INI file for Enhanced Reanimation would normally be generated upon launching the game and then be dumped into the MO2 Overwrite. Since multiple mods work like this, it would create a mess of various different files that need to be manually moved into their appropriate mod folders. It's faster to simply create the file by hand and in the right spot.
 
@@ -141,7 +166,7 @@ Patch Horses = true
 
 - **Main Files:** BetterStealing v2
 
-#### Additional Instructions
+#### Configuration Instructions
 
 - Double-click **Better Stealing** in your mod order.
 - In the **Text Files** tab, select the **BetterStealing.config.txt**.
@@ -156,7 +181,7 @@ Patch Horses = true
 
 - **Main Files:** Essential Favorites
 
-#### Additional Instructions
+#### Configuration Instructions
 
 Same thing as with Enhanced Reanimation - we don't want a dozen INI files in our Overwrite to sort into the correct mod folders. Additionally, there is a small tweak to make in the INI file for Essential Favorites: No Disarm was set to false as otherwise Disarm shouts used against the player would be pointless.
 

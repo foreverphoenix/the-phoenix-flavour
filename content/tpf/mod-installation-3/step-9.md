@@ -1,9 +1,9 @@
 ---
-title: "Creatures"
-weight: 27
+title: "Step 9: Creatures"
+weight: 9
 type: docs
 description: >
-  Retextures for animals and monsters.
+  Retextures for various creatures.
 ---
 
 ##### [Bellyache’s Animal and Creature Pack](https://www.nexusmods.com/skyrimspecialedition/mods/6839?tab=files)
@@ -14,23 +14,34 @@ description: >
 
 #### FOMOD Instructions
 
+**Page 1**
+
 * **Options:** Custom Install
+
+**Page 2**
+
 * **Bear (brown and black):** None
 * **Chaurus:** None
 * **Chicken:** None
 * **Dog:** Solid – Brown
-* **Dragonfly:** Dartwing replacers
+* **Dragonfly:** ~~Dartwing replacers~~
 * **Deer:** Deer replacers
 * **Fox (Red):** Red
 * **Fox (Arctic):** Arctic
 * **Frostbite Spider (Brown):** None
 * **Frostbite Spider (Arctic):** None
 * **Goat:** None
-* **Hawk:** Golden Eagle
+* **Hawk:** None
 * **Highland Cow:** None 
-* **Horker:** None 
+* **Horker:** None
+
+**Page 3**
+
 * **Horse Tails:** None 
-* **Horse Textures:** None 
+* **Horse Textures:** None
+
+**Page 4**
+
 * **Mammoth:** None 
 * **Mudcrab:** Muddy
 * **Rabbit:** ~~Rabbit replacer~~
@@ -43,7 +54,6 @@ description: >
 * **Wolf (Red):** None
 * **Werewolf:** None
 * **Werewolf Eyes:** None
-
 
 ##### [Real Rabbits HD](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
 
@@ -145,6 +155,23 @@ description: >
 
 - **Main Files:** HD Reworked Bears 4K
 
+##### [FURtastic - Werebear Texture Overhaul](https://www.nexusmods.com/skyrim/mods/66284?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** FURtastic_NMM isntaller
+
+#### FOMOD Instructions
+
+- **Options:** CUSTOM
+- **FUR,CLAWS and PAWS:** GRIZZLY
+- **TEETH Options:** GRIZZLY04_werebearmouth_v01_unchanged
+- **EYES Options:** 05_Eyes_v07_yellow
+
+#### Porting Instructions
+
+- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+
 ##### [SABRECAT by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5303?tab=files)
 
 #### Download Instructions
@@ -186,18 +213,17 @@ description: >
 
 > Higher quality versions of these textures by cunny1975 were installed in the Clutter section.
 
-##### [Dawnguard Rewritten - Arvak](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files)
+##### [Slightly Better - Arvak](https://www.nexusmods.com/skyrimspecialedition/mods/57781?tab=files)
+
+#### Download Instructions:
+
+- **Main Files:** SlightlyBetterArvak
+
+##### [Arvak Burning Hooves Restored - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/51517?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Dawnguard Rewritten Arvak 1.1.1
-
-#### FOMOD Instructions
-
-* **Texture Sizes:** Extreme Definition
-* **Model Options:** Undead
-
-> Choose the Soul Cairn option if you want Arvak to look like the vanilla version with better textures.
+- **Main Files:** EVE - Arvak Burning Hooves Restored - ESL
 
 ##### [ElSopa HD - Bristleback](https://www.nexusmods.com/skyrimspecialedition/mods/22294?tab=files)
 
@@ -259,6 +285,11 @@ description: >
 
 * **Main Files:** HD Reworked Mammoths 4K
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\clutter\`
+
 ##### [GIANT by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/6179?tab=files)
 
 #### Download Instructions
@@ -270,6 +301,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Realistic Skin Shaders - Falmer and Hagravens
+- **Optional Files:** Reduced SSS Patch >> `merge with the main file`
 
 ##### [Realistic Skin and Hair Shaders - Giants](https://www.nexusmods.com/skyrimspecialedition/mods/15511?tab=files)
 
@@ -336,7 +368,7 @@ description: >
   - ~~EspfeWaccfForEspfePlugin~~
   - ~~EspfeWaccfForEspPlugin~~
   - Majestic Mountains
-  - NordicRuinsCandlesEnbLight
+  - ~~NordicRuinsCandlesEnbLight~~
   - ~~RusticReliefKulharinParallax~~
   - SkeletonEyesEnbLight
   - UniqueSkullsPotema
@@ -348,14 +380,14 @@ description: >
   - ~~ToolsOfKagrenac~~
   - ~~Smim~~
 
-> While we did not actually install [Particle Lights for ENB - Nordic Ruin Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335), we do have all the mod's files. Its meshes are all part of the Skeleton Replacer HD patch collection while its textures are already included with SMIM.
-
 #### Additional Instructions - Main File
 
 - Delete the following file(s) and / or folder(s):
-  - `meshes\_byoh\architecture\byohhouse\trophy\byohhousetrophytrollfrost02.nif`
+  - `meshes\dungeons\nordic\catacombs\smhalls\`
+  - `meshes\dungeons\nordic\catacombs\temple\bghalls\nortmphallbgcolumn01.nif`
+  - `meshes\dungeons\nordic\catacombs\temple\bghalls\nortmphallbgcolumn03.nif`
 
-> This mesh is part of Fixed Mesh Lighting which should not be overwritten.
+> The meshes are removed in favour of meshes from Rudification.
 
 ##### [DRAUGR by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848?tab=files)
 
@@ -420,6 +452,22 @@ description: >
 
 * **Main Files:** Unique Barbas_SSE_1.0
 
+#### Plugin Edits
+
+- Open **Unique Barbas.esp** in SSEEdit.
+- Double-click the **Non-Player Charactors (Actors)** section and find the `DA03Barbas` record.
+- In the right pane, scroll down all the way to the bottom and look for the **NAM6 - Height** change.
+- Drag the `1.000000` value for Height from **Skyrim.esm** into **UniqueBarbas.esp** to revert its change back to vanilla.
+- Close SSEEdit and click **OK** to save your changes.
+
+> Increasing Barbas' size like this causes him to get stuck in narrow places.
+
+![Revert Barbas Height Change](/Pictures/tpf/mod-installation/revert-barbas-height-change.png)
+
+#### Additional Instructions
+
+- ESL-ify **UniqueBarbas.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [HD Reworked Dragons 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038?tab=files)
 
 #### Download Instructions
@@ -468,4 +516,8 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `AlduinLight.esp`
 
-> The only relevant edit in the plugin is incorporated in Dragon War's patch for.
+> The only relevant edit in the plugin is incorporated in Dragon War's patch for the mod.
+
+---
+
+#### Continue with the [Gameplay Overhauls](/tpf/mod-installation-4/step-1/) page.

@@ -118,12 +118,6 @@ Delete the following file(s) and/or folder(s):
 
 - **Main Files:** Dlizzio's Mesh Fixes
 
-##### [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45597?tab=files)
-
-#### Download Instructions
-
-- **Main Files** Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
-
 ##### [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120?tab=files)
 
 #### Download Instructions
@@ -163,11 +157,11 @@ Delete the following file(s) and / or folder(s):
 
 - **Main Files:** Word Wall Transparency Fix for ENB
 
-##### [Armor Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39704?tab=files)
+##### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Armor Mesh Fixes
+- **Main Files:** Spiders of Solstheim - Transparency Fix
 
 ##### [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
 
@@ -259,6 +253,38 @@ Delete the following file(s) and / or folder(s):
   - Unique Barbas
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
+
+##### [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Flickering Meshes Fix
+
+#### FOMOD Instructions
+
+**Page 1**
+
+- **Riften:** No parallax version
+- **Solitude:** No parallax version
+- **Whiterun:** No parallax version
+- **Markarth:** No parallax version
+- **Windhelm:** No parallax version
+
+**Page 2**
+
+- **Whiterun and Windhelm Holds's farmouses:** Farmhouses Without Parallax
+- **Solitude Holds's farmouses:** Farmhouses Without Parallax
+- **Markarth Holds's farmouses:** Farmhouses Without Parallax
+
+**Page 3**
+
+- **Compatibility choices:**
+  - ~~Bright Waterfall Fix for ENB~~
+  - ~~Icy Windhelm~~
+  - ~~Majestic Mountains~~
+  - SMIM
+  - ~~Skyrim - A Mountainous Experience~~
+  - ~~Water for ENB~~
 
 ---
 

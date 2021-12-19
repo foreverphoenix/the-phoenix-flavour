@@ -38,6 +38,7 @@ description: >
 - [INI Files](/tpf/initial-setup/step-7/): Setting *Shadow Bias* to 0.3 instead of 0.7 in BethINI.
 - [INI Files](/tpf/initial-setup/step-7/): Removed *Contrast* INI tweak (largely irrelevant with ENB).
 - [Additional Tools](/tpf/initial-setup/step-8/): Added Stock Game folder section to the SSEEdit instructions.
+- [Additional Tools](/tpf/initial-setup/step-8/): Re-added zEdit with Stock Game folder instructions.
 - [Additional Tools](/tpf/initial-setup/step-8/): Reworked the arguments instructions for SSEEdit.
 - [Additional Tools](/tpf/initial-setup/step-8/): Now using the latest version of CAO (5.3.x).
 - Removed the **ESM Cleaning** page entirely (it is ultimately unnecessary).
@@ -52,8 +53,9 @@ In addition, all file names for the separate pages were edited which also affect
 
 - powerofthree's Papyrus Extender
 - SSE Display Tweaks - Custom INI
-- WACCF Tweaks
+- Weapon Armor Attribute Tweaks
 - SkyUI Ghost Item Bug Fix
+- SSE Gameplay Tweaks
 - Animated Static Reload Fix
 - Forget Spell
 - High Gate Ruins Puzzle Reset Fix
@@ -64,6 +66,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
+- Spiders of Solstheim - Transparency Fix
+- Flickering Meshes Fix
 - Embers XD
 - ENB Lights For Effect Shaders
 - Player Spell (and Weapon) Lighting for Vanilla and ENB
@@ -77,6 +81,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Happy Little Trees
 - Happy Little Trees - Better Dynamic Ash Patch
 - Happy Little Trees Add-On - DynDOLOD 3
+- Slightly Better - Old People Consistency
 - Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
 - Raven Rock Building Tweaks
@@ -91,6 +96,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Enchanting Stations Candles
 - HD Glaze for JS Shrines of the Divines
 - Hectrol Spider Webs Retex
+- Qwafee Bloody Rags
 - Skyrim 3D Misc - Buckets
 - Skyrim 3D Misc - Butterchurn
 - Skyrim 3D Misc - Dining Set
@@ -111,19 +117,36 @@ In addition, all file names for the separate pages were edited which also affect
 - HD Bees and Honeycombs
 - Rally's Butterflies Moths and Torchbugs
 - Better Mammoth Tusks
+- aMidianBorn Armor Upscaled Textures
+- Ancient Dwemer Metal - Quiver and Arrows
+- Ancient Amidianborn Dwemer Metal Armory
+- Ancient Dwemer Metal - Patches by Xtudo
+- AMB Matching Glass Armory - Female Glass Armor Fix
+- 3-Vane Fletching for HD Reflective Ebony Arrows
+- JS Helm of Yngol SE - 2k
+- Slightly Better - Arvak
+- Arvak Burning Hooves Restored
+- Player Spell Lighting - Mysticism Patch
+- Hand to Hand - An Adamant Addon
+- Pilgrim - A Religion Overhaul
+- Canis Hysteria
+- Coherent Inn Prices
 - SmoothCam
 - iHUD - SmoothCam Automated Compatibility Patch
 - Modern Toggle Walk-Run Fix
-- ACE Tweaks
 
 **Removed in TPF 5.0:**
 
 - FileAccess Interface for Skyrim Scripts
+- Weapon Armor Clothing and Clutter Fixes
+- WACCF Greatsword Weapon Speed Tweaks
+- Misc Tweaks - Better Ancient Knowledge Perk
 - Hank's Gamepad and Controller Fixes
 - Disable Follower Collision
 - SMIM - Assorted Mesh Fixes Patch
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
 - Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
+- Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
 - Dynamic Volumetric Lighting and Sun Shadows
 - Relighting Skyrim - No Player Homes
 - Luminosity Lighting Overhaul
@@ -157,10 +180,16 @@ In addition, all file names for the separate pages were edited which also affect
 - WEBS
 - JS Dragon Claws
 - Rudy HQ - More Lights for ENB - Torchbugs and Moths
+- Spellbreaker Oblivionized Retexture in HD
+- Dawnguard Rewritten - Arvak
+- Adamant - Shrines and Amulets
+- Armor and Clothing Extension
 - Tweaks for WACCF and ACE
+- Misc Tweaks - More Expensive Inns
 
 **Other notable changes:**
 
+- Added instructions to remove the crop ownership feature from SLaWF
 - Now using Enhanced Blood Textures 4.0 beta 3
 
 ## Release 4.8

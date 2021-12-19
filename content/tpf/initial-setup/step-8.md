@@ -101,12 +101,44 @@ For me this would be:
 
 **Click APPLY to save your changes and close the EXECUTABLES window.**
 
+## zEdit
+
+zEdit is a tool for editing plugins similar to SSEEdit and while it is far from being a replacement, it has some neat additional features. Unfortunately we cannot take advantage from most of them because zEdit does not support ESL plugins.
+
+At the moment, we only need zEdit to run a script that will edit a plugin.
+
+- Download [zEdit](https://github.com/z-edit/zedit/releases) manually from the Github page (see picture below).
+- Create a new folder: `\Mod Organizer 2\Tools\zEdit\`.
+- Open the downloaded archive and extract everything to the new folder.
+- Open Mod Organizer 2 and go into the **Executables** settings (Tools >> Executables or CTRL + E).
+- Click the tiny blue plus icon to add a new executable and select **Add from file**.
+- Navigate to `\Mod Organizer 2\Tools\zEdit\` and double-click **zEdit.exe**.
+- Click **OK** to save the new executable and close the window.
+
+![zEdit Download](/Pictures/tpf/initial-setup/zedit-download.png)
+
+### zEdit Skyrim Profile
+
+By default, zEdit will continue to use the "real" game folder under `\Steam\steamapps\common\` so we need to change it to our stock game folder:
+
+- Run **zEdit** through Mod Organizer 2.
+- Make sure **Skyrim SE** is selected from the drop-down and click the gears icon to open the profile settings.
+- Click the **Add Profile** button to add a new profile.
+- Change the name to **Skyrim SE (TPF)** and the game to **Skyrim SE**.
+- Under **Path**, manually enter the path to your Stock Game folder.
+- Click the **Close** button and exit zEdit.
+
+> I have a second profile for my other SSE list, Legends of the Frost.
+
+![zEdit TPF Profile](/Pictures/tpf/initial-setup/zedit-tpf-profile.png)
+
 ## Cathedral Assets Optimizer
 
 Cathedral Assets Optimizer (CAO) by Gk1 is a unified asset processing tool that can be used to extract or create BSAs, optimize assets, compress or resize textures, and more.
 
 - Download the latest version of [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) manually.
-- Extract the archive to a new **Cathedral Assets Optimizer** folder in `\Mod Organizer 2\Tools\`.
+- Create a new folder: `\Mod Organizer 2\Tools\Cathedral Assets Optimizer\`.
+- Open the downloaded archive and extract everything to the new folder.
 - Follow [these instructions](https://support.microsoft.com/en-us/help/4028485/windows-) to add an exception for CAO to Windows Defender.
 
 You will be using CAO plenty of times during the installation of the guide, so I recommend adding it to your Windows Taskbar for quick access.
@@ -135,7 +167,7 @@ NifSkope is a great tool that allows you to quickly edit meshes in various ways 
 - Create a new folder: `\Your Modding Folder\Tools\NifSkope\`.
 - Open the downloaded archive and extract its contents into the new folder.
 
-In Mod Organizer 2, add **NifSkope.exe** as an executable like you did before with SSEEdit. No additional arguments are required.
+In Mod Organizer 2, add **NifSkope.exe** as an executable like you did before with SSEEdit and zEdit. No additional arguments are required.
 
 ![Download NifSkope](/Pictures/tpf/initial-setup/download-nifskope.png)
 

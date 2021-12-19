@@ -53,6 +53,23 @@ description: >
 
 - **Main Files:** Skyrim - A Mountainous Experience
 
+##### Flickering Meshes Fix - Mountains Patch
+
+#### Download Instructions
+
+We already downloaded Flickering Meshes Fix.
+
+#### Installation Instructions
+
+- Click the crossed tools icon above the mod order in MO2 and select **Create new mod**.
+- Enter **Flickering Meshes Fix - Mountains Patch** as the name and click **OK**.
+- Right-click your new mod and select **Open in Explorer**.
+- Find the **Flickering Meshes Fix** archive in the **Downloads** pane in MO2, right-click it and select **Open File**.
+- Go to `MARKARTH\MAJESTIC MOUNTAINS_NO PARALLAX` and extract the **meshes** folder into your new mod folder.
+- Go to `MARKARTH\MOUNTAINOUS EXPERIENCE_NO PARALLAX` and also extract the **meshes** folder into your new mod folder.
+- Confirm to merge the folders and click **OK** to overwrite.
+- Press F5 to refresh Mod Organizer 2 and activate the new mod.
+
 ##### [Majestic Landscapes - Snow](https://www.nexusmods.com/skyrimspecialedition/mods/41857?tab=files)
 
 #### Download Instructions

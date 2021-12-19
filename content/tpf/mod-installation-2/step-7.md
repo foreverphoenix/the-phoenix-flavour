@@ -307,6 +307,12 @@ The optional file (mesh fix) can only be downloaded manually.
 
 - **Main Files:** Beast scars
 
+##### [Slightly Better - Old People Consistency](https://www.nexusmods.com/skyrimspecialedition/mods/59562?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Slightly Better - Old People Consistency - No Elves
+
 ##### [TK Children](https://www.nexusmods.com/skyrimspecialedition/mods/5916?tab=files)
 
 #### Download Instructions

@@ -108,6 +108,7 @@ Delete everything except for the files shown in the screenshot below:
 #### Additional Instructions
 
 - Delete the following file(s) and/or folder(s):
+  - `meshes\_byoh\`
   - `meshes\clutter\food\butterscotchcreams01.nif`
   - `meshes\clutter\ingredients\pie01.nif`
   - `meshes\clutter\ingredients\sweetroll01.nif`
