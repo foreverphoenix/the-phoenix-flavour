@@ -6,6 +6,26 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.1
+
+> 25/12/2021
+
+This is a small maintenance update, largely to bring you the recent FallOpt ENB improvements.
+
+This update is **save safe**. Please copy over game folder files once again as the ENB files updated.
+
+#### Mod Changes
+
+- Updated Workshop Framework to 2.0.18a
+- Updated MCM Settings Manager to 1.0.3
+- Updated LOST - Audio Tweaks to 2.1
+- Updated Previsibines Repair Pack to 0.53.12012021
+- Updated FallOpt ENB to 2.2
+- Removed Hush Dogmeat (integrated in LOST - Audio Tweaks)
+- Enabled HBAO in fallout4prefs.ini (ambient occlusion)
+- Changed MO2 separator colours again
+- New Wabbajack cover image
+
 ## Release 2.0
 
 > 01/12/2021
