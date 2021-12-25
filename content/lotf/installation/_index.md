@@ -94,13 +94,13 @@ If you only have a free Nexus account, Wabbajack will open the mod pages for you
 
 You can follow along as Wabbajack installs the list. It will display previews with summaries and links to the mods being installed. Don't let the log irritate you. Unless the installation is aborted completely, you don't have to worry about any warnings.
 
-**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left of. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@LOTF` role, and post your `wabbajack.current.log` in the `#lotf-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
+**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@LOTF` role, and post your `wabbajack.current.log` in the `#lotf-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 
 ## Playing LOTF
 
-Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu **SKSE** should already be selected and you can now launch the game by clicking **Run**.
+Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu, **Legends of the Frost** (a renamed skse64_loader.exe) should already be selected and you can now launch the game by clicking **Run**.
 
 > Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
 
@@ -108,7 +108,7 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied for Immersive HUD and moreHUD so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
+LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
 There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
 
@@ -116,7 +116,7 @@ There are some small tweaks and optional mods in LOTF. Find out more on the [Cus
 
 The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter are the same as in TPF and WTP:
 
-- **F7** toggles the FPS counter.
+- **F8** toggles the FPS counter.
 - **F10** toggles the ENB effect.
 - **F11** opens the ingame GUI.
 

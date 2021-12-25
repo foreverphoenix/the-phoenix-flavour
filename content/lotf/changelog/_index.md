@@ -10,14 +10,35 @@ description: >
 
 > TBD
 
-#### Mod Changes
+**Features:**
 
+- Support for **Obsidian Weathers and Seasons** as an alternative to Wander.
+- Instructions for **swapping out** the ENB preset **or disabling ENB** altogether.
+- Inclusion of **Nemesis** as well as a stripped down XPMSSE and RaceMenu for **Simple Dual Sheath**.
+- Better water (**Realistic Water Two**), readable road signs (HD Road Signs), new grass overhaul (Enhanced Landscapes).
+- New **Creation Club profile** with support for Saints & Seducers, Rare Curios, The Cause, and Forgotten Seasons.
+- New **performance profile** with lighter INI settings and DynDOLOD setup (not compatible with CC profile).
+
+LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be able to stay on SKSE 2.0.20 for SSE 1.5.97.0 (pre-AE). This is because not all of LOTF's SKSE-dependent mods (25/38) were updated yet. With the "best of both worlds" patcher all game files other than the executable are from the latest AE version though, meaning all assets for new creations are present and AE content can be used.
+
+**Removal of Immersive HUD:** Skyrim's UI is fairly unintrusive already, but the ability to disable the HUD still comes in handy for taking screenshots. iHUD unfortunately has some issues with the crosshair (it sometimes vanishes completely for me) so I decided to just replace it with Luca's version of fadingsignal's Hide UI. It completely disables the UI at the press of a button so it doesn't ruin a pretty screenshot.
+
+**HOW TO UPDATE**
+
+- Disable iHUD and DynDOLOD in the MCMs
+
+#### LOTF Changes
+
+- Added Spiders of Solstheim - Transparency Fix
+- Added HD Road Signs 2K
 - Added Weather of World
 - Added Realistic Water Two
 - Added Blacksmith Forge Water Fix - Realistic Water Two Patch
-- Added Cathedral Snow
-- Added HD Road Signs 2K
-- Added Security Overhaul SKSE - Add-ons
+- Added Flickering Meshes Fix
+- Added Shaders of Solstheim - Ash and Moss
+- Added Snowy Windhelm Bridge
+- Added Enhanced Landscapes - Grass Overhaul
+- Added Tempered Racial Textures
 - Added Nemesis Unlimited Behavior Engine
 - Added RaceMenu (only files required for XPMSSE)
 - Added XP32 Maximum Skeleton Special Extended
@@ -26,32 +47,78 @@ description: >
 - Added Simple Dual Sheath
 - Updated SSELODGen to Beta 85
 - Updated DynDOLOD to Alpha 56
+- Updated Cathedral Assets Optimizer to 5.3.8
 - Updated SSE Display Tweaks to 0.5.6b
 - Updated Weapons Armor Clothing and Clutter Fixes to 2.8
 - Updated DynDOLOD Resources to Alpha 16
-- Updated Assorted Mesh Fixes to 0.36
+- Updated Assorted Mesh Fixes to 0.39.2
 - Updated powerofthree's Tweaks to 1.4.1
 - Updated Spell Perk Item Distributor to 5.2
-- Updated Security Overhaul SKSE - Lock Variations to 2.0.1
+- Updated Charge Dialogue Fix to 1.3
+- Updated Simplicity of Snow to 0.5
+- Removed Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch (overwritten)
+- Removed Immersive HUD
+- Removed Immersive HUD - Settings Loader
+- Removed Immersive HUD - LOTF Preset
+- Removed Relighting Skyrim - No Player Homes
 - Removed Picta Series - Improved Sky Meshes
 - Removed Cathedral Water Overhaul (replaced by RW2)
 - Removed Volcanic Tundra - Heat Wave Effects (replaced by RW2)
+- Removed Skyrim Flora Overhaul - Grass Only (replaced by EL Grass)
+- Removed Security Overhaul SKSE - Lock Variations (out of scope for LOTF)
+- Removed cleaned master files
 - Installed XPMSSE version of Werewolf Claws Affect Spider Webs and moved it lower in the mod order
 - Moved Ambiance plugin lower in the load order
 - Moved Skyrim Realistic Overhaul BSAs below Project Clarity BSAs to overwrite
-- Incorporated RW2's recommended ENB water settings
-- Removed some arbitrary tweaks in the ENB grass section
-- Removed some arbitrary tweaks in the ENB particles section that made water in interiors at night unnaturally bright
+- Rebuilt most of the Project Clarity BSAs
+- Fixed load screen blocker (DynDOLOD load screens should no longer appear)
+- Hopefully (?) fixed two flickering lights in Honeyside (one remains)
+- Changed the ENB FPS display hotkey from F7 to F8
+- Reinstalled SkyHUD without the Immersive HUD patch
 - Reinstalled Majestic Mountains without the effect meshes
 - Installed zEdit in the Tools folder for the SLaWF Remove Crop Ownership script
 - Completely remove the crop ownership feature in Skyrim Landscape and Water Fixes
 - Re-enabled faction stealing in powerofthree's Tweaks
+- Added an icon to the SKSE executable (installation instructions were updated accordingly)
 - Resolved conflicts between new mods in the CRP
 - Generated Nemesis output
 - Regenerated terrain LOD with SSELODGen Beta 85
+- Regenerated tree and object LOD with DynDOLOD Beta 58
+
+#### LOTF Wander ENB Changes
+
+The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Minimal ENB).
+
+- Incorporated RW2's recommended ENB water settings
+- Removed some arbitrary tweaks in the ENB grass section
+- Removed some arbitrary tweaks in the ENB particles section that made water in interiors at night unnaturally bright
+
+#### CC Profile Changes
+
+- Added new "Legends of the Frost - Creation Club Profile"
+- Added Cleaned and Upscaled Textures - Ayleid Assets
+- Added Creation Club - Saints and Seducers
+- Added Cleaned and Upscaled Textures - Saints and Seducers
+- Added Unofficial Creation Club Patches - Saints and Seducers
+- Added Realistic Water Two - Saints and Seducers Patch
+- Added Creation Club - Forgotten Seasons
+- Added Cleaned and Upscaled Textures - Forgotten Seasons
+- Added Unofficial Creation Club Patches - Forgotten Seasons
+- Added Creation Club - The Cause
+- Added Cleaned and Upscaled Textures - The Cause
+- Added Creation Club - Rare Curios
+- Added Cleaned and Upscaled Textures - Rare Curios
+- Added Unofficial Creation Club Patches - Rare Curios
+- Added Curated Curios - A Creation Club Integration Mod
+- Added The Cause - Rare Curios Patch
+- Added The Cause - Flawed Varla Stone Integration
 
 #### Website Changes
 
+- **Customisation:** Slightly shuffled the contents of this page around.
+- **Customisation:** Added Swap to Obsidian Weathers section.
+- **Customisation:** Added Swap to The Truth ENB section.
+- **Customisation:** Added Completely Removed ENB section
 - **Documentation:** Fixed a wrong link.
 
 ---
