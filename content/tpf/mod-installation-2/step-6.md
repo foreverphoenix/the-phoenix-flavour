@@ -17,12 +17,6 @@ description: >
 - **Trees:** All Trees
 - **Add on:** ~~Tree size~~
 
-##### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Happy Little Trees - Better Dynamic Ash Patch
-
 ##### [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907?tab=files)
 
 #### Download Instructions

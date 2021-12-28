@@ -106,6 +106,12 @@ description: >
 
 * **Main Files:** 3D Solitude Market Trellis
 
+##### [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Stones of Solitude - Better Blended Rock Piles
+
 ##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 
 #### Download Instructions

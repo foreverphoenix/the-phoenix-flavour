@@ -54,3 +54,80 @@ description: >
 
 - **Main Files:** Bounties are Worthwhile
 
+##### [Reasonable Quest Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/46910/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Reasonable Quest Rewards
+- **Optional Files:** Reasonable Quest Rewards - Bounties Are Worthwhile Patch
+- **Optional Files:** Reasonable Quest Rewards - Dark Brotherhood
+
+##### [Simple Smithing Overhaul Simplified (No WACCF)](https://www.nexusmods.com/skyrimspecialedition/mods/55333?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Smithing Overhaul Simplified\
+
+#### FOMOD Instructions
+
+- **Perk Overhauls:** Adamant
+
+##### [Misc Tweaks - Decluttered Crafting Menus](https://www.nexusmods.com/skyrimspecialedition/mods/38348?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Misc Tweaks - Decluttered Crafting Menus
+
+##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Craftable Torches
+
+##### [Improvement Names Customized](https://www.nexusmods.com/skyrimspecialedition/mods/27776?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Improvement Names Customized SSE
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `SKSE\Plugins\ImprovementNamesCustomizedSSE.json`
+
+##### [Adamant - Plus Ten Smithing](https://www.nexusmods.com/skyrimspecialedition/mods/30191?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Adamant - Plus Ten Smithing
+
+##### [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Apothecary - An Alchemy Overhaul
+- **Main Files:** Apothecary - Food and Drink Addon
+- **Optional Files:** Apothecary - Food and Drink Addon - USSEP Patch
+- **Optional Files:** Apothecary - Rustic Animated Potions Patch
+
+##### [Book Covers Skyrim - Apothecary Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59669?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** BCS - Apothecary Patch
+
+##### [Apothecary - Hearthfire Crispy Dumplings Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Apothecary - Hearthfire Crispy Dumplings Patch
+
+##### [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Thaumaturgy - An Enchanting Overhaul
+
+---
+
+#### Continue with the [NPC AI & Dialogue](/tpf/mod-installation-4/step-3/) page.

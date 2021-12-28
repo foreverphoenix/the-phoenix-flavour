@@ -1,9 +1,9 @@
 ---
-title: "Non-Player Characters"
-weight: 31
+title: "Step 3: Non-Player Characters"
+weight: 3
 type: docs
 description: >
-  Mods affecting NPCs and their behaviour.
+  Mods affecting NPCs, their behaviour and their voice lines.
 ---
 
 ##### [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files)
@@ -16,9 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** AI Overhaul 1.6.6
-
-
+- **Main Files:** AI Overhaul 1.6.7
 
 ##### [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 
@@ -65,7 +63,7 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 #### Download Instructions
 
-* **Main Files:** Misc Dialogue Edits
+- **Main Files:** Misc Dialogue Edits
 
 ##### [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files)
 
@@ -89,22 +87,58 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 #### Download Instructions
 
-* **Main Files:** Thugs Not Assassins
-* **Optional Files:** Thugs Not Assassins - Timing Is Everything
+- **Main Files:** Thugs Not Assassins
+- **Optional Files:** Thugs Not Assassins - Book Covers Skyrim Patch
+- **Optional Files:** Thugs Not Assassins - Timing Is Everything
 
 > Even though Timing Is Everything will be installed later and lower in the mod order, the scripts from the TNA TIE patch will still override because the plugin will be loaded below TIE's (BSA-packed assets override according to load order, not mod order).
+
+#### Plugin Edit
+
+- Open **ThugsNotAssassins_BCS.esp** in SSEEdit.
+- Double-click the plugin in the left pane and expand the **Book** section.
+- Select the record inside. Forward the **Sound - Pickup** record from the USSEP into the TNA - BCS Patch.
+- Close SSEEdit. Make sure the plugin is checked and click **OK** to save your changes.
+
+![TNA BCS Patch Edit](/Pictures/tpf/mod-installation/tna-bcs-patch-edit.png)
+
+##### [Windhelm Segregation - Stay at New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/21181?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Windhelm Segregation - Stay at New Gnisis Cornerclub
+
+#### Additional Instructions
+
+- ESL-ify **WindhelmSegregation.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [Alik’r Warriors Aren’t Welcome](https://www.nexusmods.com/skyrimspecialedition/mods/25384?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Alik’r Warriors Aren’t Welcome
+
+#### Additional Instructions
+
+- ESL-ify **CrimeFactionAlikr.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Adopt Aventus Aretino
+- **Main Files:** Adopt Aventus Aretino
+
+##### [Adopt Aventus Aretino - USSEP and Simple Children Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Adopt Aventus Aretino - USSEP and Simple Children Patch
 
 ##### [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Immersive Patrols Lite
+- **Main Files:** Immersive Patrols Lite
 
 #### Additional Files
 
@@ -112,6 +146,17 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
   - `Immersive Patrols II.bsa`
 
 > The BSA contains facegen files which we will later regenerate in higher quality.
+
+#### Plugin Edit
+
+- Open **Immersive Patrols II.esp** in SSEEdit.
+- Double-click the plugin in the left pane to expand it.
+- Right-click the **Leveled Item** category and select **Remove**, then confirm.
+- Close SSEEdit and click **OK** to save your changes.
+
+> This makes a patch for Open World Loot unnecessary.
+
+![Immersive Patrols Plugin Edit](/Pictures/tpf/mod-installation/immersive-patrols-plugin-edit.png)
 
 ##### [Immersive Patrols Simplified](https://www.nexusmods.com/skyrimspecialedition/mods/32765?tab=files)
 
@@ -123,6 +168,17 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - **Immersive Patrols Version:** Lite
 - **Patches:** No Merchants
+
+#### Plugin Edit
+
+- Open **Immersive Patrols II Lite Simplified No Merchants.esp** in SSEEdit.
+- Double-click the plugin in the left pane to expand it, then expand the **Leveled Item** category.
+- Right-click the `LItemDawnguardWeaponAny` record, select **Remove**, and confirm.
+- Close SSEEdit and click **OK** to save your changes.
+
+> This makes a patch for Open World Loot unnecessary.
+
+![IPS Plugin Edit](/Pictures/tpf/mod-installation/ips-plugin-edit.png)
 
 ##### [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252?tab=files)
 
@@ -140,3 +196,7 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
   - `ICNs_ImmersiveCollegeNPCs.bsa`
 
 > The BSA contains facegen files which we will later regenerate in higher quality.
+
+---
+
+#### Continue with the [Improved Vanilla Quests](/tpf/mod-installation-4/step-4/) page.

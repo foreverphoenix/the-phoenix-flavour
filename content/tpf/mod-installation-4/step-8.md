@@ -1,77 +1,173 @@
 ---
-title: "Step 8: Camera & Controls"
+title: "Step 8: Sound FX"
 weight: 8
 type: docs
 description: >
-  SmoothCam, and mods to improved movement and UI controls.
+  Improved sound effects with additional sliders.
 ---
 
-##### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files)
+##### [Audio Overhaul for Skyrim (AOS)](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** SmoothCam
-
-#### FOMOD Instructions
-
-- **Select Version:** SmoothCam SSE
-- **Select Plugin Type:** ESL
-
-##### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
-
-##### [Modern Toggle Walk-Run Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44689?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Modern Toggle Walk-Run Fix
-
-##### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Classic Sprinting Redone (Legacy SE)
-
-##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
-
-#### Download Instructions
-
-Download **Better Jumping SE 1.7.1** from the Old Files section.
-
-- **Old Files:** Better Jumping SE
-
-##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Better Dialogue Controls v1_2
-
-##### [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Better MessageBox Controls v1_2
-
-##### [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Auto Input Switch
-
-##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** KeyboardShortcutsFix_SKSE64
+* **Main Files:** Audio Overhaul Skyrim (3.3.2)
+* **Miscellaneous Files:** Weather Patch for Cathedral Weathers
 
 #### Additional Instructions
 
-- Right-click **Keyboard Shortcuts Fix** in your mod order.
-- Select **Open in Explorer** and navigate to `\SKSE\Plugins\`.
-- Right-click anywhere and select **New** >> **Text Document**.
-- Rename the new file to **KeyboardShortcutsFix.log** (make sure to change the file extension).
+* Delete the following file(s) and/or folder(s):
+  * `Audio Overhaul Skyrim.modgroups`
 
-> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
+##### [Audio Overhaul for Skyrim - Unique Uniques Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Audio Overhaul for Skyrim - Unique Uniques Patch
+
+##### [Forceful Tongue - Audio Overhaul for Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** Forceful Tongue - Audio Overhaul for Skyrim Patch
+
+##### [Immersive Sounds - Compendium (ISC)](https://www.nexusmods.com/skyrimspecialedition/mods/523?tab=files)
+
+#### Download Instructions
+
+- **Old Files:** Immersive Sounds Compendium 3.0
+
+#### FOMOD Instructions
+
+**Page 1**
+
+- **Weapon Impact Options:** IS Default (Extra Bloody)
+- **Unarmed Impact Options:** S'wit Fighter Turbo
+- **Weapon Draw/Sheathe Options:** Semi-Smooth Equip
+
+**Page 2:**
+
+- **Bow Shot Option:** High Fantasy (Shorter Arrow Whistle)
+- **Bow Pull Option:** IS Default
+- **Arrow Impact Options:** High Fantasy
+
+**Page 3:**
+
+- **Extra Weaponry Options:**
+  - Extra Gory Killmove Sounds
+  - Smooth Weapon Swings
+  - Silent Arrow Projectile Loop
+
+**Page 4:**
+
+- **Soul Trap Options:** Soul Suck
+- **Restoration Options:** High Fantasy
+- **Firebolt Options:** Swooshy
+
+**Page 5:**
+
+- **Creature Options:**
+  - Demonic Draugr
+  - Well-Mannered Wolves
+  - Sensible Storm Atronarchs
+  - ~~Brutal Bears~~
+
+**Page 6:**
+
+- **Nirnroot Options:** High Fantasy
+- **Misc Options:**
+  - ~~Oblivion Skillup Sound~~
+  - Dungeon Ambiance
+  - ~~TESO Summoning~~
+  - ~~Silent Weapon Enchants~~
+  - ~~Silent Left Hand~~
+  - Silent Sneak Attack
+  - ~~Silent World Map~~
+  - Silent Player Ragdoll
+
+##### [ISC - Default Soul Capture SFX](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ISC - Default Soul Capture SFX
+
+##### [Immersive Sounds Compendium - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ISC Enhanced Blood Textures Patch
+- **Main Files:** ISC Mysticism - A Magic Overhaul Patch
+
+#### Additional Instructions
+
+- ESL-ify **ISC Enhanced Blood Patch.esp** and **ISC Mysticism Patch.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [Immersive Sounds Compendium - Frankly HD Armor and Weapons Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Immersive Sounds Compendium - Frankly HD Imperial Armor and Weapons Patch
+
+##### [Audio Overhaul - Immersive Sounds Compendium Integration](https://www.nexusmods.com/skyrimspecialedition/mods/36761?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)
+
+#### Additional Instructions
+
+* Delete the following file(s) and/or folder(s):
+  * `AOS_ISC_Integration.modgroups`
+
+##### [Thunder Sounds - WiZkiD Mix](https://www.nexusmods.com/skyrimspecialedition/mods/44656?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Thunder Sounds -WiZkiD Mix-
+
+##### [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Quiet Dog - Sit
+
+##### [Realistic Dog Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/49948?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Realistic Dog Sounds
+
+##### [Realistic Husky Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/11038?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Realistic Husky Sounds SE
+
+##### [Heart of the Beast - Werewolf Sound and Texture Overhaul](https://www.nexusmods.com/skyrim/mods/13779?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Werewolf Sounds - LOW AGGRESSION
+
+##### [Skeletons Don't Breathe](https://www.nexusmods.com/skyrimspecialedition/mods/18542?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** skeletons don’t breathe SSE loose files version
+
+##### [Bard Instrumentals Mostly - Sing Rarely](https://www.nexusmods.com/skyrimspecialedition/mods/10927?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bard Instrumentals Mostly - Sing Rarely
+
+##### [Soultrap Sound Edit - Calm Wind](https://www.nexusmods.com/skyrimspecialedition/mods/8017?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** Soultrap Sound Edit Calm Wind v1
+
+##### [Lower Sounding Thieves Guild Door](https://www.nexusmods.com/skyrim/mods/1826?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** LowerVolume

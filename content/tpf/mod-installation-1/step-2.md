@@ -183,29 +183,11 @@ We have now successfully removed the ownership flags. All that remains are the d
 
 ![SLaWF xEdit Delete Dialogue](/Pictures/tpf/mod-installation/slawf-xedit-delete-dialogue.png)
 
-##### [Weapons, Armor, Clothing and Clutter Fixes (WACCF)](https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=files)
+##### [Weapons Armor Attribute Tweaks (WAAT)](https://www.nexusmods.com/skyrimspecialedition/mods/59951?tab=files)
 
 #### Download Instructions
 
-- **Main File** - Weapons Armor Clothing and Clutter Fixes
-
-#### Additional Instructions
-
-Delete the following file(s) and/or folder(s):
-
-- `WACCF_BashedPatchLvlListFix.esp`
-
-##### [WACCF Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43466?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** WACCF Tweaks
-
-##### [WACCF Greatsword Weapon Speed Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files)
-
-#### Download Instructions
-
-- **Miscellaneous Files:** WACCF Greatsword Weapon Speed Tweaks
+- **Main File** Weapon Armor Attribute Tweaks
 
 ##### [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
 
@@ -224,6 +206,18 @@ Delete the following file(s) and/or folder(s):
 #### Download Instructions
 
 - **Main Files:** SkyUI - Ghost Item Bug Fix
+
+##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Dialogue Controls v1_2
+
+##### [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better MessageBox Controls v1_2
 
 ##### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files)
 

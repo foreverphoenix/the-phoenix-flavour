@@ -52,6 +52,12 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 - **Main Files:** Spell Perk Item Distributor - SSE
 
+##### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Base Object Swapper SE
+
 ##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
 
 #### Download Instructions
@@ -111,6 +117,29 @@ SetGS fCombatAimProjectileRandomOffset 70
 #### Download Instructions
 
 - **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
+
+##### [Dragonborn Presence - Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287?tab=files)
+
+#### Download Instructions
+
+This is purely a Discord integration mod. With it installed, other people will be able to see your character's name, level, and location in your profile on Discord. As not everyone might want or need that, **this mod is optional**. You may skip it if you wish.
+
+- **Main Files:** Dragonborn Presence
+
+#### Installation Instructions
+
+The mod consists of an ESP, SKSE plugin, and scripts as well as an additional DLL plugin. The latter needs to be placed in the **root** folder.
+
+- Begin the installation process as usual by double-clicking the archive in the **Downloads** tab.
+- Right-click the **Data** folder and select **Set as \<data> directory**.
+- Click **OK** to install the mod.
+
+Now we need to place the DLL in the **root** folder:
+
+- Right-click the downloaded archive in the **Downloads** tab and select **Open File**.
+- Extract the `discord-rpc.dll` to `\The Phoenix Flavour\Stock Game\`.
+
+The mod is now properly installed.
 
 ---
 

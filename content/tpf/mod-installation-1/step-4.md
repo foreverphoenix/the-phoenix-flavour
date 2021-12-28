@@ -142,6 +142,16 @@ ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resour
 * **Main Files:** Falion Is Rude
 * **Main Files:** Roggvir's Amulet of Talos
 
+##### [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** No Spinning Death Animation MERGED
+
+#### Additional Instructions
+
+- ESL-ify **dD-No Spinning Death Animation Merged.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [NPCs Run and Walk at Your Pace](https://www.nexusmods.com/skyrimspecialedition/mods/2482?tab=files)
 
 #### Download Instructions
@@ -247,6 +257,12 @@ ESL-ify **SimplySmallerWolfs2.esp** with SSEEdit ([instructions](/tpf/guide-reso
 #### Download Instructions
 
 - **Main Files:** Butterflies Unchained (ESL Version)
+
+##### [Modern Toggle Walk-Run Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44689?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Modern Toggle Walk-Run Fix
 
 ---
 

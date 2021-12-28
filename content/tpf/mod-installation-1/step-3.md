@@ -290,6 +290,41 @@ Download **Forget Spell 1.2.2** from the Old Files section.
 - **Choose Game:** Skyrim Special Edition
 - **Interface:** SkyUI
 
+##### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Classic Sprinting Redone (Legacy SE)
+
+##### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files)
+
+#### Download Instructions
+
+Download **Better Jumping SE 1.7.1** from the Old Files section.
+
+- **Old Files:** Better Jumping SE
+
+##### [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Auto Input Switch
+
+##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** KeyboardShortcutsFix_SKSE64
+
+#### Additional Instructions
+
+- Right-click **Keyboard Shortcuts Fix** in your mod order.
+- Select **Open in Explorer** and navigate to `\SKSE\Plugins\`.
+- Right-click anywhere and select **New** >> **Text Document**.
+- Rename the new file to **KeyboardShortcutsFix.log** (make sure to change the file extension).
+
+> The mod will later write in the LOG file to confirm the mod is working. By creating the file now, we prevent the mod from generating it on its own which would place it in the MO2 Overwrite folder from where you would have to move it back to the mod folder manually.
+
 ---
 
 #### Continue with the [Fixes & Tweaks](/tpf/mod-installation-1/step-4/) page.

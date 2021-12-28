@@ -164,6 +164,24 @@ Delete everything except for the files show in the screenshot below:
 
 ![Tamrielic Landscapes Textures](/Pictures/tpf/mod-installation/tamrielic-landscapes-textures.png)
 
+##### [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rally's Solstheim Landscapes 2K
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\dlc02\landscape\dlc2basaltcolumnsingle.dds`
+  - `textures\dlc02\landscape\dlc2basaltcolumnsingle_n.dds`
+  - `textures\dlc02\landscape\dlc2basaltside.dds`
+  - `textures\dlc02\landscape\dlc2basaltside_n.dds`
+  - `textures\dlc02\landscape\dlc2basalttop.dds`
+  - `textures\dlc02\landscape\dlc2basalttop_n.dds`
+
+> We are installing this mod primarily for its ash textures which are rougher and less prone to tiling than Skyland's.
+
 ##### [HD Stone Quarry and Clay Deposit](https://www.nexusmods.com/skyrimspecialedition/mods/37985?tab=files)
 
 #### Download Instructions
@@ -200,11 +218,19 @@ Delete everything except for the files show in the screenshot below:
 
 > These meshes are part of Fixed Mesh Lighting and should not be overwritten.
 
-##### [Better Dynamic Ash](https://www.nexusmods.com/skyrimspecialedition/mods/54754?tab=files)
+##### [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/54754?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Better Dynamic Ash SE v2.1.1
+* **Main Files:** Shaders of Solstheim - Ash and Moss
+
+##### [Ashbound - Solstheim Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/14663?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ashbound 1.1
+
+> This mod does not actually require Better Dynamic Ash; it works just as well with the Shaders of Solstheim ash shader.
 
 ##### [Realistic Water Two (RW2)](https://www.nexusmods.com/skyrimspecialedition/mods/2182?tab=files)
 

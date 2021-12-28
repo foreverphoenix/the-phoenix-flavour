@@ -30,11 +30,11 @@ description: >
 
 - **Main Files:** Opt. 1 - Modified Vanilla Favorites
 
-##### [Immersive HUD - iHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440?tab=files)
+##### [FadingSignal's Hide UI - Improved](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Immersive HUD - iHUD
+- **Main Files:** FadingSignal's Hide UI - Improved
 
 ##### [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=files)
 
@@ -48,7 +48,7 @@ description: >
 * **Install:** Loose Files
 * **Preset:** None
 * **Optional:**
-  * Install iHUD compatibility patch
+  * ~~Install iHUD compatibility patch~~
   * ~~Extra presets~~
 
 ##### [SkyHUD - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
@@ -137,6 +137,13 @@ description: >
 - **Perk Stars:** Option 2
 - **Dawnguard:** HD Masser and Secunda and More Stars
 - **Vampire Background:** HDR Nebula
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\interface\`
+
+> This is required for Hand To Hand - An Adamant Addon to work and display the new skill constellations.
 
 ##### [Shouts in the Dragon Tongue (SIDT)](https://www.nexusmods.com/skyrimspecialedition/mods/5515?tab=files)
 

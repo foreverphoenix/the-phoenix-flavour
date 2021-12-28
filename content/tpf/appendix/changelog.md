@@ -52,6 +52,8 @@ In addition, all file names for the separate pages were edited which also affect
 **Added in TPF 5.0:**
 
 - powerofthree's Papyrus Extender
+- Base Object Swapper
+- Dragonborn Presence - Discord Rich Presence
 - SSE Display Tweaks - Custom INI
 - Weapon Armor Attribute Tweaks
 - SkyUI Ghost Item Bug Fix
@@ -63,6 +65,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Stamina of Steeds
 - Butterflies Land True
 - Butterflies Unchained
+- Modern Toggle Walk-Run Fix
+- FadingSignal's Hide UI - Improved
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
@@ -76,14 +80,16 @@ In addition, all file names for the separate pages were edited which also affect
 - Simplicity of Snow - Blended Roads Patch
 - Northfire's Skidmarks
 - Skyland - A Landscape Texture Overhaul
+- Shaders of Solstheim - Ash and Moss
+- Ashbound - Solstheim Enhanced
 - Lanterns of Skyrim
 - Waymark - A Road Signs Mod
 - Happy Little Trees
-- Happy Little Trees - Better Dynamic Ash Patch
 - Happy Little Trees Add-On - DynDOLOD 3
 - Slightly Better - Old People Consistency
 - Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
+- Stones of Solitude - Better Blended Rock Piles
 - Raven Rock Building Tweaks
 - WiZkiD Parallax Imperial Forts
 - Skyrim Remastered - Castle Volkihar and Clutter
@@ -131,9 +137,26 @@ In addition, all file names for the separate pages were edited which also affect
 - Pilgrim - A Religion Overhaul
 - Canis Hysteria
 - Coherent Inn Prices
-- SmoothCam
-- iHUD - SmoothCam Automated Compatibility Patch
-- Modern Toggle Walk-Run Fix
+- Simple Smithing Overhaul Simplified (No WACCF)
+- Misc Tweaks - Decluttered Crafting Menus
+- Book Covers Skyrim - Apothecary Patch
+- Apothecary - Hearthfire Crispy Dumplings Patch
+- Thaumaturgy - An Enchanting Overhaul
+- Adopt Aventus Aretino - USSEP and Simple Children Patch
+- Dark Brotherhood Rising Revengeance
+- Misc Dialogue Edits - Save the Icerunner Patch
+- Easier Mara Quest
+- Unofficial Material Fix - Improved Traps Patch
+- Dragon Claws Auto Unlock
+- Use Telekinesis on Traps
+- Angi's Camp Tweaks
+- True Directional Movement
+- Draw 2
+- Movement Behaviour Overhaul
+- Movement Behavior Overhaul - True Directional Movement Patch
+- Audio Overhaul for Skyrim - Unique Uniques Patch
+- ISC - Default Soul Capture SFX
+- Immersive Sounds Compendium - Frankly HD Imperial Armor and Weapons Patch
 
 **Removed in TPF 5.0:**
 
@@ -143,6 +166,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Misc Tweaks - Better Ancient Knowledge Perk
 - Hank's Gamepad and Controller Fixes
 - Disable Follower Collision
+- No Crime Teleport
+- Immersive HUD
 - SMIM - Assorted Mesh Fixes Patch
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
 - Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
@@ -162,7 +187,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Mountains Enhanced
 - Moss Rocks
 - Better Dynamic Snow
-- Rally's Solstheim Landscapes
+- Better Dynamic Ash
 - Point The Way
 - Enhanced Vanilla Trees
 - HD Vanilla Tree Bark - ESRGAN AI Upscale
@@ -186,6 +211,16 @@ In addition, all file names for the separate pages were edited which also affect
 - Armor and Clothing Extension
 - Tweaks for WACCF and ACE
 - Misc Tweaks - More Expensive Inns
+- Simple Smithing Overhaul
+- Lightweight Smithing Tweaks for SSO
+- Enchanting Adjustments Updated
+- Better Stealth AI for Followers
+- Dragon War - A Dragon Overhaul
+- Viewable Faction Ranks
+- Dragon Wall Wisdom - Readable Dragon Walls
+- Forceful Tongue - Dragon Wall Wisdom Patch
+- Slof's Trotting Horse
+- Dragon War - Audio Overhaul for Skyrim Patch
 
 **Other notable changes:**
 
