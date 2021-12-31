@@ -161,8 +161,6 @@ The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Mi
 - **Documentation:** Updated for the new additions.
 - **Screenshots:** Added eight new screenshots showcasing Obsidian Weathers/Truth ENB.
 
----
-
 ## Release 1.6.1
 
 > 22/11/2021
