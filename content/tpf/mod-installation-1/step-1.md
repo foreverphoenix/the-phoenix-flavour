@@ -118,6 +118,25 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 - **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
 
+##### [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Auto Input Switch
+
+##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** KeyboardShortcutsFix_SKSE64
+
+#### Additional Instructions
+
+- Double-click **Keyboard Shortcuts Fix** in your mod order.
+- Switch to the to **INI Files** tab and select the **KeyboardShortcutsFix.ini**.
+- In **line 2**, set `iEnableLogging=` to `0`.
+- Press CTRL + S to save your changes and close the window.
+
 ##### [Dragonborn Presence - Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287?tab=files)
 
 #### Download Instructions
