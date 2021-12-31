@@ -3,7 +3,7 @@ title: "Customisation"
 weight: 3
 type: docs
 description: >
-  Small tweaks anyone can do for Legends of the Frost.
+  Various supported tweaks for Legends of the Frost.
 ---
 
 ## Uncap the framerate
@@ -126,9 +126,11 @@ I personally set `EnableRainWetSurfaces` to false in the preset (I do not like t
 
 Additionally, it is recommended to disable Skyrim's volumetric light (godrays) as the Truth preset has ENB godrays enabled by default. Refer to the picture below for instructions.
 
-> Note that INI tweaks are reset when updating LOTF.
+> Note that updating LOTF will reset the INI files to default.
 
 ![Truth ENB 3](/Pictures/lotf/customisation/truth-enb-3.png)
+
+## Performance Adjustments
 
 ### Completely Remove ENB
 
@@ -142,5 +144,7 @@ In addition, please also disable one mod depending on ENB complex particle light
 - Disable the **Radiant - Candles** mod which would make candles look weird without ENB.
 
 You can also re-enable ambient occlusion to replace ENB ambient occlusion. The effect comes with a performance impact as well as a noticable visual improvement:
+
+> Note that updating LOTF will reset the INI files to default.
 
 ![Enable SSE AO](/Pictures/lotf/customisation/enable-sse-ao.png)

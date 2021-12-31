@@ -56,6 +56,8 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 If you are currently playing in a language other than English, please go into the settings for Skyrim SE in your Steam library and revert the language to English. After changing the language, Steam should automatically download the required files (launch the game to force the download if it doesn't).
 
+After updating the game language, please launch the game once and quit from the main menu.
+
 ## Wabbajack Installation
 
 Next up you need to install the Wabbajack tool itself:
@@ -110,7 +112,20 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
-There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
+### Customisation
+
+Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/lotf/customisation) page.
+
+Additionally, there are two extra profiles included with the base LOTF one in Mod Organizer 2.
+
+- If you own **Creation Club** content / the AE DLC, you can use the LOTF CC profile. [Instructions here](/lotf/creation-club/).
+- If your system is well below Skyrim's usual system requirements, you may want to try the **Performance** profile.
+
+> Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Legends of the Frost\profiles\Legends of the Frost\saves\` to `\Legends of the Frost\profiles\Legends of the Frost - Performance\saves\` manually. Please do not attempt to switch from the CC profile to either the regular or performance profile in an ongoing playthrough.
+
+Check the picture below to see how to switch to a different profile in MO2:
+
+![Swap MO2 Profile](/Pictures/lotf/customisation/swap-mo2-profile.png)
 
 ### ENB Hotkeys
 

@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-weight: 4
+weight: 5
 type: docs
 description: >
   Mods and features included in Legends of the Frost.
@@ -26,17 +26,21 @@ As of LOTF 1.4, ENB complex particle light (*without* the performance-intense Bi
 
 For interiors I combined [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) with its lightbulb adjustments and fixes with [Ambiance](https://www.nexusmods.com/skyrimspecialedition/mods/46383). Together these two mods tone down vanilla's often overly bright interiors, again without making them unplayable, as well as reduce the ambient light without actual sources.
 
+---
+
+Since LOTF 2.0, you also have the option to swap the weather overhaul to [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125) and/or the ENB preset to [The Truth ENB](https://www.afkmods.com/index.php?/files/file/2241-the-truth-enb/). They look absolutely stunning together, arguably more an overhaul of vanilla than Wander which puts stronger emphasis on colours. Please refer to the [Weather & ENB](/lotf/customisation/weather-enb/) customisation page if you're interested in giving Obsidian/Truth a shot.
+
 ### Textures & Meshes
 
 This section was the hardest one for me to limit myself. In my personal opinion, there are two choices when starting to replace textures in Skyrim: Either stick strictly to the vanilla style using primarily upscaled textures, or go all in with hundreds of hand-made, high-quality textures. Naturally, I went with the latter for Legends of the Frost and chose [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) and [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul) to make up the bulk of the replaced textures (and the overall filesize).
 
 (If you are wondering why vanilla textures were not an option, watch [this video](https://youtu.be/nHkCJcUJkTM).)
 
-Beyond these major overhauls, I elected to add only those mods that I consider absolutely essential for fixing various eye sores. This includes [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) and [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834) as well as [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052). Water was hugely improved by [Cathedral Water Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22962).
+Beyond these major overhauls, I elected to add only those mods that I consider absolutely essential for fixing various eye sores. This includes [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) and [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834) as well as [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052). Water was hugely improved by [Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182).
 
 Most flora-related textures are covered by [Cathedral - Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104) and [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103). I did add [Enhanced Vanilla Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008) to the mix, using the lush version for improved meshes and textures, and vastly improved LOD resources, but with the same colours as vanilla trees. With [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890), their bark textures were significantly improved.
 
-I considered sticking with vanilla grass, but eventually opted for [Skyrim Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2154) grass instead. It is close in style to vanilla (more sparse than most other grass overhauls) while looking noticably better in many places.
+LOTF's current grass overhaul is from [Enhanced Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/18162). Note that the rest of the Enhanced Landscapes package is not included. Its grass module matches Skyrim's original style beautifully and has some great visual synergy with Skyrim Realistic Overhaul's landscape textures.
 
 ### Character Appearance
 
@@ -72,6 +76,8 @@ With [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592)
 
 Because of [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532), you will no longer be able to underfill soul gems: For instance, if you have no Empty Lesser Soul Gems in your inventory, a captured lesser soul will be lost rather than placed in an Empty Greater Soul Gem. The same mod will also make it so your *best* arrows or bolts are equipped upon switching to a ranged weapon instead of your *worst* (which is vanilla behaviour).
 
+I am personally a big fan of [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049) so that all equipped weapons are properly shown on the player and NPCs. This required the [XP32 Maximum Skeleton](https://www.nexusmods.com/skyrimspecialedition/mods/1988) replacer as well as [Project New Reign - Nemesis Ultimate Behavior Engine](https://www.nexusmods.com/skyrimspecialedition/mods/60033). I also chose to add the mod [Draw 2](https://www.nexusmods.com/skyrimspecialedition/mods/45579) so that equip/unequip animations match the weapon positions. Since I did not include the full XPMSSE and RaceMenu with NiOverride there will be no save bloat.
+
 And finally horses were improved by [Simple Horse Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/50250). Most horses are set them to Cowardly and Protected, meaning they flee combat and can only be killed if the player deals the killing blow. Speed, stamina, and handling were also improved.
 
 ### Quests & NPCs
@@ -95,3 +101,9 @@ AS for NPCs, I added some general quality of life fixes. They will flee dragon a
 - [NPCs Run and Walk At Your Pace](https://www.nexusmods.com/skyrimspecialedition/mods/2482): NPCs walking speed now matches your own instead of being *slightly* slower.
 - [Bard Instrumentals Mostly - Sing Rarely](https://www.nexusmods.com/skyrimspecialedition/mods/10927): Bards in inns will mostly play instrumentals unless you request a song.
 - [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221): This *should* fix the mannequins' creepy habit of moving around when you are not looking.
+
+### Creation Club
+
+Some Creations are supported in a separate and optional profile as of LOTF 2.0. I intend to ultimately support all Creations so that the LOTF CC profile becomes a great way to experience the new content in a lightly modded environment. I did include the [Unofficial Creation Club Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) were appropriate and installed kartoffel's [Creation Club Anniversary Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58801) textures as well as several of [TateTaylor's amazing CC integration mods](https://www.nexusmods.com/skyrimspecialedition/users/61720101?tab=user+files).
+
+You can find a full list of all Creations currently supported by LOTF as well as instructions on how to use the CC profile on the [Creation Club](/lotf/creation-club/)  page.

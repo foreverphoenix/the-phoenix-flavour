@@ -1,6 +1,6 @@
 ---
 title: "Changelog"
-weight: 6
+weight: 7
 type: docs
 description: >
   Update notes for Legends of the Frost.
@@ -8,26 +8,33 @@ description: >
 
 ## Release 2.0
 
-> TBD
-
-**Features:**
+> 31/12/2021
 
 - Support for **Obsidian Weathers and Seasons** as an alternative to Wander.
-- Instructions for **swapping out** the ENB preset **or disabling ENB** altogether.
-- Inclusion of **Nemesis** as well as a stripped down XPMSSE and RaceMenu for **Simple Dual Sheath**.
+- Instructions for **swapping out** the ENB preset for Truth ENB **or disabling ENB** altogether.
+- Inclusion of **Nemesis** as well as a stripped down XPMSSE for **Simple Dual Sheath**.
 - Better water (**Realistic Water Two**), readable road signs (HD Road Signs), new grass overhaul (Enhanced Landscapes).
-- New **Creation Club profile** with support for Saints & Seducers, Rare Curios, The Cause, and Forgotten Seasons.
+- New **Creation Club profile** with support for 14 Creations (so far).
 - New **performance profile** with lighter INI settings and DynDOLOD setup (not compatible with CC profile).
 
 LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be able to stay on SKSE 2.0.20 for SSE 1.5.97.0 (pre-AE). This is because not all of LOTF's SKSE-dependent mods (25/38) were updated yet. With the "best of both worlds" patcher all game files other than the executable are from the latest AE version though, meaning all assets for new creations are present and AE content can be used.
 
 **Removal of Immersive HUD:** Skyrim's UI is fairly unintrusive already, but the ability to disable the HUD still comes in handy for taking screenshots. iHUD unfortunately has some issues with the crosshair (it sometimes vanishes completely for me) so I decided to just replace it with Luca's version of fadingsignal's Hide UI. It completely disables the UI at the press of a button so it doesn't ruin a pretty screenshot.
 
-**HOW TO UPDATE**
+### How To Update
 
-- Disable iHUD and DynDOLOD in the MCMs
+Before updating LOTF to 2.0 for an ongoing playthrough, please load your latest save and follow these instructions:
 
-#### LOTF Changes
+- In the **Immersive HUD** MCM, please uncheck **iHUD Active** to completely turn off iHUD.
+- Make sure you are in an exterior location and open the **DynDOLOD** MCM.
+- Uncheck **DynDOLOD is active** and wait for the confirmation box to pop up.
+- Go into any interior cell and save, then quit the game.
+- In Mod Organizer 2 under the **CRP & PATCHER OUTPUTS** separator, uncheck the **TexGen** and **DynDOLOD** outputs.
+- Load your save, click **OK** to missing masters, and create a new manual save.
+
+Now you can safely update LOTF through Wabbajack and continue your playthrough.
+
+#### Legends of the Frost
 
 - Added Spiders of Solstheim - Transparency Fix
 - Added HD Road Signs 2K
@@ -39,19 +46,20 @@ LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be abl
 - Added Snowy Windhelm Bridge
 - Added Enhanced Landscapes - Grass Overhaul
 - Added Tempered Racial Textures
+- Added Slightly Better - Old People Consistency
 - Added Nemesis Unlimited Behavior Engine
-- Added RaceMenu (only files required for XPMSSE)
+- Added Dynamic Animation Replacer
 - Added XP32 Maximum Skeleton Special Extended
-- Added XP32 Maximum Skeleton Special Extended - Fixed Scripts
-- Added XPMSSE Weapon Styles Uncloaked
+- Added Draw 2 - Dual Weapon Equip-Unequip Animations
 - Added Simple Dual Sheath
+- Updated Mod Organizer to 2.4.4
 - Updated SSELODGen to Beta 85
 - Updated DynDOLOD to Alpha 56
 - Updated Cathedral Assets Optimizer to 5.3.8
 - Updated SSE Display Tweaks to 0.5.6b
 - Updated Weapons Armor Clothing and Clutter Fixes to 2.8
 - Updated DynDOLOD Resources to Alpha 16
-- Updated Assorted Mesh Fixes to 0.39.2
+- Updated Assorted Mesh Fixes to 0.41
 - Updated powerofthree's Tweaks to 1.4.1
 - Updated Spell Perk Item Distributor to 5.2
 - Updated Charge Dialogue Fix to 1.3
@@ -73,19 +81,22 @@ LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be abl
 - Rebuilt most of the Project Clarity BSAs
 - Fixed load screen blocker (DynDOLOD load screens should no longer appear)
 - Hopefully (?) fixed two flickering lights in Honeyside (one remains)
+- Disabled logging in Keyboard Shortcuts Fix
 - Changed the ENB FPS display hotkey from F7 to F8
 - Reinstalled SkyHUD without the Immersive HUD patch
 - Reinstalled Majestic Mountains without the effect meshes
 - Installed zEdit in the Tools folder for the SLaWF Remove Crop Ownership script
 - Completely remove the crop ownership feature in Skyrim Landscape and Water Fixes
 - Re-enabled faction stealing in powerofthree's Tweaks
+- Included three custom presets with the CAO installation as requested
 - Added an icon to the SKSE executable (installation instructions were updated accordingly)
 - Resolved conflicts between new mods in the CRP
+- Regenerated facegen for the main and CC profiles
 - Generated Nemesis output
 - Regenerated terrain LOD with SSELODGen Beta 85
 - Regenerated tree and object LOD with DynDOLOD Beta 58
 
-#### LOTF Wander ENB Changes
+#### LOTF Wander ENB
 
 The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Minimal ENB).
 
@@ -93,20 +104,46 @@ The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Mi
 - Removed some arbitrary tweaks in the ENB grass section
 - Removed some arbitrary tweaks in the ENB particles section that made water in interiors at night unnaturally bright
 
-#### CC Profile Changes
+#### Creation Club Profile
 
-- Added new "Legends of the Frost - Creation Club Profile"
+**Supported Creations:**
+
+- Saints & Seducers
+- Forgotten Seasons
+- The Cause
+- Divine Crusader
+- Netch Leather Armor
+- Chrysamere
+- Alternate Armors - Daedric Mail
+- Alternate Armors - Dwarven Mail
+- Alternate Armors - Ebony Plate
+- Alternate Armors - Elven Hunter
+- Alternate Armors - Stalhrim Fur
+- Alternate Armors - Steel Soldier
+- Alternate Armors - Studded Dragonscale
+- Rare Curios
+
+**Additional Mods:**
+
 - Added Cleaned and Upscaled Textures - Ayleid Assets
-- Added Creation Club - Saints and Seducers
 - Added Cleaned and Upscaled Textures - Saints and Seducers
 - Added Unofficial Creation Club Patches - Saints and Seducers
 - Added Realistic Water Two - Saints and Seducers Patch
-- Added Creation Club - Forgotten Seasons
 - Added Cleaned and Upscaled Textures - Forgotten Seasons
 - Added Unofficial Creation Club Patches - Forgotten Seasons
-- Added Creation Club - The Cause
 - Added Cleaned and Upscaled Textures - The Cause
-- Added Creation Club - Rare Curios
+- Added Cleaned and Upscaled Textures - Knights of the Nine
+- Added Knight of the North - A Creation Club Quest Overhaul
+- Added Cleaned and Upscaled Textures - Netch Leather Armor
+- Added Morrowind Threads - A Creation Club Integration Mod
+- Added Cleaned and Upscaled Textures - AA Daedric Mail
+- Added Cleaned and Upscaled Textures - AA Dwarven Mail
+- Added Cleaned and Upscaled Textures - AA Ebony Plate
+- Added Cleaned and Upscaled Textures - AA Elven Hunter
+- Added Cleaned and Upscaled Textures - AA Stalhrim Fur
+- Added Cleaned and Upscaled Textures - AA Steel Soldier
+- Added Cleaned and Upscaled Textures - AA Studded Dragonscale
+- Added On A Crimson Trail
 - Added Cleaned and Upscaled Textures - Rare Curios
 - Added Unofficial Creation Club Patches - Rare Curios
 - Added Curated Curios - A Creation Club Integration Mod
@@ -115,11 +152,14 @@ The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Mi
 
 #### Website Changes
 
+- **Installation:** Added references to the new optional profiles.
 - **Customisation:** Slightly shuffled the contents of this page around.
 - **Customisation:** Added Swap to Obsidian Weathers section.
-- **Customisation:** Added Swap to The Truth ENB section.
-- **Customisation:** Added Completely Removed ENB section
-- **Documentation:** Fixed a wrong link.
+- **Customisation:** Added Swap to Truth ENB section.
+- **Customisation:** Added Completely Remove ENB section.
+- **Creation CLub:** Added this page with instructions for the CC profile.
+- **Documentation:** Updated for the new additions.
+- **Screenshots:** Added eight new screenshots showcasing Obsidian Weathers/Truth ENB.
 
 ---
 
