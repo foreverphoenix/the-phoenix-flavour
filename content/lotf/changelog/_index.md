@@ -14,7 +14,7 @@ So the initial 2.0 release was unplayable, cool.
 
 After fixing 2.0 and realising that I was still unable to compile, I found out that at some point I had yeeted my backup of the modified Minimal ENB for Obsidian Weathers that LOTF has been using alongside Wander. I ultimately just reinstalled the preset and applied the tweaks that I still remembered but it's probably not all of them. I honestly don't know. Either way, I recommend The Truth ENB and the only reason it's not the default preset is because it was taken off the Nexus.
 
-### Mod Changes
+#### Changes
 
 - Obsidian Weathers and related mods are now actually included
 - Replaced texture BSAs in Stock Game folder with UPOT (Unofficial Performance Optimised Textures)
@@ -36,7 +36,7 @@ LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be abl
 
 **Removal of Immersive HUD:** Skyrim's UI is fairly unintrusive already, but the ability to disable the HUD still comes in handy for taking screenshots. iHUD unfortunately has some issues with the crosshair (it sometimes vanishes completely for me) so I decided to just replace it with Luca's version of fadingsignal's Hide UI. It completely disables the UI at the press of a button so it doesn't ruin a pretty screenshot.
 
-### How To Update
+#### How To Update
 
 Before updating LOTF to 2.0 for an ongoing playthrough, please load your latest save and follow these instructions:
 
