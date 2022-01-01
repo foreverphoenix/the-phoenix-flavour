@@ -6,6 +6,21 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.0.1
+
+> 01/01/2021
+
+So the initial 2.0 release was unplayable, cool.
+
+After fixing 2.0 and realising that I was still unable to compile, I found out that at some point I had yeeted my backup of the modified Minimal ENB for Obsidian Weathers that LOTF has been using alongside Wander. I ultimately just reinstalled the preset and applied the tweaks that I still remembered but it's probably not all of them. I honestly don't know. Either way, I recommend The Truth ENB and the only reason it's not the default preset is because it was taken off the Nexus.
+
+### Mod Changes
+
+- Obsidian Weathers and related mods are now actually included
+- Replaced texture BSAs in Stock Game folder with UPOT (Unofficial Performance Optimised Textures)
+- Fixed an error in the WABBAJACK_IGNORE_FILES.txt that caused the entire Stock Game folder to be ignored
+- Reinstalled Minimal ENB for Obsidian, some tweaks were probably lost
+
 ## Release 2.0
 
 > 31/12/2021
