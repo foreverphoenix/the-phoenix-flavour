@@ -6,6 +6,16 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.0.2
+
+> 02/01/2021
+
+Of course I forgot to update the SSE version shenanigans in the Installation instructions and probably caused quite a bit of headache because of that. LOTF 2.x requires the *latest* version of Skyrim SE installed in your Steam folder. Thanks to JanuarySnow for reminding me!
+
+#### Website Changes
+
+- **Installation:** Fixed a fairly critical oversight, clarified that latest SSE version is required for installing LOTF
+
 ## Release 2.0.1
 
 > 01/01/2021
@@ -14,7 +24,7 @@ So the initial 2.0 release was unplayable, cool.
 
 After fixing 2.0 and realising that I was still unable to compile, I found out that at some point I had yeeted my backup of the modified Minimal ENB for Obsidian Weathers that LOTF has been using alongside Wander. I ultimately just reinstalled the preset and applied the tweaks that I still remembered but it's probably not all of them. I honestly don't know. Either way, I recommend The Truth ENB and the only reason it's not the default preset is because it was taken off the Nexus.
 
-#### Changes
+#### Mod Changes
 
 - Obsidian Weathers and related mods are now actually included
 - Replaced texture BSAs in Stock Game folder with UPOT (Unofficial Performance Optimised Textures)
