@@ -6,6 +6,15 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.1
+
+> TBD
+
+#### Mod Changes
+
+- Fixed Slightly Better - Old People Consistency being disabled on the LOTF CC profile
+- Restored LOTF's tweaked version of Minimal ENB for Obsidian Weathers thanks to Slim
+
 ## Release 2.0.2
 
 > 02/01/2021
