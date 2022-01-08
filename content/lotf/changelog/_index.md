@@ -6,9 +6,47 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.1
+
+> 07/01/2022
+
+I hadn't planned to update LOTF again, but the recent SSE update made it necessary. This update was compiled with SSE 1.6.353.0 which is the latest version so please do not use the downgrade patcher.
+
+#### Mod Changes
+
+- Added Optional Round Farmhouse Posts
+- Added Major Cities Mesh Overhaul
+- Added 3D Whiterun Trellis
+- Added 3D Riften Trellis and Roofs
+- Added 3D Solitude Market Trellis
+- Updated DynDOLOD to Alpha 60
+- Updated SSE Display Tweaks to 0.5.8
+- Updated DynDOLOD Resources Alpha 17
+- Updated Assorted Mesh Fixes to 0.41.1
+- Updated Flickering Meshes Fix to 1.8
+- Updated Better Windhelm Ground Meshes to 1.3.3
+- Installed the Majestic Mountains / Skyrim Mountainous patches from Flickering Meshes Fix separately
+- Moved Skyrim Landscape and Water Fixes below the ESSENTIALS separator
+- Set two meshes in SMIM that were conflicting with SLaWF to hidden
+- Disabled physics damage via SSE Display Tweaks (new feature)
+- Removed physics damage threshold command from the Autorun.txt (now covered by SSE Display Tweaks)
+- Removed bigger sandboxing radius command from the Autorun.txt (has some unintentional side effects)
+- Better Windhelm Ground Meshes now has priority, fixing a visual bug (thanks Shade088!)
+- Fixed a minor visual glitch on the shore across from Solitude's harbor
+- Fixed Slightly Better - Old People Consistency being disabled on the LOTF CC profile
+- Restored LOTF's tweaked version of Minimal ENB for Obsidian Weathers thanks to Slim
+- Reinstalled MO2 plugins that were lost after the update (deorder's, LOOT Preventifier)
+- Disabled the Sort Plugins button in MO2 (another change lost after uppdating)
+
+*Note that while I did update DynDOLOD, I did not regenerate LODs for this update.*
+
+#### Website Changes
+
+- **Installation:** Updated latest version number.
+
 ## Release 2.0.2
 
-> 02/01/2021
+> 02/01/2022
 
 Of course I forgot to update the SSE version shenanigans in the Installation instructions and probably caused quite a bit of headache because of that. LOTF 2.x requires the *latest* version of Skyrim SE installed in your Steam folder. Thanks to JanuarySnow for reminding me!
 
@@ -18,7 +56,7 @@ Of course I forgot to update the SSE version shenanigans in the Installation ins
 
 ## Release 2.0.1
 
-> 01/01/2021
+> 01/01/2022
 
 So the initial 2.0 release was unplayable, cool.
 

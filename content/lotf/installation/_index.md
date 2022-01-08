@@ -43,7 +43,7 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 ## Skyrim SE Setup
 
-**LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.342.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
+**LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
 
 - If you are on **Skyrim SE 1.6.342.0**, you can install LOTF without running the downgrade patcher.
 - If you are on any older version, please verify files through Steam to install the update.
