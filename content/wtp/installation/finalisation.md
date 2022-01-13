@@ -58,6 +58,26 @@ If you are unhappy with the default cap at 60FPS, you can change it. To do so, f
 
 ![Change FPS Cap](/Pictures/wtp/installation/change-fps-cap.png)
 
+## Ultrawide Support
+
+> Skip this page and continue with the [New Game](wtp/installation/new-game/) instructions if you have a 16:9 monitor.
+
+Since release 2.2, WTP officially supports ultrawide monitors with a **21:9 ratio**, i.e. resolutions of **2560x1080** or **3440x1440**. This requires a few minor changes in Mod Organizer 2 that you should go through before starting your playthrough.
+
+### INI Changes
+
+Upon installing WTP, Wabbajack should automatically detect your monitor's default resolution and configure Fallout4Prefs.ini accordingly. However, if you wish you can check this and make sure the correct resolution is set. To do so, open the **INI Editor** in MO2, go to the **Fallout4Prefs.ini** tab and scroll to the **[Display]** section.
+
+If the resolution is not correct, change it and click the **SAVE** button at the bottom before closing the window.
+
+![Change Resolution](/Pictures/wtp/installation/change-resolution.png)
+
+### Additional Mods
+
+In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are three mods below it. Activate all three by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
+
+![Ultrawide Mods](/Pictures/wtp/installation/ultrawide-mods.png)
+
 ---
 
-#### Continue with the [New Game](/wtp/installation/new-game/) page.
+#### Continue with the [Ultrawide](/wtp/installation/ultrawide/) page.
