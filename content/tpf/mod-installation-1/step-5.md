@@ -6,30 +6,6 @@ description: >
   Additional mods to improve the user interface and HUD.
 ---
 
-##### [Remove Quicksave Button from SkyUI Systems Menu](https://www.nexusmods.com/skyrimspecialedition/mods/28334?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Remove QuickSave Button
-
-#### FOMOD Instructions
-
-- **Options:** 1b - Save-Load-etc, MCM renamed
-
-> While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
-
-##### [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Opt. 1 - Wider MCM Menu for SkyUI
-
-##### [Favorite Things - Extended Favorites Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/27177?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Opt. 1 - Modified Vanilla Favorites
-
 ##### [FadingSignal's Hide UI - Improved](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
 #### Download Instructions
@@ -57,11 +33,34 @@ description: >
 
 - **Main Files:** SkyHUD - TPF Preset
 
-##### [SkyHUD - Alternate White Dot Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/47121?tab=files)
+##### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** white dot
+- **Main Files:** NORDIC UI (Final Design)
+
+#### FOMOD
+
+- **Main:**
+  - HUD (SkyHUD)
+  - Boxes
+  - Race Menu (Vanilla)
+  - Cursor
+  - Dialogue Menu
+  - Favorite Menu
+  - Icons
+  - Pause Menu (Journal)
+  - ~~Map Markers~~
+  - Skill Menu
+  - Skill Menu 3D Visuals
+  - Start Menu
+  - Start Menu 3D Background
+  - Game Menus
+  - UI Sounds
+  - ~~QuickLoot Patch~~
+  - ~~TDM Patch~~
+  - SkyHUD Preset
+- **Loading Screen:** None
 
 ##### [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files)
 
@@ -77,11 +76,58 @@ description: >
 
 > This is faster than ESL-ifying the ESP version.
 
+##### [moreHUD - Settings Loader](https://mega.nz/file/aR9D2KQA#94mShwS0qukNeQzLTvcch8jG0q0qjC41Dsld-kLPfBA)
+
+#### Download Instructions
+
+- Download the linked file from MEGA.
+
+> The regular version of the mod will prevent the moreHUD MCM from initialising if FISS is not present which is the case in TPF.
+
+#### Installation Instructions
+
+- In Mod Organizer 2, click the crossed tools icon above the mod order.
+- Select **Create empty mod**, enter **moreHUD - Settings Loader** as the name, and click **OK**.
+- Right-click your new mod and select **Open in Explorer**.
+- Open the downloaded archive and extract the **scripts** folder into your new mod folder.
+- Press F5 to refresh Mod Organizer 2 and activate the mod.
+
 ##### [moreHUD - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** moreHUD - TPF Preset
+
+##### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** moreHUD Inventory Edition - Pre AE
+
+#### Additional Instructions
+
+- Double-click **moreHUD** in your mod order.
+- Switch to the **Filetree** tab and rename the plugin:
+  - AHZmoreHUDInventory.**esl** >> AHZmoreHUDInventory.**esp** 
+
+> This is faster than ESL-ifying the ESP version.
+
+##### [NORDIC UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** NORDIC UI - Miscellaneous Patches
+
+#### FOMOD Instructions
+
+- **moreHUD Inventory:** Vanilla
+- **Stat Screen Colored Icons:** 2.4 style Icons
+- **Even Better MessageBox Controls:** Install
+- **Extended Hotkey System:** ~~Install~~
+- **MCM:** Wider MCM
+- **Remove QuickSave from System Menu:** ~~Install~~
+- **Loading Screen:** ~~Install~~
+- **Tween Menu:** Install
 
 ##### [A Matter of Time - A Clock HUD Widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937?tab=files)
 
@@ -107,21 +153,6 @@ description: >
 
 - **Main Files:** Horse Stamina HUD
 
-##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/50202?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Convenient Reading
-
-#### Additional Instructions
-
-- Double-click **Convenient Reading** in your mod order.
-- Switch to the **INI Files** tab and select the **Convenient Reading.ini**.
-- In **Line 12** set **sBookStealTextColor=** to **0xFF0000**.
-- Hit **CTRL + S** to save your changes and close the window.
-
-> This will make the Steal button in the book UI red so it's easier to see.
-
 ##### [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files)
 
 #### Download Instructions
@@ -142,8 +173,9 @@ description: >
 
 - Delete the following file(s) and / or folder(s):
   - `meshes\interface\`
+  - `textures\interface\`
 
-> This is required for Hand To Hand - An Adamant Addon to work and display the new skill constellations.
+> The mesh needs to be removed for Hand To Hand - An Adamant Addon to work and display the new skill constellations. The textures are removed so they don't overwrite NORDIC UI. For now, we are only using the Dawnguard improvements of this mod (for the werewolf/vampire perk trees).
 
 ##### [Shouts in the Dragon Tongue (SIDT)](https://www.nexusmods.com/skyrimspecialedition/mods/5515?tab=files)
 
@@ -154,18 +186,6 @@ description: >
 #### Additional Instructions
 
 - ESL-ify **SIDT - Special Edition.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
-
-##### [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Smaller Vanilla Cursors
-
-#### FOMOD Instructions
-
-* **Step 1:** Right
-
-> Of course you can select the "Left" option if you are left-handed.
 
 ##### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files)
 
@@ -248,62 +268,28 @@ Delete the following file(s) and/or folder(s):
 
 - **Main Files:** Menu and Load Smoke Removed for ENB
 
-##### [Main Menu Design Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/30810?tab=files)
+##### [TESG Loadscreen Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/5794?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Main Menu Design Replacer (clean)
+- **Main Files:** TESG Loadscreen Replacer v1.0
 
-##### [Yet Another Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/53798?tab=files)
+#### FOMOD Instructions
+
+- **Loading Screen Options:** Fullscreen option
+
+##### [Oblivion-Like Loading Menu](https://www.nexusmods.com/skyrimspecialedition/mods/38708?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Yet Another Main Menu Replacer
+- **Main Files:** Oblivion-like Loading Menu 16x9
 
-##### [KenMOD - Time On Loading Screen](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf)
+#### FOMOD Instructions
 
-*This mod is now available only on Github. Because its installation is a little more involved, you can skip it if you like. All it does is add a tiny 24h clock to loading screens: [Preview here](https://raw.githubusercontent.com/KenneyNL/Skyrim-Mods/main/Time%20On%20Loading%20Screen/PreviewB.png).*
-
-- Download the [**loadingmenu.swf**](https://github.com/KenneyNL/Skyrim-Mods/blob/main/Time%20On%20Loading%20Screen/Files/Interface/loadingmenu.swf) file from KenneyNL's Github (click the **Download** button on the top right).
-
-![Download KenMOD Time](/Pictures/tpf/mod-installation/kenmod-time-download.png)
-
-- Move the downloaded file to your **temp** folder.
-- Create a new folder called **Interface** and move the **loadingmenu.swf** file inside.
-- Right-click the **Interface** folder and select **Add to archive**.
-- Rename the archive to **KenMOD - Time On Loading Screen**.
-- Move the new mod to `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
-- In MO2, press F5 to refresh and the mod will appear in the **Downloads** tab.
-- From there, you can install it as usual.
-
-#### Configuration File
-
-- Right-click **KenMOD - Time On Loading Screen** in your mod order and select **Open in Explorer**.
-- Open the **interface** folder. Right-click inside and select **New** >> **Text Document**.
-- Name the file **loadingmenu_settings.txt** and open it.
-- Paste the following inside:
-
-```
-// Clock settings (1 = true, 0 = false)
-&showAnalog=1&
-&showTimeString=1&
-&twelveHourClock=0&
-
-// Misc settings
-&showLevelProgressPercentage=0&
-
-// Static background (hides 3D model and hints, for potential spoilers)
-&showStaticBackground=0&
-
-// Turn on/off modules
-&showHints=1&
-&showLevelProgress=1&
-&showTime=1&
-```
-
-- Save your changes and close the text file.
-
-> If you prefer a 12h clock, feel free to set the fourth line to `&twelveHourClock=1&`.
+- **Menu Style:** Paper
+- **Custom Load Screens:** No
+- **Choose mods you have installed:** ~~TES Legends - Loading Screens~~
+- **Choose one:** TES General Loadscreen Replacer
 
 ---
 

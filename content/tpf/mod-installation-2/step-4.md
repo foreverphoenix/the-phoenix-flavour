@@ -171,7 +171,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** ENB Lights For Effect Shaders
+- **Main Files:** ENB Lights for Effect Shaders SE
 
 ##### [Player Spell (and Weapon) Lighting for Vanilla and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/56830?tab=files)
 

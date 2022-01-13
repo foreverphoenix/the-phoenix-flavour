@@ -289,6 +289,12 @@ description: >
 
 - ESL-ify **Open Face Guard Helmets.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
+##### [Open Face Guard Helmets - WAO Patch]()
+
+#### Download Instructions
+
+- **Main Files:** ?
+
 ##### [Sleeved Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/52718?tab=files)
 
 #### Download Instructions

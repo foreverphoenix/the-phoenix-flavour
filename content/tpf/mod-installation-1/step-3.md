@@ -247,6 +247,12 @@ No Gifting = false
 
 - **Main Files:** Uninterrupted Ethereal Form v2
 
+##### [Pause After Unload Unscripted](https://www.nexusmods.com/skyrimspecialedition/mods/60958?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Pause After Unload Unscripted SE-1.0.0.7.rar
+
 ##### [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832?tab=files)
 
 #### Download Instructions
@@ -269,7 +275,9 @@ I am making an exception for this mod in that it is **optional** and you may ski
 
 #### Download Instructions
 
-* **Main Files:** YesImSure
+Download **YesImSure 1.5.0** from the Old Files section.
+
+* **Old Files:** YesImSure
 
 ##### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files)
 

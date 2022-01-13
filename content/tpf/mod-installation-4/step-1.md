@@ -49,6 +49,7 @@ description: >
 - **Main Files:** Hand to Hand - An Adamant Addon >> `for 1.5.97`
 - **Optional Files:** Hand to Hand - Trainers and Skill Books Addon
 - **Miscellaneous Files:** Hand to Hand - BSC Patch
+- **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
 
 ##### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411?tab=files)
 

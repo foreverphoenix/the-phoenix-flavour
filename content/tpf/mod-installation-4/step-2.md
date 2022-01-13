@@ -62,21 +62,45 @@ description: >
 - **Optional Files:** Reasonable Quest Rewards - Bounties Are Worthwhile Patch
 - **Optional Files:** Reasonable Quest Rewards - Dark Brotherhood
 
-##### [Simple Smithing Overhaul Simplified (No WACCF)](https://www.nexusmods.com/skyrimspecialedition/mods/55333?tab=files)
+##### [Simple Smithing Overhaul - TPF Edit]()
 
 #### Download Instructions
 
-- **Main Files:** Simple Smithing Overhaul Simplified\
+- **Main Files:** ?
+
+##### [Simple Smithing Overhaul - Weapons & Armor Overhaul Patch]()
+
+#### Download Instructions
+
+- **Main Files:** ?
+
+##### [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** More Craftable Equipment
+- **Patches (1):** Unofficial Skyrim Special Edition Patch
+- **Patches (2):**
+  - ~~Skyrim Unbound~~
+  - ~~Hunterborn~~
+  - ~~JK's Radiant Raiment~~
+  - ~~Cloaks and Capes~~
 
 #### FOMOD Instructions
 
-- **Perk Overhauls:** Adamant
+- **Optional:** Heartfire Add-on
 
-##### [Misc Tweaks - Decluttered Crafting Menus](https://www.nexusmods.com/skyrimspecialedition/mods/38348?tab=files)
+##### [More Craftable Equipment - Weapons & Armor Overhaul Patch]()
 
-#### Download Instructions
+- **Main Files:** ?
 
-- **Main Files:** Misc Tweaks - Decluttered Crafting Menus
+##### [More Craftable Equipment - Clothing & Jewelry Overhaul Patch]()
+
+- **Main Files:** ?
+
+##### [More Craftable Equipment - Simple Smithing Overhaul Patch]()
+
+- **Main Files:** ?
 
 ##### [Craftable Torches](https://www.nexusmods.com/skyrimspecialedition/mods/5013?tab=files)
 

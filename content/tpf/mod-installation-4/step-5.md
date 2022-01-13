@@ -69,6 +69,12 @@ description: >
 
 > This is faster than downloading and ESL-ifying the ESP version.
 
+##### [Helgen Keep Bandit Chief Executioner](https://www.nexusmods.com/skyrimspecialedition/mods/26816?tab=files)
+
+#### Download Instructions
+
+- **Main Files:**
+
 ##### [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
 
 #### Download Instructions

@@ -124,6 +124,30 @@ Delete the following file(s) and/or folder(s):
 
 - **Main Files:** Whiterun Mesh Fixes
 
+##### [Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Shingles - Alpha Patch
+
+##### [3D Whiterun Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/41801?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 3D Whiterun Trellis v1.1
+
+##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** 3D Solitude Market Trellis
+
+##### [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Stones of Solitude - Better Blended Rock Piles
+
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 
 #### Download Instructions

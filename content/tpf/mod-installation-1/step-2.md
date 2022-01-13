@@ -49,9 +49,17 @@ The resulting file path should be: `\Mod Organizer 2\mods\SSE Display Tweaks - C
 Fullscreen=false
 Borderless=true
 FramerateLimit=60
+
+[HAVOK]
+PhysicsDamageMult=0
+
+[Miscellaneous]
+LoadScreenFilter=true
+LoadScreenAllow=
+LoadScreenBlock=DynDOLOD.esm
 ```
 
-*This will force Borderless Fullscreen regardless of your INI settings so that (on Windows 10 systems) the DXGI flip model feature works, improving performance. The framerate will be capped at 60FPS which is still ideal for Skyrim although increasing or removing the cap will no longer break the game.*
+*This will force Borderless Fullscreen regardless of your INI settings so that (on Windows 10 systems) the DXGI flip model feature works, improving performance. The framerate will be capped at 60FPS which is still ideal for Skyrim although increasing or removing the cap will no longer break the game. Additionally, the random physics damage from colliding with objects will be disabled. The meme loadscreens from DynDOLOD will also no longer appear.*
 
 - Save your changes and close the editor.
 - Back in Mod Organizer 2, press F5 to refresh the interface.
@@ -183,11 +191,103 @@ We have now successfully removed the ownership flags. All that remains are the d
 
 ![SLaWF xEdit Delete Dialogue](/Pictures/tpf/mod-installation/slawf-xedit-delete-dialogue.png)
 
-##### [Weapons Armor Attribute Tweaks (WAAT)](https://www.nexusmods.com/skyrimspecialedition/mods/59951?tab=files)
+##### [Weapons & Armor Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files)
 
 #### Download Instructions
 
-- **Main File** Weapon Armor Attribute Tweaks
+- **Main Files:** Weapons & Armor Overhaul
+
+##### [Clothing & Jewelry Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14223?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Clothing & Jewelry Overhaul
+
+##### [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Weapons Armor Clothing and Clutter Fixes
+
+#### Additional Instructions
+
+Balancing in TPF is overhauled by WAO and CJO which were custom made for the guide. However, we still require a good amount of assets from WACCF that I do not have the skill to recreate and lack the permissions to reshare.
+
+- Install and activate **Weapons Armor Clothing and Clutter Fixes** in MO2.
+- Rename it to **WACCF Assets for WAO & CJO**.
+- Extract the **Weapons Armor Clothing & Clutter Fixes.bsa** ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
+- Extract the **Weapons Armor Clothing & Clutter Fixes - Textures.bsa** ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
+- Press F5 to refresh the MO2 virtual data folder.
+- Delete the following file(s) and / or folder(s):
+  - `scripts\`
+  - `WACCF_BashedPatchLvlListFix.esp`
+  - `Weapons Armor Clothing & Clutter Fixes - Textures.bsa`
+  - `Weapons Armor Clothing & Clutter Fixes.bsa`
+  - `Weapons Armor Clothing & Clutter Fixes.esp`
+
+Only the **textures** and **meshes** folders should now remain in your mod folder:
+
+![WACCF Surgery 1](/Pictures/tpf/mod-installation/waccf-surgery-1.png)
+
+Unfortunately, we are not done.
+
+**Delete ALL files EXCEPT for those listed below:**
+
+- Meshes for the Shrouded Armor:
+  - `meshes\armor\dbarmor\1stpersondbamorsleeveless_0.nif`
+  - `meshes\armor\dbarmor\1stpersondbamorsleeveless_1.nif`
+  - `meshes\armor\dbarmor\1stpersondbamorsleeveless_f_0.nif`
+  - `meshes\armor\dbarmor\1stpersondbamorsleeveless_f_1.nif`
+  - `meshes\armor\dbarmor\dbarmorhood---.nif` >> *all files starting with this*
+  - `meshes\armor\dbarmor\dbarmorsleeveless_0.nif`
+  - `meshes\armor\dbarmor\dbarmorsleeveless_1.nif`
+  - `meshes\armor\dbarmor\dbarmorsleeveless_f_0.nif`
+  - `meshes\armor\dbarmor\dbarmorsleeveless_f_1.nif`
+- Meshes for the Thieves Guild Armor:
+  - `meshes\armor\thievesguild\f\1stpersontorsovariant_0.nif`
+  - `meshes\armor\thievesguild\f\1stpersontorsovariant_1.nif`
+- Meshes for the Executioner Armor:
+  - `meshes\clothes\executioner\bodyf_0.nif`
+  - `meshes\clothes\executioner\bodyf_1.nif`
+  - `meshes\clothes\executioner\cowlargf_0.nif`
+  - `meshes\clothes\executioner\cowlargf_1.nif`
+  - `meshes\clothes\executioner\cowlargm_0.nif`
+  - `meshes\clothes\executioner\cowlargm_1.nif`
+  - `meshes\clothes\executioner\cowlelff_0.nif`
+  - `meshes\clothes\executioner\cowlelff_1.nif`
+  - `meshes\clothes\executioner\cowlelfm_0.nif`
+  - `meshes\clothes\executioner\cowlelfm_1.nif`
+  - `meshes\clothes\executioner\cowlf_0.nif`
+  - `meshes\clothes\executioner\cowlf_1.nif`
+  - `meshes\clothes\executioner\cowlm_0.nif`
+  - `meshes\clothes\executioner\cowlm_1.nif`
+  - `meshes\clothes\executioner\cowlmgnd.nif`
+  - `meshes\clothes\executioner\glovesf_0.nif`
+  - `meshes\clothes\executioner\glovesf_1.nif`
+  - `meshes\clothes\executioner\glovesgo.nif`
+- Meshes for Ulfric's Armor:
+  - `meshes\clothes\yarlclothes02\1stpersonulfricf_0.nif`
+  - `meshes\clothes\yarlclothes02\1stpersonulfricf_1.nif`
+  - `meshes\clothes\yarlclothes02\ulfricbootsf_0.nif`
+  - `meshes\clothes\yarlclothes02\ulfricbootsf_1.nif`
+  - `meshes\clothes\yarlclothes02\ulfricf_0.nif`
+  - `meshes\clothes\yarlclothes02\ulfricf_1.nif`
+  - `meshes\clothes\yarlclothes02\ulfricglovesf_0.nif`
+  - `meshes\clothes\yarlclothes02\ulfricglovesf_1.nif`
+- Meshes for the Ancient Falmer Armor
+  - `meshes\dlc01\armor\ivory\f\cuirassivoryalternate_0.nif`
+  - `meshes\dlc01\armor\ivory\f\cuirassivoryalternate_1.nif`
+- Textures for the Executioner's Armor:
+  - `textures\clothes\executioner\executioners_cowlf.dds`
+  - `textures\clothes\executioner\executioners_cowlf_n.dds`
+  - `textures\clothes\executioner\executioners_cowlm.dds`
+  - `textures\clothes\executioner\executioners_cowlm_n.dds`
+  - `textures\clothes\executioner\executioners_glovesf.dds`
+  - `textures\clothes\executioner\executioners_glovesf_n.dds`
+  - `textures\clothes\executioner\executioners_torsof.dds`
+  - `textures\clothes\executioner\executioners_torsof_n.dds`
+
+If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WAO & CJO\` folder it should be **XXmb**.
 
 ##### [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files)
 

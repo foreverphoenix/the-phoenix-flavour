@@ -34,18 +34,6 @@ description: >
   - ~~Parallax Meshes~~
   - ~~Parallax SMIM Patch~~
 
-##### [Shingles - Alpha Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51772?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Shingles - Alpha Patch
-
-##### [3D Whiterun Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/41801?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 3D Whiterun Trellis v1.1
-
 ##### [WiZkiD Riften and Ratway](https://www.nexusmods.com/skyrimspecialedition/mods/53179?tab=files)
 
 #### Download Instructions
@@ -99,18 +87,6 @@ description: >
   - `textures\architecture\solitude\sdoorgate01_n.dds`
 
 > I prefer NobleSkyrim's texture for the gate.
-
-##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** 3D Solitude Market Trellis
-
-##### [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Stones of Solitude - Better Blended Rock Piles
 
 ##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 

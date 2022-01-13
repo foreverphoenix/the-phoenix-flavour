@@ -102,7 +102,6 @@ Game settings can be implemented in two ways: They can be added to a plugin or t
 
 ```
 cl off
-SetGS fPhysicsDamage1Mass 9999999
 SetGS fCombatAimProjectileRandomOffset 70
 ```
 

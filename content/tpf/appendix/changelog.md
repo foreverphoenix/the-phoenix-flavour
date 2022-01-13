@@ -55,10 +55,12 @@ In addition, all file names for the separate pages were edited which also affect
 - Base Object Swapper
 - Dragonborn Presence - Discord Rich Presence
 - SSE Display Tweaks - Custom INI
-- Weapon Armor Attribute Tweaks
+- Weapons & Armor Overhaul
+- Clothing & Jewelry Overhaul
 - SkyUI Ghost Item Bug Fix
 - SSE Gameplay Tweaks
 - Animated Static Reload Fix
+- Pause After Unload Unscripted
 - Forget Spell
 - High Gate Ruins Puzzle Reset Fix
 - Ulfric, Tullius, Give Me A Break
@@ -70,6 +72,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
+- Stones of Solitude - Better Blended Rock Piles
 - Spiders of Solstheim - Transparency Fix
 - Flickering Meshes Fix
 - Embers XD
@@ -89,7 +92,6 @@ In addition, all file names for the separate pages were edited which also affect
 - Slightly Better - Old People Consistency
 - Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
-- Stones of Solitude - Better Blended Rock Piles
 - Raven Rock Building Tweaks
 - WiZkiD Parallax Imperial Forts
 - Skyrim Remastered - Castle Volkihar and Clutter
@@ -124,11 +126,14 @@ In addition, all file names for the separate pages were edited which also affect
 - Rally's Butterflies Moths and Torchbugs
 - Better Mammoth Tusks
 - aMidianBorn Armor Upscaled Textures
+- Open Face Guard Helmets - WAO Patch
+- Frankly HD Imperial Weapons and Armor - WAO Patch
 - Ancient Dwemer Metal - Quiver and Arrows
 - Ancient Amidianborn Dwemer Metal Armory
 - Ancient Dwemer Metal - Patches by Xtudo
 - AMB Matching Glass Armory - Female Glass Armor Fix
 - 3-Vane Fletching for HD Reflective Ebony Arrows
+- Unique Uniques - WAO Patch
 - JS Helm of Yngol SE - 2k
 - Slightly Better - Arvak
 - Arvak Burning Hooves Restored
@@ -137,8 +142,12 @@ In addition, all file names for the separate pages were edited which also affect
 - Pilgrim - A Religion Overhaul
 - Canis Hysteria
 - Coherent Inn Prices
-- Simple Smithing Overhaul Simplified (No WACCF)
-- Misc Tweaks - Decluttered Crafting Menus
+- Simple Smithing Overhaul - TPF Edit
+- Simple Smithing Overhaul - WAO Patch
+- More Craftable Equipment
+- More Craftable Equipment - WAO Patch
+- More Craftable Equipment - CJO Patch
+- More Craftable Equipment - SSO Patch
 - Book Covers Skyrim - Apothecary Patch
 - Apothecary - Hearthfire Crispy Dumplings Patch
 - Thaumaturgy - An Enchanting Overhaul
@@ -147,6 +156,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Misc Dialogue Edits - Save the Icerunner Patch
 - Easier Mara Quest
 - Unofficial Material Fix - Improved Traps Patch
+- Helgen Keep Bandit Chief Executioner
 - Dragon Claws Auto Unlock
 - Use Telekinesis on Traps
 - Angi's Camp Tweaks
@@ -161,7 +171,6 @@ In addition, all file names for the separate pages were edited which also affect
 **Removed in TPF 5.0:**
 
 - FileAccess Interface for Skyrim Scripts
-- Weapon Armor Clothing and Clutter Fixes
 - WACCF Greatsword Weapon Speed Tweaks
 - Misc Tweaks - Better Ancient Knowledge Perk
 - Hank's Gamepad and Controller Fixes
