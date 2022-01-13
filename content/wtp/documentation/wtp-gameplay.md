@@ -13,8 +13,8 @@ WTP features a good amount of quality of life improvements. These include:
 - [Start Me Up](https://www.nexusmods.com/fallout4/mods/18946): The Basic version of this mod included in WTP allows you to skip the pre-war part of the Prologue.
 - [Consume Without Pickup](https://www.nexusmods.com/fallout4/mods/45072): Immediately use a Stimpak or eat that Radstag stew without having to pick it up first.
 - [Baka Wait Anywhere](https://www.nexusmods.com/fallout4/mods/52723): Allows you to wait anywhere without having to sit down (but with a few conditions).
-- [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093): Player automatically lowers their weapon when not in combat.
-- [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527): Only the correct word appears when hacking. Locks can be picked instantly.
+- [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093): The player automatically lowers their weapon when not in combat.
+- [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527): Only the correct word appears when hacking. Locks can be picked without having to adjust the angle.
 
 ### Quest Adjustments
 

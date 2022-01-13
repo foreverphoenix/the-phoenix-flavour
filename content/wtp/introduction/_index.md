@@ -46,12 +46,13 @@ Due to the lack of sharing permissions for the vast majority of mods, traditiona
 -  Power armors are more rare. Paint and material mods were split.
 -  Detailed instructions for the initial setup as well as ingame configuration.
 -  Support for one (1) creation: fadingsignal's Modern Military Backpack.
+-  Detailed instructions for enabling ultrawide (21:9) compatibility.
 
 ### Not Included
 
 If you are looking for any of the following features, **Welcome to Paradise** may not be the mod list for you:
 
-- Widescreen support.
+- Significant visual changes.
 - Silent protagonist.
 - More difficult combat.
 - **Survival mode.**

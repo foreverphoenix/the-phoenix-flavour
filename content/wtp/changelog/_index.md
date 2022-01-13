@@ -6,13 +6,47 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.2
+
+> 13/01/2022
+
+With this update I am removing This Is Trash, WTP's scrapping mod which should some performance issues and flickering. Neither This Is Trash nor Previs Repair Pack are causing this issue, but using both at the same time would require me to regenerate previs/precombines for places where they overlap if I wanted to avoid issues. To tell you the truth, the whole process is time-consuming and annoying, and I do not care enough about Fallout 4 modding to dive any deeper into this. Hence, the removal of This Is Trash.
+
+In other news, I re-added Ultrawide (21:9) support. Folks with 2560x1080 or 3440x1440 monitor resolutions will now be able to play with a properly adjusted UI.
+
+**This update is NOT save-safe.**
+
+Remember to copy over Game Folder Files again to update the ENB preset.
+
+#### Mod Changes
+
+- Added ENB Helper for Fallout 4
+- Added MCM Booster
+- Added TruBy9 UltraWide Fallout 4
+- Added Welcome to Paradise - MCM Settings (21-9)
+- Added Minimalistic Main Menu
+- Updated Mod Organizer to 2.4.4
+- Updated FallOpt ENB to 2.3
+- Updated Natural Rocks to 0.3
+- Removed Another Sanctuary Bridge (can't be bothered to redo precombines)
+- Removed This Is Trash (can't be bothered to redo precombines)
+- Fixed Place Everywhere INI (keybinds were F2, F3 instead of F1, F2 - thanks, Dargor!)
+- Minor edits to the Conflict Resolution Patch
+
+#### Website Changes
+
+- [Finalisation](/wtp/installation/finalisation/): Added section with instructions for ultrawide compatibility.
+- [Mod Config](/wtp/mod-config/): Updated the MCM preset instructions to account for the new 21:9 preset.
+
+![Widescreen Main Menu](/Pictures/wtp/installation/widescreen-main-menu.jpg)
+
 ## Release 2.1
 
 > 25/12/2021
 
 This is a small maintenance update, largely to bring you the recent FallOpt ENB improvements.
 
-This update is **save safe**. Please copy over game folder files once again as the ENB files updated.
+This update is **save-safe**. Please copy over game folder files once again as the ENB files updated.
 
 #### Mod Changes
 
