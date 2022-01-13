@@ -69,6 +69,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Butterflies Unchained
 - Modern Toggle Walk-Run Fix
 - FadingSignal's Hide UI - Improved
+- NORDIC UI
+- NORDIC UI - Miscellaneous Patches
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
@@ -176,7 +178,16 @@ In addition, all file names for the separate pages were edited which also affect
 - Hank's Gamepad and Controller Fixes
 - Disable Follower Collision
 - No Crime Teleport
+- Remove Quicksave Button from SkyUI Systems Menu
+- Wider MCM Menu for SkyUI
+- Favorite Things - Extended Favorites Menu for SkyUI
 - Immersive HUD
+- SkyHUD - Alternate White Dot Crosshair
+- Convenient Reading UI
+- Smaller Vanilla Cursor
+- Main Menu Design Replacer
+- Yet Another Main Menu Replacer
+- KenMOD - Time on Loading Screen
 - SMIM - Assorted Mesh Fixes Patch
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
 - Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
