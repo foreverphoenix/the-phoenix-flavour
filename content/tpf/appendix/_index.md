@@ -1,6 +1,6 @@
 ---
 title: "Appendix"
-weight: 16
+weight: 14
 type: docs
 description: >
   FAQ, credits, changelog, etc.

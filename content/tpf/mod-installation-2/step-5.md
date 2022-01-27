@@ -260,6 +260,12 @@ Delete everything except for the files show in the screenshot below:
 
 - **Main Files:** Waymark - A Road Signs Mod
 
+##### [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Snowy Boethiah
+
 ---
 
 #### Continue with the [Trees, Grass, Plants](/tpf/mod-installation-2/step-6/) page.

@@ -6,6 +6,12 @@ description: >
   Smaller, mostly plugin-based mods to fix bugs and tweak minor annoyances.
 ---
 
+##### [LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** LOD Unloading Bug Fix
+
 ##### [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
 #### Download Instructions
@@ -43,6 +49,42 @@ Delete the following file(s) and / or folder(s):
 
 - **Page 1:** Vanilla (Regular)
 
+##### [Potema's Minion Fixlet](https://www.nexusmods.com/skyrimspecialedition/mods/51000?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Potema's Minion Fixlet
+
+#### FOMOD Instructions
+
+- **NPC Race:** Vampire Nord
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+  - `textures\`
+
+> We will regenerate facegen for all NPCs later on.
+
+##### [WE05 Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49851?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** WE05 Script Fix
+
+##### [Source of Stalhrim Quest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32329?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Source of Stalhrim Quest Fix
+
+##### [DLC2 March of the Dead Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53336?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** DLC2 March of the Dead Fix
+
 ##### [High Gate Ruins Puzzle Reset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53643?tab=files)
 
 #### Download Instructions
@@ -69,6 +111,12 @@ Delete the following file(s) and / or folder(s):
   - ~~Patch for The Gray Cowl of Nocturnal~~
   - ~~Patch for Immersive Horses~~
   - ~~Patch for Skyrim Immersive Creatures~~
+
+##### [Mount Anthor Dragon Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38510?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Mount Anthor Dragon Fix
 
 ##### [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471?tab=files)
 
@@ -101,6 +149,12 @@ ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resour
 #### Download Instructions
 
 - **Main Files:** Rude Imperial Soldiers Escort Prisoner fix -FORM44-ESL-
+
+##### [Fugitive Piss Off](https://www.nexusmods.com/skyrimspecialedition/mods/30215?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Fugitive Piss Off
 
 ##### [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221?tab=files)
 

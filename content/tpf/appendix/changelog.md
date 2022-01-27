@@ -62,15 +62,20 @@ In addition, all file names for the separate pages were edited which also affect
 - Animated Static Reload Fix
 - Pause After Unload Unscripted
 - Forget Spell
+- LOD Unloading Bug Fix
+- Potema's Minion Fixlet
+- WE05 Script Fix
+- DLC2 March of the Dead Fix
+- Source of Stalhrim Quest Fix
 - High Gate Ruins Puzzle Reset Fix
+- Mount Anthor Dragon Fix
 - Ulfric, Tullius, Give Me A Break
+- Fugitive Piss Off
 - Stamina of Steeds
 - Butterflies Land True
 - Butterflies Unchained
 - Modern Toggle Walk-Run Fix
 - FadingSignal's Hide UI - Improved
-- NORDIC UI
-- NORDIC UI - Miscellaneous Patches
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
@@ -89,8 +94,13 @@ In addition, all file names for the separate pages were edited which also affect
 - Ashbound - Solstheim Enhanced
 - Lanterns of Skyrim
 - Waymark - A Road Signs Mod
+- Snowy Boethiah
 - Happy Little Trees
 - Happy Little Trees Add-On - DynDOLOD 3
+- Snowy Reach Trees
+- Cathedral 3D Mountain Flowers
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- Cathedral 3D Mountain Flowers for Hearthfire
 - Slightly Better - Old People Consistency
 - Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
@@ -153,6 +163,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Book Covers Skyrim - Apothecary Patch
 - Apothecary - Hearthfire Crispy Dumplings Patch
 - Thaumaturgy - An Enchanting Overhaul
+- Rent Room Dialogue Tweak
+- Welcome Back to the Bee and Barb
 - Adopt Aventus Aretino - USSEP and Simple Children Patch
 - Dark Brotherhood Rising Revengeance
 - Misc Dialogue Edits - Save the Icerunner Patch
@@ -178,16 +190,6 @@ In addition, all file names for the separate pages were edited which also affect
 - Hank's Gamepad and Controller Fixes
 - Disable Follower Collision
 - No Crime Teleport
-- Remove Quicksave Button from SkyUI Systems Menu
-- Wider MCM Menu for SkyUI
-- Favorite Things - Extended Favorites Menu for SkyUI
-- Immersive HUD
-- SkyHUD - Alternate White Dot Crosshair
-- Convenient Reading UI
-- Smaller Vanilla Cursor
-- Main Menu Design Replacer
-- Yet Another Main Menu Replacer
-- KenMOD - Time on Loading Screen
 - SMIM - Assorted Mesh Fixes Patch
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
 - Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
@@ -211,8 +213,6 @@ In addition, all file names for the separate pages were edited which also affect
 - Point The Way
 - Enhanced Vanilla Trees
 - HD Vanilla Tree Bark - ESRGAN AI Upscale
-- Reach Trees Enhanced
-- Spooknik's Tundra Trees
 - Rally's Blackreach Mushrooms
 - Skyland Whiterun
 - Skyland Whiterun - SMIM Wood Color Patch
@@ -246,6 +246,13 @@ In addition, all file names for the separate pages were edited which also affect
 
 - Added instructions to remove the crop ownership feature from SLaWF
 - Now using Enhanced Blood Textures 4.0 beta 3
+
+#### Customisation
+
+This section was newly added.
+
+- **UI Adjustments:** Added this mod with support for additional interface mods including NORDIC UI as well as widescreen support.
+- **Performance Guide:** Moved the existing performance guide page here.
 
 ## Release 4.8
 

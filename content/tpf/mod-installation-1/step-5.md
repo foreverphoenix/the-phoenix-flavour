@@ -6,6 +6,30 @@ description: >
   Additional mods to improve the user interface and HUD.
 ---
 
+##### [Remove Quicksave Button from SkyUI Systems Menu](https://www.nexusmods.com/skyrimspecialedition/mods/28334?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Remove QuickSave Button
+
+**FOMOD Instructions**
+
+- **Options:** 1b - Save-Load-etc, MCM renamed
+
+> While quicksaving is not actually broken as the mod page claims ([more about that here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/whats_the_real_deal_with_quicksavesautosaves/)), I personally like the re-ordering and decluttering of the Pause menu. The mod includes the [Flashing Savegame Fix for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/20406).
+
+##### [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Opt. 1 - Wider MCM Menu for SkyUI
+
+##### [Favorite Things - Extended Favorites Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/27177?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Opt. 1 - Modified Vanilla Favorites
+
 ##### [FadingSignal's Hide UI - Improved](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
 #### Download Instructions
@@ -33,34 +57,11 @@ description: >
 
 - **Main Files:** SkyHUD - TPF Preset
 
-##### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
+##### [SkyHUD - Alternate White Dot Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/47121?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** NORDIC UI (Final Design)
-
-#### FOMOD
-
-- **Main:**
-  - HUD (SkyHUD)
-  - Boxes
-  - Race Menu (Vanilla)
-  - Cursor
-  - Dialogue Menu
-  - Favorite Menu
-  - Icons
-  - Pause Menu (Journal)
-  - ~~Map Markers~~
-  - Skill Menu
-  - Skill Menu 3D Visuals
-  - Start Menu
-  - Start Menu 3D Background
-  - Game Menus
-  - UI Sounds
-  - ~~QuickLoot Patch~~
-  - ~~TDM Patch~~
-  - SkyHUD Preset
-- **Loading Screen:** None
+- **Main Files:** white dot
 
 ##### [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files)
 
@@ -112,35 +113,6 @@ description: >
 
 > This is faster than ESL-ifying the ESP version.
 
-##### [NORDIC UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** NORDIC UI - Miscellaneous Patches
-
-#### FOMOD Instructions
-
-- **moreHUD Inventory:** Vanilla
-- **Stat Screen Colored Icons:** 2.4 style Icons
-- **Even Better MessageBox Controls:** Install
-- **Extended Hotkey System:** ~~Install~~
-- **MCM:** Wider MCM
-- **Remove QuickSave from System Menu:** ~~Install~~
-- **Loading Screen:** ~~Install~~
-- **Tween Menu:** Install
-
-##### [A Matter of Time - A Clock HUD Widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** AMatterOfTime_v3_0_0_alpha_4
-
-##### [A Matter of Time - Phoenix Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** A Matter of Time - TPF Preset
-
 ##### [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452?tab=files)
 
 #### Download Instructions
@@ -152,6 +124,19 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Horse Stamina HUD
+
+##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/50202?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Convenient Reading
+
+#### Additional Instructions
+
+- Double-click **Convenient Reading** in your mod order.
+- Switch to the **INI Files** tab and select the **Convenient Reading.ini**.
+- In Line 12 set **sBookStealTextColor=** to **0xFF0000**.
+- Hit **CTRL + S** to save your changes and close the window.
 
 ##### [Skyrim SE Skill Interface Retexture (SSIRT)](https://www.nexusmods.com/skyrimspecialedition/mods/1523?tab=files)
 
@@ -173,9 +158,8 @@ description: >
 
 - Delete the following file(s) and / or folder(s):
   - `meshes\interface\`
-  - `textures\interface\`
 
-> The mesh needs to be removed for Hand To Hand - An Adamant Addon to work and display the new skill constellations. The textures are removed so they don't overwrite NORDIC UI. For now, we are only using the Dawnguard improvements of this mod (for the werewolf/vampire perk trees).
+> The mesh needs to be removed for Hand To Hand - An Adamant Addon to work and display the new skill constellations.
 
 ##### [Shouts in the Dragon Tongue (SIDT)](https://www.nexusmods.com/skyrimspecialedition/mods/5515?tab=files)
 
@@ -186,6 +170,18 @@ description: >
 #### Additional Instructions
 
 - ESL-ify **SIDT - Special Edition.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+##### [Smaller Vanilla Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/20617?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Smaller Vanilla Cursors
+
+#### FOMOD Instructions
+
+- **Step 1:** Right
+
+> Of course you can select the “Left” option if you are left-handed.
 
 ##### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files)
 
@@ -262,34 +258,23 @@ Delete the following file(s) and/or folder(s):
 
 > This will reduce the size of all map markers by 25%.
 
+##### [Main Menu Design Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/30810?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Main Menu Design Replacer (clean)
+
+##### [Yet Another Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/53798?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Yet Another Main Menu Replacer
+
 ##### [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Menu and Load Smoke Removed for ENB
-
-##### [TESG Loadscreen Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/5794?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** TESG Loadscreen Replacer v1.0
-
-#### FOMOD Instructions
-
-- **Loading Screen Options:** Fullscreen option
-
-##### [Oblivion-Like Loading Menu](https://www.nexusmods.com/skyrimspecialedition/mods/38708?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Oblivion-like Loading Menu 16x9
-
-#### FOMOD Instructions
-
-- **Menu Style:** Paper
-- **Custom Load Screens:** No
-- **Choose mods you have installed:** ~~TES Legends - Loading Screens~~
-- **Choose one:** TES General Loadscreen Replacer
 
 ---
 

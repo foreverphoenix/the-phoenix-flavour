@@ -251,7 +251,7 @@ No Gifting = false
 
 #### Download Instructions
 
-- **Main Files:** Pause After Unload Unscripted SE-1.0.0.7.rar
+- **Main Files:** Pause After Unload Unscripted SE-1.0.0.9.rar
 
 ##### [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832?tab=files)
 

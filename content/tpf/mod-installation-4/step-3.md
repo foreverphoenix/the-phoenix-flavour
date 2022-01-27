@@ -36,6 +36,18 @@ The mod comes with two console commands to customise it. One will prevent innkee
 
 The commands will now be executed automatically when you start a new game or load your save.
 
+##### [Rent Room Dialogue Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/34470?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Rent Room Dialogue Tweak
+
+##### [Welcome Back to the Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/33104?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Welcome Back to the Bee and Barb
+
 ##### [Guard Dialogue Overhaul (GDO)](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files)
 
 #### Download Instructions
@@ -111,6 +123,16 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 #### Additional Instructions
 
 - ESL-ify **WindhelmSegregation.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+#### Plugin Edit
+
+- Open **WindhelmSegregation.esp** in SSEEdit.
+- Double-click the plugin in the left pane to expand it.
+- Go to **Dialog Topic** >> **RentRoomTopic**.
+- Forward the **Goodbye** flag from **RentRoomDialogueFix.esp** in the records `00079B1A` and `0009CC95`.
+- Close SSEEdit and click **OK** to save your changes.
+
+![Windhelm Segregation CR](/Pictures/tpf/mod-installation/windhelm-segregation-cr.png)
 
 ##### [Alik’r Warriors Aren’t Welcome](https://www.nexusmods.com/skyrimspecialedition/mods/25384?tab=files)
 

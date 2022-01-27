@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-weight: 15
+weight: 13
 type: docs
 description: >
   Collection of standalone guides and tutorials.

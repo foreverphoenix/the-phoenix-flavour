@@ -17,11 +17,80 @@ description: >
 - **Trees:** All Trees
 - **Add on:** ~~Tree size~~
 
+#### Additional Instructions
+
+Happy Little Trees replaces all vanilla trees with differently shaped meshes. In the case of the reach trees this could be a problem as they often have objects placed near them to make them look like they grow from them or are attached to them. The mod does come with fixes for vanilla hanging moss to adjust its position, but any mod-added reach trees with hanging moss, lanterns, etc, would have to be fixed manually. Ultimately it is easier to simply remove the reach trees from Happy Little Trees altogether.
+
+- Run SSEEdit through Mod Organizer 2.
+- Click **OK** in the plugin selection window and wait for everything to be loaded up.
+- Find **HappyLittleTrees.esp** in the left pane and double-click it to expand.
+
+Delete the following **Tree** records:
+
+- `TreeReachTree01Snow`
+- `TreeReachTree01`
+- `TreeReachTree02`
+- `TreeReachCliffTree01`
+- `TreeReachCliffTree02`
+
+![Remove Reach Trees 1](/Pictures/tpf/mod-installation/remove-reach-trees-1.png)
+
+Delete the following **Worldspace** records:
+
+- `Tamriel\Block -2, 0`
+- `Tamriel\Block -2, -1`
+
+![Remove Reach Trees 2](/Pictures/tpf/mod-installation/remove-reach-trees-2.png)
+
+**Close SSEEdit and click OK to save your changes.**
+
 ##### [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Happy Little Trees 3D LOD - Quality
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\reachclifftree02_4E6D0A9B_trunk.nif`
+  - `meshes\DynDOLOD\lod\trees\reachclifftree01_E22672EEpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\reachclifftree02_4E6D0A9Bpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\reachtree01_6FF04C1Fpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\reachtree02_0E872331passthru_lod.nif`
+
+##### [Reach Trees Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/52614?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Reach Trees Enhanced - No Parallax
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> These meshes are part of Fixed Mesh Lighting and should not be overwritten.
+
+##### [Spooknik’s Tundra Trees](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Spooknik’s Tundra Trees
+
+#### Download Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\landscape\trees\tundradriftwood01.nif`
+  - `meshes\landscape\trees\tundradriftwood02.nif`
+
+##### [Snowy Reach Trees](https://www.nexusmods.com/skyrimspecialedition/mods/61695?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Snowy Reach Trees
+
+> Make sure to download the file from the Optional Files section! Its name is identical to the main file making it easy to miss.
 
 ##### [Canticle Tree and Bark](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
 
@@ -133,6 +202,31 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 - **Main Files:** Plants Repack for TPF
+
+##### [Cathedral 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral - 3D Mountain Flowers
+
+##### [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral 3D Mountain Flowers - Base Object Swapper
+
+##### [Cathedral 3D Mountain Flowers for Hearthfire](https://www.nexusmods.com/skyrimspecialedition/mods/60651?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hearthfilre Mountain Flower Patch
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\`
+
+> The same textures are already part of Cathedral 3D Mountain Flowers.
 
 ##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 

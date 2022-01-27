@@ -65,7 +65,8 @@ description: >
   - ~~Reduced Yellow Glow~~
 - **Compatibility Patches:** 
   - Mathy's Medieval Torch
-  - ~~Skyrim 3D Blacksmith~~
+  - ~~Skyrim 3D Blacksmith (Original)~~
+  - ~~Skyrim 3D Blacksmith (Without Logs)~~
   - Skyrim 3D Cooking
 
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
