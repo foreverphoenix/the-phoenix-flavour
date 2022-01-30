@@ -10,7 +10,7 @@ description: >
 
 **Embers** is the Beginner's Guide to modding Skyrim SE that I always wanted to write.
 
-When I first got into modding myself sometime back in 2014, I had the same experience as most modding novices: Watching various YouTube tutorial, reading Nexus forum threads, scouring reddit posts and comments, trying to gather all the information I could find. Some of those sources contradicted each other, some were outdated, some were plain wrong. With no previous experience, I had no way to know which resources to trust.
+When I first got into modding myself sometime back in 2014, I had the same experience as most modding novices: Watching various YouTube tutorials, reading Nexus forum threads, scouring reddit posts and comments, trying to gather all the information I could find. Some of those sources contradicted each other, some were outdated, some were plain wrong. With no previous experience, I had no way to know which resources to trust.
 
 There have been many guides to modding Skyrim over the years, including beginner's guides written or recorded to teach basic modding skills to newcomers. To my knowledge, however, there has never been a comprehensive resource, a fully-featured guide to take you through the basics and beyond. A guide that does not repeat common modding myths, that does not rely exclusively on LOOT, or completely disregard asset management. A guide that understands that the key to assembling a stable, coherent mod setup is learning how to utilise various modding tools to the best of their potential as well as how mods work on a fundamental level.
 
