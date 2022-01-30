@@ -6,6 +6,25 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.2
+
+> TBD
+
+#### Mod Changes
+
+- Added LOD Unloading Bug Fix
+- Added Fixed Mesh Lighting - Bee Hives
+- Added moreHUD Inventory Edition
+- Updated DynDOLOD to Alpha-65
+- Updated SSE Display Tweaks to 0.5.9
+- Updated Assorted Mesh Fixes to 0.45.1
+- Updated Fixed Mesh Lighting to 1.6.2
+- Updated powerofthree's Tweaks to 1.5.0
+- Updated Equip Enchantment Fix to 1.3.4
+- Updated DynDOLOD Resources to Alpha-19
+- Updated Relighting Skyrim to 1.3.0
+- Updated Simple Dual Sheath Redux to 1.5.2
+
 ## Release 2.1
 
 > 07/01/2022
