@@ -58,6 +58,14 @@ If you are unhappy with the default cap at 60FPS, you can change it. To do so, f
 
 ![Change FPS Cap](/Pictures/wtp/installation/change-fps-cap.png)
 
+## Easy Lockpicking and Hacking
+
+WTP includes the mod [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527) which removes the tedium of the two minigames. You will no longer need to adjust the angle when lockpicking (any position will work) and only the correct word will appear when hacking terminals. Perk requirements were untouched, companions will still react, and XP will still be granted.
+
+This mod is disabled by default. To enable it, please double-click the **GAMEPLAY** separator in Mod Organizer 2 to expand it and check the box for **Easy Lockpicking and Hacking**. This is completely optional.
+
+![Easy Lockpicking and Hacking](/Pictures/wtp/installation/easy-lockpicking-hacking.png)
+
 ## Ultrawide Support
 
 > Skip this page and continue with the [New Game](wtp/installation/new-game/) instructions if you have a 16:9 monitor.
@@ -80,4 +88,4 @@ In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left 
 
 ---
 
-#### Continue with the [Ultrawide](/wtp/installation/ultrawide/) page.
+#### Continue with the [New Game](/wtp/installation/new-game/) page.

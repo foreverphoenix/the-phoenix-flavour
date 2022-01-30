@@ -6,6 +6,29 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.3
+
+> TBD
+
+**New save required.**
+
+#### Mod Changes
+
+- Added Facials For Everyone - Less Than Fresh Faces
+- Added Diamond City Radio Extended
+- Updated What's Your Name to 1.13.1
+- Removed Better Settlers
+- Removed More Where That Came From - Diamond City Radio Edition
+- Removed LOST Audio Tweaks - MWTCF DC Patch
+- Removed Elvani's Track Pack - Diamond City Radio
+- Disabled InputSwitch in Buffout (could cause some issues)
+- Easy Lockpicking and Hacking is now disabled by default
+
+#### Website Changes
+
+- **Finalisation:** Added instructions on how to enable Easy Lockpicking and Hacking.
+- **Finalisation:** Fixed wrong link at the bottom of the page.
+
 ## Release 2.2
 
 > 13/01/2022
@@ -703,4 +726,4 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 > 26/09/2020
 
-Initial release. For more info, check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
+Initial release. For more info check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
