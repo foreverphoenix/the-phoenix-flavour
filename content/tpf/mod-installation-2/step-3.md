@@ -45,9 +45,9 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Night Skies - Milky Realism (4K) - CP 1.01
+- **Main Files:** Night Skies - Natural Fantasy (8K) - No Cross Stars
 
-> This will overwrite a different version of the mod included with Cathedral Weathers that looks more vibrant and fantasy-like.
+> This will overwrite a different version of the mod included with Cathedral Weathers.
 
 ##### [Skygazer Moons - Masser and Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files)
 
@@ -118,7 +118,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Relighting Skyrim SSE v1.2.0
+- **Main Files:** Relighting Skyrim SE v1.3.0
 
 ##### [Shadows of Sunlight - In Small Exterior World Spaces](https://www.nexusmods.com/skyrimspecialedition/mods/41368?tab=files)
 

@@ -192,6 +192,7 @@ Delete the following file(s) and / or folder(s):
 #### Download Instructions
 
 - **Main Files:** Fixed Mesh Lighting
+- **Optional Files:** Fixed Mesh Lighting - Bee Hives
 
 #### FOMOD Instructions
 
@@ -212,7 +213,7 @@ Delete the following file(s) and / or folder(s):
 - **JK's Skyrim:** ~~JK's Skyrim~~
 - **Depths of Skyrim:** ~~Depths of Skyrim~~
 - **New Plants:** ~~Unique Flowers and Plants~~
-- **Mountain Flowers:** ~~3D Mountain Flowers~~
+- **Mountain Flowers:** 3D Mountain Flowers
 - **Snowberries:** Sufficiently Optimized Snowberries
 - **Juniper:** 3D Juniper
 - **Tundra Cotton:** ~~Tundra Cotton by Mari~~
@@ -236,8 +237,6 @@ Delete the following file(s) and / or folder(s):
   - ~~Skyrim Flora Overhaul~~
   - SMIM
   - ~~UV-Tweaks~~
-- **Aspens Ablaze:**
-  - None
 
 **Page 4**
 
@@ -245,6 +244,7 @@ Delete the following file(s) and / or folder(s):
 - **Patches:**
   - Arctic
   - ~~Beyond Skyrim : Bruma~~
+  - ~~Capital Windhelm Expansion~~
   - Dlizzio's Mesh Fixes
   - Landscape and water fixes
   - Unofficial Material Fix
@@ -274,6 +274,7 @@ Delete the following file(s) and / or folder(s):
   - Skeleton Replacer HD
   - ~~SkyTEST~~
   - ~~TESO Imports~~
+  - ~~Uderfrykte~~
   - Unique Barbas
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.

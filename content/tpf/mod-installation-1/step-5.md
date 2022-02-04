@@ -30,11 +30,11 @@ description: >
 
 - **Main Files:** Opt. 1 - Modified Vanilla Favorites
 
-##### [FadingSignal's Hide UI - Improved](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
+##### [Ultimate Immersion Toggle](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** FadingSignal's Hide UI - Improved
+- **Main Files:** Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild
 
 ##### [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=files)
 

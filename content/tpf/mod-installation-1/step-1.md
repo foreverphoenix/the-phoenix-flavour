@@ -44,7 +44,9 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 #### Download Instructions
 
-- **Main Files:** ScaleformTranslationPP
+Download **Scaleform Translation Plus Plus 1.4.1** from the Old Files section.
+
+- **Old Files:** ScaleformTranslationPP
 
 ##### [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
 

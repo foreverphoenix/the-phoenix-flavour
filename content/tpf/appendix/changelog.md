@@ -75,7 +75,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Butterflies Land True
 - Butterflies Unchained
 - Modern Toggle Walk-Run Fix
-- FadingSignal's Hide UI - Improved
+- Ultimate Immersion Toggle
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
@@ -102,8 +102,10 @@ In addition, all file names for the separate pages were edited which also affect
 - Cathedral 3D Mountain Flowers - Base Object Swapper
 - Cathedral 3D Mountain Flowers for Hearthfire
 - Slightly Better - Old People Consistency
-- Skyrim 3D Misc - Windhelm Doors
 - WiZkid Riften and Ratway
+- Windhelm - Snow Texture Cleanup
+- Ugly Low Res Puddles Be Gone
+- Skyrim 3D Misc - Windhelm Doors
 - Raven Rock Building Tweaks
 - WiZkiD Parallax Imperial Forts
 - Skyrim Remastered - Castle Volkihar and Clutter
@@ -167,6 +169,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Welcome Back to the Bee and Barb
 - Adopt Aventus Aretino - USSEP and Simple Children Patch
 - Dark Brotherhood Rising Revengeance
+- Vittorias Alternate Wedding
 - Misc Dialogue Edits - Save the Icerunner Patch
 - Easier Mara Quest
 - Unofficial Material Fix - Improved Traps Patch

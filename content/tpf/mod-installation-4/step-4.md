@@ -73,6 +73,12 @@ description: >
 
 - **Main Files:** Dark Brotherhood Revengeance
 
+##### [Vittoria's Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Vittorias Alternate Wedding
+
 ##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
 
 #### Download Instructions

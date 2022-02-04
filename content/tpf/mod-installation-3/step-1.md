@@ -51,6 +51,30 @@ description: >
 
 - **Main Files:** Northfires Windhelm
 
+##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Windhelm Ground Meshes
+- **Optional Files:** Better Windhelm Ground Meshes - Valunstrad
+
+##### [Windhelm Snow Texture Cleanup](https://www.nexusmods.com/skyrimspecialedition/mods/59343?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Windhelm - Snow Texture Cleanup
+
+##### [Ugly Low Res Puddles Be Gone](https://www.nexusmods.com/skyrim/mods/33129/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Windhelm Puddles Be Gone
+
+#### Additional Instructions
+
+- Resave **WindhelmMarketPuddlesBeGone.esp** in the Creation Kit ([instructions](/tpf/guide-resources/basic-instructions/#converting-plugins)).
+- ESL-ify **WindhelmMarketPuddlesBeGone.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
 ##### [Skyrim 3D Misc - Windhelm Doors](https://www.nexusmods.com/skyrimspecialedition/mods/20829?tab=files)
 
 #### Download Instructions

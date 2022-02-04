@@ -69,8 +69,8 @@ description: >
 - Double-click **powerofthree's Tweaks** in your mod order.
 - Switch to the **INI Files** tab and select the **po3_Tweaks.ini**.
 - In **Line 49**, change `Faction Stealing =` to `true`.
-- In **Line 72**, change `No Attack Messages =` to `3`.
-- In **Line 86**, change `Grabbing Is Stealing =` to `true`.
+- In **Line 69**, change `No Attack Messages =` to `3`.
+- In **Line 83**, change `Grabbing Is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ##### [Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/33261?tab=files)
