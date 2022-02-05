@@ -1,16 +1,14 @@
 ---
 title: "Screenshots"
-weight: 5
+weight: 6
 type: docs
 description: >
   Screenshots to showcase Legends of the Frost.
 ---
 
-> Some of these screenshots were taken with a pre-release version of LOTF and are missing the ENB.
-
-### Main Menu
-
 ![LOTF Main Menu](/Pictures/lotf/screenshots/lotf-main-menu.jpg)
+
+## LOTF Wander
 
 ### Leaving Helgen
 
@@ -103,3 +101,37 @@ description: >
 ### Darkwater Lake
 
 ![Darkwater Lake](/Pictures/lotf/screenshots/lotf-darkwater-lake.jpg)
+
+## LOTF Obsidian
+
+### Water Reflections
+
+![Water Reflections](/Pictures/lotf/screenshots/lotf-water-reflections.jpg)
+
+### Dreary Markarth
+
+![Dreary Markarth](/Pictures/lotf/screenshots/lotf-dreary-markarth.jpg)
+
+### Reach Night
+
+![Reach Night](/Pictures/lotf/screenshots/lotf-reach-night.jpg)
+
+### Skyhaven Temple
+
+![Skyhaven Temple](/Pictures/lotf/screenshots/lotf-skyhaven-temple.jpg)
+
+### Dwemer Dungeon
+
+![Dwemer Dungeon](/Pictures/lotf/screenshots/lotf-dwemer-dungeon.jpg)
+
+### Snowy Sky
+
+![Snowy Sky](/Pictures/lotf/screenshots/lotf-snowy-sky.jpg)
+
+### Morthal Night
+
+![Morthal Night](/Pictures/lotf/screenshots/lotf-morthal-night.jpg)
+
+### Valthume Dungeon
+
+![Valthume Dungeon](/Pictures/lotf/screenshots/lotf-valthume-dungeon.jpg)

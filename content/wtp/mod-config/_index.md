@@ -17,7 +17,9 @@ Thanks to the [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/2
 - Press ESCAPE to go into the Pause menu and open the **Mod Config**.
 - Select the **-=MCM Settings Manager=-** at the top.
 - Click **OK** when asked to save your current (default) settings, then **OK** again to confirm.
-- Find the **WTP - MCM Settings** in the Presets lists and click **Apply**.
+- Choose the appropriate profile and click **Apply**:
+  - **WTP - MCM Settings** if you are on a 16:9 monitor.
+  - **WTP - MCM Settings (21:9)** if you are on a 21:9 monitor.
 - Click **OK** twice to confirm, then click **Reload MCM** on the left.
 
 All MCM settings are now properly loaded up. If you're interested in the changes I made, feel free to consult the [MCM Settings](/wtp/documentation/mcm-settings/) page.
@@ -39,6 +41,8 @@ To change the HUD layout, go into the **FallUI HUD** MCM after applying the WTP 
 HoloTime adds a clock widget to the interface. By default, the mod is disabled, but it can be enabled in its MCM.
 
 Please note that the **Widget position** setting in HoloHUD cannot currently be saved and applied by MCM Settings Manager. I recommend downsizing it to 0.7 and relocating it to the upper right corner so it does not interfere with the notification boxes on the right.
+
+> Unfortunately, you will not be able to move the clock out of the 16:9 window if you are playing on a 21:9 resolution.
 
 ![Adjust HoloTime Widget Position](/Pictures/wtp/mod-config/adjust-holotime-widget-position.jpg)
 

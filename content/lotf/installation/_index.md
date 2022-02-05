@@ -43,10 +43,10 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 ## Skyrim SE Setup
 
-**LOTF requires Skyrim SE 1.6.323.0**, the patch that was released alongside the Skyrim Anniversary Edition update. The Skyrim AE DLC itself is not required and not supported (it does not matter whether you own it or not). A copy of your vanilla game files downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game.
+**LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
 
-- If you are on **Skyrim SE 1.6.318.0**, you can install LOTF without running the downgrade patcher.
-- If you are on **Skyrim SE 1.5.97.0**, please verify files through Steam to install the update.
+- If you are on **Skyrim SE 1.6.342.0**, you can install LOTF without running the downgrade patcher.
+- If you are on any older version, please verify files through Steam to install the update.
 
 **Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
 
@@ -55,6 +55,8 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 **LOTF requires the English language version of Skyrim SE.**
 
 If you are currently playing in a language other than English, please go into the settings for Skyrim SE in your Steam library and revert the language to English. After changing the language, Steam should automatically download the required files (launch the game to force the download if it doesn't).
+
+After updating the game language, please launch the game once and quit from the main menu.
 
 ## Wabbajack Installation
 
@@ -94,13 +96,13 @@ If you only have a free Nexus account, Wabbajack will open the mod pages for you
 
 You can follow along as Wabbajack installs the list. It will display previews with summaries and links to the mods being installed. Don't let the log irritate you. Unless the installation is aborted completely, you don't have to worry about any warnings.
 
-**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left of. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@LOTF` role, and post your `wabbajack.current.log` in the `#lotf-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
+**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@LOTF` role, and post your `wabbajack.current.log` in the `#lotf-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 
 ## Playing LOTF
 
-Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu **SKSE** should already be selected and you can now launch the game by clicking **Run**.
+Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu, **Legends of the Frost** (a renamed skse64_loader.exe) should already be selected and you can now launch the game by clicking **Run**.
 
 > Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
 
@@ -108,15 +110,28 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied for Immersive HUD and moreHUD so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
+LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
-There are some small tweaks and optional mods in LOTF. Find out more on the [Customisation](/lotf/customisation) page.
+### Customisation
+
+Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/lotf/customisation) page.
+
+Additionally, there are two extra profiles included with the base LOTF one in Mod Organizer 2.
+
+- If you own **Creation Club** content / the AE DLC, you can use the LOTF CC profile. [Instructions here](/lotf/creation-club/).
+- If your system is well below Skyrim's usual system requirements, you may want to try the **Performance** profile.
+
+> Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Legends of the Frost\profiles\Legends of the Frost\saves\` to `\Legends of the Frost\profiles\Legends of the Frost - Performance\saves\` manually. Please do not attempt to switch from the CC profile to either the regular or performance profile in an ongoing playthrough.
+
+Check the picture below to see how to switch to a different profile in MO2:
+
+![Swap MO2 Profile](/Pictures/lotf/customisation/swap-mo2-profile.png)
 
 ### ENB Hotkeys
 
 The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter are the same as in TPF and WTP:
 
-- **F7** toggles the FPS counter.
+- **F8** toggles the FPS counter.
 - **F10** toggles the ENB effect.
 - **F11** opens the ingame GUI.
 
