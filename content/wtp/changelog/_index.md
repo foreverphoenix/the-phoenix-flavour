@@ -14,20 +14,30 @@ description: >
 
 #### Mod Changes
 
+- Added Lightweight Lighting - A Weather and Interior Lighting Overhaul
 - Added Facials For Everyone - Less Than Fresh Faces
+- Added Curated Companions
+- Added WTP - Curated Companions Patch
 - Added Diamond City Radio Extended
 - Updated What's Your Name to 1.13.1
 - Removed Better Settlers
+- Removed BS Defence
 - Removed More Where That Came From - Diamond City Radio Edition
 - Removed LOST Audio Tweaks - MWTCF DC Patch
 - Removed Elvani's Track Pack - Diamond City Radio
+- Removed Previs Repair Pack - Clarity Patch
+- Heavily edited Clarity.esp, it now only removes puddles and iron sight DOF
 - Disabled InputSwitch in Buffout (could cause some issues)
 - Easy Lockpicking and Hacking is now disabled by default
+- Place Everywhere mode is now on by default
 
 #### Website Changes
 
-- **Finalisation:** Added instructions on how to enable Easy Lockpicking and Hacking.
-- **Finalisation:** Fixed wrong link at the bottom of the page.
+With this update, I gave the website a much-needed once over. Most improvements are relatively minor and were not documented.
+
+- **Installation:** Consolidated all sub-pages to a single long one. Attempted to shorten it a little and fixed a few broken links.
+- **Installation:** Added instructions on how to enable Easy Lockpicking and Hacking.
+- Updated the WTP Visuals and WTP Gameplay documentations slightly.
 
 ## Release 2.2
 

@@ -21,18 +21,6 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 
 As of the release of **WTP 2.0** in December 2021, the list is back in active developement.
 
-### About the name
-
-Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallout 4" or occasionally just "Phoenix Fallout". This was primarily because yours truly lacked the creativity to come up with a proper name in time for the public release. But a little over a month later I figured one out after all:
-
-[Welcome to Paradise](https://youtu.be/Olli9bETzXk) is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whose work I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
-
-### What is Wabbajack?
-
-Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
-
-**Using Wabbajack is much easier than following a manual installation guide but it doesn't absolve you from reading.**
-
 ## WTP Features
 
 -  Moderately improved visuals while retaining a high frame rate.
@@ -62,6 +50,18 @@ If you are looking for any of the following features, **Welcome to Paradise** ma
 
 At present, WTP does not include any additional armor or weapon mods with the exception of fadingsignal's K-9 Harness for Dogmeat (can't play without it anymore). Some high quality ones may be included in the future, however.
 
+## About the name
+
+Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallout 4" or occasionally just "Phoenix Fallout". This was primarily because yours truly lacked the creativity to come up with a proper name in time for the public release. But a little over a month later I figured one out after all:
+
+[Welcome to Paradise](https://youtu.be/Olli9bETzXk) is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whose work I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
+
+## What is Wabbajack?
+
+Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
+
+**Using Wabbajack is much easier than following a manual installation guide but it doesn't absolve you from reading.**
+
 ## Recommended Hardware
 
 While WTP was made for regular gameplay, a *somewhat* modern PC is required to run the setup comfortably. This is due to the bad optimisation of the vanilla game as much as the included mods. Keep in mind that the game will perform much better on 1080p than on 1440p or higher resolutions.
@@ -79,4 +79,4 @@ You can see the details of my old setup below, sufficient for playing at 1440p w
 
 > I have since upgraded to an i7 10700k and a RTX 3080 which are certainly NOT required to play WTP at a stable frame rate.
 
-#### Get started with the [Installation](/wtp/installation/getting-started/) now.
+#### Get started with the [Installation](/wtp/installation/) now.

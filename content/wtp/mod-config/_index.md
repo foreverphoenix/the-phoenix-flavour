@@ -10,6 +10,8 @@ description: >
 
 Thanks to the [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497), many mods can now be tweaked through the MCM which can be accessed through the pause menu. For Welcome to Paradise, most settings were already adjusted and can be applied using [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195).
 
+> If you're interested in what kind of changes the preset includes, check the [MCM Settings](/wtp/documentation/mcm-settings/) page.
+
 ### Load MCM Preset
 
 **Please wait until after you woke up in Vault 111 before you load the WTP MCM settings.**
