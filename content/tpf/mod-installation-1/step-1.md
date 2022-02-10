@@ -119,6 +119,16 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 - **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
 
+##### [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ENB Input Disabler
+
+#### FOMOD Installer
+
+- **Core Files:** ENB Input Disabler for 1.5.97 (Pre-AE)
+
 ##### [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=files)
 
 #### Download Instructions

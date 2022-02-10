@@ -62,7 +62,52 @@ description: >
 - **Optional Files:** Reasonable Quest Rewards - Bounties Are Worthwhile Patch
 - **Optional Files:** Reasonable Quest Rewards - Dark Brotherhood
 
-##### [Simple Smithing Overhaul - TPF Edit]()
+##### [Smithing Perks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Smithing Perks Overhaul -- New Perk Tree
+
+##### [Smithing Perks Overhaul - TPF Delta Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Smithing Perks Overhaul - TPF Delta Patch
+
+> This is a delta patch. Download it but do not install it like a mod in MO2.
+
+#### Installation Instructions
+
+This delta patcher will remove the WACCF dependency from SPO as well as adjust perk description for consistency with Adamant.
+
+- Extract the **spo-tpf.xdelta** to your **temp** folder.
+- Run **DeltaPatcher.exe** (located in your Tools folder).
+- Point **Original file** to the **Smithing Perks Overhaul SE.esp** within `\Mod Organizer 2\mods\Smithing Perks Overhaul\`.
+- Point **XDelta patch** to the **spo-tpf.xdelta** in your **temp** folder.
+- Click **Apply patch**, then click **OK** when the confirmation window pops up.
+- Refresh Mod Organizer 2. Done! You can delete the delta patch from your **temp** folder.
+
+![SPO Delta Patch](/Pictures/tpf/mod-installation/spo-delta-patch.png)
+
+##### [Jewelsmith for SPO]()
+
+#### Download Instructions
+
+- **Main Files:** ?
+
+##### [Simple Smithing Overhaul Simplified](https://www.nexusmods.com/skyrimspecialedition/mods/55333?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Simple Smithing Overhaul Simplified
+
+#### FOMOD Instructions
+
+- **Perk Overhauls:** ~~Adamant~~ >> `make sure to UNCHECK this option`
+
+> We do not need the Adamant patch as TPF's smithing perks are handled by Smithing Perks Overhaul.
+
+##### [Simple Smithing Overhaul - TPF Edits]()
 
 #### Download Instructions
 
@@ -107,23 +152,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Craftable Torches
-
-##### [Improvement Names Customized](https://www.nexusmods.com/skyrimspecialedition/mods/27776?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Improvement Names Customized SSE
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `SKSE\Plugins\ImprovementNamesCustomizedSSE.json`
-
-##### [Adamant - Plus Ten Smithing](https://www.nexusmods.com/skyrimspecialedition/mods/30191?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Adamant - Plus Ten Smithing
 
 ##### [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 

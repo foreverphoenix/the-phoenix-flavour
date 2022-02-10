@@ -231,50 +231,6 @@ description: >
 
 * **Main Files:** Rudy HQ - Standing Stones SE
 
-##### [ENB Light - Dunmer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** ENB Light 0.95 Release Candidate 2
-
-> This mod is a pretty big package. We are going to extract a few files at a time.
-
-#### Additional Instructions
-
-First we need to create a new mod folder:
-
-- In Mod Organizer 2, click the tools icon above the mod order and select **Create empty mod**.
-- Enter **ENB Light - Dunmer Lanterns** as the name and click **OK**.
-- Right-click the new mod and select **Open in Explorer**.
-
-Next, create the folder structure for the meshes:
-
-- Inside the new folder, create a folder called **meshes**.
-- Inside the **meshes** folder, create a folder called **dlc02**. 
-
-Now we need to grab the meshes from the downloaded archive:
-
-- Right-click it in the **Downloads** pane in MO2 and select **Open File**.
-- Navigate to `\02 - Full\meshes\dlc02\`.
-- Extract the **clutter** folder into the **dlc02** folder within your new mod folder.
-
-Finally, we need a helper texture for the light effect:
-
-- In the ENB Light archive, open the **01 - Minimal** folder.
-- Extract the **textures** folder into **ENB Light - Dunmer Meshes**.
-
-The resulting folder structure should look as follows:
-
-```
-meshes\dlc02\clutter\dlc2darkelflantern01.nif
-meshes\dlc02\clutter\dlc2darkelflantern02.nif
-meshes\dlc02\clutter\dlc2darkelflantern03.nif
-meshes\dlc02\clutter\dlc2darkelflantern04.nif
-meshes\dlc02\clutter\dlc2darkelflantern05.nif
-meshes\dlc02\clutter\dlc2darkelflantern06.nif
-textures\effects\glowsoft01_enbl.dds
-```
-
 ##### [Remiros' Dunmer Urns HD](https://www.nexusmods.com/skyrimspecialedition/mods/50767?tab=files)
 
 #### Download Instructions

@@ -171,6 +171,16 @@ In Mod Organizer 2, add **NifSkope.exe** as an executable like you did before wi
 
 ![Download NifSkope](/Pictures/tpf/initial-setup/download-nifskope.png)
 
+## DeltaPatcher
+
+In TPF we are going to use the DeltaPatcher to apply changes to plugins that I would not be able to share otherwise. With the .xdelta files that I created by comparing the original file to my modified copy you will be able to patch your local files to mirror my changes.
+
+- Download **deltapatcher_v2.0.1_win32_bin.zip** from the [Github page](https://github.com/marco-calautti/DeltaPatcher/releases/tag/2.0.1).
+- Create a new folder: `\Your Modding Folder\Tools\DiffPatcher\`.
+- Open the downloaded archive and extract the **DeltaPatcher.exe** into the new folder.
+
+![Download DeltaPatcher](/Pictures/tpf/initial-setup/download-delta-patcher.png)
+
 ---
 
 #### Continue with the [Mod Installation](/tpf/mod-installation-1/) page.

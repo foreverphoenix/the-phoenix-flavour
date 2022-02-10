@@ -42,6 +42,12 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 
 ![Qwafee Keys CAO Settings](/Pictures/tpf/mod-installation/qwafee-keys-cao-settings.png)
 
+##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 2k Textures
+
 ##### [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224?tab=files)
 
 #### Download Instructions
@@ -69,24 +75,15 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 
 - **Textures:** 2K Textures
 
-##### [JS Lockpicking UI](https://www.nexusmods.com/skyrimspecialedition/mods/22160?tab=files)
+##### [Security Overhaul SKSE - Regional Locks](https://www.nexusmods.com/skyrimspecialedition/mods/62781?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** 2k Textures
+- **Main Files:** Security Overhaul SKSE - Regional Locks
 
-#### Additional Instructions
+#### FOMOD Instructions
 
-We are only interested in the skeleton key from this mod:
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\interface\lockpicking\lockpick01.nif`
-  - `meshes\interface\lockpicking\lockpickshiv01.nif`
-  - `textures\interface\`
-
-We should also reduce the resolution of the skeleton key texture from 2K to 1K:
-
-- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+- **Textures:** 2K Textures
 
 ##### [Gemstone Replacers HD](https://www.nexusmods.com/skyrimspecialedition/mods/46531?tab=files)
 

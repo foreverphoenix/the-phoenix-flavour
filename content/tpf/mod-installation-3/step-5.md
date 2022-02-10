@@ -77,6 +77,18 @@ description: >
 - **Main Files:** Skyrim 3D Misc - Giant Mortar and Pestle
 - **Main Files:** Skyrim 3D Misc - Mammoth Cheese
 
+##### [Executioner's Block](https://www.nexusmods.com/skyrimspecialedition/mods/62963?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 2k Executioner's Block Less Saturation
+
+##### [Burnt Corpses Textures Redone](https://www.nexusmods.com/skyrimspecialedition/mods/60831?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Burnt Corpse Texture Redone 2k
+
 ##### [Qwafee Bloody Rags](https://www.nexusmods.com/skyrimspecialedition/mods/59815?tab=files)
 
 #### Download Instructions

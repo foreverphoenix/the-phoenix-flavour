@@ -105,7 +105,7 @@ Fully replaces the loading screen UI as well as all loading screens. Do not use 
 
 [NORDIC UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is a full reskin of the SkyUI interface that I personally like a great deal. It is quite a departure from the vanilla look and thus not everyone will like it. However, if you do, here's how to install it.
 
-As for **ultrawide** support, there is a [patch](https://www.nexusmods.com/skyrimspecialedition/mods/53909) for the main NORDIC UI mod. However, NORDIC UI - Miscellaneous Patches does not include ultrawide support and neither do the other files related to NORDIC UI. If you are on an ultrawide monitor, please skip NORDIC UI.
+As for **ultrawide** support, there is a [patch](https://www.nexusmods.com/skyrimspecialedition/mods/53909) for the main NORDIC UI mod. However, NORDIC UI - Miscellaneous Patches does not include ultrawide support and neither do the other files related to NORDIC UI. If you are on an ultrawide monitor, please skip NORDIC).
 
 ### Mods to disable
 
@@ -182,6 +182,7 @@ We are installing this patch separately in order to be able to place it below TD
 - **Remove QuickSave from System Menu:** ~~Install~~
 - **Loading Screen:** ~~Install~~
 - **Tween Menu:** Install
+- **Spacing:** SkyUI Item Card Fixes spacing
 
 ### [Hand to Hand - An Adamant Addon - NORDIC UI Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
 

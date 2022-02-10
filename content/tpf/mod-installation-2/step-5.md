@@ -260,6 +260,23 @@ Delete everything except for the files show in the screenshot below:
 
 - **Main Files:** Waymark - A Road Signs Mod
 
+##### [More Wooden Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/42201?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** More Wooden Bridges
+
+#### Plugin Edit
+
+We will remove the edit to the Morthal bridge and revert it to vanilla:
+
+- Open **MoreWoodenBridges.esp** in SSEEdit.
+- Double-click the plugin in the left pane to expand it.
+- Go to **Worldspace** >> **Tamriel** and delete `Block-1,0`.
+- Close SSEEdit and save your change.
+
+![Delete Morthal Wooden Bridge](/Pictures/tpf/mod-installation/delete-wooden-morthal-bridge.png)
+
 ##### [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663?tab=files)
 
 #### Download Instructions

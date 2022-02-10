@@ -10,19 +10,19 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Skyrim Skill Uncapper
+- **Main Files:** Skyrim Skill Uncapper
 
 ##### [Skyrim Uncapper - Adamant Arena](https://www.nexusmods.com/skyrimspecialedition/mods/35366?tab=files)
 
 #### Download Instructions
 
-* **Optional Files:** CHADD Uncapper Phoenix Cut
+- **Optional Files:** CHADD Uncapper Phoenix Cut
 
 ##### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Mysticism - A Magic Overhaul
+- **Main Files:** Mysticism - A Magic Overhaul
 
 ##### [Player Spell Lighting - Mysticism Patch](https://www.nexusmods.com/skyrimspecialedition/mods/56830?tab=files)
 
@@ -34,13 +34,41 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** More Expensive Transmute for Mysticism
+- **Main Files:** More Expensive Transmute for Mysticism
 
 ##### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Adamant - A Perk Overhaul
+- **Main Files:** Adamant - A Perk Overhaul
+
+#### Additional Instructions
+
+- Open **Adamant.esp** in SSEEdit.
+
+We are going to completely remove all smithing changes from the plugin. Delete the following records:
+
+- **Actor Value Information:** `AVSmithing`
+- **Constructible Objects:** Delete the entire branch.
+- **FormID List:** `MAG_DLC2PerksSmithing`
+- **Game Setting:** `fSmithingWeaponMax`
+- **Game Setting:** `fSmithingArmorMax`
+- **Game Setting:** `fSmithingConditionFactor`
+- **Load Screen:** Delete the entire branch.
+- **Perk:** `MAG_ArcaneBlacksmith`
+- **Perk:** `MAG_DragonArmor`
+- **Perk:** `MAG_BasicSmithing`
+- **Perk:** `MAG_DwarvenSmithing`
+- **Perk:** `MAG_RareSmithing`
+- **Perk:** `MAG_OrcishSmithing`
+- **Perk:** `MAG_ExoticSmithing`
+- **Perk:** `MAG_AdvancedSmithing`
+- **Perk:** `MAG_MythicSmithing`
+- **Perk:** `MAG_Journeyman Smithing`
+- **Perk:** `MAG_DLC2Smithing`
+- **Perk:** `MAG_SmithingScalingController`
+
+Close SSEEdit and confirm to save your changes.
 
 ##### [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
 

@@ -118,6 +118,12 @@ description: >
 
 - **Optional Files:** Unofficial Material Fix - Stone Solitude Castle Floor
 
+##### [Unique Markarth Doors](https://www.nexusmods.com/skyrimspecialedition/mods/62969?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unique Markarth Doors
+
 ##### [Skyland - Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/22757?tab=files)
 
 #### Download Instructions

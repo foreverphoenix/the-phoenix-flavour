@@ -18,6 +18,12 @@ description: >
 
 * **Main Files:** WiZkiD - Hall of the Dead Stained Glass Windows
 
+##### [Whiterun Mesh Fixes - WiZkiD's Hall of the Dead Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48120?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Whiterun Mesh Fixes - Wizkid's Hall of the Dead patch
+
 ##### [Sigils of Skyrim - Banners](https://www.nexusmods.com/skyrimspecialedition/mods/54108?tab=files)
 
 #### Download Instructions
@@ -73,6 +79,12 @@ Delete everything except for the files shown in the screenshot below:
 - Add the ESL flag in the file header and close SSEEdit. Click **OK** to save your changes.
 
 ![Immersive Banners Plugin](/Pictures/tpf/mod-installation/immersive-banners-plugin.png)
+
+##### [Stendarr's Beacon Banners](https://www.nexusmods.com/skyrimspecialedition/mods/62655?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Stendarr's Beacon Banners - ESL Flagged
 
 ##### [PELTAPALOOZA](https://www.nexusmods.com/skyrimspecialedition/mods/5442?tab=files)
 

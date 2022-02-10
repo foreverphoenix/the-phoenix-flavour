@@ -31,6 +31,12 @@ description: >
 
 - **Main Files:** Reduced Glow FX SE
 
+##### [Dark Elf Lantern ENB Light - Animated Glow](https://www.nexusmods.com/skyrimspecialedition/mods/63176?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dark Elf Lantern ENB Light
+
 ##### [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files)
 
 #### Download Instructions

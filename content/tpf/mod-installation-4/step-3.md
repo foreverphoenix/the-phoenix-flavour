@@ -16,7 +16,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** AI Overhaul 1.6.7
+- **Optional Files:** AI Overhaul for SE Only
 
 ##### [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 

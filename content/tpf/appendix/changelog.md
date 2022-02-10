@@ -41,6 +41,7 @@ description: >
 - [Additional Tools](/tpf/initial-setup/step-8/): Re-added zEdit with Stock Game folder instructions.
 - [Additional Tools](/tpf/initial-setup/step-8/): Reworked the arguments instructions for SSEEdit.
 - [Additional Tools](/tpf/initial-setup/step-8/): Now using the latest version of CAO (5.3.x).
+- [Additional Tools](/tpf/initial-setup/step-8/): Added DeltaPatcher as an additional tool.
 - Removed the **ESM Cleaning** page entirely (it is ultimately unnecessary).
 
 #### Mod Installation
@@ -53,6 +54,7 @@ In addition, all file names for the separate pages were edited which also affect
 
 - powerofthree's Papyrus Extender
 - Base Object Swapper
+- ENB Input Disabler
 - Dragonborn Presence - Discord Rich Presence
 - SSE Display Tweaks - Custom INI
 - Weapons & Armor Overhaul
@@ -82,6 +84,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Stones of Solitude - Better Blended Rock Piles
 - Spiders of Solstheim - Transparency Fix
 - Flickering Meshes Fix
+- Dark Elf Lantern ENB Light - Animated Glow
 - Embers XD
 - ENB Lights For Effect Shaders
 - Player Spell (and Weapon) Lighting for Vanilla and ENB
@@ -94,6 +97,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Ashbound - Solstheim Enhanced
 - Lanterns of Skyrim
 - Waymark - A Road Signs Mod
+- More Wooden Bridges
 - Snowy Boethiah
 - Happy Little Trees
 - Happy Little Trees Add-On - DynDOLOD 3
@@ -106,6 +110,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Windhelm - Snow Texture Cleanup
 - Ugly Low Res Puddles Be Gone
 - Skyrim 3D Misc - Windhelm Doors
+- Unique Markarth Doors
 - Raven Rock Building Tweaks
 - WiZkiD Parallax Imperial Forts
 - Skyrim Remastered - Castle Volkihar and Clutter
@@ -113,11 +118,14 @@ In addition, all file names for the separate pages were edited which also affect
 - Auriel's Chantry HD
 - LeanWolf's Snowelf Wayshrine - No Walls
 - Simplicity of Snow - 3D Walls Patch
-- ENB Light - Dunmer Lanterns
+- Whiterun Mesh Fixes - WiZkiD's Hall of the Dead Patch
+- Stendarr's Beacon Banners
 - Rudification - Rudy Candles Expanded
 - Enchanting Stations Candles
 - HD Glaze for JS Shrines of the Divines
 - Hectrol Spider Webs Retex
+- Executioner's Block
+- Burnt Corpse Texture Redone
 - Qwafee Bloody Rags
 - Skyrim 3D Misc - Buckets
 - Skyrim 3D Misc - Butterchurn
@@ -128,6 +136,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Security Overhaul SKSE - Lock Variations
 - Ancient Dwemer Metal - Security Overhaul SKSE Patch
 - Security Overhaul SKSE - Addons
+- Security Overhaul SKSE - Regional Locks
 - JS Dragon Claws - Anniversary Edition
 - Honningbrew Decanter
 - High Poly Sweet Rolls
@@ -156,6 +165,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Pilgrim - A Religion Overhaul
 - Canis Hysteria
 - Coherent Inn Prices
+- Smithing Perks Overhaul
+- Smithing Perks Overhaul - TPF Delta Patch
 - Simple Smithing Overhaul - TPF Edit
 - Simple Smithing Overhaul - WAO Patch
 - More Craftable Equipment
@@ -236,6 +247,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Misc Tweaks - More Expensive Inns
 - Simple Smithing Overhaul
 - Lightweight Smithing Tweaks for SSO
+- Improvement Names Customised
+- Adamant - Plus Ten Smithing
 - Enchanting Adjustments Updated
 - Better Stealth AI for Followers
 - Dragon War - A Dragon Overhaul
