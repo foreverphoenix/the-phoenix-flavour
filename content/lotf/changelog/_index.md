@@ -15,13 +15,16 @@ description: >
 - Added LOD Unloading Bug Fix
 - Added Fixed Mesh Lighting - Bee Hives
 - Added moreHUD Inventory Edition
-- Updated DynDOLOD to Alpha-65
+- Added CC Saints and Seducers - Less Obnoxious Elytra Footsteps (CC Profile only)
+- Added Tempered Racial Textures - Ring of Disrobing Patch (CC Profile only)
+- Added LOTF - Knight of the North Patch (minor text adjustments) (CC Profile only)
+- Updated DynDOLOD to Alpha-67
 - Updated SSE Display Tweaks to 0.5.9
 - Updated Assorted Mesh Fixes to 0.45.1
 - Updated Fixed Mesh Lighting to 1.6.2
 - Updated powerofthree's Tweaks to 1.5.0
 - Updated Equip Enchantment Fix to 1.3.4
-- Updated DynDOLOD Resources to Alpha-19
+- Updated DynDOLOD Resources to Alpha-20
 - Updated Relighting Skyrim to 1.3.0
 - Updated Simplicity of Snow to 0.5.1
 - Updated Simple Dual Sheath Redux to 1.5.2
