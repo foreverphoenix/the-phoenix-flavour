@@ -214,7 +214,7 @@ We have now successfully removed the ownership flags. All that remains are the d
 Balancing in TPF is overhauled by WAO and CJO which were custom made for the guide. However, we still require a good amount of assets from WACCF that I do not have the skill to recreate and lack the permissions to reshare.
 
 - Install and activate **Weapons Armor Clothing and Clutter Fixes** in MO2.
-- Rename it to **WACCF Assets for WAO & CJO**.
+- Rename it to **WACCF Assets for TPF**.
 - Extract the **Weapons Armor Clothing & Clutter Fixes.bsa** ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
 - Extract the **Weapons Armor Clothing & Clutter Fixes - Textures.bsa** ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
 - Press F5 to refresh the MO2 virtual data folder.
@@ -243,6 +243,8 @@ Unfortunately, we are not done.
   - `meshes\armor\dbarmor\dbarmorsleeveless_1.nif`
   - `meshes\armor\dbarmor\dbarmorsleeveless_f_0.nif`
   - `meshes\armor\dbarmor\dbarmorsleeveless_f_1.nif`
+- Mesh for the female Argonian Draugr helmet:
+  - `meshes\armor\draugr\draugrhelmargonianf.nif`
 - Meshes for the Thieves Guild Armor:
   - `meshes\armor\thievesguild\f\1stpersontorsovariant_0.nif`
   - `meshes\armor\thievesguild\f\1stpersontorsovariant_1.nif`
@@ -306,6 +308,12 @@ If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WA
 #### Download Instructions
 
 - **Main Files:** SkyUI - Ghost Item Bug Fix
+
+##### [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SkyUI Weapons Pack SE 1.3
 
 ##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
 

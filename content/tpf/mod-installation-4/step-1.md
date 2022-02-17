@@ -70,15 +70,6 @@ We are going to completely remove all smithing changes from the plugin. Delete t
 
 Close SSEEdit and confirm to save your changes.
 
-##### [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hand to Hand - An Adamant Addon >> `for 1.5.97`
-- **Optional Files:** Hand to Hand - Trainers and Skill Books Addon
-- **Miscellaneous Files:** Hand to Hand - BSC Patch
-- **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
-
 ##### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411?tab=files)
 
 #### Download Instructions
@@ -90,22 +81,6 @@ Close SSEEdit and confirm to save your changes.
 #### Download Instructions
 
 * **Main Files:** Aetherius - A Race Overhaul
-
-##### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Pilgrim - A Religion Overhaul
-
-#### FOMOD Instructions
-
-- **Perk Overhauls:** Adamant - A Perk Overhaul
-- **Vokrii:** None
-- **Miscellaneous:**
-  - ~~Artifacts - The Breton Paladin~~
-  - ~~Beyond Skyrim - Bruma~~
-  - ~~Go To Bed~~
-  - ~~Odin - Skyrim Magic Overhaul~~
 
 ##### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746?tab=files)
 

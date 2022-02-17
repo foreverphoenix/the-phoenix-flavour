@@ -54,6 +54,12 @@ Download **Scaleform Translation Plus Plus 1.4.1** from the Old Files section.
 
 - **Main Files:** Spell Perk Item Distributor - SSE
 
+##### [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Keyword Item Distributor - SE
+
 ##### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
 
 #### Download Instructions

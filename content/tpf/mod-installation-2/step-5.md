@@ -6,6 +6,13 @@ description: >
   Better mountains, snow, water, and landscape textures.
 ---
 
+##### [Enhanced Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18162?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Enhanced Landscapes v2.0
+- **Update Files:** Enhanced Landscapes v2.0.1 >> `merge with the main file`
+
 ##### [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052?tab=files)
 
 #### Download Instructions

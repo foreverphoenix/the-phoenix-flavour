@@ -53,6 +53,7 @@ In addition, all file names for the separate pages were edited which also affect
 **Added in TPF 5.0:**
 
 - powerofthree's Papyrus Extender
+- Keyword Item Distributor
 - Base Object Swapper
 - ENB Input Disabler
 - Dragonborn Presence - Discord Rich Presence
@@ -94,6 +95,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Northfire's Skidmarks
 - Skyland - A Landscape Texture Overhaul
 - Shaders of Solstheim - Ash and Moss
+- Enhanced Landscapes
 - Ashbound - Solstheim Enhanced
 - Lanterns of Skyrim
 - Waymark - A Road Signs Mod
@@ -161,8 +163,6 @@ In addition, all file names for the separate pages were edited which also affect
 - Slightly Better - Arvak
 - Arvak Burning Hooves Restored
 - Player Spell Lighting - Mysticism Patch
-- Hand to Hand - An Adamant Addon
-- Pilgrim - A Religion Overhaul
 - Canis Hysteria
 - Coherent Inn Prices
 - Smithing Perks Overhaul
@@ -262,6 +262,10 @@ In addition, all file names for the separate pages were edited which also affect
 
 - Added instructions to remove the crop ownership feature from SLaWF
 - Now using Enhanced Blood Textures 4.0 beta 3
+
+#### TPF Extended
+
+This section was newly added. It is the TPF-X I keep talking about, with various content-adding mods that I would not consider adding to base TPF.
 
 #### Customisation
 
