@@ -132,26 +132,6 @@ Delete everything except for the files shown in the screenshot below:
 
 - **Main Files:** Rally's Mead Barrels
 
-##### [Rudification - Rudy Candles Expanded](nexusmods.com/skyrimspecialedition/mods/55852?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Rudification - Rudy Candles Expanded
-
-#### FOMOD Instructions
-
-- **Ruin candles:** Ruin candles
-- **Chandeliers:** Default chandeliers
-- **Shrines:** JS Shrines
-- **Additional patches:**
-  - Skeleton Replacer HD
-  - Ruin Meshes with Particle Light Nodes
-  - ~~Parallax Enabled Meshes~~
-  - ~~Chandelier Compatible Meshes~~
-  - ~~Not Using BDS~~
-  - ~~Not Using SMIM~~
-- **Particle Light Node Color:** Orange Red Particle Light Nodes
-
 ##### [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files)
 
 #### Download Instructions

@@ -63,13 +63,13 @@ In addition, all file names for the separate pages were edited which also affect
 - SkyUI Ghost Item Bug Fix
 - SSE Gameplay Tweaks
 - Animated Static Reload Fix
-- Pause After Unload Unscripted
 - Forget Spell
 - LOD Unloading Bug Fix
 - Potema's Minion Fixlet
 - WE05 Script Fix
-- DLC2 March of the Dead Fix
 - Source of Stalhrim Quest Fix
+- DLC2 March of the Dead Fix
+- Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
 - High Gate Ruins Puzzle Reset Fix
 - Mount Anthor Dragon Fix
 - Ulfric, Tullius, Give Me A Break
@@ -78,17 +78,34 @@ In addition, all file names for the separate pages were edited which also affect
 - Butterflies Land True
 - Butterflies Unchained
 - Modern Toggle Walk-Run Fix
+- Contextual Crosshair
 - Ultimate Immersion Toggle
+- True HUD
+- TPF - True HUD MCM Preset
+- Curated Bosses for True HUD
 - Oxygen Meter
 - Weather of World
 - CoMAP - Common Marker Addon Project
 - Stones of Solitude - Better Blended Rock Piles
 - Spiders of Solstheim - Transparency Fix
+- Floating Ash Pile Fix
 - Flickering Meshes Fix
+- Obsidian Weathers and Seasons
+- Obsidian Weathers and Seasons MCM Patch
+- Obsidian Weathers and Seasons MCM Patch - Settings Loader
+- TPF - Obsidian Weathers MCM Preset
+- Storm Lightning - Settings Loader
+- TPF - Storm Lightning MCM Preset
+- Seasons of Skyrim
+- Seasons of Skyrim - Remove Unwanted Grass
+- Shrubs of Snow - Seasons of Skyrim SKSE
+- Fixed Mesh Lighting - Shrubs of Snow
+- Turn of the Season
 - Dark Elf Lantern ENB Light - Animated Glow
 - Embers XD
 - ENB Lights For Effect Shaders
 - Player Spell (and Weapon) Lighting for Vanilla and ENB
+- Whiterun Skyforge - Reforged
 - Majestic Landscapes - Snow
 - Simplicity of Snow
 - Simplicity of Snow - Blended Roads Patch
@@ -97,8 +114,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Shaders of Solstheim - Ash and Moss
 - Enhanced Landscapes
 - Ashbound - Solstheim Enhanced
-- Lanterns of Skyrim
 - Waymark - A Road Signs Mod
+- The Dragon Bridge
 - More Wooden Bridges
 - Snowy Boethiah
 - Happy Little Trees
@@ -108,7 +125,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Cathedral 3D Mountain Flowers - Base Object Swapper
 - Cathedral 3D Mountain Flowers for Hearthfire
 - Slightly Better - Old People Consistency
-- WiZkid Riften and Ratway
+- WiZkiD Riften and Ratway
+- RYFTEN - Consistency of windows in Riften
 - Windhelm - Snow Texture Cleanup
 - Ugly Low Res Puddles Be Gone
 - Skyrim 3D Misc - Windhelm Doors
@@ -120,9 +138,10 @@ In addition, all file names for the separate pages were edited which also affect
 - Auriel's Chantry HD
 - LeanWolf's Snowelf Wayshrine - No Walls
 - Simplicity of Snow - 3D Walls Patch
+- Water in Wells - Mesh-only Animated Wells
+- Upgraded Moondial - Material Fix
 - Whiterun Mesh Fixes - WiZkiD's Hall of the Dead Patch
 - Stendarr's Beacon Banners
-- Rudification - Rudy Candles Expanded
 - Enchanting Stations Candles
 - HD Glaze for JS Shrines of the Divines
 - Hectrol Spider Webs Retex
@@ -182,6 +201,10 @@ In addition, all file names for the separate pages were edited which also affect
 - Dark Brotherhood Rising Revengeance
 - Vittorias Alternate Wedding
 - Misc Dialogue Edits - Save the Icerunner Patch
+- Thieves Guild Requirements
+- Thieves Guild Requirements - Settings Loader
+- Thieves Guild Requiremetns - MCM Preset
+- More Dialogue Options - Thieves Guild Reformation Patch
 - Easier Mara Quest
 - Unofficial Material Fix - Improved Traps Patch
 - Helgen Keep Bandit Chief Executioner
@@ -192,9 +215,16 @@ In addition, all file names for the separate pages were edited which also affect
 - Draw 2
 - Movement Behaviour Overhaul
 - Movement Behavior Overhaul - True Directional Movement Patch
+- Seasonal Weathers Framework - Obsidian Weathers and AOS Patch
 - Audio Overhaul for Skyrim - Unique Uniques Patch
 - ISC - Default Soul Capture SFX
 - Immersive Sounds Compendium - Frankly HD Imperial Armor and Weapons Patch
+- Lux
+- High Hrothgar Fixed - Lux Patch
+- Rudification - Rudy Candles Expanded
+- Lux - Variants
+- Lux Via
+- Lux Orbis
 
 **Removed in TPF 5.0:**
 
@@ -208,7 +238,11 @@ In addition, all file names for the separate pages were edited which also affect
 - Wiseman303's Flora Fixes - Revamped - SMIM Patch
 - Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
 - Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch
-- Dynamic Volumetric Lighting and Sun Shadows
+- Cathedral Weathers and Seasons
+- Cathedral Weathers MCM
+- Skyrim Textures Redone - Enhanced Night Sky
+- Wonders Of Weather - Less Opaque Rain Splashes for ENB
+- Relighting Skyrim
 - Relighting Skyrim - No Player Homes
 - Luminosity Lighting Overhaul
 - Luminosity - A Quality World Map Patch
@@ -235,6 +269,7 @@ In addition, all file names for the separate pages were edited which also affect
 - CC's Castle Volkihar Remastered
 - Arri’s Snow Elf Ruins Retexture
 - RUSTIC WORD WALLS
+- Upgraded Moondial
 - HD Lava for Dawnguard
 - WEBS
 - JS Dragon Claws
@@ -251,8 +286,11 @@ In addition, all file names for the separate pages were edited which also affect
 - Adamant - Plus Ten Smithing
 - Enchanting Adjustments Updated
 - Better Stealth AI for Followers
+- No Thieves Guild Grind
+- Stackable Stones of Barenziah
 - Dragon War - A Dragon Overhaul
 - Viewable Faction Ranks
+- Improved Shadowmarks
 - Dragon Wall Wisdom - Readable Dragon Walls
 - Forceful Tongue - Dragon Wall Wisdom Patch
 - Slof's Trotting Horse

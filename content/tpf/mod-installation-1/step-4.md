@@ -85,6 +85,12 @@ Delete the following file(s) and / or folder(s):
 
 - **Main Files:** DLC2 March of the Dead Fix
 
+##### [Neloth's Experimental Subject Quest (DLC2TTR4A) Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64016?tab=files)
+
+#### Download Instructions
+
+- **Main Files** Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+
 ##### [High Gate Ruins Puzzle Reset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53643?tab=files)
 
 #### Download Instructions

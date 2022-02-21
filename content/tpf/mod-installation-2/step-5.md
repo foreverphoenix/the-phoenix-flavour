@@ -77,6 +77,12 @@ We already downloaded Flickering Meshes Fix.
 - Confirm to merge the folders and click **OK** to overwrite.
 - Press F5 to refresh Mod Organizer 2 and activate the new mod.
 
+##### [Whiterun Skyforge - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/43862?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Whiterun Skyforge - Reforged - No ENB Lights or Glow
+
 ##### [Majestic Landscapes - Snow](https://www.nexusmods.com/skyrimspecialedition/mods/41857?tab=files)
 
 #### Download Instructions
@@ -255,34 +261,23 @@ Delete everything except for the files show in the screenshot below:
 - **Watercolors:**
   -  Alternative Volcanic Watercolor
 
-##### [Lanterns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2429?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Lanterns of Skyrim SE
-
 ##### [Waymark - A Road Signs Mod](https://www.nexusmods.com/skyrimspecialedition/mods/53333?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Waymark - A Road Signs Mod
 
+##### [The Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/63858?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Dragon Bridge
+
 ##### [More Wooden Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/42201?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** More Wooden Bridges
-
-#### Plugin Edit
-
-We will remove the edit to the Morthal bridge and revert it to vanilla:
-
-- Open **MoreWoodenBridges.esp** in SSEEdit.
-- Double-click the plugin in the left pane to expand it.
-- Go to **Worldspace** >> **Tamriel** and delete `Block-1,0`.
-- Close SSEEdit and save your change.
-
-![Delete Morthal Wooden Bridge](/Pictures/tpf/mod-installation/delete-wooden-morthal-bridge.png)
+- **Main Files:** More Wooden Bridges 3.0 - No Morthal Bridge Version
 
 ##### [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663?tab=files)
 

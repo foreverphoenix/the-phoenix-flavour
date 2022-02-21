@@ -188,7 +188,7 @@ The plugin contains one unnecessary edit to a scroll that overwrites an edit by 
 #### FOMOD Instructions
 
 - **Legacy of the Dragonborn:** None
-- **Wyrmstooth:** None
+- **Wyrmstooth:** Wyrmstooth
 - **Konahrik's Accoutrements:** None
 - **Helgen Reborn:** None
 - **Skyrim Sewers:** None

@@ -85,51 +85,6 @@ description: >
 
 * **Main Files:** Improved College Entry
 
-##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Misc. College of Winterhold Tweaks
-
-#### FOMOD Instructions
-
-Make sure all previous mods are activated as you will otherwise be unable to select certain options in the FOMOD.
-
-* **Arniel's Appeals:**
-  * Arniel's Appeals
-* **The Augur's Admonishment:**
-  * None
-* **A College Coup:**
-  * A College Coup
-  * ~~Obscure's College of Winterhold Add-on~~
-  * Immersive College NPCs Add-on
-  * ~~Immersive College NPCs Add-on - version 1.0.4~~
-  * ~~Interesting NPCs Add-on~~
-* **Dead Dunmer Delivery:**
-  * Dead Dunmer Delivery
-* **Mage-light Maintenance**
-  * ~~Mage-light Maintenance~~
-* **Governable Gatekeeper:**
-  * Governable Gatekeeper
-* **Expedite the Expirate:**
-  * Expedite the Expirate
-* **Unflappable Faculty:**
-  * Unflappable Faculty
-* **Friendly Faralda:**
-  * ~~Friendly Faralda~~
-* **Scheduled Savos:**
-  * Scheduled Savos
-* **A Wizard's Walk:**
-  * A Wizard's Walk
-* **Erratum Etc.:**
-  * Erratum Etc.
-* **The Early Elementalist:**
-  * None
-* **Inescapable Insights:**
-  * Quests are in Skyrim USSEP Version
-* **Readme:**
-  * *select nothing*
-
 ##### [Choose Your Own Arch-Mage](https://www.nexusmods.com/skyrimspecialedition/mods/30887?tab=files)
 
 #### Download Instructions
@@ -205,11 +160,31 @@ Make sure all previous mods are activated as you will otherwise be unable to sel
 
 - **Main Files:** A Lovely Letter Alternate Routes
 
-##### [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382?tab=files)
+##### [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** No TG Grind
+- **Main Files:** Thieves Guild Requirements SE
+- **Optional Files:** Thieves Guild Reformation - Taking Care of Business
+
+##### [Thieves Guild Requirements - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58233?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Thieves Guild Requirements SE - Settings Loader
+- **Optional Files:** Thieves Guild Reformation - Taking Care of Business - Settings Loader >> `merge with the main file`
+
+##### [Thieves Guild Requirements - MCM Preset]
+
+#### Download Instructions
+
+- ?
+
+##### [More Dialogue Options - Thieves Guild Reformation Patch](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** More Dialogue Options - Thieves Guild Reformation patch
 
 ##### [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766?tab=files)
 
@@ -241,12 +216,6 @@ Make sure all previous mods are activated as you will otherwise be unable to sel
 
 - **Main Files:** ANDR Tweaks - Stones of Barenziah - Dawnguard
 - **Main Files:** ANDR Tweaks - Stones of Barenziah - Solstheim
-
-##### [Stackable Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/22395?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Stackable Stones of Barenziah with Optional Quest Markers
 
 ##### [Andrealphus' Tweaks - Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939?tab=files)
 

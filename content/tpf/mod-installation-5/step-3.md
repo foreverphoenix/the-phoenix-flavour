@@ -1,6 +1,6 @@
 ---
-title: "City Overhauls"
-weight: 10
+title: "Step 3: City Overhauls"
+weight: 3
 type: docs
 description: >
   Mods overhauling cities of Skyrim, including JK's Skyrim.

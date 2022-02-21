@@ -75,7 +75,7 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 #### Download Instructions
 
-- **Main Files:** Misc Dialogue Edits
+- **Main Files:** Misc Dialogue Edits - for Skyrim Unbound Reborn
 
 ##### [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files)
 

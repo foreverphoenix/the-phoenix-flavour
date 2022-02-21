@@ -187,6 +187,12 @@ Delete the following file(s) and / or folder(s):
 
 - **Main Files:** Spiders of Solstheim - Transparency Fix
 
+##### [Floating Ash Pile Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63434?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Floating Ash Pile Fix
+
 ##### [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
 
 #### Download Instructions

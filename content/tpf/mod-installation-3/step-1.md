@@ -45,6 +45,12 @@ description: >
 - Delete the following file(s) and / or folder(s):
   - `/textures/cubemaps/bronze_e.dds`
 
+##### [RYFTEN - Consistency of Windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** RYFTEN - Consistency of windows in Riften
+
 ##### [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099?tab=files)
 
 #### Download Instructions
@@ -267,30 +273,6 @@ The mod's plugin is not forwarding a fix added by the USSEP:
 Delete everything except for the files shown in the screenshot below:
 
 ![Castle Volkihar Textures](/Pictures/tpf/mod-installation/castle-volkihar-textures.png)
-
-##### [Better Volkihar Secret Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/34739?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 4K Version
-
-##### [Iconic's Moon Crest Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45788?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Moon Crest Retexture
-
-#### FOMOD Instructions
-
-- **Choose Size:** 4K
-- **Choose Color:** Gold
-- **Patches:** Unofficial Material Fix Patch
-
-##### [Upgraded Moondial](https://www.nexusmods.com/skyrimspecialedition/mods/45875?tab=files)
-
-#### Download Instruction
-
-- **Main Files:** Upgraded Moondial - Elevn
 
 ##### [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481?tab=files)
 

@@ -1,6 +1,6 @@
 ---
 title: "Customisation"
-weight: 11
+weight: 14
 type: docs
 description: >
   Adjusting and expanding TPF.

@@ -30,11 +30,39 @@ description: >
 
 - **Main Files:** Opt. 1 - Modified Vanilla Favorites
 
+##### [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Contextual Crosshair
+
+#### FOMOD Instructions
+
+- **Core Files:** Contextual Crosshair for 1.5.97 (Pre-AE)
+
 ##### [Ultimate Immersion Toggle](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild
+
+##### [True HUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** TrueHUD (SE)
+
+##### [True HUD - MCM Preset]
+
+#### Download Instructions
+
+- ?
+
+##### [Curated Bosses for True HUD](https://www.nexusmods.com/skyrimspecialedition/mods/53406?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Curated Bosses for True HUD
 
 ##### [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463?tab=files)
 
@@ -63,6 +91,24 @@ description: >
 
 - **Main Files:** white dot
 
+##### [A Matter of Time - A Clock HUD Widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** AMatterOfTime_v3_0_0_alpha_4
+
+##### [A Matter of Time - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/55365?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** A Matter Of Time - Settings Loader
+
+##### [A Matter of Time - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** A Matter of Time - TPF Preset
+
 ##### [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files)
 
 #### Download Instructions
@@ -77,21 +123,11 @@ description: >
 
 > This is faster than ESL-ifying the ESP version.
 
-##### [moreHUD - Settings Loader](https://mega.nz/file/aR9D2KQA#94mShwS0qukNeQzLTvcch8jG0q0qjC41Dsld-kLPfBA)
+##### [moreHUD - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/55503?tab=files)
 
 #### Download Instructions
 
-- Download the linked file from MEGA.
-
-> The regular version of the mod will prevent the moreHUD MCM from initialising if FISS is not present which is the case in TPF.
-
-#### Installation Instructions
-
-- In Mod Organizer 2, click the crossed tools icon above the mod order.
-- Select **Create empty mod**, enter **moreHUD - Settings Loader** as the name, and click **OK**.
-- Right-click your new mod and select **Open in Explorer**.
-- Open the downloaded archive and extract the **scripts** folder into your new mod folder.
-- Press F5 to refresh Mod Organizer 2 and activate the mod.
+- **Main Files:** moreHUD SE PapyrusUtil - Settings Loader
 
 ##### [moreHUD - TPF Preset](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
@@ -231,6 +267,17 @@ Delete the following file(s) and/or folder(s):
 #### Download Instructions
 
 - **Main Files:** Weather of World
+
+##### [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Unique Map Weather Framework
+
+#### FOMOD Instructions
+
+- **Core Files:** UMWF for 1.5.97 (Pre-AE)
+- **Addons:** Vanilla Additions
 
 ##### [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files)
 

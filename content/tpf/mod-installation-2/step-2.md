@@ -108,24 +108,24 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Ruins_Clutter_Improved_SE_NMM_v3-1
-
-> The update files (fixes) are skipped on purpose. They would be overwritten by other mods.
+- **Main Files:** Ruins Clutter Improved SE Mod Manager
 
 #### FOMOD Instructions
 
-* **Options:**
-  * Custom
-* **Custom:**
-  * ~~High Resolution Candles~~
-  * ~~HD Catacomb Candles~~
-  * ~~HD Enchanting Stations~~
-  * ~~HD Spider Eggs~~
-  * ~~HD Pots~~
-  * Improved Ruins Doors
-  * ~~Improved Dragonclaws~~
-  * ~~Subliminal Traps~~
-  * ~~Lantern~~
+- **Options:**
+  - Custom
+- **Custom:**
+  - ~~High Resolution Candles~~
+  - ~~HD Catacomb Candles~~
+  - ~~HD Enchanting Stations~~
+  - ~~HD Spider Eggs~~
+  - ~~HD Pots~~
+  - Improved Ruins Doors
+  - ~~Improved Dragonclaws~~
+  - ~~Subliminal Traps~~
+  - ~~HD Lantern~~
+  - Improved Canopic Jars
+  - Improved Soulcairn
 
 #### Additional Instructions
 
@@ -138,7 +138,7 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Ruins Clutter Improved - Fixes 1.1
+* **Main Files:** Ruins Clutter Improved - Fixes 1.2
 
 ##### [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files)
 

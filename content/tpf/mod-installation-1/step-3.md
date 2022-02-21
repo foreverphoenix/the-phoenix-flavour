@@ -247,12 +247,6 @@ No Gifting = false
 
 - **Main Files:** Uninterrupted Ethereal Form v2
 
-##### [Pause After Unload Unscripted](https://www.nexusmods.com/skyrimspecialedition/mods/60958?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Pause After Unload Unscripted SE-1.0.0.9.rar
-
 ##### [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832?tab=files)
 
 #### Download Instructions
@@ -264,8 +258,6 @@ No Gifting = false
 #### Download Instructions
 
 - **Main Files:** Time Format Changer (Legacy SE)
-
-I am making an exception for this mod in that it is **optional** and you may skip it. As a European, I prefer having a 24h clock (AM/PM confusing me a great deal), but this will not be the case for everyone. If you prefer the default 12h clock, feel free to skip this mod or make your own choice in the FOMOD installer.
 
 #### FOMOD Instructions
 

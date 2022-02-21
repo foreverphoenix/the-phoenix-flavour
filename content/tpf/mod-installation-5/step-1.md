@@ -1,6 +1,6 @@
 ---
-title: "Wyrmstooth"
-weight: 7
+title: "Step 1: Wyrmstooth"
+weight: 1
 type: docs
 description: >
   Wyrmstooth plus related mods and patches.
@@ -56,26 +56,11 @@ description: >
 
 - **Main Files:** Wyrmstooth_Metallurgy_Patch
 
-##### JS Dragon Claws AE - Wyrmstooth Patch
+##### [Wyrmstooth - Mysticism Spell Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63927?tab=files)
 
 #### Download Instructions
 
-This file was already downloaded during the main guide. If you deleted the file or cannot find it again for whatever reasons, you can redownload the **JS Dragon Claws AE Anniversary Edition - 2k** main file from the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files).
-
-#### Installation Instructions
-
-- Find **JS Dragon Claws AE Anniversary Edition - 2k** in the MO2 downloads pane.
-- Double-click it to install again.
-
-#### FOMOD Instructions
-
-- **Legacy of the Dragonborn:** None
-- **Wyrmstooth:** Wyrmstooth
-- **Konahrik's Accoutrements:** None
-- **Helgen Reborn:** None
-- **Skyrim Sewers:** None
-
-> Rename to **JS Dragon Claws - Anniversary Edition 2K - Wyrmstooth Support** before installing.
+- **Main Files:** Wyrmstooth - Mysticism patch
 
 ##### [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
 

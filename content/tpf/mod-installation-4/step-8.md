@@ -10,13 +10,18 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Audio Overhaul Skyrim (3.3.2)
-* **Miscellaneous Files:** Weather Patch for Cathedral Weathers
+-* **Main Files:** Audio Overhaul Skyrim (3.3.2)
 
 #### Additional Instructions
 
-* Delete the following file(s) and/or folder(s):
-  * `Audio Overhaul Skyrim.modgroups`
+- Delete the following file(s) and/or folder(s):
+  - `Audio Overhaul Skyrim.modgroups`
+
+##### [Seasonal Weathers Framework - Obsidian Weathers and AOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Seasonal Weathers Framework - Obsidian Weathers and AOS Patch
 
 ##### [Audio Overhaul for Skyrim - Unique Uniques Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 

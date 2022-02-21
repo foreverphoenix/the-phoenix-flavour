@@ -1,6 +1,6 @@
 ---
-title: "Beyond Skyrim - Bruma"
-weight: 7
+title: "Step 2: Beyond Skyrim - Bruma"
+weight: 2
 type: docs
 description: >
   Beyond Skyrim - Bruma plus related mods and patches.

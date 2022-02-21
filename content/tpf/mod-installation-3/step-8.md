@@ -496,9 +496,7 @@ Rename the mod to "Ancient Dwemer Metal - Patches by Xtudo - Aetherial Crown and
   - Alternate Oathblade - Blades
   - ~~Angis Bow - Scoped~~
 - **Smithing Overhauls:**
-  - None
-- **Patches:**
-  - None
+  - None >> `TPF uses SSOS but not the replica feature so the patch is not needed`
 
 ##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
 

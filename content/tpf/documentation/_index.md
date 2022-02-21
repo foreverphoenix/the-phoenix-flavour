@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-weight: 12
+weight: 15
 type: docs
 description: >
   How to play The Phoenix Flavour.

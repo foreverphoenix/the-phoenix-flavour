@@ -115,6 +115,7 @@ Close SSEEdit and confirm to save your changes.
 #### Download Instructions
 
 - **Main Files:** Misc Tweaks - Night Eye Redux
+- **Optional Files:** Misc Tweaks - Night Eye Redux - ENB Fix
 
 ##### [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
 

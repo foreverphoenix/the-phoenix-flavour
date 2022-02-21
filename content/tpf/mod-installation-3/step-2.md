@@ -65,6 +65,23 @@ description: >
 
 * **Main Files:** Stockades of Skyrim 3D
 
+##### [Water in Wells - Mesh-only Animated Wells](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Water in Wells - mesh-only animated wells
+
+#### FOMOD Instructions
+
+- **Whiterun Well:** Whiterun Well (No Parallax)
+- **Solitude Well:** Solitude Well (No Parallax)
+- **Riften Well:** Riften Well (No Parallax)
+- **Ravenrock Well:** Ravenrock Well (No Parallax)
+- **Skaal Village Well:** Skaal Village Well (No Parallax)
+- **Farmhouse Wells:** Farmhouse Wells (No Parallax)
+- **Imperial Fort Wells:** Imperial Fort Wells (No Parallax)
+- **Generic Mine Wells:** Generic Mine Wells (No Parallax)
+
 ##### [Rudy HQ - Hay](https://www.nexusmods.com/skyrimspecialedition/mods/25125?tab=files)
 
 #### Download Instructions
@@ -230,6 +247,39 @@ description: >
 #### Download Instructions
 
 * **Main Files:** Rudy HQ - Standing Stones SE
+
+##### [Better Volkihar Secret Entrance](https://www.nexusmods.com/skyrimspecialedition/mods/34739?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 4K Version
+
+##### [Iconic's Moon Crest Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45788?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Moon Crest Retexture
+
+#### FOMOD Instructions
+
+- **Choose Size:** 4K
+- **Choose Color:** Gold
+- **Patches:** Unofficial Material Fix Patch
+
+##### [Upgraded Moondial - Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/9951?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Upgraded Moondial - Material Fix
+
+> This and the next mod actually fully replace the original Upgraded Moondial mod.
+
+##### [Particle Lights for ENB - Moon Crests](https://www.nexusmods.com/skyrimspecialedition/mods/63878?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights for ENB - Moon Crests
+- **Optional Files:** Upgraded Moondial PATCH >> `merge with the main file`
 
 ##### [Remiros' Dunmer Urns HD](https://www.nexusmods.com/skyrimspecialedition/mods/50767?tab=files)
 

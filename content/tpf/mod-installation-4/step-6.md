@@ -116,25 +116,11 @@ description: >
 
 - **Miscellaneous Files:** Forceful Tongue - Durnehviir Resurrected Patch
 
-##### [Smelters for Riften and Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/22566?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Smelters for Riften and Solitude
-
 ##### [Simple Player Home Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** Simple Home Improvements AIO (Proudspire 2 Beds)
-
-##### [Improved Shadowmarks](https://www.nexusmods.com/skyrimspecialedition/mods/17609?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** Improved Shadowmarks (512)
-
-> This mod also contains new textures for the shadowmarks. Fortunately, since the textures are packed in a BSA, they will be automatically overwritten by the better looking ones from Ennead Shadowmarks.
 
 ##### [Contraband Confiscated](https://www.nexusmods.com/skyrimspecialedition/mods/34903?tab=files)
 

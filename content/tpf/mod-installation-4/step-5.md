@@ -45,7 +45,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Improved Traps (Dangerous Edition)
+- **Main Files:** Improved Traps (Slightly Dangerous Edition)
 - **Optional Files:** Mining Makes Noise
 - **Miscellaneous Files:** Improved Traps - Follower Safety Patch
 
