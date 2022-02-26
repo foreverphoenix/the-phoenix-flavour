@@ -8,29 +8,63 @@ description: >
 
 ## Release 2.2
 
-> TBD
+> 27/02/2022
+
+This update took much longer than expected as I am just swamped with uni stuff at the moment. There's nothing too exciting although I am happy to have added support for three more creations increasing the count to 17/74 creations. I hope to add support for a greater number of creations in the next update.
+
+Features of this update include:
+
+- **Contextual Crosshair** as a fantastic alternative to iHUD, smoothly fades in the crosshair when you need it
+- **Ruins Clutter Improved** features significant mesh and texture improvements for dungeons
+- **The Dragon Bridge** adds proper road chunks to the, well, Dragon Bridge
+- Support for the following creations: Expanded Crossbows, Elite Crossbows, Nix-Hound
+- Fixed messed up landscape at the entrance to Rielle (part of The Cause)
 
 #### Mod Changes
 
+- Added Base Object Swapper
+- Added ENB Input Disabler
+- Added Screenshot Helper
 - Added LOD Unloading Bug Fix
-- Added Fixed Mesh Lighting - Bee Hives
+- Added WIDeadBodyCleanupScript Crash Fix
+- Added Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+- Added Ruins Clutter Improved
+- Added Ruins Clutter Improved - Fixes
+- Added Floating Ash Pile Fix
+- Added Stones of Solitude - Better Blended Rock Piles
+- Added Contextual Crosshair
 - Added moreHUD Inventory Edition
+- Added Whiterun Skyforge - Reforged
+- Added The Dragon Bridge
 - Added CC Saints and Seducers - Less Obnoxious Elytra Footsteps (CC Profile only)
+- Added Amber Refossilized (CC Profile only)
 - Added Tempered Racial Textures - Ring of Disrobing Patch (CC Profile only)
+- Added CC The Cause - Majestic Mountains Patch (CC Profile only)
+- Added Ayleid Ruins ENB Light (CC Profile only)
 - Added LOTF - Knight of the North Patch (minor text adjustments) (CC Profile only)
-- Updated DynDOLOD to Alpha-67
+- Updated enbseries to 0.473
+- Updated Cathedral Assets Optimizer to 5.3.11
+- Updated DynDOLOD to Alpha-74
 - Updated SSE Display Tweaks to 0.5.9
 - Updated Assorted Mesh Fixes to 0.45.1
-- Updated Fixed Mesh Lighting to 1.6.2
+- Updated Fixed Mesh Lighting to 1.7.0
 - Updated powerofthree's Tweaks to 1.5.0
 - Updated Equip Enchantment Fix to 1.3.4
-- Updated DynDOLOD Resources to Alpha-20
+- Updated Charge Dialogue Fix to 1.4
+- Updated DynDOLOD Resources to Alpha-21
+- Updated moreHUD - Settings Loader to 2.1.1
 - Updated Relighting Skyrim to 1.3.0
 - Updated Simplicity of Snow to 0.5.1
 - Updated Simple Dual Sheath Redux to 1.5.2
-- Updated Knight of the North - A Creation Club Quest Overhaul to 2.1.0.2
+- Updated Knight of the North - A Creation Club Quest Overhaul to 2.1.0.3
 - Updated Morrowind Threads - A Creation Club Integration Mod to 1.1.1.1
 - Removed Whiterun Mesh Fixes (it's almost completely overwritten)
+- Moved Static Mesh Improvement Mod below the TEXTURE BASE separator
+- Inlined the Obsidian Weathers MCM Preset (must have been missing entirely before)
+
+#### Website Changes
+
+- **Creation Club:** Updated the list of supported creations.
 
 ## Release 2.1
 
