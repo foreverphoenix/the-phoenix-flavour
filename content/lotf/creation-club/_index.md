@@ -38,6 +38,9 @@ Please only install Creations that are currently supported by LOTF. This include
 | Alternate Armors - Steel Soldier | `ccbgssse058-ba_steel.bsa` + `ccbgssse058-ba_steel.esl` | 
 | Alternate Armors - Studded Dragonscale | `ccbgssse060-ba_dragonscale.bsa` + `ccbgssse060-ba_dragonscale.esl` |
 | Rare Curios | `ccbgssse037-curios.bsa` + `ccbgssse037-curios.esl` |
+| Expanded Crossbows Pack | `ccffbsse002-crossbowpack.bsa` + `ccffbsse002-crossbowpack.esl` |
+| Elite Crossbows | `ccbgssse043-crosselv.bsa` + `ccbgssse043-crosselv.esl` |
+| Nix-Hound | `ccbgssse035-petnhound.bsa` + `ccbgssse035-petnhound.esl` |
 
 ## Installation
 
