@@ -21,20 +21,27 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 
 As of the release of **WTP 2.0** in December 2021, the list is back in active developement.
 
+### About the name
+
+Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallout 4" or occasionally just "Phoenix Fallout". This was primarily because yours truly lacked the creativity to come up with a proper name in time for the public release. But a little over a month later I figured one out after all:
+
+[Welcome to Paradise](https://youtu.be/Olli9bETzXk) is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whose work I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
+
 ## WTP Features
 
--  Moderately improved visuals while retaining a high frame rate.
--  Performance exceeds vanilla in some areas, especially when the ENB is disabled.
--  Adventure with Dogmeat and one other companion as originally intended by Bethesda.
--  Many custom file edits and patches for a coherent experience.
--  VIS-based sorting overhaul with a custom keywords resource.
--  Modern interface with (almost) the full FallUI suite.
--  Simple implementation of crafting stations with support for included mods.
--  Faster workshop system with better object placement and new stuff to build.
--  Power armors are more rare. Paint and material mods were split.
--  Detailed instructions for the initial setup as well as ingame configuration.
--  Support for one (1) creation: fadingsignal's Modern Military Backpack.
--  Detailed instructions for enabling ultrawide (21:9) compatibility.
+- Moderately improved visuals while retaining a high frame rate with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) and [Spectrum ENB](https://www.nexusmods.com/fallout4/mods/58028).
+- Thanks to the [Previsibines Repair Pack](https://www.nexusmods.com/fallout4/mods/46403), performance exceeds vanilla in some areas, especially when the ENB is disabled.
+- Adventure [with Dogmeat and one other companion](https://www.nexusmods.com/fallout4/mods/13459) as originally intended by Bethesda.
+- Customise your pip-boy with [new paint jobs](https://www.nexusmods.com/fallout4/mods/47858) and [upgrade your vault suit](https://www.nexusmods.com/fallout4/mods/57891) as you progress through the main quest.
+- Many custom file edits and patches for a coherent experience.
+- [VIS-based](https://www.nexusmods.com/fallout4/mods/3877) sorting overhaul with a custom keywords resource.
+- Modern interface with (almost) the full [FallUI](https://www.nexusmods.com/fallout4/mods/48758) suite.
+- Simple implementation of [crafting stations](https://www.nexusmods.com/fallout4/mods/44691) with support for included mods.
+- Faster workshop system with better object placement and new stuff to build.
+- Power armors are more rare. Paint and material mods were split.
+- Detailed instructions for the initial setup as well as ingame configuration.
+- Support for one (1) creation: fadingsignal's Modern Military Backpack.
+- Detailed instructions for enabling ultrawide (21:9) compatibility.
 
 ### Not Included
 
@@ -47,14 +54,7 @@ If you are looking for any of the following features, **Welcome to Paradise** ma
 - Nudity or spicy NSFW content.
 - New quest mods.
 - Mods that vastly differ from the vanilla experience.
-
-At present, WTP does not include any additional armor or weapon mods with the exception of fadingsignal's K-9 Harness for Dogmeat (can't play without it anymore). Some high quality ones may be included in the future, however.
-
-## About the name
-
-Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallout 4" or occasionally just "Phoenix Fallout". This was primarily because yours truly lacked the creativity to come up with a proper name in time for the public release. But a little over a month later I figured one out after all:
-
-[Welcome to Paradise](https://youtu.be/Olli9bETzXk) is a beautiful song by [Aviators](https://www.youtube.com/channel/UCioNNjH3S7X8byCjPDEqZkA), an American indie musician whose work I've loved for many years. The song was written specifically for Fallout 4. He wrote two more Fallout songs, [Apocalypse State of Mind](https://youtu.be/fX5SBZoBiMM) and my personal favourite [Remains](https://youtu.be/aZ1pCyFK_kY) which has enjoyed a permanent spot in many of my playlists for years (unfortunately it wouldn't have made for a fancy list name). All three of his Fallout songs are on the album [Stargazer](https://soundoftheaviators.bandcamp.com/album/stargazers) which you can get on Bandcamp!
+- Full Creation Club support.
 
 ## What is Wabbajack?
 

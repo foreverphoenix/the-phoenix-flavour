@@ -28,16 +28,6 @@ All MCM settings are now properly loaded up. If you're interested in the changes
 
 ![Apply WTP MCM Preset](/Pictures/wtp/mod-config/apply-wtp-mcm-preset.jpg)
 
-### FallUI HUD Preset
-
-By default, FallUI HUD will use the vanilla HUD layout, but this can be easily changed. If you so choose, you can enable my own HUD layout or one of the other pre-installed options. You can also install other presets from the Nexus.
-
-> The WTP FallUI HUD preset is currently a work in progress. It is largely vanilla with some elements moved a little further to the edge or downsized. I also removed the background effects for some widgets.
-
-To change the HUD layout, go into the **FallUI HUD** MCM after applying the WTP MCM settings. You can select layouts from the list or go into Edit Mode and make your own adjustments.
-
-![Apply FallUI HUD Preset](/Pictures/wtp/mod-config/apply-fallui-hud-preset.jpg)
-
 ### HoloTime
 
 HoloTime adds a clock widget to the interface. By default, the mod is disabled, but it can be enabled in its MCM.

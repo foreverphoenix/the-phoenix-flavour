@@ -166,7 +166,7 @@ The following mods expand the game's soundtrack:
 
 > The music mods' individual plugins were replaced by a patched and merged one.
 
-[Diamond City Radio Extended](https://www.nexusmods.com/fallout4/mods/56898) adds over 130 new songs to the radio's catalogue.
+[Diamond City Radio Extended](https://www.nexusmods.com/fallout4/mods/56898) adds over 140 new songs to the radio's catalogue.
 
 ### Pip-Boy Color Variations
 
