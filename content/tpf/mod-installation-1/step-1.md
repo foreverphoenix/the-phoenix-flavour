@@ -164,6 +164,16 @@ SetGS fCombatAimProjectileRandomOffset 70
 - In **line 2**, set `iEnableLogging=` to `0`.
 - Press CTRL + S to save your changes and close the window.
 
+##### [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Screenshot Helper
+
+#### FOMOD Instructions
+
+- **Core Files:** Screenshot Helper for 1.5.97 (Pre-AE)
+
 ##### [Dragonborn Presence - Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287?tab=files)
 
 #### Download Instructions

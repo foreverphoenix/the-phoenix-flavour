@@ -56,6 +56,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Keyword Item Distributor
 - Base Object Swapper
 - ENB Input Disabler
+- Screenshot Helper
 - Dragonborn Presence - Discord Rich Presence
 - SSE Display Tweaks - Custom INI
 - Weapons & Armor Overhaul

@@ -204,6 +204,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Lux Via
+- **Update Files:** Snow fix update
 
 #### FOMOD Instructions
 
@@ -218,18 +219,18 @@ description: >
 
 **Page 3**
 
-- **New Content patches:**
-  - ~~Cutting Room Floor compatibility patch~~
-  - ~~Divine Elegance compatibility patch~~
+- **New Content patches:** *select none*
 - **Towns Patches:** *select none*
 - **Road Signs Patches:**
   - ~~Roadsigns Overhaul compatibility patch~~
   - Waymark compatibility patch
   - ~~Sojourn Over Signposts compatibility patch~~
-- **Player House Patches:** ~~Halla compatibility patch~~
-- **Misc Patches:**
-  - ~~No Snow Under The Roof compatibility patch~~
-  - ~~Skyrim Bridges compatibility patch~~
+- **Player House Patches:** *select none*
+- **Misc Patches:** *select none*
+
+**Page 4**
+
+- **Dark's Whiterun Market:** None
 
 ##### [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095?tab=files)
 

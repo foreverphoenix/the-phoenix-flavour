@@ -58,7 +58,6 @@ description: >
 
 - **Flames Customisation:** Embers XD Flames (Yellow/Orange)
 - **Effect Quality:** High Quality
-- **Plugin Selection:** ESP (Embers XD.esp)
 - **Fire Magick Add-On:** Install Fire Magick Add-On
 - **Forges Add-on:** Install Forges Add-On
 - **Torches Add-On:** Install Torches Add-On

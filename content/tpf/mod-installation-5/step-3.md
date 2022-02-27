@@ -259,7 +259,7 @@ This file was already downloaded during the main guide. If you deleted the file 
   - ~~World Assets Recycle Project~~
 - **ELFX:** None
 - **Morrowloot:** ~~Morrowloot Ultimate~~
-- **Creation Club:** Fishing
+- **Creation Club:** Fishing >> `check this if you have AE`
 
 **Page 3**
 

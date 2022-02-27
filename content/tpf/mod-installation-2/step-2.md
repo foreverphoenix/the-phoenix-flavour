@@ -184,16 +184,15 @@ description: >
   - Sacks
   - Satchel
   - Torpor
-  - Firewood
+  - ~~Firewood~~
   - ~~Mead Barrel~~
 - **Page 5:**
   - ~~Statues No Snow Under the Roof Patch~~
-  - Firewood SnowFix Patch
+  - ~~Firewood SnowFix Patch~~
   - ~~Firewood SnowFix Campfire Patch~~
 
 #### Additional Instructions
 
-- ESL-ify **HPP - FirewoodSnow.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 - Delete the following file(s) and / or folder(s):
   - `\textures\architecture\`
 

@@ -78,6 +78,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Vittorias Alternate Wedding
+- **Optional Files:** Vittorias Alternate Wedding - AI Overhaul Patch
 
 ##### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files)
 
