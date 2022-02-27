@@ -59,7 +59,6 @@ With this update, I gave the website a much-needed once over. Most improvements 
 - **Introduction:** Slightly restructured the page and updated the feature list.
 - **Installation:** Consolidated all sub-pages to a single long one. Attempted to shorten it a little and fixed a few broken links.
 - **Installation:** Added instructions on how to enable Easy Lockpicking and Hacking.
-- Updated the WTP Visuals and WTP Gameplay documentations slightly.
 - **Mod Config:** Removed step about applying FallUI HUD preset. Turns out the MCM preset already does it!
 - **WTP Visuals:** Slightly updated the documentation. The screenshots are a tad outdated and will be replaced asap.
 - **WTP Gameplay:** Slightly updated the documentation.
