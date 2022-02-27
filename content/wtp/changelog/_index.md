@@ -6,6 +6,63 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.3
+
+> 27/02/2022
+
+**New save required.** Please also overwrite the Game Folder Files!
+
+This update adds a few cool new mods as well as some relevant updates.
+
+- The assorted radio mods were replaced with the combined [Diamond City Radio Extended](https://www.nexusmods.com/fallout4/mods/56898).
+- Visuals are now largely affected by [Spectrum ENB](https://www.nexusmods.com/fallout4/mods/58028) and [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680).
+- You can now [upgrade your vault suit](https://www.nexusmods.com/fallout4/mods/57891) as you progress through the main quest!
+- [Facials for Everyone](https://www.nexusmods.com/fallout4/mods/37180) expands the face preset lists without affecting performance.
+
+Please note that I have not tested this update extensively. That being said, I do not anticipate any major issues.
+
+#### Mod Changes
+
+- Added Spectrum ENB
+- Added Lightweight Lighting - A Weather and Interior Lighting Overhaul
+- Added Imposing Gunner Skulls
+- Added Facials For Everyone - Less Than Fresh Faces
+- Added Curated Companions
+- Added WTP - Curated Companions Patch
+- Added Upgradable Vault Suit
+- Added WTP - Upgradable Vault Suit Patch
+- Added Diamond City Radio Extended
+- Added Radio AT - DCE RAO Patch
+- Updated ENB Series to 0.468
+- Updated Workshop Framework to 2.0.20
+- Updated What's Your Name to 1.13.1
+- Updated Previsibines Repair Pack to 0.57.2/0.57.3
+- Removed FallOpt ENB
+- Removed Flicker Fixer (incorporated in PRP)
+- Removed Improved Map with Visible Roads
+- Removed SeriouslySarcastic's Immersive Companions
+- Removed Better Settlers
+- Removed BS Defence
+- Removed More Where That Came From - Diamond City Radio Edition
+- Removed LOST Audio Tweaks - MWTCF DC Patch
+- Removed Elvani's Track Pack - Diamond City Radio
+- Removed Previs Repair Pack - Clarity Patch
+- Heavily edited Clarity.esp, it now only removes puddles and iron sight DOF
+- Disabled InputSwitch in Buffout (could cause some issues)
+- Easy Lockpicking and Hacking is now disabled by default
+- Place Everywhere mode is now on by default
+
+#### Website Changes
+
+With this update, I gave the website a much-needed once over. Most improvements are relatively minor and were not documented.
+
+- **Introduction:** Slightly restructured the page and updated the feature list.
+- **Installation:** Consolidated all sub-pages to a single long one. Attempted to shorten it a little and fixed a few broken links.
+- **Installation:** Added instructions on how to enable Easy Lockpicking and Hacking.
+- **Mod Config:** Removed step about applying FallUI HUD preset. Turns out the MCM preset already does it!
+- **WTP Visuals:** Slightly updated the documentation. The screenshots are a tad outdated and will be replaced asap.
+- **WTP Gameplay:** Slightly updated the documentation.
+
 ## Release 2.2
 
 > 13/01/2022
@@ -703,4 +760,4 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 > 26/09/2020
 
-Initial release. For more info, check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
+Initial release. For more info check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
