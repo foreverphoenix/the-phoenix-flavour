@@ -80,6 +80,30 @@ description: >
 
 - **Main Files:** Anga's Mill - Cities of the North Addon
 
+##### [Anga's Mill - Cities of the North Addon - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/64685?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Anga's Mill - Cities of the North Addon Patch Collection
+
+#### FOMOD Instructions
+
+- **Patches:**
+  - Cheesemod for EVERYONE
+  - ~~Complete Alchemy and Cooking Overhaul~~
+  - Embers XD
+  - ~~Enhanced Lights and FX~~
+  - ~~Enhanced Lights and FX - Exteriors~~
+  - ~~Elder Scrolls Online Imports~~
+  - ~~Farmhouse Chimneys~~
+  - ~~Immersive Citizens - AI Overhaul~~
+  - ~~Lanterns of Skyrim~~
+  - Lux Orbis
+  - ~~Skyrim Artwork Imports~~
+  - ~~Skyrim Project Optimization~~
+  - ~~Snazzy Furniture and Clutter Overhaul~~
+  - ~~Sounds of Skyrim~~
+
 ##### [Half-Moon Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64360?tab=files)
 
 #### Download Instructions
