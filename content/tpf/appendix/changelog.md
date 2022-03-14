@@ -30,7 +30,7 @@ description: >
 - [Mod Organizer 2](/tpf/initial-setup/step-3/): Now using the installer version of MO2 instead of the archive one.
 - [Mod Organizer 2](/tpf/initial-setup/step-3/): Rephrased and changed many parts of this page. Added / replaced some screenshots.
 - [Mod Organizer 2](/tpf/initial-setup/step-3/): Added preview and hex codes for my personal MO2 separator colour palette.
-- Added the new **Stock Game Folder** page.
+- [Stock Game Folder](/tpf/initial-setup/step-3): Added the new **Stock Game Folder** page.
 - [The Creation Kit](/tpf/initial-setup/step-5/): Updated installation instructions (now installing into the Stock Game folder).
 - [Skyrim Script Extender](/tpf/initial-setup/step-6/): Updated and simplified SKSE installation instructions.
 - [Skyrim Script Extender](/tpf/initial-setup/step-6/): Now creating the SKSE.ini manually.
@@ -91,6 +91,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Spiders of Solstheim - Transparency Fix
 - Floating Ash Pile Fix
 - Flickering Meshes Fix
+- Enhanced Volumetric Lighting and Shadows
 - Obsidian Weathers and Seasons
 - Obsidian Weathers and Seasons MCM Patch
 - Obsidian Weathers and Seasons MCM Patch - Settings Loader
@@ -102,8 +103,9 @@ In addition, all file names for the separate pages were edited which also affect
 - Shrubs of Snow - Seasons of Skyrim SKSE
 - Fixed Mesh Lighting - Shrubs of Snow
 - Turn of the Season
-- Dark Elf Lantern ENB Light - Animated Glow
 - Embers XD
+- Dark Elf Lantern ENB Light - Animated Glow
+- Apocrypha ENB Light
 - ENB Lights For Effect Shaders
 - Player Spell (and Weapon) Lighting for Vanilla and ENB
 - Whiterun Skyforge - Reforged
@@ -118,13 +120,11 @@ In addition, all file names for the separate pages were edited which also affect
 - Waymark - A Road Signs Mod
 - The Dragon Bridge
 - More Wooden Bridges
-- Snowy Boethiah
 - Happy Little Trees
 - Happy Little Trees Add-On - DynDOLOD 3
 - Snowy Reach Trees
 - Cathedral 3D Mountain Flowers
 - Cathedral 3D Mountain Flowers - Base Object Swapper
-- Cathedral 3D Mountain Flowers for Hearthfire
 - Slightly Better - Old People Consistency
 - WiZkiD Riften and Ratway
 - RYFTEN - Consistency of windows in Riften
@@ -140,6 +140,7 @@ In addition, all file names for the separate pages were edited which also affect
 - LeanWolf's Snowelf Wayshrine - No Walls
 - Simplicity of Snow - 3D Walls Patch
 - Water in Wells - Mesh-only Animated Wells
+- Daedric Shrines - Boethiah
 - Upgraded Moondial - Material Fix
 - Whiterun Mesh Fixes - WiZkiD's Hall of the Dead Patch
 - Stendarr's Beacon Banners
@@ -198,6 +199,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Thaumaturgy - An Enchanting Overhaul
 - Rent Room Dialogue Tweak
 - Welcome Back to the Bee and Barb
+- Bandit Lines Expansion
 - Adopt Aventus Aretino - USSEP and Simple Children Patch
 - Dark Brotherhood Rising Revengeance
 - Vittorias Alternate Wedding
@@ -212,6 +214,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Dragon Claws Auto Unlock
 - Use Telekinesis on Traps
 - Angi's Camp Tweaks
+- Sensible Sleepwalking - Wake Up At Nearest All-Maker Stone
 - True Directional Movement
 - Draw 2
 - Movement Behaviour Overhaul
@@ -254,6 +257,8 @@ In addition, all file names for the separate pages were edited which also affect
 - KD - Realistic Fireplaces
 - Charred Logs for KD - Realistic Fireplaces
 - KD - Realistic Fireplaces - Fixes
+- Interior Floating Fog Remover
+- Reduced Glow FX
 - ElSopa HD - Dirt Blast
 - Mountains Enhanced
 - Moss Rocks
@@ -266,6 +271,8 @@ In addition, all file names for the separate pages were edited which also affect
 - Skyland Whiterun
 - Skyland Whiterun - SMIM Wood Color Patch
 - Riften in High Definition
+- Northfire's Windhelm
+- RUSTIC MONUMENTS AND TOMBSTONES
 - Windhelm Enhanced - HD Metalwork
 - CC's Castle Volkihar Remastered
 - Arri’s Snow Elf Ruins Retexture
@@ -286,6 +293,7 @@ In addition, all file names for the separate pages were edited which also affect
 - Improvement Names Customised
 - Adamant - Plus Ten Smithing
 - Enchanting Adjustments Updated
+- Hunters Dialogue Edit
 - Better Stealth AI for Followers
 - No Thieves Guild Grind
 - Stackable Stones of Barenziah
@@ -301,10 +309,6 @@ In addition, all file names for the separate pages were edited which also affect
 
 - Added instructions to remove the crop ownership feature from SLaWF
 - Now using Enhanced Blood Textures 4.0 beta 3
-
-#### TPF Extended
-
-This section was newly added. It is the TPF-X I keep talking about, with various content-adding mods that I would not consider adding to base TPF.
 
 #### Customisation
 

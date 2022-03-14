@@ -82,6 +82,7 @@ description: >
 
 #### Additional Instructions
 
+- Downsize the textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 - Delete the following file(s) and / or folder(s):
   - `meshes\`
 
@@ -108,6 +109,7 @@ description: >
 
 #### Additional Instructions
 
+- Downsize the textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 - Delete the following file(s) and / or folder(s):
   - `meshes\`
 
@@ -195,6 +197,20 @@ description: >
 #### Download Instructions
 
 * **Main Files:** RUSTIC FROSTBITE SPIDER SSE - 2K
+
+##### [zzjay's Horse Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/63640?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 00 - Skyrim Horse Overhaul SE - by zzjay
+
+#### FOMOD Instructions
+
+- **Mod version:** 01 - Faction Saddles - Hearthfire DLC needed
+- **Default Saddle Version:**
+  - 00 - Normal saddles - Recommended
+  - ~~01 - Imperial Saddles replace Default Saddles~~
+  - ~~02 - Stormcloak Saddles replace Default **Saddles~~
 
 ##### [HD Reworked Horses](https://www.nexusmods.com/skyrimspecialedition/mods/28249?tab=files)
 

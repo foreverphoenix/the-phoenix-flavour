@@ -215,19 +215,6 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Main Files:** Cathedral 3D Mountain Flowers - Base Object Swapper
 
-##### [Cathedral 3D Mountain Flowers for Hearthfire](https://www.nexusmods.com/skyrimspecialedition/mods/60651?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hearthfilre Mountain Flower Patch
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `textures\`
-
-> The same textures are already part of Cathedral 3D Mountain Flowers.
-
 ##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 #### Download Instructions

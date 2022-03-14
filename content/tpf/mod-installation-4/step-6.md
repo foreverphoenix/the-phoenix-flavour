@@ -162,6 +162,12 @@ description: >
 
 - **Plugin:** Transparency Reduced and Infinite Summons
 
+##### [Sensible Sleepwalking - Wake Up At Nearest All-Maker Stone](https://www.nexusmods.com/skyrimspecialedition/mods/64680?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Sensible Sleepwalking - ESL-flagged
+
 ---
 
 #### Continue with the [Animations & Camera](/tpf/mod-installation-4/step-7/) page.

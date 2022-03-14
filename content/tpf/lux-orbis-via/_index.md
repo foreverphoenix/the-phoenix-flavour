@@ -49,7 +49,7 @@ description: >
 - **Player Houses:** Simple Player Homes Improvements
 - **Cutting Room Floor:** ~~Cutting Room Floor compatibility patch~~
 - **Palaces and Castles Enhanced:** ~~Palaces and Castles Enhanced compatibility patch~~
-- **Great Villages and Towns:** *select none*
+- **Great Villages and Towns:** The Great Village of Mixwater Mill
 - **RedBag's City Overhauls:** *select none*
 - **Solitude Docks:** ~~Solitude Docks compatibility patch~~
 - **Blue Palace Terrace:** ~~Blue Terrace compatibility patch~~
@@ -198,6 +198,30 @@ description: >
   - Obscure College lightweight patch
 
 > The OCW lightweight patch supposedly prevents a CTD in the Arcaneum.
+
+##### [Darkwater Crossing - A Great Towns and Villages of Eastmarch Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64393?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Darkwater Crossing - A Great Towns and Villages of Eastmarch - LUX PATCH
+
+##### [Kolskeggr Mine - A Great Towns and Villages of the Reach Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64397?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Kolskeggr Mine - TGC Lux patch
+
+##### [Anga's Mill - Cities of the North Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64422?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Anga's Mill - Cities of the North Addon - LUX PATCH
+
+##### [Half-Moon Mill - Cities of the North Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64360?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** HMM - Lux Patch
 
 ##### [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588?tab=files)
 

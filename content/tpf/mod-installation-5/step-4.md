@@ -3,8 +3,112 @@ title: "Step 4: Location Overhauls"
 weight: 4
 type: docs
 description: >
-  Mods overhauling miscellaneous locations.
+  Mods overhauling or adding miscellaneous locations.
 ---
+
+##### [The Great Village of Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Village of Mixwater Mill 1.1
+
+##### [The Great Village of Mixwater Mill - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Village of Mixwater Mill Patch Collection
+
+#### FOMOD Installer
+
+- **Miscellaneous Patches:**
+  - Cheesemod for EVERYONE Patch
+  - ~~Enhanced Lights and FX~~
+  - Landscape and Water Fixes
+  - ~~Lanterns of Skyrim II~~
+  - ~~Milandriel~~
+  - ~~RS Children Overhaul~~
+  - ~~Skyrims Unique Treasures~~
+  - ~~Snazzy Furniture and Clutter Overhaul~~
+  - Thieves Guild Requirements
+  - Unofficial Skyrim Special Edition Patch
+
+##### [The Great Village of Mixwater Mill - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35406?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Village of Mixwater Mill - SMIM
+
+##### [The Great Village of Mixwater Mill - Chicken Coop Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52341?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Village of Mixwater Mill Patch Collection - Chicken Coop Fix
+
+##### [Darkwater Crossing - A Great Towns and Villages of Eastmarch Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64266?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Settlement of Darkwater Crossing
+
+##### [Darkwater Crossing - TGV Addon - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/64382?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Darkwater Crossing - TGV Addon Patch Collection
+
+#### FOMOD Instructions
+
+- **Miscellaneous Patches:**
+  - Cheesemod
+  - ~~ELFX~~
+  - ~~ESO Imports~~
+  - ~~Immersive Wenches~~
+  - Landscape and Grass
+  - ~~Lanterns of Skyrim II~~
+  - ~~Special Edition Followers~~
+  - ~~Skyrim Reputation~~
+
+##### [Kolskeggr Mine - A Great Towns and Villages of the Reach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64265?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** The Great Settlement of Kolskeggr Mine
+
+##### [Anga's Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64398?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Anga's Mill - Cities of the North Addon
+
+##### [Half-Moon Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64360?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Half-Moon Mill - COTN Addon
+- **Optional Files:** HMM - AI Overhaul Patch
+- **Optional Files:** HMM - Custom Door Patch
+
+##### [Half-Moon Mill - Cities of the North Addon - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/64522?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Half-Moon Mill - Cities of the North Addon Patch Collection
+
+#### FOMOD Installer
+
+- **Patches:**
+  - ~~Distinct Interiors~~
+  - Embers XD
+  - ~~Enhanced Lights and FX~~
+  - ~~Enhanced Lights and FIX - Exteriors~~
+  - ~~Farmhouse Chimneys~~
+  - ~~Immersive Citizens AI Overhaul~~
+  - ~~Lanterns of Skyrim II~~
+  - Lux Orbis
+  - ~~Radiance - Radiant Quest Enchancements - Locations~~
+  - ~~Skyrims Unique Treasures~~
+  - ~~Sounds of Skyrim~~
+  - ~~Tamrielic Culture~~
 
 ##### [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514?tab=files)
 
@@ -115,12 +219,6 @@ description: >
 
 - **Main Files:** Obscure's College of Winterhold NPC Stuck in Staircase Fix
 
-##### [Obscure's College of Winterhold - CHEESEMOD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57365?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** Obscure's College of Winterhold - Cheesemod Patch
-
 ##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
 
 #### Download Instructions
@@ -178,7 +276,7 @@ Make sure all previous mods are activated as you will otherwise be unable to sel
   - ~~Better Dynamic Snow 2~~
   - ~~BUVARP SE RE~~
   - ~~Complete Alchemy and Cooking Overhaul (CACO)~~
-  - Cutting Room Floor
+  - ~~Cutting Room Floor~~
   - ~~Enhanced Lights and FX (ELFX)~~
   - ~~Immersive Horses~~
   - ~~Lanterns of Skyrim II~~
@@ -188,3 +286,32 @@ Make sure all previous mods are activated as you will otherwise be unable to sel
   - ~~No Snow Under the Roof~~
   - ~~Relationship Dialogue Overhaul~~
   - ~~Relationship Dialogue Overhaul Update and MCM~~
+
+##### [Snowy Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59663?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Snowy Boethiah
+
+#### FOMOD Instructions
+
+- **Choose Version:** Boethiah
+
+##### [Daedric Shrines - Mephala](https://www.nexusmods.com/skyrimspecialedition/mods/63585?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Mephala 4k
+
+##### [Daedric Shrines - Hircine](https://www.nexusmods.com/skyrimspecialedition/mods/63155?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hircine 4k
+
+##### [Daedric Shrines - Sanguine](https://www.nexusmods.com/skyrimspecialedition/mods/64471?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Sanguine - 4k
+

@@ -47,6 +47,12 @@ description: >
 
 - **Main Files:** TDM - Tail Behavior Fix
 
+##### [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Third Person Selection
+
 ##### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=files)
 
 #### Download Instructions

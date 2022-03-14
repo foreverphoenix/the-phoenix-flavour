@@ -59,7 +59,6 @@ Delete everything except for the files shown in the screenshot below:
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `textures\architecture\windhelm\`
   - `textures\clutter\citybannerhighhrothgard01.dds`
   - `textures\clutter\citybannerhighhrothgard01_n.dds`
   - `textures\clutter\citybannerhighhrothgard02.dds`
@@ -68,13 +67,9 @@ Delete everything except for the files shown in the screenshot below:
 #### Plugin Edits
 
 - Open **immersivehdbanner.esp** in SSEEdit.
-- Delete the following **Movable Static** records:
-  - `WHStormcloaksfancybanner01`
-  - `WHStormcloaksfancybannertrim01`
 - Delete the following **Texture Set** records:
   - `CityBannerHighHrothgar`
   - `CityBannerHighHrothgar2`
-  - `WHStormcloaksfancybanner`
 - Right-click the plugin in the left pane, select **Compact FormIDs for ESL** and confirm.
 - Add the ESL flag in the file header and close SSEEdit. Click **OK** to save your changes.
 

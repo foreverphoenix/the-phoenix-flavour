@@ -51,18 +51,11 @@ description: >
 
 - **Main Files:** RYFTEN - Consistency of windows in Riften
 
-##### [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099?tab=files)
+##### [Skyland - Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/64552?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Northfires Windhelm
-
-##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Better Windhelm Ground Meshes
-- **Optional Files:** Better Windhelm Ground Meshes - Valunstrad
+- **Main Files:** Skyland - Windhelm
 
 ##### [Windhelm Snow Texture Cleanup](https://www.nexusmods.com/skyrimspecialedition/mods/59343?tab=files)
 
@@ -86,22 +79,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Skyrim 3D Misc - Windhelm Doors
-
-##### [RUSTIC MONUMENTS AND TOMBSTONES](https://www.nexusmods.com/skyrim/mods/68884?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** RUSTIC MONUMENTS and TOMBSTONES V2.6
-
-#### FOMOD Instructions
-
-- **1. Monument Textures:** 2k
-- **2. Tomb Textures:** 4k
-- **3. Meshes:** SMIM
-
-#### Porting Instructions
-
-- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 

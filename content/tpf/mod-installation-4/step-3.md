@@ -16,7 +16,9 @@ description: >
 
 #### Download Instructions
 
-- **Optional Files:** AI Overhaul for SE Only
+- **Main Files:** AI Overhaul 1.7 AE
+
+> If you do not have AE, grab **AI Overhaul for SE Only** from the Optional Files section instead.
 
 ##### [Tavern AI Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107?tab=files)
 
@@ -26,15 +28,19 @@ description: >
 
 #### Additional Instructions
 
-The mod comes with two console commands to customise it. One will prevent innkeepers from showing you to your room, the other will make it so you'll be served whenever you sit down in an inn and not just the first time. Both can simply be added to Autorun Console Commands.
+The mod comes with two console commands to customise it. One will prevent innkeepers from showing you to your room, the other will make it so you'll be served whenever you sit down in an inn and not just the first time. Both can simply be added to **Autorun**.
 
-* Double-click **Autorun** in your mod order.
+* Double-click **Autorun** in your mod order (under the **UTILITIES** separator).
 * In the **Textfiles** tab, select **Autorun.txt** and add the following lines:
-  * `set TAIF_ServePlayerEveryTime to 1`
-  * `set TAIF_ShowRoomNeverShow to 1`
+
+```
+Set TAIF_Settings_GreetPlayer to 2
+Set TAIF_Settings_ShowRoom to 0
+```
+
 * Press CTRL+S to save and close the window.
 
-The commands will now be executed automatically when you start a new game or load your save.
+> The commands will now be executed automatically when you start a new game or load your save.
 
 ##### [Rent Room Dialogue Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/34470?tab=files)
 
@@ -71,6 +77,12 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 > By default, the "curved swords" line will play only until after the Alik'r quest, and the other three lines will no longer play in any hold that the player has become Thane of.
 
+##### [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bandit Lines Expansion
+
 ##### [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files)
 
 #### Download Instructions
@@ -82,12 +94,6 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 #### Download Instructions
 
 * **Main Files:** More Dialogue Options - for Misc Dialogue Edits
-
-##### [Hunters Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/39245?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Hunters Dialogue Edit
 
 ##### [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547?tab=files)
 
@@ -113,6 +119,12 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 - Close SSEEdit. Make sure the plugin is checked and click **OK** to save your changes.
 
 ![TNA BCS Patch Edit](/Pictures/tpf/mod-installation/tna-bcs-patch-edit.png)
+
+##### [Narrative Gameplay Consistent Dialogue Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/64667?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Narrative Gameplay Consistent Dialogue Tweaks
 
 ##### [Windhelm Segregation - Stay at New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/21181?tab=files)
 

@@ -149,11 +149,11 @@ description: >
 
 > This is faster than ESL-ifying the ESP version.
 
-##### [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452?tab=files)
+##### [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Oxygen Meter - SSE
+- **Main Files:** Oxygen Meter 2 SE
 
 ##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
 
@@ -291,10 +291,10 @@ Delete the following file(s) and/or folder(s):
 - **Configs:** CoMAP Config Pack
 - **Obscured Undiscovered Options:** Obscured Undiscovered HUD Markers - Diamond
 - **Author's Cut Options:** Hearthfire Homes are Settlements
-- **Khajiit Caravan Markers:** Hidden Until Discovered
+- **Khajiit Caravan Markers:** None
 - **Other Addons:**
   - Jorrvaskr Map Marker
-  - ~~Wyrmstooth Travel Marker Tweaks~~
+  - Wyrmstooth Travel Marker Tweaks
 
 #### Additional Instructions
 

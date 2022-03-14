@@ -35,24 +35,18 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Scrambled Bugs
-- **Main Files:** Scrambled Eggchantments
 - **Optional Files:** Underfilled Soul Gems - Soul Gem Too Small
 
-#### Configuration Instructions - Scrambled Bugs
+#### Configuration Instructions
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
-- In **Line 11**, set `"magicEffectConditions":` to `false`.
-- In **Line 30**, set `"equipBestAmmo:"` to `true`.
-- In **Line 34**, set `"powerAttackStamina` to `true`.
-- In **Line 37**, set `"underfilledSoulGems":` to `true`.
-- Hit **CTRL+S** to save and close the window.
-
-#### Configuration Instructions - Scrambled Eggchantments
-
-- Double-click **Scrambled Eggchantments** in your mod order.
-- Switch to the **Text Files** tab and select the **ScrambledEggchantments.json** file.
-- In **Line 8**, set `"enchantmentValue":` to `true`.
+- In **Line 24**, set `"blackSoulGems:"` to `true`.
+- In **Line 26**, set `"equipBestAmmo:"` to `true`.
+- In **Line 33**, set `"applyMultipleSpells":` to `true`.
+- In **Line 37**, set `"powerAttackStamina:"` to `true`.
+- In **Line 41**, set `"steepSlopes:"` to `true`.
+- In **Line 43**, set `"underfilledSoulGems":` to `true`.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073?tab=files)
@@ -227,7 +221,9 @@ No Gifting = false
 
 #### Download Instructions
 
-- **Main Files:** I'm Walkin' Here
+Download **I'm Walkin' Here 1.5.0** from the Old Files section.
+
+* **Old Files:** I'm Walkin' Here
 
 ##### [Vampires Cast No Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/46107?tab=files)
 

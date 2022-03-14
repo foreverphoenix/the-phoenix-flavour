@@ -79,22 +79,6 @@ description: >
 #### Download Instructions
 
 - **Optional Files:** Only Wyrmstooth Map
-
-##### CoMAP - Wyrmstooth Travel Marker Tweaks
-
-#### Download Instructions
-
-This file was already downloaded during the main guide. If you deleted the file or cannot find it again for whatever reasons, you can redownload the **CoMAP** main file from the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files).
-
-#### Installation Instructions
-
-- In MO2, create a new mod and name it **CoMAP - Wyrmstooth Travel Marker Tweaks**.
-- Right-click your new mod and select **Open in Explorer**
-- Find **CoMAP** in the MO2 downloads pane.
-- Right-click the archive and select **Open File**.
-- Within the archive, navigate to `CoMAP041_WTTravelTweaks\`.
-- Extract the **MapMarkers** folder and **CoMAP - Wyrmstooth Fast Travel Patch.esp** into the mod folder you just created.
-- In MO2, press F5 to refresh the interface and activate the new mod.
   
 ##### [Stones of Barenziah - Alternate Locations - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/46689?tab=files)
 

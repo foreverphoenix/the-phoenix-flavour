@@ -25,6 +25,11 @@ description: >
 
 - **Perk Overhauls:** Adamant - A Perk Overhaul
 - **Vokrii:** None
+- **Mandragorasprouts' Daedric Shrines:**
+  - Hircine
+  - Mephala
+  - ~~Peryite~~
+  - Sanguine
 - **Miscellaneous:**
   - ~~Artifacts - The Breton Paladin~~
   - ~~Beyond Skyrim - Bruma~~

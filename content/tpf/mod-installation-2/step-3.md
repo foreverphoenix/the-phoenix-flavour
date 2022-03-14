@@ -6,11 +6,11 @@ description: >
   Support for dynamic seasons with overhauled weathers.
 ---
 
-##### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483?tab=files)
+##### [Enhanced Volumetric Lighting and Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/63725?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Dynamic Volumetric Lighting and Sun Shadows
+- **Main Files:** EVLaS
 
 ##### [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125?tab=files)
 
@@ -176,6 +176,12 @@ description: >
 - **Patches:**
   - Happy Little Trees
   - Fixed Mesh Lighting
+
+##### [Four Seasons - Faster Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/64286/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Four Seasons - Faster Seasons of Skyrim
 
 ##### [Shadows of Sunlight - In Small Exterior World Spaces](https://www.nexusmods.com/skyrimspecialedition/mods/41368?tab=files)
 

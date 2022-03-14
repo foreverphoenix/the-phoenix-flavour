@@ -19,24 +19,6 @@ description: >
   - `DustEffectsSSE.bsa`
   - `DustEffectsSSE.esp`
 
-##### [Interior Floating Fog Remover](https://www.nexusmods.com/skyrimspecialedition/mods/4298?tab=files)
-
-#### Download Instructions
-
-- **Main Files** No Floating Fog
-
-##### [Reduced Glow FX](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Reduced Glow FX SE
-
-##### [Dark Elf Lantern ENB Light - Animated Glow](https://www.nexusmods.com/skyrimspecialedition/mods/63176?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Dark Elf Lantern ENB Light
-
 ##### [Medieval Torch](https://www.nexusmods.com/skyrimspecialedition/mods/27050?tab=files)
 
 #### Download Instructions
@@ -73,6 +55,18 @@ description: >
   - ~~Skyrim 3D Blacksmith (Original)~~
   - ~~Skyrim 3D Blacksmith (Without Logs)~~
   - Skyrim 3D Cooking
+
+##### [Dark Elf Lantern ENB Light - Animated Glow](https://www.nexusmods.com/skyrimspecialedition/mods/63176?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dark Elf Lantern ENB Light
+
+##### [Apocrypha ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64463?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Apocrypha ENB Light
 
 ##### [Improved Weapon Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files)
 

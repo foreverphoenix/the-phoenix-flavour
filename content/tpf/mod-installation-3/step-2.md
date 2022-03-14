@@ -210,7 +210,7 @@ description: >
 - **Statue:** Shalidor
 - **Statue:** None
 - **Statue:** None
-- **Statue:** None
+- **Statue:** Talos
 - **Statue:** Vaermina
 - **Statue:** Ysgramor
 - **Optional Wuuthrad Retexture:** None
@@ -220,7 +220,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Remiros' Statue of Azura HD
-- **Main Files:** Remiros' Statue of Boethiah HD
 - **Main Files:** Remiros' Statue of Clavicus Vile HD
 - **Main Files:** Remiros' Statue of Mehrunes Dagon HD
 
@@ -241,6 +240,12 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Statue of Shalidor - Fire Frost Version
+
+##### [Daedric Shrines - Boethiah](https://www.nexusmods.com/skyrimspecialedition/mods/59499?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** boathiah 1.3 - 4k textures
 
 ##### [Rudy HQ - Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/37087?tab=files)
 

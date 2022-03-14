@@ -53,6 +53,17 @@ The process will take a few minutes. Wait until the tool has finished before you
 
 If you check the **SkyrimSE.exe** now, it should be back to version `1.5.97.0`.
 
+## Optimised Textures
+
+The Stock Game folder, while brilliant, requires an extra ~13GB of space since it is a full copy of the base game. Thankfully we can replace the texture BSAs with optimised ones which will reduce the folder's size by about 5GB. Since TPF's texture replacers cover (almost) all textures anyway, having (very slightly) reduced quality versions of the vanilla textures makes no difference whatsoever.
+
+- Open the [Unofficial Performance Optimized Textures](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files) Nexus mod page.
+- Click the **manual download** button for the main file (see picture below).
+- Once the archive has been fully downloaded, open it.
+- Extract the BSAs to `\Mod Organizer 2\Stock Game\Data\` and confirm to overwrite.
+
+![Download UPOT](/Pictures/tpf/initial-setup/download-upot.png)
+
 ## Updating MO2
 
 MO2 currently still uses the game files in the default root folder so we need to change that.

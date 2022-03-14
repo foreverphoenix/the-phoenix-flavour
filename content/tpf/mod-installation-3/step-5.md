@@ -95,25 +95,6 @@ description: >
 
 - **Main Files:** Qwafee's Yuck Rag
 
-##### [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** 2K Horse Saddle
-
-##### [Imperial Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42577?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 2K Imperial Saddle
-
-##### [Shadowmere Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42594?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** 2K Shadowmere Saddle
-- **Optional Files:** ESL flagged plugin >> `merge with the main file`
-
 ##### [Deer Skull and Antlers](https://www.nexusmods.com/skyrimspecialedition/mods/45510?tab=files)
 
 #### Download Instructions

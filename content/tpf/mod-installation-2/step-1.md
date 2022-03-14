@@ -148,6 +148,12 @@ Delete the following file(s) and/or folder(s):
 
 - **Main Files:** Stones of Solitude - Better Blended Rock Piles
 
+##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Windhelm Ground Meshes
+
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 
 #### Download Instructions
@@ -198,7 +204,6 @@ Delete the following file(s) and / or folder(s):
 #### Download Instructions
 
 - **Main Files:** Fixed Mesh Lighting
-- **Optional Files:** Fixed Mesh Lighting - Bee Hives
 
 #### FOMOD Instructions
 
@@ -212,11 +217,12 @@ Delete the following file(s) and / or folder(s):
 - **Patches:**
   - ~~More Growable Plants~~
   - ~~Renthal Flora Collection~~
+  - ~~Shrubs of Snow~~
   - ~~Simply Bigger Plants~~
   - ~~Skyrim 2020 by Pfuscher~~
   - Wiseman's Flora Fixes
 - **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
-- **JK's Skyrim:** ~~JK's Skyrim~~
+- **JK's Skyrim:** JK's Skyrim
 - **Depths of Skyrim:** ~~Depths of Skyrim~~
 - **New Plants:** ~~Unique Flowers and Plants~~
 - **Mountain Flowers:** 3D Mountain Flowers
@@ -231,6 +237,7 @@ Delete the following file(s) and / or folder(s):
 
 - **Main:** None
 - **Patches:**
+  - ~~Ancient Trees of Skyrim~~
   - Assorted Mesh Fixes
   - ~~Beyond Skyrim : Bruma~~
   - Dlizzio's Mesh Fixes
@@ -246,7 +253,6 @@ Delete the following file(s) and / or folder(s):
 
 **Page 4**
 
-- **Main:** Ice
 - **Patches:**
   - Arctic
   - ~~Beyond Skyrim : Bruma~~
@@ -268,11 +274,11 @@ Delete the following file(s) and / or folder(s):
   - ~~Bears of the North~~
   - ~~Bears of the North - COTN Winterhold~~
   - ~~Beyond Skyrim : Bruma~~
-  - ~~Cities of the North - Winterhold~~
+  - Cities of the North - Winterhold
   - ~~Dawn of Skyrim~~
   - ~~Dynamic Things Alterntive~~
   - ~~Expanded Towns and Cities~~
-  - ~~Grahl~~
+  - Grahl
   - HD Goat
   - HD Highlandcow
   - HD Skeever
@@ -282,6 +288,11 @@ Delete the following file(s) and / or folder(s):
   - ~~TESO Imports~~
   - ~~Uderfrykte~~
   - Unique Barbas
+
+**Page 6**
+
+- **Bee Hives:** Vanilla
+- **Hagraven:** Vanilla
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 

@@ -84,8 +84,6 @@ Continue with the sixth tab, **Detail**.
 Continue with the seventh tab, **View Distance**.
 
 - **Grass Fade:** Set to `15000` for to increase the distance at which grass is rendered.
-- **Level 16:** Set to `248705` to prevent distant mountain peaks from looking completely white.
-- **Distance Multiplier:** Set to `1.500` to increase the distance at which landscape LOD is loaded.
 
 ![BethINI View Distance](/Pictures/tpf/initial-setup/bethini-view-distance.png)
 
@@ -98,20 +96,9 @@ Continue with the eighth tab, **Visuals**.
 
 ![BethINI Visuals](/Pictures/tpf/initial-setup/bethini-visuals.png)
 
-### BethINI - Custom
-
-- Under **Section**, select **Display**.
-- Under **Settings**, select **bEnableLandFade**.
-- Change the value from **1** to **0**.
-- Click the **Save** button at the bottom.
-
-> This will make terrain LOD transitions look less awful.
-
-![BethINI Visuals](/Pictures/tpf/initial-setup/bethini-custom.png)
-
 ## Save Changes
 
-Return to the second tab, **Basic**, and click `Save and Exit`.
+Return to the second tab, **Basic**, and click **Save and Exit**.
 
 Restart Mod Organizer 2. You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
 

@@ -6,6 +6,12 @@ description: >
   Retextures for underground areas, ruins, barrows, and related clutter.
 ---
 
+##### [Bleak Falls Barrow - No Ice Meshes In Troll Pit](https://www.nexusmods.com/skyrimspecialedition/mods/64703?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Bleak Falls Barrow - No Ice Meshes in Troll Pit
+
 ##### [Skyrim Remastered - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/38220?tab=files)
 
 #### Download Instructions

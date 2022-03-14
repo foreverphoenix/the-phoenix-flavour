@@ -14,34 +14,17 @@ description: >
 - **Optional Files:** JK's Skyrim No Lights Patch
 - **Miscellaneous Files:** JK's Skyrim - Realistic Water Two Patch
 
+##### [JK's Skyrim - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64346?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JK's Skyrim - USSEP Patch
+
 ##### [Landscape Fixes For Grass Mods - JK's Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
 #### Download Instructions
 
 - **Optional Files:** JK's Skyrim - Towns
-
-##### Fixed Mesh Lighting - JK's Skyrim Patch
-
-#### Download Instructions
-
-This file was already downloaded during the main guide. If you deleted the file or cannot find it again for whatever reasons, you can redownload the **Fixed Mesh Lighting** main file from the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files).
-
-#### Installation Instructions
-
-- Find **Fixed Mesh Lighting** in your MO2 downloads pane and double-click it to re-install.
-
-#### FOMOD Instructions
-
-- **Main:** Modular
-- **Modular:**
-  - Flora
-  - ~~Trees~~
-  - ~~Ice~~
-  - ~~Creatures~~
-
-On the **Flora** page, make sure to UNSELECT all options or set them to NONE, except for the **JK's Skyrim** patch. Then click **Install**.
-
-> Make sure to rename the file to "Fixed Mesh Lighting - JK's Skyrim Patch".
 
 ##### Embers XD - JK's Skyrim Patch
 
@@ -333,22 +316,6 @@ This file was already downloaded during the main guide. If you deleted the file 
 - **Large Trees:** None
 - **Morrowloot:** None
 - **Creation Club:** Nchuanthumz
-
-##### Fixed Mesh Lighting - COTN Winterhold Patch
-
-#### Download Instructions
-
-This file was already downloaded during the main guide. If you deleted the file or cannot find it again for whatever reasons, you can redownload the **Fixed Mesh Lighting** main file from the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files).
-
-#### Installation Instructions
-
-- In MO2, create a new mod and name it **Fixed Mesh Lighting - COTN Winterhold Patch**.
-- Right-click your new mod and select **Open in Explorer**
-- Find **Fixed Mesh Lighting** in the MO2 downloads pane.
-- Right-click the archive and select **Open File**.
-- Within the archive, navigate to `\Fixed Mesh Lighting\FML - Creatures - Mods\FML - Creatures - COTN Winterhold\`.
-- Extract the **meshes** folder into the mod folder you just created.
-- In MO2, press F5 to refresh the interface and activate the new mod.
 
 ##### [COTN Winterhold - Better Railing](https://www.nexusmods.com/skyrimspecialedition/mods/45732?tab=files)
 

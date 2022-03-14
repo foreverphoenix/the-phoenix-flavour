@@ -113,6 +113,12 @@ The optional file (mesh fix) can only be downloaded manually.
 
 - **Main Files:** Natural Hair Colors
 
+##### [Vanilla Hair Remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Vanilla hair remake
+
 ##### [Vanilla Hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147?tab=files)
 
 #### Download Instructions
