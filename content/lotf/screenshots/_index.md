@@ -1,9 +1,9 @@
 ---
 title: "Screenshots"
-weight: 6
+weight: 7
 type: docs
 description: >
-  Screenshots to showcase Legends of the Frost.
+  Screenshots showcasing Legends of the Frost.
 ---
 
 ![LOTF Main Menu](/Pictures/lotf/screenshots/lotf-main-menu.jpg)
