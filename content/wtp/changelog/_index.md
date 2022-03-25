@@ -6,6 +6,16 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.3.1
+
+> TBD
+
+#### Mod Changes
+
+- Updated Workshop Framework to 2.0.21
+- Updated Natural Landscapes to 0.5
+- Updated Tune The Radios to 2.1.3
+
 ## Release 2.3
 
 > 27/02/2022
