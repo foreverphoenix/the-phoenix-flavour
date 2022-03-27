@@ -6,9 +6,25 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.3.1
+
+> 27/03/2022
+
+Some fixes for 2.3.
+
+#### Mod Changes
+
+- Added Oxygen Meter 2
+- Updated Assorted Mesh Fixes to 0.46
+- Updated 3D Solitude Trellis to 2.0
+- Removed Oxygen Meter
+- Fixed INIs for the default profile (had ENB settings)
+- Actually disabled Majestic Mountains - More Accurate Collision in the performance profile
+- Removed the xLODGen 85 archive from my downloads folder (caused installations to fail)
+
 ## Release 2.3
 
-> 25/03/2022
+> 27/03/2022
 
 Finally another big update for LOTF! Here's what's new:
 
