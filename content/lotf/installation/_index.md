@@ -17,7 +17,7 @@ description: >
 
 ### Disk Space
 
-**Legends of the Frost** currently requires **~53GB** of free disk space for the list installation and another **~30GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
+**Legends of the Frost** currently requires **~76GB** of free disk space for the list installation and another **~47GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
 
 The initial installation process will be faster if the downloaded archives are also on an SSD. They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list. If you delete them, you will have to redownload them if you want to update LOTF so it's recommended to keep them.
 
@@ -38,6 +38,8 @@ Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will
 
 - Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
 - Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
+
+> Please (re)install these even if you think you already have them. More than half of all support requests are solved by this.
 
 ![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
 
@@ -110,29 +112,21 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 ### MCM Instructions
 
-LOTF only has a handful of Mod Configuration Menus (MCMs). Presets are automatically applied so you don't need to edit anything manually. I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
+LOTF only has a handful of Mod Configuration Menus (MCMs). **Presets are automatically applied so you don't need to edit anything manually.** I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
 ### Customisation
 
 Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/lotf/customisation) page.
 
+It is *highly recommended* to add **The Truth ENB** to LOTF for much improved visuals. [Instructions here](/lotf/enb-for-lotf/).
+
 Additionally, there are two extra profiles included with the base LOTF one in Mod Organizer 2.
 
 - If you own **Creation Club** content / the AE DLC, you can use the LOTF CC profile. [Instructions here](/lotf/creation-club/).
-- If your system is well below Skyrim's usual system requirements, you may want to try the **Performance** profile.
+- If your system is on the lower mid end, you may want to try the **Performance** profile.
 
 > Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Legends of the Frost\profiles\Legends of the Frost\saves\` to `\Legends of the Frost\profiles\Legends of the Frost - Performance\saves\` manually. Please do not attempt to switch from the CC profile to either the regular or performance profile in an ongoing playthrough.
 
 Check the picture below to see how to switch to a different profile in MO2:
 
 ![Swap MO2 Profile](/Pictures/lotf/customisation/swap-mo2-profile.png)
-
-### ENB Hotkeys
-
-The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter are the same as in TPF and WTP:
-
-- **F8** toggles the FPS counter.
-- **F10** toggles the ENB effect.
-- **F11** opens the ingame GUI.
-
-All other functions (screenshot, FPS cap, toggle DOF) were disabled. I recommend taking screenshots with Steam by pressing F12.

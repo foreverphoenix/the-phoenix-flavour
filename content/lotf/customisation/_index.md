@@ -6,7 +6,24 @@ description: >
   Various supported tweaks for Legends of the Frost.
 ---
 
-## Uncap the framerate
+## Performance INIs
+
+If you want to squeeze some extra frames out of LOTF, but also want to keep the 3D tree LOD from the regular profile or the AE support from the Creation Club profile, you can do so by copying over the INI files from the Performance profile. Among other things, the Performance INIs have lowered settings for distant terrain, renders grass and shadows at a shorter distance, and disables volumetric lighting (godrays). They still have the default shadow resolution (2K) and ambient occlusion enabled.
+
+- Navigate to `\Legends of the Frost\profiles\Legends of the Frost - Performance\`.
+- Copy the **Skyrim.ini** and **SkyrimPrefs.ini** inside.
+
+If you want to play on the regular (non-CC) profile, paste the INIs to:
+
+- `\Legends of the Frost\profiles\Legends of the Frost\`
+
+If you want to play on the Creation Club profile, paste the INIs to:
+
+- `\Legends of the Frost\profiles\Legends of the Frost - Creation Club\`
+
+**Confirm to overwrite existing INIs.**
+
+## Higher or Uncapped FPS
 
 Thanks to [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705), it is absolutely possible to play Skyrim SE at above 60FPS without breaking the game. In my experience, the likelyhood of (minor) physics bugs occuring increases with the framerate which is why I personally prefer capping at 60FPS. You can also try capping at 75FPS or 90FPS if you really want a higher framerate. Due to LOTF's performance-friendly nature, you should be able to achieve such framerates on most PCs.
 
@@ -19,6 +36,34 @@ To change the FPS cap, you need to edit the INI file for SSE Display Tweaks:
 - Press **CTRL + S** to save your changes and close the window.
 
 ![LOTF Uncap Framerate](/Pictures/lotf/customisation/lotf-uncap-framerate.png)
+
+## Widescreen Support
+
+The user interface mods included with LOTF (as well as the vanilla Skyrim UI) are optimised for 16:9 monitors (i.e., resolutions like 1920x1080, 2560x1440, 3840×2160). Anyone playing on ultrawide monitors (2560x1080 or 3440x1440) will need a few extra patches in order to make the user interface scale properly. These are preinstalled in LOTF and need only be activated.
+
+- Enable all four widescreen patches below the **INTERFACE** separator:
+
+![Enable Widescreen Patches](/Pictures/lotf/customisation/enable-widescreen-patches.png)
+
+## Obsidian Weathers
+
+By default, LOTF is running [Wander - A Weather Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24439); however, you can swap this out with the pre-installed [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). For best results, also install **The Truth ENB** (see [ENB for LOTF](/lotf/enb-for-lotf/) page).
+
+> **Important:** If you are swapping mid-playthrough, you need to first force a default (vanilla) weather through the console (type `fw 81a` and press Enter), then go into an interior cell. Save the game, close it. Disable Wander, Wander Less Intense Fogs, and AOS Wander Patch. Load your save and save again. Quit. Enable Obsidian Weathers and related mods. Load your save and resume your playthrough.
+
+- Double-click the **WEATHER & LIGHTING** separator to expand it.
+- Disable the Wander related mods and enable the Obsidian Weathers related mods:
+
+![Obsidian Weathers 1](/Pictures/lotf/customisation/obsidian-weathers-1.png)
+
+- Double-click the **SOUNDS & MUSIC** separator to expand it.
+- Disable the AOS Wander Patch and enable the AOS Obsidian Patch:
+
+![Obsidian Weathers 2](/Pictures/lotf/customisation/obsidian-weathers-2.png)
+
+- In the load order, position the new plugins as shown below:
+
+![Obsidian Weathers 3](/Pictures/lotf/customisation/obsidian-weathers-3.png)
 
 ## Interface Adjustments
 
@@ -78,73 +123,3 @@ If you find combat to be too easy, it is advisable to disable the Blade & Blunt 
 Finding all 24 Stones of Barenziah during the [No Stone Unturned](https://en.uesp.net/wiki/Skyrim:No_Stone_Unturned) quest can be a bit of a slog. If you would prefer quest markers to show you exactly where the stones are located, turn on this option in the **SSoB** MCM:
 
 ![SSoB MCM](/Pictures/lotf/lotf-ssob-mcm.jpg)
-
-## Visual Adjustments
-
-### Swap to Obsidian Weathers
-
-By default, LOTF is running [Wander - A Weather Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24439) with an older, tweaked version of [Yuevie's Minimal ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37098). However, you can swap this out with the pre-installed [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). If you are swapping to Obsidian Weathers it is also recommended to install The Truth ENB preset (see following section).
-
-> **Important:** If you are swapping mid-playthrough, you need to first force default weather through the console (type `fw 81a` and press Enter), then go into an interior cell. Save the game, close it. Disable Wander, Wander Less Intense Fogs, and AOS Wander Patch. Load your save and save again. Quit. Enable Obsidian Weathers and related mods. Load your save and resume your playthrough.
-
-- Double-click the **WEATHER & LIGHTING** separator to expand it.
-- Disable the Wander related mods and enable the Obsidian Weathers related mods:
-
-![Obsidian Weathers 1](/Pictures/lotf/customisation/obsidian-weathers-1.png)
-
-- Double-click the **SOUNDS & MUSIC** separator to expand it.
-- Disable the AOS Wander Patch and enable the AOS OBsidian Patch:
-
-![Obsidian Weathers 2](/Pictures/lotf/customisation/obsidian-weathers-2.png)
-
-- In the load order, position the new plugins as shown below:
-
-![Obsidian Weathers 3](/Pictures/lotf/customisation/obsidian-weathers-3.png)
-
-### Swap to The Truth ENB
-
-The Truth ENB is a fantastic preset that I initially wanted to install for LOTF. Unfortunately, the author believes the Nexus' TOS to be infringing upon mod authors' rights and decided to move the preset to the AFKMods website which does not have the server capacity to support Wabbajack. Thus, the preset needs to be downloaded manually by any user wishing to install it.
-
-I personally believe that the extra steps required for the Truth ENB are more than worth it as the preset looks amazing, especially with Obsidian Weathers (though it should look good with Wander as well).
-
-- Create an account on the [AFKMods](https://www.afkmods.com/) website.
-- Download the [Truth ENB](https://www.afkmods.com/index.php?/files/file/2241-the-truth-enb/) preset from the linked page.
-
-![Truth ENB 1](/Pictures/lotf/customisation/truth-enb-1.png)
-
-- Navigate to your root folder: `\Legends of the Frost\Stock Game\`.
-- Delete the **enbcache** and **enbseries** folders as well as the **enbseries.ini**.
-
-This will fully remove the previously installed ENB preset without removing ENB (d3d11.dll, d3dcompiler_46e.dll) or my customised ENB settings (enblocal.ini). If you decide to switch back at any point, you can find a backup of all LOTF preset and ENB files under `\Legends of the Frost\mods\LOTF Wander ENB (Backup)\`.
-
-- Open the downloaded The Truth ENB archive.
-- Extract the **enbseries** folder and **enbseries.ini** file into your Stock Game folder.
-
-![Truth ENB 2](/Pictures/lotf/customisation/truth-enb-2.png)
-
-I personally set `EnableRainWetSurfaces` to false in the preset (I do not like the effect at all). This can be done ingame through the UI or in the enbseries.ini in the Stock Game folder.
-
-Additionally, it is recommended to disable Skyrim's volumetric light (godrays) as the Truth preset has ENB godrays enabled by default. Refer to the picture below for instructions.
-
-> Note that updating LOTF will reset the INI files to default.
-
-![Truth ENB 3](/Pictures/lotf/customisation/truth-enb-3.png)
-
-## Performance Adjustments
-
-### Completely Remove ENB
-
-For those who really struggle with performance, disabling ENB altogether may provide a welcome performance boost although I would recommend trying the performance profile first. You can temporarily toggle off ENB ingame by pressing F12 to see the difference in visuals and performance (enable the FPS counter with F8 to check your framerate).
-
-If you really want to disable ENB, all you need to do is delete the **d3d11.dll** from `\Legends of the Frost\Stock Game\`.
-
-In addition, please also disable one mod depending on ENB complex particle lights:
-
-- In Mod Organizer 2, double-click the **WEATHER & LIGHTING** separator to expand it.
-- Disable the **Radiant - Candles** mod which would make candles look weird without ENB.
-
-You can also re-enable ambient occlusion to replace ENB ambient occlusion. The effect comes with a performance impact as well as a noticable visual improvement:
-
-> Note that updating LOTF will reset the INI files to default.
-
-![Enable SSE AO](/Pictures/lotf/customisation/enable-sse-ao.png)

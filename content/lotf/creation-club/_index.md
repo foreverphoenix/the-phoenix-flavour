@@ -1,6 +1,6 @@
 ---
 title: "Creation Club"
-weight: 4
+weight: 5
 type: docs
 description: >
   Instructions for using the Creation Club profile in LOTF.
@@ -41,6 +41,16 @@ Please only install Creations that are currently supported by LOTF. This include
 | Expanded Crossbows Pack | `ccffbsse002-crossbowpack.bsa` + `ccffbsse002-crossbowpack.esl` |
 | Elite Crossbows | `ccbgssse043-crosselv.bsa` + `ccbgssse043-crosselv.esl` |
 | Nix-Hound | `ccbgssse035-petnhound.bsa` + `ccbgssse035-petnhound.esl` |
+| Dwarven Armored Mudcrab | `ccbgssse010-petdwarvenarmoredmudcrab.bsa` + `ccbgssse010-petdwarvenarmoredmudcrab.esl` |
+| Myrwatch | `cceejsse002-tower.bsa` + `cceejsse002-tower.esl` |
+| Tundra Homestead | `cceejsse001-hstead.bsa` + `cceejsse001-hstead.esm` |
+| Hendraheim | `cceejsse004-hall.bsa` + `cceejsse004-hall.esl` |
+| Shadowfoot Sanctum | `cceejsse003-hollow.bsa` + `cceejsse003-hollow.esl` |
+| Bloodchill Manor | `cceejsse005-cave.bsa` + `cceejsse005-cave.esm` |
+| Gallow's Hall | `ccrmssse001-necrohouse.bsa` + `ccrmssse001-necrohouse.esl` |
+| Nchuanthumz: Dwarven Home | `ccafdsse001-dwesanctuary.bsa` + `ccafdsse001-dwesanctuary.esm` |
+| Dead Man's Dread | `ccbgssse031-advcyrus.bsa` + `ccbgssse031-advcyrus.esm` |
+| Goldbrand | `ccbgssse005-goldbrand.bsa` + `ccbgssse005-goldbrand.esl` |
 
 ## Installation
 
@@ -51,7 +61,7 @@ Check the list above and make sure you have all the currently supported Creation
 ![CC Mod Folder](/Pictures/lotf/customisation/cc-mod-folder.png)
 
 - Open Mod Organizer 2 and press F5 to refresh the interface.
-- Swap to the **LOTF - Creation Club** profile.
+- Swap to the **Legends of the Frost - Creation Club** profile.
 
 ![Swap MO2 Profile](/Pictures/lotf/customisation/swap-mo2-profile.png)
 
