@@ -198,6 +198,12 @@ description: >
 
 * **Main Files:** RUSTIC FROSTBITE SPIDER SSE - 2K
 
+##### [Spiders of Solstheim - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64818?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Spiders of Solstheim - ENB Light - Scrambled Bugs version
+
 ##### [zzjay's Horse Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/63640?tab=files)
 
 #### Download Instructions
@@ -341,12 +347,6 @@ description: >
 #### FOMOD Instructions
 
 * **Custom:** Full version - skin with a mesh fabric veil (RECOMMENDED)
-
-##### [Particle Lights for ENB - Wisps](https://www.nexusmods.com/skyrimspecialedition/mods/50868?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Particle Lights for ENB - Wisps - Witchlight
 
 ##### [Particle Lights for ENB - Undead Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/48424?tab=files)
 

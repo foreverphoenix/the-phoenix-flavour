@@ -179,7 +179,7 @@ description: >
   - ~~Dungeons~~
   - ~~Funiture~~
   - ~~Plants~~
-  - ~~Riften 3D Leaves~~
+  - Riften 3D Leaves
 - **Page 4:**
   - Sacks
   - Satchel
@@ -210,6 +210,12 @@ description: >
   - `\meshes\clutter\common\`
   - `\meshes\clutter\shrines\`
   - `\meshes\furniture\`
+
+##### [High Poly Project - My Fixes - Riften 3D Leaves](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HPP - My Fixes - Riften 3D Leaves fixes and tweaks SE-AE
 
 ##### [HD Falmer and Chaurus](https://www.nexusmods.com/skyrimspecialedition/mods/32301?tab=files)
 

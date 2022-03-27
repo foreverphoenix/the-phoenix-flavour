@@ -40,6 +40,7 @@ description: >
 
 - **Flames Customisation:** Embers XD Flames (Yellow/Orange)
 - **Effect Quality:** High Quality
+- **Plugin Selection:** Lux Orbis
 - **Fire Magick Add-On:** Install Fire Magick Add-On
 - **Forges Add-on:** Install Forges Add-On
 - **Torches Add-On:** Install Torches Add-On
@@ -48,12 +49,11 @@ description: >
   - ~~Disabled Helgen Glow~~
   - ~~Disabled Red Glow~~
   - ~~Less Flying Embers~~
+  - ~~No Torch Particle Light~~
   - ~~Reduced Embers and Logs Glow~~
   - ~~Reduced Yellow Glow~~
-- **Compatibility Patches:** 
+- **Compatibility Patches:**
   - Mathy's Medieval Torch
-  - ~~Skyrim 3D Blacksmith (Original)~~
-  - ~~Skyrim 3D Blacksmith (Without Logs)~~
   - Skyrim 3D Cooking
 
 ##### [Dark Elf Lantern ENB Light - Animated Glow](https://www.nexusmods.com/skyrimspecialedition/mods/63176?tab=files)
@@ -167,17 +167,51 @@ description: >
 
 - **Main Files:** Thunderbolt - HD Lightning
 
+##### [Player Spell (and Weapon) Lighting for Vanilla and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/56830?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Player Spell Lighting
+
 ##### [ENB Lights for Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** ENB Lights for Effect Shaders SE
 
-##### [Player Spell (and Weapon) Lighting for Vanilla and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/56830?tab=files)
+#### Additional Instructions
+
+- Right-click **ENB Lights for Effect Shaders** in your mod order and select **Open in Explorer**.
+- Inside the mod folder, navigate to `\SKSE\Plugins\`.
+- Right-click anywhere and go to **New** > **Text Document**.
+- Rename the new txt to **po3_ENBLightsForEffectShaders.ini** (make sure to change the file extension properly).
+- Open your new INI file in Notepad or Notepad++ and paste the following into it:
+
+```
+[Settings]
+
+;Display enb lights on effect shaders on these characters.
+;0 - Player Only, 1 - Player And Followers, 2 - Everyone
+Valid Actors = 2
+
+;Number of ENB light models to be spawned per effect shader.
+ENB Light Limit = 2
+```
+
+- Save and close your new INI file.
+
+##### [Sprites or Spectres](https://www.nexusmods.com/skyrimspecialedition/mods/64948?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Player Spell Lighting
+- **Main Files:** Sprites or Specters - ENB Light - Scrambled Bugs Version
+
+##### [Misc Effects ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Misc Effects ENB Light
+- **Optional Files:** Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons
 
 ---
 

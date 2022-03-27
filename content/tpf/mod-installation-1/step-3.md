@@ -41,12 +41,13 @@ description: >
 
 - Double-click **Scrambled Bugs** in your mod order.
 - Switch to the **Text Files** tab and select the **ScrambledBugs.json** file.
-- In **Line 24**, set `"blackSoulGems:"` to `true`.
-- In **Line 26**, set `"equipBestAmmo:"` to `true`.
-- In **Line 33**, set `"applyMultipleSpells":` to `true`.
-- In **Line 37**, set `"powerAttackStamina:"` to `true`.
-- In **Line 41**, set `"steepSlopes:"` to `true`.
-- In **Line 43**, set `"underfilledSoulGems":` to `true`.
+- In **Line 24**, set `"attachHitEffectArt":` to `true`.
+- In **Line 25**, set `"blackSoulGems:"` to `true`.
+- In **Line 27**, set `"equipBestAmmo:"` to `true`.
+- In **Line 34**, set `"applyMultipleSpells":` to `true`.
+- In **Line 33**, set `"powerAttackStamina:"` to `true`.
+- In **Line 42**, set `"steepSlopes:"` to `true`.
+- In **Line 44**, set `"underfilledSoulGems":` to `true`.
 - Hit **CTRL+S** to save and close the window.
 
 ##### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073?tab=files)

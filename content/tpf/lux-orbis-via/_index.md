@@ -20,8 +20,8 @@ description: >
 - **Lux optional effects:**
   - Beams - PARTICLE without effect lighting
   - ~~Beams - Effect lighting without PARTICLE~~
-  - ~~Mists and fogs - PARTICLE without effect lighting~~
-  - Mists and fogs - Effect lighting without PARTICLE
+  - Mists and fogs - PARTICLE without effect lighting
+  - ~~Mists and fogs - Effect lighting without PARTICLE~~
   - Webs
 - **Lux optimized SMIM meshes:** SMIM meshes
 - **Lux optimized rugs:** RUGNAROK rugs

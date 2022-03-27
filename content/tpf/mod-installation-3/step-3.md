@@ -93,6 +93,19 @@ Delete everything except for the files shown in the screenshot below:
 
 * **Main Files:** RUGNAROK - Special Edition - 2K
 
+##### [Water in Wash Basins - Mesh-only Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/59333?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Water in Wash Basins
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `\textures\`
+
+> The textures are already included with Water in Wells.
+
 ##### [Thrones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/41198?tab=files)
 
 #### Download Instructions

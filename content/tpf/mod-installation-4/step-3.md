@@ -126,6 +126,12 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - **Main Files:** Narrative Gameplay Consistent Dialogue Tweaks
 
+##### [Thieves Guild Master Recognition](https://www.nexusmods.com/skyrimspecialedition/mods/65388?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Thieves Guild Master Recognition
+
 ##### [Windhelm Segregation - Stay at New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/21181?tab=files)
 
 #### Download Instructions

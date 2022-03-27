@@ -6,27 +6,6 @@ description: >
   Mods overhauling player and NPC skin, eyes, warpaints, and more.
 ---
 
-##### [Vanilla Body with UNP Textures](https://www.nexusmods.com/skyrimspecialedition/mods/20517?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Vanilla Body with UNP Textures
-
-##### [Lucid Skin](https://www.nexusmods.com/skyrimspecialedition/mods/53030?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Lucid Skin
-
-#### FOMOD Instructions
-
-- **Body UV:** UNP
-- **Head Diffuse Map:** 2K
-- **Head Diffuse Maps:** Vanilla-style
-- **Head Normal Maps:** Vanilla-style
-- **Body Diffuse Maps:** Clean
-- **Female Afflicted Hands Plugin:** Install
-
 ##### [Vitruvia - Skin Texture Overhaul for Males](https://www.nexusmods.com/skyrimspecialedition/mods/9112?tab=files)
 
 #### Download Instructions
@@ -56,6 +35,28 @@ The optional file (mesh fix) can only be downloaded manually.
 #### Download Instructions
 
 - **Optional Files:** 03 - High Poly Hands Only
+
+##### [Vanilla Body with UNP Textures](https://www.nexusmods.com/skyrimspecialedition/mods/20517?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Vanilla Body with UNP Textures
+
+##### [Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/64314?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Reverie
+
+#### FOMOD Instructions
+
+- **Face:** Vanilla
+- **Body:** UNP
+- **Face Diffuse:** Hardened
+- **Face Normal:** Mature
+- **Body Diffuse:** Clean
+- **Body Normal:** Smooth
+- **Customisation:** Shaved >> `this won't matter as TPF does not have full nudity`
 
 ##### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183?tab=files)
 
@@ -232,12 +233,13 @@ The optional file (mesh fix) can only be downloaded manually.
 
 #### Download Instructions
 
-**Note:** You must install and merge the files in the exact order that they are listed in.
-
-- **Main Files:** High Res Female Face Makeup for SKSE
 - **Main Files:** High Res Male Face Makeup for SKSE >> `merge with the main file`
-- **Update Files:** High Res Female Face Makeup for SKSE -Softer Varient- >> `merge with the main file`
-- **Update Files:** High Res Female Face Makeup for SKSE -Softer Makeup Tweak Edition by HHaley- >> `merge with the main file`
+
+#### Additional Instructions
+
+- Optimise the mod with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
+
+> This will compress the textures and convert them to BC7, reducing the overall file size by more than half.
 
 ##### [Painterly - A High Res Vanilla Warpaint Retexture](https://www.nexusmods.com/skyrim/mods/67147?tab=files)
 

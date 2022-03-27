@@ -106,6 +106,12 @@ description: >
 
 - ESL-ify **ISC Enhanced Blood Patch.esp** and **ISC Mysticism Patch.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
+##### [Improved Weapon Impact Effects Correct Metal - Immersive Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38686?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Improved Weapon Impact EFFECTS Correct Metal SE - Immersive Sounds Patch
+
 ##### [Immersive Sounds Compendium - Frankly HD Armor and Weapons Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
 
 #### Download Instructions

@@ -77,6 +77,13 @@ We already downloaded Flickering Meshes Fix.
 - Confirm to merge the folders and click **OK** to overwrite.
 - Press F5 to refresh Mod Organizer 2 and activate the new mod.
 
+##### [Majestic Mountains - More Accurate Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65042?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Majestic Mountains - More Accurate Collision
+- **Optional Files:** Majestic Mountains - More Accurate Collision - AME Patch >> `merge with the main file`
+
 ##### [Whiterun Skyforge - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/43862?tab=files)
 
 #### Download Instructions

@@ -26,22 +26,6 @@ description: >
 
 - **Optional Files:** JK's Skyrim - Towns
 
-##### Embers XD - JK's Skyrim Patch
-
-#### Download Instructions
-
-This file was already downloaded during the main guide. If you deleted the file or cannot find it again for whatever reasons, you can redownload the **Embers XD Lite** main file from the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files).
-
-#### Installation Instructions
-
-- In MO2, create a new mod and name it **Embers XD - JK's Skyrim Patch**.
-- Right-click your new mod and select **Open in Explorer**
-- Find **Embers XD Lite** in the MO2 downloads pane.
-- Right-click the archive and select **Open File**.
-- Within the archive, navigate to `\patches\JKs_Skyrim\`.
-- Extract **Embers XD - Patch - JKs Skyrim.esp** into the mod folder you just created.
-- In MO2, press F5 to refresh the interface and activate the new mod.
-
 ##### CFTO - Fixes and Winterhold - JK's Skyrim Patch
 
 #### Download Instructions
@@ -363,45 +347,16 @@ This file was already downloaded during the main guide. If you deleted the file 
 **Page 2**
 
 - **Miscellaneous Patches:**
-  - ~~3DNPC~~
   - AI Overhaul
-  - ~~Amulets of Skyrim~~
-  - ~~Atlas Map Markers~~
-  - ~~BGCollectables~~
   - Bring Meeko to Lod
-  - ~~Complete Alchemy and Cooking Overhaul~~
   - Cheesemod
-  - ~~Cloaks~~
-  - ~~Drinking Fountains~~
   - Embers XD
   - Enhanced Landscapes
-  - ~~Enhanced Lights and FX~~
-  - ~~Guard Armor Replacer~~
-  - ~~Farmhouse Chimneys~~
-  - ~~Identity Crisis~~
-  - ~~Immersive Citizens AI Overhaul~~
-  - ~~Immersive Laundry~~
   - Immersive Patrols II
-  - ~~Immersive Wenches~~
-  - ~~Keep It Clean~~
   - Lucien
-  - ~~Map Markers Complete~~
-  - ~~Missives~~
-  - ~~More to Say~~
-  - ~~Mystic Condenser~~
-  - ~~Open Civil War~~
-  - ~~Outlaws Refuges~~
-  - ~~Radiance Locations~~
-  - ~~Snazzy Furniture and Clutter Overhaul~~
   - Skyrim 3D Signs
-  - ~~Skyrims Unique Treasures~~
-  - ~~Solitude and Temple Frescoes~~
-  - ~~Skyrim Project Optimisation~~
-  - ~~Thieves Guild Requirements~~
-  - ~~Thieves Night on the Town~~
+  - Thieves Guild Requirements
   - Thrones of Skyrim
-  - ~~Trees Addon SE~~
-  - ~~Wizkid Parallax Farmhouses - JK~~
 - **Creation Club:**
   - Bittercup
   - Elven Hunter
@@ -414,6 +369,14 @@ This file was already downloaded during the main guide. If you deleted the file 
   - JKs Skyrim Doors Patch
   - Janquel's Addon
   - Landscape and Grass Fixes
+
+#### Additional Instructions
+
+- Open **COTN Falkreath - Embers XD Patch.esp** in SSEEdit.
+- Double-click the plugin the left pane to expand it and delete the **Worldspace** category.
+- Close SSEEdit and save your changes.
+
+> We are using the Lux Orbis version of the Embers XD plugin which no longer edits exteriors.
 
 ##### [COTN Falkreath - RW2 5.0 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58784?tab=files)
 

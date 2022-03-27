@@ -6,12 +6,6 @@ description: >
   Smaller, mostly plugin-based mods to fix bugs and tweak minor annoyances.
 ---
 
-##### [LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** LOD Unloading Bug Fix
-
 ##### [Landscape Fixes for Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
 #### Download Instructions

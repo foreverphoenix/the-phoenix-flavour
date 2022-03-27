@@ -80,6 +80,16 @@ description: >
 
 - **Main Files:** Skyrim 3D Misc - Windhelm Doors
 
+##### [Windhelm Fence 3D](https://www.nexusmods.com/skyrimspecialedition/mods/65346?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Windhelm Fence 3D - Fomod Installer
+
+#### FOMOD Instructions
+
+- **Options:** Custom Textures 1K
+
 ##### [Skyland - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/24252?tab=files)
 
 #### Download Instructions
@@ -129,6 +139,24 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Skyrim 3D Misc - Winterhold Gate
+
+##### [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyland - Markarth
+
+##### [Ancient Dwemer Metal - Skyland Markarth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - Skyland Markarth
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+
+![Ancient Skyland Delete](/Pictures/tpf/mod-installation/ancient-skyland-delete.png)
 
 ##### [Raven Rock Building Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53962?tab=files)
 
@@ -215,17 +243,17 @@ The mod's plugin is not forwarding a fix added by the USSEP:
 
 - **Main Files:** High Hrothgar Fixed
 
-##### [Skyrim Textures Redone - Skyhaven](https://www.nexusmods.com/skyrimspecialedition/mods/10375?tab=files)
+##### [Skyland - Skyhaven Temple](https://www.nexusmods.com/skyrimspecialedition/mods/65228?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** STR - SkyHaven 2K
+- **Main Files:** Skyland Skyhaven Temple
 
-##### [Sovngarde HD](https://www.nexusmods.com/skyrimspecialedition/mods/15891?tab=files)
+##### [Skyland - Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/65502?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Sovngarde HD 2K
+- **Main Files:** Skyland Sovngarde
 
 ##### [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221?tab=files)
 

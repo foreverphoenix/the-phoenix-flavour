@@ -173,9 +173,11 @@ description: >
 - **Optionals:**
   - Icy Waterways
   - ~~Invisible Mountain Slope Fix~~
-- **Patches:**
+- **Tree Patches:**
+  - ~~Aspen Realism~~
   - Happy Little Trees
-  - Fixed Mesh Lighting
+- **Other Patches:**
+  - ~~Fixed Mesh Lighting~~
 
 ##### [Four Seasons - Faster Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/64286/?tab=files)
 

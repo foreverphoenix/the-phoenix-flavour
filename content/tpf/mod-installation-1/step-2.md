@@ -56,7 +56,7 @@ PhysicsDamageMult=0
 [Miscellaneous]
 LoadScreenFilter=true
 LoadScreenAllow=
-LoadScreenBlock=DynDOLOD.esm
+LoadScreenBlock=DynDOLOD.esp
 ```
 
 *This will force Borderless Fullscreen regardless of your INI settings so that (on Windows 10 systems) the DXGI flip model feature works, improving performance. The framerate will be capped at 60FPS which is still ideal for Skyrim although increasing or removing the cap will no longer break the game. Additionally, the random physics damage from colliding with objects will be disabled. The meme loadscreens from DynDOLOD will also no longer appear.*
