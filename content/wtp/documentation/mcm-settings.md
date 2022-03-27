@@ -6,6 +6,8 @@ description: >
   Settings applied by the WTP MCM preset.
 ---
 
+**The MCM settings below are applied by the WTP MCM preset.** They are documented here purely for my benefit and for curious users. You do not have to apply them yourself.
+
 ## Baka Wait Anywhere
 
 - While Being Irradiated: **ON**
