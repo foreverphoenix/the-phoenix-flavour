@@ -10,7 +10,7 @@ description: >
 
 > 28/03/2022
 
-This is a quick maintenance update for WTP because I'm a dummy and deleted the enbseries zip from the CDN. I did take the opportunity to add a new, high-res map retexture which required me to adjust the MCM settings for FallUI Map a bit. While I was at it, I changed the Wait hotkey to CTRL + T so it doesn't accidentally trigger while renaming a weapon.
+This is a quick maintenance update for WTP because I'm a dummy and deleted the enbseries zip from the CDN. I did take the opportunity to add a new, high-res map retexture which required me to adjust the MCM settings for FallUI Map a bit. While I was at it, I changed the Wait hotkey to CTRL + T so it doesn't accidentally trigger while renaming a weapon. Finally, I also regenerated INIs with the new version of BethINI, hope I didn't forget about any custom tweaks. I may add performance INIs in the future if people find this set to be too demanding.
 
 #### Mod Changes
 
@@ -24,6 +24,7 @@ This is a quick maintenance update for WTP because I'm a dummy and deleted the e
 - Updated Previsibines Repair Pack to 1.57.4.1
 - Updated BethINI to 3.6
 - Fixed enbseries link which took down 2.3 (very sorry about that)
+- Regenerated INI files
 
 #### Website
 
