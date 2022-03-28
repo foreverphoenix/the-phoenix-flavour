@@ -11,7 +11,9 @@ description: >
 ## Baka Wait Anywhere
 
 - While Being Irradiated: **ON**
-- Wait Hotkey: **T**
+- Wait Hotkey: **CTRL + T**
+
+> I did not use just T as the hotkey as that would bring up the Wait menu while renaming weapons, etc, at workbenches.
 
 ![Baka Wait Anywhere MCM](/Pictures/wtp/documentation/baka-wait-anywhere-mcm.jpg)
 
@@ -43,6 +45,15 @@ description: >
 - Hide "Hold [V] to open the Workshop menu": **ON**
 
 ![FallUI HUD MCM](/Pictures/wtp/documentation/fallui-hud-mcm.jpg)
+
+## FallUI Map
+
+- Max zoom out **0.3**
+- Map marker scale **125**
+
+> These are the recommended settings for 4K map textures which WTP has.
+
+![FallUI Map MCM](/Pictures/wtp/documentation/fallui-map-mcm.jpg)
 
 ## FallUI Workbench
 

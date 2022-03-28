@@ -8,13 +8,27 @@ description: >
 
 ## Release 2.3.1
 
-> TBD
+> 28/03/2022
+
+This is a quick maintenance update for WTP because I'm a dummy and deleted the enbseries zip from the CDN. I did take the opportunity to add a new, high-res map retexture which required me to adjust the MCM settings for FallUI Map a bit. While I was at it, I changed the Wait hotkey to CTRL + T so it doesn't accidentally trigger while renaming a weapon.
 
 #### Mod Changes
 
+- Added Glass Roofs Stop Rain and Snow - Vanilla Green House Roof
+- Added Collection Improved Maps
+- Added NPC Accuracy Revised
+- Updated WTP - MCM Settings Preset
 - Updated Workshop Framework to 2.0.21
 - Updated Natural Landscapes to 0.5
 - Updated Tune The Radios to 2.1.3
+- Updated Previsibines Repair Pack to 1.57.4.1
+- Updated BethINI to 3.6
+- Fixed enbseries link which took down 2.3 (very sorry about that)
+
+#### Website
+
+- **GFF & INI Settings:** Now documenting my INI tweaks on this page.
+- **MCM Settings:** Updated Baka Wait Anywhere settings and added FallUI Map settings.
 
 ## Release 2.3
 
