@@ -212,31 +212,11 @@ Then we should remove all textures and meshes that we don't need:
 
 - Downsize the textures with Cathedral Assets Optimizer ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
-##### [Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/40777?tab=files)
+##### [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Ingredients
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\clutter\ingredients\stew.nif`
-
-##### [Particle Lights for ENB - Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/44022?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Particle Lights For ENB SE - Ingredients
-
-#### FOMOD Instructions
-
-- **Installation options:** Custom install
-- **Fire salts:** High Poly Project
-- **Frost salts:** High Poly Project
-- **Glow Dust:** Pfuscher's Ingredients
-- **Daedra Heart:** High Poly Project
-- **Spriggan sap:** Pfuscher's Ingredients
+- **Main Files:** Alchemy Ingredients ENB Light
 
 ##### [Dragonborn Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/57493?tab=files)
 

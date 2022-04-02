@@ -207,6 +207,18 @@ With MBO installed, there is an issue with female characters wielding greatsword
 
 - **Optional Files:** Werewolf Claws Affect Spider Webs - XPMSSE
 
+##### [Witcher Style Meditate Waiting](https://www.nexusmods.com/skyrimspecialedition/mods/30932/?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Witcher Meditate Wait SE
+
+##### [Witcher Style MEditate Waiting - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/65612?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Witcher Style Meditate Waiting SE - Settings Loader
+
 ---
 
 #### Continue with the [Sound FX](/tpf/mod-installation-4/step-8/) page.

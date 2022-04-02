@@ -113,3 +113,17 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Wyrm Tamer
+
+##### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SkyrimsParaglider
+
+#### FOMOD Instructions
+
+- **Contrails:** OFf
+- **Optional:**
+  - ~~CGO Compatibility~~
+  - MBO Compatibility
+- **CloudBird's Retextures:** *choose whatever you like*

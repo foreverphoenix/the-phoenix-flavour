@@ -47,6 +47,12 @@ description: >
 
 - **Main Files:** Simple Horse Tweaks
 
+##### [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** HorsesSimplyTurnBetter
+
 ##### [Irondusk's Saddlebags](https://www.nexusmods.com/skyrim/mods/91395?tab=files)
 
 #### Download Instructions

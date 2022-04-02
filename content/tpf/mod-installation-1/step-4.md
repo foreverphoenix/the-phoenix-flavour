@@ -91,6 +91,12 @@ Delete the following file(s) and / or folder(s):
 
 - **Main Files:** High Gate Ruins Puzzle Reset Fix
 
+##### [Hearthfire Display Case Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3622?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** main
+
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 
 #### Download Instructions

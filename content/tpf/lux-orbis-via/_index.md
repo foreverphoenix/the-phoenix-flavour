@@ -188,10 +188,18 @@ description: >
 
 #### FOMOD Instructions
 
+**Page 1**
+
 - **Markarth's Silver Blood Inn:** *select nothing*
 - **Markarth's Understone Keep:** *select nothing*
 - **Riften's Temple of Mara:** *select nothing*
+
+**Page 2**
+
 - **Whiterun's Dragonreach:** None
+
+**Page 3**
+
 - **Vanilla lightweight plugin:** ~~Main vanilla lightweight patch~~
 - **Modded lightweight patches:**
   - ~~JK's lightweight patches~~

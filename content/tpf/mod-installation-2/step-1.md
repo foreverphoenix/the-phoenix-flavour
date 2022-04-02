@@ -6,26 +6,22 @@ description: >
   Mesh edits preventing overbright objects and more.
 ---
 
-##### [Skyrim Particle Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
+##### [Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720?tab=files)
 
 #### Download Instructions
 
-- Find the **SPECIAL EDITION** section in the forum post linked above.
-- Click the **LATEST VERSION (GOOGLE DRIVE)** link (see picture).
-- Download the archive from Google Drive and move it manually to `\Your Modding Folder\ARCHIVE\MO2 Downloads\`.
-- Go to the **Downloads** tab in MO2 and double-click the mod to install it as usual (may have to refresh/restart MO2).
-- I recommend renaming it simply to **Skyrim Particle Patch** after the installation.
-
-![Skyrim Particle Patch download link](/Pictures/tpf/mod-installation/skyrim-particle-patch-download.png)
+- **Main Files:** Particle Patch for ENB
 
 #### Additional Instructions
 
-Delete the following file(s) and/or folder(s):
-
-- `\meshes\interface\`
-- `\meshes\plants\hangingelvesear01.nif`
-- `\textures\effects\gradients\gradwhitewater.dds`
-- `Particle Patch for ENB SSE.esp`
+- Unpack **Particle Patch for ENB.bsa** through Mod Organizer 2 ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
+- Delete the following file(s) and/or folder(s):
+  - `\BashTags\`
+  - `\meshes\interface\`
+  - `\meshes\plants\hangingelvesear01.nif`
+  - `\textures\effects\gradients\gradwhitewater.dds`
+  - `Particle Patch for ENB.bsa`
+  - `Particle Patch for ENB.esp`
 
 > The plugin is not needed, its functionality was replaced by ENB Helper. The mesh in the interface folder will be replaced later on. The hanging elves ear mesh is bugged, all adjacent hanging elves ear plants will switch to harvested state after harvesting one. The texture can cause water spray to look much darker than intended with Realistic Water Two.
 
@@ -67,12 +63,14 @@ Delete the following file(s) and/or folder(s):
 
 #### FOMOD Instructions
 
-- **Textures:** ~~Apples~~
-- **Patches:** ~~Dynamic Things Alternative~~
-- **Real Rabbits HD:** Yes
-- **Wiseman's Flora Fixes:** Yes
-- **Shell:** Shell
-- **Hanging Animals:** Vanilla-Like
+- **Meshes:** ~~Hawk~~
+- **Textures:** Apples
+- **Patches:**
+  - ~~Dynamic Things Alternative~~
+  - Real Rabbits HD
+  - Wiseman's Flora Fixes
+  - ~~SMIM Quality Add-On~~
+- **Real Rabbits HD:** Shell
 
 ##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
 

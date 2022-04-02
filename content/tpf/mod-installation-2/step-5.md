@@ -268,6 +268,12 @@ Delete everything except for the files show in the screenshot below:
 - **Watercolors:**
   -  Alternative Volcanic Watercolor
 
+##### [Realistic Water Two - Solitude Marsh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Realistic Water Two - Solitude Marsh Fix
+
 ##### [Waymark - A Road Signs Mod](https://www.nexusmods.com/skyrimspecialedition/mods/53333?tab=files)
 
 #### Download Instructions
