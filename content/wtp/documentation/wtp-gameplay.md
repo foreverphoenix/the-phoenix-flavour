@@ -1,6 +1,6 @@
 ---
 title: "WTP Gameplay"
-weight: 4
+weight: 5
 type: docs
 description: >
   WTP's important changes and additions.

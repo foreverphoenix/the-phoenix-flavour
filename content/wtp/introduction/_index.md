@@ -79,4 +79,16 @@ You can see the details of my old setup below, sufficient for playing at 1440p w
 
 > I have since upgraded to an i7 10700k and a RTX 3080 which are certainly NOT required to play WTP at a stable frame rate.
 
+## Requirements
+
+While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
+
+**Welcome to Paradise requires:**
+
+- A copy of [Fallout 4](https://store.steampowered.com/sub/199943/) with all official DLC (Game of the Year Edition) on Steam.
+- A [Nexus Mods](https://www.nexusmods.com/fallout4) account, preferably with a Premium subscription.
+- Around 35.5GB for WTP, 25GB for the downloaded mods, and 34.5GB for the base game.
+
+Grab a glass of Nuka Cola and let's get started.
+
 #### Get started with the [Installation](/wtp/installation/) now.

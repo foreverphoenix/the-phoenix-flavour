@@ -1,6 +1,6 @@
 ---
 title: "MCM Settings"
-weight: 5
+weight: 3
 type: docs
 description: >
   Settings applied by the WTP MCM preset.
