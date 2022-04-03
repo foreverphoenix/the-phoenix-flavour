@@ -5,7 +5,7 @@
     "description": "Welcome to Paradise (WTP) is a lightweight Wabbajack list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was built with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware.",
     "author": "Phoenix",
     "maintainers": [
-      "github/<your github name>"
+      "github/foreverphoenix"
     ],
     "game": "fallout4",
     "tags": [
@@ -20,7 +20,7 @@
       "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/wtp-dev/static/Pictures/wtp-2-1-cover.webp",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/phoenix-flavour-fo4/readme.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "wtp",
+      "machineURL": "tpf-fo4",
       "discordURL": "https://discord.gg/xCPxJFbCTS"
     },
     "download_metadata": {
