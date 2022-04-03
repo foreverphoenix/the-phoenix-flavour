@@ -6,6 +6,27 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.3.2
+
+> 03/04/2022
+
+Another minor update, mostly to address performance concerns and to fix ambient occlusion being enabled in the INIs.
+
+#### Mod Changes
+
+- Added Overboss Colter Fix (used to be part or PRP)
+- Updated Workshop Framework to 2.0.22
+- Updated Previsibines Repair Pack to 0.57.4.2
+- Disabled ambient occlusion in the default INIs (it was accidentally left enabled in the previous update, sorry about that)
+- Added a set of performance INIs that should yield a better framerate on lower end PCs
+
+#### Website Changes
+
+- **Introduction:** Moved the requirements here from the Installation page
+- **Installation:** Added the Performance INI section
+- **INI Files:** Moved notes on INI settings to their own page
+- **Known Issues:** Added "Performance Issues" section
+
 ## Release 2.3.1
 
 > 28/03/2022
@@ -26,7 +47,7 @@ This is a quick maintenance update for WTP because I'm a dummy and deleted the e
 - Fixed enbseries link which took down 2.3 (very sorry about that)
 - Regenerated INI files
 
-#### Website
+#### Website Changes
 
 - **GFF & INI Settings:** Now documenting my INI tweaks on this page.
 - **MCM Settings:** Updated Baka Wait Anywhere settings and added FallUI Map settings.

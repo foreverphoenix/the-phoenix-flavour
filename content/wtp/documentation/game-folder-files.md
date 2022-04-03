@@ -1,9 +1,9 @@
 ---
-title: "GFF & INI Settings"
+title: "Game Folder Files"
 weight: 1
 type: docs
 description: >
-  Files that need to be moved into the root folder manually and my INI tweaks.
+  Files that need to be moved into the root folder manually.
 ---
 
 While regular mods for Bethesda games are installed into the **data** folder, there are some additional tools that belong into the **root** folder. These are not automatically moved by Wabbajack. Instructions for them are included in the **Installation** setup, this page merely serves as an overview over the files in question and their purpose.
@@ -50,40 +50,3 @@ The [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset.
 
 - `\enbseries\`
 - `enbseries.ini`
-
-## INI Edits
-
-Based on the BethINI **High** preset.
-
-### Fallout4.ini
-
-```
-[Display]
-fPipboyScreenEmitIntensityPA=1.25
-fPipboyScreenDiffuseIntensityPA=0.15
-
-[Pipboy]
-bPipboyDisableFX=1
-bPipboyEffectColorOnLight=0
-fPAEffectColorB=0.392
-fPAEffectColorG=0.722
-fPAEffectColorR=0.376
-```
-
-### Fallout4Prefs.ini
-
-```
-[Display]
-uPipboyTargetHeight=1400
-uPipboyTargetWidth=1752
-
-[Interface]
-iHUDColorB=100
-iHUDColorG=184
-iHUDColorR=96
-
-[Pipboy]
-fPipboyEffectColorB=0.3920
-fPipboyEffectColorG=0.7220
-fPipboyEffectColorR=0.3760
-```
