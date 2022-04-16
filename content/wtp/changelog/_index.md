@@ -6,6 +6,21 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.3.3
+
+> TBD
+
+Tiny little update. Yes, it's save-safe.
+
+#### Mod Changes
+
+- Added DiamondTheWall Retexture (packed into a BA2)
+- Added Cathedral Asset Optimizer (irrelevant for users)
+- Updated Wetness Shader Fix to 3.5
+- Updated Workshop Framework to 2.1.0
+- Updated Configurable Hotkeys to 5.1
+- Updated Previsibines Repair Pack to 0.57.5
+
 ## Release 2.3.2
 
 > 03/04/2022
