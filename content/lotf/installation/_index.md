@@ -60,6 +60,8 @@ If you are currently playing in a language other than English, please go into th
 
 After updating the game language, please launch the game once and quit from the main menu.
 
+> If you own the Anniversary Edition DLC, the game will download all creations on first launch. This may take a few minutes.
+
 ## Wabbajack Installation
 
 Next up you need to install the Wabbajack tool itself:
