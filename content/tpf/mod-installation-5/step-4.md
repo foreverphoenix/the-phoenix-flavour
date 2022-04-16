@@ -243,6 +243,12 @@ description: >
 
 - **Main Files:** Obscure's College of Winterhold NPC Stuck in Staircase Fix
 
+##### [Misc Effects ENB Light - Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Misc Effects ENB Light - Obscure's College of Winterhold
+
 ##### [Misc College of Winterhold Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22653?tab=files)
 
 #### Download Instructions

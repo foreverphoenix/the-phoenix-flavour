@@ -18,6 +18,7 @@ For the longest time, I accepted the headache that WACCF causes with its sweepin
 - **Perk and Spell edits.** The smithing perks are covered by SPO in TPF, all other perks are handled by Adamant. The spell edits mostly relate to the Bleeding affect applied by Hack and Slash/Limbsplitter perks; however, with Adamant, the damage caused is no longer weapon-tier specific so those spell records are actually unused.
 - **Most Constructible Objects (crafting recipes).** These are already covered sufficiently by Simple Smithing Overhaul Simplified.
 - **Proper activators for BYOH weapon displays.** Using the [original mod](https://www.nexusmods.com/skyrimspecialedition/mods/3622) that was merged into WACCF instead.
+- **Bugs in Jars being giftable to adopted children.** Yes, this is very minor. I removed it though.
 
 ## Remaining Features
 
@@ -26,7 +27,8 @@ For the longest time, I accepted the headache that WACCF causes with its sweepin
 - **Edits to the Diplomatic Immunity quest.** WACCF expands the conditions for remaining undiscovered in the Thalmor embassy a little. For one, it replaces the vanilla Hooded Thalmor Robes with Thalmor Robes and a separate Thalmor Hood (as per the previous feature). You can also wear other Thalmor Robes (found in the wild or crafted with MCE) for the same effect.
 - **Furniture containers.** WACCF expands the variability of items found in various furniture contains such as wardrobes or end tables. 
 - **Misc Item and Ingestible edits.** WACCF tweaks the weight and value for many items to be more consistent or sensible.
-- **NPC and Leveled List tweaks.** These are staying for now and may be adjusted/removed in the future.
+- **Levelled List tweaks.** Kept almost everything that is not already covered by Open World Loot.
+- **NPC tweaks.** These are staying for now and may be adjusted/removed in the future.
 - **Enchanting tweaks.** Also staying for now, to be adjusted.
 - **Projectile tweaks.** Because why not.
 

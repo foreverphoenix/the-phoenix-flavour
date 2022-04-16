@@ -40,6 +40,7 @@ description: >
 
 - **Flames Customisation:** Embers XD Flames (Yellow/Orange)
 - **Effect Quality:** High Quality
+- **Intensity:** Normal
 - **Plugin Selection:** Lux Orbis
 - **Fire Magick Add-On:** Install Fire Magick Add-On
 - **Forges Add-on:** Install Forges Add-On

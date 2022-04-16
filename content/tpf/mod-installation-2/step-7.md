@@ -23,7 +23,7 @@ The optional file (mesh fix) can only be downloaded manually.
 
 #### FOMOD Instructions
 
-- **01 Option:** 2) Vitruvia - 4K
+- **01 Option:** 2) Vitruvia - 4K >> `pick 2K if VRAM is a concern`
 - **02 Option:** 1) Never Nude
 - **A)Hair and scars-2K:** None
 - **B)Hair and scars-4K:** Hairy Chest, Scars
@@ -64,6 +64,8 @@ The optional file (mesh fix) can only be downloaded manually.
 
 - **Main Files:** Feminine Grey Cat and Leopard (UNP) 4K
 
+> Download the 2K version if VRAM is a concern.
+
 #### FOMOD Instructions
 
 - **Variations:** Grey Cat
@@ -74,6 +76,8 @@ The optional file (mesh fix) can only be downloaded manually.
 #### Download Instructions
 
 - **Main Files:** Masculine Grey Cat and Leopard (Vanilla) 4K
+
+> Download the 2K version if VRAM is a concern.
 
 #### FOMOD Instructions
 
@@ -90,9 +94,11 @@ The optional file (mesh fix) can only be downloaded manually.
 
 #### Download Instructions
 
-* **Main Files:** FVAR - Main 4k Compressed
-* **Optional Files:** FVAR - BHUNP Patch 4k >> `merge with the main file`
-* **Optional Files:** FVAR - Weight Slider Affected Tails Patch
+- **Main Files:** FVAR - Main 4k Compressed
+- **Optional Files:** FVAR - BHUNP Patch 4k >> `merge with the main file`
+- **Optional Files:** FVAR - Weight Slider Affected Tails Patch
+
+> Download the 2K files if VRAM is a concern.
 
 #### FOMOD Instructions - Main File
 
@@ -198,11 +204,11 @@ The optional file (mesh fix) can only be downloaded manually.
 
 - **Main Files:** Immersive Mouth and Teeth - Skyrim Version - 2.0
 
-##### [Immersive Mouth and Teeth for Orcs](https://www.nexusmods.com/skyrimspecialedition/mods/27343?tab=files)
+##### [Orcodontist - Orsimer Mouth and Teeth Fix](https://www.nexusmods.com/skyrimspecialedition/mods/66156?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Immersive Mouth and Teeth for Orcs - 1K - 1.0
+- **Main Files:** ORCODONTIST - Mouth and Teeth Fix 2k
 
 ##### [Beastly Smiles](https://www.nexusmods.com/skyrimspecialedition/mods/15933?tab=files)
 

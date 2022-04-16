@@ -34,6 +34,10 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 - **Main Files:** Papyrus Extender SE
 
+#### FOMOD Instructions
+
+- **DLL:** SSE v1.5.97 ("Special Edition")
+
 ##### [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
 
 #### Download Instructions
@@ -65,6 +69,10 @@ Download **Scaleform Translation Plus Plus 1.4.1** from the Old Files section.
 #### Download Instructions
 
 - **Main Files:** Base Object Swapper SE
+
+#### FOMOD Instructions
+
+- **DLL:** SSE v1.5.97 ("Special Edition")
 
 ##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
 

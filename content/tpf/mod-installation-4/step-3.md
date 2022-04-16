@@ -162,6 +162,20 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 
 - ESL-ify **CrimeFactionAlikr.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
+##### [NPCs Wear Amulets of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/66125?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** NPCs Wear Amulets of Mara (SPID)
+
+#### Additional Instructions
+
+- Double-click **NPCs Wear Amulets of Mara** in your mod order and switch to the **INI files** tab.
+- In the **NPCs_Wear_Amulets_Of_Mara_DISTR.ini**, change the `25` at the end of the line to `5`.
+- Save your changes and close the window.
+
+> A 5% chance for an NPC to be looking for a spouse seems more reasonable to me than 25%.
+
 ##### [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 
 #### Download Instructions

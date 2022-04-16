@@ -33,6 +33,12 @@ Delete the following file(s) and / or folder(s):
 
 > The same meshes are included with Assorted Mesh Tweaks (to be installed soon).
 
+##### [Proving Honor Companions Quest Progression Fix](https://www.nexusmods.com/skyrimspecialedition/mods/66128?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Proving Honor Companions Quest Progression Fix
+
 ##### [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817?tab=files)
 
 #### Download Instructions
@@ -42,6 +48,12 @@ Delete the following file(s) and / or folder(s):
 #### FOMOD Instructions
 
 - **Page 1:** Vanilla (Regular)
+
+##### [King Olaf's Fire Festival Not Ending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/65849?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** King Olaf's Fire Festival Not Ending Fix
 
 ##### [Potema's Minion Fixlet](https://www.nexusmods.com/skyrimspecialedition/mods/51000?tab=files)
 
@@ -96,6 +108,10 @@ Delete the following file(s) and / or folder(s):
 #### Download Instructions
 
 - **Main Files:** main
+
+#### Additional Instructions
+
+- Resave **HearthFire Display Case Fix.esp** in the Creation Kit ([instructions](/tpf/guide-resources/basic-instructions/#converting-plugins)).
 
 ##### [No Animals Report Crimes (NARC)](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files)
 

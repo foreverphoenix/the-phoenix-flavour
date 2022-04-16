@@ -12,15 +12,17 @@ description: >
 
 - **Main Files:** Particle Patch for ENB
 
+#### FOMOD Instructions
+
+- **Installation type:** Loose Files
+- **Install custom textures?** Yes
+
 #### Additional Instructions
 
-- Unpack **Particle Patch for ENB.bsa** through Mod Organizer 2 ([instructions](/tpf/guide-resources/basic-instructions/#extracting-bsas)).
 - Delete the following file(s) and/or folder(s):
-  - `\BashTags\`
   - `\meshes\interface\`
   - `\meshes\plants\hangingelvesear01.nif`
   - `\textures\effects\gradients\gradwhitewater.dds`
-  - `Particle Patch for ENB.bsa`
   - `Particle Patch for ENB.esp`
 
 > The plugin is not needed, its functionality was replaced by ENB Helper. The mesh in the interface folder will be replaced later on. The hanging elves ear mesh is bugged, all adjacent hanging elves ear plants will switch to harvested state after harvesting one. The texture can cause water spray to look much darker than intended with Realistic Water Two.
@@ -213,6 +215,7 @@ Delete the following file(s) and / or folder(s):
 
 - **Main:** Vanilla Flora
 - **Patches:**
+  - ~~Immersive Fort Dawnguard~~
   - ~~More Growable Plants~~
   - ~~Renthal Flora Collection~~
   - ~~Shrubs of Snow~~
@@ -291,6 +294,9 @@ Delete the following file(s) and / or folder(s):
 
 - **Bee Hives:** Vanilla
 - **Hagraven:** Vanilla
+- **Potions:**
+  - Vanilla
+  - High Poly Project
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 

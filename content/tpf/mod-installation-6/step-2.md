@@ -15,6 +15,12 @@ description: >
 - **Miscellaneous Files:** Hand to Hand - BSC Patch
 - **Miscellaneous Files:** Hand to Hand - Lost Library Patch
 
+##### [Hand to Hand - Security2Trickery](https://www.nexusmods.com/skyrimspecialedition/mods/26092?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Hand to Hand - Security2Trickery
+
 ##### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 
 #### Download Instructions
@@ -56,7 +62,7 @@ description: >
   - Cradle Stone Tower
   - Dragon Bridge Overlook
   - Four Skull Lookout
-  - Lost Valley Redoubt
+  - Lost Valley R edoubt
   - Moldering Ruins
 - **Reach Banner:** ~~Banner Texture~~
 - **The Rift:**

@@ -209,6 +209,13 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Main Files:** Cathedral - 3D Mountain Flowers
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+> The meshes should not overwrite Fixed Mesh Lighting.
+
 ##### [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files)
 
 #### Download Instructions

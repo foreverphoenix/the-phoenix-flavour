@@ -342,11 +342,11 @@ The mod's plugin edits a few records that are also affected by WACCF and the USS
 
 - Downsize the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
 
-##### [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files)
+##### [JS Bloodstone Chalice](https://www.nexusmods.com/skyrimspecialedition/mods/66038?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** BLOODSTONE CHALICE REBORN 2K-1K
+- **Main Files:** JS Bloodstone Chalice SE - 2k Textures
 
 #### Porting Instructions
 

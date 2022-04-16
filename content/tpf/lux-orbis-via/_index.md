@@ -160,6 +160,20 @@ description: >
 
 - **Optional Files:** High Hrothgar Fixed - Lux Patch
 
+##### [Skeleton Replacer HD - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
+
+#### Download Instructions
+
+- **Miscellaneous Files:** SkeletonReplacer - LuxPatch
+
+#### FOMOD Instructions
+
+- **LuxPatches:**
+  - ~~Default~~
+  - ~~Parallax~~
+  - EnbLight
+  - ~~Parallax+EnbLight~~
+
 ##### [Rudification - Rudy Candles Expanded](nexusmods.com/skyrimspecialedition/mods/55852?tab=files)
 
 #### Download Instructions
@@ -269,6 +283,7 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Lux Orbis
+- **Update Files:** Obscure College fixed meshes >> `merge with the main file`
 
 #### FOMOD Instructions
 

@@ -55,6 +55,12 @@ description: >
 * **Werewolf:** None
 * **Werewolf Eyes:** None
 
+##### [Better Foxes](https://www.nexusmods.com/skyrimspecialedition/mods/20439?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Foxes SE - Original Eyes
+
 ##### [Real Rabbits HD](https://www.nexusmods.com/skyrimspecialedition/mods/29223?tab=files)
 
 #### Download Instructions
@@ -212,11 +218,8 @@ description: >
 
 #### FOMOD Instructions
 
-- **Mod version:** 01 - Faction Saddles - Hearthfire DLC needed
-- **Default Saddle Version:**
-  - 00 - Normal saddles - Recommended
-  - ~~01 - Imperial Saddles replace Default Saddles~~
-  - ~~02 - Stormcloak Saddles replace Default **Saddles~~
+- **Mod version:** 00 - Default Saddles
+- **Default Saddle Version:** 00 - Standard Saddles
 
 ##### [HD Reworked Horses](https://www.nexusmods.com/skyrimspecialedition/mods/28249?tab=files)
 
@@ -399,11 +402,7 @@ description: >
 #### Additional Instructions - Main File
 
 - Delete the following file(s) and / or folder(s):
-  - `meshes\dungeons\nordic\catacombs\smhalls\`
-  - `meshes\dungeons\nordic\catacombs\temple\bghalls\nortmphallbgcolumn01.nif`
-  - `meshes\dungeons\nordic\catacombs\temple\bghalls\nortmphallbgcolumn03.nif`
-
-> The meshes are removed in favour of meshes from Rudification.
+  - `meshes\_byoh\architecture\byohhouse\trophy\byohhousetrophytrollfrost02.nif`
 
 ##### [DRAUGR by Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848?tab=files)
 

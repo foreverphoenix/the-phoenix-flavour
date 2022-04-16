@@ -127,8 +127,8 @@ This file was already downloaded during the main guide. If you deleted the file 
 - **Lanterns of Skyrim II:** None
 - **Outlaws Refuges:** None
 - **Creation Club:**
-  - ~~Staff of Sheogorath~~
-  - ~~Vigil Enforcer~~
+  - Staff of Sheogorath
+  - Vigil Enforcer
 
 ##### [Cities of the North - Dawnstar - Unique Door Design](https://www.nexusmods.com/skyrimspecialedition/mods/36844?tab=files)
 
@@ -172,6 +172,7 @@ This file was already downloaded during the main guide. If you deleted the file 
 
 - **Miscellaneous:**
   - ~~Interesting NPCs~~
+  - ~~Additional Hearthfire Dolls~~
   - AI Overhaul
   - ~~Amulets of Skyrim~~
   - ~~Animated Armory - DAR Edition~~
@@ -261,14 +262,14 @@ This file was already downloaded during the main guide. If you deleted the file 
 #### FOMOD Instructions
 
 - **Miscellaneous Patches:**
-  - ~~3DNPC - Interesting NPCs~~
+  - ~~Interesting NPCs~~
   - AI Overhaul
   - ~~Amulets of Skyrim~~
   - ~~Animated Armoury - DAR Edition~~
   - ~~Artifacts Revised~~
   - ~~Atlas Map Markers~~
   - ~~BadGremlins Collectables~~
-  - ~~Cathedral 3D Mountain Flowers~~
+  - ~~Cathedral 3D Mountain Flowers~~ >> `not needed with the Base Object Swapper version`
   - Cheesemod for EVERYONE
   - ~~Cloaks of Skyrim~~
   - ~~Complete Alchemy and Cooking Overhaul~~
