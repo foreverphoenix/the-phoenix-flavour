@@ -38,6 +38,12 @@ Legends of the Frost features rebuilt terrain LOD with [SSELODGen](https://stepm
 
 Please check the [Documentation](/lotf/documentation/) for more details on the included mods, or check out the [Load Order Library](https://loadorderlibrary.com/lists/legends-of-the-frost) page for the full mod list and load order.
 
+---
+
+**Check out DroppedIceCream's amazing showcase for LOTF:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Hru8F0QRwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Performance
 
 LOTF has **no significant performance impact**. It was not designed to be a "lite" list but the absence of a fully-featured ENB preset as well as the optional performance tweaks should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyrim Realistic Overhaul** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
