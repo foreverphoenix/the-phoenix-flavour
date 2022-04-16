@@ -6,9 +6,84 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.4
+
+> 16/04/2022
+
+Another round of New Stuff (tm) in honour of [this amazing showcase of LOTF](https://www.youtube.com/watch?v=_Hru8F0QRwQ) by **DroppedIceCream**. In addition to a bunch of mod updates, I added support for more creations and simplified the instructions for installing said creations.
+
+All creations adding unique artifacts are now supported:
+
+- Arms of Chaos
+- Bow of Shadows
+- Dawnfang & Duskfang
+- Headman's Cleaver
+- Lord's Mail
+- Ruin's Edge
+- Shadowrend
+- Staff of Hasedoki
+- Staff of Sheogorath
+- Stendarr's Hammer
+- Sunder & Wraithguard
+- The Gray Cowl Returns!
+- Umbra
+
+Check out the [new spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit?usp=sharing) to see which creations are support by LOTF, including links to the UESP.net pages with instructions on how to find the content ingame.
+
+Also the patches for ultrawide support were never actually included with the WJ installation and I fixed that now. Sorry!
+
+#### Mod Changes
+
+- Added Proving Honor Companions Quest Progression Fix
+- Added King Olaf's Fire Festival Not Ending Fix
+- Updated DynDOLOD to Alpha 88
+- Updated Base Object Swapper to 1.5
+- Updated DynDOLOD Resources to Alpha 24
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4
+- Updated Assorted Mesh Fixes to 0.48.1
+- Updated Windhelm Fence 3D to 0.3.3
+- Updated Better Windhelm Ground Meshes to 1.3.5
+- Updated Fixed Mesh Lighting to 1.7.4
+- Updated Oxygen Meter 2 to 1.0.4
+- Updated Realistic Water Two to 5.3.0
+- Replaced Particle Patch for ENB with the new Nexus version
+- Regenerated Blacksmith Forge Water Patch
+- Added WABBAJACK_ALWAYS_ENABLE flags to the ultrawide mods so they're actually present ...
+- Fixed facegen for snow elves
+
+#### CC Profile
+
+- Updated Unofficial Skyrim Creation Club Content Patches to 6.5
+- Removed Survival Mode as a master for the Dawnfang & Duskfang and Bow of Shadows USCCP plugins
+- Reinstalled Cleaned and Upscaled Textures - Creation Club for the new creations
+- Reinstalled Creation Club - Misc Patches for the new creations
+- Regenerated facegen for all CC-added NPCs, including the new ones
+- Added Blacksmith Forge Water Patch - CC (replaces one trough in Nchuanthumz)
+
+#### Website
+
+- **Introduction:** Embedded DroppedIceCream's amazing new LOTF showcase video
+- **Creation Club:** Now using [Anniversary Edition Content Picker](https://www.nexusmods.com/skyrimspecialedition/mods/58890) for a more user-friendly installation process.
+
+## Release 2.3.1
+
+> 27/03/2022
+
+Some fixes for 2.3.
+
+#### Mod Changes
+
+- Added Oxygen Meter 2
+- Updated Assorted Mesh Fixes to 0.46
+- Updated 3D Solitude Trellis to 2.0
+- Removed Oxygen Meter
+- Fixed INIs for the default profile (had ENB settings)
+- Actually disabled Majestic Mountains - More Accurate Collision in the performance profile
+- Removed the xLODGen 85 archive from my downloads folder (caused installations to fail)
+
 ## Release 2.3
 
-> 25/03/2022
+> 27/03/2022
 
 Finally another big update for LOTF! Here's what's new:
 

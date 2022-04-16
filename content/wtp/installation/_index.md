@@ -6,19 +6,7 @@ description: >
   Setting up Welcome to Paradise with Wabbajack.
 ---
 
-## Requirements
-
-While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
-
-**Welcome to Paradise requires:**
-
-- A copy of [Fallout 4](https://store.steampowered.com/sub/199943/) with all official DLC (Game of the Year Edition) on Steam.
-- A [Nexus Mods](https://www.nexusmods.com/fallout4) account, preferably with a Premium subscription.
-- Around 30GB for WTP, 25GB for the downloaded mods, and 34.5GB for the base game.
-
-Grab a glass of Nuka Cola and let's get started.
-
-### VC Redists
+## VC Redists
 
 Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable.
 
@@ -154,7 +142,7 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 The **Welcome to Paradise** installation folder:
 
 - **SHOULD** be on your SSD or otherwise fastest hard drive.
-- **CANNOT** be inside `Fallout 4 Modding\Wabbajack`.
+- **CANNOT** be inside the Wabbajack installation folder.
 - **CANNOT** be inside the Fallout 4 installation folder.
 - **CANNOT** be inside `C:\Program Files` or `C:\Program Files x86`.
 
@@ -170,7 +158,7 @@ I strongly recommend changing the **Download Location** to a folder on a hard dr
 
 **After filling in the installation and download directories, click the Start button on the left.** If you have Nexus Premium, you can lean back while Wabbajack downloads the required mod files and installs the setup. Otherwise, you will have to click through the mod pages and download manually (Wabbajack will guide you).
 
-Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `Fallout 4 Modding\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the `#wtp-support` channel on the [TPF Discord server](https://discord.com/invite/BpwXX5f).
+Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the `#wtp-support` channel on our [Discord server](https://discord.com/invite/BpwXX5f).
 
 ### Game Folder Files
 
@@ -178,7 +166,7 @@ Once the download and installation process has finished, Wabbajack will inform y
 
 - Navigate to your Wabbajack installation directory
 - Open the **Game Folder Files** folder. Select (CTRL+A) and copy (CTRL+C) all files inside.
-- Find your Fallout 4 installation (`Steam\steamapps\common\Fallout4`) and paste all files there (CTRL+V).
+- Find your Fallout 4 installation (`\Steam\steamapps\common\Fallout4\`) and paste all files there (CTRL+V).
 
 ![Game Folder Files](/Pictures/wtp/installation/game-folder-files.png)
 
@@ -190,6 +178,34 @@ All mods are installed in Mod Organizer 2 which is required to play the setup. Y
 - Double-click **ModOrganizer.exe**.
 
 >  I recommend adding ModOrganizer.exe to your taskbar or creating a shortcut on your Desktop for easy access.
+
+## Performance INIs
+
+If you are playing on a lower-end PC and are worried about performance, you can install the performance-optimised set of INI files included with WTP:
+
+- Navigate to `\Welcome to Paradise\mods\WTP INIs - Performance\` and copy the **Fallout4.ini** and **Fallout4Prefs.ini** inside.
+- Paste them to `\Welcome to Paradise\profiles\Welcome to Paradise\` and overwrite the existing ones.
+
+> Repeat the process with the INI files from **WTP INIs - Default** to revert to the default settings.
+
+### Resolution
+
+Unlike the default INIs, Wabbajack will not be able to automatically adjust the resolution in the INI files and you will have to do this manually.
+
+**Skip this if you are on an ultrawide monitor (there are instructions further down on this page).**
+
+- To change the monitor resolution, open the **INI Editor** in Mod Organizer 2 (see picture below).
+- Go to the **Fallout4Prefs.ini** tab and scroll to the `[Display]` section.
+- Change the following two lines to match your monitor resolution:
+
+```
+iSize H=
+iSize W=
+```
+
+- Click the **Save** button at the bottom before you close the window.
+
+![Change Resolution](/Pictures/wtp/installation/change-resolution.png)
 
 ## Controller Fix
 

@@ -1,6 +1,6 @@
 ---
 title: "WTP Visuals"
-weight: 3
+weight: 4
 type: docs
 description: >
   How the graphics were improved in WTP.

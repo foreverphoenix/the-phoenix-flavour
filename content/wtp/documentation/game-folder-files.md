@@ -3,7 +3,7 @@ title: "Game Folder Files"
 weight: 1
 type: docs
 description: >
-  All files that need to be moved into the root folder manually.
+  Files that need to be moved into the root folder manually.
 ---
 
 While regular mods for Bethesda games are installed into the **data** folder, there are some additional tools that belong into the **root** folder. These are not automatically moved by Wabbajack. Instructions for them are included in the **Installation** setup, this page merely serves as an overview over the files in question and their purpose.
