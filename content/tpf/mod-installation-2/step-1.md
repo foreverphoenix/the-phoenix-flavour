@@ -218,7 +218,7 @@ Delete the following file(s) and / or folder(s):
   - ~~Immersive Fort Dawnguard~~
   - ~~More Growable Plants~~
   - ~~Renthal Flora Collection~~
-  - ~~Shrubs of Snow~~
+  - Shrubs of Snow
   - ~~Simply Bigger Plants~~
   - ~~Skyrim 2020 by Pfuscher~~
   - Wiseman's Flora Fixes

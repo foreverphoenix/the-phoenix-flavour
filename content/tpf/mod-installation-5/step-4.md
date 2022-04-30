@@ -345,3 +345,8 @@ Make sure all previous mods are activated as you will otherwise be unable to sel
 
 - **Main Files:** Sanguine - 4k
 
+##### [Daedric Shrine - Sheogorath](https://www.nexusmods.com/skyrimspecialedition/mods/65489?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Sheogorath Shrine 4k

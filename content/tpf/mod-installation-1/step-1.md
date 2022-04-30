@@ -6,27 +6,25 @@ description: >
   Required mods and frameworks.
 ---
 
-This separator should already contain the **SKSE - Scripts** and **SKSE INI** mods. Place the new mods below them.
+This separator should already contain the **SKSE Scripts** and **SKSE INI** mods. Place the new mods below them.
 
 ##### [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** All in one (Special Edition)
+- **Main Files:** All in one (Anniversary Edition)
 
-##### [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294?tab=files)
+##### [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59596?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** NetScriptFramework SkyrimSE v18
+- **Main Files:** Crash Logger
 
 ##### [PapyrusUtil](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files)
 
 #### Download Instructions
 
-Download **PapyrusUtil 3.9** from the Old Files section.
-
-- **Old Files:** PapyrusUtil SE - Scripting Utility Functions
+- **Main Files:** PapyrusUtil AE - Scripting Utility Functions
 
 ##### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files)
 
@@ -36,7 +34,7 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 #### FOMOD Instructions
 
-- **DLL:** SSE v1.5.97 ("Special Edition")
+- **DLL:** SSE v1.6+ ("Anniversary Edition")
 
 ##### [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
 
@@ -44,25 +42,13 @@ Download **PapyrusUtil 3.9** from the Old Files section.
 
 - **Main Files:** JContainers SE
 
+> Make sure to pick the second main file for AE (1.6.x).
+
 ##### [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603?tab=files)
 
 #### Download Instructions
 
-Download **Scaleform Translation Plus Plus 1.4.1** from the Old Files section.
-
-- **Old Files:** ScaleformTranslationPP
-
-##### [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Spell Perk Item Distributor - SSE
-
-##### [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Keyword Item Distributor - SE
+- **Main Files:** ScaleformTranslationPP
 
 ##### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
 
@@ -72,31 +58,44 @@ Download **Scaleform Translation Plus Plus 1.4.1** from the Old Files section.
 
 #### FOMOD Instructions
 
-- **DLL:** SSE v1.5.97 ("Special Edition")
+- **DLL:** SSE v1.6+ ("Anniversary Edition")
+
+##### [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Spell Perk Item Distributor - AE
+
+##### [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Keyword Item Distributor - SE
+
+##### [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Dynamic Armor Variants
+
+#### FOMOD Instructions
+
+- **Game Version:** Skyrim Special Edition
+- **Select Addons:**
+  - ~~UIExtensions Menu~~
+  - ~~Hidden Equipment~~
 
 ##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
 
 #### Download Instructions
 
-Download **MCM Helper 1.3.0** from the Old Files section.
-
-- **Old Files:** MCM Helper SE
+- **Main Files:** MCM Helper SE (1.6)
 
 ##### [ConsoleUtil](https://www.nexusmods.com/skyrimspecialedition/mods/24858?tab=files)
 
 #### Download Instructions
 
-Download **ConsoleUtilSSE 1.2.0** from the Old Files section.
-
-- **Old Files:** ConsoleUtilSSE
-
-##### [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Console Commands Extender
-
-*This mod was added mostly for the `spp` console command which allows you to quickly cheat perk points. This can be useful for testing, since vanilla Skyrim has no command to directly add perk points.*
+- **Main Files:** ConsoleUtilSSE
 
 ##### [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451?tab=files)
 
@@ -131,7 +130,7 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 #### Download Instructions
 
-- **Main Files:** ENB Helper SE 1.5 for SSE 1.5.97
+- **Main Files:** ENB Helper SE 2.1 for SSE 1.6.xxx
 
 ##### [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743?tab=files)
 
@@ -141,7 +140,7 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 #### FOMOD Instructions
 
-- **Core Files:** ENB Helper Plus for 1.5.97 (Pre-AE)
+- **Core Files:** ENB Helper Plus for 1.6.x (Post-AE)
 
 ##### [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796?tab=files)
 
@@ -151,7 +150,7 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 #### FOMOD Installer
 
-- **Core Files:** ENB Input Disabler for 1.5.97 (Pre-AE)
+- **Core Files:** ENB Input Disabler for 1.6.x (Post-AE)
 
 ##### [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=files)
 
@@ -159,18 +158,7 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 - **Main Files:** Auto Input Switch
 
-##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
-
-#### Download Instructions
-
-* **Main Files:** KeyboardShortcutsFix_SKSE64
-
-#### Additional Instructions
-
-- Double-click **Keyboard Shortcuts Fix** in your mod order.
-- Switch to the to **INI Files** tab and select the **KeyboardShortcutsFix.ini**.
-- In **line 2**, set `iEnableLogging=` to `0`.
-- Press CTRL + S to save your changes and close the window.
+> Download the first main file for Skyrim Special Edition 1.6.x.
 
 ##### [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124?tab=files)
 
@@ -180,30 +168,53 @@ SetGS fCombatAimProjectileRandomOffset 70
 
 #### FOMOD Instructions
 
-- **Core Files:** Screenshot Helper for 1.5.97 (Pre-AE)
+- **Core Files:** Screenshot Helper for 1.6.x (Post-AE)
 
-##### [Dragonborn Presence - Discord Rich Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287?tab=files)
+##### [xSHADOWMANx's Dll Loader](https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files)
 
 #### Download Instructions
 
-This is purely a Discord integration mod. With it installed, other people will be able to see your character's name, level, and location in your profile on Discord. As not everyone might want or need that, **this mod is optional**. You may skip it if you wish.
-
-- **Main Files:** Dragonborn Presence
+- **Main Files:** DllLoader
 
 #### Installation Instructions
 
-The mod consists of an ESP, SKSE plugin, and scripts as well as an additional DLL plugin. The latter needs to be placed in the **root** folder.
+Step 1:
 
-- Begin the installation process as usual by double-clicking the archive in the **Downloads** tab.
-- Right-click the **Data** folder and select **Set as \<data> directory**.
-- Click **OK** to install the mod.
+- Double-click the mod in the **Downloads** pane to install it.
+- Right-click the **Data** folder and select **\<Set as data directory>**.
+- Click **OK** and **Ignore** (the directory *is* correct).
 
-Now we need to place the DLL in the **root** folder:
+Step 2:
 
-- Right-click the downloaded archive in the **Downloads** tab and select **Open File**.
-- Extract the `discord-rpc.dll` to `\The Phoenix Flavour\Stock Game\`.
+- Right-click **DllLoader** in the **Downloads** pane and select **Open in Explorer**.
+- Extract **DINPUT8.dll** to `\The Phoenix Flavour\Stock Game\`.
 
-The mod is now properly installed.
+#### Additional Instructions
+
+- Double-click **xSHADOWMANx's DLL Loader** in the mod order.
+- Switch to the **INI Files** tab and select the **DllLoader.ini**.
+- In **Line 2**, set `iEnableLogging` to `0`.
+- Press CTRL + S to save your change and close the window.
+
+##### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=files)
+
+#### Download Instructions
+
+* **Main Files:** KeyboardShortcutsFix
+
+#### Installation Instructions
+
+- After installing the mod from the **Downloads** pane, right-click it in the mod order and select **Open in Explorer**.
+- Create two new folders `\Plugins\Sumwunn\` and move all files from the top level folder into the `\Sumwunn'` folder.
+
+![Keyboard Shortcuts Fix](/Pictures/tpf/mod-installation/keyboard-shortcuts-fix.png)
+
+#### Additional Instructions
+
+- Double-click **Keyboard Shortcuts Fix** in your mod order.
+- Switch to the to **INI Files** tab and select the **KeyboardShortcutsFix.ini**.
+- In **Line 2**, set `iEnableLogging=` to `0`.
+- Press CTRL + S to save your change and close the window.
 
 ---
 

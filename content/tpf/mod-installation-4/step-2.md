@@ -68,11 +68,11 @@ description: >
 
 - **Main Files:** ?
 
-##### [Improvement Names Customised](https://www.nexusmods.com/skyrimspecialedition/mods/27776?tab=files)
+##### [Improvement Names Customized AE](https://www.nexusmods.com/skyrimspecialedition/mods/59435?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Improvement Names Customized SSE
+- **Main Files:** Improvement Names Customized
 
 #### Additional Instructions
 

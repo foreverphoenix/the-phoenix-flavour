@@ -16,7 +16,7 @@ description: >
 
 **Page 1**
 
-- **Lux optimised Creation Club meshes:** *select this if you have AE*
+- **Lux optimised Creation Club meshes:** Creation Club meshes
 - **Lux optional effects:**
   - Beams - PARTICLE without effect lighting
   - ~~Beams - Effect lighting without PARTICLE~~
@@ -47,19 +47,9 @@ description: >
 **Page 4**
 
 - **Player Houses:** Simple Player Homes Improvements
-- **Cutting Room Floor:** ~~Cutting Room Floor compatibility patch~~
-- **Palaces and Castles Enhanced:** ~~Palaces and Castles Enhanced compatibility patch~~
 - **Great Villages and Towns:** The Great Village of Mixwater Mill
-- **RedBag's City Overhauls:** *select none*
-- **Solitude Docks:** ~~Solitude Docks compatibility patch~~
-- **Blue Palace Terrace:** ~~Blue Terrace compatibility patch~~
-- **Schlitzohr:** *select none*
-- **Arthmoor Towns:** *select none*
 - **JK's Skyrim:**
   - JK's Skyrim compatibility patch
-  - ~~Ideal Riverwood compatibility patch~~
-- **JK's Interiors:** *select none*
-- **New Villages and Towns:** ~~Settlements Expanded compatibility patch~~
 - **Stendarr Rising:** Stendarr Rising compatibility patch
 - **Cities of the North (COTN):**
   - COTN - Morthal patch
@@ -67,59 +57,19 @@ description: >
   - COTN - Winterhold patch
   - COTN - Falkreath patch
   - COTN JK's Dawnstar compatibility patch
-- **Expanded Cities and Towns (ETaC):** *select none*
-- **ClefJ Overhauls:** *select none*
-- **Capital Cities Expansion:** *select none*
-- **Quaint Raven Rock:** ~~Quaint Raven Rock compatibility patch~~
-- **Better Tel Mithryn:** ~~Better Tel Mithryn compatibility patch~~
 - **Obscure College of Winterhold**
   - OCW compatibility patch
-  - ~~OCW Doors patch~~
-- **Ultimate College of Winterhold:** ~~Ultimate College of Winterhold compatibility patch~~
-- **Rodryk's Dragonbridge:**
-  - ~~Rodryk's Dragonbridge~~
-  - ~~Rodryk's Arthmoor variant patch~~
-- **Distinct Interiors:** ~~Distinct Interiors patch~~
-- **Bards Reborn - Student of Song:** ~~Bards Reborn Student of Song comaptibility patch~~
-- **Outlaw Refuges:** ~~Outlaw Refuges compatibility patch~~
-- **Dungeons Revisited:** *select none*
-- **Easierrider's Dungeons:** ~~Easierrider's Dungeons compatibility patch~~
-- **The Midden Expanded:** *select none*
-- **Tools of Kagrenac:** ~~Tools of Kagrenac compatibility patch~~
-- **Interesting NPCs:** ~~Interesting NPCs compatibility patch~~
-- **Azura Shrine:** ~~Azura Shrine compatibility patch~~
-- **Legacy of the Dragonborn:** *select none*
-- **Markarth Bookstore:** ~~Markarth Bookstore compatibility patch~~
-- **Moon and Star:** ~~Moon and Star compatibility patch~~
-- **Mrissi Tail Of Troubles:** ~~Mrissi Tail of Troubles compatibility patch~~
-- **The People of Skyrim Complete SSE:** ~~The people of Skyrim Complete SSE compatibility patch~~
-- **This Is Jorrvaskr:** ~~This Is Jorrvaskr compatibility patch~~
-- **Wayshrines - Immersive Fast Travel:** ~~Wayshrines IFT SWIFT compatibility patch~~
-- **Fortune's Trade House:** ~~Fortune's Trade House compatibility patch~~
-- **Windhelm Entrance Overhaul:** ~~Windhelm Entrance Overhaul~~
-- **Books of Skyrim:** ~~Books of skyrim compatibility patch~~
-- **Forgotten City:** ~~Forgotten City compatibility patch~~
 - **Wyrmstooth:** Wyrmstooth compatibility patch
-- **Clockwork:** ~~Clockwork compatibility patch~~
-- **Project AHO:** ~~Project AHO compatibility patch~~
-- **Skyrim Sewers:** ~~Lux - Skyrim Sewers compatibility patch~~
 - **Misc mod patches:**
-  - ~~JS Master collection compatibility patch~~
   - Landscape and Water fixes compatibility patch
-  - ~~DeserterX's Crimson Blood Armor~~
-  - ~~Missing Encounter Zones Fixed compatibility patch~~
   - USSEP compatibility patch
   - EmbersXD compatibility patch
   - Realistic Water Two compatibility patch
-  - ~~SoS compatibility patch~~
-  - ~~Audio Overhaul SoS Obsidian patch~~
-  - ~~Immersive Citizens compatibility patch~~
-- **New Villages and Towns:** *select none*
+  - Audio Overhaul Obsidian Weathers patch
 - **New Gameplay Content:**
-  - ~~Wintersun compatibility patch~~
   - Pilgrim compatibility patch
 - **Alternate Vanilla Content:** RYFTEN Consistency of Windows compatibility patch
-- **Creation Club Content:** >> `select the patches below if you have AE`
+- **Creation Club Content:**
   - Ghosts of the Tribunal compatibility patch
   - Umbra compatibility patch
   - ~~Saints and Seducers compatibility patch~~
@@ -134,7 +84,13 @@ description: >
   - Bloodchill Manor compatibility patch
   - Elite Crossbows compatibility patch
   - Forgotten Seasons compatibility patch
-- **Minor Locations Content:** Inigo compatibility patch
+  - Myrwatch Tower compatibility patch
+  - Pets of Skyrim compatibility patch
+  - Staff of Hasedoki compatibility patch
+  - Vigil Enforcer compatibility patch
+- **Minor Locations Content:**
+  - Inigo compatibility patch
+  - Shrine of Sanguine compatibility patch
 
 **Page 5**
 

@@ -178,28 +178,23 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** ENB Lights for Effect Shaders SE
+- **Main Files:** ENB Lights for Effect Shaders AE
 
-#### Additional Instructions
+#### Configuration Instructions
 
-- Right-click **ENB Lights for Effect Shaders** in your mod order and select **Open in Explorer**.
-- Inside the mod folder, navigate to `\SKSE\Plugins\`.
-- Right-click anywhere and go to **New** > **Text Document**.
-- Rename the new txt to **po3_ENBLightsForEffectShaders.ini** (make sure to change the file extension properly).
-- Open your new INI file in Notepad or Notepad++ and paste the following into it:
+Step 1:
 
-```
-[Settings]
+- Launch the game once to generate the INI file. You can quit from the main menu.
+- Right-click the ***Overwrite*** at the bottom of your mod order in MO2 and select **Create Mod**.
+- Enter **ENB Lights for Effect Shaders - Settings** as the name and click **OK**.
+- The new mod should be right below **ENB Lights for Effect Shaders** in the mod order. Activate it.
 
-;Display enb lights on effect shaders on these characters.
-;0 - Player Only, 1 - Player And Followers, 2 - Everyone
-Valid Actors = 2
+Step 2:
 
-;Number of ENB light models to be spawned per effect shader.
-ENB Light Limit = 2
-```
-
-- Save and close your new INI file.
+- Double-click **ENB Lights for Effect Shaders - Settings** in your mod order.
+- Switch to the **INI Files** tab and select the **po3_ENBLightsForEffectShaders.ini**.
+- In **Line 5**, set `Valid Actors =` to `2`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 ##### [Sprites or Spectres](https://www.nexusmods.com/skyrimspecialedition/mods/64948?tab=files)
 

@@ -39,7 +39,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** True Directional Movement
+- **Main Files:** True Directional Movement (AE)
 
 ##### [True Directional Movement - Tail Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53757?tab=files)
 
@@ -51,7 +51,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Better Third Person Selection
+- **Main Files:** Better Third Person Selection (AE)
 
 ##### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=files)
 
@@ -75,7 +75,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** DynamicAnimationReplacer v1.1.0 for SkyrimSE
+- **Main Files:** DynamicAnimationReplacer v1.1.2 for SkyrimAE
 
 ##### [Draw 2 - Dual Weapon Equip-Unequip Options](https://www.nexusmods.com/skyrimspecialedition/mods/45579?tab=files)
 

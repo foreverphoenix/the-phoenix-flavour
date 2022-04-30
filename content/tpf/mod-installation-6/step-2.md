@@ -10,7 +10,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Hand to Hand - An Adamant Addon >> `for 1.5.97`
+- **Main Files:** Hand to Hand - An Adamant Addon (1.6.x)
 - **Optional Files:** Hand to Hand - Trainers and Skill Books Addon
 - **Miscellaneous Files:** Hand to Hand - BSC Patch
 - **Miscellaneous Files:** Hand to Hand - Lost Library Patch
@@ -36,6 +36,7 @@ description: >
   - Mephala
   - ~~Peryite~~
   - Sanguine
+  - Sheogorath
 - **Miscellaneous:**
   - ~~Artifacts - The Breton Paladin~~
   - ~~Beyond Skyrim - Bruma~~
@@ -133,3 +134,16 @@ description: >
   - ~~CGO Compatibility~~
   - MBO Compatibility
 - **CloudBird's Retextures:** *choose whatever you like*
+
+##### [Dynamic Lowered Hoods](https://www.nexusmods.com/skyrimspecialedition/mods/65964?tab=description)
+
+#### Download Instructions
+
+- **Main Files:** Dynamic Lowered Hoods
+
+#### FOMOD Instructions
+
+- **Addons:**
+  - ~~Armor and Clothing Extension~~
+  - ~~Wet and Cold~~
+  - ~~Northborn Fur Hoods~~

@@ -57,7 +57,7 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 #### FOMOD Instructions
 
 - **Textures:** 2K Textures
-- **DLL:** SSE v1.5.97 (Pre-"AE")
+- **DLL:** SSE v1.6+ ("AE")
 
 ##### [Ancient Dwemer Metal - Security Overhaul SKSE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
 

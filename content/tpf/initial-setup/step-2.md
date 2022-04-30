@@ -85,7 +85,7 @@ If you own the Anniversary Edition, bought any creations separately, or grabbed 
 
 *However, there are TPF Addons that do add Creation Club support. If you choose to install any of them later on, you will then be able to reinstall the respective “creations” as mods from your backups.*
 
-- Create a new folder: `Your Modding Folder\Backups\Creation Club`.
+- Create a new folder: `\Your Modding Folder\Backups\Creation Club\`.
 - Select all files beginning with **cc** (ESLs and BSAs) in your **Data** folder and hit CTRL+X.
 - Navigate to your new **Creation Club** folder and paste them there (CTRL+V)
 

@@ -38,7 +38,7 @@ description: >
 
 #### FOMOD Instructions
 
-- **Core Files:** Contextual Crosshair for 1.5.97 (Pre-AE)
+- **Core Files:** Contextual Crosshair for 1.6.x (Post-AE)
 
 ##### [Ultimate Immersion Toggle](https://www.nexusmods.com/skyrimspecialedition/mods/54035?tab=files)
 
@@ -50,7 +50,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** TrueHUD (SE)
+- **Main Files:** TrueHUD (AE)
 
 ##### [True HUD - MCM Preset]
 
@@ -113,7 +113,7 @@ description: >
 
 #### Download Instructions
 
-- **Optional Files:** moreHUD SE Light Master- Pre AE
+- **Main Files:** moreHUD SE Light Master - AE
 
 #### Additional Instructions
 
@@ -139,7 +139,7 @@ description: >
 
 #### Download Instructions
 
-- **Optional Files:** moreHUD Inventory Edition - Pre AE
+- **Main Files:** moreHUD Inventory Edition - AE
 
 #### Additional Instructions
 
@@ -153,13 +153,15 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Oxygen Meter 2 SE
+- **Main Files:** Oxygen Meter 2 AE
 
 ##### [Horse Stamina HUD](https://www.nexusmods.com/skyrimspecialedition/mods/47076?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Horse Stamina HUD
+- **Main Files:** Horse Stamina HUD SE
+
+> Download the second main file for Skyrim Special Edition 1.6.x.
 
 ##### [Convenient Reading UI](https://www.nexusmods.com/skyrimspecialedition/mods/50202?tab=files)
 
@@ -276,7 +278,7 @@ Delete the following file(s) and/or folder(s):
 
 #### FOMOD Instructions
 
-- **Core Files:** UMWF for 1.5.97 (Pre-AE)
+- **Core Files:** UMWF for 1.6.x (Post-AE)
 - **Addons:** Vanilla Additions
 
 ##### [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123?tab=files)
@@ -287,7 +289,7 @@ Delete the following file(s) and/or folder(s):
 
 #### FOMOD Instructions
 
-- **CoMAP Core Pack:** CoMAP 1.5.97 (Pre-AE)
+- **CoMAP Core Pack:** CoMAP 1.6.x (Post-AE)
 - **Configs:** CoMAP Config Pack
 - **Obscured Undiscovered Options:** Obscured Undiscovered HUD Markers - Diamond
 - **Author's Cut Options:** Hearthfire Homes are Settlements
@@ -316,6 +318,7 @@ Delete the following file(s) and/or folder(s):
 #### Download Instructions
 
 - **Main Files:** Yet Another Main Menu Replacer
+- **Update Files:** Yet Another Main Menu Replacer - AE Patch >> `merge with the main file`
 
 ##### [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986?tab=files)
 

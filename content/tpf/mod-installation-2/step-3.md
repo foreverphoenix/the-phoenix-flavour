@@ -90,7 +90,7 @@ description: >
 #### FOMOD Instructions
 
 - **Select Game:** Skyrim Special Edition
-- **Select SSE Version:** 1.5.97
+- **Select SSE Version:** 1.6.353
 - **Select Plugin:** ESL Flagged
 - **Select Night Time Sheet Halo:** Halo with Dimmer Lightning (Level 0)
 - **Select Day Time Sheet Halo:** Halo Dim (Level 2)
@@ -142,7 +142,17 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Seasons of Skyrim SE
+- **Main Files:** Seasons of Skyrim AE
+
+#### Configuration Instructions
+
+- Launch the game once to generate the config files. Quit from the main menu.
+- Back in Mod Organizer 2, double-click the ***Overwrite*** at the bottom of the mod order.
+- Drag the **Seasons** folder into the **Seasons of Skyrim** mod to merge them together.
+
+> This needs several attempts sometimes.
+
+![Seasons of Skyrim](/Pictures/tpf/mod-installation/seasons-of-skyrim.png)
 
 ##### [Seasons of Skyrim - Remove Unwanted Grass](https://www.nexusmods.com/skyrimspecialedition/mods/63476?tab=files)
 
@@ -156,11 +166,31 @@ description: >
 
 - **Main Files:** Shrubs of Snow
 
-##### [Fixed Mesh Lighting - Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
+#### Additional Instructions
 
-#### Download Instructions
+- Delete the following file(s) and / or folder(s):
+  - `meshes\landscape\plants\reachfern01Snow.nif`
+  - `meshes\landscape\plants\reachfern02Snow.nif`
+  - `meshes\landscape\plants\reachfern03Snow.nif`
+  - `meshes\landscape\plants\reachmountainmosscover07Snow.nif`
+  - `meshes\landscape\plants\reachmountainmosscover08Snow.nif`
+  - `meshes\landscape\plants\reachmountainmosscover09Snow.nif`
+  - `meshes\landscape\plants\reachmountainmosscover10Snow.nif`
+  - `meshes\landscape\plants\reachmountainmosscover11Snow.nif`
+  - `meshes\landscape\plants\reachshrub01Snow.nif`
+  - `meshes\landscape\plants\reachshrub02Snow.nif`
+  - `meshes\landscape\plants\tundrascrub01Snow.nif`
+  - `meshes\landscape\plants\tundrascrub02Snow.nif`
+  - `meshes\landscape\plants\tundrascrub03Snow.nif`
+  - `meshes\plants\florahangingmoss01Snow.nif`
+  - `meshes\plants\florahangingmoss02Snow.nif`
+  - `meshes\plants\florahangingmoss03Snow.nif`
+  - `meshes\plants\floralavender01Snow.nif`
+  - `meshes\plants\floraspikygrass01Snow.nif`
+  - `meshes\plants\floraspikygrass02Snow.nif`
+  - `meshes\plants\floratundracotton01Snow.nif`
 
-- **Optional Files:** Fixed Mesh Lighting - Shrubs of Snow
+> These meshes should not overwrite Fixed Mesh Lighting.
 
 ##### [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623?tab=files)
 

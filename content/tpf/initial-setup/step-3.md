@@ -102,7 +102,7 @@ For TPF we will be creating a custom profile:
 
 - Open the **Profile** settings in MO2 (Tools >> Profiles or CTRL+P).
 - The **Default** profile will be selected automatically.
-- Click **Create** to set up a new prfile and enter **The Phoenix Flavour** as the name.
+- Click **Create** to set up a new profile and enter **The Phoenix Flavour** as the name.
 - Make sure both options at the bottom (profile-specific saves and INIs) are **checked**.
 - Click **Select** to close the window and switch to your new profile.
 
@@ -132,7 +132,7 @@ To change the colour of your first separator:
 
 ---
 
-If you are interested, you can find my personal TPF separator colour palette [here](https://coolors.co/f3f3e2-f1fcd7-edfbc1-ddf8c3-caf0c5-b7e7c6-a8e1df-88c7db-90b8e0-cfe0f2) or check [this preview](/Pictures/tpf/initial-setup/tpf-separator-colours.png) (link opens full size picture). Note that the picture shows **TPF-X**, my extension of base TPF, and not all of the TPF-X separators are part of TPF.
+If you are interested, you can find my personal TPF separator colour palette [here](https://coolors.co/f3f3e2-f1fcd7-edfbc1-ddf8c3-caf0c5-b7e7c6-a8e1df-88c7db-90b8e0-cfe0f2) or check [this preview](/Pictures/tpf/initial-setup/tpf-separator-colours.png) (link opens full size picture).
 
 My colour scheme was made for the default (light) MO2 theme and will likely be too bright for dark mode.
 
@@ -151,7 +151,7 @@ The hex codes are here:
 
 ## MO2 Splash Screen
 
-Now comes the final touch: When you open MO2, you can see the default splash screen (the MO2 name and logo) before the app fully launches. Now ask yourself: Can we call ourselves modders if we don't mod this, too?
+Now comes the final touch: When you open MO2, you can see the default splash screen (the MO2 name and logo) before the app fully launches. Now ask yourself this: Can we really call ourselves modders if we don't mod this, too?
 
 - Close Mod Organizer 2.
 - Download [Mod Organizer 2 Splash Screen - Intro Title Style](https://www.nexusmods.com/skyrimspecialedition/mods/51391?tab=files) manually from the Nexus.

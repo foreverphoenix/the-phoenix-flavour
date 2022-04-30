@@ -23,13 +23,13 @@ description: >
 
 #### Download Instructions
 
-* **Main Files:** Encounter Zones Unlocked SE
+- **Main Files:** Encounter Zones Unlocked AE
 
 ##### [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378?tab=files)
 
 #### Download Instructions
 
-* **Main Files:** Realistic Melee Range
+- **Main Files:** Realistic Melee Range
 
 #### Additional Instructions
 

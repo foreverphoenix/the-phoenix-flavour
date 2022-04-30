@@ -10,7 +10,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** (Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97
+- **Main Files:** (Part 1) SSE Engine Fixes for 1.6.xxx
 
 #### Preloader
 
@@ -301,7 +301,7 @@ If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WA
 
 #### Download Instructions
 
-- **Main Files:** FixNotesForSkyUI SKSE64 2.0.17 and 2.0.19
+- **Main Files:** FixNotesForSkyUI Skyrim AE
 
 ##### [SkyUI Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
 
@@ -314,6 +314,18 @@ If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WA
 #### Download Instructions
 
 - **Main Files:** SkyUI Weapons Pack SE 1.3
+
+##### [QUI](nexusmods.com/skyrimspecialedition/mods/65343?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** QUI-AE
+
+#### Configuration Instructions
+
+- Double-click **QUI** in your mod order.
+- Switch to the **Text Files** tab and select the **QUI.toml**.
+- In **Line 15**, change `KeyboardToggle =` to `66 # F8`.
 
 ##### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files)
 
@@ -331,7 +343,7 @@ If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WA
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.43
+* **Main Files:** More Informative Console 0.43 AE Edition
 
 ##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 

@@ -24,35 +24,6 @@ It should look like this:
 
 ![Vanilla Stock Game](/Pictures/tpf/initial-setup/vanilla-stock-game.png)
 
-## Downgrading to pre-AE
-
-Because the Script Extender and certain other mods are version dependent, you must run a specific version of Skyrim SE. In the post-Anniversary Edition age of Skyrim modding, we are going to be running the last pre-AE patch of Skyrim SE, `1.5.97.0`, so we can use the version of SKSE that all mods are compatible with.
-
-You can check your current Skyrim SE version number by going into the Properties for the **SkyrimSE.exe**, the main executable.
-
-- Right-click **SkyrimSE.exe** in your **Stock Game** folder and select **Properties**.
-- Switch to the **Details** tab and check under **Product version**.
-
-![Skyrim SE 1.6.323.0](/Pictures/tpf/initial-setup/skyrim-se-1-6-323-0.png)
-
-### Downgrade Patcher
-
-In order to revert to the last pre-AE version of Skyrim SE, `1.5.97.0`, we will be using Halgari's downgrade patcher.
-
-- Open the [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) Nexus page.
-- Click the **Manual Download** button for the **Patcher.exe** main file.
-- I recommend saving the executable to a new folder within `\Your Modding Folder\Tools\`.
-
-Once the patcher is fully downloaded, double-click the executable to run it.
-
-- Click **OK** if the patcher could not locate SSE automatically.
-- Click the folder icon under **Game Location** and navigate to your **Stock Game** folder.
-- Double-click the **SkyrimSE.exe** and click **Start Patching**.
-
-The process will take a few minutes. Wait until the tool has finished before you proceed.
-
-If you check the **SkyrimSE.exe** now, it should be back to version `1.5.97.0`.
-
 ## Optimised Textures
 
 The Stock Game folder, while brilliant, requires an extra ~13GB of space since it is a full copy of the base game. Thankfully we can replace the texture BSAs with optimised ones which will reduce the folder's size by about 5GB. Since TPF's texture replacers cover (almost) all textures anyway, having (very slightly) reduced quality versions of the vanilla textures makes no difference whatsoever.

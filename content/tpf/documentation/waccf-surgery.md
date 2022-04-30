@@ -19,6 +19,7 @@ For the longest time, I accepted the headache that WACCF causes with its sweepin
 - **Most Constructible Objects (crafting recipes).** These are already covered sufficiently by Simple Smithing Overhaul Simplified.
 - **Proper activators for BYOH weapon displays.** Using the [original mod](https://www.nexusmods.com/skyrimspecialedition/mods/3622) that was merged into WACCF instead.
 - **Bugs in Jars being giftable to adopted children.** Yes, this is very minor. I removed it though.
+- **Wear circlets and hoods.** WACCF allows you to equip circlets while wearing a hood which I removed. It would allow you to wear an additional enchanted item, something that isn't possible with helmets. Making the player choose between hood and circlet is intentional in vanilla for balancing enchantments.
 
 ## Remaining Features
 
@@ -81,3 +82,34 @@ The `meshes\potions\` folder is a special case - it's in the wrong directory (it
 - `textures\ccor\`
 - `textures\clothes\executioner\`
 - `textures\clothes\wench\`
+
+
+
+Hoods and robes are not particularly consistent.
+
+Regular robes are present in non-enchanted versions only.
+Black Mage Robes and Necromancer Robes are present in unenchanted and enchanted versions.
+--- Enchantments: 5 schools of magic + magicka rate for each tier (01-04)
+Black Cowl is present in unenchanted and enchanted versions.
+--- Enchantments: magicka + magicka rate for each tier (01-04)
+
+
+
+
+COLLEGE ROBES
+- Enchanted college robes: "Novice Robe of Destruction" with unique textures per school via ACE
+- Unenchanted college robes:
+=== Common (vanilla Novice)
+=== Embroidered (vanilla Apprentice)
+=== Embellished (vanilla Adept)
+=== Fine (vanilla Expert)
+=== Ornate (vanilla Master)
+
+
+
+College Robes: Magicka 
+
+
+## ACE Surgery
+
+- College Robes with Regeneration enchantments are no longer enchanted in Thaumaturgy. They do have unique textures with ACE though.

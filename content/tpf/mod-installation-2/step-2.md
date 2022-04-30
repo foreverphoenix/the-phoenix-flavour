@@ -194,9 +194,10 @@ description: >
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
-  - `\textures\architecture\`
+  - `textures\architecture\`
+  - `meshes\clutter\potions\`
 
-> Includes pelt textures also present PELTAPALOOZA, a mod that will be installed later on.
+> Includes pelt textures also present PELTAPALOOZA, a mod that will be installed later on. The torpor.nif should be provided by Fixed Mesh Lighting.
 
 ##### [Unofficial Material Fix - High Poly Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 
