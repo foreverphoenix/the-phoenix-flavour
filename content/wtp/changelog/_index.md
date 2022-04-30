@@ -8,18 +8,22 @@ description: >
 
 ## Release 2.3.3
 
-> TBD
+> 30/04/2022
 
-Tiny little update. Yes, it's save-safe.
+Small update. Yes, it's save-safe.
 
 #### Mod Changes
 
 - Added DiamondTheWall Retexture (packed into a BA2)
+- Added CC's UHD UFO 4K (packed into a BA2)
 - Added Cathedral Asset Optimizer (irrelevant for users)
+- Updated Cola Cars Overboss Fix to 1.2
+- Updated Laser Weapons 1st Person Reposition to 1.5.2
 - Updated Wetness Shader Fix to 3.5
-- Updated Workshop Framework to 2.1.0
-- Updated Configurable Hotkeys to 5.1
-- Updated Previsibines Repair Pack to 0.57.5
+- Updated Workshop Framework to 2.2.0
+- Updated Fallout 4 Ultimate Window Overhaul to 3.2
+- Updated Configurable Hotkeys to 6
+- Updated Previsibines Repair Pack to 0.59.5
 
 ## Release 2.3.2
 
