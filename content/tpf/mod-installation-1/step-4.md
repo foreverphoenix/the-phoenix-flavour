@@ -200,6 +200,12 @@ ESL-ify **ChargeDialogueFix.esp** with SSEEdit ([instructions](/tpf/guide-resour
 
 - **Main Files:** Modern Clap Bug Fix
 
+##### [Critter Spawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Critter Spawn Congestion Fix
+
 ##### [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331?tab=files)
 
 #### Download Instructions

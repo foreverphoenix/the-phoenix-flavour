@@ -159,6 +159,18 @@ Edit the following files:
 - Right-click the **1024** folder inside and select **Set as \<data> directory**.
 - Click **OK** to install the mod.
 
+##### [Overlooked Dungeon Objects Retextures](https://www.nexusmods.com/skyrimspecialedition/mods/66418?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Overlooked Dungeon Objects Retextures - 2K
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\clutter\nightingaleclutter01.dds`
+  - `textures\clutter\nightingaleclutter01_n.dds`
+
 ---
 
 #### Continue with the [Clutter](/tpf/mod-installation-3/step-5/) page.

@@ -157,6 +157,22 @@ description: >
 
 - Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
 
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+##### [Upgraded Werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/67260?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Upgraded Werewolf
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\`
+
 ##### [HD Reworked Bears 4K](https://www.nexusmods.com/skyrimspecialedition/mods/41028?tab=files)
 
 #### Download Instructions

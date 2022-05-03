@@ -6,7 +6,7 @@ description: >
   Retextures for unique objects and treasures.
 ---
 
-##### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545?tab=files)
+##### <i class="fas fa-asterisk"></i> [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545?tab=files)
 
 #### Download Instructions
 
@@ -286,21 +286,23 @@ Edit the following files:
 
 - **Optional Files:** Particle Lights For ENB SE - Bugs in a Jar - Vanilla Values - No Dirt
 
+##### [Cork Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cork Retexture
+
 ##### [Bust of the Gray Fox](https://www.nexusmods.com/skyrimspecialedition/mods/45595?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Gray Fox Bust 2K
 
-##### [Honningbrew Decanter](https://www.nexusmods.com/skyrimspecialedition/mods/53042?tab=files)
+##### [Honningbrew Decanter Redone](https://www.nexusmods.com/skyrimspecialedition/mods/67212?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Honningbrew Decanter - 4K
-
-#### Additional Instructions
-
-- Downsize the mod's textures with **Cathedral Assets Optimiser** ([instructions](/tpf/guide-resources/basic-instructions/#downsizing-textures)).
+- **Main Files:** Honningbrew Decanter Redone - 1K
 
 ##### [Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files)
 
@@ -329,6 +331,13 @@ The mod's plugin edits a few records that are also affected by WACCF and the USS
 - Forward the keyword and weight changes into **PraedysSkulls.esp**.
 - Also forward the USSEP keyword in the **Non-Player Character (Actor)** record.
 - Close SSEEdit and click **OK** to save your changes.
+
+##### [Awesome Sigil Stones](https://www.nexusmods.com/skyrimspecialedition/mods/67112?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Awesome Sigil Stones - 1k Glowmap
+- **Optional Files:** Awesome Sigil Stones - ENB Light PATCH >> `merge with the main file`
 
 ##### [Draw Knife Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/45548?tab=files)
 

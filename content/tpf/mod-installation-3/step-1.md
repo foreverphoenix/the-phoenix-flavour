@@ -105,6 +105,13 @@ description: >
 
 > I prefer NobleSkyrim's texture for the gate.
 
+##### [Solitude Roof Texture Swap](https://www.nexusmods.com/skyrimspecialedition/mods/67039?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Solitude Roof Texture Swap
+- **Optional Files:** Patch for Skyrim Partical Patch for ENB >> `merge with the main file`
+
 ##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 
 #### Download Instructions

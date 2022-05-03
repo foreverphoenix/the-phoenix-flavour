@@ -144,6 +144,6 @@ description: >
 #### FOMOD Instructions
 
 - **Addons:**
-  - ~~Armor and Clothing Extension~~
+  - Armor and Clothing Extension
   - ~~Wet and Cold~~
   - ~~Northborn Fur Hoods~~

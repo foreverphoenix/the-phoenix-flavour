@@ -56,6 +56,17 @@ Although you are unlikely to be using the **SkyrimSE.exe** and **SkyrimSELaunche
 
 ![MO2 Update EXEs](/Pictures/tpf/initial-setup/mo2-update-exes.png)
 
+## MO2 Plugins
+
+Mod Organizer 2 is extendable with third-party plugins.
+
+### Crash Log Tools
+
+Crash Log Tools by Parapets improves crash logs created by [a mod](https://www.nexusmods.com/skyrimspecialedition/mods/59596) that will be installed later on.
+
+- Download [Crash Log Tools](https://www.nexusmods.com/skyrimspecialedition/mods/66743?tab=files) from the Nexus (click the **Manual Download** button).
+- Open the archive and extract the folder inside to `\Mod Organizer 2\plugins\`
+
 ## Test Run
 
 Finally we can open Mod Organizer 2 again which should now be using the new Stock Game folder. Let's try launching Skyrim through MO2 to make sure everything was updated correctly.
