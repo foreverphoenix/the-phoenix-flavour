@@ -6,6 +6,28 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.5
+
+#### Mod Changes
+
+- Added Critter Spawn Congestion Fix
+- Added Fixed Mesh Lighting - Rag Mesh Fix
+- Updated Particle Patch for ENB to 1.0.9
+- Updated Assorted Mesh Fixes to 0.50.1
+- Updated Contextual Crosshair to 1.2.0
+- Updated Oxygen Meter 2 to 1.0.5
+- Updated Project Clarity - Creatures Redone to 1.8
+- Updated Simplicity of Snow to 0.6.1
+- Updated College of Winterhold Quest Start Fixes to 0.3.1
+- Updated Cathedral Assets Optimizer to 5.3.13
+
+#### CC Profile
+
+- Updated Curated Curios - A Creation Club Integration Mod to 1.0.2.1
+- Installed the Simplicity of Snow - Nchuanthumz Patch separately
+- Fixed some CC mods not having WABBAJACK_ALWAYS_ENABLE flags (ouch, sorry)
+- Disabled a USSEP-added bed roll blocking a cellar entrance for a CC location
+
 ## Release 2.4
 
 > 16/04/2022
