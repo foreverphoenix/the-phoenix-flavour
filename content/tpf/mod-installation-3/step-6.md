@@ -357,10 +357,6 @@ The mod's plugin edits a few records that are also affected by WACCF and the USS
 
 - **Main Files:** JS Bloodstone Chalice SE - 2k Textures
 
-#### Porting Instructions
-
-- Optimise the mod with **Cathedral Assets Optimizer** ([instructions](/tpf/guide-resources/basic-instructions/#optimising-sle-assets)).
-
 ##### [Paragon Gems HD](https://www.nexusmods.com/skyrimspecialedition/mods/47199?tab=files)
 
 #### Download Instructions

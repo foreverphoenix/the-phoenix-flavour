@@ -222,6 +222,12 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 
 - **Main Files:** Cathedral 3D Mountain Flowers - Base Object Swapper
 
+##### [Cathedral - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral - 3D Thistle
+
 ##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
 #### Download Instructions
@@ -338,13 +344,6 @@ Edit the following files:
 - `meshes\plants\floradeathbell02.nif`
 - `meshes\plants\floranirnroot01.nif`
 - `meshes\plants\floranirnroot01red.nif`
-
-##### [3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/62408?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** 3D Thistle Mesh
-- **Optional Files:** 3D Thistle - No 2D Bulbs Retexture - Vanilla >> `merge with the main file`
 
 ##### [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205?tab=files)
 

@@ -72,7 +72,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Skyrim 3D Misc - Buckets v2
-- **Main Files:** Skyrim 3D Misc - Butterchurn
 - **Main Files:** Skyrim 3D Misc - Dining Set
 - **Main Files:** Skyrim 3D Misc - Giant Mortar and Pestle
 - **Main Files:** Skyrim 3D Misc - Mammoth Cheese

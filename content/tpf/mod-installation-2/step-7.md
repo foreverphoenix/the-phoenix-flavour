@@ -208,7 +208,7 @@ The optional file (mesh fix) can only be downloaded manually.
 
 #### Download Instructions
 
-- **Main Files:** ORCODONTIST - Mouth and Teeth Fix 2k
+- **Main Files:** ORCODONTIST - Mouth and Teeth Fix V2
 
 ##### [Beastly Smiles](https://www.nexusmods.com/skyrimspecialedition/mods/15933?tab=files)
 

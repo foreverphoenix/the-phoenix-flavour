@@ -54,11 +54,26 @@ description: >
   - ~~Tweaked Wet Rock Meshes~~
   - ~~Tweaked Rapid Rock Meshes~~
 
+##### [Majestic Mountains - Double Sided Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/57713?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Majestic Mountains - DoubleSided meshes
+
+> This was originally a patch for DVLaSS which has since been superceded by EVLaSS but both of them need double-sided meshes.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\landscape\mountains\`
+
+> All these meshes are included (with the double-sided flag) in Majestic Mountains - More Accurate Collision.
+
 ##### [Skyrim - A Mountainous Experience](https://www.nexusmods.com/skyrimspecialedition/mods/43866?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Skyrim - A Mountainous Experience
+- **Main Files:** Skyrim - A Mountainous Experience (double-sided)
 
 ##### Flickering Meshes Fix - Mountains Patch
 

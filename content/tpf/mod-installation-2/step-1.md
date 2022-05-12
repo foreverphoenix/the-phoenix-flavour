@@ -21,11 +21,16 @@ description: >
 
 - Delete the following file(s) and/or folder(s):
   - `\meshes\interface\`
-  - `\meshes\plants\hangingelvesear01.nif`
   - `\textures\effects\gradients\gradwhitewater.dds`
   - `Particle Patch for ENB.esp`
 
-> The plugin is not needed, its functionality was replaced by ENB Helper. The mesh in the interface folder will be replaced later on. The hanging elves ear mesh is bugged, all adjacent hanging elves ear plants will switch to harvested state after harvesting one. The texture can cause water spray to look much darker than intended with Realistic Water Two.
+> The plugin is not needed, its functionality was replaced by ENB Helper. The mesh in the interface folder will be replaced later on. The texture can cause water spray to look much darker than intended with Realistic Water Two.
+
+##### [Ghost Pile Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67841?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ghost Pile Fix
 
 ##### [Static Mesh Improvement Mod (SMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files)
 
@@ -73,6 +78,12 @@ description: >
   - Wiseman's Flora Fixes
   - ~~SMIM Quality Add-On~~
 - **Real Rabbits HD:** Shell
+
+##### [SMIM Barrel Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67676?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
 
 ##### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files)
 
@@ -199,6 +210,37 @@ Delete the following file(s) and / or folder(s):
 
 - **Main Files:** Floating Ash Pile Fix
 
+##### [Enhanced Textures Detail (UV-Tweaks)](https://www.nexusmods.com/skyrimspecialedition/mods/992?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Enhanced Textures Detail (UV-Tweaks)
+
+#### FOMOD Instructions
+
+- **Give me all the files!** ~~Install SMIM Conflicting Files~~
+- **SMIM-compatible Installer:**
+  - Mountains and Volcanic Pools
+  - Ore Veins
+  - Dirtcliffs
+- **All of em:** None
+- **Optional Files (SMIM):**
+  - ~~SHD Rocks~~
+  - ~~Reduce light flickering at night~~
+- **Optional Textures:**
+  - ~~Classic Riften Ratway~~
+  - ~~Classic Windhelm~~
+  - ~~Classic Imperial Forts~~
+  - ~~Classic Farmhouses~~
+- **Optional Misc Textures and Normal Maps:** ~~Tree Cut and Firewood Textures~~
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\landscape\mountains\`
+  - `meshes\landscape\tundra\`
+  - `meshes\landscape\unique\`
+
 ##### [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653?tab=files)
 
 #### Download Instructions
@@ -215,12 +257,8 @@ Delete the following file(s) and / or folder(s):
 
 - **Main:** Vanilla Flora
 - **Patches:**
-  - ~~Immersive Fort Dawnguard~~
-  - ~~More Growable Plants~~
-  - ~~Renthal Flora Collection~~
+  - Assorted Mesh Fixes
   - Shrubs of Snow
-  - ~~Simply Bigger Plants~~
-  - ~~Skyrim 2020 by Pfuscher~~
   - Wiseman's Flora Fixes
 - **Beyond Skyrim:** ~~Beyond Skyrim : Bruma~~
 - **JK's Skyrim:** JK's Skyrim
@@ -238,65 +276,42 @@ Delete the following file(s) and / or folder(s):
 
 - **Main:** None
 - **Patches:**
-  - ~~Ancient Trees of Skyrim~~
   - Assorted Mesh Fixes
-  - ~~Beyond Skyrim : Bruma~~
   - Dlizzio's Mesh Fixes
-  - ~~HD Dead Trees and Driftwood~~
-  - ~~Reach Trees Enhanced~~
-  - ~~Realistic Aspen Trees~~
-  - ~~Sacred Trees~~
-  - ~~Simply Bigger Trees~~
-  - ~~Simply Bigger Realistic Aspen Trees~~
-  - ~~Skyrim Flora Overhaul~~
   - SMIM
-  - ~~UV-Tweaks~~
 
 **Page 4**
 
 - **Patches:**
   - Arctic
-  - ~~Beyond Skyrim : Bruma~~
-  - ~~Capital Windhelm Expansion~~
   - Dlizzio's Mesh Fixes
   - Landscape and water fixes
   - Unofficial Material Fix
-- **Ice Replacer:**
-  - ~~Glacierslab~~
-  - ~~Glacierslab Bumpy Chiseled~~
-  - ~~Northern Ice~~
-  - ~~Northern Ice without Ice Floes~~
-  - ~~Real Ice and Snow~~
-  - Remastered Glaciers and Ice
+- **Ice Replacer:** Remastered Glaciers and Ice
 
 **Page 5**
 
 - **Patches:**
-  - ~~Bears of the North~~
-  - ~~Bears of the North - COTN Winterhold~~
-  - ~~Beyond Skyrim : Bruma~~
   - Cities of the North - Winterhold
-  - ~~Dawn of Skyrim~~
-  - ~~Dynamic Things Alterntive~~
-  - ~~Expanded Towns and Cities~~
   - Grahl
   - HD Goat
   - HD Highlandcow
   - HD Skeever
-  - ~~Savage Skyrim~~
   - Skeleton Replacer HD
-  - ~~SkyTEST~~
-  - ~~TESO Imports~~
-  - ~~Uderfrykte~~
   - Unique Barbas
 
 **Page 6**
 
 - **Bee Hives:** Vanilla
-- **Hagraven:** Vanilla
+- **Hagraven:**
+  - Vanilla
+  - Static Mesh Improvement Mod Improvement Mod
+  - Unofficial Material Fix
 - **Potions:**
   - Vanilla
   - High Poly Project
+- **Rag:** Vanilla
+- **Effects:** Vanilla
 
 > Many of the patches selected here correspond to mods we have not installed yet. However, these mods will have instructions for removing conflicting assets so that Fixed Mesh Lightning takes priority wherever necessary.
 

@@ -122,7 +122,7 @@ description: >
 
 #### Download Instructions
 
-- **Main Files:** Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)
+- **Main Files:** Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)
 
 #### Additional Instructions
 

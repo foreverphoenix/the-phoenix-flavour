@@ -121,6 +121,13 @@ description: >
 
 - **Main Files:** Wyrm Tamer
 
+##### [Take A Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Take A Peek (AE)
+- **Optional Files:** Auto Input Switch Patch >> `merge with the main file`
+
 ##### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256?tab=files)
 
 #### Download Instructions
