@@ -8,18 +8,25 @@ description: >
 
 ## Release 2.5
 
+> TBD
+
 #### Mod Changes
 
+- Added Ghost Pile Seam Fix
 - Added Critter Spawn Congestion Fix
-- Added Fixed Mesh Lighting - Rag Mesh Fix
+- Added Embers HD
 - Updated Particle Patch for ENB to 1.0.9
-- Updated Assorted Mesh Fixes to 0.50.1
+- Updated DynDOLOD Resources to 3 Alpha 26
+- Updated Assorted Mesh Fixes to 0.54
+- Updated Fixed Mesh Lighting to 1.7.6
 - Updated Contextual Crosshair to 1.2.0
 - Updated Oxygen Meter 2 to 1.0.5
 - Updated Project Clarity - Creatures Redone to 1.8
+- Updated Project Clarity - Effects Textures Redone to 3.2
 - Updated Simplicity of Snow to 0.6.1
 - Updated College of Winterhold Quest Start Fixes to 0.3.1
 - Updated Cathedral Assets Optimizer to 5.3.13
+- Updated ENB binaries to 0.475 (only relevant if you are using Truth ENB)
 
 #### CC Profile
 
