@@ -209,6 +209,12 @@ Step 2:
 - **Main Files:** Misc Effects ENB Light
 - **Optional Files:** Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons
 
+##### <i class="fas fa-lightbulb"></i> [Particle Lights for ENB - Ice Torches](https://www.nexusmods.com/skyrimspecialedition/mods/67663?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Particle Lights for ENB - Ice Torches
+
 ---
 
 #### Continue with the [Landscape](/tpf/mod-installation-2/step-5/) page.

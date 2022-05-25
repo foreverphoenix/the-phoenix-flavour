@@ -147,11 +147,42 @@ description: >
 
 - **Main Files:** 3D Whiterun Trellis v1.1
 
+##### [3D Whiterun Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67700?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Whiterun - 3D Trellis Expansion - Metal Trellis
+
 ##### [3D Solitude Market Trellis](https://www.nexusmods.com/skyrimspecialedition/mods/42472?tab=files)
 
 #### Download Instructions
 
 * **Main Files:** 3D Solitude Market Trellis
+
+##### [3D Solitude Market Trellis Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67818?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** 3D Solitude Market Trellis Expansion
+
+##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Windhelm Ground Meshes
+
+##### [Sconces of Skyrim - Markarth Braziers Improved](https://www.nexusmods.com/skyrimspecialedition/mods/67386?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Markarth Braziers Improved
+
+##### [Solitude Roof Texture Swap](https://www.nexusmods.com/skyrimspecialedition/mods/67039?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Solitude Roof Texture Swap
+- **Optional Files:** Patch for Skyrim Partical Patch for ENB >> `merge with the main file`
 
 ##### [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762?tab=files)
 
@@ -159,11 +190,36 @@ description: >
 
 - **Main Files:** Stones of Solitude - Better Blended Rock Piles
 
-##### [Better Windhelm Ground Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/42746?tab=files)
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+
+##### [Stones of Solitude - Majestic Mountains Patch](https://www.nexusmods.com/skyrimspecialedition/mods/68007?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Better Windhelm Ground Meshes
+- **Main Files:** Stones of Solitude - MM patch
+
+#### FOMOD Instructions
+
+- **Version:** Regular
+
+##### [FYX - 3D Solitude SighPost](https://www.nexusmods.com/skyrimspecialedition/mods/68048?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** FYX - 3D Solitude SighPost - DockRopes
+
+##### [Solitude Objects SMIMed - Festival Ropes](https://www.nexusmods.com/skyrimspecialedition/mods/68115?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Solitude Objects SMIMed - festival ropes
+
+#### FOMOD Instructions
+
+- **Texture Options:** Dock Ropes
 
 ##### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files)
 

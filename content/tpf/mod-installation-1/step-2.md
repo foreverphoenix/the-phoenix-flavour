@@ -343,7 +343,7 @@ If you now check the file size of the `\Mod Organizer 2\mods\WACCF Assets for WA
 
 #### Download Instructions
 
-* **Main Files:** More Informative Console 0.43 AE Edition
+* **Main Files:** More Informative Console 1.0 AE
 
 ##### [Dear Diary - Better More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/46437?tab=files)
 

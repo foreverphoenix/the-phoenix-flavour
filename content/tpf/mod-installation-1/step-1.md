@@ -205,7 +205,7 @@ Step 2:
 #### Installation Instructions
 
 - After installing the mod from the **Downloads** pane, right-click it in the mod order and select **Open in Explorer**.
-- Create two new folders `\Plugins\Sumwunn\` and move all files from the top level folder into the `\Sumwunn'` folder.
+- Create two new folders `\Plugins\Sumwunn\` and move all files from the top level folder into the `\Sumwunn\` folder.
 
 ![Keyboard Shortcuts Fix](/Pictures/tpf/mod-installation/keyboard-shortcuts-fix.png)
 

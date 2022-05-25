@@ -205,9 +205,11 @@ description: >
   - ~~Invisible Mountain Slope Fix~~
 - **Tree Patches:**
   - ~~Aspen Realism~~
-  - Happy Little Trees
+  - ~~Happy Little Trees~~
 - **Other Patches:**
   - ~~Fixed Mesh Lighting~~
+
+> The Happy Little Trees patch is not needed for the pines-only version of the mod which TPF uses.
 
 ##### [Four Seasons - Faster Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/64286/?tab=files)
 

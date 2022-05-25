@@ -65,6 +65,10 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 
 - **Optional Files:** Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Lock Variations
 
+#### BAIN Instructions
+
+- Make sure only **2K** is selected and click **OK**.
+
 ##### [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files)
 
 #### Download Instructions
@@ -85,6 +89,16 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 
 - **Textures:** 2K Textures
 
+##### [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Regional Locks
+
+#### BAIN Instructions
+
+- Make sure only **2K** is selected and click **OK**.
+
 ##### [Gemstone Replacers HD](https://www.nexusmods.com/skyrimspecialedition/mods/46531?tab=files)
 
 #### Download Instructions
@@ -97,6 +111,16 @@ The key textures are currently a mix of 2K and 4K which is far too big for items
 
 - **Options:** With Unique Gems Option 1 ISC
 - **Resources:** ~~UniqueGems Damaged Versions~~
+
+##### [Ancient Dwemer Metal - Gemstones Replacer Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Doownload Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - Gemstones Replacers HD SE
+
+#### BAIN Instructions
+
+- Make sure only **1K** is selected and click **OK**.
 
 ##### [Gemling Queen Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files)
 
@@ -253,6 +277,33 @@ Edit the following files:
 #### Download Instructions
 
 - **Main Files:** White Phial Replacer SE
+
+##### [JS Essence Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/66578?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Essence Extractor SE - 2k Textures
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\EssenceExtractor\extractor_d.dds`
+  - `textures\johnskyrim\EssenceExtractor\extractor_e.dds`
+
+##### [Ancient Dwemer Metal - JS Essence Extractor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Essence Extractor SE
+
+#### BAIN Instructions
+
+- Make sure only **1K** is selected and click **OK**.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\EssenceExtractor\extractor_e.dds`
 
 ##### [RUSTIC ELDERSCROLL](https://www.nexusmods.com/skyrimspecialedition/mods/17757?tab=files)
 

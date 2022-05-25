@@ -171,10 +171,16 @@ You can disable comments that turned into memes ("no lollygagging", "someone sto
 #### Additional Instructions
 
 - Double-click **NPCs Wear Amulets of Mara** in your mod order and switch to the **INI files** tab.
-- In the **NPCs_Wear_Amulets_Of_Mara_DISTR.ini**, change the `25` at the end of the line to `5`.
+- In the **NPCs_Wear_Amulets_Of_Mara_DISTR.ini**, change the `25` at the end of the line to `10`.
 - Save your changes and close the window.
 
-> A 5% chance for an NPC to be looking for a spouse seems more reasonable to me than 25%.
+> A 10% chance for an NPC to be looking for a spouse seems more reasonable to me than 25%.
+
+##### [Immersive Rejections](https://www.nexusmods.com/skyrimspecialedition/mods/67930?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Immersive Rejections
 
 ##### [Adopt Aventus Aretino](https://www.nexusmods.com/skyrimspecialedition/mods/3257?tab=files)
 

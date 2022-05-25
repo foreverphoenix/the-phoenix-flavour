@@ -205,6 +205,60 @@ The mod requires a plugin to assign a unique mesh to Torygg's horn. The horn is 
 
 - ESL-ify **Rudy Nordic Pottery SSE.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
+##### [JS Dwemer Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/67631?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Dwemer Artifacts SE - 2k Textures
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures/johnskyrim/Dwemer/clutter/dwemer_e.dds`
+  - `textures/johnskyrim/Dwemer/clutter/set1_d.dds`
+  - `textures/johnskyrim/Dwemer/clutter/set2_d.dds`
+  - `textures/johnskyrim/Dwemer/clutter/set3_d.dds`
+
+##### [Ancient Dwemer Metal - JS Dwemer Artifacts Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Dwemer Artifacts SE
+
+#### BAIN Instructions
+
+- Make sure only **2K** is checked and click **OK**.
+
+##### [JS Dwemer Kitchenware](https://www.nexusmods.com/skyrimspecialedition/mods/67026?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Dwemer Kitchenware SE - 2k Textures
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\DwemerKitchenware\bowl_d.dds`
+  - `textures\johnskyrim\DwemerKitchenware\cup_d.dds`
+  - `textures\johnskyrim\DwemerKitchenware\dwemer_e.dds`
+  - `textures\johnskyrim\DwemerKitchenware\plate_d.dds`
+  - `textures\johnskyrim\DwemerKitchenware\pot_d.dds`
+
+##### [Ancient Dwemer Metal - JS Dwemer Kitchenware Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Dwemer Kitchenware SE
+
+#### BAIN Instructions
+
+- Make sure only **1K** is checked and click **OK**.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\DwemerKitchenware\dwemer_e.dds`
+
 ##### [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files)
 
 #### Download Instructions

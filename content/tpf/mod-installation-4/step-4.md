@@ -211,6 +211,12 @@ description: >
 
 - **Main Files:** Silence is Golden
 
+##### [Missing in Action Delayed](https://www.nexusmods.com/skyrimspecialedition/mods/67893?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Delayed Missing in Action - Level 20
+
 ##### [Stones of Barenziah - Alternate Locations](https://www.nexusmods.com/skyrimspecialedition/mods/46689?tab=files)
 
 #### Download Instructions

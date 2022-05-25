@@ -236,6 +236,13 @@ description: >
 
 > While the mod doesn't contain any actual SLE assets, running it through CAO will compress the uncompressed textures to save VRAM.
 
+##### [Creation Club - Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58801?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** CC_Content_Anniversary_Cleaned_and_Upscaled
+- **Update Files:** CC_Content_Anniversary_Cleaned_and_Upscaled_Update
+
 ---
 
 #### Continue with the [Weather & Lighting](/tpf/mod-installation-2/step-3/) page.

@@ -18,7 +18,7 @@ description: >
 
 - **Main Files:** Misc Tweaks - No Starting Spells
 
-#### FOMOD Instructions - No Starting Spells
+#### FOMOD Instructions
 
 - **Plugin:** AI Overhaul Compatible Plugin
 

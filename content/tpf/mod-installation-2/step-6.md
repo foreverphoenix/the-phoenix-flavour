@@ -14,35 +14,8 @@ description: >
 
 #### FOMOD Instructions
 
-- **Trees:** All Trees
+- **Trees:** Pines only
 - **Add on:** ~~Tree size~~
-
-#### Additional Instructions
-
-Happy Little Trees replaces all vanilla trees with differently shaped meshes. In the case of the reach trees this could be a problem as they often have objects placed near them to make them look like they grow from them or are attached to them. The mod does come with fixes for vanilla hanging moss to adjust its position, but any mod-added reach trees with hanging moss, lanterns, etc, would have to be fixed manually. Ultimately it is easier to simply remove the reach trees from Happy Little Trees altogether.
-
-- Run SSEEdit through Mod Organizer 2.
-- Click **OK** in the plugin selection window and wait for everything to be loaded up.
-- Find **HappyLittleTrees.esp** in the left pane and double-click it to expand.
-
-Delete the following **Tree** records:
-
-- `TreeReachTree01Snow`
-- `TreeReachTree01`
-- `TreeReachTree02`
-- `TreeReachCliffTree01`
-- `TreeReachCliffTree02`
-
-![Remove Reach Trees 1](/Pictures/tpf/mod-installation/remove-reach-trees-1.png)
-
-Delete the following **Worldspace** records:
-
-- `Tamriel\Block -2, 0`
-- `Tamriel\Block -2, -1`
-
-![Remove Reach Trees 2](/Pictures/tpf/mod-installation/remove-reach-trees-2.png)
-
-**Close SSEEdit and click OK to save your changes.**
 
 ##### [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907?tab=files)
 
@@ -53,11 +26,67 @@ Delete the following **Worldspace** records:
 #### Additional Instructions
 
 - Delete the following file(s) and / or folder(s):
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\DLC1TreeWinterAspenSnow01_4EAF2DFF_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\DLC1TreeWinterAspenSnow03_47EF0D24_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\Marshtree02_BDE6F4F7_trunk.nif`
   - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\reachclifftree02_4E6D0A9B_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\treeaspen01_F86510C6_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\treeaspen02_64C1A634_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\treeaspen03_3B7BCFD0_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\treeaspen06_AC7E2685_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\treereachtree01magic_43484607_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\tundradriftwood01_E4D3845D_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\Winteraspen01_7F02500C_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\Winteraspen02_061B0A96_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\Winteraspen03_B2FF535B_trunk.nif`
+  - `DynDOLOD\Render\Billboard\DynDOLOD\lod\trees\Winteraspen06_523F2619_trunk.nif`
+  - `meshes\DynDOLOD\lod\trees\DLC1TreeWinterAspenSnow01_4EAF2DFFpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\DLC1TreeWinterAspenSnow03_47EF0D24passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\DLC1TreeWinterAspenSnow05_passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\dlc2treepineforeststump01ash_E8DE4E09passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Marshtree01_0F943E32passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Marshtree02_BDE6F4F7passthru_lod.nif`
   - `meshes\DynDOLOD\lod\trees\reachclifftree01_E22672EEpassthru_lod.nif`
   - `meshes\DynDOLOD\lod\trees\reachclifftree02_4E6D0A9Bpassthru_lod.nif`
   - `meshes\DynDOLOD\lod\trees\reachtree01_6FF04C1Fpassthru_lod.nif`
   - `meshes\DynDOLOD\lod\trees\reachtree02_0E872331passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen01_F86510C6passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen02_64C1A634passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen03_3B7BCFD0passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen04_7756228Dpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen05_FE42E096passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treeaspen06_AC7E2685passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\treereachtree01magic_43484607passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\tundradriftwood01_E4D3845Dpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\tundradriftwood02_9DA4B89Dpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\winteraspen01_7F02500Cpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Winteraspen02_061B0A96passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Winteraspen03_B2FF535Bpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Winteraspen04_ACC6884Apassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Winteraspen05_0781F746passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\Winteraspen06_523F2619passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\wrtempletree01_D50DE0F6passthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\wrtempletree02_65946F5Fpassthru_lod.nif`
+  - `meshes\DynDOLOD\lod\trees\wrtempletreesapling01_922E9561passthru_lod.nif`
+
+##### [Seasonal Aspen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Seasonal Aspen Trees
+- **Optional Files:** Shrubs of Snow patch
+- **Optional Files:** Turn of the Seasons patch
+
+#### FOMOD Instructions
+
+- **Textures:** 4K Textures >> `choose 2K if you have less than 6GB of VRAM`
+- **Bark:** Vanilla Bark Textures
+
+##### [Aspen Bark HQ Variants](https://www.nexusmods.com/skyrimspecialedition/mods/51992?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Aspen 4K
 
 ##### [Reach Trees Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/52614?tab=files)
 
@@ -208,6 +237,7 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 - **Main Files:** Cathedral - 3D Mountain Flowers
+- **Main Files:** Hearthfire Patch
 
 #### Additional Instructions
 
@@ -227,6 +257,18 @@ In addition to adding new types of grass, Folkvangr also makes a number of lands
 #### Download Instructions
 
 - **Main Files:** Cathedral - 3D Thistle
+
+##### [Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral - 3D Lavender - Vanilla Size
+
+##### [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Cathedral - 3D Tundra Cotton
 
 ##### [Skyrim High Poly Fern Meshes](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499)
 
@@ -362,6 +404,12 @@ Edit the following files:
 #### Download Instructions
 
 * **Main Files:** Realistic HD Mushrooms Remastered
+
+##### [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Better Blended Mushrooms
 
 ##### [Rudy HQ - More Lights for ENB - Glowing Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40991?tab=files)
 

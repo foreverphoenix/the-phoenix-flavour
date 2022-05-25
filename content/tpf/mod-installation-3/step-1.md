@@ -105,18 +105,23 @@ description: >
 
 > I prefer NobleSkyrim's texture for the gate.
 
-##### [Solitude Roof Texture Swap](https://www.nexusmods.com/skyrimspecialedition/mods/67039?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Solitude Roof Texture Swap
-- **Optional Files:** Patch for Skyrim Partical Patch for ENB >> `merge with the main file`
-
 ##### [Unofficial Material Fix - Stone Solitude Castle Floor](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files)
 
 #### Download Instructions
 
 - **Optional Files:** Unofficial Material Fix - Stone Solitude Castle Floor
+
+##### [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Skyland - Markarth
+
+##### [Ancient Dwemer Metal - Skyland Markarth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - Skyland Markarth Patch
 
 ##### [Unique Markarth Doors](https://www.nexusmods.com/skyrimspecialedition/mods/62969?tab=files)
 
@@ -146,24 +151,6 @@ description: >
 #### Download Instructions
 
 - **Main Files:** Skyrim 3D Misc - Winterhold Gate
-
-##### [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Skyland - Markarth
-
-##### [Ancient Dwemer Metal - Skyland Markarth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Ancient Dwemer Metal - My patches - Skyland Markarth
-
-#### Additional Instructions
-
-- Delete the following file(s) and / or folder(s):
-
-![Ancient Skyland Delete](/Pictures/tpf/mod-installation/ancient-skyland-delete.png)
 
 ##### [Raven Rock Building Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53962?tab=files)
 

@@ -82,6 +82,12 @@ description: >
 - **Imperial Fort Wells:** Imperial Fort Wells (No Parallax)
 - **Generic Mine Wells:** Generic Mine Wells (No Parallax)
 
+##### [FYX - Smooth Wells](https://www.nexusmods.com/skyrimspecialedition/mods/66715?tab=files)
+
+#### Download Intructions
+
+- **Main Files:** FYX - Smooth Wells - Water in Wells
+
 ##### [Rudy HQ - Hay](https://www.nexusmods.com/skyrimspecialedition/mods/25125?tab=files)
 
 #### Download Instructions

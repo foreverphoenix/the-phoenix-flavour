@@ -12,7 +12,6 @@ description: >
 
 - **Main Files:** Modular Armory
 - **Optional Files:** Modular Armory - Practical Female Armors Meshes
-- **Optional Files:** Modular Armory - Unique Nettlebane
 - **Optional Files:** Modular Armory - Unique Zephyr
 
 #### FOMOD Instructions - Main File
@@ -44,7 +43,7 @@ description: >
   - Ancient Draugr Armor and Weapons
 - **Advanced Sets:**
   - ~~Falmer Armor and Weapons~~
-  - Dwarven Armor and Weapons
+  - ~~Dwarven Armor and Weapons~~
   - Elven Armor and Weapons
   - Orcish Armor and Weapons
 - **Rare Sets:**
@@ -67,8 +66,8 @@ description: >
   - Savior's Hide
   - Tsun's Armor
 - **Dwarven:**
-  - Keening
-  - Aetherial Set
+  - ~~Keening~~
+  - ~~Aetherial Set~~
   - Black Bow of Fate
 - **Daedric:**
   - Mehrunes' Razor
@@ -238,7 +237,7 @@ description: >
 - **Dragonbone:**
   - Dragonbone Weapons
   - ~~Dragonbone Greatsword Sheath~~
-  - Dragonbone Quiver
+  - ~~Dragonbone Quiver~~
 - **Stalhrim:**
   - ~~Stalhrim weapons~~
   - ~~Stalhrim Sword Dagger Sheath~~
@@ -278,6 +277,30 @@ description: >
 
 - **Left-hand Meshes:**
   - No Dual Sheath
+
+##### [ElSopa - Quivers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/65921?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ElSopa - Quivers Redone 2k SE
+- **Update Files:** ElSopa - Quivers Redone HOTFIX 2k >> `merge with the main file`
+
+##### [Misc Effects ENB Light - ElSopa Quivers Redone Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Misc Effects ENB Light - ElSopa Quivers Redone
+
+##### [Ancient Dwemer Metal - ElSopa Quivers Redone Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - ElSopa - Quivers Redone SE
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\sopaBronze_e.dds`
 
 ##### [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files)
 
@@ -370,18 +393,6 @@ description: >
 * **Main Files:** Frankly HD Dragonbone and Dragonscale 2k
 * **Optional Files:** Frankly HD Dragonbone and Dragonscale - Mesh patch >> `merge with the main file`
 
-##### [Ancient Dwemer Metal - Quiver and Arrows](https://www.nexusmods.com/skyrim/mods/75610?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Ancient Dwemer Metal 2K
-
-#### Additional Instructions
-
-- Delete all files except those shown in the screenshot below:
-
-![Ancient Dwemer Metal Files](/Pictures/tpf/mod-installation/ancient-dwemer-metal-files.png)
-
 ##### [Ancient Amidianborn Dwemer Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files)
 
 #### Download Instructions
@@ -390,40 +401,22 @@ description: >
 
 #### FOMOD Instructions
 
-- **Accent Color:** Green (Markarth Colors)
+- **Accent Color:** Purple (Original Amidianborn)
 - **Fixed Gauntlet Meshes for VR:** ~~Fixed Male Gauntlet Meshes~~
 
-##### [Ancient Dwemer Metal - Patches by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+##### [Ancient Dwemer Metal - No Female Smiling Helmet](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
-- **Update Files:** Ancient Dwemer Metal - My patches - FINAL VERSION Update v4
 - **Optional Files:** Ancient Dwemer Metal - My patches - No Smiling Female Helmet
+
+> Keep the mod page open.
+
+##### [Ancient Dwemer Metal - Spellbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
 - **Optional Files:** Ancient Dwemer Metal - My patches - Spellbreaker
-
-#### Additional Instructions - Main File
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\`
-  - `textures\clutter\`
-  - `textures\dlc01\actors\`
-  - `textures\dlc02\`
-  - `textures\dungeons\`
-  - `textures\smim\`
-
-Rename the mod to "Ancient Dwemer Metal - Patches by Xtudo - Missing Armor and Weapon Textures".
-
-> You can also delete the preview images and readme file.
-
-#### Additional Instructions - Update Files
-
-- Delete the following file(s) and / or folder(s):
-  - `meshes\dungeons\`
-  - `textures\architecture\`
-  - `textures\dungeons\`
-
-Rename the mod to "Ancient Dwemer Metal - Patches by Xtudo - Aetherial Crown and Staff".
 
 ##### [aMidianBorn Matching Armory - Glass Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/41711?tab=files)
 
@@ -455,7 +448,7 @@ Rename the mod to "Ancient Dwemer Metal - Patches by Xtudo - Aetherial Crown and
 #### Download Instructions
 
 * **Main Files:** Stalhrim Refrozen
-* **Miscellaneous Files:** Stalhrim Refrozen - Core Package 2k >> `merge with the main file`
+* **Miscellaneous Files:** Stalhrim Refrozen - Core Package 2k
 
 #### FOMOD Instructions
 
@@ -497,6 +490,27 @@ Rename the mod to "Ancient Dwemer Metal - Patches by Xtudo - Aetherial Crown and
   - ~~Angis Bow - Scoped~~
 - **Smithing Overhauls:**
   - None >> `TPF uses SSOS but not the replica feature so the patch is not needed`
+
+##### [JS Unique Utopia - Daggers](https://www.nexusmods.com/skyrimspecialedition/mods/65394?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Unique Utopia SE - Daggers - 2k Textures
+
+##### [Ancient Dwemer Metal - JS Unique Utopia - Daggers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Unique Utopia - Keening - SE
+
+#### BAIN Instructions
+
+- Make sure only **2K** is selected and click **OK**.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\uniques\_cubes\`
 
 ##### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files)
 

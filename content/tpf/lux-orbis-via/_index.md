@@ -37,7 +37,7 @@ description: >
 
 **Page 2**
 
-- **No Grass In Caves:** No Grass In Caves patch
+- **No Grass In Caves:** ~~No Grass In Caves patch~~
 
 **Page 3**
 
@@ -47,7 +47,10 @@ description: >
 **Page 4**
 
 - **Player Houses:** Simple Player Homes Improvements
-- **Great Villages and Towns:** The Great Village of Mixwater Mill
+- **Great Villages and Towns:**
+  - The Great Village of Mixwater Mill
+  - Kolskeggr Pavo's House compatibility patch
+  - Darkwater Crossing TGC compatibility patch
 - **JK's Skyrim:**
   - JK's Skyrim compatibility patch
 - **Stendarr Rising:** Stendarr Rising compatibility patch
@@ -57,6 +60,8 @@ description: >
   - COTN - Winterhold patch
   - COTN - Falkreath patch
   - COTN JK's Dawnstar compatibility patch
+  - COTN Anga's Mill compatibility patch
+  - COTN Half Moon Mill compatibility patch
 - **Obscure College of Winterhold**
   - OCW compatibility patch
 - **Wyrmstooth:** Wyrmstooth compatibility patch
@@ -66,8 +71,7 @@ description: >
   - EmbersXD compatibility patch
   - Realistic Water Two compatibility patch
   - Audio Overhaul Obsidian Weathers patch
-- **New Gameplay Content:**
-  - Pilgrim compatibility patch
+- **New Gameplay Content:** Pilgrim compatibility patch
 - **Alternate Vanilla Content:** RYFTEN Consistency of Windows compatibility patch
 - **Creation Club Content:**
   - Ghosts of the Tribunal compatibility patch
@@ -91,12 +95,11 @@ description: >
 - **Minor Locations Content:**
   - Inigo compatibility patch
   - Shrine of Sanguine compatibility patch
+  - Lucien compatibility patch
 
 **Page 5**
 
-- **EEK's Whiterun Interiors:** *select none*
-- **Markarth:** ~~Distinct JK's Arnleif and Sons Trading Company patch~~
-- **Solitude:** ~~Great city of JK's Redbag Solitude~~
+- *select nothing*
 
 **Page 6**
 
@@ -104,11 +107,7 @@ description: >
 
 **Page 7**
 
-- **Francais:**
-  - ~~Lux - FR~~
-  - ~~Lux - CRF FR~~
-  - ~~Lux - SoS FR~~
-  - ~~Interesting NPCs Patch FR~~
+- *select nothing*
 
 ##### [High Hrothgar Fixed - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/55254?tab=files)
 
@@ -150,57 +149,6 @@ description: >
   - ~~Not Using SMIM~~
 - **Particle Light Node Color:** Orange Red Particle Light Nodes
 
-##### [Lux - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/60524?tab=description)
-
-#### Download Instructions
-
-- **Main Files:** Lux - Variants
-
-#### FOMOD Instructions
-
-**Page 1**
-
-- **Markarth's Silver Blood Inn:** *select nothing*
-- **Markarth's Understone Keep:** *select nothing*
-- **Riften's Temple of Mara:** *select nothing*
-
-**Page 2**
-
-- **Whiterun's Dragonreach:** None
-
-**Page 3**
-
-- **Vanilla lightweight plugin:** ~~Main vanilla lightweight patch~~
-- **Modded lightweight patches:**
-  - ~~JK's lightweight patches~~
-  - Obscure College lightweight patch
-
-> The OCW lightweight patch supposedly prevents a CTD in the Arcaneum.
-
-##### [Darkwater Crossing - A Great Towns and Villages of Eastmarch Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64393?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Darkwater Crossing - A Great Towns and Villages of Eastmarch - LUX PATCH
-
-##### [Kolskeggr Mine - A Great Towns and Villages of the Reach Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64397?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Kolskeggr Mine - TGC Lux patch
-
-##### [Anga's Mill - Cities of the North Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64422?tab=files)
-
-#### Download Instructions
-
-- **Main Files:** Anga's Mill - Cities of the North Addon - LUX PATCH
-
-##### [Half-Moon Mill - Cities of the North Addon - Lux Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64360?tab=files)
-
-#### Download Instructions
-
-- **Optional Files:** HMM - Lux Patch
-
 ##### [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588?tab=files)
 
 #### Download Instructions
@@ -221,14 +169,8 @@ description: >
 
 **Page 3**
 
-- **New Content patches:** *select none*
-- **Towns Patches:** *select none*
 - **Road Signs Patches:**
-  - ~~Roadsigns Overhaul compatibility patch~~
   - Waymark compatibility patch
-  - ~~Sojourn Over Signposts compatibility patch~~
-- **Player House Patches:** *select none*
-- **Misc Patches:** *select none*
 
 **Page 4**
 
@@ -245,61 +187,35 @@ description: >
 
 **Page 1**
 
-- **Compatibility patches for improved meshes:** Water in Wells compatibility mesh
+- **Compatibility patches for improved meshes:** FYX Smooth Wells and Water in Wells compatibility mesh
 
 **Page 2**
 
 - **Player Houses:** *select none*
 - **Major Hold Cities:**
   - JK's Skyrim compatibility patch
-  - ~~The Great City of Solitude compatibility patch~~
-  - ~~ClefJ Morthal patch~~
-  - ~~ClefJ Winterhold patch~~
   - COTN Falkreath compatibility patch
   - COTN Dawnstar compatibility patch
   - COTN Winterhold compatibility patch
   - COTN Morthal compatibility patch
-  - ~~Capital Windhelm Expansion compatibility patch~~
-  - ~~Capital Whiterun Expansion compatibility patch~~
   - Obscure College of Winterhold compatibility patch
-  - ~~Ultimate College of Winterhold compatibility patch~~
-  - ~~Blue Palace Terrace compatibility patch~~
-  - ~~The Great City of Dawnstar compatibility patch~~
-  - ~~The Great City of Dragon Bridge compatibility patch~~
-  - ~~The Great City of Falkreath compatibility patch~~
-  - ~~The Great City of Morthal compatibility patch~~
-  - ~~The Great City of Rorikstead compatibility patch~~
-  - ~~The Great City of Winterhold compatibility patch~~
-  - ~~Quaint Raven Rock compatibility patch~~
-  - ~~Fortified Whiterun compatibility patch~~
-  - ~~Vargr Whiterun overhaul compatibility patch~~
-  - ~~Blubbo's Whiterun lanterns compatibility patch~~
-  - ~~The Great Cities and Towns compatibility patch~~
-- **Towns and Villages:** *select nothing*
-- **JK's interior patches:** *select nothing*
-- **Schlitzohr:** *select nothing*
-- **Arthmoor:** *select nothing*
+- **Towns and Villages:**
+  - The Great Village of Mixwater Mill compatibility patch
+  - Darkwater Crossing TGC Addon compatibility patch
 - **Minor Locations:**
-  - ~~Azura Shrine Temple compatibility patch~~
-  - ~~High Hrothgar Overhaul compatibility patch~~
-  - ~~City Entrances Overhaul compatibility patch~~
-  - ~~Better Tel Mithryn compatibility patch~~
-  - ~~Greater Saarthal Tweaks and Fixes compatibility patch~~
   - Stendarr Rising compatibility patch
-  - ~~The Stumbling Sabercat compatibility patch~~
-  - ~~Dibellan Baths compatibility patch~~
-  - ~~Divine Elegance compatibility patch~~
-  - ~~Barleydark Farm Reborn compatibility patch~~
-  - ~~Rodryk's Dragon Bridge compatibility patch~~
-- **Points of Interest:** *select nothing*
-- **New Content:**
-  - Wyrmstooth compatibility patch
-  - ~~Moon and Star compatibility patch~~
-  - ~~Wintersun compatibility patch~~
-  - ~~Notice Board compatibility patch~~
-  - ~~Notice Board Better Solstheim compatibility patch~~
-  - ~~3DNPC Compatibility patch~~
-- **Creation Club Content:** ~~Saints and Seducers compatibility patch~~
+  - Shrine of Hircine compatibility patch
+  - Shrine of Mephala compatibility patch
+  - Shrine of Sanguine compatibility patch
+  - Shrine of Sheogorath compatibility patch
+- **New Content:** Wyrmstooth compatibility patch
+- **Creation Club Content:**
+  - ~~Saints and Seducers compatibility patch~~
+  - Arms of Chaos compatibility patch
+  - Bow of Shadow compatibility patch
+  - Lord's Mail compatibility patch
+  - Saturalia compatibility patch
+  - Spell Knight Armor compatibility patch
 - **Misc Mods:** USSEP compatibility patch
 
 **Page 3**
@@ -309,16 +225,11 @@ description: >
   - JK's Skyrim and COTN Morthal patch
   - JK's Skyrim and COTN Winterhold patch
   - JK's Skyrim and COTN Falkreath patch
-- **JK's Skyrim and ClefJ:**
-  - ~~JK's Skyrim and ClefJ Winterhold patch~~
-  - ~~JK's Skyrim and ClefJ Morthal patch~~
-- **JK's and Capital Cities:** ~~JK CWE United patch~~
 
 **Page 4**
 
-- **Clutter Addons:** ~~White Horse Statue~~
+- **Clutter Addons:** *select nothing*
 
-#### Additional Instructions
+**Page 5**
 
-- Delete the following file(s) and / or folder(s):
-  - `meshes\architecture\whiterun\wrterrain\wrskyforge01.nif` >> Whiterun Skyforge - Reforged
+- **Unique Border Gates (manual install):** None

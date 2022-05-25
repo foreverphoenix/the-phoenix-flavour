@@ -101,36 +101,88 @@ description: >
 
 #### Additional Instructions
 
-To avoid blood decals being applied to these meshes, please follow [these instructions](/tpf/guide-resources/various-tutorials/#how-to-add-the-no-decal-flag-to-meshes). It requires some manual editing in NifSkope and can theoretically be skipped.
+- Delete the following file(s) and / or folder(s):
+  - `meshes\clutter\dwemer\`
 
-Edit the following files:
+> The ichor barrel meshes including ENB particle lights are included with the next mod.
 
-- `meshes\clutter\dwemer\dweichorbarrellfull01.nif`
-- `meshes\clutter\dwemer\dweichorbarrellfull02.nif`
-- `meshes\clutter\dwemer\dweichorgoo01.nif`
-- `meshes\clutter\dwemer\dweichorgoo02.nif`
-- `meshes\clutter\quest\da13vinegiantcluster01.nif`
-
-##### [The Dwemer](https://www.nexusmods.com/skyrimspecialedition/mods/49234?tab=files)
+##### [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files)
 
 #### Download Instructions
 
-- **Main Files:** The Dwemer 2K by RGB03
-- **Optional Files:** the Dwemer - Compatibility Patch Pack
+- **Main Files:** Ancient Dwemer Metal 2K
+- **Main Files:** Ancient Automatons 4K >> `merge with the main file`
 
-#### FOMOD Instructions
+#### Additional Instructions
 
-- **Resolution:** 2K
-- **Compatibility patch:**
-  - USSEP
-  - ~~aMidianBorn~~
-  - ~~ELFX~~
-  - Unofficial Material Fix
-  - ENB Particle Lights
-  - Rudy HQ
-  - ~~Dwemer Pipework Reworked~~
-  - ~~Dwemer Pipework Reworked - Darker Option~~
-  - ~~Dwemer Elevator Lights~~
+- Delete the following file(s) and / or folder(s):
+  - `meshes\`
+  - `textures\cubemaps\`
+
+##### [Ancient Dwemer Metal - SSE Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - Converted meshes to SE and AE
+
+> Keep the mod page open.
+
+##### [Ancient Dwemer Metal - Xtudo's Patches](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION
+- **Main Files:** Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION
+- **Update Files:** Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v5
+
+#### Installation Instructions
+
+The first main file can only be downloaded manually.
+
+- Click the **Manual Download** button.
+- Navigate to your downloads folder and click **OK**.
+- Restart Mod Organizer 2 and switch to the **Downloads** pane.
+- Right-click the new file and select **Query Info** (this should work automatically).
+- Install the mod as usual.
+
+##### [JS Dwemer Ichor Barrels](https://www.nexusmods.com/skyrimspecialedition/mods/67162?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Dwemer Ichor Barrels SE - 2k Textures
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures/johnskyrim/Dwemer/Ichor/barrel_d.dds`
+  - `textures/johnskyrim/Dwemer/Ichor/dwemer_e.dds`
+
+##### [Ancient Dwemer Metal - JS Dwemer Ichor Barrels](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Dwemer Ichor Barrels SE
+
+#### BAIN Instructions
+
+- Make sure only **2K** is checked and click **OK**.
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures/johnskyrim/Dwemer/Ichor/dwemer_e.dds`
+
+##### [ENB Particle Lights - Dwemer Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/24108?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** ENB-ParticleLights-DwemerLanterns-1-02
+
+##### [Ancient Dwemer Metal - ENB Particle Lights - Dwemer Lantern Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - ENB Particle Lights - Dwemer Lanterns
 
 ##### [Particle Lights for ENB - Light Orbs](https://www.nexusmods.com/skyrimspecialedition/mods/50737?tab=files)
 

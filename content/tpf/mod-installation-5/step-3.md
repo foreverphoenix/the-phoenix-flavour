@@ -26,6 +26,16 @@ description: >
 
 - **Optional Files:** JK's Skyrim - Towns
 
+##### [FYX - Smooth Wells - JK's Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/67277?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** FYX - Smooth Wells - JK's Skyrim Patch
+
+#### FOMOD Instructions
+
+- **Version:** Water in Wells
+
 ##### CFTO - Fixes and Winterhold - JK's Skyrim Patch
 
 #### Download Instructions
@@ -385,11 +395,22 @@ This file was already downloaded during the main guide. If you deleted the file 
 
 - **Main Files:** COTN Falkreath - RW2 5.0 Patch
 
+##### [FYX - Smooth Wells - COTN Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/66715?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** FYX - Smooth Wells - CotN Falkreath
+
 ##### [Cities of the North - Assorted Mesh Fixes Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62900?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** Cities of the North - Assorted Mesh Fixes Patch
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `meshes/cotn/falkreath/`
 
 ##### [Cities of the North - Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/58559?tab=files)
 

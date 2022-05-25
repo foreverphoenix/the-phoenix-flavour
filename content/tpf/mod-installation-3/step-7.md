@@ -306,6 +306,30 @@ Edit the following files:
 - `meshes\clutter\chauruseggs\eggsacs01.nif`
 - `meshes\clutter\chauruseggs\eggsacs02.nif`
 
+##### [JS Dwarven Oil](https://www.nexusmods.com/skyrimspecialedition/mods/66770?tab=files)
+
+#### Download Instructions
+
+- **Main Files:** JS Dwarven Oil SE - 2k Textures (Leaked Oil Version)
+
+#### Additional Instructions
+
+- Delete the following file(s) and / or folder(s):
+  - `textures\johnskyrim\DwarvenOil\oil_d.dds`
+  - `textures\johnskyrim\DwarvenOil\oil_e.dds`
+
+##### [Ancient Dwemer Metal - JS Dwarven Oil](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+
+#### Download Instructions
+
+- **Optional Files:** Ancient Dwemer Metal - My patches - JS Dwarven Oil SE
+
+#### Installation Instructions
+
+- Double-click the **Leaked Oil** folder.
+- Right-click the **1K** folder and select **Set as \<data> directory**.
+- Click **OK** to install the mod.
+
 ---
 
 #### Continue with the [Apparel & Weapons](/tpf/mod-installation-3/step-8/) page.

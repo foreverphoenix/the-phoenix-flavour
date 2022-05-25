@@ -127,15 +127,11 @@ description: >
 
 - **Optional:** Heartfire Add-on
 
-##### [More Craftable Equipment - Weapons & Armor Overhaul Patch]()
-
-- **Main Files:** ?
-
-##### [More Craftable Equipment - Clothing & Jewelry Overhaul Patch]()
-
-- **Main Files:** ?
-
 ##### [More Craftable Equipment - Simple Smithing Overhaul Patch]()
+
+- **Main Files:** ?
+
+##### [More Craftable Equipment - TPF Patch]()
 
 - **Main Files:** ?
 

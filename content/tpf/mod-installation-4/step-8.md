@@ -95,16 +95,15 @@ description: >
 
 - **Main Files:** ISC - Default Soul Capture SFX
 
-##### [Immersive Sounds Compendium - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files)
+##### [Immersive Sounds Compendium - EBT Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files)
 
 #### Download Instructions
 
 - **Main Files:** ISC Enhanced Blood Textures Patch
-- **Main Files:** ISC Mysticism - A Magic Overhaul Patch
 
 #### Additional Instructions
 
-- ESL-ify **ISC Enhanced Blood Patch.esp** and **ISC Mysticism Patch.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+- ESL-ify **ISC Enhanced Blood Patch.esp** with SSEEdit ([instructions](/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ##### [Improved Weapon Impact Effects Correct Metal - Immersive Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38686?tab=files)
 
