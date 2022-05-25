@@ -6,6 +6,56 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.5
+
+> 25/05/2022
+
+This update is admittedly smaller than I had intended for it to be. Blame it on university having monopolised my time over the past few months (and TPF monopolising it now). I did update a bunch of mods, fix some minor issues, and add support for the following creations:
+
+- Adventurer's Backpack
+- Horse Armor - Elven
+- Horse Armor - Steel
+
+I also integrated the excellent new [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329) which vastly simplifies the process of installing creations for those who own the Anniversary Edition DLC.
+
+#### Mod Changes
+
+- Added Ghost Pile Seam Fix
+- Added Critter Spawn Congestion Fix
+- Added Embers HD
+- Updated More Informative Console to 1.0.1
+- Updated Particle Patch for ENB to 1.0.9
+- Updated DynDOLOD Resources to 3 Alpha 27
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.1
+- Updated Assorted Mesh Fixes to 0.54
+- Updated Fixed Mesh Lighting to 1.8.0
+- Updated Equip Enchantment Fix to 1.3.5
+- Updated Contextual Crosshair to 1.2.0
+- Updated Oxygen Meter 2 to 1.0.5
+- Updated Better Jumping to 1.7.2
+- Updated Project Clarity - Creatures Redone to 1.8
+- Updated Project Clarity - Effects Textures Redone to 3.2.2
+- Updated Simplicity of Snow to 0.6.1
+- Updated College of Winterhold Quest Start Fixes to 0.3.1
+- Updated Cathedral Assets Optimizer to 5.3.13
+- Updated ENB binaries to 0.475 (only relevant if you are using Truth ENB)
+- Updated DynDOLOD to 3 Alpha 92 (did not regenerate LOD)
+
+#### CC Profile
+
+- Added Creation Organizer
+- Added Pack It Up - An Adventurer's Backpack CC Improvement
+- Added CC Horse Armor - No Blacksmith Dialogue
+- Updated Curated Curios - A Creation Club Integration Mod to 1.0.2.1
+- Installed the Simplicity of Snow - Nchuanthumz Patch separately
+- Fixed some CC mods not having WABBAJACK_ALWAYS_ENABLE flags (ouch, sorry)
+- Fixed a duplicate chest at one of the locations from On A Crimson Trail
+- Disabled a USSEP-added bed roll blocking a cellar entrance for a CC location
+
+#### Website
+
+- **Creation Club:** Updated the installation instruction (it's much easier now!)
+
 ## Release 2.4
 
 > 16/04/2022
