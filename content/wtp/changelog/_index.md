@@ -6,6 +6,22 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.4
+
+> TBD
+
+#### Mod Changes
+
+- Added Atom Cats Drag Race Start Fix
+- Added Companion Thoughts Overhaul
+- Added Proctor Teagan Sells BOS Clothing
+- Updated Cathedral Assets Optimizer to 5.3.13
+
+#### Sorting Overhaul
+
+- Added some Nuka World melee weapon paint job options missing in the main INNR record
+- Fixed some insanely difficult to see errors in the scrap tags for three different Lit Cigar records
+
 ## Release 2.3.3
 
 > 30/04/2022
