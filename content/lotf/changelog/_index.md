@@ -6,6 +6,32 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.6
+
+> TBD
+
+- Bittercup
+- The Contest
+- Civil War Champions
+
+#### Mod Changes
+
+- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.5
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.2
+- Updated Assorted Mesh Fixes to 0.56
+- Updated moreHUD to 4.1.1
+- Updated Simplicity of Snow to 0.6.4.1
+- Updated Simple Dual Sheath to 1.5.3
+- Updated DynDOLOD to 3 Alpha 93
+- Flagged one ultrawide patch as WABBAJACK_ALWAYS_ENABLED so it is actually installed for users
+
+#### CC Profile
+
+- Added Fixed Mesh Lighting - Creation Club Backpacks
+- Added Jelidity's Oblivion Style Dwarven Mail Shield for Crimson Trail
+- Added UCCP and Creation Club Misc Patches for the new creations
+- Updated Creation Club Asset Patch to 1.2
+
 ## Release 2.5
 
 > 25/05/2022
