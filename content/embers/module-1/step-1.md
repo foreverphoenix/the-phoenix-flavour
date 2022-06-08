@@ -12,9 +12,9 @@ description: >
 
 There are a number of  notable differences between the various versions of Skyrim that have been released since 2011 which are important to be aware of when modding the game. The most substantial change came in 2016 when the remastered **Skyrim Special Edition** (SSE) was released, featuring a 64bit engine upgrade with far-reaching consequences for the modding community. Most mods created for **Classic Skyrim** (the 2011 version with the 32bit engine) need to be ported before they can be used safely in SSE.
 
-Arguably the most important tool for modding is the **Skyrim Script Extender** (SKSE) which needed a full rewrite for Skyrim SE. Without SKSE, many of the best mods out there will straight up not work. Different versions of SKSE are now available for Classic Skyrim, Skyrim SE, Skyrim VR, and Skyrim AE.
+Among the most important tools for modding is the **Skyrim Script Extender** (SKSE) which needed a full rewrite for Skyrim SE. SKSE is required for many essential mods. Different versions of SKSE are now available for Classic Skyrim, Skyrim SE, and Skyrim VR.
 
-> SKSE is not compatible with the PC Xbox Game Pass version of Skyrim SE; hence, a Steam copy is required.
+> SKSE is not compatible with the Xbox Game Pass version of Skyrim SE; hence, a Steam copy is required.
 
 Although the modding scene for Skyrim SE had a slow start, it has grown massively since 2016. Nowadays, many mods are developed exclusively for SSE and the most exciting new releases are usually exclusive to SSE as well. Due to this and the stability improvements that the engine upgrade provided, SSE is the superior option for modding today.
 
@@ -26,7 +26,7 @@ While currently there are no advantages in using Skyrim SE `1.6.x` (post-AE vers
 
 ## Modding Folder
 
-Before we start messing with the game files, please go ahead and create a modding folder in a convenient location. This folder will hold certain file backups as well as all your downloaded mod archives so it may get rather big. Since the archives are not needed for actual gameplay (they will be unpacked and installed), I recommend storing them on a hard drive where space is not an issue. Any HDD will do.
+Before we start messing with the game files, please go ahead and create a modding folder in a convenient location. This folder will hold certain file backups as well as all your downloaded mod archives so it may get rather big. Since the archives are not needed for actual gameplay (they will be unpacked and installed to a different location), I recommend storing them on a hard drive where space is not an issue. Any HDD will do.
 
 Throughout the guide I will be referring to this folder as **Your Modding Folder**.
 
@@ -39,9 +39,11 @@ Throughout the guide I will be referring to this folder as **Your Modding Folder
 
 Now comes the boring part: We need to make sure your Skyrim SE installation is absolutely pristine and that no traces of previous modding setups remain on your PC. Additionally, we will ensure the game files are located in a suitable location.
 
-**Uninstall Skyrim SE through Steam.** (If you currently have the game installed.)
+If you currently have the game installed: **Uninstall Skyrim SE through Steam.**
 
 ### Mod Files
+
+> Skip this step if you never modded Skyrim SE before.
 
 Navigate to where the game was installed which is probably `C:\Program Files x86\Steam\steamapps\common\`. If there is still a **Skyrim Special Edition** folder in this location after uninstalling the game through Steam, it means you had non-vanilla (meaning mod-added) files in your game folder. These are not removed when uninstalling the game and may get in the way of the **Embers** setup.
 
@@ -71,7 +73,9 @@ Skyrim supports a bunch of different languages natively, but mods do not. Since 
 
 Ultimately, translating any records (and certain textures!) untouched by existing patches plus fixing conflicts between translations and mods will add a hefty amount of work on top of everything else. I do not recommend it, especially not for a beginner.
 
-If your game is currently set to a language other than English, you can change this quickly in Steam. The English files will be downloaded immediately if you have the game currently installed, or the next time you install the game. Please note that an English language copy of Skyrim SE is mandatory for **Embers**.
+If your game is currently set to a language other than English, you can change this quickly in Steam. The English files will be downloaded immediately if you have the game currently installed, or the next time you install the game. 
+
+> An English language copy of Skyrim SE is mandatory for **Embers**.
 
 - Right-click **The Elder Scrolls V: Skyrim Special Edition** in your Steam games library.
 - Select **Properties** and switch to the **Language** tab.
@@ -81,11 +85,11 @@ If your game is currently set to a language other than English, you can change t
 
 ## Installation Directory
 
-In order to prevent various issues down the line, it is highly recommended not to install the game or any tools in **UAC-protected folders** such as `C:\Program Files\` and `C:\Program Files x86\`. UAC-protected folders in Windows are special because they require admin privileges for read/write permissions which can break various modding tools.
+In order to prevent issues down the line, it is highly recommended not to install the game or any tools in **UAC-protected folders** such as `C:\Program Files\` and `C:\Program Files x86\`. UAC-protected folders in Windows are special because they require admin privileges for read/write permissions which can break various modding tools.
 
 Because of this, you will likely have to create a new **Steam Library**.
 
-> Already familiar with Steam Libraries and have one available outside UAC-protected folders? Skip ahead to the next step.
+> Already familiar with Steam Libraries and have one available outside UAC-protected folders? Skip ahead to the "Ideal Directory" step.
 
 ### Steam Library
 
@@ -93,7 +97,7 @@ A **Steam Library** is a directory on your hard drive designated as an installat
 
 The default Steam Library is located inside your Steam installation folder. If you installed Steam itself without specifically changing the installation directory, it will now be located within `C:\Program Files x86\Steam\` and your default Steam Library will be `C:\Program Files x86\Steam\steamapps\common\` - within a UAC-protected folder, exactly where we do not want it to be.
 
-In the Steam settings, any folder on your hard drive can be designated to be a Steam Library. By default, there can only be one Steam Library per hard drive, however, a workaround exists.
+In the Steam settings, any folder on your hard drive can be designated to be a Steam Library. By default, there can only be one Steam Library per hard drive; however, a workaround exists.
 
 ### Ideal Directory
 
@@ -135,20 +139,6 @@ In Steam, click the big green **PLAY** button to open the launcher.
 > If Skyrim is unable to detect your hardware, it’s likely because you have a newer graphics card. You can safely ignore this as we will regenerate INIs from scratch later on.
 
 ![Regenerating INIs](/Pictures/tpf/initial-setup/regenerating-inis.png)
-
-## Creation Club Content
-
-If you own any Creation Club content, through AE or otherwise, it will have been redownloaded along with the base game.
-
-For all intents and purposes, creations are just mods. They can interact with mods and cause the same kind of compatibility issues that mods can cause with each other. You will likely want to pick and choose from them just like you pick and choose your mods.
-
-For now I highly recommend removing the creations from your data folder and backing them up elsewhere. You will be able to reinstall them later on in a much more convenient and controlled fashion.
-
-- Go to **Your Modding Folder** and create a new folder called **Creation Club** within the **Backups** folder.
-- Navigate to `\Steam\steamapps\common\Skyrim Special Edition\Data\`.
-- Move all files beginning with **cc** into the new CC backups folder.
-
-![Creation Club Backup](/Pictures/embers/module-1/creation-club-backup.png)
 
 ---
 
