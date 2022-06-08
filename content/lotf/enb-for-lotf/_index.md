@@ -44,7 +44,7 @@ Install the preset to the LOTF Stock Game folder:
 In order for any ENB preset to work, you also need the binaries which I have included in the LOTF installation. You simply need to move them into the root of your Stock Game folder.
 
 - Navigate to `/Legends of the Frost/Stock Game/ENB Binaries`.
-- Copy all three files into the `/Stock Game/` folder.
+- Copy the INI and DLL files into the `/Stock Game/` folder.
 
 > The **enblocal.ini** contains my personal configuration, including more convenient hotkeys.
 

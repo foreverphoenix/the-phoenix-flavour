@@ -6,9 +6,15 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
-## Release 2.6
+## Release 2.5.1
 
-> TBD
+> 08/06/2022
+
+Here is another smaller update for you guys as we are ever so slowly inching toward full Creation Club support. Of course, we're not quite there yet (check [the spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit#gid=0) to see the progress so far.) If you are running the CC profile, all you need to do to update is run the Creation Organizer again as per the instructions on the [Creation Club](/lotf/creation-club/) page. This will move the new CCs automatically from your data folder into Mod Organizer 2.
+
+As ever, the update is save-safe.
+
+The CC profile now also supports:
 
 - Bittercup
 - The Contest
@@ -16,17 +22,20 @@ description: >
 
 #### Mod Changes
 
-- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.5
+- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.6
+- Added Better Blended Mushrooms
 - Updated Static Mesh Improvement Mod Improvement Mod to 1.4.2
-- Updated Assorted Mesh Fixes to 0.56
+- Updated Assorted Mesh Fixes to 0.59
 - Updated moreHUD to 4.1.1
 - Updated Simplicity of Snow to 0.6.4.1
 - Updated Simple Dual Sheath to 1.5.3
-- Updated DynDOLOD to 3 Alpha 93
+- Updated DynDOLOD to 3 Alpha 94
 - Flagged one ultrawide patch as WABBAJACK_ALWAYS_ENABLED so it is actually installed for users
+- Wabbajack should no longer fail due to missing ENB files
 
 #### CC Profile
 
+- Added Grass Fixes for Creation Club Mods
 - Added Fixed Mesh Lighting - Creation Club Backpacks
 - Added Jelidity's Oblivion Style Dwarven Mail Shield for Crimson Trail
 - Added UCCP and Creation Club Misc Patches for the new creations
