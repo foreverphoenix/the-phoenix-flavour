@@ -8,7 +8,7 @@ description: >
 
 ## Release 2.4
 
-> TBD
+> 17/06/2022
 
 It was recently brought to my attention that some DLC weapons have completely broken names which turned out to have been due to a very silly oversight on my part. This update fixes that, but unfortunately it will not work retroactively. If you already went to Far Harbor and / or Nuka World, any weapons that already generated will have the incorrect names. Sorry about that.
 
