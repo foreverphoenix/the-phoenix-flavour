@@ -6,11 +6,50 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.6
+
+> 28/06/2022
+
+So the USSEP recently updated and, as previously announced, now requires the four free creations (Survival, Fishing, Saints & Seducers, Rare Curios). But not to worry - I cleaned out the dependencies so that the default profile remains free of CC content. However, this development encouraged me to add support for Survival and Fishing to the CC profile which are the big additions of this update.
+
+The CC profile now also supports:
+
+- Survival
+- Campsite
+- Fishing
+- Farming
+
+#### Mod Changes
+
+- Added NIF Preview (irrelevant for users)
+- Added Optimized USSEP Valdr Quest
+- Added Glowing Mushroom Collision Fixes
+- Added Thaumaturgy - Weapon Enchantment XP Tweaks
+- Added Read Or Take SKSE
+- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.7
+- Added HearthFires - Customisable Fertile Soil
+- Updated SKSE (no version change)
+- Updated SSE Display Tweaks to 0.5.10
+- Updated the Unofficial Skyrim Special Edition Patch to 4.2.7
+- Updated Assorted Mesh Fixes to 0.65
+- Updated Major City Mesh Overhaul to 1.2
+
+#### CC Profile
+
+- Added CC Survival Mode - WACCF Patch
+- Added SkyUI - Survival Mode
+- Added Survival Mode Prompt Removed
+- Added Matching CC Draugr Weapons
+- Added Skyrim Landscape and Water Fixes - CC Farming Compatibility Patch
+- Updated the Unofficial Skyrim Creation Club Content Patches to 6.7
+- Reinstalled Creation Club - Misc Patches for the new CCs
+- Reinstalled Terrain Fixes for CC Mods (now using the AIO plugin)
+
 ## Release 2.5.1
 
 > 08/06/2022
 
-Here is another smaller update for you guys as we are ever so slowly inching toward full Creation Club support. Of course, we're not quite there yet (check [the spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit#gid=0) to see the progress so far.) If you are running the CC profile, all you need to do to update is run the Creation Organizer again as per the instructions on the [Creation Club](/lotf/creation-club/) page. This will move the new CCs automatically from your data folder into Mod Organizer 2.
+Here is another smaller update for you guys as we are ever so slowly inching toward full Creation Club support. Of course, we're not quite there yet (check [the spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit#gid=0) to see the progress so far). If you are running the CC profile, all you need to do to update is run the Creation Organizer again as per the instructions on the [Creation Club](/lotf/creation-club/) page. This will move the new CCs automatically from your data folder into Mod Organizer 2.
 
 As ever, the update is save-safe.
 
