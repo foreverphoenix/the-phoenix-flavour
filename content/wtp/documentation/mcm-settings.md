@@ -28,9 +28,14 @@ description: >
 
 ## FallUI Inventory
 
-- Coloring was set to **Green light** for all menus
+- Dual colors was set to **OK** (with white as the primary color)
+- Secondary color was set to **Green light** for all menus
 
-![FallUI Inventory MCM](/Pictures/wtp/documentation/fallui-inventory-mcm.jpg)
+![FallUI Inventory MCM 1](/Pictures/wtp/documentation/fallui-inventory-mcm-1.jpg)
+
+- Go back by Pipboy/cancel key (for submenus) was set to **ON**
+
+![FallUI Inventory MCM 2](/Pictures/wtp/documentation/fallui-inventory-mcm-2.jpg)
 
 ## FallUI Confirm Boxes
 
@@ -48,10 +53,9 @@ description: >
 
 ## FallUI Map
 
+- Local map color **Green light**
 - Max zoom out **0.3**
-- Map marker scale **125**
-
-> These are the recommended settings for 4K map textures which WTP has.
+- Map marker scale **130**
 
 ![FallUI Map MCM](/Pictures/wtp/documentation/fallui-map-mcm.jpg)
 

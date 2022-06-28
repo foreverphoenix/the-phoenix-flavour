@@ -6,6 +6,81 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.4
+
+> 17/06/2022
+
+It was recently brought to my attention that some DLC weapons have completely broken names which turned out to have been due to a very silly oversight on my part. This update fixes that, but unfortunately it will not work retroactively. If you already went to Far Harbor and / or Nuka World, any weapons that already generated will have the incorrect names. Sorry about that.
+
+In other news, I added a few recent releases, mostly adding new snap points to meshes to make settlement building a smoother experience. Syringer ammo is now easier to craft (requiring base ingredients rather than Antifreeze Bottles etc) and will be sorted in their own roll-up (sub) menu in the Aid tab. You can quit accidentally poisoning yourself now.
+
+If you don't want to start a new game for this, you need to manually restart the quest for Diamond City Radio Extended ingame. Open the console and run the following two commands:
+
+```
+stopquest radiodiamondcity 
+startquest radiodiamondcity
+```
+
+#### Mod Changes
+
+- Added Atom Cats Drag Race Start Fix
+- Added CC's UHD APC 4K (packed into a BA2)
+- Added Companion Thoughts Overhaul
+- Added Syringer Ammo Simpler Ingredients
+- Added Proctor Teagan Sells BOS Clothing
+- Added Garden Plot Snap
+- Added Useful Posts
+- Added Warehouse Corner Wall Snap
+- Added Warehouse to Wall Snap
+- Added Snappy Half Walls
+- Updated BethINI to 3.6.1
+- Updated Cathedral Assets Optimizer to 5.3.13
+- Updated Buffout 4 to 1.26.2
+- Updated Wetness Shader Fix to 3.6
+- Updated Workshop Framework to 2.2.1a
+- Updated MCM Settings Manager to 1.1
+- Updated Phoenix - Sorting Overhaul (see below)
+- Updated FallUI - Interface to 2.1.1
+- Updated FallUI - HUD to 1.6b
+- Updated FallUI - Confirm Boxes to 2.2.1
+- Updated FallUI - Workbench to 1.4
+- Updated Diamond City Radio Extended to 3.0.0
+- Updated LOST Audio Tweaks - DCRE RAO Patch to 3.0.0
+- Updated WTP MCM Presets (both regular and 21:9 versions)
+- Regenerated both sets of INI files with the new version of BethINI
+- Removed tbbmalloc.dll from Game Folder Files
+
+> The tbbmalloc.dll is no longer required for Buffout. You can delete it from your root folder.
+
+#### Sorting Overhaul
+
+- Added some Nuka World melee weapon paint job options missing in the main INNR record
+- Fixed broken names on Far Harbor / Nuka World weapons
+- Fixed some insanely difficult to see errors in the scrap tags for three different Lit Cigar records
+
+#### Website Changes
+
+- [MCM Settings](/wtp/documentation/mcm-settings/): Updated for the new changes (specifically in the FallUI mod MCMs)
+
+## Release 2.3.3
+
+> 30/04/2022
+
+Small update. Yes, it's save-safe.
+
+#### Mod Changes
+
+- Added DiamondTheWall Retexture (packed into a BA2)
+- Added CC's UHD UFO 4K (packed into a BA2)
+- Added Cathedral Asset Optimizer (irrelevant for users)
+- Updated Cola Cars Overboss Fix to 1.2
+- Updated Laser Weapons 1st Person Reposition to 1.5.2
+- Updated Wetness Shader Fix to 3.5
+- Updated Workshop Framework to 2.2.0
+- Updated Fallout 4 Ultimate Window Overhaul to 3.2
+- Updated Configurable Hotkeys to 6
+- Updated Previsibines Repair Pack to 0.59.5
+
 ## Release 2.3.2
 
 > 03/04/2022
