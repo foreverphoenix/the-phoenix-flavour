@@ -6,6 +6,16 @@ description: >
   Various issues currently present in WTP.
 ---
 
+## Performance Issues
+
+WTP is a performance friendly setup and should run well for most users. In fact, thanks to the **Previsibines Repair Pack**, it should run better than vanilla in some places. While WTP includes some 4K retextures, the Fallout 4 engine is actually capable of loading lower resolution versions of these when running out of VRAM. Almost all loose assets are packed into BA2 archives for better performance. I also took care not to include mods with long levelled lists containing new face presets as these can significant performance issues.
+
+That being said, Fallout 4 is prone to performance issues, especially stuttering. For performance in general please keep in mind that resolutions above 1080p can incur a sizeable frame loss. 4K does not scale well. Having the game and/or MO2 installed on an HDD instead of an SSD may similarly cause frame drops or some stuttering.
+
+If you are struggling with frame drops I would first recommend swapping to the **Performance INIs**. You can find instructions [here](/wtp/installation/#performance-inis).
+
+If you are still unhappy about your framerate, you can delete the **d3d11.dll** from your Fallout 4 root folder to disable ENB.
+
 ## Nate/Nora is invisible in the cryo pod
 
 When skipping the pre war prologue, you may find your spouse's body is invisible in their cryo pod. You can still interact with them to get their wedding ring. The problem is caused by Start Me Up and Previs Repair Pack and unfortunately I haven't yet figured out how to fix it. Either the way, it's a minor issue and definitely not gamebreaking.

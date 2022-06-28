@@ -1,6 +1,6 @@
 ---
 title: "WTP Visuals"
-weight: 3
+weight: 4
 type: docs
 description: >
   How the graphics were improved in WTP.
@@ -14,7 +14,7 @@ In my changes for WTP, I have decided to stay faithful to the vanilla colours an
 
 ### Weather & Lighting
 
-Welcome to Paradise does not feature a fully-fledged weather overhaul, but it does include [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which improves various visual effects to be much more pleasing. Combined with the lightweight [FallOpt ENB](https://www.nexusmods.com/fallout4/mods/55662) preset, it constitutes a solid upgrade over vanilla without changing the original style.
+Welcome to Paradise includes [Lightweight Lighting - A Weather and Interior Lighting Overhaul](https://www.nexusmods.com/fallout4/mods/57680) which subtly improves lighting while retaining the original colour palette. Combined with the lightweight [Spectrum ENB](https://www.nexusmods.com/fallout4/mods/58028) preset, it constitutes a solid upgrade over vanilla without changing the original style.
 
 ![WTP Day](/Pictures/wtp/documentation/wtp-day.jpg)
 
