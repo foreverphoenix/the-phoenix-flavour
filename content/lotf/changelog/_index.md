@@ -6,6 +6,39 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.7
+
+> 14/07/2022
+
+Today's update is adding support for five more creations:
+
+- Fearsome Fists
+- Spell Knight Armor
+- Vigilant Enforcer
+- Redguard Elite Armaments
+- Nordic Jewelry
+
+#### Mod Changes
+
+- Added Use Or Take SKSE
+- Updated Read Or Take SKSE to 1.1
+- Updated Assorted Mesh Fixes to 0.68
+- Updated Major Cities Mesh Overhaul to 1.3a
+- Updated CoMAP to 3.4.2
+- Updated Majestic Mountains - More Accurate Collision - AME Patch to 1.2
+- Updated Project Clarity - Effects Textures Done to 3.3
+- Fixed USSEP being disabled on the performance profile (sorry 'bout that)
+
+#### CC Profile
+
+- Added Spell Knight Armor - WACCF Patch
+- Added Fearsome Fists - Innate Unarmed Bonus
+- Reinstalled the UCCCP for the new creations
+- Reinstalled Creation Club - Misc Patches for the new creations
+- Updated Morrowind Threads to 2.0
+- Updated Pirate's Life For Me to 3.1
+- Fixed Fists of Randulf not being temperable
+
 ## Release 2.6
 
 > 28/06/2022
