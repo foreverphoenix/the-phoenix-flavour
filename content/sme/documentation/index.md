@@ -36,10 +36,31 @@ The following tools are installed and configured for the SME Game Root folder:
 - [Octagon](https://www.nexusmods.com/skyrimspecialedition/mods/28773)
 - [zEdit](https://github.com/z-edit/zedit/releases)
 - [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)
+- [LOOT - Load Order Optimisation Tool](https://www.nexusmods.com/skyrimspecialedition/mods/1918)
+- [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
+- [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+- [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313)
 
 Terrain LOD generated with SSELODGen will be placed in `Skyrim Modding Essentials\Tools\xLODGen\Output\`. Move it from there into the mods folder.
 
 Though BethINI is included, I did not regenerate the INI files. The SME profile in Mod Organizer 2 is using Skyrim's default INIs with the High preset.
+
+Make backups of your load order before running Wrye Bash. It may sometimes try to deactivate your plugins and reorder them alphabetically.
+
+I added LOOT because it can be quite useful for curating your own load order and master list, but please do not just click "Sort" and expect your setup to be magically perfected.
+
+### MO2 Plugins
+
+- [deorder's plugins](https://github.com/deorder/mo2-plugins)
+- [LostDragonist's MO2 Plugins](https://www.nexusmods.com/site/mods/82)
+- [Crash Log Tools](https://www.nexusmods.com/skyrimspecialedition/mods/66743)
+- [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813)
+- [LOOT Config Loader](https://www.nexusmods.com/skyrimspecialedition/mods/60864), see [Github](https://github.com/Exit-9B/LOOTConfigLoader/blob/main/README.md) for documentation
+- [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329)
+
+LOOT Preventifier (from LostDragonist's MO2 Plugins) was also included, but disabled by default.
+
+When opening a tool for the first time, you may be asked to change the file path to the game in the registry. This is required for some tools like LOOT to work properly and you should click OK. For more information, check the [mod page](https://www.nexusmods.com/site/mods/82).
 
 ### SSEEdit
 
@@ -63,11 +84,11 @@ If you want to install an ENB, copy the three files from `SSE Modding Essentials
 
 ## Further Notes
 
-The configuration files for various mods were left untouched except for a few cases where which are marked in the MO2 notes. Enable/disable settings based on your setup.
+**Please always be careful when adding mods and familiarise yourself with the existing setup first.** 
 
-I included [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441) which fixes mismatched facegen at runtime. However, that doesn't mean you should no longer worry about facegen because if you let all your facegen conflicts be handled by the plugin there is a performance impact. For the love of Talos, regenerate your facegen!
+The configuration files for various mods were left untouched except for a few cases which are marked in the MO2 notes. Enable/disable settings based on your setup and preferences.
 
-Please be mindful when adding mods and familiarise yourself with the existing setup first. For instance, if you add [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994), you can remove [Hearthfire Display Case Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3622) which is already included. [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) includes the [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503). Et cetera.
+I included [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441) which fixes mismatched facegen at runtime. However, that doesn't mean you should no longer worry about facegen because if you let all your facegen conflicts be handled by the plugin there is a performance impact. For the love of Talos, regenerate your facegen! Refer to [Althro's Guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/Regenerating%20Faces%20in%20the%20Creation%20Kit.md) if you are not sure how to do it.
 
 ### Modder's Tools
 

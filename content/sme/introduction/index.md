@@ -8,21 +8,21 @@ description: >
 
 **Skyrim Modding Essentials** is a Wabbajack utility list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods. As such, it is intended for *experienced* modders and no support will be provided beyond the contents of the list itself. 
 
-The list was made for Skyrim SE 1.6.x. However, the Anniversary Edition DLC is not required.
+The list was made for Skyrim SE 1.6.x, though the Anniversary Edition DLC is not required.
 
 ## Features
 
 Check the complete mod list and load order on [Load Order Library](https://loadorderlibrary.com/lists/skyrim-modding-essentials-sme).
 
-- A lean, basic setup clocking in at around 2.5GB plus less than 1GB of downloads.
+- A lean, basic setup clocking in at around 3.8GB plus less than 1GB of downloads.
 - Latest stable version of [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) installed with a separate copy of the vanilla game (Stock Game Folder).
-- Basic MO2 plugins: [deorder's plugins](https://github.com/deorder/mo2-plugins), [Crash Log Tools](https://www.nexusmods.com/skyrimspecialedition/mods/66743), [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813), and [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329).
-- All the tools: CK, xEdit, zEdit, DynDOLOD, xLODGen, BethINI, Octagon, CAO, SSE NIF Optimizer, NifSkope, Nemesis, BAE.
+- A collection of handy Mod Organizer 2 plugins for various purposes, [see the full list here](/sme/documentation/#mo2-plugins).
+- All modding tools you could possibly need are included and pre-configured, [see the full list here](/sme/documentation/#modding-tools).
 - [Skyrim Script Extender](https://skse.silverlock.org/) with a correctly configured SKSE.ini file and [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444).
 - All the essentials, including but not limited to [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000), [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604), and [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705).
 - Clean MO2 setup with documentation for all changes in the Notes and further documentation on the [website](/sme/documentation/).
 - The foundational collections of tweaks and fixes: [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230), [po3's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073), [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532).
-- Additional fixes that should be relevant for and compatible with any setup. To be expanded.
+- Additional fixes that should be relevant for and compatible with any setup with [further recommendations](/sme/recommendations/).
 - Optionally includes full widescreen support with all relevant patches.
 - Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
 
