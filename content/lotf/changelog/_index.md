@@ -1,10 +1,604 @@
 ---
 title: "Changelog"
-weight: 6
+weight: 8
 type: docs
 description: >
   Update notes for Legends of the Frost.
 ---
+
+## Release 2.7
+
+> 14/07/2022
+
+Today's update is adding support for five more creations:
+
+- Fearsome Fists
+- Spell Knight Armor
+- Vigilant Enforcer
+- Redguard Elite Armaments
+- Nordic Jewelry
+
+#### Mod Changes
+
+- Added Use Or Take SKSE
+- Updated Read Or Take SKSE to 1.1
+- Updated Assorted Mesh Fixes to 0.68
+- Updated Major Cities Mesh Overhaul to 1.3a
+- Updated CoMAP to 3.4.2
+- Updated Majestic Mountains - More Accurate Collision - AME Patch to 1.2
+- Updated Project Clarity - Effects Textures Done to 3.3
+- Fixed USSEP being disabled on the performance profile (sorry 'bout that)
+
+#### CC Profile
+
+- Added Spell Knight Armor - WACCF Patch
+- Added Fearsome Fists - Innate Unarmed Bonus
+- Reinstalled the UCCCP for the new creations
+- Reinstalled Creation Club - Misc Patches for the new creations
+- Updated Morrowind Threads to 2.0
+- Updated Pirate's Life For Me to 3.1
+- Fixed Fists of Randulf not being temperable
+
+## Release 2.6
+
+> 28/06/2022
+
+So the USSEP recently updated and, as previously announced, now requires the four free creations (Survival, Fishing, Saints & Seducers, Rare Curios). But not to worry - I cleaned out the dependencies so that the default profile remains free of CC content. However, this development encouraged me to add support for Survival and Fishing to the CC profile which are the big additions of this update.
+
+The CC profile now also supports:
+
+- Survival
+- Campsite
+- Fishing
+- Farming
+
+#### Mod Changes
+
+- Added NIF Preview (irrelevant for users)
+- Added Optimized USSEP Valdr Quest
+- Added Glowing Mushroom Collision Fixes
+- Added Thaumaturgy - Weapon Enchantment XP Tweaks
+- Added Read Or Take SKSE
+- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.7
+- Added HearthFires - Customisable Fertile Soil
+- Updated SKSE (no version change)
+- Updated SSE Display Tweaks to 0.5.10
+- Updated the Unofficial Skyrim Special Edition Patch to 4.2.7
+- Updated Assorted Mesh Fixes to 0.65
+- Updated Major City Mesh Overhaul to 1.2
+
+#### CC Profile
+
+- Added CC Survival Mode - WACCF Patch
+- Added SkyUI - Survival Mode
+- Added Survival Mode Prompt Removed
+- Added Matching CC Draugr Weapons
+- Added Skyrim Landscape and Water Fixes - CC Farming Compatibility Patch
+- Updated the Unofficial Skyrim Creation Club Content Patches to 6.7
+- Reinstalled Creation Club - Misc Patches for the new CCs
+- Reinstalled Terrain Fixes for CC Mods (now using the AIO plugin)
+
+## Release 2.5.1
+
+> 08/06/2022
+
+Here is another smaller update for you guys as we are ever so slowly inching toward full Creation Club support. Of course, we're not quite there yet (check [the spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit#gid=0) to see the progress so far). If you are running the CC profile, all you need to do to update is run the Creation Organizer again as per the instructions on the [Creation Club](/lotf/creation-club/) page. This will move the new CCs automatically from your data folder into Mod Organizer 2.
+
+As ever, the update is save-safe.
+
+The CC profile now also supports:
+
+- Bittercup
+- The Contest
+- Civil War Champions
+
+#### Mod Changes
+
+- Added Project Clarity - Effects Textures Redone - Hotfix 3.2.6
+- Added Better Blended Mushrooms
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.2
+- Updated Assorted Mesh Fixes to 0.59
+- Updated moreHUD to 4.1.1
+- Updated Simplicity of Snow to 0.6.4.1
+- Updated Simple Dual Sheath to 1.5.3
+- Updated DynDOLOD to 3 Alpha 94
+- Flagged one ultrawide patch as WABBAJACK_ALWAYS_ENABLED so it is actually installed for users
+- Wabbajack should no longer fail due to missing ENB files
+
+#### CC Profile
+
+- Added Grass Fixes for Creation Club Mods
+- Added Fixed Mesh Lighting - Creation Club Backpacks
+- Added Jelidity's Oblivion Style Dwarven Mail Shield for Crimson Trail
+- Added UCCP and Creation Club Misc Patches for the new creations
+- Updated Creation Club Asset Patch to 1.2
+
+## Release 2.5
+
+> 25/05/2022
+
+This update is admittedly smaller than I had intended for it to be. Blame it on university having monopolised my time over the past few months (and TPF monopolising it now). I did update a bunch of mods, fix some minor issues, and add support for the following creations:
+
+- Adventurer's Backpack
+- Horse Armor - Elven
+- Horse Armor - Steel
+
+I also integrated the excellent new [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329) which vastly simplifies the process of installing creations for those who own the Anniversary Edition DLC.
+
+#### Mod Changes
+
+- Added Ghost Pile Seam Fix
+- Added Critter Spawn Congestion Fix
+- Added Embers HD
+- Updated More Informative Console to 1.0.1
+- Updated Particle Patch for ENB to 1.0.9
+- Updated DynDOLOD Resources to 3 Alpha 27
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.1
+- Updated Assorted Mesh Fixes to 0.54
+- Updated Fixed Mesh Lighting to 1.8.0
+- Updated Equip Enchantment Fix to 1.3.5
+- Updated Contextual Crosshair to 1.2.0
+- Updated Oxygen Meter 2 to 1.0.5
+- Updated Better Jumping to 1.7.2
+- Updated Project Clarity - Creatures Redone to 1.8
+- Updated Project Clarity - Effects Textures Redone to 3.2.2
+- Updated Simplicity of Snow to 0.6.1
+- Updated College of Winterhold Quest Start Fixes to 0.3.1
+- Updated Cathedral Assets Optimizer to 5.3.13
+- Updated ENB binaries to 0.475 (only relevant if you are using Truth ENB)
+- Updated DynDOLOD to 3 Alpha 92 (did not regenerate LOD)
+
+#### CC Profile
+
+- Added Creation Organizer
+- Added Pack It Up - An Adventurer's Backpack CC Improvement
+- Added CC Horse Armor - No Blacksmith Dialogue
+- Updated Curated Curios - A Creation Club Integration Mod to 1.0.2.1
+- Installed the Simplicity of Snow - Nchuanthumz Patch separately
+- Fixed some CC mods not having WABBAJACK_ALWAYS_ENABLE flags (ouch, sorry)
+- Fixed a duplicate chest at one of the locations from On A Crimson Trail
+- Disabled a USSEP-added bed roll blocking a cellar entrance for a CC location
+
+#### Website
+
+- **Creation Club:** Updated the installation instruction (it's much easier now!)
+
+## Release 2.4
+
+> 16/04/2022
+
+Another round of New Stuff (tm) in honour of [this amazing showcase of LOTF](https://www.youtube.com/watch?v=_Hru8F0QRwQ) by **DroppedIceCream**. In addition to a bunch of mod updates, I added support for more creations and simplified the instructions for installing said creations.
+
+All creations adding unique artifacts are now supported:
+
+- Arms of Chaos
+- Bow of Shadows
+- Dawnfang & Duskfang
+- Headman's Cleaver
+- Lord's Mail
+- Ruin's Edge
+- Shadowrend
+- Staff of Hasedoki
+- Staff of Sheogorath
+- Stendarr's Hammer
+- Sunder & Wraithguard
+- The Gray Cowl Returns!
+- Umbra
+
+Check out the [new spreadsheet](https://docs.google.com/spreadsheets/d/1vPH-HsEsVcw-ipbHl3Am0FL0jwF6JiR7Z-8zqWcKWvU/edit?usp=sharing) to see which creations are support by LOTF, including links to the UESP.net pages with instructions on how to find the content ingame.
+
+Also the patches for ultrawide support were never actually included with the WJ installation and I fixed that now. Sorry!
+
+#### Mod Changes
+
+- Added Proving Honor Companions Quest Progression Fix
+- Added King Olaf's Fire Festival Not Ending Fix
+- Updated DynDOLOD to Alpha 88
+- Updated Base Object Swapper to 1.5
+- Updated DynDOLOD Resources to Alpha 24
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4
+- Updated Assorted Mesh Fixes to 0.48.1
+- Updated Windhelm Fence 3D to 0.3.3
+- Updated Better Windhelm Ground Meshes to 1.3.5
+- Updated Fixed Mesh Lighting to 1.7.4
+- Updated Oxygen Meter 2 to 1.0.4
+- Updated Realistic Water Two to 5.3.0
+- Replaced Particle Patch for ENB with the new Nexus version
+- Regenerated Blacksmith Forge Water Patch
+- Added WABBAJACK_ALWAYS_ENABLE flags to the ultrawide mods so they're actually present ...
+- Fixed facegen for snow elves
+
+#### CC Profile
+
+- Updated Unofficial Skyrim Creation Club Content Patches to 6.5
+- Removed Survival Mode as a master for the Dawnfang & Duskfang and Bow of Shadows USCCP plugins
+- Reinstalled Cleaned and Upscaled Textures - Creation Club for the new creations
+- Reinstalled Creation Club - Misc Patches for the new creations
+- Regenerated facegen for all CC-added NPCs, including the new ones
+- Added Blacksmith Forge Water Patch - CC (replaces one trough in Nchuanthumz)
+
+#### Website
+
+- **Introduction:** Embedded DroppedIceCream's amazing new LOTF showcase video
+- **Creation Club:** Now using [Anniversary Edition Content Picker](https://www.nexusmods.com/skyrimspecialedition/mods/58890) for a more user-friendly installation process.
+
+## Release 2.3.1
+
+> 27/03/2022
+
+Some fixes for 2.3.
+
+#### Mod Changes
+
+- Added Oxygen Meter 2
+- Updated Assorted Mesh Fixes to 0.46
+- Updated 3D Solitude Trellis to 2.0
+- Removed Oxygen Meter
+- Fixed INIs for the default profile (had ENB settings)
+- Actually disabled Majestic Mountains - More Accurate Collision in the performance profile
+- Removed the xLODGen 85 archive from my downloads folder (caused installations to fail)
+
+## Release 2.3
+
+> 27/03/2022
+
+Finally another big update for LOTF! Here's what's new:
+
+- LOTF no longer includes an ENB preset. There are detailed instructions for the (highly recommended) Truth ENB preset.
+- Better frame rate with new set of performance INIs that can be used on any profile.
+- xLODGen and DynDOLOD settings were lowered for better performance across the board.
+- Added Widescreen support with instructions on the Customisation page.
+
+Added support for ten more Creations, including all the CC player homes:
+
+- Myrwatch
+- Tundra Homestead
+- Hendraheim
+- Shadowfoot Sanctum
+- Bloodchill Manor
+- Gallow's Hall
+- Nchuanthumz
+- Dead Man's Dread
+- Goldbrand
+- Dwarven Armored Mudcrab
+
+#### Mod Changes
+
+- Added Windhelm Fences 3D
+- Added Bleak Falls Barrow - No Ice Meshes in Troll Pit
+- Added Majestic Mountains - More Accurate Collision
+- Added Snowy Landscapes in Snowy Regions
+- Updated DynDOLOD to Alpha-84
+- Updated BethINI to 3.6
+- Updated DynDOLOD Resources to Alpha-23
+- Updated Fixed Mesh Lighting to 1.7.1
+- Updated Bug Fixes SSE to 6
+- Updated Actor Limit Fix to 5
+- Updated powerofthree's Tweaks to 1.6.0
+- Updated Scrambled Bugs to 17
+- Updated Screenshot Helper to 1.2.2
+- Updated Contextual Crosshair to 1.1.6
+- Updated Relighting Skyrim to 1.3.1
+- Updated Tavern AI Fix to 1.2
+- Updated Quests Are In Skyrim to 1.3
+- Updated College of Winterhold Quest Start Fixes to 0.3
+- Updated xLODGen to Beta 91
+- Updated the Conflict Resolution Patch
+- Removed LOD Unloading Bug Fix (not necessary with Dyn 3)
+- Recreated all INIs (default and performance)
+- Regenerated terrain LOD with xLODGen
+- Regenerated tree and object LOD as well as occlusion with DynDOLOD
+- Now using SSE Display Tweaks to block load screens from DynDOLOD.esm
+
+#### CC Profile
+
+- Added Creation Club - Misc Patches
+- Added Majestic Mountains Creation Club Landscape Patch
+- Added Creation Club Asset Patch
+- Added Myrwatch - Editable Home Cells
+- Added Hendraheim - Creation Club Patches
+- Added Dead Man's Dread - Properly Environment Mapped
+- Added Pirate's Life for Me - A Creation Club Integration Mod
+- Added Dwarven Armored Mudcrab - Properly Environment Mapped
+- Added Legends of the Frost - Creation Club Patch
+- Updated Morrowind Threads - A Creation Club Integration Mod to 1.2
+- Updated Curated Curios - A Creation Club Integration Mod to 1.0.1
+- Removed The Cause - Majestic Mountains Patch (STEP guys did it much better)
+- Removed Unofficial Creation Club Updates - Elite Crossbows (turns out Beth removed the quest auto start)
+- Removed Unofficial Creation Club Updates - Nix-Hound (turns out Beth removed the quest auto start)
+- Removed Ayleid Ruins ENB Light (decided not to include ENB lights stuff in LOTF beyond Radiant)
+- Reorganised the Creation Club section
+- Reinstalled Creation Club - Cleaned and Upscaled Textures
+- Reinstalled Unofficial Creation Club Patches
+- Regenerated facegen for CC-added NPCs
+
+#### Website
+
+- Went over most pages for some tweaks and adjustments.
+- **Installation:** Updated disc space requirements.
+- **Customisation:** Added Performance INIs section.
+- **Customisation:** Added Widescreen Support section.
+- **ENB for LOTF:** Moved all The Truth ENB-related instructions to this page.
+- **Documentation:** Updated for the latest changes.
+- **FAQ:** Added this new page to respond to some common questions and issues.
+
+## Release 2.2
+
+> 27/02/2022
+
+This update took much longer than expected as I am just swamped with uni stuff at the moment. There's nothing too exciting although I am happy to have added support for three more creations increasing the count to 17/74 creations. I hope to add support for a greater number of creations in the next update.
+
+Features of this update include:
+
+- **Contextual Crosshair** as a fantastic alternative to iHUD, smoothly fades in the crosshair when you need it
+- **Ruins Clutter Improved** features significant mesh and texture improvements for dungeons
+- **The Dragon Bridge** adds proper road chunks to the, well, Dragon Bridge
+- Support for the following creations: Expanded Crossbows, Elite Crossbows, Nix-Hound
+- Fixed messed up landscape at the entrance to Rielle (part of The Cause)
+
+#### Mod Changes
+
+- Added Base Object Swapper
+- Added ENB Input Disabler
+- Added Screenshot Helper
+- Added LOD Unloading Bug Fix
+- Added WIDeadBodyCleanupScript Crash Fix
+- Added Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+- Added Ruins Clutter Improved
+- Added Ruins Clutter Improved - Fixes
+- Added Floating Ash Pile Fix
+- Added Stones of Solitude - Better Blended Rock Piles
+- Added Contextual Crosshair
+- Added moreHUD Inventory Edition
+- Added Whiterun Skyforge - Reforged
+- Added The Dragon Bridge
+- Added CC Saints and Seducers - Less Obnoxious Elytra Footsteps (CC Profile only)
+- Added Amber Refossilized (CC Profile only)
+- Added Tempered Racial Textures - Ring of Disrobing Patch (CC Profile only)
+- Added CC The Cause - Majestic Mountains Patch (CC Profile only)
+- Added Ayleid Ruins ENB Light (CC Profile only)
+- Added LOTF - Knight of the North Patch (minor text adjustments) (CC Profile only)
+- Updated enbseries to 0.473
+- Updated Cathedral Assets Optimizer to 5.3.11
+- Updated DynDOLOD to Alpha-74
+- Updated SSE Display Tweaks to 0.5.9
+- Updated Assorted Mesh Fixes to 0.45.1
+- Updated Fixed Mesh Lighting to 1.7.0
+- Updated powerofthree's Tweaks to 1.5.0
+- Updated Equip Enchantment Fix to 1.3.4
+- Updated Charge Dialogue Fix to 1.4
+- Updated DynDOLOD Resources to Alpha-21
+- Updated moreHUD - Settings Loader to 2.1.1
+- Updated Relighting Skyrim to 1.3.0
+- Updated Simplicity of Snow to 0.5.1
+- Updated Simple Dual Sheath Redux to 1.5.2
+- Updated Knight of the North - A Creation Club Quest Overhaul to 2.1.0.3
+- Updated Morrowind Threads - A Creation Club Integration Mod to 1.1.1.1
+- Removed Whiterun Mesh Fixes (it's almost completely overwritten)
+- Moved Static Mesh Improvement Mod below the TEXTURE BASE separator
+- Inlined the Obsidian Weathers MCM Preset (must have been missing entirely before)
+
+#### Website Changes
+
+- **Creation Club:** Updated the list of supported creations.
+
+## Release 2.1
+
+> 07/01/2022
+
+I hadn't planned to update LOTF again, but the recent SSE update made it necessary. This update was compiled with SSE 1.6.353.0 which is the latest version so please do not use the downgrade patcher.
+
+#### Mod Changes
+
+- Added Optional Round Farmhouse Posts
+- Added Major Cities Mesh Overhaul
+- Added 3D Whiterun Trellis
+- Added 3D Riften Trellis and Roofs
+- Added 3D Solitude Market Trellis
+- Updated DynDOLOD to Alpha 60
+- Updated SSE Display Tweaks to 0.5.8
+- Updated DynDOLOD Resources Alpha 17
+- Updated Assorted Mesh Fixes to 0.41.1
+- Updated Flickering Meshes Fix to 1.8
+- Updated Better Windhelm Ground Meshes to 1.3.3
+- Installed the Majestic Mountains / Skyrim Mountainous patches from Flickering Meshes Fix separately
+- Moved Skyrim Landscape and Water Fixes below the ESSENTIALS separator
+- Set two meshes in SMIM that were conflicting with SLaWF to hidden
+- Disabled physics damage via SSE Display Tweaks (new feature)
+- Removed physics damage threshold command from the Autorun.txt (now covered by SSE Display Tweaks)
+- Removed bigger sandboxing radius command from the Autorun.txt (has some unintentional side effects)
+- Better Windhelm Ground Meshes now has priority, fixing a visual bug (thanks Shade088!)
+- Fixed a minor visual glitch on the shore across from Solitude's harbor
+- Fixed Slightly Better - Old People Consistency being disabled on the LOTF CC profile
+- Restored LOTF's tweaked version of Minimal ENB for Obsidian Weathers thanks to Slim
+- Reinstalled MO2 plugins that were lost after the update (deorder's, LOOT Preventifier)
+- Disabled the Sort Plugins button in MO2 (another change lost after updating)
+
+*Note that while I did update DynDOLOD, I did not regenerate LODs for this update.*
+
+#### Website Changes
+
+- **Installation:** Updated latest version number.
+
+## Release 2.0.2
+
+> 02/01/2022
+
+Of course I forgot to update the SSE version shenanigans in the Installation instructions and probably caused quite a bit of headache because of that. LOTF 2.x requires the *latest* version of Skyrim SE installed in your Steam folder. Thanks to JanuarySnow for reminding me!
+
+#### Website Changes
+
+- **Installation:** Fixed a fairly critical oversight, clarified that latest SSE version is required for installing LOTF
+
+## Release 2.0.1
+
+> 01/01/2022
+
+So the initial 2.0 release was unplayable, cool.
+
+After fixing 2.0 and realising that I was still unable to compile, I found out that at some point I had yeeted my backup of the modified Minimal ENB for Obsidian Weathers that LOTF has been using alongside Wander. I ultimately just reinstalled the preset and applied the tweaks that I still remembered but it's probably not all of them. I honestly don't know. Either way, I recommend The Truth ENB and the only reason it's not the default preset is because it was taken off the Nexus.
+
+#### Mod Changes
+
+- Obsidian Weathers and related mods are now actually included
+- Replaced texture BSAs in Stock Game folder with UPOT (Unofficial Performance Optimised Textures)
+- Fixed an error in the WABBAJACK_IGNORE_FILES.txt that caused the entire Stock Game folder to be ignored
+- Reinstalled Minimal ENB for Obsidian, some tweaks were probably lost
+
+## Release 2.0
+
+> 31/12/2021
+
+- Support for **Obsidian Weathers and Seasons** as an alternative to Wander.
+- Instructions for **swapping out** the ENB preset for Truth ENB **or disabling ENB** altogether.
+- Inclusion of **Nemesis** as well as a stripped down XPMSSE for **Simple Dual Sheath**.
+- Better water (**Realistic Water Two**), readable road signs (HD Road Signs), new grass overhaul (Enhanced Landscapes).
+- New **Creation Club profile** with support for 14 Creations (so far).
+- New **performance profile** with lighter INI settings and DynDOLOD setup (not compatible with CC profile).
+
+LOTF 2.0 utilizes the "Best of both worlds" downgrade patcher in order to be able to stay on SKSE 2.0.20 for SSE 1.5.97.0 (pre-AE). This is because not all of LOTF's SKSE-dependent mods (25/38) were updated yet. With the "best of both worlds" patcher all game files other than the executable are from the latest AE version though, meaning all assets for new creations are present and AE content can be used.
+
+**Removal of Immersive HUD:** Skyrim's UI is fairly unintrusive already, but the ability to disable the HUD still comes in handy for taking screenshots. iHUD unfortunately has some issues with the crosshair (it sometimes vanishes completely for me) so I decided to just replace it with Luca's version of fadingsignal's Hide UI. It completely disables the UI at the press of a button so it doesn't ruin a pretty screenshot.
+
+#### How To Update
+
+Before updating LOTF to 2.0 for an ongoing playthrough, please load your latest save and follow these instructions:
+
+- In the **Immersive HUD** MCM, please uncheck **iHUD Active** to completely turn off iHUD.
+- Make sure you are in an exterior location and open the **DynDOLOD** MCM.
+- Uncheck **DynDOLOD is active** and wait for the confirmation box to pop up.
+- Go into any interior cell and save, then quit the game.
+- In Mod Organizer 2 under the **CRP & PATCHER OUTPUTS** separator, uncheck the **TexGen** and **DynDOLOD** outputs.
+- Load your save, click **OK** to missing masters, and create a new manual save.
+
+Now you can safely update LOTF through Wabbajack and continue your playthrough.
+
+#### Legends of the Frost
+
+- Added Spiders of Solstheim - Transparency Fix
+- Added HD Road Signs 2K
+- Added Weather of World
+- Added Realistic Water Two
+- Added Blacksmith Forge Water Fix - Realistic Water Two Patch
+- Added Flickering Meshes Fix
+- Added Shaders of Solstheim - Ash and Moss
+- Added Snowy Windhelm Bridge
+- Added Enhanced Landscapes - Grass Overhaul
+- Added Tempered Racial Textures
+- Added Slightly Better - Old People Consistency
+- Added Nemesis Unlimited Behavior Engine
+- Added Dynamic Animation Replacer
+- Added XP32 Maximum Skeleton Special Extended
+- Added Draw 2 - Dual Weapon Equip-Unequip Animations
+- Added Simple Dual Sheath
+- Updated Mod Organizer to 2.4.4
+- Updated SSELODGen to Beta 85
+- Updated DynDOLOD to Alpha 56
+- Updated Cathedral Assets Optimizer to 5.3.8
+- Updated SSE Display Tweaks to 0.5.6b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.8
+- Updated DynDOLOD Resources to Alpha 16
+- Updated Assorted Mesh Fixes to 0.41
+- Updated powerofthree's Tweaks to 1.4.1
+- Updated Spell Perk Item Distributor to 5.2
+- Updated Charge Dialogue Fix to 1.3
+- Updated Simplicity of Snow to 0.5
+- Removed Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch (overwritten)
+- Removed Immersive HUD
+- Removed Immersive HUD - Settings Loader
+- Removed Immersive HUD - LOTF Preset
+- Removed Relighting Skyrim - No Player Homes
+- Removed Picta Series - Improved Sky Meshes
+- Removed Cathedral Water Overhaul (replaced by RW2)
+- Removed Volcanic Tundra - Heat Wave Effects (replaced by RW2)
+- Removed Skyrim Flora Overhaul - Grass Only (replaced by EL Grass)
+- Removed Security Overhaul SKSE - Lock Variations (out of scope for LOTF)
+- Removed cleaned master files
+- Installed XPMSSE version of Werewolf Claws Affect Spider Webs and moved it lower in the mod order
+- Moved Ambiance plugin lower in the load order
+- Moved Skyrim Realistic Overhaul BSAs below Project Clarity BSAs to overwrite
+- Rebuilt most of the Project Clarity BSAs
+- Fixed load screen blocker (DynDOLOD load screens should no longer appear)
+- Hopefully (?) fixed two flickering lights in Honeyside (one remains)
+- Disabled logging in Keyboard Shortcuts Fix
+- Changed the ENB FPS display hotkey from F7 to F8
+- Reinstalled SkyHUD without the Immersive HUD patch
+- Reinstalled Majestic Mountains without the effect meshes
+- Installed zEdit in the Tools folder for the SLaWF Remove Crop Ownership script
+- Completely remove the crop ownership feature in Skyrim Landscape and Water Fixes
+- Re-enabled faction stealing in powerofthree's Tweaks
+- Included three custom presets with the CAO installation as requested
+- Added an icon to the SKSE executable (installation instructions were updated accordingly)
+- Resolved conflicts between new mods in the CRP
+- Regenerated facegen for the main and CC profiles
+- Generated Nemesis output
+- Regenerated terrain LOD with SSELODGen Beta 85
+- Regenerated tree and object LOD with DynDOLOD Beta 58
+
+#### LOTF Wander ENB
+
+The preset is a tweaked version of Minimal ENB for Obsidian 1.1 (now Yuevie's Minimal ENB).
+
+- Incorporated RW2's recommended ENB water settings
+- Removed some arbitrary tweaks in the ENB grass section
+- Removed some arbitrary tweaks in the ENB particles section that made water in interiors at night unnaturally bright
+
+#### Creation Club Profile
+
+**Supported Creations:**
+
+- Saints & Seducers
+- Forgotten Seasons
+- The Cause
+- Divine Crusader
+- Netch Leather Armor
+- Chrysamere
+- Alternate Armors - Daedric Mail
+- Alternate Armors - Dwarven Mail
+- Alternate Armors - Ebony Plate
+- Alternate Armors - Elven Hunter
+- Alternate Armors - Stalhrim Fur
+- Alternate Armors - Steel Soldier
+- Alternate Armors - Studded Dragonscale
+- Rare Curios
+
+**Additional Mods:**
+
+- Added Cleaned and Upscaled Textures - Ayleid Assets
+- Added Cleaned and Upscaled Textures - Saints and Seducers
+- Added Unofficial Creation Club Patches - Saints and Seducers
+- Added Realistic Water Two - Saints and Seducers Patch
+- Added Cleaned and Upscaled Textures - Forgotten Seasons
+- Added Unofficial Creation Club Patches - Forgotten Seasons
+- Added Cleaned and Upscaled Textures - The Cause
+- Added Cleaned and Upscaled Textures - Knights of the Nine
+- Added Knight of the North - A Creation Club Quest Overhaul
+- Added Cleaned and Upscaled Textures - Netch Leather Armor
+- Added Morrowind Threads - A Creation Club Integration Mod
+- Added Cleaned and Upscaled Textures - AA Daedric Mail
+- Added Cleaned and Upscaled Textures - AA Dwarven Mail
+- Added Cleaned and Upscaled Textures - AA Ebony Plate
+- Added Cleaned and Upscaled Textures - AA Elven Hunter
+- Added Cleaned and Upscaled Textures - AA Stalhrim Fur
+- Added Cleaned and Upscaled Textures - AA Steel Soldier
+- Added Cleaned and Upscaled Textures - AA Studded Dragonscale
+- Added On A Crimson Trail
+- Added Cleaned and Upscaled Textures - Rare Curios
+- Added Unofficial Creation Club Patches - Rare Curios
+- Added Curated Curios - A Creation Club Integration Mod
+- Added The Cause - Rare Curios Patch
+- Added The Cause - Flawed Varla Stone Integration
+
+#### Website Changes
+
+- **Installation:** Added references to the new optional profiles.
+- **Customisation:** Slightly shuffled the contents of this page around.
+- **Customisation:** Added Swap to Obsidian Weathers section.
+- **Customisation:** Added Swap to Truth ENB section.
+- **Customisation:** Added Completely Remove ENB section.
+- **Creation CLub:** Added this page with instructions for the CC profile.
+- **Documentation:** Updated for the new additions.
+- **Screenshots:** Added eight new screenshots showcasing Obsidian Weathers/Truth ENB.
 
 ## Release 1.6.1
 
@@ -12,14 +606,14 @@ description: >
 
 Quick update to fix issues with ENB, it should download properly now. Sorry for the inconvenience!
 
-#### Mod Updates
+#### Mod Changes
 
 - Compiled with and requiring SSE 1.6.323 (latest)
 - Updated ENBSeries binaries (no version number change)
 - Updated Charge Dialogue Fix to 1.2
 - Updated Assorted Mesh Fixes to 0.34
 
-#### Website Updates
+#### Website Changes
 
 - **Installation:** Updated required version of SSE to 1.6.323 (latest)
 
@@ -71,7 +665,7 @@ The Immersive HUD MCM is now automated for anyone starting a new game (it does n
 - Reduced size of map markers by 25%
 - Changed the Mod Organizer 2 executable icon
 
-#### Website
+#### Website Changes
 
 - **Installation:** Updated link to NVIDIA drivers to point to the English page rather than the German one
 - **Installation:** Added Microsoft .NET 5.0 to the requirements section
