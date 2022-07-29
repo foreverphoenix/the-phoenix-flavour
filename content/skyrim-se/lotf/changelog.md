@@ -39,7 +39,6 @@ Added support for five new creations:
 - Updated Realistic Water Two to 5.4.1
 - Updated College of Winterhold Quest Start Fixes to 0.3.3
 - Modified the SSE Display Tweaks config file (controls resolution, added downscaling options which are commented out by default)
-- Removed old binkw64.dll from the Stock Game folder
 - Removed unnecessary Creations folder from the Stock Game folder
 
 #### CC Profile
