@@ -6,6 +6,43 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.8
+
+> TBD
+
+Added support for five new creations:
+
+- Ghosts of the Tribunal
+- Arcane Accessories
+- Arcane Archer Pack
+- Necromantic Grimoire
+- Staves
+
+#### Mod Changes
+
+- Added Sound Fix for Large Sector Drives
+- Added Freed Prisoner Uses Items
+- Added Mage Armor Script Fix
+- Added First Person Sneak Strafe-Walk Stutter Fix
+- Added Lights Out - Solitude Lighthouse Fix
+- Added Hawk Patch - Base Object Swapper Remake
+- Added Complemented Vanilla Smithing
+- Added No Crime Teleport RE
+- Added No Crime Teleport - Voice Consistency Fix
+- Updated Landscape Fixes for Grass Mods to 5.0
+- Updated College of Winterhold Quest Start Fixes to 0.3.3
+- Modified the SSE Display Tweaks config file (controls resolution, added downscaling options which are commented out by default)
+
+#### CC Profile
+
+- Added Less Ridiculous Arcane Archer Quivers
+- Reinstalled the UCCCP for the new creations
+- Reinstalled Creation Club - Misc Patches for the new creations
+
+#### Website
+
+- Removed Microsoft .NET 5.0 as a prerequisite (no longer required for Scrambled Bugs)
+
 ## Release 2.7
 
 > 14/07/2022

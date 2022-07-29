@@ -32,17 +32,6 @@ The Microsoft Visual C++ Redistributable is a basic package required by Mod Orga
 
 ![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
 
-### Microsoft .NET 5.0
-
-Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will not launch if you do not have it installed.
-
-- Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
-- Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
-
-> Please (re)install these even if you think you already have them. More than half of all support requests are solved by this.
-
-![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
-
 ## Skyrim SE Setup
 
 **LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
