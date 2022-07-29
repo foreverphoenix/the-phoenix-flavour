@@ -8,7 +8,9 @@ description: >
 
 ## Release 2.8
 
-> TBD
+> 30/07/2022
+
+This update is coming with some site changes. Most notably, we are beginning to group list documentation by game so LOTF is now in the "Skyrim SE Lists" category. Hopefully, I updated all internal and external links, but I might have missed some. If you find one leading into the void, let me know on Discord please.
 
 Added support for five new creations:
 
@@ -29,18 +31,29 @@ Added support for five new creations:
 - Added Complemented Vanilla Smithing
 - Added No Crime Teleport RE
 - Added No Crime Teleport - Voice Consistency Fix
+- Added Simple Player Home Improvements - Proudspire Manor Fix
+- Updated the ENBSeries binaries
+- Updated More Informative Console to 1.1.0
+- Updated Better Jumping SE to 1.7.3
 - Updated Landscape Fixes for Grass Mods to 5.0
+- Updated Realistic Water Two to 5.4.1
 - Updated College of Winterhold Quest Start Fixes to 0.3.3
 - Modified the SSE Display Tweaks config file (controls resolution, added downscaling options which are commented out by default)
+- Removed old binkw64.dll from the Stock Game folder
+- Removed unnecessary Creations folder from the Stock Game folder
 
 #### CC Profile
 
 - Added Less Ridiculous Arcane Archer Quivers
 - Reinstalled the UCCCP for the new creations
 - Reinstalled Creation Club - Misc Patches for the new creations
+- Updated Myrwatch - Editable Home Cells to 1.1.1
 
 #### Website
 
+- Moved the entire LOTF documentation to `/skyrim-se/lotf/`
+- Updated the MO2 requirements section, added .NET Framework 4.8
+- Fixed wrong version number for Skyrim in the Installation section
 - Removed Microsoft .NET 5.0 as a prerequisite (no longer required for Scrambled Bugs)
 
 ## Release 2.7

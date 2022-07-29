@@ -47,7 +47,7 @@ The user interface mods included with LOTF (as well as the vanilla Skyrim UI) ar
 
 ## Obsidian Weathers
 
-By default, LOTF is running [Wander - A Weather Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24439); however, you can swap this out with the pre-installed [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). For best results, also install **The Truth ENB** (see [ENB for LOTF](/lotf/enb-for-lotf/) page).
+By default, LOTF is running [Wander - A Weather Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24439); however, you can swap this out with the pre-installed [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). For best results, also install **The Truth ENB** (see [ENB for LOTF](/skyrim-se/lotf/enb-for-lotf/) page).
 
 > **Important:** If you are swapping mid-playthrough, you need to first force a default (vanilla) weather through the console (type `fw 81a` and press Enter), then go into an interior cell. Save the game, close it. Disable Wander, Wander Less Intense Fogs, and AOS Wander Patch. Load your save and save again. Quit. Enable Obsidian Weathers and related mods. Load your save and resume your playthrough.
 

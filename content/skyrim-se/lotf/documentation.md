@@ -24,11 +24,11 @@ For interiors I combined [Relighting Skyrim](https://www.nexusmods.com/skyrimspe
 
 ---
 
-Since LOTF 2.0, you also have the option to swap the weather overhaul to [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). Obsidian looks absolutely stunning (especially when combined with The Truth ENB, see below), arguably more an overhaul of vanilla than Wander which puts stronger emphasis on colours. Please refer to the [Customisation](/lotf/customisation/) page if you're interested in giving Obsidian a shot.
+Since LOTF 2.0, you also have the option to swap the weather overhaul to [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125). Obsidian looks absolutely stunning (especially when combined with The Truth ENB, see below), arguably more an overhaul of vanilla than Wander which puts stronger emphasis on colours. Please refer to the [Customisation](/skyrim-se/lotf/customisation/) page if you're interested in giving Obsidian a shot.
 
 ### The Truth ENB
 
-LOTF originally had no ENB as the intended preset, [The Truth ENB](https://www.afkmods.com/index.php?/files/file/2241-the-truth-enb/), was removed from the Nexus. I was using a different preset for a time, but ultimately decided that nothing was going to come close to The Truth (heh). Since LOTF 2.3, the list no longer has an ENB preset installed by default; however, detailed instructions for installing The Truth ENB are provided on the [ENB for LOTF](/lotf/enb-for-lotf/) page and the list is intended to be played with that preset.
+LOTF originally had no ENB as the intended preset, [The Truth ENB](https://www.afkmods.com/index.php?/files/file/2241-the-truth-enb/), was removed from the Nexus. I was using a different preset for a time, but ultimately decided that nothing was going to come close to The Truth (heh). Since LOTF 2.3, the list no longer has an ENB preset installed by default; however, detailed instructions for installing The Truth ENB are provided on the [ENB for LOTF](/skyrim-se/lotf/enb-for-lotf/) page and the list is intended to be played with that preset.
 
 Using The Truth ENB with Complex Particle Lights enabled allows you to use the amazing [Radiant - Candles](https://www.nexusmods.com/skyrimspecialedition/mods/55856) mod. You can find a comparison slider showing off the effect [here](https://imgsli.com/NzcwMjA).
 
@@ -121,4 +121,4 @@ AS for NPCs, I added some general quality of life fixes. They will flee dragon a
 
 Some Creations are supported in a separate and optional profile as of LOTF 2.0. I intend to ultimately support all Creations so that the LOTF CC profile becomes a great way to experience the new content in a lightly modded environment. I did include the [Unofficial Creation Club Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) where appropriate and installed kartoffel's [Creation Club Anniversary Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58801) textures as well as several of [TateTaylor's amazing CC integration mods](https://www.nexusmods.com/skyrimspecialedition/users/61720101?tab=user+files).
 
-You can find a full list of all Creations currently supported by LOTF as well as instructions on how to use the CC profile on the [Creation Club](/lotf/creation-club/)  page.
+You can find a full list of all Creations currently supported by LOTF as well as instructions on how to use the CC profile on the [Creation Club](/skyrim-se/lotf/creation-club/) page.

@@ -36,7 +36,7 @@ description: >
 
 Legends of the Frost features rebuilt terrain LOD with [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-84-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/?ct=1629204990) as well as highly improved object LOD and hybrid tree LOD generated with [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382). All facegen for vanilla NPCs was recreated at twice the vanilla resolution with higher quality assets.
 
-Please check the [Documentation](/lotf/documentation/) for more details on the included mods, or check out the [Load Order Library](https://loadorderlibrary.com/lists/legends-of-the-frost) page for the full mod list and load order.
+Please check the [Documentation](/skyrim-se/lotf/documentation/) for more details on the included mods, or check out the [Load Order Library](https://loadorderlibrary.com/lists/legends-of-the-frost) page for the full mod list and load order.
 
 ---
 
@@ -56,4 +56,4 @@ Since LOTF 2.0, there is now an optional **performance profile** included. While
 
 Just like my Fallout 4 list is named after one of my favourite songs, I picked "Legends of the Frost" as tribute to the incredible [Miracle of Sound](https://www.youtube.com/channel/UCSfoxYTlCPFfglckBLrjpsA) (he's brilliant and you should check him out!). Way back in 2012, he collaborated with the equally amazing [Malukah](https://www.youtube.com/user/malufenix) on a Skyrim-themed song called, you guessed it, [Legends of the Frost](https://www.youtube.com/watch?v=0FLQ4rACE-0). It's one of his older songs, but it holds up very well and I love how perfectly he captured the atmosphere of the game (as he always does).
 
-#### To install LOTF, please follow the [Installation Guide](/lotf/installation/).
+#### To install LOTF, please follow the [Installation Guide](/skyrim-se/lotf/installation/).
