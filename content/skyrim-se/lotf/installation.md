@@ -21,33 +21,20 @@ description: >
 
 The initial installation process will be faster if the downloaded archives are also on an SSD. They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list. If you delete them, you will have to redownload them if you want to update LOTF so it's recommended to keep them.
 
-### Visual C++ Redist
+### MO2 Prerequisites
 
-The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
+Mod Organizer 2 requires the Microsoft Visual C++ Redistributable and .NET Framework 4.8, two basic packages. Chances are you already have them installed, but please grab the two installers linked below and run them. If the packages are already present on your system, the installers should notify you.
 
-- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
-- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
-- Download the following file: `vc_redist.x64.exe`.
-- Run the executable, it will guide you through the installation process.
+- Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Download and install [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer).
 
-![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
-
-### Microsoft .NET 5.0
-
-Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will not launch if you do not have it installed.
-
-- Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
-- Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
-
-> Please (re)install these even if you think you already have them. More than half of all support requests are solved by this.
-
-![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
+If either of them were missing on your system, they will be installed now. Afterwards, you may be required to restart your PC.
 
 ## Skyrim SE Setup
 
 **LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
 
-- If you are on **Skyrim SE 1.6.342.0**, you can install LOTF without running the downgrade patcher.
+- If you are on **Skyrim SE 1.6.353.0**, you can install LOTF without any further steps.
 - If you are on any older version, please verify files through Steam to install the update.
 
 **Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
@@ -106,7 +93,7 @@ In most cases the installation should complete successfully on the first try. Th
 
 ## Playing LOTF
 
-Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu, **Legends of the Frost** (a renamed skse64_loader.exe) should already be selected and you can now launch the game by clicking **Run**.
+Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu, **Legends of the Frost** (a renamed `skse64_loader.exe`) should already be selected and you can now launch the game by clicking **Run**.
 
 > Legends of the Frost uses the **Stock Game Folder** system. There are no Game Folder Files to move manually.
 
@@ -118,13 +105,13 @@ LOTF only has a handful of Mod Configuration Menus (MCMs). **Presets are automat
 
 ### Customisation
 
-Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/lotf/customisation) page.
+Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/skyrim-se/lotf/customisation) page.
 
-It is *highly recommended* to add **The Truth ENB** to LOTF for much improved visuals. [Instructions here](/lotf/enb-for-lotf/).
+It is *highly recommended* to add **The Truth ENB** to LOTF for much improved visuals. [Instructions here](/skyrim-se/lotf/enb-for-lotf/).
 
 Additionally, there are two extra profiles included with the base LOTF one in Mod Organizer 2.
 
-- If you own **Creation Club** content / the AE DLC, you can use the LOTF CC profile. [Instructions here](/lotf/creation-club/).
+- If you own **Creation Club** content / the AE DLC, you can use the LOTF CC profile. [Instructions here](/skyrim-se/lotf/creation-club/).
 - If your system is on the lower mid end, you may want to try the **Performance** profile.
 
 > Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Legends of the Frost\profiles\Legends of the Frost\saves\` to `\Legends of the Frost\profiles\Legends of the Frost - Performance\saves\` manually. Please do not attempt to switch from the CC profile to either the regular or performance profile in an ongoing playthrough.

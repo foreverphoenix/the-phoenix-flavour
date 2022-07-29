@@ -16,7 +16,7 @@ To see which Creations are currently supported by LOTF, check the [spreadsheet](
 
 This folder should contain all Creations you own. You can recognise the ESPs and BSAs by the `cc` prefix in their names. If there are no Creations in this folder, you may need to update SSE or verify game files in Steam.
 
-Anniversary Edition owners need to launch the game once through Steam. The Creations will then be downloaded. This should already have been done during the initial [Installation](/lotf/installation/).
+Anniversary Edition owners need to launch the game once through Steam. The Creations will then be downloaded. This should already have been done during the initial [Installation](/skyrim-se/lotf/installation/).
 
 If you do not own the Anniversary Edition DLC, you may need to download the Creations separately from the Creation Club. In order to access the Creation Club through the main menu, disable the mod **ReCleaned Menu** under the **INTERFACE** separator in MO2 (or simply launch the unmodded game through Steam).
 

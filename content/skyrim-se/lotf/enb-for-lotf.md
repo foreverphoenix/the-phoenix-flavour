@@ -10,7 +10,7 @@ description: >
 
 I personally believe that the extra steps required for the Truth ENB are more than worth it as the preset looks amazing, especially with Obsidian Weathers (though it looks good with Wander as well).
 
-Check the [Screenshots](/lotf/screenshots/) page for examples. The LOTF Obsidian section has pictures taken with Truth ENB.
+Check the [Screenshots](/skyrim-se/lotf/screenshots/) page for examples. The LOTF Obsidian section has pictures taken with Truth ENB.
 
 ## Download The Truth ENB
 
