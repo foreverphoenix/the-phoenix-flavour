@@ -372,7 +372,7 @@ I'm a huge fan of fadingsignal's [K-9 Harness](https://www.nexusmods.com/fallout
 
 ### CC Modular Military Backpack
 
-Also by fadingsignal is the [Modular Military Backpack](https://fallout.fandom.com/wiki/Modular_military_backpack) which matches the K-9 Harness beautifully. It is a Creation so you will need to buy it from the Creation Club. There are instructions for installing the Creation in WTP on the [Installation](/fallout-4/wtp/installation/#creation-club) page.
+Also by fadingsignal is the [Modular Military Backpack](https://fallout.fandom.com/wiki/Modular_military_backpack) which matches the K-9 Harness beautifully. It is a Creation so you will need to buy it from the Creation Club. There are instructions for installing the Creation in WTP on the [Installation](/fo4/wtp/installation/#creation-club) page.
 
 Note that the backpack will no longer be given to you upon leaving Vault 111 and it will not be distributed either. You can find a single one within Vault 111 that you can pick up at the start of the game.
 

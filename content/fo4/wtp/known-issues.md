@@ -12,7 +12,7 @@ WTP is a performance friendly setup and should run well for most users. In fact,
 
 That being said, Fallout 4 is prone to performance issues, especially stuttering. For performance in general please keep in mind that resolutions above 1080p can incur a sizeable frame loss. 4K does not scale well. Having the game and/or MO2 installed on an HDD instead of an SSD may similarly cause frame drops or some stuttering.
 
-If you are struggling with frame drops I would first recommend swapping to the **Performance INIs**. You can find instructions [here](/fallout-4/wtp/installation/#performance-inis).
+If you are struggling with frame drops I would first recommend swapping to the **Performance INIs**. You can find instructions [here](/fo4/wtp/installation/#performance-inis).
 
 If you are still unhappy about your framerate, you can delete the **d3d11.dll** from your Fallout 4 root folder to disable ENB.
 

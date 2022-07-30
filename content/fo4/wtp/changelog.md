@@ -111,7 +111,7 @@ startquest radiodiamondcity
 
 #### Website Changes
 
-- [MCM Settings](/fallout-4/wtp/documentation/mcm-settings/): Updated for the new changes (specifically in the FallUI mod MCMs)
+- [MCM Settings](/fo4/wtp/documentation/mcm-settings/): Updated for the new changes (specifically in the FallUI mod MCMs)
 
 ## Release 2.3.3
 
@@ -264,8 +264,8 @@ Remember to copy over Game Folder Files again to update the ENB preset.
 
 #### Website Changes
 
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Added section with instructions for ultrawide compatibility.
-- [Mod Config](/fallout-4/wtp/mod-config/): Updated the MCM preset instructions to account for the new 21:9 preset.
+- [Finalisation](/fo4/wtp/installation/finalisation/): Added section with instructions for ultrawide compatibility.
+- [Mod Config](/fo4/wtp/mod-config/): Updated the MCM preset instructions to account for the new 21:9 preset.
 
 ![Widescreen Main Menu](/Pictures/wtp/installation/widescreen-main-menu.jpg)
 
@@ -303,7 +303,7 @@ Welcome to Paradise 2.0 goes back to the roots. The list was refocused to vanill
 - Replaced Workshop Re-arranged with smaller, more managable workshop additions.
 - New retextures, most of which were added to the WTP texture packs for better performance.
 - MCM settings can now be applied automatically via a universal WTP preset thanks to MCM Settings Manager.
-- Finally some documentation in the form of the new [WTP Visuals](/wtp/documentation/wtp-visuals/) and [WTP Gameplay](/wtp/documentation/wtp-gameplay/) pages.
+- Finally some documentation in the form of the new [WTP Visuals](/fo4/wtp/documentation/wtp-visuals/) and [WTP Gameplay](/fo4/wtp/documentation/wtp-gameplay/) pages.
 
 **ENB and lighting changes:**
 
@@ -464,20 +464,20 @@ I realised that without the stat changes, there is no need to have separate Knig
 
 #### Website Changes
 
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Removed the LUTs section
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Removed VSYNC section (it is now always enabled as it should be)
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Updated the FPS Cap section including the screenshot
-- [Mod Config](/fallout-4/wtp/mod-config/): Completely overhauled this page to account for automatic MCM settings loading and the new mods
+- [Finalisation](/fo4/wtp/installation/finalisation/): Removed the LUTs section
+- [Finalisation](/fo4/wtp/installation/finalisation/): Removed VSYNC section (it is now always enabled as it should be)
+- [Finalisation](/fo4/wtp/installation/finalisation/): Updated the FPS Cap section including the screenshot
+- [Mod Config](/fo4/wtp/mod-config/): Completely overhauled this page to account for automatic MCM settings loading and the new mods
 - Removed the Resources section
 - Added the Documentation section
-- [Game Folder Files](/fallout-4/wtp/documentation/game-folder-files/): Updated the page with the latest additions and changes
-- [WTP Visuals](/fallout-4/wtp/documentation/wtp-visuals/): Added page to discuss WTP's graphics mods, including a list of textures in the five WTP repacks
-- [WTP Gameplay](/fallout-4/wtp/documentation/wtp-gameplay/): Added page to discuss WTP's gameplay changes, including custom hotkeys and unique item locations
+- [Game Folder Files](/fo4/wtp/documentation/game-folder-files/): Updated the page with the latest additions and changes
+- [WTP Visuals](/fo4/wtp/documentation/wtp-visuals/): Added page to discuss WTP's graphics mods, including a list of textures in the five WTP repacks
+- [WTP Gameplay](/fo4/wtp/documentation/wtp-gameplay/): Added page to discuss WTP's gameplay changes, including custom hotkeys and unique item locations
 - Renamed the "Troubleshooting" page to "Known Issues"
-- [Known Issues](/fallout-4/wtp/known-issues/): Added "Invisible Spouse" bug
-- [Known Issues](/fallout-4/wtp/known-issues/): Updated the "Flickering Puddles" bug, eliminated in WTP 2.0
-- [Known Issues](/fallout-4/wtp/known-issues/): Removed the "Nights are too dark" section (they are no longer as dark in WTP 2.0)
-- [Known Issues](/fallout-4/wtp/known-issues/): Added the "Load screens appear frozen" issue (which is not actually an bug)
+- [Known Issues](/fo4/wtp/known-issues/): Added "Invisible Spouse" bug
+- [Known Issues](/fo4/wtp/known-issues/): Updated the "Flickering Puddles" bug, eliminated in WTP 2.0
+- [Known Issues](/fo4/wtp/known-issues/): Removed the "Nights are too dark" section (they are no longer as dark in WTP 2.0)
+- [Known Issues](/fo4/wtp/known-issues/): Added the "Load screens appear frozen" issue (which is not actually an bug)
 
 ---
 
@@ -897,10 +897,10 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 #### Website Changes
 
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Added this new page and moved the game resolution instructions here.
-- [Finalisation](/fallout-4/wtp/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
-- [New Game](/fallout-4/wtp/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
-- [New Game](/fallout-4/wtp/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
+- [Finalisation](/fo4/wtp/installation/finalisation/): Added this new page and moved the game resolution instructions here.
+- [Finalisation](/fo4/wtp/installation/finalisation/): Added instructions on how to force VSYNC and cap the framerate.
+- [New Game](/fo4/wtp/installation/new-game/): Removed LooksMenu related instructions as that mod was removed.
+- [New Game](/fo4/wtp/installation/new-game/): Added *seriously* detailed instructions for Start Me Up.
 
 ## Release 1.1
 
@@ -919,8 +919,8 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 
 #### Website Changes
 
-- [Wabbajack](/fallout-4/wtp/installation/wabbajack/): Added new section on how change the game resolution.
-- [Troubleshooting](/fallout-4/wtp/appendix/troubleshooting/): Added this page with a few known issues.
+- [Wabbajack](/fo4/wtp/installation/wabbajack/): Added new section on how change the game resolution.
+- [Troubleshooting](/fo4/wtp/appendix/troubleshooting/): Added this page with a few known issues.
 
 ## Release 1.0.1
 
