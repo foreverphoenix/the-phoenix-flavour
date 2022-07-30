@@ -64,6 +64,4 @@ jobs:
               zone: ${{ secrets.CLOUDFLARE_ZONE }}
               email: ${{ secrets.CLOUDFLARE_EMAIL }}
               global_token: ${{ secrets.CLOUDFLARE_KEY }}
-              api_token: ${{ secrets.CLOUDFLARE_TOKEN }}
-
 
