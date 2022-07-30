@@ -933,5 +933,3 @@ Please delete **xSE PluginPreloader.ini** from your **root** folder. Move the ne
 > 26/09/2020
 
 Initial release. For more info check the [Patreon post](https://www.patreon.com/posts/phoenix-flavour-42049352).
-
-(kick)
