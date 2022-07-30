@@ -53,7 +53,6 @@ Following initial feedback, I decided to completely cut all included fixes that 
 ### Texture Fixes
 
 - [Eye Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/5445) improves the vanilla normal maps, but may not be compatible with any replacer mod.
-- [Blood (Green) Dragon Texture Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51097)
 - [HD Serpentine Dragon and Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18370)
 
 ### Mesh Fixes
@@ -72,3 +71,4 @@ Following initial feedback, I decided to completely cut all included fixes that 
 - [Hawk Patch - Base Object Swapper Remake](https://www.nexusmods.com/skyrimspecialedition/mods/71546)
 - [Werewolf Claws Affect Spider Webs](https://www.nexusmods.com/skyrimspecialedition/mods/11431)
 - [Cumulative Fix for Eye Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/71524), the underwater fix removes blending on the lashes which can look really weird so you may want to use the version without that fix.
+- [Farm Hat 01 Clipping Fix](https://www.nexusmods.com/skyrimspecialedition/mods/72213)

@@ -20,27 +20,14 @@ By itself, **Skyrim Modding Essentials** is tiny: The mods folder is about 2.5GB
 
 However, you should keep in mind that a decently sized mod setup can easily exceed 50 or even 100GB in size. It is recommended to install any mod setup on an **SSD** for improved performance and faster loading times.
 
-### Visual C++ Redist
+### MO2 Prerequisites
 
-The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
+Mod Organizer 2 requires the Microsoft Visual C++ Redistributable and .NET Framework 4.8, two basic packages. Chances are you already have them installed, but please grab the two installers linked below and run them. If the packages are already present on your system, the installers should notify you.
 
-- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
-- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
-- Download the following file: `vc_redist.x64.exe`.
-- Run the executable, it will guide you through the installation process.
+- Download and install [Visual C++ 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Download and install [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer).
 
-![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
-
-### Microsoft .NET 5.0
-
-Additionally, .NET 5.0 is required for the mod **Scrambled Bugs**. The game will not launch if you do not have it installed.
-
-- Open the official [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) website.
-- Download the **desktop app x64** *and* **console app x64** installers and run them one after the other.
-
-> Please (re)install these even if you think you already have them. More than half of all support requests are solved by this.
-
-![Dot NET Download](/Pictures/lotf/installation/dot-net-download.png)
+If either of them were missing on your system, they will be installed now. Afterwards, you may be required to restart your PC.
 
 ## Skyrim SE Setup
 
@@ -102,3 +89,43 @@ You can follow along as Wabbajack installs the list. It will display previews wi
 **In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@SME` role, and post your `wabbajack.current.log` in the `#sme-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
+
+## Tool Setup
+
+Almost all tools included with SME are automatically configured for you. However, there are exceptions as some tools cannot be shipped with custom profiles so you will have to create them for yourself.
+
+### LOOT
+
+If you want to configure LOOT for SME, follow these steps:
+
+- Run **LOOT** through Mod Organizer 2.
+
+This should load your default game installation folder instead of your SME Game Root folder because it uses the registry path to find the game. Updating that for SME is possible, but also inconvenient because it breaks Creation Organizer and would force you to constantly update the path when switching between different mod setups. It is easier to just modify the LOOT settings.
+
+- Open the **Settings** in LOOT.
+
+![Open LOOT Settings](/Pictures/sme/open-loot-settings.png)
+
+- Go to the **TES V: Skyrim Special Edition** settings.
+- Change **Install Path** to your SME Game Root folder.
+- Click **Apply** and restart LOOT.
+
+![LOOT Update Path](/Pictures/sme/loot-update-path.png)
+
+This will update the game path for SME only thanks to [LOOT Config Loader for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/60864) which created a separate `settings.toml` for SME under `\Mod Organizer 2\Loot Config Files\`. Any global instance of LOOT or installations in different mod setups will be unaffected.
+
+### zEdit
+
+If you want to configure zEdit for SME, follow these steps:
+
+- Run **zEdit** through Mod Organizer 2.
+- Click the gears icon to open the settings.
+
+![zEdit Profiles Settings](/Pictures/sme/zedit-profiles-settings.png)
+
+- Create a new profile with **Skyrim SE** as the game.
+- Point **Path** at the **Game Root** folder within your SME installation.
+- Make sure this profile is selected when using any zEdit module with SME.
+
+![zEdit Profiles Settings](/Pictures/sme/zedit-sme-profile.png)
+

@@ -12,7 +12,7 @@ The list was made for Skyrim SE 1.6.x, though the Anniversary Edition DLC is not
 
 ## Features
 
-Check the complete mod list and load order on [Load Order Library](https://loadorderlibrary.com/lists/skyrim-modding-essentials-sme).
+Check the complete mod list and load order on [Load Order Library](https://loadorderlibrary.com/lists/skyrim-modding-essentials).
 
 - A lean, basic setup clocking in at around 3.8GB plus less than 1GB of downloads.
 - Latest stable version of [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) installed with a separate copy of the vanilla game (Stock Game Folder).
@@ -44,7 +44,7 @@ Check all the mods from the Widescreen Support section. The monitor resolution s
 
 **Are any texture replacers included?**
 
-No, because I wanted to keep the list as lean as possible and because there is no point. For those who wish to have improved vanilla textures, just grab [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/mods/45306). Everyone else has their preferred texture packs, or they're completely nuts and hand-pick everything (don't like at me like that, I know I'm not the only one who does it). Similarly, there are no LODs. Do 'em yourself, that's what the list is for.
+No, because I wanted to keep the list as lean as possible and because there is no point. For those who wish to have improved vanilla textures, just grab [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/mods/45306). Everyone else has their preferred texture packs, or they're completely nuts and hand-pick everything (don't look at me like that, I know I'm not the only one who does it). Similarly, there are no LODs. Do 'em yourself, that's what the list is for.
 
 **Can I suggest a mod for inclusion?**
 
