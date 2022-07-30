@@ -6,6 +6,39 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.2
+
+> 30/07/2022
+
+With this update, I migrated the SME documentation to the new Skyrim SE Lists section of the website which breaks all links. I fixed those I could think of but might have missed some in which case please let me know on Discord.
+
+In other news, I disabled the Fix Game Registry Path plugin for now. It is very convenient for LOOT (which uses the registry key to locate the game), but isn't really needed for anything else and also breaks Creation Organizer. On top of that, it becomes cumbersome to constantly update the path when swapping between modded setups. I found a different solution for making LOOT work.
+
+#### Mod Changes
+
+- Added Quest Journal Limit Bug Fixer
+- Added Enhanced Invisibility
+- Added Enhanced Reanimation
+- Added Combat Music Fix SKSE
+- Added Keywords Fixed
+- Added dunPOISoldiersRaidOnStart Script Tweak
+- Added Modern Toggle Walk-Run Fix - With Cobb Controlmap Fix
+- Updated Wrye Bash to 310 (non-beta)
+- Updated bundled ENBSeries binaries
+- Removed the Bashed Patch that SOMEHOW snuck into the Data folder
+- Removed Modern Toggle Walk-Run Fix
+- Fix Game Registry Path is now disabled by default
+
+#### Website Changes
+
+- **Introduction:** Fixed loadorderlibrary.com link for SME under Features
+- **Installation:** Improved the MO2 prerequisites section and added NET 4.8
+- **Installation:** Removed the NET 5.0 requirement (no longer needed)
+- **Installation:** Added LOOT post-installation setup instructions
+- **Installation:** Added zEdit post-installation setup instructions
+- **Recommendations:** Removed Blood (Green) Dragon Texture Fix (included in the USSEP)
+- **Recommendations:** Added Farm Hat 01 Clipping Fix
+
 ## Release 1.1
 
 > 21/07/2022
