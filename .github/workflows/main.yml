@@ -49,10 +49,19 @@ jobs:
           publish_branch: master
           cname: thephoenixflavour.com
       
-      - name: Purge cache
-        uses: jakejarvis/cloudflare-purge-action@master
-        env:
-          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
-          # CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-          CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
-          CLOUDFLARE_KEY: ${{ secrets.CLOUDFLARE_KEY }}
+      # - name: Purge cache
+      #  uses: jakejarvis/cloudflare-purge-action@master
+      #  env:
+      #    CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      #    # CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+      #    CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
+      #    CLOUDFLARE_KEY: ${{ secrets.CLOUDFLARE_KEY }}
+
+
+      - name: Cloudflare Cache Cleaner
+        uses: Cyb3r-Jak3/action-cloudflare-cache@v1.1.0
+        with:
+              zone: ${{ secrets.CLOUDFLARE_ZONE }}
+              email: ${{ secrets.CLOUDFLARE_EMAIL }}
+              global_token: ${{ secrets.CLOUDFLARE_KEY }}
+
