@@ -10,7 +10,7 @@ description: >
 
 Thanks to the [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497), many mods can now be tweaked through the MCM which can be accessed through the pause menu. For Welcome to Paradise, most settings were already adjusted and can be applied using [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195).
 
-> If you're interested in what kind of changes the preset includes, check the [MCM Settings](/fallout-4/wtp/mcm-settings/) page.
+> If you're interested in what kind of changes the preset includes, check the [MCM Settings](/fo4/wtp/mcm-settings/) page.
 
 ### Load MCM Preset
 
@@ -76,6 +76,6 @@ The **Visible Idle Markers Settings** holotape can be found in the **MOD CONFIG*
 
 ---
 
-**Before diving into the game, I highly recommend checking out the [WTP Documentation](/fallout-4/wtp/documentation/) or at least the [keybinds](/fallout-4/wtp/documentation/#keybinds) section.**
+**Before diving into the game, I highly recommend checking out the [WTP Documentation](/fo4/wtp/documentation/) or at least the [keybinds](/fo4/wtp/documentation/#keybinds) section.**
 
 #### Enjoy your playthrough!
