@@ -79,4 +79,4 @@ You can see the details of my old setup below, sufficient for playing at 1440p w
 
 > I have since upgraded to an i7 10700k and a RTX 3080 which are certainly NOT required to play WTP at a stable frame rate.
 
-#### Get started with the [Installation](/fallout-4/wtp/installation/) now.
+#### Get started with the [Installation](/fo4/wtp/installation/) now.
