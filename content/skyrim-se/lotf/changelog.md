@@ -19,11 +19,13 @@ In 2.8, I switched to SSE Display Tweaks for controlling the monitor resolution;
 - Added Enhanced Invisibility
 - Added dunPOISoldiersRaidOnStart Script Tweak
 - Added Faster Reanimation
+- Updated College of Winterhold Quest Start Fixes to 0.4
 - Commented out resolution in the SSE Display Tweaks cusom INI again
 
 #### CC Profile
 
 - Updated Terrain Fixes for CC Mods to 1.2
+- Fixed missing Myrwatch Home Fix - UCCCP plugin
 
 ## Release 2.8
 
