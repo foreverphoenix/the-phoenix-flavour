@@ -6,6 +6,25 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.8.1
+
+> 31/07/2022
+
+In 2.8, I switched to SSE Display Tweaks for controlling the monitor resolution; however, as it turns out this does not currently seem to work in Wabbajack. Apologies for the inconvenience - I reverted the change for now.
+
+#### Mod Changes
+
+- Added Combat Music Fix SKSE
+- Added Enhanced Reanimation
+- Added Enhanced Invisibility
+- Added dunPOISoldiersRaidOnStart Script Tweak
+- Added Faster Reanimation
+- Commented out resolution in the SSE Display Tweaks cusom INI again
+
+#### CC Profile
+
+- Updated Terrain Fixes for CC Mods to 1.2
+
 ## Release 2.8
 
 > 30/07/2022
