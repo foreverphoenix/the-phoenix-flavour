@@ -6,6 +6,12 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.2.1
+
+> 31/07/2022
+
+- Hotfix for the SSE Display Tweaks configuration file
+
 ## Release 1.2
 
 > 30/07/2022
