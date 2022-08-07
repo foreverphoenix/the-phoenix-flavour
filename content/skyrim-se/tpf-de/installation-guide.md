@@ -185,9 +185,11 @@ If you want to use hair with physics for men, you will find instructions on how 
 
 After you get control over movements of your character, don’t go anywhere right away. 
 It will be awesome if you wait for a pop-up about finishing things setting up to appear before doing anything else.
-Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character.
+Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character after talking with Ralof or Hadvar.
 
-After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
+Then another pop-up will appear, which allows to allocate 35 skill points to whatever skill trees your character is going to use during their adventure (5 points per step, max 10 points in one tree). When you have chosen a tree, which you would like to put your points into by pressing `Enter` or just clicking on it, then press `Tab` to continue allocating points. After spending all the points, you will see that *COMPLETE* option is chosen by default, so just press `Tab` button once again to finish the allocation. Next you will be able to allocate 60 points for your base health, magicka and stamina in the same manner (10 points per step, max 130 points for one attribute).
+
+Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Look What You See** - Press your `V` key to toggle headtracking in the third person view.

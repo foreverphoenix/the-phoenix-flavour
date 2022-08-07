@@ -11,11 +11,12 @@ I have tried to write as little information as I don't want to spoil the content
 
 ## Alternative Start and Ending
 
-At first, there are some character presets available for your walkthrough. To use them, choose `Presets` option in the top right side of the character creation menu,
-then press `F9` button to load available presets and then choose the desired one according to the race and the gender you have chosen for the character.
+Right in the beginning of the game you can pick one of our character presets, which were made by me and some other list users.
 
 [*Ralof or Hadvar*](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
 In some way it isn't an alternative start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
+
+Then [*Choose Your Starting Skills*](https://www.nexusmods.com/skyrimspecialedition/mods/25630) makes it easier for us to define our character's strong sides right at the beginning of the game by allocating our skill points and base stats according to what we are going to use the most (magic, hand to hand combat etc.). 
 
 [*End Times*](https://www.nexusmods.com/skyrimspecialedition/mods/39201) adds a bit of spice and action to the game as it will simply end it (immersively) if you don't finish the game's main quest line in 14 real life days, that means 336 real life hours. That should be enough to do many other things in between saving the world for the first time. There are many reasonings for it - for you to stop ignoring the main quest and so you can get some of the new quests which are locked behind the main quest line. Also consistence, because sooner or later there will be mentions of you being Dragonborn. Then it doesn't make sense gameplay wise to ignore it, especially considering the fact that now Alduin is a real threat to the world. And don't worry - the game won't end if you finish the main quest. You can always enter into the mod's MCM to see how much time you have left if you have forgotten about it. Be sure to remember.
 
@@ -87,7 +88,7 @@ If you want to change the button for dodging, do the following:
 6. Press on *Save* button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
-* [Interacting with different terrain](https://www.nexusmods.com/skyrimspecialedition/mods/63232) - Seek and interact with floating white orbs in dungeons to traverse through different obstacles on your way. .
+* [Interacting with different terrain](https://www.nexusmods.com/skyrimspecialedition/mods/63232) - Press `;` button, then seek and interact with floating white orbs in dungeons to traverse through different obstacles on your way. Press the same button again to toggle orbs off (just for visuals, you will still be able to do all the action if you can guess where the markers are placed).
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
 * [Claiming strongholds](https://www.nexusmods.com/skyrimspecialedition/mods/29882) - Claim several outposts for the faction you support to keep hostile enemies from coming back making Skyrim a safer place. 
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.

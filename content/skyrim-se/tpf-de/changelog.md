@@ -8,11 +8,15 @@ description: >
 
 ## Release 2.9
 
-> xxx
+> 07.08.2022
 
 **New save is required.**
 
-xxx
+About sad things, at first. Even thou I have asked people to fill in the feedback survey, at the moment I was writing this only 39 people have filled it up. After the first feedback survey was closed, 50 people were able to help thou the list at that time has being in use by less people. I have decided not to do the feedback report. I guess many just people don't care, so I won't care about reporting too much either. :P Thanks to those people, who really tried, you will be able to partially get the report by reading the changelog. We are going to see how it goes later, but soon the survey will be closed.
+
+About happy things. I would say this update is more about polishing our landscapes, while also improving some other aspects of the game. Now you will able to enjoy Happy Little Trees in their full glory together with mods, which compliment them like Happy Little Shrubs and our improved LOD. Also welcome another band of cats to our Skyrim from Khajiit Will Follow, new content addition. Some of items from mods became much more unique thanks to Snazzy Items series of mods, while bards are more happy, because not only Dragonborn troubles them not as often as always, but also because now they reside in their beautiful JK's Bards College. Also now you can toggle animated traversal action markers by pressing `;` button.
+
+Also our main page and the guides are now on Phoenix's website, feel free to check it out - https://thephoenixflavour.com/skyrim-se/tpf-de. I have tried to make each documentation piece even better than before, so let's hope it will help even more people than before.
 
 ### Added CC Content
 
@@ -25,6 +29,8 @@ xxx
 * FadingSignal's Hide UI - Improved
 * Pause Menu After Loading - Auto Unpause
 * Complementary Grass Fixes
+* EVG Animated Traversal Skyrim Integration Patch
+* Bruma Exterior Lighting Fixes
 * Happy Little Trees - Bruma LOD
 * Project AHO - Eastern Dwemer Towers of Solstheim Patch
 * Wyrmstooth Animated ENB Light
@@ -48,12 +54,13 @@ xxx
 * Pandorable's Serana
 > Older version.
 * Pandorable's Valerica
+* Choose Your Starting Skills
 
 ### Removed Mods
 
 * Iron Dusk's Laboratory - Saddlebags
 * Seasonal Aspen Trees
-> I would like to use just Happy Little Trees for our trees. Made Happy Little Trees aspens seasonal by using data from Turn of the Seasons.
+> I would like to try full Happy Little Trees suite especially with all the new mods complimenting them. 
 * Toggle Compass Hotkey
 * Darkend
 * The Final Cataclysm - 2020
@@ -65,7 +72,7 @@ xxx
 * Sweeping Organizes Stuff - Use Broom to Clean Mess
 > After using it, in many situations items start jiggling.
 * Refined Volkihars
-> I guess bringing Charmers of the Reach meshes wasn't a good plan from my part. I just loved how close to vanilla, but still beautiful Serana looked with it. 
+> I guess bringing Charmers of the Reach meshes wasn't a good plan from my part. I just love how close to vanilla, but still beautiful Serana looks with it, thou maybe our Serana needs to have a bit more mature look, which is offered by Pandorable's Serana. 
 
 ### Changes
 
@@ -74,9 +81,11 @@ xxx
 * Tweaked saturation down just a bit.
 * Increased shadow draw distance.
 * Changed all our walking, running and sprinting animations to Goetia's ones. The other animations related to movement were removed.
+* Made animated traversal action markers toggable by pressing `;` button.
 * Disabled actor fade so fights with dragons won't look odd if camera is pretty close to them.
-* Scrubs (which you can see inside Whiterun) are looking normal now.
+* Scrubs (which you can see inside Whiterun, some are even on roads) are looking normal now.
 * Added Lawbringer patch to the new Silent Moons Camp.
+* Many other fixes.
 
 ### Updated Mods
 
@@ -86,6 +95,7 @@ xxx
 * EVG Animated Traversal - Patch Collection
 * Serana Dialogue Add-On
 * College of Winterhold - Quest Expansion
+* Beyond Skyrim - Bruma
 * Additional Clockwork
 * The Wheels of Lull - Unwound Edition
 * Undeath - Classical Lichdom

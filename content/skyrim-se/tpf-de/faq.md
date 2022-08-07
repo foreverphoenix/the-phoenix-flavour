@@ -18,6 +18,12 @@ It is possible to have both TPF and my fork's WJ versions on your computer by ma
 
 Well, it isn't, but it is just purely visual bug of MO2, which happens when you use Wabbajack to install the list. Nevermind it.
 
+---
+
+> Are all releases of the list available to be downloaded?
+
+Yes, you will be able to find them on [TPF DE's Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/51973).
+
 ## Content
 
 > Will any of the survival mods or Legacy of the Dragonborn ever be added to TPF DE?
@@ -28,7 +34,7 @@ No. There are already many modpacks and guides, which are built around LotD and/
 
 > What about that, that and... that?
 
-Feel free to check my [feedback reports](https://drive.google.com/drive/folders/1u030JaTyAtv5IT2uMx-0oHidyLpXGPuf?usp=sharing) if you want to know which mods possibly won't make it into the list.
+Feel free to check my [feedback reports](https://drive.google.com/drive/folders/1u030JaTyAtv5IT2uMx-0oHidyLpXGPuf?usp=sharing) if you want to know which mods possibly won't make it into the list. I usually make it pretty clear.
 
 ## Gameplay
 

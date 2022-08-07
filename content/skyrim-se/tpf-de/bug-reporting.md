@@ -48,9 +48,8 @@ That is important for me, because then I will know that issue is global and mayb
 > A person has sent me a screenshot of a guard with black face and I
 see all the data about the guard from console in *#tpf-de-wabbajack-support*.
 
-*I am on the unmodified version 1.0 of TPF DE. Was going to Whiterun for the first time, right near the gate of the
-city one of the guards has a black face.*
+*I am on the unmodified version 1.0 of TPF DE. Was going to Whiterun for the first time, right near the gate of the city one of the guards has a black face.*
 
 > A person has sent me a crashlog in *#tpf-de-crash-reports*.
 
-I am on the unmodified version 1.0 of TPF DE. If I try to enter into Whiterun, the game crashes. Tried to enter 2 more times, but the issue is still there. Crashlogs were all the same._
+*I am on the unmodified version 1.0 of TPF DE. If I try to enter into Whiterun, the game crashes. Tried to enter 2 more times, but the issue is still there. Crashlogs were all the same.*
