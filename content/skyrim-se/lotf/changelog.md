@@ -6,6 +6,21 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.9
+
+> TBD
+
+#### Mod Changes
+
+- Added Ore Vein Texture Fix
+- Updated DynDOLOD Resources to 3 Alpha 28
+- Updated Contextual Crosshair to 1.2.2
+- Updated Landscape Fixes to Grass Mods to 5.0 (silent update)
+- Updated Simplicity of Snow to 0.7
+- Updated Tempered Racial Textures to 1.1
+- Updated Slightly Better - Old People Consistency to 1.1
+- Disabled a CC mod that was accidentally enabled on the regular/performance profiles
+
 ## Release 2.8.1
 
 > 31/07/2022
