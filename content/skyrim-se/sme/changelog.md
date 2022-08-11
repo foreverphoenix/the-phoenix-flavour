@@ -6,6 +6,29 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.3
+
+> TBD
+
+#### Mod Changes
+
+- Added Root Builder (MO2 plugin)
+- Added Profile Sync (MO2 plugin)
+- Updated SSE Creation Fixes Update to 3.3
+- Updated powerofthree's Papyrus Extender to 5.2
+- Updated College of Winterhold Quest Start Fixes to 0.4
+- Updated DynDOLOD Resources to 3 Alpha 28
+- Restored proper SSE Display Tweaks Custom INI (doesn't currently modify resolution)
+
+#### Website Changes
+
+- **Installation:** Added .NET 6.0 SDK installation instructions (Synthesis prerequisite)
+- **Installation:** Added a warning about antivirus programs and recommended setting exclusions
+- **Installation:** Added Wrye Bash setup instructions
+- **Installation:** Added BodySlide setup instructions
+- **Documentation:** Added warning to generate terrain LOD to a location outside the MO2 directory
+- **Documentation:** Added link to Althro's guide to LOD generation
+
 ## Release 1.2.1
 
 > 31/07/2022
