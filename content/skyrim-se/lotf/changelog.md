@@ -6,6 +6,38 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 2.9
+
+> TBD
+
+Added support for the following creations:
+
+- Bone Wolf
+- Goblins
+- Pets of Skyrim
+- Plague of the Dead
+- Saturalia Holiday Pack
+- Wild Horses
+
+#### Mod Changes
+
+- Added Kezyma's Profile Sync
+- Added Ore Vein Texture Fix
+- Updated DynDOLOD Resources to 3 Alpha 28
+- Updated Contextual Crosshair to 1.2.2
+- Updated Landscape Fixes to Grass Mods to 5.0 (silent update)
+- Updated Simplicity of Snow to 0.7
+- Updated Tempered Racial Textures to 1.1
+- Updated Slightly Better - Old People Consistency to 1.1
+- Removed deorder's plugins
+- Disabled a CC mod that was accidentally enabled on the regular/performance profiles
+
+#### CC Profile
+
+- Added Bone Wolf and Plague of the Dead - Spawns Corrected
+- Reinstalled the USCCCP for the newly added creations
+- Reinstalled CC Misc Patches for the newly added creations
+
 ## Release 2.8.1
 
 > 31/07/2022
