@@ -41,13 +41,15 @@ The following tools are installed and configured for the SME Game Root folder:
 - [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 - [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313)
 
-Terrain LOD generated with SSELODGen will be placed in `Skyrim Modding Essentials\Tools\xLODGen\Output\`. Move it from there into the mods folder.
+Terrain LOD generated with SSELODGen will be placed in `Skyrim Modding Essentials\Tools\xLODGen\Output\`. Move it from there into the mods folder. It is recommended to change the xLODGen output to a location *outside* your MO2 folder before generating terrain LOD.
 
-Though BethINI is included, I did not regenerate the INI files. The SME profile in Mod Organizer 2 is using Skyrim's default INIs with the High preset.
+Though BethINI is included, I did not regenerate the INI files. The SME profile in Mod Organizer 2 is using Skyrim's default INIs with the High preset. Profile-specific INI files are enable.
 
 Make backups of your load order before running Wrye Bash. It may sometimes try to deactivate your plugins and reorder them alphabetically.
 
 I added LOOT because it can be quite useful for curating your own load order and master list, but please do not just click "Sort" and expect your setup to be magically perfected.
+
+> For more information for LOD generation, please check [Althro's guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md).
 
 ### MO2 Plugins
 
@@ -57,10 +59,12 @@ I added LOOT because it can be quite useful for curating your own load order and
 - [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813)
 - [LOOT Config Loader](https://www.nexusmods.com/skyrimspecialedition/mods/60864), see [Github](https://github.com/Exit-9B/LOOTConfigLoader/blob/main/README.md) for documentation
 - [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329)
+- [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
+- [Kezyma's Profile Sync](https://www.nexusmods.com/skyrimspecialedition/mods/60690)
 
 LOOT Preventifier (from LostDragonist's MO2 Plugins) was also included, but disabled by default.
 
-When opening a tool for the first time, you may be asked to change the file path to the game in the registry. This is required for some tools like LOOT to work properly and you should click OK. For more information, check the [mod page](https://www.nexusmods.com/site/mods/82).
+Many of these plugins do nothing until they've been configured. Check their mod pages for details.
 
 ### SSEEdit
 
