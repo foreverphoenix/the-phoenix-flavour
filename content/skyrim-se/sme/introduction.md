@@ -30,7 +30,7 @@ SME uses the Stock Game folder system. That means the setup includes a unique co
 
 ## Installation
 
-Please refer to the [Installation](/sme/installation/) page.
+Please refer to the [Installation](/skyrim-se/sme/installation/) page.
 
 ## FAQ
 
