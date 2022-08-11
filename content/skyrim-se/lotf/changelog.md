@@ -8,7 +8,9 @@ description: >
 
 ## Release 2.9
 
-> TBD
+> 11/08/2022
+
+This is (probably) the final LOTF update before 3.0 drops on 4 September 2022. Please check [this Patreon post](https://www.patreon.com/posts/70382211?pr=true) for more info on the upcoming update (which will require a new save).
 
 Added support for the following creations:
 
