@@ -8,7 +8,9 @@ description: >
 
 ## Release 1.3
 
-> TBD
+> 11/08/2022
+
+Small maintenance update and expanded documentation.
 
 #### Mod Changes
 
