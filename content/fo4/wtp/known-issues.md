@@ -14,7 +14,7 @@ That being said, Fallout 4 is prone to performance issues, especially stuttering
 
 If you are struggling with frame drops I would first recommend swapping to the **Performance INIs**. You can find instructions [here](/fo4/wtp/installation/#performance-inis).
 
-If you are still unhappy about your framerate, you can delete the **d3d11.dll** from your Fallout 4 root folder to disable ENB.
+If you are still unhappy about your framerate, you can disable the **ENB Binaries** found under the **ROOT FOLDER** separator in Mod Organizer 2.
 
 ## Nate and Nora have brown faces in the character creation
 
