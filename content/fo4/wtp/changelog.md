@@ -5,6 +5,61 @@ type: docs
 description: >
   Update notes for all non-Beta versions.
 ---
+## Release 2.6
+
+> 12/08/2022
+
+**This update requires a new save.**
+
+WTP now features [Perk Up - Lightweight Perk Overhaul](https://www.nexusmods.com/fallout4/mods/62843), one of a collection of mods by SpringHeelJon for his new Wabbajack list, [FUSION](https://www.nexusmods.com/fallout4/mods/62880), which you should definitely check out!
+
+I also added [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) which means moving the Game Folder Files is no longer required. Instead, all files that need to be inside the root folder will be moved there by the plugin when you launch the game, and removed again when you close it. Existing WTP users should clear out existing GFF files from their root folder.
+
+Also I finally got around to generating custom terrain and object LOD for this update.
+
+#### Mod Changes
+
+- Added FO4LODGen
+- Added Kezyma's Root Builder (MO2 plugin)
+- Added Kezyma's Profile Sync (MO2 plugin)
+- Added Targeted Textures - Vanilla Textures Upscaled Fixed and Sized
+- Added Perk Up - Lightweight Perk Overhaul
+- Added No Empty Med Cabinets (custom plugin)
+- Added Perk Up - Restore Power Armor Frames Patch (custom plugin)
+- Added FO4LODGen Resources
+- Added HD LOD Textures
+- Added Modern House LOD
+- Added Far Object LOD Improvement Project
+- Added custom terrain and object LOD
+- Updated Fixed Alpha Maps to 6.0
+- Updated Lightweight Lighting to 2.3
+- Updated Upgradeable Vault Suit to 1.1
+- Updated Previsibines Repair Pack to 0.59.10
+- Removed deorder's plugins
+- Removed Starlight Drive In LOD Fix
+- Removed Nuka-World - Transit Center LOD Fix
+- Removed Fixed Gobo Textures (included with Targeted Textures)
+- Removed Far Harbor Pine Branches 4K (included with Targeted Textures)
+- Removed Fix for Forsythia (included with Targeted Textures)
+- Removed Easy Lockpicking and Hacking (replaced by Perk Up)
+- Removed Fortune Finder 4 Fix (included in Perk Up)
+- Removed Neura LOD (replaced by custom LODs)
+
+#### Modifications
+
+- Forwarded various UFO4P edits
+- Added the [Raw] sorting tag to the Nukalurk Egg added by the UFO4P
+- Added new {Neck} tag with appropriate icon
+- Fixed missing tags on Yao-guai Finger Necklace and Pack Feather Necklace
+- Renamed some custom plugins
+- ESL-flagged Some Assembly Required - WTP Patch
+
+#### Website Changes
+
+- **Installation:** Removed Game Folder Files instructions (no longer necessary with Root Builder)
+- **Installation:** Removed Easy Lockpicking and Hacking section (mod removed in favour of Perk Up)
+- **Documentation:** Removed Game Folder Files section (no longer necessary with Root Builder)
+- **Known Issues:** Updated instructions on how to disable ENB in case of performance issues
 
 ## Release 2.5
 

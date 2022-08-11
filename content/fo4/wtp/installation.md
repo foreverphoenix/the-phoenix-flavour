@@ -171,15 +171,7 @@ I strongly recommend changing the **Download Location** to a folder on a hard dr
 
 Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the `#wtp-support` channel on our [Discord server](https://discord.com/invite/BpwXX5f).
 
-### Game Folder Files
-
-Once the download and installation process has finished, Wabbajack will inform you about it. In the final step you need to install some files manually as they belong into the root folder which is not handled by Mod Organizer 2. This concludes the installation of the setup.
-
-- Navigate to your Wabbajack installation directory
-- Open the **Game Folder Files** folder. Select (CTRL+A) and copy (CTRL+C) all files inside.
-- Find your Fallout 4 installation (`\Steam\steamapps\common\Fallout4\`) and paste all files there (CTRL+V).
-
-![Game Folder Files](/Pictures/wtp/installation/game-folder-files.png)
+Once the download and installation process has finished successfully, Wabbajack will inform you about it and you can proceed.
 
 ## Mod Organizer 2
 
@@ -260,14 +252,6 @@ If you are unhappy with the default cap at 60FPS, you can change it. To do so, f
 - Press **CTRL + S** to save and close the window.
 
 ![Change FPS Cap](/Pictures/wtp/installation/change-fps-cap.png)
-
-## Easy Lockpicking and Hacking
-
-WTP includes the mod [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527) which removes the tedium of the two minigames. You will no longer need to adjust the angle when lockpicking (any position will work) and only the correct word will appear when hacking terminals. Perk requirements were untouched, companions will still react, and XP will still be granted.
-
-This mod is disabled by default. To enable it, please double-click the **GAMEPLAY** separator in Mod Organizer 2 to expand it and check the box for **Easy Lockpicking and Hacking**. This is completely optional.
-
-![Easy Lockpicking and Hacking](/Pictures/wtp/installation/easy-lockpicking-hacking.png)
 
 ## Ultrawide Support
 
