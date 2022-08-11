@@ -6,6 +6,14 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.3.1
+
+> TBD
+
+#### Mod Changes
+
+- Fixed file structure for Keyboard Shortcuts Fixes (mod will actually work now)
+
 ## Release 1.3
 
 > 11/08/2022
