@@ -29,11 +29,20 @@ Mod Organizer 2 requires the Microsoft Visual C++ Redistributable and .NET Frame
 
 If either of them were missing on your system, they will be installed now. Afterwards, you may be required to restart your PC.
 
+### Synthesis Prequisities
+
+The patcher tool [Synthesis](https://github.com/Mutagen-Modding/Synthesis) requires the .NET 6.0 SDK.
+
+- Download the [.NET 6.0 SDK](https://dotnet.microsoft.com/download) from the official website.
+- Follow the instructions in the installer and restart your computer when prompted.
+
+![NET 6 SDK](/Pictures/sme/net-6-sdk.png)
+
 ## Skyrim SE Setup
 
 **SME requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`) and unrelated to the Anniversary Edition DLC which is NOT required. If you are on any older version of Skyrim SE, please verify files through Steam to install the update. You can check the version by right-clicking the **SkyrimSE.exe** in your game folder and going to the **Details** tab.
 
-**Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
+**Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu. If you own any creations beyond the four free ones, they will be downloaded as well.
 
 ### Set language to English
 
@@ -90,6 +99,12 @@ You can follow along as Wabbajack installs the list. It will display previews wi
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 
+## Antivirus Exclusion
+
+Certain tools, e.g., **Nemesis** and **Cathedral Assets Optimizer**, may not properly work with antivirus programs. You will need to manually exclude them.
+
+[Follow these instructions to add exclusions to Windows Defender.](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
+
 ## Tool Setup
 
 Almost all tools included with SME are automatically configured for you. However, there are exceptions as some tools cannot be shipped with custom profiles so you will have to create them for yourself.
@@ -114,6 +129,14 @@ This should load your default game installation folder instead of your SME Game 
 
 This will update the game path for SME only thanks to [LOOT Config Loader for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/60864) which created a separate `settings.toml` for SME under `\Mod Organizer 2\Loot Config Files\`. Any global instance of LOOT or installations in different mod setups will be unaffected.
 
+### Wrye Bash
+
+The argument setting the Data Folder location for WB will not be automatically adjusted by Wabbajack so you need to do it manually.
+
+- In the **Executable Settings**, modify the argument to match your Game Root folder path:
+
+![Wrye Bash Setup](/Pictures/sme/wrye-bash-setup.png)
+
 ### zEdit
 
 If you want to configure zEdit for SME, follow these steps:
@@ -129,3 +152,11 @@ If you want to configure zEdit for SME, follow these steps:
 
 ![zEdit Profiles Settings](/Pictures/sme/zedit-sme-profile.png)
 
+### BodySlide & Outfit Studio
+
+In order for BodySlide/Outfit Studio to find your game files, you may need to update the folder path in the settings of the respective tool.
+
+- Run **BodySlide** or **Outfit Studio** and go into the **Settings**
+- Make sure the **Game Data Path** points to your **Game Root** folder.
+
+![BodySlide Setup](/Pictures/sme/bodyslide-setup.png)
