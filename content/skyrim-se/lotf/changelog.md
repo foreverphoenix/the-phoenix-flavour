@@ -6,6 +6,99 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.0
+
+> 04/09/2022
+
+**This update requires a new game.**
+
+LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally wrapping up the list as a complete vanilla-like experience.
+
+#### Mod Changes
+
+- Added SSE Creation Kit Fixes Update
+- Added Creation Kit Custom INI
+- Added SSE Creation Kit FonixData Lip Sync Fix
+- Added Synthesis
+- Added Kezyma's Root Builder (MO2 Plugin)
+- Added LOOT Config Loader for Mod Organizer (MO2 Plugin)
+- Added Crash Log Tools (MO2 Plugin)
+- Added Crash Logger SE
+- Added ENB Helper Plus
+- Added Enchantable Special Item Fix
+- Added NPC AI Process Position Fix - NG
+- Added Animated Static Reload Fix - NG
+- Added Better Windhelm Ground Meshes - Placement Corrections
+- Added Stamina of Steeds
+- Added Small Environmental Fixes (AO and Transition)
+- Added Small Environmental Fixes - Fixes
+- Added Yet Another Main Menu Replacer - AE Patch
+- Added Lanterns of Skyrim
+- Added Realistic AI Detection (RAID)
+- Added Dawnguard Delayed
+- Added Dragonborn Delayed
+- Added Unique Map Weather Framework
+- Added A Clear Map of Skyrim and Other Worlds
+- Added Atlas Map Markers
+- Added Atlas Map Markers - Settings Loader
+- Updated SSE from 1.5.97.0 to 1.6.353.0
+- Updated SKSE to 2.1.5
+- Updated ENBSeries (no version number change)
+- Updated Address Library for SKSE to 5
+- Updated PapyrusUtil SE - Modders Scripting Utility Functions to 4.3
+- Updated Scaleform Translation Plus Plus to 1.5.0
+- Updated Base Object Swapper to 1.6.0
+- Updated ConsoleUtilSSE to 1.3.2
+- Updated MCM Helper to 1.3.2
+- Updated ENB Helper to 2.1
+- Updated SSE Engines Fixes to 6.0.2
+- Updated Bug Fixes SSE to 7
+- Updated Actor Limit Fix to 6
+- Updated powerofthree's Tweaks to 1.6.0
+- Updated Scrambled Bugs to 18
+- Updated Whose Quest Is It Anyway to 1.4.0
+- Updated Encounter Zones Unlocked to 1.5.3
+- Updated I'm Walkin' Here to 1.6.0
+- Updated Enhanced Reanimation to 1.4.0
+- Updated Enhanced Invisibility to 1.2.0
+- Updated Classic Sprinting Redone (SKSE64) to 2.3
+- Updated Better Jumping to 1.8.5
+- Updated Yes Im Sure to 1.6.0
+- Updated Auto Input Switch to 1.1.3
+- Updated Fix Note Icon for SkyUI to 1.2.5
+- Updated moreHUD to 5.1.1.0
+- Updated moreHUD Inventory Edition to 2.0.4.0
+- Updated Horse Stamina HUD - Script-Free to 1.0.3
+- Updated Time Format Changer to 1.2.0
+- Updated Improved Traps to 2.5
+- Updated Follower Trap Safety to 1.4
+- Updated Stackable Stones of Barenziah with Optional Quest Markers to 2.0.0
+- Updated Dynamic Animation Replacer to 1.1.2
+- Updated the Conflict Resolution Patch
+- Updated SSELODGen to Beta 94
+- Removed .NET Script Framework (not updated for 1.6)
+- Removed Dear Diary - Better More Informative Console
+- Removed Weapons Armor Clothing and Clutter Fixes
+- Removed WACCF Greatsword Weapon Speed Tweaks
+- Removed Sales Overflow Solved (not updated for 1.6)
+- Removed Better Stealing (not updated for 1.6)
+- Removed NPC AI Process Position Fix (not updated for 1.6)
+- Removed Animated Static Reload Fix (not updated for 1.6)
+- Removed No Lock Picking (not updated for 1.6)
+- Removed Misc Tweaks - No Starting Spells
+- Removed A Quality World Map
+- Removed Stay At The System Page (not update for 1.6)
+- Removed Dragon War - A Dragon Overhaul (only AI packages)
+- Removed Dragonborn Presence - Discord Rich Presence (not updated for 1.6)
+- Set equipBestAmmo to false in Scrambled Bugs in favour of Unequip Quiver SE
+- Changed Keyboard Shortcuts Fixes to the DLL Loader version
+- Changed the Modern Toggle Walk-Run Fix version to one merged with Cobb Controlmap Fix
+- Changed bUse64bitsHDRRenderTarget= to 1 in the Default INIs
+- Cleaned up three errors I previously missed in the edited version of the USSEP
+- ESL-ified over a dozen plugins
+- Regenerated the Blacksmith Forge Water Patch
+- Regenerated all facegen
+
 ## Release 2.9
 
 > 11/08/2022
