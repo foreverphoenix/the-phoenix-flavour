@@ -6,6 +6,14 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.2
+
+> TBD
+
+#### Mod Changes
+
+- Reverted low health heart beat sound fx behaviour to vanilla
+
 ## Release 2.6.1
 
 > 16/08/2022
