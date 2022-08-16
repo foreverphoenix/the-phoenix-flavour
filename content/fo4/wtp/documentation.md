@@ -81,7 +81,7 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 - [Grey Tortoise Cigarettes Redux](https://www.nexusmods.com/fallout4/mods/28204)
 - [Bottles Label Overhaul](https://www.nexusmods.com/fallout4/mods/1500)
 - [Sweet Roll 5000](https://www.nexusmods.com/fallout4/mods/32224)
-- [Retextured Water - By Ben Ephla](https://www.nexusmods.com/fallout4/mods/20399)
+- [Drinkable Water Retexture](https://www.nexusmods.com/fallout4/mods/59380)
 - [Gold Bars - FNV Dead Money Inspired Replacer](https://www.nexusmods.com/fallout4/mods/45675)
 - [Better Ammo Boxes](https://www.nexusmods.com/fallout4/mods/8087)
 - [Duffle Bag Retexture 2K](https://www.nexusmods.com/fallout4/mods/8879)

@@ -74,8 +74,14 @@ uPipboyTargetWidth=876
 
 ~~Puddles were removed altogether by [Clarity - A Visual Overhaul](https://www.nexusmods.com/fallout4/mods/31991) which was added in WTP 2.0 and should eliminate the issue for good.~~
 
-**As of WTP 2.5, puddles were re-enabled and should no longer flicker!** This is possible thanks to [fadingsignal's fix](https://www.nexusmods.com/fallout4/mods/62207?) and an update to ENB.
+**As of WTP 2.5, puddles were re-enabled and should no longer flicker!** This is possible thanks to [fadingsignal's fix](https://www.nexusmods.com/fallout4/mods/62207?) and an ENB update.
 
 ## Load screens appear frozen
 
 In loading screens, there is no spinning object and the loading symbol is not animated. This is actually not a bug, but a feature. Disabling animations in loading screens apparently increases load times. It was done in the High FPS Physics Fix custom INI file.
+
+## Empty crafting bench category
+
+Currently (since WTP 2.6?) there is an emtpy category in the Crafting (chem) Bench. If you click on it, you CANNOT back out again so please don't click on. I hope to be able to fix this soon.
+
+![Emtpy Chem Bench Category](/Pictures/wtp/empty-chem-bench-category.jpg)
