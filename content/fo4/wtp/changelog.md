@@ -5,6 +5,42 @@ type: docs
 description: >
   Update notes for all non-Beta versions.
 ---
+
+## Release 2.6.1
+
+> 16/08/2022
+
+All I wanted to do was fix WJ installations failing due to the xLODGen archives, but then DoubleYou went and published more LOD improvements, so I had to regenerate terrain and object LODs, and things kind of escalated from there. Anyway, this is a semi-minor update that is of course safe save and makes (distant) trees look better, especially on Far Harbor.
+
+**KNOWN ISSUE:** Currently there is an empty category in the Crafting (chem) Bench. If you click it YOU CAN'T BACK OUT so, uhh, don't click it. I have no idea what is causing it but I'll investigate further.
+
+#### Mod Changes
+
+- Added BSArchPro (irrelevant for users)
+- Added Fall UI No 3D in Barter Menu
+- Added Better Landscape Grass
+- Added NukaWorld HiRez FakeRocks
+- Added Drinkable Water Retexture
+- Added Wasteland Workshop Snappable Posters
+- Added Five Wall Corners
+- Added Optimised Vanilla Tree LODs
+- Added Far Harbor 3D Tree LODs
+- Re-added Fixed Gobo Effects
+- Updated Workshop Framework to 2.2.3
+- Updated Fixed Alpha Maps to 6.1
+- Updated Targeted Textures to 1.2
+- Updated Perk Up to 1.2
+- Removed Retextured Water - By Ben Ephla
+- Removed xLODGen archives that was causing installs to fail (sorry)
+- Repacked the Texture Pack - Clutter BA2s
+- Slightly modified the Upgradable Vault Suit crafting station category for consistency
+- Regenerated terrain and object LOD
+
+#### Website Changes
+
+- **Documentation:** Minor updates for newly added mods
+- **Known Issues:** Added empty Crafting Bench category issue
+
 ## Release 2.6
 
 > 12/08/2022
