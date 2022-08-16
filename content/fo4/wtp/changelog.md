@@ -6,6 +6,97 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.1
+
+> 16/08/2022
+
+All I wanted to do was fix WJ installations failing due to the xLODGen archives, but then DoubleYou went and published more LOD improvements, so I had to regenerate terrain and object LODs, and things kind of escalated from there. Anyway, this is a semi-minor update that is of course safe save and makes (distant) trees look better, especially on Far Harbor.
+
+**KNOWN ISSUE:** Currently there is an empty category in the Crafting (chem) Bench. If you click it YOU CAN'T BACK OUT so, uhh, don't click it. I have no idea what is causing it but I'll investigate further.
+
+#### Mod Changes
+
+- Added BSArchPro (irrelevant for users)
+- Added Fall UI No 3D in Barter Menu
+- Added Better Landscape Grass
+- Added NukaWorld HiRez FakeRocks
+- Added Drinkable Water Retexture
+- Added Wasteland Workshop Snappable Posters
+- Added Five Wall Corners
+- Added Optimised Vanilla Tree LODs
+- Added Far Harbor 3D Tree LODs
+- Re-added Fixed Gobo Effects
+- Updated Workshop Framework to 2.2.3
+- Updated Fixed Alpha Maps to 6.1
+- Updated Targeted Textures to 1.2
+- Updated Perk Up to 1.2
+- Removed Retextured Water - By Ben Ephla
+- Removed xLODGen archives that was causing installs to fail (sorry)
+- Repacked the Texture Pack - Clutter BA2s
+- Slightly modified the Upgradable Vault Suit crafting station category for consistency
+- Regenerated terrain and object LOD
+
+#### Website Changes
+
+- **Documentation:** Minor updates for newly added mods
+- **Known Issues:** Added empty Crafting Bench category issue
+
+## Release 2.6
+
+> 12/08/2022
+
+**This update requires a new save.**
+
+WTP now features [Perk Up - Lightweight Perk Overhaul](https://www.nexusmods.com/fallout4/mods/62843), one of a collection of mods by SpringHeelJon for his new Wabbajack list, [FUSION](https://www.nexusmods.com/fallout4/mods/62880), which you should definitely check out!
+
+I also added [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) which means moving the Game Folder Files is no longer required. Instead, all files that need to be inside the root folder will be moved there by the plugin when you launch the game, and removed again when you close it. Existing WTP users should clear out existing GFF files from their root folder.
+
+Also I finally got around to generating custom terrain and object LOD for this update.
+
+#### Mod Changes
+
+- Added FO4LODGen
+- Added Kezyma's Root Builder (MO2 plugin)
+- Added Kezyma's Profile Sync (MO2 plugin)
+- Added Targeted Textures - Vanilla Textures Upscaled Fixed and Sized
+- Added Perk Up - Lightweight Perk Overhaul
+- Added No Empty Med Cabinets (custom plugin)
+- Added Perk Up - Restore Power Armor Frames Patch (custom plugin)
+- Added FO4LODGen Resources
+- Added HD LOD Textures
+- Added Modern House LOD
+- Added Far Object LOD Improvement Project
+- Added custom terrain and object LOD
+- Updated Fixed Alpha Maps to 6.0
+- Updated Lightweight Lighting to 2.3
+- Updated Upgradeable Vault Suit to 1.1
+- Updated Previsibines Repair Pack to 0.59.10
+- Removed deorder's plugins
+- Removed Starlight Drive In LOD Fix
+- Removed Nuka-World - Transit Center LOD Fix
+- Removed Fixed Gobo Textures (included with Targeted Textures)
+- Removed Far Harbor Pine Branches 4K (included with Targeted Textures)
+- Removed Fix for Forsythia (included with Targeted Textures)
+- Removed Easy Lockpicking and Hacking (replaced by Perk Up)
+- Removed Fortune Finder 4 Fix (included in Perk Up)
+- Removed Neura LOD (replaced by custom LODs)
+
+#### Modifications
+
+- Forwarded various UFO4P edits
+- Added the [Raw] sorting tag to the Nukalurk Egg added by the UFO4P
+- Added new {Neck} tag with appropriate icon
+- Fixed missing tags on Yao-guai Finger Necklace and Pack Feather Necklace
+- Renamed some custom plugins
+- ESL-flagged Some Assembly Required - WTP Patch
+
+#### Website Changes
+
+- **Installation:** Removed Game Folder Files instructions (no longer necessary with Root Builder)
+- **Installation:** Removed Easy Lockpicking and Hacking section (mod removed in favour of Perk Up)
+- **Documentation:** Removed Game Folder Files section (no longer necessary with Root Builder)
+- **Known Issues:** Updated instructions on how to disable ENB in case of performance issues
+
 ## Release 2.5
 
 > 30/07/2022

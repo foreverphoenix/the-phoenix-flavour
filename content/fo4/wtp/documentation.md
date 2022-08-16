@@ -6,53 +6,6 @@ description: >
   Notes and references for WTP.
 ---
 
-## Game Folder Files
-
-While regular mods for Bethesda games are installed into the **data** folder, there are some additional tools that belong into the **root** folder. These are not automatically moved by Wabbajack. Instructions for them are included in the **Installation** setup, this page merely serves as an overview over the files in question and their purpose.
-
-> WTP does not use the Stock Game Folder system and likely never will.
-
-#### Fallout 4 Script Extender
-
-The [Fallout 4 Script Extender (F4SE)](http://f4se.silverlock.org/) is essential to modding Fallout 4 and required by many mods. Its executable and DLLs have to be inside the root folder.
-
-- `f4se_1_10_163.dll`
-- `f4se_loader.exe`
-- `f4se_steam_loader.dll`
-
-#### xSE Plugin Preloader
-
-The [xSE Plugin Preloader F4](https://www.nexusmods.com/fallout4/mods/33946) is required for Buffout.
-
-- `IpHlpAPI.dll`
-- `xSE PluginPreloader.xml`
-
-#### Buffout 4 TBB Redist
-
-[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359) requires the TBB library, a small plugin that needs to be placed in the root folder.
-
-- `tbbmalloc.dll`
-
-#### ENBSeries Binaries
-
-The [ENBSeries for Fallout 4](http://enbdev.com/download_mod_fallout4.htm) binaries, required for ENB presets to work.
-
-- `d3d11.dll`
-- `d3dcompiler_46e.dll`
-
-#### enblocal.ini
-
-My personal enblocal.ini with customised hotkeys.
-
-- `enblocal.ini`
-
-#### Spectrum ENB
-
-The [Spectrum ENB](https://www.nexusmods.com/fallout4/mods/58028) preset.
-
-- `\enbseries\`
-- `enbseries.ini`
-
 ## INI Settings
 
 As usual, I have used [BethINI](https://www.nexusmods.com/fallout4/mods/67) to generate the INI files before adding some manual tweaks. The default INI set is based on the **High** preset while the performance INI set uses the **Medium** one.
@@ -60,7 +13,7 @@ As usual, I have used [BethINI](https://www.nexusmods.com/fallout4/mods/67) to g
 - **VSYNC** is always turned off, it is forced through High FPS Physics Fix
 - **Ambient occlusion** is always turned off, we are using ENB AO instead
 - **TAA** is used for anti aliasing (as opposed to FXAA)
-- **Godrays** are disabled in the performance INIs only
+- **Godrays** are disabled in the performance INIs
 
 ### Fallout4.ini
 
@@ -128,7 +81,7 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 - [Grey Tortoise Cigarettes Redux](https://www.nexusmods.com/fallout4/mods/28204)
 - [Bottles Label Overhaul](https://www.nexusmods.com/fallout4/mods/1500)
 - [Sweet Roll 5000](https://www.nexusmods.com/fallout4/mods/32224)
-- [Retextured Water - By Ben Ephla](https://www.nexusmods.com/fallout4/mods/20399)
+- [Drinkable Water Retexture](https://www.nexusmods.com/fallout4/mods/59380)
 - [Gold Bars - FNV Dead Money Inspired Replacer](https://www.nexusmods.com/fallout4/mods/45675)
 - [Better Ammo Boxes](https://www.nexusmods.com/fallout4/mods/8087)
 - [Duffle Bag Retexture 2K](https://www.nexusmods.com/fallout4/mods/8879)
@@ -204,11 +157,11 @@ Note that the assets were *not* repackaged and redistributed. Each of the indivi
 
 WTP features a good amount of quality of life improvements. These include:
 
+- [Perk Up - Lightweight Perk Overhaul](https://www.nexusmods.com/fallout4/mods/62843): Reworks vanilla perks to be less annoying or pointless.
 - [Start Me Up](https://www.nexusmods.com/fallout4/mods/18946): The Basic version of this mod included in WTP allows you to skip the pre-war part of the Prologue.
 - [Consume Without Pickup](https://www.nexusmods.com/fallout4/mods/45072): Immediately use a Stimpak or eat that Radstag stew without having to pick it up first.
 - [Baka Wait Anywhere](https://www.nexusmods.com/fallout4/mods/52723): Allows you to wait anywhere without having to sit down (but with a few conditions).
 - [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093): The player automatically lowers their weapon when not in combat.
-- [Easy Lockpicking and Hacking](https://www.nexusmods.com/fallout4/mods/31527): Only the correct word appears when hacking. Locks can be picked without having to adjust the angle.
 
 ### Quest Adjustments
 

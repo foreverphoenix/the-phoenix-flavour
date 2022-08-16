@@ -31,6 +31,7 @@ Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallou
 
 - Moderately improved visuals while retaining a high frame rate with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) and [Spectrum ENB](https://www.nexusmods.com/fallout4/mods/58028).
 - Thanks to the [Previsibines Repair Pack](https://www.nexusmods.com/fallout4/mods/46403), performance exceeds vanilla in some areas, especially when the ENB is disabled.
+- Custom texture packs made up of handpicked retextures and packaged into BA2s for better performance.
 - Adventure [with Dogmeat and one other companion](https://www.nexusmods.com/fallout4/mods/13459) as originally intended by Bethesda.
 - Customise your pip-boy with [new paint jobs](https://www.nexusmods.com/fallout4/mods/47858) and [upgrade your vault suit](https://www.nexusmods.com/fallout4/mods/57891) as you progress through the main quest.
 - Many custom file edits and patches for a coherent experience.
@@ -39,6 +40,7 @@ Up until release 1.3, the list was simply called "The Phoenix Flavour for Fallou
 - Simple implementation of [crafting stations](https://www.nexusmods.com/fallout4/mods/44691) with support for included mods.
 - Faster workshop system with better object placement and new stuff to build.
 - Power armors are more rare. Paint and material mods were split.
+- Custom, high-quality terrain and object LOD generated with xLODGen.
 - Detailed instructions for the initial setup as well as ingame configuration.
 - Support for one (1) creation: fadingsignal's Modern Military Backpack.
 - Detailed instructions for enabling ultrawide (21:9) compatibility.
