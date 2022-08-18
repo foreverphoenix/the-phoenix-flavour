@@ -8,10 +8,15 @@ description: >
 
 ## Release 2.6.2
 
-> TBD
+> 18/08/2022
+
+DoubleYou updated their LOD resources, so here's new terrain and object LODs for you guys. Also reverted LOST Audio Tweaks' change to the low health heart beat sfx, as requested.
 
 #### Mod Changes
 
+- Updated Optimized Vanilla Tree LODs to 2.0
+- Updated Far Harbor 3D Tree LODs to 2.0
+- Regenerated terrain and object LOD
 - Reverted low health heart beat sound fx behaviour to vanilla
 
 ## Release 2.6.1
