@@ -8,15 +8,17 @@ description: >
 
 ## The Skyrim Script Extender
 
-If you have any previous modding experience at all, you will likely have heard of the **Skyrim Script Extender** or **SKSE** for short. Of all the mods and tools out there, the Script Extender is one of the most vital ones: It *extends* the scripting capabilities of the engine, allowing mod authors to implement features that would not have been possible before. SKSE is required by many mods, among them the most complex ones available.
+If you have any previous modding experience at all, you will likely have heard of the **Skyrim Script Extender** or **SKSE** for short. Of all the mods and tools out there, the Script Extender is one of the most vital ones: It extends the scripting capabilities of the engine, allowing mod authors to implement features that would not have been possible otherwise.
+
+SKSE is required by many mods, including most of the essentials. Modding Skyrim on XBOX or PS5 is not comparable to modding on PC largely because SKSE cannot be installed on consoles.
 
 A popular example of an SKSE-dependant feature is the **Mod Configuration Menu**, or **MCM** for short, which is part of the UI overhaul mod [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). But there are also a multitude of SKSE-based plugins that, among other things, fix engine-level bugs that could not have been addressed otherwise.
 
 ### SKSE and Skyrim Updates
 
-Any updates for Skyrim SE change the main executable, **SkyrimSE.exe**, which then requires Script Extender to be updated in turn. SKSE is **version dependant** and will *only* work with the specific version of Skyrim SE it was compiled for. For example, SKSE SE version `2.0.20` functions only with the last pre-Anniversary Edition version of Skyrim SE, `1.5.97.0`.
+Any updates for Skyrim SE change the main executable, **SkyrimSE.exe**, which then requires the Script Extender to be updated in turn. SKSE is **version dependant** and will *only* work with the specific version of Skyrim SE it was compiled for. For example, SKSE SE version `2.0.20` functions only with the last pre-Anniversary Edition version of Skyrim SE, `1.5.97.0`.
 
-The new SKSE AE was made for the post-AE versions of Skyrim SE. For **Embers**, you are currently expected to run the latest Skyrim SE build, `1.6.323.0`, with the corresponding SKSE AE build `2.1.3`.
+The new SKSE AE was made for the post-AE versions of Skyrim SE. For **Embers**, you are currently expected to run the latest Skyrim SE build, `1.6.353.0`, with the corresponding SKSE AE build `2.1.5`.
 
 The issue of version dependancy does not only affect SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a *specific* version of SKSE to actually work, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
 
@@ -63,8 +65,6 @@ Now that we know which version of Skyrim SE we have installed, we know which ver
 > Make sure to grab the correct file. The classic, SE, or VR versions will not work with post-AE versions of Skyrim SE.
 
 ![SKSE Download Version](/Pictures/embers/module-1/skse-download-version.png)
-
-I personally keep the archives for the Script Extender (past and current version) under `\Your Modding Folder\ARCHIVE\Script Extender\`. You must decide for yourself whether you wish to keep the archive around, and, if so, where to store it.
 
 ## SKSE Loader
 

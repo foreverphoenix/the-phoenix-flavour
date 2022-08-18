@@ -37,6 +37,8 @@ The **data folder** contains all game files which are split into **plugins** and
 
 Mods are no different from the base game files: They can consist of plugins or assets, or both, and the assets can be packed in BSAs or they can be loose. **Like the base game files, mods always belong into the data folder.** If you install a mod into the root folder, it will simply not be recognised by the game and it will not work.
 
+> You will also find any Creations you own in this folder, in the same format. They are essentially mods.
+
 ## Data Folder Files
 
 Mods can consist of various files that are not always neatly stowed away in BSAs with a matching plugin. A large modded setup may consist of hundreds of plugins and thousands of loose files. When building such a setup, managing those loose files is one of the core concerns.
@@ -49,7 +51,7 @@ This method of modding meant that, ideally, you would need to know the order in 
 
 ### MO2's Virtual File System
 
-Arguably the most exciting feature of the original Mod Organizer was the **Virtual File System**, for **VFS** for short. Over the years, Nexus Mod Manager and its successor, Vortex, implemented similar functionalities although the modern Mod Organizer 2 remains the champion of asset managers.
+Arguably the most exciting feature of Mod Organizer and its successor, Mod Organizer 2, is the **Virtual File System**, for **VFS** for short. Over the years, Nexus Mod Manager and its successor, Vortex, implemented similar functionalities although the modern Mod Organizer 2 remains the champion of asset managers.
 
 Here is how it works:
 
@@ -74,15 +76,17 @@ Of course very few mods belong into the root folder to begin with. The Skyrim Sc
 
 While MO2 allows for self-contained mod setups, having to place certain files into the root folder still causes overlap between setups. If you run several different ones, a Wabbajack list and a personal setup for example, swapping out ENBs or having to be on the same version of SKSE may become annoying.
 
-## Stock Game Folder
+## Game Root Folder
 
 **In order to create a fully self-contained modded setup we are going to create a copy of the root folder in a custom location.** This means that the base game files in your current installation folder will remain completely untouched. You will even be able to edit them without affecting your modded setup.
 
-- Navigate to your Mod Organizer 2 installation folder and create a new **Stock Game** inside.
-- Copy the contents from your default **root folder** into this new folder.
-- This may take a minute depending on your hard drive (around 13GB of files are being copied).
+- Navigate to your Mod Organizer 2 installation folder and create a new **Game Root** folder inside.
+- Copy the contents from your default **root folder** EXCEPT the **data folder** into this new folder.
+- Inside the **Game Root** folder, create a new **Data** folder.
+- Copy the contents from your default **data folder** EXCEPT all files beginning with **CC** into the new folder.
+- This may take a moment depending on your hard drive (around 13GB of files are being copied).
 
-As long as your default Skyrim SE installation is in place, Steam will recognise the game if it is now launched from your custom location.
+As long as your default Skyrim SE installation is in place, Steam will recognise the game if it is launched from your custom location. We skipped the Creations for now because they will be handled differently.
 
 > If you're wondering: Yes, this is exactly the Stock Game Folder system that many Wabbajack lists use.
 
