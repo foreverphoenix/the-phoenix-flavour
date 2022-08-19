@@ -61,6 +61,8 @@ In order for Wabbajack to be able to incorporate the Creation Kit properly, you 
 - Find the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) Steam page (I recommend just using the search function in the Store).
 - Click install. The files will be placed into your default game folder.
 
+> **This step is mandatory.** Not having the CK installed or having the wrong version accounts for most failed installations reported on Discord.
+
 ## Wabbajack Installation
 
 Next up you need to install the Wabbajack tool itself:
@@ -103,6 +105,8 @@ In most cases the installation should complete successfully on the first try. Th
 
 Certain tools, e.g., **Nemesis** and **Cathedral Assets Optimizer**, may not properly work with antivirus programs. You will need to manually exclude them.
 
+Also add an exclusion for `C:\Users\<UserName>\Appdata\Local\Nemesis` to prevent random errors while running Nemesis.
+
 [Follow these instructions to add exclusions to Windows Defender.](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
 
 ## Tool Setup
@@ -136,6 +140,17 @@ The argument setting the Data Folder location for WB will not be automatically a
 - In the **Executable Settings**, modify the argument to match your Game Root folder path:
 
 ![Wrye Bash Setup](/Pictures/sme/wrye-bash-setup.png)
+
+### Synthesis
+
+For Synthesis to correctly read your Game Root folder, you need to update the file path in the settings:
+
+- Upon first launching Synthesis, you will be asked which game you want to manage.
+- Select **Skyrim** and then **Skyrim Special Edition**.
+- Click the little gear icon in the upper right corner to open the **Settings**.
+- Go to **Profiles** and update the **Data Folder Location** to match your Game Root folder path.
+
+![Synthesis Setup](/Pictures/sme/synthesis-setup.png)
 
 ### zEdit
 
