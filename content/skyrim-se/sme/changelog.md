@@ -6,6 +6,27 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.4
+
+> 19/08/2022
+
+#### Mod Changes
+
+- Added UIExtension
+- Added Hearthfires Houses Building Fix
+- Updated Synthesis to 0.23.7
+- Updated Assorted Mesh Fixes to 0.69
+- Fixed file structure for Keyboard Shortcuts Fixes (mod will actually work now)
+- Fixed Profile Sync failing when mod names contain special symbols
+- Root Builder is now disabled by default (as was originally intended)
+- Sync Mod Order is now disabled by default (succeeded by Profile Sync)
+
+#### Website Changes
+
+- **Installation:** Added a note about the CK installation being mandatory
+- **Installation:** Added a note to also set an AV exclusion for the appdata Nemesis folder
+- **Installation:** Added Synthesis setup instructions
+
 ## Release 1.3
 
 > 11/08/2022
