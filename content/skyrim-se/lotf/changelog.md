@@ -32,11 +32,23 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Stamina of Steeds
 - Added Small Environmental Fixes (AO and Transition)
 - Added Small Environmental Fixes - Fixes
+- Added Hearthfires Houses Building Fix
+- Added Hearthfire Display Case Fix by Krucify
+- Added Shalidor's Maze Puzzle Sound Fix (Labyrinthian)
+- Added Vampire Allies Factions Fix
+- Added No More Swimming In Air - Fixed Floating SwimIdle
+- Added Actually Flat Flat Snow Drifts
+- Added Configurable Sleep Wait Menu
 - Added Yet Another Main Menu Replacer - AE Patch
+- Added Moons and Stars - Sky Overhaul SKSE
+- Added Enhanced Vanilla Trees - Uprooted Stump Fix
 - Added Lanterns of Skyrim
 - Added Realistic AI Detection (RAID)
 - Added Dawnguard Delayed
 - Added Dragonborn Delayed
+- Added Smelters for Riften and Solitude
+- Added Centered Blue Palace Throne
+- Added Conditional Dog Barking
 - Added Unique Map Weather Framework
 - Added A Clear Map of Skyrim and Other Worlds
 - Added Atlas Map Markers
@@ -61,19 +73,23 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Updated I'm Walkin' Here to 1.6.0
 - Updated Enhanced Reanimation to 1.4.0
 - Updated Enhanced Invisibility to 1.2.0
+- Updated Assorted Mesh Fixes to 0.69
 - Updated Classic Sprinting Redone (SKSE64) to 2.3
 - Updated Better Jumping to 1.8.5
 - Updated Yes Im Sure to 1.6.0
 - Updated Auto Input Switch to 1.1.3
 - Updated Fix Note Icon for SkyUI to 1.2.5
 - Updated moreHUD to 5.1.1.0
+- Updated moreHUD - Settings Loader to 2.1.1
 - Updated moreHUD Inventory Edition to 2.0.4.0
 - Updated Horse Stamina HUD - Script-Free to 1.0.3
 - Updated Time Format Changer to 1.2.0
 - Updated Improved Traps to 2.5
 - Updated Follower Trap Safety to 1.4
 - Updated Stackable Stones of Barenziah with Optional Quest Markers to 2.0.0
+- Updated Audio Overhaul for Skyrim to 3.4.1
 - Updated Dynamic Animation Replacer to 1.1.2
+- Updated XP32 Maximum Skeleton Special Extended to 4.81
 - Updated the Conflict Resolution Patch
 - Updated SSELODGen to Beta 94
 - Removed .NET Script Framework (not updated for 1.6)
@@ -90,34 +106,21 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Removed Stay At The System Page (not update for 1.6)
 - Removed Dragon War - A Dragon Overhaul (only AI packages)
 - Removed Dragonborn Presence - Discord Rich Presence (not updated for 1.6)
+- Removed Quiet Dog
 - Set equipBestAmmo to false in Scrambled Bugs in favour of Unequip Quiver SE
 - Changed Keyboard Shortcuts Fixes to the DLL Loader version
 - Changed the Modern Toggle Walk-Run Fix version to one merged with Cobb Controlmap Fix
 - Changed bUse64bitsHDRRenderTarget= to 1 in the Default INIs
 - Cleaned up three errors I previously missed in the edited version of the USSEP
+- Fixed Profile Sync throwing errors when mod names have special characters
+- Removed scar textures from Xenius Character Enhancement
 - ESL-ified over a dozen plugins
 - Regenerated the Blacksmith Forge Water Patch
 - Regenerated all facegen
 
-## Release 2.9.1
-
-> 16/08/2022
-
-Turns out those thirteen big snowy uprooted trees that were broken in LOTF were an issue with Enhanced Vanilla Trees for which a fix has existed since last December. Oopsie. I added that fix now and the trees are back to normal.
-
-I also removed the scar textures from Xenius' since they are so subtle they're barely visible.
-
-For the CC profile I added a mod that prevents CC Horse Armor from randomly disappearing. If you already have armor on a horse, there are some extra steps you need to follow before the mod works properly. Please check the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/59728) for instructions.
-
-#### Mod Changes
-
-- Added Enhanced Vanilla Trees - Uprooted Stump Fix
-- Removed scar textures from Xenius Character Enhancement
-
 #### CC Profile
 
 - Added Horse Armor No Longer Disappears (with a small modification)
-- Actually installed Bone Wolf and Plague of the Dead - Spawns Corrected
 
 ## Release 2.9
 
