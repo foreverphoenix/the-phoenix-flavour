@@ -9,17 +9,15 @@ description: >
 
 ## PLEASE READ THIS FIRST
 
-**TPF is on indefinite hiatus!**
+**TPF is currently outdated and being reworked!**
 
-On September, 18th 2021, it received its final update for the forseeable future. I am shifting my focus to my WIP beginner's guide and the TPF-X Wabbajack list which is an expansion of base TPF.
+~~On September, 18th 2021, it received its final update for the forseeable future. I am shifting my focus to my WIP beginner's guide and the TPF-X Wabbajack list which is an expansion of base TPF. Please read my September 2021 [Patreon post](https://www.patreon.com/posts/september-update-56305694) for more information.~~
 
-The guide is *usable* and will remain so for at least a few weeks to months. I expect it won't be severely outdated before 2022, but with the speed that the modding scene usually moves at, it is impossible to predict.
-
-> Please read my September 2021 [Patreon post](https://www.patreon.com/posts/september-update-56305694) for more information.
+**THE GUIDE IS CURRENTLY TOO OUTDATED TO BE USABLE.** However, I am working on update 5.0 which will be for the manual guide and Wabbajack version. If you are interested in TPF 4.x, please use Cody's [TPF Wabbajack installer](https://github.com/Codygits/TPF-Updates) which is up-to-date.
 
 ## Overview
 
-The Phoenix Flavour for Skyrim SE is a visuals and gameplay-focused modding guide, featuring around 700 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and ~~continues to be updated and expanded frequently~~ is **currently on an indefinite hiatus**.
+The Phoenix Flavour for Skyrim SE is a visuals and gameplay-focused modding guide, featuring around 700 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and ~~continues to be updated and expanded frequently~~ is **currently being reworked for release 5.0**.
 
 Overall, the guide is highly accessible for modding beginners with its countless additional notes, explanations, and screenshots. The less experience you have with modding Skyrim, the more important it is that you read everything *carefully*. The guide was written with the assumption that most readers have little to no previous knowledge about modding and supplies the basics before going more in-depth.
 

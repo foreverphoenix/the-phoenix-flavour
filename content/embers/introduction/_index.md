@@ -18,11 +18,16 @@ This is what **Embers** is intended to be.
 
 ### About Embers
 
-- Embers **is** a beginner's guide to modding Skyrim SE. No previous modding experience is required.
-- Embers **is** interactive. Each lesson will guide you through a specific step in modding the game.
-- Embers **is** intended to clear up common misconceptions and equip its users with a solid understanding of mods and various tools. 
-- Embers **is not** a mod list or mod guide in the commonly understood sense of the word. It is a resource for building your own setup.
-- Embers **is not** a quick rundown of the basics. It expects you to be committed to learning how to mod Skyrim.
+**Embers is:**
+
+- ...a beginner's guide to modding Skyrim SE. No previous modding experience is required.
+- ...interactive. Each lesson will guide you through a specific step in modding the game.
+- ...written to clear up common misconceptions and equip its users with a solid understanding of mods and various tools. 
+
+**Embers is not:**
+
+- ...a mod list or mod guide in the commonly understood sense of the word. It is a resource for building your own setup.
+- ...a quick rundown of the basics. It expects you to be committed to learning how to mod Skyrim.
 
 ## Shortcuts
 
@@ -32,7 +37,10 @@ Learning how to mod Skyrim is not for everyone - not everyone has the free time 
 
 [Wabbajack](https://www.wabbajack.org/#/) is an automated mod list installer capable of reproducing another person's setup on your machine, fully patched and ready to go all without actually redistributing any mod files. This will not allow you any customisation but there are many Wabbajack lists to choose from and you are likely to find one that piques your interest. A Wabbajack mod list can be installed within a few hours, depending on your internet connection.
 
+
 [The Phoenix Flavour](/tpf/) and [Lexy's LOTD](https://lexyslotd.com/) are modding guides. They document every step required for the full installation of large, pre-made setups, complete with custom patches. Unlike Wabbajack lists, they must still be followed manually which can take up to a week, depending on how much time you can invest. Guides also teach you a good deal of modding basics.
+
+[STEP](https://stepmodifications.org/wiki/SkyrimSE:2.0.0) and [Lexy's LOTD](https://lexyslotd.com/) are modding guides. They document every step required for the full installation of large, pre-made setups, complete with custom patches. Unlike Wabbajack lists, they must still be followed manually which can take up to a week, depending on how much time you can invest. Guides also teach you a good deal of modding basics.
 
 **If you really just want to play modded without learning much about modding, Embers is *not* for you. You should choose one of the above options instead.**
 

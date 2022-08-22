@@ -12,7 +12,7 @@ Learning how to mod Skyrim SE is in large part about learning how to use various
  
 **Mod Organizer 2** (MO2) is a mod manager. Like its predecessor, [Mod Organizer](https://www.nexusmods.com/skyrim/mods/1334), it is community-made and open-source, with a wide range of features catering specifically to advanced modders. If you are serious about building an extensive setup of mods, Mod Organizer 2 is going to be your best friend.
 
-Of course there are alternatives. Other mod managers include the now deprecated Nexus Mod Manager (NMM) and its successor, Vortex. While Vortex has made great progress over the years and far outclasses its predecessor, its attractiveness for Bethesda games in general has been somewhat diminished by its ambition to accommodate a vast amount of different games, turning the tool into a jack-of-all-trades. 
+Of course there are alternatives. Other mod managers include the now deprecated Nexus Mod Manager (NMM) and its successor, Vortex. While Vortex has made great progress over the years and far outclasses its predecessor, its attractiveness for Bethesda games in general has been somewhat diminished by its ambition to accommodate a vast amount of different games, turning the tool into a jack-of-all-trades.
 
 ### Why Mod Organizer 2?
 
@@ -24,22 +24,20 @@ Technically yes, but I would strongly recommend against it.
 
 Your mod manager is the heart and soul of your setup. The steps you go through in building that setup are very specific to the tool you choose: Vortex is used differently from Mod Organizer 2, particularly with regards to load and mod order management. While **Embers** is intended to teach you the concepts of load and mod order in general, it is also important to learn how maintaining and expanding your setup works in the practical sense. Accommodating multiple different mod managers would require many sections of **Embers** to be written twice.
 
-> The MO2 vs Vortex question is hotly debated in the community. In my personal opinion, there are many good reasons for using Vortex nowadays. However, I also believe that its approach to load and mod order management is critically flawed. In addition to that, many quality of life features that I use daily in Mod Organizer 2 are missing altogether. This is why **Embers** is built around Mod Organizer 2.
+> The MO2 vs Vortex question is hotly debated in the community. In my personal opinion, Vortex has come along way but its approach to load and mod order management is critically flawed. In addition to that, many quality of life features that I use daily in Mod Organizer 2 are missing altogether. This is why **Embers** is built around Mod Organizer 2.
 
-## Visual C++ Redist
+## MO2 Prerequisites
 
-The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed with Windows but it is best to make sure.
+Mod Organizer 2 has two prerequisites that you may already have installed, but it is better to make sure:
 
-- Open the official [Microsoft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) website.
-- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
-- Download the following file: `vc_redist.x64.exe`.
-- Run the executable, it will guide you through the installation process.
+- Download [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer) and follow the instructions in the installer.
+- Download the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and follow the instructions in the installer.
 
-![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
+To finalise the installation, you may be required to restart your PC.
 
 ## Nexus Mods
 
-The vast majority of mods and tools (including Mod Organizer 2) are hosted on [Nexus Mods](https://www.nexusmods.com/). The Nexus supports hundreds of games, but it should come as no surprise that the six games with the most downloads in total (by a wide margin) are the most recent Bethesda games. You will download many files from various Nexus pages over the coming lessons and we will also talk about the site in general. In order to download mods, you must have an account.
+The vast majority of mods and tools (including Mod Organizer 2) are hosted on [Nexus Mods](https://www.nexusmods.com/). The Nexus supports hundreds of games, but it should come as no surprise that the six games with the most downloads in total (by a wide margin) are the most recent Bethesda games. You will download many files from various Nexus pages throughout **Embers** and we will also talk about the site in general. In order to download mods, you must have an account.
 
 If you do not have a [Nexus Mods](https://www.nexusmods.com/) account yet, go ahead and create one now.
 
@@ -111,13 +109,22 @@ Click the **Create new instance** button to proceed.
 - Select **Create a portable instance** on the next page.
 - On the next page in the configuration wizard, select **Skyrim Special Edition** (which should be detected automatically).
 - Click **Next** again on the following page to confirm using your MO2 installation folder for all sub directories.
-- And lastly, click **Finish** to finalise your new MO2 instance.
+- Click **Connect to Nexus** and switch to the browser to authorise MO2 to connect your account.
+- In the MO2 installer, you should see: `Linked with Nexus successfully.`
+- Proceed to the next step and click **Finish** to finalise your new MO2 instance.
+
+> If you are not prompted to connect MO2 to the Nexus, you have likely already done this for a different MO2 instance.
 
 ## MO2 Interface
 
-Mod Organizer 2 should now launch automatically, giving you a first look at the tool. If the interface seems daunting at first, do not be discouraged: You will get used to it faster than you may think! Much of the UI simply makes a great deal of sense which is why it will quickly become easy to navigate.
+Mod Organizer 2 should launch automatically.
 
-Before we do anything, let us disable the log at the bottom. You are not going to need it (for now).
+- Click **No** when asked to see the tutorial (we will go over the various parts of MO2 in this guide).
+- When asked if MO2 should handle NXM links, click **Yes** (this allows automatic downloads from the Nexus through MO2).
+
+Now you can get your first look at MO2. If the interface seems daunting, don't be discouraged: You will get used to it faster than you may think! Much of the UI simply makes a great deal of sense which is why it will quickly become easy to navigate.
+
+Before we do anything, let us disable the log at the bottom. We are not going to need it (for now).
 
 ![MO2 Disable Log](/Pictures/embers/module-1/mo2-disable-log.png)
 
@@ -125,7 +132,7 @@ I also recommend right-click the MO2 icon on your taskbar and **pinning** it for
 
 ### Overview
 
-At this point, we are not going to discuss the purpose of the various parts of MO2's interface: Without context, the details would be difficult to remember. For now, please have a look at the five primary components of the UI which I will refer to from now on by the names defined below.
+At this point, we are not going to discuss the purpose of the various parts of MO2's interface: Without context, the details would be difficult to memorise. For now, please have a look at the five primary components of the UI which I will refer to from now on by the names defined below.
 
 **(1) The toolbar** allows you quick access to a number of sub menus.
 
@@ -175,18 +182,6 @@ Therefore I personally recommend changing the **Downloads** directory to a diffe
 - Point Mod Organizer 2 to that folder.
 
 ![MO2 Downloads Folder](/Pictures/embers/module-1/mo2-downloads-folder.png)
-
-### Nexus
-
-If you have not done so already, you need to connect Mod Organizer 2 to your Nexus account. This will allow you to download mods directly through MO2's interface, saving you a few extra clicks.
-
-- Click **Connect to Nexus**.
-- This will open a browser window where you will be asked to confirm.
-- Click **Authorise**. You can revoke this any time in your Nexus settings.
-- Close the **Settings** window.
-- Mod Organizer 2 may ask you to restart. Click **OK**.
-
-![MO2 Nexus Authorisation](/Pictures/tpf/initial-setup/authorise-mo2.png)
 
 ---
 

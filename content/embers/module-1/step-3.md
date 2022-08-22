@@ -8,7 +8,7 @@ description: >
 
 ## Vanilla Skyrim
 
-The unmodded, pristine version of Skyrim that we restored in Step 1 is referred to as **vanilla Skyrim**. It is about 12.7GB in size (without creations) and located in a Steam library directory.
+The unmodded, pristine version of Skyrim that we restored in Step 1 is referred to as **vanilla Skyrim**. It is about 12.7GB in size (plus up to 5.8GB for Creations) and located in a Steam library directory.
 
 ### File Name Extensions
 
@@ -37,6 +37,8 @@ The **data folder** contains all game files which are split into **plugins** and
 
 Mods are no different from the base game files or the creations: They can consist of plugins or assets, or both, and the assets can be packed in BSAs or they can be loose. **Like the base game files, mods always belong into the data folder.** If you install a mod into the root folder, it will simply not be recognised by the game and it will not work.
 
+> You will also find any Creations you own in this folder, in the same format. They are essentially mods.
+
 ## Data Folder Files
 
 Mods can consist of various files that are not always neatly stowed away in BSAs with a matching plugin. A large modded setup is made up of hundreds of plugins and thousands of loose files. When building such a setup, managing those loose files is one of the core concerns.
@@ -49,7 +51,7 @@ This method of modding meant that, ideally, you would need to know the order in 
 
 ### MO2's Virtual File System
 
-Arguably the most exciting feature of the original Mod Organizer was the **Virtual File System**, for **VFS** for short. Over the years, Nexus Mod Manager and its successor, Vortex, implemented similar functionalities although the modern Mod Organizer 2 remains the champion of asset managers.
+Arguably the most exciting feature of Mod Organizer and its successor, Mod Organizer 2, is the **Virtual File System**, for **VFS** for short. Over the years, Nexus Mod Manager and its successor, Vortex, implemented similar functionalities although the modern Mod Organizer 2 remains the champion of asset managers.
 
 Here is how it works:
 
@@ -74,21 +76,20 @@ Of course very few mods belong into the root folder to begin with. The Skyrim Sc
 
 While MO2 allows for self-contained mod setups, having to place certain files into the root folder still causes overlap between setups. If you run several different ones, a Wabbajack list and a personal setup for example, swapping out ENBs or having to be on the same version of SKSE may become annoying. To avoid this, we are also going to set up a dedicated **root folder** in a custom location.
 
-## Stock Game Folder
+## Game Root Folder
 
 In order to create a fully self-contained modded setup we are going to create a copy of the root folder within our MO2 instance. This means that the base game files in your current installation folder will remain completely untouched. You will be able to run and play the vanilla game as usual through Steam without affecting your modded setup.
 
-- Navigate to your Mod Organizer 2 installation folder and create a new **Stock Game** inside.
-- Copy the contents of your default **root folder** into this new folder.
-- This may take a minute depending on your hard drive (around 13-18GB of files are being copied).
+- Navigate to your Mod Organizer 2 installation folder and create a new **Game Root** folder inside.
+- Copy the contents from your default **root folder** into this new folder.
 
-As long as your default Skyrim SE installation is in place, Steam will recognise the game if it is now launched from your custom location.
+As long as your default Skyrim SE installation is in place, Steam will recognise the game if it is launched from your custom location.
 
 > If you're wondering: Yes, this is exactly the Stock Game Folder system that many Wabbajack lists use.
 
 ### Creation Club Files
 
-After creating a copy of the Stock Game folder, you will still have all the Creation Club files in your new **data folder**. Unless you own the Anniversary Edition DLC, that will be eight files in total.
+After creating a copy of the Game Root folder, you will still have all the Creation Club files in your new **data folder**. Unless you own the Anniversary Edition DLC, that will be eight files in total.
 
 For all intents and purposes, creations are just mods. They can interact with mods and cause the same kind of compatibility issues that mods can cause with each other. You will likely want to pick and choose from them just like you pick and choose your mods.
 
@@ -131,9 +132,9 @@ Re-launch Mod Organizer 2 and open the **Settings**. In the **Paths** tab, it sh
 As mentioned before, any executables must be run through Mod Organizer 2 so they can access the virtual data folder. For now, we should edit the default executables to use our copy of the game folder.
 
 - Open the **Executables** settings in MO2 by clicking the gears icon in the Toolbar.
-- For the **Skyrim Special Edition** executable, click the button next to **Binary** and navigate to your new **Stock Game** folder.
+- For the **Skyrim Special Edition** executable, click the button next to **Binary** and navigate to your new **Game Root** folder.
 - Double-click the **SkyrimSE.exe** inside to select it.
-- Click the button next to **Start in** and navigate to your **Stock Game** folder once again.
+- Click the button next to **Start in** and navigate to your **Game Root** folder once again.
 - Click **Select Folder** to set it as the new root folder.
 
 ![Update MO2 Executables](/Pictures/embers/module-1/update-mo2-executables.png)
