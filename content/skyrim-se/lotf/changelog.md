@@ -38,8 +38,8 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Vampire Allies Factions Fix
 - Added No More Swimming In Air - Fixed Floating SwimIdle
 - Added Actually Flat Flat Snow Drifts
+- Added Thieves Guild Dialogue Fix - USSEP Compatible
 - Added Configurable Sleep Wait Menu
-- Added Yet Another Main Menu Replacer - AE Patch
 - Added Moons and Stars - Sky Overhaul SKSE
 - Added Enhanced Vanilla Trees - Uprooted Stump Fix
 - Added Lanterns of Skyrim
@@ -73,7 +73,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Updated I'm Walkin' Here to 1.6.0
 - Updated Enhanced Reanimation to 1.4.0
 - Updated Enhanced Invisibility to 1.2.0
-- Updated Assorted Mesh Fixes to 0.69
+- Updated Assorted Mesh Fixes to 0.71
 - Updated Classic Sprinting Redone (SKSE64) to 2.3
 - Updated Better Jumping to 1.8.5
 - Updated Yes Im Sure to 1.6.0
@@ -87,7 +87,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Updated Improved Traps to 2.5
 - Updated Follower Trap Safety to 1.4
 - Updated Stackable Stones of Barenziah with Optional Quest Markers to 2.0.0
-- Updated Audio Overhaul for Skyrim to 3.4.1
+- Updated Audio Overhaul for Skyrim to 3.4.3
 - Updated Dynamic Animation Replacer to 1.1.2
 - Updated XP32 Maximum Skeleton Special Extended to 4.81
 - Updated the Conflict Resolution Patch
@@ -113,6 +113,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Changed bUse64bitsHDRRenderTarget= to 1 in the Default INIs
 - Cleaned up three errors I previously missed in the edited version of the USSEP
 - Fixed Profile Sync throwing errors when mod names have special characters
+- Fixed Dreldyn's Main Menu Replacer for AE
 - Removed scar textures from Xenius Character Enhancement
 - ESL-ified over a dozen plugins
 - Regenerated the Blacksmith Forge Water Patch
@@ -121,6 +122,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 #### CC Profile
 
 - Added Horse Armor No Longer Disappears (with a small modification)
+- Added Nchuanthumz Papyrus Load Fix
 
 ## Release 2.9
 
