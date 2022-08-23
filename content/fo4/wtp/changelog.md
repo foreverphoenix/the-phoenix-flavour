@@ -6,6 +6,27 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.3
+
+> 23/08/2022
+
+Welcome to Paradise now has its own [Nexus Page](https://www.nexusmods.com/fallout4/mods/63530) as well as a beautiful [video showcase](https://www.youtube.com/watch?v=fzO7F6JlIDI) by DroppedIceCream!
+
+#### Mod Changes
+
+- Added LOOT Config Loader (MO2 Plugin)
+- Added Shadow Boost
+- Added Ownership Fixes
+- Added Better Weapon Diversity for CHW
+- Added Better Weapon Diversity for CHW - WTP Patch
+- Added Perennial Power Armor - Lightweight Power Armor Rebalance
+- Added Perennial Power Armor - WTP Patch
+- Added Keep Radiants in the Commonwealth - UFO4P Version
+- Added Blue's Minutemen Flag Pack (Standalone)
+- Updated Fixed Gobo Effects to 2.1.1
+- Removed Keep Radiants in the Commonwealth
+- Cleaned out some redundant records from the Conflict Resolution Patch
+
 ## Release 2.6.2
 
 > 18/08/2022
