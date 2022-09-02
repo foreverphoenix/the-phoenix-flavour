@@ -6,6 +6,57 @@ description: >
   Changes for TPF 5.0 beta releases.
 ---
 
+## 5.0 Release Candidate 4
+
+> 27/08/2022
+
+Added a performance profile with (LOTF) performance INIs, a different ENB preset (Defaulto ENB with performance tweaks), less demanding LODs, and a few other modifications.
+
+#### Mod Changes
+
+- Added Root Builder (MO2 Plugin)
+- Added MechanicalPanda's Water LOD Fix for ENB (to my modified Rudy ENB enbseries.ini)
+- Added SmoothCam - EasyEase Preset
+- Added Dwemer Ballista Crash Fix
+- Added RUSTIC CHILDREN 2K
+- Added Simple Children Refine
+- Added Stalhrim Refrozen - Ancient Nordic Pickaxe Remesh and Rudy Candles Patch
+- Added Shadow Boost (disabled by default)
+- Added ENB AO Toggler (disabled by default)
+- Added AI Overhaul - Simple Children Refine and Prince and the Pauper Refine Patch
+- Added Audio Overhaul Skyrim - Prince and the Pauper Refine Patch
+- Added Literally Unplayable - Bruma Patch
+- Updated NORDIC UI - Miscellaneous Patches to 1.7.1
+- Updated Prince and the Pauper Refine to 2.1.0
+- Updated the Prince and the Pauper - TPF Patch
+- Updated Vittoria's Alternate Wedding to 1.3.1
+- Updated Icy Mesh Remaster to 1.3
+- Updated Mesh patches for Lux and Lux Orbis to 1.3.2
+- Updated AI Overhaul - TPF Patch
+- Removed Simple Children
+- Removed Adopt Aventus Aretino - USSEP and Simple Children Patch
+- Removed Simple Children - BS Bruma Patch
+- Removed Simple Children - Wyrmstooth Patch
+- Removed Simple Children - Wyrmstooth Patch - Update
+- Fixed QW Grass Patch being disabled in the load order
+- Fixed bad snow/dirt transition on the Windhelm bridge
+- Fixed ludicrous armor value on Hide Boots
+- Fixed special OCW music not playing in the Hall of Acumen and Hall of Diligence
+- Temporarily reverted facegen for Legate Centos Durius (150c9b17) to vanilla to fix his black face
+- Books are now picked up by default, press Left Shift to read first
+- Actually fixed mountain flowers
+- Should no longer see the (Removed) tag on certain items
+- Disabled a misplaced snow drift on the Windhelm bridge
+- Swapped mod order of Unique Map Weather Framework and A Clear World Map
+- SmoothCam is now disabled by default
+- Now using Blended Roads textures for roads
+- Inigo's eyes are no longer "playable" (available in RaceMenu)
+- Forward a few random, previously missed edits
+- Changed the naming scheme for the Creation mod folders
+- Now excluding my personal keybinds (ControlMap_Custom.txt)
+- Regenerated TexGen
+- Regenerated DynDOLOD (regular and performance)
+
 ## 5.0 Release Candidate 3
 
 > 23/08/2022
