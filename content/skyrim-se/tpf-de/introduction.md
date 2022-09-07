@@ -39,7 +39,7 @@ description: >
 - **New Quests:** [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180), [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) etc.;
 - **Followers:** [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075) etc.;
 - **Landscape:** [Seasonal Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/66903), [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182) etc.;
-- **Lightning:** [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791), [Relightning Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) and [Luminosity Lightning Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830);
+- **Lightning:** [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791), [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) and [Luminosity Lightning Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830);
 - **ENB:** [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082);
 - **Minor Cities' Overhauls:** Cities of the North series' mods by [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files), The Great Cities series' mods by [soldierofwar](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files), [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718) etc.;
 - **Upgrades for Major Cities:** [Jkrojmal](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s interior overhauls, [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514), [Snazzy Furniture and Clutter Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2414) etc.;
@@ -53,7 +53,7 @@ description: >
 
 <br>
 
-<a href="https://loadorderlibrary.com/lists/the-phoenix-flavour-dragons-edition" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(220, 134, 134) 1px 1px;">Modlist</a>
+<a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="https://loadorderlibrary.com/lists/the-phoenix-flavour-dragons-edition">Modlist</a>
 
 ## Recommended Hardware
 
@@ -70,15 +70,14 @@ Widescreen and controller support is included.
 
 <br>
 
-<a href="../installation-guide" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(183, 132, 132) 1px 1px;">Installation Guide</a>
-
-<a href="../gameplay-guide" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(183, 132, 132) 1px 1px;">Gameplay Guide</a>
-
-<a href="../faq" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(183, 132, 132) 1px 1px;">Frequently Asked Questions</a>
-
-<a href="../bug-reporting" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(183, 132, 132) 1px 1px;">Bug Reporting</a>
-
-<a href="../changelog" style="background: rgb(255, 153, 0) none repeat scroll 0% 0%; border-radius: 1000px; padding: 12px 25px; color: rgb(255, 255, 255); display: inline-block; font: bold 15px / 1 &quot;Roboto&quot;, sans-serif; text-align: center; text-shadow: rgb(183, 132, 132) 1px 1px;">Changelog</a>
+<div class="mx-auto">
+<br>
+  <a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="../installation-guide">Installation Guide</a>
+  <a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="../gameplay-guide">Gameplay Guide</a>
+  <a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="../faq">Frequently Asked Questions</a>
+  <a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="../bug-reporting">Bug Reporting</a>
+  <a class="btn btn-primary mr-3 mb-4" style="color:#FFFBFF; background: #FF9900; border-color: #FF9900;" href="../changelog">Changelog</a>
+</div>
 
 <br>
 
