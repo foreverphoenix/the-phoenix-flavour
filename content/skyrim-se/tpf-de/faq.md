@@ -51,7 +51,7 @@ Refer to [the gameplay guide](../gameplay-guide) if you want to learn more about
 > How can I improve modpack's performance on my computer?
 
 1. Downscale your resolution if you are playing on 1440p or bigger monitor by applying the settings from the installation guide. Check those [here](../installation-guide#configurations). Try your changes in the game. Stop if it is enough.
-2. Change our PI-CHO ENB to the more performance friendly one. Those ENBs aren't as beautiful, but they are great for gameplay and don't go so hard on your computer. You can find the instructions about how to remove the current ENB [here](../installation-guide#in-game-adjustments) in quick tips. The most performance friendly ones I know are Truth ENB, Serio's ENB and Cathedral Minimalist ENB. It is up to you to find them, choose the best one for you and then follow the chosen one's instructions to apply it to your game. If you need some assistance to change it, feel free to ask in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#enb-talk_ channel. Try your changes in the game. Stop if it is enough.
+2. Change our PI-CHO ENB to its more performance friendly version or to completely different ENB, which are meant to be more performance friendly. Those ENBs aren't as beautiful, but they are great for gameplay and don't go so hard on your computer. You can find the instructions about how to remove the current ENB [here](../installation-guide#in-game-adjustments) in quick tips. The most performance friendly ones I know are Truth ENB, Serio's ENB and Cathedral Minimalist ENB. It is up to you to find them, choose the best one for you and then follow the chosen one's instructions to apply it to your game. If you need some assistance to change it, feel free to ask in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#enb-talk_ channel. Try your changes in the game. Stop if it is enough.
 3. Setup resolution scale according to the same instructions in the installation guide [here](../installation-guide#configurations).
 
 ---
@@ -59,4 +59,14 @@ Refer to [the gameplay guide](../gameplay-guide) if you want to learn more about
 > Can I play with a controller instead of mouse and keyboard?
 
 Yep, it should be as easy as connecting a controller. The only potential issue would be lack of bindable hotkeys for mods.
+
+---
+
+> Can I change in-game real time clock format to 12 hour one?
+
+1. Press on *INTERFACE* separator.
+2. Double click on *KenMOD - Time On Loading Screen* mod.
+3. Choose *Text files* tab.
+4. In line 4, change _&twelveHourClock_ parameter to `1`.
+5. Press on *Save* button or use `Ctrl` + `S` shortcut.
 
