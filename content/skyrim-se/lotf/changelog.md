@@ -34,6 +34,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Small Environmental Fixes - Fixes
 - Added Hearthfires Houses Building Fix
 - Added Hearthfire Display Case Fix by Krucify
+- Added Dwemer Ballista Crash Fix
 - Added Shalidor's Maze Puzzle Sound Fix (Labyrinthian)
 - Added Vampire Allies Factions Fix
 - Added No More Swimming In Air - Fixed Floating SwimIdle
@@ -50,9 +51,6 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Centered Blue Palace Throne
 - Added Conditional Dog Barking
 - Added Unique Map Weather Framework
-- Added A Clear Map of Skyrim and Other Worlds
-- Added Atlas Map Markers
-- Added Atlas Map Markers - Settings Loader
 - Updated SSE from 1.5.97.0 to 1.6.353.0
 - Updated SKSE to 2.1.5
 - Updated ENBSeries (no version number change)
@@ -66,24 +64,26 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Updated SSE Engines Fixes to 6.0.2
 - Updated Bug Fixes SSE to 7
 - Updated Actor Limit Fix to 6
-- Updated powerofthree's Tweaks to 1.6.0
+- Updated powerofthree's Tweaks to 1.7.0
 - Updated Scrambled Bugs to 18
 - Updated Whose Quest Is It Anyway to 1.4.0
 - Updated Encounter Zones Unlocked to 1.5.3
 - Updated I'm Walkin' Here to 1.6.0
 - Updated Enhanced Reanimation to 1.4.0
 - Updated Enhanced Invisibility to 1.2.0
-- Updated Assorted Mesh Fixes to 0.71
+- Updated Assorted Mesh Fixes to 0.72
 - Updated Classic Sprinting Redone (SKSE64) to 2.3
 - Updated Better Jumping to 1.8.5
 - Updated Yes Im Sure to 1.6.0
 - Updated Auto Input Switch to 1.1.3
+- Updated Glowing Mushroom Collision Fixes to 1.1
 - Updated Fix Note Icon for SkyUI to 1.2.5
 - Updated moreHUD to 5.1.1.0
 - Updated moreHUD - Settings Loader to 2.1.1
 - Updated moreHUD Inventory Edition to 2.0.4.0
 - Updated Horse Stamina HUD - Script-Free to 1.0.3
 - Updated Time Format Changer to 1.2.0
+- Updated Simplicity of Snow to 0.8
 - Updated Improved Traps to 2.5
 - Updated Follower Trap Safety to 1.4
 - Updated Stackable Stones of Barenziah with Optional Quest Markers to 2.0.0
@@ -102,7 +102,6 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Removed Animated Static Reload Fix (not updated for 1.6)
 - Removed No Lock Picking (not updated for 1.6)
 - Removed Misc Tweaks - No Starting Spells
-- Removed A Quality World Map
 - Removed Stay At The System Page (not update for 1.6)
 - Removed Dragon War - A Dragon Overhaul (only AI packages)
 - Removed Dragonborn Presence - Discord Rich Presence (not updated for 1.6)
