@@ -28,6 +28,10 @@ description: >
 - Changed sorting tag for Blood Packs from [Raw] to (Aid)
 - Regenerated terrain and object LOD
 
+#### Website
+
+- **Known Issues:** Removed "Empty crafting bench category" issue (should now be resolved)
+
 ## Release 2.6.3
 
 > 23/08/2022
