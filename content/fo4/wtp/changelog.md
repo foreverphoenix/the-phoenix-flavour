@@ -6,6 +6,28 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.4
+
+> 09/09/2022
+
+#### Mod Changes
+
+- Added This Settlement Does Not Need Your Help - BS Defence Redone
+- Added The Missing Nukalurk Recipe Book
+- Added The Missing Nukalurk Recipe Book - Sorting Patch
+- Added Ketaros Missing Magazines
+- Added Ketaros Missing Magazines - Sorting Patch
+- Added Ketaros Missing Magazines - WTP Patch
+- Updated Shadow Boost FO4 to 1.5
+- Updated Workshop Framework to 2.2.4
+- Updated Far Object LOD Improvement Project to 2.2
+- Updated Previsibines Repair Pack to 0.59.11
+- Removed Fall UI - No 3D in Barter Menu
+- Fixed wrong load order for Phoenix - Simple Crafting Stations.esp
+- Fixed missing sorting tag for the Yellow Slicker Hat
+- Changed sorting tag for Blood Packs from [Raw] to (Aid)
+- Regenerated terrain and object LOD
+
 ## Release 2.6.3
 
 > 23/08/2022
