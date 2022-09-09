@@ -6,6 +6,22 @@ description: >
   Update notes for The Phoenix Flavour - Dragon's Edition.
 ---
 
+## Release 2.9.2
+
+> 09.09.2022
+
+**Is save compatible, but before updating you need to reset your perk points. Check the gameplay guide to learn how to do that.**
+
+This time just an update to fix some sort of Nexus issues related to Adamant by just updating it.
+
+### Updated Mods
+
+* Mysticism - A Magic Overhaul
+* Adamant - A Perk Overhaul
+* Hand to Hand - An Adamant Addon
+
+---
+
 ## Release 2.9.1
 
 > 07.09.2022
