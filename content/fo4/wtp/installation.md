@@ -280,7 +280,10 @@ The only Creation supported by WTP is fadingsignal's [Modular Military Backpack]
 If you own the Modular Military Backpack CC, you can install it for WTP by following these steps:
 
 - Navigate to the mods folder within your Mod Organizer 2 instance: `\Welcome To Paradise\mods\`.
-- Create a new folder named "Creation Club - Modular Military Backpack".
+- Create a new folder named "[NoDelete] Creation Club - Modular Military Backpack".
+
+> The [NoDelete] prefix will ensure that the mod is not deleted after updating WTP.
+
 - Retrieve the plugin and archives for the Creation from your CC backups folder:
 
 ```
@@ -289,7 +292,7 @@ ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
 ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
 ```
 
-- Copy all three files into the new "Creation Club - Modular Military Backpack" folder.
+- Copy all three files into the new "[NoDelete] Creation Club - Modular Military Backpack" folder.
 - Back in Mod Organizer 2, press **F5** to refresh.
 - The new mod will appear at the bottom of your mod order (left pane).
 - Drag it up below the **NEW CONTENT** separator and activate it.

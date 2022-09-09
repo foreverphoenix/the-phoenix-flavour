@@ -30,6 +30,7 @@ description: >
 
 #### Website
 
+- **Installation:** Added instructions to use the [NoDelete] tag for the Modular Military Backpack folder
 - **Known Issues:** Removed "Empty crafting bench category" issue (should now be resolved)
 
 ## Release 2.6.3
