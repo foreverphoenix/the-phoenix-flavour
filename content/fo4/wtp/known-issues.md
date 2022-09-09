@@ -79,9 +79,3 @@ uPipboyTargetWidth=876
 ## Load screens appear frozen
 
 In loading screens, there is no spinning object and the loading symbol is not animated. This is actually not a bug, but a feature. Disabling animations in loading screens apparently increases load times. It was done in the High FPS Physics Fix custom INI file.
-
-## Empty crafting bench category
-
-Currently (since WTP 2.6?) there is an emtpy category in the Crafting (chem) Bench. If you click on it, you CANNOT back out again so please don't click on. I hope to be able to fix this soon.
-
-![Emtpy Chem Bench Category](/Pictures/wtp/empty-chem-bench-category.jpg)
