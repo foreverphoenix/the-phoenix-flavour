@@ -22,7 +22,7 @@ I would very strongly recommend to check [*Introduction*](introduction.md) to le
   
   - The latest version of Windows 10 or 11;
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
-  - The latest version of Skyrim Special Edition - 1.6.353 with [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/);
+  - The latest version of Skyrim Special Edition - 1.6.640 with [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/);
   - A free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
  
  > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't install for you.
