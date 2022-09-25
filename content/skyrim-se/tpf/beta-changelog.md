@@ -6,6 +6,15 @@ description: >
   Changes for TPF 5.0 beta releases.
 ---
 
+## 5.0 Release Candidate 5
+
+> TBD
+
+#### Mod Changes
+
+- Added HD Local Map
+- Removed Ebony Blade textures and meshes from Modular Armory (should never have overwritten Weapons & Armor Overhaul)
+
 ## 5.0 Release Candidate 4
 
 > 27/08/2022
