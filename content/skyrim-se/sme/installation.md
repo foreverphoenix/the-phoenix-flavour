@@ -40,7 +40,7 @@ The patcher tool [Synthesis](https://github.com/Mutagen-Modding/Synthesis) requi
 
 ## Skyrim SE Setup
 
-**SME requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`) and unrelated to the Anniversary Edition DLC which is NOT required. If you are on any older version of Skyrim SE, please verify files through Steam to install the update. You can check the version by right-clicking the **SkyrimSE.exe** in your game folder and going to the **Details** tab.
+**SME requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.640.0`) and unrelated to the Anniversary Edition DLC which is NOT required. If you are on any older version of Skyrim SE, please verify files through Steam to install the update. You can check the version by right-clicking the **SkyrimSE.exe** in your game folder and going to the **Details** tab.
 
 **Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu. If you own any creations beyond the four free ones, they will be downloaded as well.
 
