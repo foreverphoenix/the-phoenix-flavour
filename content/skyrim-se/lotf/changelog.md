@@ -8,7 +8,7 @@ description: >
 
 ## Release 3.0
 
-> 04/09/2022
+> TBD
 
 **This update requires a new game.**
 
@@ -25,9 +25,15 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Crash Log Tools (MO2 Plugin)
 - Added Crash Logger SE
 - Added ENB Helper Plus
+- Added Console Commands Extender
+- Added HelpExtender
+- Added Show Animation Command
+- Added NVIDIA Reflex Support
 - Added Enchantable Special Item Fix
 - Added NPC AI Process Position Fix - NG
 - Added Animated Static Reload Fix - NG
+- Added Universal Cured Serana Eye Fix
+- Added HD Local Map
 - Added Better Windhelm Ground Meshes - Placement Corrections
 - Added Stamina of Steeds
 - Added Small Environmental Fixes (AO and Transition)
@@ -53,29 +59,33 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Added Unique Map Weather Framework
 - Updated SSE from 1.5.97.0 to 1.6.353.0
 - Updated SKSE to 2.1.5
-- Updated ENBSeries (no version number change)
+- Updated ENBSeries to 0.477
 - Updated Address Library for SKSE to 5
+- Updated SSE Display Tweaks to 0.5.11
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions to 4.3
 - Updated Scaleform Translation Plus Plus to 1.5.0
 - Updated Base Object Swapper to 1.6.0
 - Updated ConsoleUtilSSE to 1.3.2
-- Updated MCM Helper to 1.3.2
+- Updated Skyrim Landscape and Water Fixes to 7.0.1
+- Updated MCM Helper to 1.3.3
 - Updated ENB Helper to 2.1
+- Updated Particle Patch for ENB to 1.1.0
 - Updated SSE Engines Fixes to 6.0.2
 - Updated Bug Fixes SSE to 7
 - Updated Actor Limit Fix to 6
-- Updated powerofthree's Tweaks to 1.7.0
+- Updated powerofthree's Tweaks to 1.7.1
 - Updated Scrambled Bugs to 18
 - Updated Whose Quest Is It Anyway to 1.4.0
-- Updated Encounter Zones Unlocked to 1.5.3
+- Updated Encounter Zones Unlocked to 1.5.4
 - Updated I'm Walkin' Here to 1.6.0
-- Updated Enhanced Reanimation to 1.4.0
+- Updated Enhanced Reanimation to 1.5.0
 - Updated Enhanced Invisibility to 1.2.0
-- Updated Assorted Mesh Fixes to 0.72
+- Updated Assorted Mesh Fixes to 0.73
 - Updated Classic Sprinting Redone (SKSE64) to 2.3
 - Updated Better Jumping to 1.8.5
 - Updated Yes Im Sure to 1.6.0
-- Updated Auto Input Switch to 1.1.3
+- Updated Auto Input Switch to 1.2.0
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.3
 - Updated Glowing Mushroom Collision Fixes to 1.1
 - Updated Fix Note Icon for SkyUI to 1.2.5
 - Updated moreHUD to 5.1.1.0
@@ -92,6 +102,7 @@ LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally
 - Updated XP32 Maximum Skeleton Special Extended to 4.81
 - Updated the Conflict Resolution Patch
 - Updated SSELODGen to Beta 94
+- Updated Synthesis to 0.24
 - Removed .NET Script Framework (not updated for 1.6)
 - Removed Dear Diary - Better More Informative Console
 - Removed Weapons Armor Clothing and Clutter Fixes
