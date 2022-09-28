@@ -6,6 +6,20 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.5
+
+> TBD
+
+### Mod Changes
+
+- Updated ShadowBoost to 1.7
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4
+- Updated This Settlement Does Not Need Your Help - BS Defence Redone to 3.2
+- Updated Ketaros Missing Magazines to 1.1
+- Updated Far Object LOD Improvement Project to 2.4
+- Updated Optimized Vanilla Tree LODs to 2.1
+- Regenerated terrain and object LOD
+
 ## Release 2.6.4
 
 > 09/09/2022
