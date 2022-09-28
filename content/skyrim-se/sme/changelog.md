@@ -6,6 +6,41 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.5
+
+> 28/09/2022
+
+For the forseeable future, SME will continue to use **SSE 1.6.535** until all mods have been updated. However, I recompiled with the latest version of Skyrim in my Steam folder, meaning that users also need to have the latest version to install SME. Wabbajack will downgrade the copy of the game in your Game Root folder. This way, you don't have to downgrade your Steam installation.
+
+#### Mod Changes
+
+- Added Console Commands Extender
+- Added HelpExtender
+- Added NVIDIA Reflex Support
+- Added Shadow Boost (disabled by default)
+- Added HD Local Map
+- Added Universal Cured Serana Eye Fix
+- Added Dwemer Ballista Crash Fix
+- Added AnimObject Swapper
+- Added Animation Motion Revolution
+- Updated ENBSeries binaries to 0.477
+- Updated DynDOLOD to 3 Alpha 99
+- Updated MCM Helper to 1.3.3
+- Updated SSE Display Tweaks to 0.5.11
+- Updated powerofthree's Tweaks to 1.7.1
+- Updated Enhanced Reanimation to 1.5.0
+- Updated Face Discoloration Fix to 1.0.3
+- Updated Sound Fix for Large Sector Drives to 3
+- Updated Assorted Mesh Fixes to 0.73
+- New separator "Console Improvements" (moved some mods around)
+- Redownloaded the mandatory CCs (as WJ will otherwise downgrade them)
+- Recompiled with latest Skyrim SE version
+- Recompiled with Wabbajack 3
+
+#### Website
+
+- **Installation:** Updated to reflect that Skyrim SE 1.6.640.0 is now required
+
 ## Release 1.4
 
 > 19/08/2022
