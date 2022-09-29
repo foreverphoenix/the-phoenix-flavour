@@ -6,11 +6,17 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.5.1
+
+> 29/09/2022
+
+- Fixed Wabbajack installer failing on missing CCs
+
 ## Release 1.5
 
 > 28/09/2022
 
-For the forseeable future, SME will continue to use **SSE 1.6.535** until all mods have been updated. However, I recompiled with the latest version of Skyrim in my Steam folder, meaning that users also need to have the latest version to install SME. Wabbajack will downgrade the copy of the game in your Game Root folder. This way, you don't have to downgrade your Steam installation.
+For the forseeable future, SME will continue to use **SSE 1.6.353** until all mods have been updated. However, I recompiled with the latest version of Skyrim in my Steam folder, meaning that users also need to have the latest version to install SME. Wabbajack will downgrade the copy of the game in your Game Root folder. This way, you don't have to downgrade your Steam installation.
 
 #### Mod Changes
 
