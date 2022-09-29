@@ -6,6 +6,12 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.5.1
+
+> 29/09/2022
+
+- Fixed Wabbajack installer failing on missing CCs
+
 ## Release 1.5
 
 > 28/09/2022
