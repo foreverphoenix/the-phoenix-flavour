@@ -10,7 +10,7 @@ description: >
 
 > TBD
 
-### Mod Changes
+#### Mod Changes
 
 - Updated ShadowBoost to 1.7
 - Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4
