@@ -10,7 +10,15 @@ description: >
 
 > TBD
 
+I am very impressed with the recently released [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484) which fits perfectly into the modern ARPG direction that I have been taking TPF. However, it still requires a patch for CoMAP and has some minor kinks to work out. For now, the mod and its requirements are included as optionals (in the UI Customisation section).
+
+A new separator "EXPERIMENTAL" was added for mods that are being tested.
+
+The Falkreath plaza situation was improved (less overgrown, fixed invisible tree), but it's not perfect.
+
 #### Mod Changes
+
+**New additions:**
 
 - Added Console Commands Extender
 - Added HelpExtender
@@ -18,19 +26,48 @@ description: >
 - Added Universal Cured Serana Eye Fix
 - Added NVIDIA Reflex Support
 - Added HD Local Map
+- **[Optional]** Added Infinity UI
+- **[Optional]** Added Compass Navigation Overhaul
+- **[Optional]** Added Compass Navigation Overhaul - NORDIC UI Skin
+- **[Optional]** Added A Matter of Time - Minimal Preset
+- Added Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+- Added Footprints
+- Added Footprints - ENB Patch
+- Added SPID for Footprints
+- Added Happy Little Logs
 - Added FYX - SMIM Barrel
 - Added 3D Trellis Improved - Gildergreen Plaza
+- Added FYX - Raven Rock Docks and Fences Round Posts
 - Added Better Ladder UV Mapping
 - Added Glowing Mushroom Collision Fixes
+- **[Experimental]** Added Moveable Banner
 - Added Ancient Dwemer Metal - Xtudo's Patches - Metallurgy Patch
+- Added Infinite Dragon Variants
+- Added COTN Falkreath - Floating Guard Marker Fix
+- Added Daedric Shrines - Namira Navmeshed
+- Added Daedric Shrines - Sithis
+- Added Daedric Shrines - Malacath
+- Added JK's Castle Dour
+- Added Skyrim Wayshrines - COTN Falkreath Patch (custom)
+- Added Missing Food - Carlotta's Fresh Pumpernickel
+- Added Missing Food - Orgnar's Famous Skeever Liver
+- Added Missing Food - Valga's Potage le Magnifique
+- Added Missing Food - Hillevi's Mince Pies
+- Added Missing Food Series - Apothecary Food Patches
 - Added AnimObject Swapper
 - Added Goetia Animations - Sneak Magic
+- **[Experimental]** Added Goetia Animations - Conditional Shouts
 - Added Lux - Updated Plugin
 - Added Lux - Updated Winterhold College Meshes
 - Added Lux - Obscure's College Fixed Mesh
 - Added Lux - Markarth Outskirts Patch
 - Added Lux Via - Optimized Whiterun Braziers
+- Added Lux Orbis - COTN Falkreath Addons Patch (custom)
 - Added Lux Orbis - Immersive Fort Dawnguard Patch
+- **[Experimental]** Added XPMSSE Spazzing Skeleton and Corpse Fix
+
+**Updated mods:**
+
 - Updated DynDOLOD to 3 Alpha 99
 - Updated ENBSeries binaries to 0.477
 - Updated Rudy ENB to 6.5a
@@ -38,44 +75,78 @@ description: >
 - Updated SSE Display Tweaks to 0.5.11
 - Updated MCM Helper to 1.3.3
 - Updated Skyrim Landscape and Water Fixes to 7.0.1
+- Updated QUI to 0.3.1.1
 - Updated powerofthree's Tweaks to 1.7.1
+- Updated Enchantable Special Item Fix to 1.0.2
 - Updated Classic Paralysis to 3.3
 - Updated Enhanced Reanimation 1.5.0
+- Updated ENB Light Inventory Fix (ELIF) to 1.0.1
 - Updated True Directional Movement - Modernized Third Person Gameplay to 2.2.3
 - Updated Auto Input Switch to 1.2.0
+- Updated TrueHUD - HUD Additions to 1.1.7
 - Updated Particle Patch for ENB to 1.1.0
 - Updated Assorted Mesh Fixes to 0.73
+- Updated Enhanced Volumetric Lighting and Shadows (EVLaS) to 1.3.1
 - Updated Rudy ENB for Obsidian Weathers - Required Files to 6.5
 - Updated Moons and Stars - Sky Overhaul SKSE to 2.0.1
 - Updated Storm Lightning to 1.4.16
-- Updated TrueHUD - HUD Additions to 1.1.7
+- Updated Embers XD to 2.6.2
+- Updated Majestic Mountains to 4.0
+- Updated Majestic Mountains - LOD Pack to 4.0
+- Updated Skyrim - A Mountainous Experience to 1.6
 - Updated Simplicity of Snow to 0.8
 - Updated Cathedral 3D Mountain Flowers - Base Object Swapper to 0.1.9
 - Updated Reverie Skin to 1.9.1
+- **[Performance]** Updated Shadow Boost to 1.2.1
+- **[Performance]** Updated Embers XD Lite to 2.6.2
 - Updated Security Overhaul SKSE - Lock Variations to 3.2.0
+- Updated Thaumaturgy - Weapon Enchantment XP Tweak (no version number change)
 - Updated AI Overhaul SSE to 1.8.2
 - Updated Blade and Blunt - A Combat Overhaul to 2.0.2
 - Updated Encounter Zones Unlocked to 1.5.4
 - Updated Dragon War - A Dragon Overhaul to 2.1.8
 - Updated Dragon War - Reduced Difficulty to 2.1.8
 - Updated Animation Motion Revolution to 1.5.3
-- Updated Movement Behavior Overhaul to 1.4
+- Updated Movement Behavior Overhaul to 1.5
 - Updated Jump Behaviour Overhaul to 1.5
 - Updated Dragon War - Wyrmstooth Patch to 2.1.8
 - Updated JKs Skyrim - AI Overhaul SSE Patch to 1.3.0.1
+- Updated Rob's Bug Fixes - COTN Morthal to 2.4
+- Updated Rob's Bug Fixes - COTN Winterhold to 2.3
+- Updated Rob's Bug Fixes - COTN Falkreath to 2.7
+- Updated Rob's Bug Fixes - TGC Ivarstead to 1.1
+- Updated Rob's Bug Fixes - TGC Kynesgrove to 1.3
+- Updated JKs Guild HQ Interiors Patch Collection to 1.10.2
 - Updated JK's and Obscure's College of Winterhold Combo Patches to 2.5
+- Updated Cheesemod for EVERYONE - TPF Patch
 - Updated Hand to Hand - An Adamant Addon to 1.3.4
 - Updated Hand to Hand - Trainers and Skill Books Addon to 1.0.5
 - Updated Hand to Hand - Armor Addon to 1.3.3
+- Updated Pilgrim and Daedric Shrines - Consistency and Tweaks to 1.10
 - Updated Lux to 1.5.1
 - Updated Lux Orbis to 2.7 beta
 - Updated Icy Mesh Remaster to 1.41
 - Updated Mesh Patches for Lux and Lux Orbis to 1.3.4
+- Updated TPF - Conflict Resolution Patch
+
+**Removed mods:**
+
 - Removed Dragon War - Variants
+- Removed Movement Behaviour Overhaul - True Directional Movement Patch
+- Removed Movement Behaviour Overhaul - Gamepad Patch
 - Removed various deprecated Lux patches
+
+**Other changes:**
+
 - Enabled Dynamic Snow Material in po3's Tweaks
 - Switched to the 1K version of Metallurgy (previously used 2K)
+- Disabled level progress percentage in loading screens and changed clock to 24h
+- Now using the red/orange Embers XD flame as recommended by Rudy
+- Slightly adjusted the shape of the TPF smithing perk tree
+- Separated out the weapons changes from the Weapons & Armor Overhaul mod
+- Modified the moreHUD preset (reduced size and repositioned the player items widget in the bottom right)
 - Removed Ebony Blade textures and meshes from Modular Armory (should never have overwritten Weapons & Armor Overhaul)
+- Regenerated Nemesis
 
 ## 5.0 Release Candidate 4
 
