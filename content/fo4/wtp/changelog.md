@@ -6,18 +6,27 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
-## Release 2.6.5
+## Release 2.7
 
 > TBD
 
 #### Mod Changes
 
+- Added NVIDIA Reflex Support
+- Added Workbench Replacer HD 2K
+- Added Dirty Prewar Clothes Restored - Sorting Patch
+- Added No More Halloween Decorations (you can disable this if you're partial to random pumpkin decals)
 - Updated ShadowBoost to 1.7
-- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4
+- Updated Workshop Framework to 2.3beta
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4.1
+- Updated Curated Companions to 3.0
+- Updated Companion Thoughts Overhaul to 0.5
 - Updated This Settlement Does Not Need Your Help - BS Defence Redone to 3.2
 - Updated Ketaros Missing Magazines to 1.1
 - Updated Far Object LOD Improvement Project to 2.4
 - Updated Optimized Vanilla Tree LODs to 2.1
+- Updated Previsibines Repair Pack to 0.65
+- Re-enabled input switch option in Buffout (crash was fixed)
 - Regenerated terrain and object LOD
 
 ## Release 2.6.4
