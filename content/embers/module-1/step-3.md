@@ -37,8 +37,6 @@ The **data folder** contains all game files which are split into **plugins** and
 
 Mods are no different from the base game files or the creations: They can consist of plugins or assets, or both, and the assets can be packed in BSAs or they can be loose. **Like the base game files, mods always belong into the data folder.** If you install a mod into the root folder, it will simply not be recognised by the game and it will not work.
 
-> You will also find any Creations you own in this folder, in the same format. They are essentially mods.
-
 ## Data Folder Files
 
 Mods can consist of various files that are not always neatly stowed away in BSAs with a matching plugin. A large modded setup is made up of hundreds of plugins and thousands of loose files. When building such a setup, managing those loose files is one of the core concerns.
