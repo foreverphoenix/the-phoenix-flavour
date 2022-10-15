@@ -6,6 +6,41 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.5
+
+> 15/10/2022
+
+Well, it happened, I started playing Fallout 4 again. What does this mean for WTP? For one, there will likely be no updates requiring a new game in the near-ish future since I want to keep playing the latest version. It also means that there is a better chance of me finding lingering, unreported issues and oversights (there were a couple clothing items without sorting tags, fixed now), and making adjustments. I am currently tinkering with a custom FallUI HUD preset which is included in WTP and can be selected in the MCM (only minor changes from vanilla so far).
+
+This update was compiled with Wabbajack 3.
+
+#### Mod Changes
+
+- Added NVIDIA Reflex Support
+- Added Workbench Replacer HD 2K
+- Added Dirty Prewar Clothes Restored - Sorting Patch
+- Added No More Halloween Decorations (you can disable this if you're partial to random pumpkin decals)
+- Updated ShadowBoost to 1.7
+- Updated Workshop Framework to 2.3c
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4.1
+- Updated my personal FallUI HUD preset (it's a work in progress)
+- Updated Curated Companions to 3.0
+- Updated Companion Thoughts Overhaul to 0.5
+- Updated This Settlement Does Not Need Your Help - BS Defence Redone to 3.2
+- Updated Ketaros Missing Magazines to 1.1
+- Updated LOST Audio Tweaks to 3.2
+- Updated Far Object LOD Improvement Project to 2.4
+- Updated Optimized Vanilla Tree LODs to 2.1
+- Updated Previsibines Repair Pack to 0.65.1
+- Removed 1 Rad Bugfix (bug fixed by the UFO4P)
+- Re-enabled input switch option in Buffout (crash was fixed)
+- Regenerated terrain and object LOD
+
+#### Website
+
+- **Introduction:** Fixed the WTP showcase embed, also fixed a typo
+- **Documentation:** Added F3 (toggle ground/object snapping) to list of keybinds
+
 ## Release 2.6.4
 
 > 09/09/2022
@@ -30,6 +65,7 @@ description: >
 
 #### Website
 
+- **Installation:** Added instructions to use the [NoDelete] tag for the Modular Military Backpack folder
 - **Known Issues:** Removed "Empty crafting bench category" issue (should now be resolved)
 
 ## Release 2.6.3
