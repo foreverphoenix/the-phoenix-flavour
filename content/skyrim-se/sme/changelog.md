@@ -6,6 +6,33 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.5.2
+
+> 15/10/2022
+
+Just the most recent mod updates. SME is still on 1.6.353
+
+#### Mod Changes
+
+- Added Crash Logger SSE AE VR
+- Updated DynDOLOD to 3 Alpha 102
+- Updated Cathedral Assets Optimizer to 5.3.14
+- Updated Address Library for SKSE Plugins to 8
+- Updated SSE Display Tweaks to 0.5.12
+- Updated powerofthree's Papyrus Extender to 1.5.3
+- Updated MCM Helper to 1.4
+- Updated QUI to 1.3.1.1
+- Updated Spell Perk Item Distributor (SPID) to 0.6.3
+- Updated Sound Fix for Large Sector Drives to 4.0
+- Updated powerofthree's Tweaks to 1.7.5
+- Updated Enhanced Visibility to 1.3.0
+- Updated Enhanced Reanimation to 1.5.1
+- Removed Crash Logger
+
+#### Website Changes
+
+- **Installation:** Added note that the CK should be installed on the same drive / in the same Steam Library as Skyrim SE
+
 ## Release 1.5.1
 
 > 29/09/2022
