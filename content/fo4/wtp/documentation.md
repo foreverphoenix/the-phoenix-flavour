@@ -287,6 +287,7 @@ Hotkeys for ENB can be adjusted in the `enblocal.ini` (located in the root folde
 - **Y** Open the Workshop (Faster Workshop)
 - **F1** Toggle Place Everywhere (can build objects anywhere)
 - **F2** Toggle Snapping (requires Place Everywhere mode to be on)
+- **F3** Toggle Object/Ground snapping (requires Place Everywhere mode to be on)
 
 #### HUD
 

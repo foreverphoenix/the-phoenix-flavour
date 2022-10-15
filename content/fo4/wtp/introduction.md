@@ -17,9 +17,9 @@ WTP comes with an extensive documentation (of which you are reading the Introduc
 - You can find a list of all included mods on the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise) page.
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
 
-**Check out DroppedIceCream's amazing showcase for LOTF:**
+**Check out DroppedIceCream's amazing showcase for WTP:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fzO7F6JlIDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fzO7F6JlIDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### State of the List
 
