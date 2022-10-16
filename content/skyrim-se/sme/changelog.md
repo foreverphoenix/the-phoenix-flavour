@@ -6,11 +6,17 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.5.3
+
+> 16/10/2022
+
+- Restored accidentally deleted custom presets for Cathedral Assets Optimizer
+
 ## Release 1.5.2
 
 > 15/10/2022
 
-Just the most recent mod updates. SME is still on 1.6.353
+Just the most recent mod updates. SME is still on 1.6.353.
 
 #### Mod Changes
 
