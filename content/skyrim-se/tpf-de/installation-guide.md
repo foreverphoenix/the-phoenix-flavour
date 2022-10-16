@@ -78,8 +78,8 @@ if you have them already.
 
 1. Open *Wabbajack.exe*.
 2. Click on *Browse Modlists* and download *The Phoenix Flavour - Dragon's Edition* from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\The Phoenix Flavour - Dragon's Edition_ or _C:\The Phoenix Flavour - Dragon's Edition_. 
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\TPF DE_ or _C:\TPF DE_. 
+4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:\Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
 then point Wabbajack to it.
 5. Click the *Play* button.
 6. Wait for Wabbajack to finish.
