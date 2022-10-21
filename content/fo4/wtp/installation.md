@@ -105,7 +105,7 @@ After re-installing the game, it is important to launch it at least once through
 
 ## Future Updates
 
-The most important mod for most Bethesda games is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE `0.6.21` *requires* Fallout 4 `1.10.163`, and will not work with any other version of the game.
+The most important mod for most Bethesda games is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE `0.6.23` *requires* Fallout 4 `1.10.163`, and will not work with any other version of the game.
 
 Unfortunately any update for the Creation Club requires the game executables to be updated which breaks F4SE every time. When that happens, the Script Extender team usually updates F4SE within a few days. Any F4SE plugins will have to be updated by their respective authors as well which can take several weeks.
 
@@ -140,7 +140,7 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 ## Wabbajack Installation
 
 - Download the [Wabbajack](https://www.wabbajack.org/#/) executable from the official website.
-- Move the downloaded file to `Fallout 4 Modding\Wabbajack`.
+- Move the downloaded file to a convenient location **outside** any UAC-protected folders.
 - Double-click **Wabbajack.exe**. It will automatically download and install the latest version.
 
 ### Downloading WTP
