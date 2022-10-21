@@ -20,6 +20,10 @@ description: >
 - Added the {Scrap} sorting tag to two shipments added by the Wasteland Workshop DLC
 - Fixed the sorting patch for Ketaro's Missing Magazines (oops)
 
+#### Website Changes
+
+- **Installation:** Clarified ideal folder location for the Wabbajack executable
+
 ## Release 2.6.5
 
 > 15/10/2022
