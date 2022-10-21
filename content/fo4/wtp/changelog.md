@@ -8,10 +8,12 @@ description: >
 
 ## Release 2.6.6
 
-> TBD
+> 21/10/2022
 
 #### Mod Changes
 
+- Added Previsibines Repair Pack - Hotfix
+- Updated Cathedral Assets Optimizer to 5.3.14
 - Forwarded some UFO4P changes into VIS-Junk
 - Added the {Mod} sorting tag to the Standard Buzz Blades Mod added by the UFO4P
 - Fixed some typos in VIS-Mods
