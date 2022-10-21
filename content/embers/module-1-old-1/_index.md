@@ -1,5 +1,5 @@
 ---
-title: "Module 1 OLD"
+title: "Module 1 (old1)"
 weight: 3
 type: docs
 no-list: false
