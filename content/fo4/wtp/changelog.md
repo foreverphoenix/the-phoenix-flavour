@@ -6,6 +6,20 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.6.6
+
+> 21/10/2022
+
+#### Mod Changes
+
+- Added Previsibines Repair Pack - Hotfix
+- Updated Cathedral Assets Optimizer to 5.3.14
+- Forwarded some UFO4P changes into VIS-Junk
+- Added the {Mod} sorting tag to the Standard Buzz Blades Mod added by the UFO4P
+- Fixed some typos in VIS-Mods
+- Added the {Scrap} sorting tag to two shipments added by the Wasteland Workshop DLC
+- Fixed the sorting patch for Ketaro's Missing Magazines (oops)
+
 ## Release 2.6.5
 
 > 15/10/2022
