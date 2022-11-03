@@ -6,6 +6,32 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.6
+
+> 03/11/2022
+
+Another round of mod and tool updates.
+
+Note on Crash Logger: The latest version (1.2.0) does not currently work with SSE 1.6.353.0 so SME is using 1.1.0.
+
+#### Mod Changes
+
+- Added Sound Record Distributor
+- Added Recursion Monitor
+- Added MergeMapper
+- Added Barter Limit Fix
+- Added Aurora Fix
+- Updated DynDOLOD to 3 Alpha 105
+- Updated Synthesis to 0.24.1
+- Updated zEdit to 0.6.6.2
+- Updated Crash Logger SSE AE VR to 1.1.0
+- Updated Base Object Swapper to 2.0
+- Updated Keyword Item Distributor to 2.1.1
+- Updated Particle Patch for ENB to 1.1.1
+- Updated AnimObject Swapper to 1.1
+- Updated DynDOLOD Resources to 3 Alpha 29
+- Where In Special Edition Am I is now disabled by default
+
 ## Release 1.5.3
 
 > 16/10/2022
