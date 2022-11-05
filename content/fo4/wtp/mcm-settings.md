@@ -19,12 +19,15 @@ description: >
 
 ## Configurable Hotkeys
 
-- Use Stimpak: **CTRL + G**
-- Toggle Radio: **CTRL + B**
-
 > Please note that any hotkeys bound through this mod are not blacklisted in menus and will fire when renaming a weapon in the workbench for instance. Thus, it is necessary to use keys that are not letters or combinations of multiple keys. Also be aware that Toggle Workshop and Show Wait Menu are not bound because hotkeys for them are covered by other mods.
 
-![Configurable Hotkeys MCM](/Pictures/wtp/documentation/configurable-hotkeys-mcm.jpg)
+- Use Stimpak: **CTRL + G**
+
+![Configurable Hotkeys MCM 1](/Pictures/wtp/documentation/configurable-hotkeys-mcm-1.jpg)
+
+- Toggle Radio: **CTRL + B**
+
+![Configurable Hotkeys MCM 2](/Pictures/wtp/documentation/configurable-hotkeys-mcm-2.jpg)
 
 ## FallUI Inventory
 
@@ -106,6 +109,12 @@ Immersive HUD is *disabled* by default and needs to be turned on first.
 - Start Photo Mode: **P**
 
 ![Photo Mode MCM](/Pictures/wtp/documentation/photo-mode-mcm.jpg)
+
+## What's Your Name?
+
+- Allow renaming **ON**
+
+![Photo Mode MCM](/Pictures/wtp/documentation/whats-your-name-mcm.jpg)
 
 ## Workshop Framework
 

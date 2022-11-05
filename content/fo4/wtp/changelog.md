@@ -6,6 +6,43 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.7
+
+> 05/11/2022
+
+With the addition of More Sensible Modification Perk Requirements, certain upgrades will now be more different procure. This is especially true for scopes which require the Science perk. In the early game, a good tactic is picking up scoped guns from enemies and taking off the scope to put them on your own weapons.
+
+Plenty of new options were added to Configurable Hotkeys in recent updates. Feel free to check through the MCM and set up hotkeys for whatever you find useful.
+
+The Allow Renaming option in the What's Your Name? MCM is now enabled in the WTP MCM Preset. If you do not like the name that was randomly generated for a settler, you can now cycle through the list with the same hotkey until you have found a better one.
+
+I removed the specific MCM settings for ultrawide support as the FallUI suite of mods now automatically adjusts to the monitor.
+
+**This update is save-safe.**
+
+#### Mod Changes
+
+- Added More Sensible Modification Perk Requirements
+- Updated ENBSeries Binaries to 0.478
+- Updated Workshop Framework to 2.3.1
+- Updated Fixed Gobo Effects to 2.1.2
+- Updated Wetness Shader Fix to 3.6.2
+- Updated FallUI - Interface to 2.1.1
+- Updated FallUI - HUD to 1.7
+- Updated FallUI - Workbench to 1.4.1-r2
+- Updated FallUI - Confirm Boxes to 2.2.3
+- Updated Configurable Hotkeys to 2.1.1
+- Removed Welcome to Paradise - MCM Settings (21-9)
+- Enabled Allow Renaming in the What's Your Name? MCM
+- Recreated WTP MCM Preset (reapply for ongoing playthroughs)
+- Fixed INNRs for the Marine Helmet and Marine Tactical Helmet
+
+#### Website
+
+- **Installation:** Updated screenshot and instructions in the ultrawide section
+- **MCM Settings:** Updated screenshots for Configurable Hotkeys section
+- **MCM Settings:** Added What's Your Name? section
+
 ## Release 2.6.6
 
 > 21/10/2022

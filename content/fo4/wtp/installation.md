@@ -269,7 +269,7 @@ If the resolution is not correct, change it and click the **SAVE** button at the
 
 ### Additional Mods
 
-In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are three mods below it. Activate all three by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
+In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are two mods below it. Activate both by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
 
 ![Ultrawide Mods](/Pictures/wtp/installation/ultrawide-mods.png)
 
@@ -302,7 +302,7 @@ ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
 
 ## Launching the game
 
-In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod Organizer 2. Otherwise your mods will not work. When you open Mod Organizer 2, F4SE (renamed to **Welcome to Paradise** for your convenience) should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. 
+To play WTP you must launch **f4se_loader.exe** through Mod Organizer 2; otherwise your mods will not work. When you open Mod Organizer 2, F4SE (renamed to **Welcome to Paradise** for your convenience) should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. l
 
 ![Start Game](/Pictures/wtp/installation/run-f4se.png)
 
