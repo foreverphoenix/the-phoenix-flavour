@@ -109,7 +109,8 @@ If you want to change the button for dodging, do the following:
 * [Toggable headgear](https://www.nexusmods.com/skyrimspecialedition/mods/68540) - Use `Arrow Down` button to toggle it off and on.
 * [Even better map](https://www.nexusmods.com/skyrimspecialedition/mods/56367) - Try to use the map in a place like Blackreach and you will be pleasantly surprised. Also try zooming it all way out and then in.
 * [Add items from mods to your inventory](https://www.nexusmods.com/skyrimspecialedition/mods/17563) - A mod, which makes it possible to test all items other mods have to
-offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating. 
+offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+* [Do not kill anyone accidentally](https://www.nexusmods.com/skyrimspecialedition/mods/41774) - Mages in Skyrim suffer from their success as they can accidentally make friendly or neutral NPCs hostile towards themselves, while fighting with their enemies. Now you will do no damage to these NPCs by default. Press `O` (letter) to toggle friendly fire. If you disable friendly fire, allies will still tolerate you if you hit them, but mainly during combat.
 * [Looting quickly](https://www.nexusmods.com/skyrimspecialedition/mods/21085) - One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.
