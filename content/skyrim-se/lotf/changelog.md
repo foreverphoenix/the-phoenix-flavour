@@ -12,127 +12,46 @@ description: >
 
 **This update requires a new game.**
 
-LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally wrapping up the list as a complete vanilla-like experience.
+LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally wrapping up the list as a complete vanilla-like experience. It was extended to cover the entirety of the Anniversary Edition content, i.e. all creations; however, my philosophy on creations in LOTF has somewhat changed. All integration mods were removed, leaving only fixes and tweaks which is more in line with LOTF's overall concept. You get a plug-and-play experience of the original thing, a little prettier and minus some annoyances.
 
-#### Mod Changes
+*This update took a ridiculously long time to complete. I originally scheduled it for September 4, 2022, which would have been the one year anniversary of the list, but then university happened (shocker! how could I have forseen that?) and everything got derailed. Specifically, this means that all work on LOTF 3.0 was done with significant gaps in between sessions and often at times when I hadn't done any modding in a bit. As such I am not very confident in the end result and calling this a **beta release**, just to be on the safe side. Given the small-scale nature of the list, I do not expect any major issues though.*
 
-- Added SSE Creation Kit Fixes Update
-- Added Creation Kit Custom INI
-- Added SSE Creation Kit FonixData Lip Sync Fix
-- Added Synthesis
-- Added Kezyma's Root Builder (MO2 Plugin)
-- Added LOOT Config Loader for Mod Organizer (MO2 Plugin)
-- Added Crash Log Tools (MO2 Plugin)
-- Added Crash Logger SE
-- Added ENB Helper Plus
-- Added Console Commands Extender
-- Added HelpExtender
-- Added Show Animation Command
-- Added NVIDIA Reflex Support
-- Added Enchantable Special Item Fix
-- Added NPC AI Process Position Fix - NG
-- Added Animated Static Reload Fix - NG
-- Added Universal Cured Serana Eye Fix
-- Added HD Local Map
-- Added Better Windhelm Ground Meshes - Placement Corrections
-- Added Stamina of Steeds
-- Added Small Environmental Fixes (AO and Transition)
-- Added Small Environmental Fixes - Fixes
-- Added Hearthfires Houses Building Fix
-- Added Hearthfire Display Case Fix by Krucify
-- Added Dwemer Ballista Crash Fix
-- Added Shalidor's Maze Puzzle Sound Fix (Labyrinthian)
-- Added Vampire Allies Factions Fix
-- Added No More Swimming In Air - Fixed Floating SwimIdle
-- Added Actually Flat Flat Snow Drifts
-- Added Thieves Guild Dialogue Fix - USSEP Compatible
-- Added Configurable Sleep Wait Menu
-- Added Moons and Stars - Sky Overhaul SKSE
-- Added Enhanced Vanilla Trees - Uprooted Stump Fix
-- Added Lanterns of Skyrim
-- Added Realistic AI Detection (RAID)
-- Added Dawnguard Delayed
-- Added Dragonborn Delayed
-- Added Smelters for Riften and Solitude
-- Added Centered Blue Palace Throne
-- Added Conditional Dog Barking
-- Added Unique Map Weather Framework
-- Updated SSE from 1.5.97.0 to 1.6.353.0
-- Updated SKSE to 2.1.5
-- Updated ENBSeries to 0.477
-- Updated Address Library for SKSE to 5
-- Updated SSE Display Tweaks to 0.5.11
-- Updated PapyrusUtil SE - Modders Scripting Utility Functions to 4.3
-- Updated Scaleform Translation Plus Plus to 1.5.0
-- Updated Base Object Swapper to 1.6.0
-- Updated ConsoleUtilSSE to 1.3.2
-- Updated Skyrim Landscape and Water Fixes to 7.0.1
-- Updated MCM Helper to 1.3.3
-- Updated ENB Helper to 2.1
-- Updated Particle Patch for ENB to 1.1.0
-- Updated SSE Engines Fixes to 6.0.2
-- Updated Bug Fixes SSE to 7
-- Updated Actor Limit Fix to 6
-- Updated powerofthree's Tweaks to 1.7.1
-- Updated Scrambled Bugs to 18
-- Updated Whose Quest Is It Anyway to 1.4.0
-- Updated Encounter Zones Unlocked to 1.5.4
-- Updated I'm Walkin' Here to 1.6.0
-- Updated Enhanced Reanimation to 1.5.0
-- Updated Enhanced Invisibility to 1.2.0
-- Updated Assorted Mesh Fixes to 0.73
-- Updated Classic Sprinting Redone (SKSE64) to 2.3
-- Updated Better Jumping to 1.8.5
-- Updated Yes Im Sure to 1.6.0
-- Updated Auto Input Switch to 1.2.0
-- Updated Static Mesh Improvement Mod Improvement Mod to 1.4.3
-- Updated Glowing Mushroom Collision Fixes to 1.1
-- Updated Fix Note Icon for SkyUI to 1.2.5
-- Updated moreHUD to 5.1.1.0
-- Updated moreHUD - Settings Loader to 2.1.1
-- Updated moreHUD Inventory Edition to 2.0.4.0
-- Updated Horse Stamina HUD - Script-Free to 1.0.3
-- Updated Time Format Changer to 1.2.0
-- Updated Simplicity of Snow to 0.8
-- Updated Improved Traps to 2.5
-- Updated Follower Trap Safety to 1.4
-- Updated Stackable Stones of Barenziah with Optional Quest Markers to 2.0.0
-- Updated Audio Overhaul for Skyrim to 3.4.3
-- Updated Dynamic Animation Replacer to 1.1.2
-- Updated XP32 Maximum Skeleton Special Extended to 4.81
-- Updated the Conflict Resolution Patch
-- Updated SSELODGen to Beta 94
-- Updated Synthesis to 0.24
-- Removed .NET Script Framework (not updated for 1.6)
-- Removed Dear Diary - Better More Informative Console
-- Removed Weapons Armor Clothing and Clutter Fixes
-- Removed WACCF Greatsword Weapon Speed Tweaks
-- Removed Sales Overflow Solved (not updated for 1.6)
-- Removed Better Stealing (not updated for 1.6)
-- Removed NPC AI Process Position Fix (not updated for 1.6)
-- Removed Animated Static Reload Fix (not updated for 1.6)
-- Removed No Lock Picking (not updated for 1.6)
-- Removed Misc Tweaks - No Starting Spells
-- Removed Stay At The System Page (not update for 1.6)
-- Removed Dragon War - A Dragon Overhaul (only AI packages)
-- Removed Dragonborn Presence - Discord Rich Presence (not updated for 1.6)
-- Removed Quiet Dog
-- Set equipBestAmmo to false in Scrambled Bugs in favour of Unequip Quiver SE
-- Changed Keyboard Shortcuts Fixes to the DLL Loader version
-- Changed the Modern Toggle Walk-Run Fix version to one merged with Cobb Controlmap Fix
-- Changed bUse64bitsHDRRenderTarget= to 1 in the Default INIs
-- Cleaned up three errors I previously missed in the edited version of the USSEP
-- Fixed Profile Sync throwing errors when mod names have special characters
-- Fixed Dreldyn's Main Menu Replacer for AE
-- Removed scar textures from Xenius Character Enhancement
-- ESL-ified over a dozen plugins
-- Regenerated the Blacksmith Forge Water Patch
-- Regenerated all facegen
+#### Major Changes
 
-#### CC Profile
+*This is not an exhaustive list of changes.*
 
-- Added Horse Armor No Longer Disappears (with a small modification)
-- Added Nchuanthumz Papyrus Load Fix
+- **Skyrim version:** Now running Skyrim SE 1.6.640 with SKSE 2.2.3 (latest), updated all relevant mods.
+- **Creations:** All creations are supported and required; light tweaks were added.
+- **Files:** Using Root Builder to manage Game Root folder files, fully self-contained and no more manually moving files.
+- **Overall size:** An effort was made to slim down the list (though there are limits as it includes a full copy of the base game + CC).
+- **Ease of use:** LOTF 3.0 is more plug-and-play and less customisable than previous versions.
+- **WACCF:** Yes, by popular request, the mod [Weapons, Armor, Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) was removed.
+
+Considering the enormous amount of relatively minor mesh tweaks released recently, I had to reconsider my approach to such mods. Ultimately, I decided to take the same one as with retextures; that is, use a small amount of comprehensive mesh overhauls without diving too deeply into the tiny tweaks with a great deal of overlap requiring careful mod order management and occasionally patches. To keep LOTF from becoming too bloated, I removed some minor (though noticable) mesh tweaks and refrained from adding new ones. Not to worry though, SMIM and Assorted Mesh Fixes are here to stay. 
+
+I decided to remove [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) as it adds a whopping 8.3GBs and was thus the single largest mod. I understand that the audiophiles among you may be unhappy (you can easily re-add it!), but in the interest of slimming down the list it was a fairly easy decision. LOTF is obscenely large already.
+
+**Note:** Bug Fixes SSE, Actor Limit Fix, and Scrambled Bugs were all updated to the latest versions which require *Windows 10 update 1903*. It's an update from 2019 so presumably most Windows users should have it installed by now, but it ought to be mentioned.
+
+#### Major Additions
+
+*This is not an exhaustive list of additions.*
+
+- Crash Logger SE
+- NVIDIA Reflex Support
+- Enchantable Special Item Fix
+- Mum's the Word
+- Barter Limit Fix
+- Classic Paralysis
+- HD Local Map
+- **RAID Weathers**
+- Moons and Stars - Sky Overhaul SKSE
+- Lanterns of Skyrim
+- **Realistic AI Detection**
+- Dawnguard Delayed
+- Dragonborn Delayed
+
+Additionally, **Audio Overhaul for Skyrim** and **Majestic Mountains** received major updates.
 
 ## Release 2.9
 
