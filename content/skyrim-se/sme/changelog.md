@@ -6,6 +6,40 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.7
+
+> TBD
+
+After a semi-long hiatus, here's all the recent updates. The next *major* update (i.e. 1.8) will likely **update** to **SSE 1.6.640** and **SKSE 2.2.3**. This version is still using **SSE 1.6.353** and **SKSE 2.1.5**.
+
+I may not have caught all updates as it is getting kinda tricky to manage the different Skyrim/SKSE versions across multiple mod lists.
+
+#### Mod Changes
+
+- Added CK Fixes Update
+- Added FormList Manipulator
+- Added Payload Interpreter
+- Added Papyrus Tweaks NG
+- Added ConsolePlusPlus
+- Added Animation Queue Fix
+- Added Magic Student (WIChangeLocation04) Quest Fix
+- Added Rock Traps Trigger Fixes*
+- Updated Crash Logger SSE AE VR to 1.6.0
+- Updated Spell Perk Item Distributor (SPID) to 6.3.0
+- Updated Keyword Item Distributor to 2.2.0
+- Updated Sound Record Distributor to 1.3.0
+- Updated Base Object Swapper to 2.5.1
+- Updated QUI to 0.3.2
+- Updated Assorted Mesh Fixes to 0.77
+- Updated Particle Patch for ENB to 1.2.0
+- Updated DynDOLOD Resources to 3 Alpha 30
+- Updated SSE NIF Optimizer to 3.2.0
+- Updated Synthesis to 0.25.2
+- Updated zEdit to 0.6.7
+- Updated ENB Binaries to 0.484
+
+*Note that this mod requires a new game (which should not be an issue as SME is intended to only be installed for a new installation and not subsequently updated).
+
 ## Release 1.6
 
 > 03/11/2022
