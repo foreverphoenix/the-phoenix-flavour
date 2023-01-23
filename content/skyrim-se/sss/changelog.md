@@ -174,6 +174,7 @@ Updated for [TPF 4.16.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 #### Updates
 - Updated xLODGEN to 97
 - Updated DynDOLOD to 3.00 Alpha-111
+- Updated Synthesis to 0.25.3
 - Updated SSE NIF Optimizer to 3.2.0
 - Updated numerous SKSE Plugins to the respective AE version
   - Disabled Keyboard Shortcuts Fix until it's compatible
