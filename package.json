@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Guide for Skyrim Modding",
   "main": "none.js",
-  "dependencies": {
-    "autoprefixer": "^9.8.0",
-    "postcss-cli": "^7.1.1"
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "hugo-extended": "^0.109.0",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

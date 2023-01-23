@@ -78,8 +78,8 @@ if you have them already.
 
 1. Open *Wabbajack.exe*.
 2. Click on *Browse Modlists* and download *The Phoenix Flavour - Dragon's Edition* from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\The Phoenix Flavour - Dragon's Edition_ or _C:\The Phoenix Flavour - Dragon's Edition_. 
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\TPF DE_ or _C:\TPF DE_. 
+4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:\Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
 then point Wabbajack to it.
 5. Click the *Play* button.
 6. Wait for Wabbajack to finish.
@@ -203,7 +203,8 @@ Some quick tips before the end:
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... them both. To get the tail, open your inventory and in misc item section find an item called *AddItemMenu* and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
-> If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder and _enbseries.ini_ file from the fork's _Stock Game_ folder first. You do not need to replace *enblocal.ini*. 
+> If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder and _enbseries.ini_ file from the fork's _Stock Game_ folder first. You do not need to replace *enblocal.ini*.
+* **About friendly fire** - You will do no damage to neutral and friendly NPCs by default. Press `O` (letter) to toggle friendly fire. If you disable friendly fire, allies will still tolerate you if you hit them, but mainly during combat.
 * **About fast travelling** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _INTERFACE EXTENDED_ separator.
 
 ---
