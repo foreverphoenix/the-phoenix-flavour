@@ -1,7 +1,7 @@
 {
   "name": "the-phoenix-flavour",
   "version": "1.0.0",
-  "description": "Guide for Skyrim modding",
+  "description": "Guide for Skyrim Modding",
   "main": "none.js",
   "dependencies": {
     "autoprefixer": "^9.8.0",
