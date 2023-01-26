@@ -6,6 +6,72 @@ description: >
   Update notes for The Phoenix Flavour - Dragon's Edition.
 ---
 
+## Release 2.9.2
+
+> 09.09.2022
+
+**Is save compatible, but before updating you need to reset your perk points. Check the gameplay guide to learn how to do that.**
+
+This time just an update to fix some sort of Nexus issues related to Adamant by just updating it.
+
+### Updated Mods
+
+* Mysticism - A Magic Overhaul
+* Adamant - A Perk Overhaul
+* Hand to Hand - An Adamant Addon
+
+---
+
+## Release 2.9.1
+
+> 07.09.2022
+
+**Is save compatible.**
+
+Just an update for some mods, fixes and tweaks for better gameplay. The biggest addition this time would be an introduction of a toggable friendly fire blocker, which mages are probably going to enjoy the most. Be sure to check the full changelog if you would like to learn more.
+
+### Added Mods
+
+* Simple Offence Suppression MCM - Block Friendly Fire
+* Simple Offence Suppression Block Friendly Fire - Add-on
+> Now you will do no damage to neutral NPCs by default. Press `O` to toggle friendly fire. If you disable friendly fire, allies will still tolerate you if you hit them, but only during combat. Feel free to report if you feel that I need to introduce some changes to this system.
+* Pristine Vanilla Movement
+> Some people didn't like our running and sprinting animations, so I have decided to come back to neutral classics, but not without the upgrade.
+* Pretty Combat Animations - Magic Left Hand + Staff Right Hand Sprinting
+
+### Removed Mods
+
+* Elegant Candlelight
+* Strange Runes
+> Considering the fact that it can play not so well with a bunch of mods including even gameplay ones like Adamant and Mysticism.
+* Undeath - XPMSSE - Strange Runes - Skeleton Patch
+* Goetia Animations - Sprint
+* Goetia Animations - Male Walk And Run
+* Goetia Animations - Female Walk And Run
+
+### Changes
+
+* Turned off Gilded restoration time on new saves.
+> Apparently that led to CTDs some people were experiencing. Thanks to JustIChris. To use this option on existing saves, open CLockwork's MCM and change Gilded resurrection time to 0.
+* Turned on player's killmove immunity.
+> It should have been turned on right from the beginning, but I guess I have forgotten about that. It also will resolve issues with CTDs some users were having, when NPCs gutted them out.
+* Fixed Serana's hair being blue with hood.
+* Fixed some rocks looking oddly in Shatterstone Scar.
+> Thanks to Prizz.
+* Nerfed Aligning the Matrix Weave spell.
+* Added a note about how to build correctly Lakeview Manor.
+* Made Pickaxe of the Impatient behave like other axes.
+
+### Updated Mods
+
+* Serana Dialogue Add-On
+* Undeath - Classical Lichdom
+* Undeath Classical Lichdom - The Ascension
+* Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+
+---
+
 ## Release 2.9
 
 > 07.08.2022

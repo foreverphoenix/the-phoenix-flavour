@@ -6,6 +6,157 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.7
+
+> 05/11/2022
+
+With the addition of More Sensible Modification Perk Requirements, certain upgrades will now be more different procure. This is especially true for scopes which require the Science perk. In the early game, a good tactic is picking up scoped guns from enemies and taking off the scope to put them on your own weapons.
+
+Plenty of new options were added to Configurable Hotkeys in recent updates. Feel free to check through the MCM and set up hotkeys for whatever you find useful.
+
+The Allow Renaming option in the What's Your Name? MCM is now enabled in the WTP MCM Preset. If you do not like the name that was randomly generated for a settler, you can now cycle through the list with the same hotkey until you have found a better one.
+
+I removed the specific MCM settings for ultrawide support as the FallUI suite of mods now automatically adjusts to the monitor.
+
+**This update is save-safe.**
+
+#### Mod Changes
+
+- Added More Sensible Modification Perk Requirements
+- Updated ENBSeries Binaries to 0.478
+- Updated Workshop Framework to 2.3.1
+- Updated Fixed Gobo Effects to 2.1.2
+- Updated Wetness Shader Fix to 3.6.2
+- Updated FallUI - Interface to 2.1.1
+- Updated FallUI - HUD to 1.7
+- Updated FallUI - Workbench to 1.4.1-r2
+- Updated FallUI - Confirm Boxes to 2.2.3
+- Updated Configurable Hotkeys to 2.1.1
+- Removed Welcome to Paradise - MCM Settings (21-9)
+- Enabled Allow Renaming in the What's Your Name? MCM
+- Recreated WTP MCM Preset (reapply for ongoing playthroughs)
+- Fixed INNRs for the Marine Helmet and Marine Tactical Helmet
+
+#### Website
+
+- **Installation:** Updated screenshot and instructions in the ultrawide section
+- **MCM Settings:** Updated screenshots for Configurable Hotkeys section
+- **MCM Settings:** Added What's Your Name? section
+
+## Release 2.6.6
+
+> 21/10/2022
+
+#### Mod Changes
+
+- Added Previsibines Repair Pack - Hotfix
+- Updated Cathedral Assets Optimizer to 5.3.14
+- Forwarded some UFO4P changes into VIS-Junk
+- Added the {Mod} sorting tag to the Standard Buzz Blades Mod added by the UFO4P
+- Fixed some typos in VIS-Mods
+- Added the {Scrap} sorting tag to two shipments added by the Wasteland Workshop DLC
+- Fixed the sorting patch for Ketaro's Missing Magazines (oops)
+
+#### Website Changes
+
+- **Installation:** Clarified ideal folder location for the Wabbajack executable
+
+## Release 2.6.5
+
+> 15/10/2022
+
+Well, it happened, I started playing Fallout 4 again. What does this mean for WTP? For one, there will likely be no updates requiring a new game in the near-ish future since I want to keep playing the latest version. It also means that there is a better chance of me finding lingering, unreported issues and oversights (there were a couple clothing items without sorting tags, fixed now), and making adjustments. I am currently tinkering with a custom FallUI HUD preset which is included in WTP and can be selected in the MCM (only minor changes from vanilla so far).
+
+This update was compiled with Wabbajack 3.
+
+#### Mod Changes
+
+- Added NVIDIA Reflex Support
+- Added Workbench Replacer HD 2K
+- Added Dirty Prewar Clothes Restored - Sorting Patch
+- Added No More Halloween Decorations (you can disable this if you're partial to random pumpkin decals)
+- Updated ShadowBoost to 1.7
+- Updated Workshop Framework to 2.3c
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 2.4.1
+- Updated my personal FallUI HUD preset (it's a work in progress)
+- Updated Curated Companions to 3.0
+- Updated Companion Thoughts Overhaul to 0.5
+- Updated This Settlement Does Not Need Your Help - BS Defence Redone to 3.2
+- Updated Ketaros Missing Magazines to 1.1
+- Updated LOST Audio Tweaks to 3.2
+- Updated Far Object LOD Improvement Project to 2.4
+- Updated Optimized Vanilla Tree LODs to 2.1
+- Updated Previsibines Repair Pack to 0.65.1
+- Removed 1 Rad Bugfix (bug fixed by the UFO4P)
+- Re-enabled input switch option in Buffout (crash was fixed)
+- Regenerated terrain and object LOD
+
+#### Website
+
+- **Introduction:** Fixed the WTP showcase embed, also fixed a typo
+- **Documentation:** Added F3 (toggle ground/object snapping) to list of keybinds
+
+## Release 2.6.4
+
+> 09/09/2022
+
+#### Mod Changes
+
+- Added This Settlement Does Not Need Your Help - BS Defence Redone
+- Added The Missing Nukalurk Recipe Book
+- Added The Missing Nukalurk Recipe Book - Sorting Patch
+- Added Ketaros Missing Magazines
+- Added Ketaros Missing Magazines - Sorting Patch
+- Added Ketaros Missing Magazines - WTP Patch
+- Updated Shadow Boost FO4 to 1.5
+- Updated Workshop Framework to 2.2.4
+- Updated Far Object LOD Improvement Project to 2.2
+- Updated Previsibines Repair Pack to 0.59.11
+- Removed Fall UI - No 3D in Barter Menu
+- Fixed wrong load order for Phoenix - Simple Crafting Stations.esp
+- Fixed missing sorting tag for the Yellow Slicker Hat
+- Changed sorting tag for Blood Packs from [Raw] to (Aid)
+- Regenerated terrain and object LOD
+
+#### Website
+
+- **Installation:** Added instructions to use the [NoDelete] tag for the Modular Military Backpack folder
+- **Known Issues:** Removed "Empty crafting bench category" issue (should now be resolved)
+
+## Release 2.6.3
+
+> 23/08/2022
+
+Welcome to Paradise now has its own [Nexus Page](https://www.nexusmods.com/fallout4/mods/63530) as well as a beautiful [video showcase](https://www.youtube.com/watch?v=fzO7F6JlIDI) by DroppedIceCream!
+
+#### Mod Changes
+
+- Added LOOT Config Loader (MO2 Plugin)
+- Added Shadow Boost
+- Added Ownership Fixes
+- Added Better Weapon Diversity for CHW
+- Added Better Weapon Diversity for CHW - WTP Patch
+- Added Perennial Power Armor - Lightweight Power Armor Rebalance
+- Added Perennial Power Armor - WTP Patch
+- Added Keep Radiants in the Commonwealth - UFO4P Version
+- Added Blue's Minutemen Flag Pack (Standalone)
+- Updated Fixed Gobo Effects to 2.1.1
+- Removed Keep Radiants in the Commonwealth
+- Cleaned out some redundant records from the Conflict Resolution Patch
+
+## Release 2.6.2
+
+> 18/08/2022
+
+DoubleYou updated their LOD resources, so here's new terrain and object LODs for you guys. Also reverted LOST Audio Tweaks' change to the low health heart beat sfx, as requested.
+
+#### Mod Changes
+
+- Updated Optimized Vanilla Tree LODs to 2.0
+- Updated Far Harbor 3D Tree LODs to 2.0
+- Regenerated terrain and object LOD
+- Reverted low health heart beat sound fx behaviour to vanilla
+
 ## Release 2.6.1
 
 > 16/08/2022

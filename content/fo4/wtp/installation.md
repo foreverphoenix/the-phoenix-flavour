@@ -105,7 +105,7 @@ After re-installing the game, it is important to launch it at least once through
 
 ## Future Updates
 
-The most important mod for most Bethesda games is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE `0.6.21` *requires* Fallout 4 `1.10.163`, and will not work with any other version of the game.
+The most important mod for most Bethesda games is the **Script Extender**, a resource that is in turn required for many key mods. The **Fallout 4 Script Extender** (F4SE) is *version dependent*. It requires a specific version of Fallout 4. For instance, F4SE `0.6.23` *requires* Fallout 4 `1.10.163`, and will not work with any other version of the game.
 
 Unfortunately any update for the Creation Club requires the game executables to be updated which breaks F4SE every time. When that happens, the Script Extender team usually updates F4SE within a few days. Any F4SE plugins will have to be updated by their respective authors as well which can take several weeks.
 
@@ -140,7 +140,7 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 ## Wabbajack Installation
 
 - Download the [Wabbajack](https://www.wabbajack.org/#/) executable from the official website.
-- Move the downloaded file to `Fallout 4 Modding\Wabbajack`.
+- Move the downloaded file to a convenient location **outside** any UAC-protected folders.
 - Double-click **Wabbajack.exe**. It will automatically download and install the latest version.
 
 ### Downloading WTP
@@ -269,7 +269,7 @@ If the resolution is not correct, change it and click the **SAVE** button at the
 
 ### Additional Mods
 
-In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are three mods below it. Activate all three by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
+In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are two mods below it. Activate both by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
 
 ![Ultrawide Mods](/Pictures/wtp/installation/ultrawide-mods.png)
 
@@ -280,7 +280,10 @@ The only Creation supported by WTP is fadingsignal's [Modular Military Backpack]
 If you own the Modular Military Backpack CC, you can install it for WTP by following these steps:
 
 - Navigate to the mods folder within your Mod Organizer 2 instance: `\Welcome To Paradise\mods\`.
-- Create a new folder named "Creation Club - Modular Military Backpack".
+- Create a new folder named "[NoDelete] Creation Club - Modular Military Backpack".
+
+> The [NoDelete] prefix will ensure that the mod is not deleted after updating WTP.
+
 - Retrieve the plugin and archives for the Creation from your CC backups folder:
 
 ```
@@ -289,7 +292,7 @@ ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
 ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
 ```
 
-- Copy all three files into the new "Creation Club - Modular Military Backpack" folder.
+- Copy all three files into the new "[NoDelete] Creation Club - Modular Military Backpack" folder.
 - Back in Mod Organizer 2, press **F5** to refresh.
 - The new mod will appear at the bottom of your mod order (left pane).
 - Drag it up below the **NEW CONTENT** separator and activate it.
@@ -299,7 +302,7 @@ ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
 
 ## Launching the game
 
-In order to play TPF Fallout 4, you must launch **f4se_loader.exe** through Mod Organizer 2. Otherwise your mods will not work. When you open Mod Organizer 2, F4SE (renamed to **Welcome to Paradise** for your convenience) should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. 
+To play WTP you must launch **f4se_loader.exe** through Mod Organizer 2; otherwise your mods will not work. When you open Mod Organizer 2, F4SE (renamed to **Welcome to Paradise** for your convenience) should be selected automatically in the executables drop-down and you can start the game by clicking **Run**. l
 
 ![Start Game](/Pictures/wtp/installation/run-f4se.png)
 

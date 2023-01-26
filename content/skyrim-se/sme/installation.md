@@ -40,7 +40,7 @@ The patcher tool [Synthesis](https://github.com/Mutagen-Modding/Synthesis) requi
 
 ## Skyrim SE Setup
 
-**SME requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`) and unrelated to the Anniversary Edition DLC which is NOT required. If you are on any older version of Skyrim SE, please verify files through Steam to install the update. You can check the version by right-clicking the **SkyrimSE.exe** in your game folder and going to the **Details** tab.
+**SME requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.640.0`) and unrelated to the Anniversary Edition DLC which is NOT required. If you are on any older version of Skyrim SE, please verify files through Steam to install the update. You can check the version by right-clicking the **SkyrimSE.exe** in your game folder and going to the **Details** tab.
 
 **Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu. If you own any creations beyond the four free ones, they will be downloaded as well.
 
@@ -59,7 +59,10 @@ After updating the game language, please launch the game once and quit from the 
 In order for Wabbajack to be able to incorporate the Creation Kit properly, you need to install it first through Steam.
 
 - Find the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) Steam page (I recommend just using the search function in the Store).
-- Click install. The files will be placed into your default game folder.
+- Click install. Select the Steam Library (hard drive) where Skyrim SE is located as well.
+- The files will be placed into your default game folder.
+
+> **This step is mandatory.** Not having the CK installed or having the wrong version accounts for most failed installations reported on Discord.
 
 ## Wabbajack Installation
 
@@ -103,6 +106,8 @@ In most cases the installation should complete successfully on the first try. Th
 
 Certain tools, e.g., **Nemesis** and **Cathedral Assets Optimizer**, may not properly work with antivirus programs. You will need to manually exclude them.
 
+Also add an exclusion for `C:\Users\<UserName>\Appdata\Local\Nemesis` to prevent random errors while running Nemesis.
+
 [Follow these instructions to add exclusions to Windows Defender.](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
 
 ## Tool Setup
@@ -136,6 +141,17 @@ The argument setting the Data Folder location for WB will not be automatically a
 - In the **Executable Settings**, modify the argument to match your Game Root folder path:
 
 ![Wrye Bash Setup](/Pictures/sme/wrye-bash-setup.png)
+
+### Synthesis
+
+For Synthesis to correctly read your Game Root folder, you need to update the file path in the settings:
+
+- Upon first launching Synthesis, you will be asked which game you want to manage.
+- Select **Skyrim** and then **Skyrim Special Edition**.
+- Click the little gear icon in the upper right corner to open the **Settings**.
+- Go to **Profiles** and update the **Data Folder Location** to match your Game Root folder path.
+
+![Synthesis Setup](/Pictures/sme/synthesis-setup.png)
 
 ### zEdit
 

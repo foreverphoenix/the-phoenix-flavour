@@ -22,7 +22,7 @@ I would very strongly recommend to check [*Introduction*](introduction.md) to le
   
   - The latest version of Windows 10 or 11;
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
-  - The latest version of Skyrim Special Edition - 1.6.353 with [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/);
+  - The latest version of Skyrim Special Edition - 1.6.640 with [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/);
   - A free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
  
  > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't install for you.
@@ -78,8 +78,8 @@ if you have them already.
 
 1. Open *Wabbajack.exe*.
 2. Click on *Browse Modlists* and download *The Phoenix Flavour - Dragon's Edition* from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\The Phoenix Flavour - Dragon's Edition_ or _C:\The Phoenix Flavour - Dragon's Edition_. 
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\TPF DE_ or _C:\TPF DE_. 
+4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:\Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
 then point Wabbajack to it.
 5. Click the *Play* button.
 6. Wait for Wabbajack to finish.
@@ -185,9 +185,8 @@ If you want to use hair with physics for men, you will find instructions on how 
 
 After you get control over movements of your character, don’t go anywhere right away. 
 It will be awesome if you wait for a pop-up about finishing things setting up to appear before doing anything else.
-Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character after talking with Ralof or Hadvar.
 
-Then another pop-up will appear, which allows to allocate 35 skill points to whatever skill trees your character is going to use during their adventure (5 points per step, max 10 points in one tree). When you have chosen a tree, which you would like to put your points into by pressing `Enter` or just clicking on it, then press `Tab` to continue allocating points. After spending all the points, you will see that *COMPLETE* option is chosen by default, so just press `Tab` button once again to finish the allocation. Next you will be able to allocate 60 points for your base health, magicka and stamina in the same manner (10 points per step, max 130 points for one attribute).
+Then after talking with Ralof or Hadvar another pop-up will appear, which allows to allocate 35 skill points to whatever skill trees your character is going to use during their adventure (5 points per step, max 10 points in one tree). When you have chosen a tree, which you would like to put your points into by pressing `Enter` or just clicking on it, then press `Tab` to continue allocating points. After spending all the points, you will see that *COMPLETE* option is chosen by default, so just press `Tab` button once again to finish the allocation. Next you will be able to allocate 60 points for your base health, magicka and stamina in the same manner (10 points per step, max 130 points for one attribute).
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
@@ -204,8 +203,9 @@ Some quick tips before the end:
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... them both. To get the tail, open your inventory and in misc item section find an item called *AddItemMenu* and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
-> If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder and _enbseries.ini_ file from the fork's _Stock Game_ folder first. You do not need to replace *enblocal.ini*. 
-* **About fast traveling** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _INTERFACE EXTENDED_ separator.
+> If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder and _enbseries.ini_ file from the fork's _Stock Game_ folder first. You do not need to replace *enblocal.ini*.
+* **About friendly fire** - You will do no damage to neutral and friendly NPCs by default. Press `O` (letter) to toggle friendly fire. If you disable friendly fire, allies will still tolerate you if you hit them, but mainly during combat.
+* **About fast travelling** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _INTERFACE EXTENDED_ separator.
 
 ---
 
@@ -232,7 +232,7 @@ Before asking additional questions be sure to check the gameplay guide mentioned
 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](../bug-reporting) section first to learn how to report it properly.
 
-If you want to help me, don't forget to endorse the fork’s page on Nexus, share some beautiful screenshots from the list and write something positive for me to read (I am happy to hear from people in Discord too). If you want to help even more, you can donate by pressing the button right below. On Ko-fi I also tend to tease big upcoming updates from time to time.
+If you want to help me, don't forget to endorse the fork’s page on Nexus, share some beautiful screenshots from the list and write something positive for me to read in Discord. If you are able and want to help even more, you can donate by pressing the button right below. On Ko-fi I also tend to tease big upcoming updates from time to time.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
 

@@ -6,6 +6,127 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 1.6
+
+> 03/11/2022
+
+Another round of mod and tool updates.
+
+Note on Crash Logger: The latest version (1.2.0) does not currently work with SSE 1.6.353.0 so SME is using 1.1.0.
+
+#### Mod Changes
+
+- Added Sound Record Distributor
+- Added Recursion Monitor
+- Added MergeMapper
+- Added Barter Limit Fix
+- Added Aurora Fix
+- Updated DynDOLOD to 3 Alpha 105
+- Updated Synthesis to 0.24.1
+- Updated zEdit to 0.6.6.2
+- Updated Crash Logger SSE AE VR to 1.1.0
+- Updated Base Object Swapper to 2.0
+- Updated Keyword Item Distributor to 2.1.1
+- Updated Particle Patch for ENB to 1.1.1
+- Updated AnimObject Swapper to 1.1
+- Updated DynDOLOD Resources to 3 Alpha 29
+- Where In Special Edition Am I is now disabled by default
+
+## Release 1.5.3
+
+> 16/10/2022
+
+- Restored accidentally deleted custom presets for Cathedral Assets Optimizer
+
+## Release 1.5.2
+
+> 15/10/2022
+
+Just the most recent mod updates. SME is still on 1.6.353.
+
+#### Mod Changes
+
+- Added Crash Logger SSE AE VR
+- Updated DynDOLOD to 3 Alpha 102
+- Updated Cathedral Assets Optimizer to 5.3.14
+- Updated Address Library for SKSE Plugins to 8
+- Updated SSE Display Tweaks to 0.5.12
+- Updated powerofthree's Papyrus Extender to 1.5.3
+- Updated MCM Helper to 1.4
+- Updated QUI to 1.3.1.1
+- Updated Spell Perk Item Distributor (SPID) to 0.6.3
+- Updated Sound Fix for Large Sector Drives to 4.0
+- Updated powerofthree's Tweaks to 1.7.5
+- Updated Enhanced Visibility to 1.3.0
+- Updated Enhanced Reanimation to 1.5.1
+- Removed Crash Logger
+
+#### Website Changes
+
+- **Installation:** Added note that the CK should be installed on the same drive / in the same Steam Library as Skyrim SE
+
+## Release 1.5.1
+
+> 29/09/2022
+
+- Fixed Wabbajack installer failing on missing CCs
+
+## Release 1.5
+
+> 28/09/2022
+
+For the forseeable future, SME will continue to use **SSE 1.6.353** until all mods have been updated. However, I recompiled with the latest version of Skyrim in my Steam folder, meaning that users also need to have the latest version to install SME. Wabbajack will downgrade the copy of the game in your Game Root folder. This way, you don't have to downgrade your Steam installation.
+
+#### Mod Changes
+
+- Added Console Commands Extender
+- Added HelpExtender
+- Added NVIDIA Reflex Support
+- Added Shadow Boost (disabled by default)
+- Added HD Local Map
+- Added Universal Cured Serana Eye Fix
+- Added Dwemer Ballista Crash Fix
+- Added AnimObject Swapper
+- Added Animation Motion Revolution
+- Updated ENBSeries binaries to 0.477
+- Updated DynDOLOD to 3 Alpha 99
+- Updated MCM Helper to 1.3.3
+- Updated SSE Display Tweaks to 0.5.11
+- Updated powerofthree's Tweaks to 1.7.1
+- Updated Enhanced Reanimation to 1.5.0
+- Updated Face Discoloration Fix to 1.0.3
+- Updated Sound Fix for Large Sector Drives to 3
+- Updated Assorted Mesh Fixes to 0.73
+- New separator "Console Improvements" (moved some mods around)
+- Redownloaded the mandatory CCs (as WJ will otherwise downgrade them)
+- Recompiled with latest Skyrim SE version
+- Recompiled with Wabbajack 3
+
+#### Website
+
+- **Installation:** Updated to reflect that Skyrim SE 1.6.640.0 is now required
+
+## Release 1.4
+
+> 19/08/2022
+
+#### Mod Changes
+
+- Added UIExtension
+- Added Hearthfires Houses Building Fix
+- Updated Synthesis to 0.23.7
+- Updated Assorted Mesh Fixes to 0.69
+- Fixed file structure for Keyboard Shortcuts Fixes (mod will actually work now)
+- Fixed Profile Sync failing when mod names contain special symbols
+- Root Builder is now disabled by default (as was originally intended)
+- Sync Mod Order is now disabled by default (succeeded by Profile Sync)
+
+#### Website Changes
+
+- **Installation:** Added a note about the CK installation being mandatory
+- **Installation:** Added a note to also set an AV exclusion for the appdata Nemesis folder
+- **Installation:** Added Synthesis setup instructions
+
 ## Release 1.3
 
 > 11/08/2022
