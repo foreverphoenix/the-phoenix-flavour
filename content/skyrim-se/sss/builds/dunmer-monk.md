@@ -16,7 +16,7 @@ Morrowind still hadn't recovered so returning to the home of your ancestors rema
 
 Your meditations eventually led you to a single purpose: you'd make the House of Troubles your spiritual home, welcoming the trials of the Bad Daedra as a path to enlightenment. If you could walk the edge of their influence without corruption, you could be truly great.
 
-You set off for Windhelm to find passage to Solstheim, the most likely place to find a shrine fo the Bad Daedra. Just around Darkwater Crossing, however, you were stopped by an Imperial contingent...
+You set off for Windhelm to find passage to Solstheim, the most likely place to find a shrine to the Bad Daedra. Just around Darkwater Crossing, however, you were stopped by an Imperial contingent...
 
 ## Summary
 

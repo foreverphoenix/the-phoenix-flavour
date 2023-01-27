@@ -6,7 +6,49 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.16.0.1
+
+> 2023-01-27
+
+This is mostly a hotfix to deal with some bugs that have been reported. One in particular was considered a critical bug which meant this update goes out sooner rather than later. Below is a list of the issues addressed:
+
+- Adjusted Scrambled Bugs settings so that all of Simonrim's perks and effects should act as the author intended.
+- Dragons no longer magically obtain a smaller hitbox vs. projectiles, allowing archers and mages to actually kill them again.
+- Innkeepers should properly give you a bounty letter when asked. If you decline the quest it won't be offered again immediately.
+- The Windhelm bridge should have its proper textures.
+- Unique weaponry should have all of their correct meshes/textures and a few stats have been tweaked to match Phoenix's intent.
+
+A new save is not required. You will receive a warning about `Precision.esp` that can be ignored.
+
+<details>
+
+#### Changes
+
+- **Architecture:** Added Windhelm Fence 3D
+- **Gameplay Overhauls:** Removed Precision
+- **Gameplay Overhauls:** Removed Precision Creatures
+- **Improved Vanilla Quests:** Moved Headhunter - Bounties Redone to Miscellaneous
+- **Skeleton & Animations:** Removed Nemesis Creature Behaviour Compatibility
+- **Configuration:** Lowered SkillFormulaCaps to 100 (this won't change much of anything as Simonrim bonuses tend not to give raw skill boosts, I'm just cleaning up the file)
+- **Configuration:** Adjusted Scrambled Bugs settings to match Simon's suggestions for his gameplay suite
+
+#### Updates
+- Updated NVIDIA Reflex Support to 1.1.2 (73)
+- Updated Dwemer Gates Don't Reset to 1.3.7 (78)
+- Updated Papyrus Tweaks to 4.0 (100)
+- Updated Rally's Nord War Horns to 1.3 (440)
+- Updated Pilgrim - A Religion Overhaul to 1.1.2 (671)
+- Updated Honed Metal Revoiced to 1.8 (720)
+- Updated The Choice Is Yours to 2.7 (760)
+
+#### Outputs
+- Regenerated Nemesis
+
+</details>
+
+
 ## Release 4.16.0
+
 > 2023-01-23
 
 I'll be clear: **this is a new chapter for Slidikins' Strenuous Skyrim.** I've decided to rip off the proverbial band-aid and bring the list up to date to Skyrim SE 1.6.640. With that comes a handful of changes and a lot of new opportunities. Since a new game would've been required anyway, I also took the liberty of cramming in a ton of mods that also would've meant starting fresh. The end result is this monster of a changelog that I promise is totally the same SSS you've come to enjoy. Let's get into it!
@@ -99,7 +141,7 @@ Updated for [TPF 4.16.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - **Gameplay Overhauls:** Removed Simple Werewolf Favourite Howls Menu
 - **Gameplay Overhauls:** Removed More Expensive Transmute for Mysticism
 - **Gameplay Overhauls:** Added Mysticism - Survival Spells Addon
-- **Gameplay Overhauls:** Added Aetherius- Starting Spells Addon
+- **Gameplay Overhauls:** Added Aetherius - Starting Spells Addon
 - **Gameplay Overhauls:** Added Saints and Seducers - Mysticism Rebalance
 - **Gameplay Overhauls:** Added Extended Cut Saints and Seducers - Mysticism Rebalance
 - **Gameplay Overhauls:** Added Precision Creatures
@@ -111,7 +153,6 @@ Updated for [TPF 4.16.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - **Non Player Characters:** Added Carriages and Stables Dialogue Bundle
 - **Non Player Characters:** Added Carriages and Stables Dialogue Bundle - CFTO Patch
 - **Assorted Plugins:** Removed Sales Overflow Solved for real this time
-- **Assorted Plugins:** Added No Lockpick Activate
 - **Improved Vanilla Quests:** Removed The Paarthurnax Resolution
 - **Improved Vanilla Quests:** Removed Reasonable Quest Rewards - Bounties Are Worthwhile Patch
 - **Improved Vanilla Quests:** Added Paarthurnax - Quest Expansion
