@@ -33,19 +33,19 @@ A new save is not required. You will receive a warning about `Precision.esp` tha
 - **Configuration:** Adjusted Scrambled Bugs settings to match Simon's suggestions for his gameplay suite
 
 #### Updates
-- Updated NVIDIA Reflex Support to 1.1.2 (73)
-- Updated Dwemer Gates Don't Reset to 1.3.7 (78)
-- Updated Papyrus Tweaks to 4.0 (100)
-- Updated Rally's Nord War Horns to 1.3 (440)
-- Updated Pilgrim - A Religion Overhaul to 1.1.2 (671)
-- Updated Honed Metal Revoiced to 1.8 (720)
-- Updated The Choice Is Yours to 2.7 (760)
+- Updated NVIDIA Reflex Support to 1.1.2
+- Updated Dwemer Gates Don't Reset to 1.3.7
+- Updated Papyrus Tweaks to 4.0
+- Updated Rally's Nord War Horns to 1.3
+- Updated Pilgrim - A Religion Overhaul to 1.1.2
+- Updated Honed Metal Revoiced to 1.8
+- Updated The Choice Is Yours to 2.7
 
 #### Outputs
+- Regenerated Left Hand Meshes
 - Regenerated Nemesis
 
 </details>
-
 
 ## Release 4.16.0
 
@@ -303,6 +303,7 @@ Updated for [TPF 4.16.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - Updated Blade and Blunt - Vanilla Difficulty Modifiers to 2.0
 
 #### Outputs
+- Regenerated Left Hand Meshes
 - Regenerated Nemesis
 - Regenerated xLODGEN
 - Regenerated TexGen
