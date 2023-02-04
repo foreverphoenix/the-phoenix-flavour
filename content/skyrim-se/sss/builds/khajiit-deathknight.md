@@ -239,7 +239,7 @@ Starting out you'll have little to work with. Bolster your health and blocking s
 
 ***Mother’s Sorrow:*** *You can summon or reanimate one additional minion, but your summoning and reanimation spells last half as long.*
 
-Bodies are plentiful enough. Don't get attached to them and raise as many as you need to overpower your enemies. This trade is even more beneficial in the late game when your summons are more powerful and last even longer
+Bodies are plentiful enough. Don't get attached to them and raise as many as you need to overpower your enemies. This trade is even more beneficial in the late game when your summons are more powerful and last even longer.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-tower.webp">
 

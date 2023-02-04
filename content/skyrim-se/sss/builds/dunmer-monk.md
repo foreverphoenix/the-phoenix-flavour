@@ -30,9 +30,9 @@ Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your sp
   * **Utility:** Conjuration
 * **Attributes:**  
   Resource management is crucial. Health keeps you alive on the frontline, Stamina is needed for your fists, and you need enough Magicka to cast your spells. Get what you need and don't be wasteful when using it.
-  * **Health:** 4 (45%)
-  * **Magicka:** 2 (25%)
-  * **Stamina:** 3 (30%)
+  * **Health:** 5
+  * **Magicka:** 2
+  * **Stamina:** 3
 
 > **Note:** For unarmed perks to work both hands need to be empty. To easily do this with hot keys, go to the *SkyUI* MCM and toggle `Unequip Hands` for one of the groups. That group can now be used as an Unarmed hotkey.
 
@@ -55,8 +55,8 @@ Your arrest and near execution made you painfully aware of the war that's broken
 *Heavy armor would only slow you down. Let your mastery of the arcane shield you.*
 
 * **Philosopher 1 (10):** Alteration spells cost 25% less Magicka.
-* **Mage Robes 1 (20):** You have 50% extra Magicka Regeneration while wearing robes.
-* **Mage Armor 1 (30):** Armor spells are 50% stronger while wearing robes.
+* **Mage Robes 1 (20):** You have 50% extra Magicka Regeneration while not wearing an armored chest piece.
+* **Mage Armor 1 (30):** Armor spells are 50% stronger while not wearing an armored chest piece.
 
 #### Conjuration
 
@@ -104,8 +104,8 @@ Along with the realization that you're Dovahkiin, as the Nords call it, is the r
 * **Balance 1 (30):** Alteration spells last 50% longer.
 * **Stability (40):** You resist 50% of incoming stagger while under the effects of an armor spell.
 * **Philosopher (50):** Alteration spells cost 50% less Magicka.
-* **Mage Robes 2 (60):** You have 100% extra Magicka Regeneration while wearing robes.
-* **Balance 2 (60):** Alteration spells last 100% longer.
+* **Mage Robes 2 (60):** You have 100% extra Magicka Regeneration while not wearing an armored chest piece.
+* **Spell Strike 1 (60):** Unarmed attacks deal elemental damage while under the effects of an elemental shield spell.
 * **Spell Shield (70):** You have 25% Magic Resistance while under the effect of an armor spell.
 
 #### Conjuration
@@ -159,10 +159,11 @@ Now is the time for your trial and your reward. Unlock *Cultist Rank 2* as soon 
 
 #### Alteration
 
-*Your control is to the point where magicka from others can be used to your benefit.*
+*Your magic fully envelopes you, boosting your offense and defense immensely.*
 
-* **Mage Armor 2 (70):** Armor spells are 100% stronger while wearing robes.
-* **Spell Sip (90):** You have a 25% chance to absorb the Magicka from incoming spells while under the effect of an armor spell.
+* **Balance 2 (60):** Alteration spells last 100% longer.
+* **Mage Armor 2 (70):** Armor spells are 100% stronger while not wearing an armored chest piece.
+* **Spell Strike 2 (90):** Unarmed attacks deal even more elemental damage while under the effects of an elemental shield spell.
 
 #### Conjuration
 
@@ -199,8 +200,7 @@ Now is the time for your trial and your reward. Unlock *Cultist Rank 2* as soon 
 
 * **Light Feet 2 (70):** You move 20% faster while unarmed.
 * **Momentum 2 (70):** Unarmed attacks are 40% faster.
-* **Finisher (80):** Your unarmed power attacks deal 50% extra damage against targets that fall below half Health. 
-* **Heavy Blows 2 (90):** Your unarmed strikes deal extra Stamina damage, and prevent enemies from regenerating Stamina for 10 seconds.   
+* **Finisher (80):** Your unarmed power attacks deal 50% extra damage against targets that fall below half Health.
 
 #### Sneak
 
@@ -286,8 +286,8 @@ Your primary benefit here is defending yourself but this school of magic offers 
 * **Oakflesh (Novice+):** *Your Armor Rating is increased by 40 for 120 seconds.*  
 Your main source of armor throughout your adventures. With perks, this will give you stagger resistance, magic resistance, and magic absorption, making you incredibly beefy in robes.
 
-* **Ash Form (Adept+):** *Encases an enemy in ash for 30 seconds. Attacking the enemy will break this spell.*  
-Temporarily remove an enemy from the equation while you deal with others. Make sure to choose a distant enemy else your *Fire Cloak* or other effects may free them prematurely.
+* **Fire Shell (Adept+):** *Your Fire Resistance is increased by 50% for 120 seconds.*  
+You're not using this for the extra Fire Resistance, though it's nice. You're using it to empower your unarmed strikes with *Spell Strike*. Grab that perk as soon as you hit 60 Alteration.
 
 * **Weakness to Fire (Expert):** *You reduce enemy Fire Resistance by 50% for 60 seconds.*  
 With Fire being a core damage type of the build this should come as no surprise.

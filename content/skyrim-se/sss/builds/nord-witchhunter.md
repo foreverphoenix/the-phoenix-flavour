@@ -247,23 +247,23 @@ Wherever you come from originally you recognize the Nine Divines of the Imperial
 
 <details>
 
-#### Kynareth
-
-*Your Stamina is increased by 25.*
-
-Extra stamina is always useful and the shrine can be found early on in Whiterun. You can't go wrong with this choice. At some point you may feel that your Stamina Regeneration makes the extra Stamina less useful. If that happens consider switching to another deity. 
-
-#### Julianos
-
-*Your Magicka is increased by 25%.*
-
-Alternatively, a boost to your Magicka may be the difference needed to cast a higher tier spell. This option is especially suitable when leaning into life at the College of Winterhold as you'll be more in touch with your magical studies there.
-
 #### Akatosh
 
 *You gain 10% more experience.*
 
 You can never go wrong with the chief deity as he'll provide you with a solid experience boost. Faster leveling means faster access to powerful perks that will keep your adventures moving smoothly.
+
+#### Julianos
+
+*Your Magicka is increased by 25.*
+
+Alternatively, a boost to your Magicka may be the difference needed to cast a higher tier spell. This option is especially suitable when leaning into life at the College of Winterhold as you'll be more in touch with your magical studies there.
+
+#### Kynareth
+
+*Your Stamina is increased by 25.*
+
+Extra stamina is always useful and the shrine can be found early on in Whiterun. You can't go wrong with this choice. At some point you may feel that your Stamina Regeneration makes the extra Stamina less useful. If that happens consider switching to another deity. 
 
 </details>
 
