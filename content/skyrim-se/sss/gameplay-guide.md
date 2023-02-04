@@ -31,6 +31,8 @@ In general, expect the game to tell you far less information, leaving you to inf
 - **Toggle Compass:** `X`
 - **Favorite Groups 1-4:** `9`,`0`, `-`, and `=`
 - **Horse Hotkey:** `H` ([_Simplest Horses_](https://www.nexusmods.com/skyrimspecialedition/mods/54225))
+- **Toggle 1st/3rd Person View:** `F`
+- **Toggle Close/Far 3rd Person View:** `↑` (in 3rd Person View)
 
 ## 2. Survival and Exploration
 
@@ -108,7 +110,7 @@ On top of that, enemies have been placed into tiers and you'll want to build you
 ### Followers
 
 It sounds like the deck is stacked against you, and in many ways it is. But you don't have to go it alone. Keep in mind the following changes when bringing a follower along:
-- NPCs, including followers, use ammo the same as you. If your follower uses a bow, make sure to keep them supplied with arrows.
+- NPCs, including followers, use ammo the same way you do. If your follower uses a bow, make sure to keep them supplied with arrows.
 - Followers who run out of Health will be in a "downed" state for 2 minutes unless healed by Restoration magic. Enemies will ignore them in this state. ([_STAYDOWN_](https://www.nexusmods.com/skyrimspecialedition/mods/41228))  
 - Mercenaries will charge more for their services based on factors such as their level. ([_Dynamic Mercenary Fees_](https://www.nexusmods.com/skyrimspecialedition/mods/45677))
 
@@ -139,7 +141,15 @@ You’ve just escaped Helgen by the skin of your teeth. You don’t have much to
 
 The urge to explore is strong but try to fight it off in the early game. There is plenty to do in Whiterun Hold once you’ve reached Riverwood, and that content should get you to Level 10 without too many hitches. A [_Missives_](https://www.nexusmods.com/skyrimspecialedition/mods/17576) board can be found in Whiterun if you need additional tasks. Bleak Falls Barrow can be handled easily by Level 5, though you may want to wait until you’re closer to Level 10 before tackling Dragon Rising. Also, buy Breezehome. All of the other homes are more expensive and you’ll need someplace reliable to store your valuables until you can afford them.
 
+#### Bring a Light
+
+*Lux* (and its related mods) change interior lighting so that light comes from the visible, reasonable sources. Torches, candles, windows, etc. and so on. This makes certain areas, such as dungeons, quite dark at times. Fires on the road can also be put out by storms. Carry a source of light with you (such as a torch) so that you don't find yourself lost in the shadows.
+
 ### Mid Game (Level 10 - 30)
+
+#### Find a Follower
+
+If you haven't already, consider choosing someone to accompany you on your adventures. Ideally they should complement your skill set. If you're a frontliner, consider a follower good at archery (and supply them with arrows!) or magic. Or vice versa if you like to attack from range. Just remember to provide them with quality equipment as their usefulness will plummet if they can't keep up in fights.
 
 #### Buy a Horse
 
@@ -151,6 +161,14 @@ Go find yourself a faction (i.e. The Companions) that suits your character and s
 
 ### Late Game (Level 30 - 50)
 
+#### Spent Your Septims
+
+At this point you probably have a hole burning in your pocket from a pile of extra septims. Spend it! You get 5 training opportunities per level, use your gold to bump skills towards a perk you desperately need. Or buy high quality equipment that just isn't appearing for you in boss chests. Don't hoard your wealth like the dragons you're meant to kill; put your money to good use.
+
 #### Utilize Crafting
 
-Seriously, I can’t stress this enough. In the late game you may be dealing with areas that are scaled high above your Level 50 limit, some at that point before you reach the cap. You’ll want every advantage you can get to bridge the gap and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. If on Master or Legendary difficulty, you might even need to make different equipment sets for different types of enemies.
+I can’t stress this enough. In the late game you might deal with areas that are scaled high above your Level 50 limit, some at that point before you reach the cap. You’ll want every advantage you can get to bridge the gap and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. If on Master or Legendary difficulty, you might even need to make different equipment sets for different types of enemies.
+
+#### Adjust the Difficulty if Needed
+
+If combat is becoming too easy at this point, think about increasing the difficulty. I personally change it from Expert (the list default) to Master at Level 30, then again to Legendary at Level 50 when my perk build is complete. This will lower your damage given (and increase damage taken), encouraging you to find ways to boost your abilities further while maintaning a challenge.

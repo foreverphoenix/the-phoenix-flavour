@@ -6,6 +6,133 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.16.1 RC 1
+
+> 2023-02-04
+
+This update should really be called *Slidikins' Strenuous Skyrim Release 5.0 RC 4* as it's essentially a complete rebuild of the list based off of *The Phoenix Flavour 5.0 RC 4* (which is currently unavailable). The changes in 4.15.5 was the first step towards this goal. The jump to SSE 1.6.640 in 4.16 put me within spitting distance. So, while I know that it's only been a week since that jump, I've decided to go the rest of the way.
+
+The core of the list hasn't changed. It's still a Simonrim-centered TPF modlist with *Survival Mode* and my other choices, but TPF 5.0 has decided to venture off into the previously labeled "TPF-X" realm of added content. This update follows TPF down that path... some of the way. You'll find your Vanilla+ experience peppered with **new enemies, new equipment, expanded quests, more crafting options, and more**. What you won't find are the new worldscapes (areas), followers, or any content that requires the [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade). If you have that, keep an eye out for TPF's release as it will integrate most of it very well.
+
+There's a lot of changes here. Seriously. The folder count went from ~800 to ~1400. The plugin count is through the roof. Part of that is due to the conflict resolution patches being separated out by section instead of being altogether. This might not be the case in the final release, however there's no reason not to leave it as is with the way ESL plugins work.
+
+Anyway, a not-so-shortlist of sectional changes can be found below. Please, *please* let me know if you run into any issues. I almost guarantee that you will. I want to fix them.
+
+> **This update is absolutely not save-safe.** It is likely that future release candidates will be but not guaranteed. If you want to safely continue your character on v4.16.0.1, my advice would be to manually update SimonMagus' mods so long as they're labeled save-safe and you'll be in good shape.
+
+<details>
+
+#### Changes
+
+This changelog is structured differently because of how much has changed. Instead of an itemized list, I'll go through section by section and list some key differences from each, compared to [TPF 5.0 RC 4](https://loadorderlibrary.com/lists/the-phoenix-flavour-50-wip).
+
+- **Utilities:** No big changes here. This section consists of pre-requisites for other mods, most of which were already in the list. I did not carry over *Optional Quick Start* from TPF 5.0 as I'm not a fan of the implementation.
+
+- **Essential Mods:** Phoenix created her own *Weapons & Armor Overhaul* that supercedes *WACCF* here, otherwise this section is mostly untouched. Numerous mods from this section have been moved to sections below.
+
+- **SKSE Plugins:** The section has been moved higher. There are a number of new plugins, almost all of which are small quality of life fixes such as *Stagger Direction Fix* or *Alchemy Plus*.
+
+- **Fixes & Tweaks:** Can you believe there are so many things to fix after USSEP? And it's all in here. Again, not going to get into the weeds over things that are small bug fixes. "It just works."
+
+- **Controls & Camera:** This section also moved upwards. *Sprint Swimming* is the newest addition here, otherwise it's the same as before. I've switched away from the *EasyEase Preset* to [SmoothCam Vanilla Enhanced 2](https://www.nexusmods.com/skyrimspecialedition/mods/82481) with very minor changes.
+
+- **Interface:** I kept *Toggle Compass Hotkey* over *Ultimate Immersion Toggle*. I've also reverted back to regular *SkyUI* as the default interface. This allows for more consistency with *CoMAP* and *Constructible Object Custom Keyword System*, both new additions in this update. There is an optional *Nordic UI* section for those who still want the old look but it's not at the same level of consistency. Widescreen support is still present for 21x9 monitors (*SkyUI* only; for other ratios or *Nordic UI* support you have to install it on your own). I've tried my best to make sure both UI looks work with the same configuration file.
+
+- **Graphic Baseline:** Not much to say here. The Performance Profile does not utilize *High Poly Project* otherwise it's not an exciting section to talk about. To look at is a different story.
+
+- **Mesh Improvements:** Likewise, TPF 5.0 just makes things look prettier here and I saw no reason to change these choices.
+
+- **Weather & Lighting:** This is the first major departure from TPF 5.0. I've switched *Obsidian Weathers* out for *RAID Weathers* but left everything else the same. Previous versions of the list did not have reliable stealth mechanics which was a sore spot given the reduced HUD. By switching back to *RAID* and *RAID Weathers* sneaking around is tough but fair, the way I intended.
+
+- **Fire & Visual FX:** I've added *R.A.S.S. - Rain Ash and Snow Shaders* on top of TPF 5.0. I've also kept all of my previous additions such as *Frozen Electrocuted Combusion*. I'm borderline on R.A.S.S. so please let me know what you think.
+
+- **Landscape:** I kept pretty much everything here, the most noticeable of which was *Enhanced Landscapes* to make exploring a bit more memorable. Then I added a bunch of MystiriousDawn's new HD Parallax textures.
+
+- **Trees, Grass, & Plants:** Essentially the same as TPF 5.0, which is the same as TPF 4.0 with the addition of *Happy Little Trees* and some of the *Cathedral - 3D* plants.
+
+- **Appearance:** Unchanged as this section was adopted by SSS in earlier versions.
+
+- **Architecture:** No real changes from TPF 5.0 aside from *Rally's Market Stalls*. Things look good here.
+
+- **Misc Structures:** Again, no real changes. For the most part I've always agree with Phoenix's visuals and that hasn't changed.*Daedric Shrines* was put here as the only addition from a later section of the list.
+
+- **Interiors:** Nothing to say here that hasn't already been said.
+
+- **Dungeons:** The retexture section of the changelog is quite boring, isn't it?
+
+- **Clutter:** I should note that TPF 5.0 switched from the desaturated version of *Book Covers Skyrim* to the saturated version. All the books in the game will be brighter than before.
+
+- **Valuables:** For some reason *Security Overhaul SKSE* was moved here. Otherwise, nothing interesting to note.
+
+- **Food & Ingredients:** I've added *Garlic - A Garlic Mod* to the section. It came out after the last release candidate but I feel that Phoenix would've loved it.
+
+- **Apparel & Weapons:** Unchanged from TPF 5.0 as it was already incorporated into SSS awhile back.
+
+- **Creatures:** Unchanged from TPF 5.0.
+
+- **Gameplay Overhauls:** The SimonRim core of TPF remains untouched.
+
+- **Balance & Crafting:** TPF 5.0 expands the crafting a good amount and SSS followed it all the way down that road. The biggest thing to note here is that TPF 5.0 modifies the Smithing tree along with its other changes. *Honed Metal* has not been adjusted to compensate so there may be some weirdness with the blacksmith services.
+
+- **Non-Player Characters:** Children get more clothes with *Prince and the Pauper* returning to the list. Vigilants as well. Otherwise, this is a mostly unchanged section that introduces a few small tweaks to the list.
+
+- **Improved Vanilla Quests:** TPF 5.0 fleshes this section out even more with a lot of minor tweaks. *At Your Own Pace* has been added for the main quest and the College of Winterhold. The other factions have gotten some attention as well to improve their quest pacing.
+
+- **Combat & Encounters:** Nothing really changed here. Like Gameplay Overhauls, the core of the list hasn't changed.
+
+- **Miscellaneous:** Phoenix added a number of small mods to this section such as *Jarrin Root for Babette*. *Left Hand Rings* is included so that the Bond of Matrimony can be worn without taking up a valuable enchantment slot. One that I didn't take was *Another Redbelly Mine Mod* because, put frankly, I don't care all too much about the dialogue conflict here. It's an easy mine to enter, let's leave it as an iron mine like all the other easy mines to enter.
+
+- **Skeleton & Animations:** I left this mostly unchanged which is a departure from TPF 5.0 because it added *Movement Behavior Overhaul* and *Animated Armoury*. The former was glitchy for me and I didn't think the latter fit the current vision of the list and there are no added weapon types here, so I dropped them. *Precision* returns, however, as it was not the true source of the previous issue.
+
+- **Sound FX:** I know less about sound than I do visuals. This section was left as is.
+
+- **Creation Club:** This list only uses the 4 free Creations that came with Anniversary Edition so the others have been removed, drastically slimming down the next few sections.
+
+- **Creation Club Base:** I did my best to preserve what could be used here with the above limitation which wasn't much. In addition, previous enhancements to *Saints and Seducers*, *Survival Mode*, and *Fishing* were moved here.
+
+- **Creation Club Assets:** Unchanged from TPF 5.0 aside from the aforementioend trim.
+
+- **Creation Club Patches:** Included everything necessary for the utilized Creations.
+
+- **Creation Club Integreation:** This has been reduced to Phoenix's patches and *Mysticism - Survival Spells Addon*.
+
+- **Beyond Skyrim Bruma, Wyrmstooth, City Overhauls, Other Locations, Interior Overhauls, and New Player Homes:** Not included in SSS.
+
+- **New & Expanded Quests:** Some of these were introduced in the last update. Most, actually. I did not add *Cheesemod for EVERYONE* and *New Treasure Hunt*, however.
+
+- **New Mechanics:** *Hand to Hand* and *Pilgrim*, among others, were already in the list. I've added *Skyrim Wayshrines* and *BA Bard Songs*. *Wayshrines* provides another alternative to fast traveling but you'll incur fatigue in exchange for the transmission. Left out were some CC-dependent mechanics, *Take A Peek*, *Skyrim's Got Talent*, and *Skyrim's Paraglider*.
+
+- **New Items:** A lot. I mean, there's a lot of new, lore friendly gear to outfit yourself with here. Before it was just *Royal Armory* and *Ancient Nord Stahlrim*. Now it's a proper section.
+
+- **New Creatures:** This was called "New NPCs & Creatures" in TPF 5.0 but I didn't carry over a single NPC so just ignore that first part. You still get plenty of new monsters to fight and a handful more alchemical ingredients to play around with from this section.
+
+- **New Animations:** In addition to the previous animations I've added to the list, TPF 5.0 adds almost all of Verolevi's animations (with *Conditional Armor Type Animations*) to the game. In action all of these new animations looked nice and made sense, so I left them in.
+
+- **New Music:** Nothing has changed here.
+
+- **Content Integration:** Without certain CC mods the *Crossbow Integration* part of this section got neutered but I kept what I could. You should also see more Bonemold and Chitin and merchants will have more gear from across Tamriel even if you can't go there yourself.
+
+- **Lux, Lux Orbis, & Lux Via:** These mods are so big they need their own section. I've included everything that was necessary given the other choices in the modlist.
+
+#### Updates
+
+- Updated Crash Logger to 1.8
+- Updated Spell Perk Item Distributor to 6.4
+- Updated Cathedral Weathers and Seasons - Unofficial Update to 2.40
+- Updated Particle Patch for ENB to 1.2.3
+- Updated Assorted Mesh Fixes to 0.78
+- Updated Aetherius - A Race Overhaul to 2.10.3
+- Updated Mundus - A Standing Stone Overhaul to 1.9.1
+- Updated Snowy Surfaces Sound Collision and Aesthetics to 1.6.1
+- Updated Hand to Hand - An Adamant Addon to 1.4.2
+- Updated NPC Animation Remix to 1.2.1
+
+#### Outputs
+- Regenerated everything
+
+</details>
+
+
 ## Release 4.16.0.1
 
 > 2023-01-27
@@ -33,6 +160,7 @@ A new save is not required. You will receive a warning about `Precision.esp` tha
 - **Configuration:** Adjusted Scrambled Bugs settings to match Simon's suggestions for his gameplay suite
 
 #### Updates
+
 - Updated NVIDIA Reflex Support to 1.1.2
 - Updated Dwemer Gates Don't Reset to 1.3.7
 - Updated Papyrus Tweaks to 4.0
@@ -42,6 +170,7 @@ A new save is not required. You will receive a warning about `Precision.esp` tha
 - Updated The Choice Is Yours to 2.7
 
 #### Outputs
+
 - Regenerated Left Hand Meshes
 - Regenerated Nemesis
 

@@ -27,9 +27,9 @@ Orsinium's Heir: Your Health is increased by 50 and your Health Regeneration is 
   * **Utility:** Sneak
 * **Attributes:**  
 Almost everything you do will require Magicka but you can't ignore your other attributes just in case things go awry.
-  * **Health:** 2 (20%)
-  * **Magicka:** 5 (50%)
-  * **Stamina:** 3 (30%)
+  * **Health:** 2
+  * **Magicka:** 5
+  * **Stamina:** 3
 
 When everything goes according to plan you expect little to no resistance. Enemies won't hear you approaching. They won't hear you summon your weapon. They won't hear you strip their armor with magic. And if you strike true they won't hear the attack that kills them. When things don't go as planned, you'll still have a toolbox of spells to help get things back on the rails. Illusion and Alteration spells are your keys in taking control of a situation, getting back to a point where you can slip back into the shadows and resume your quiet and subtle work. Whether in close quarters or at range, you'll be able to take your targets out with lethal efficiency.
 
@@ -220,14 +220,6 @@ Things should reach their natural zeniths after intense studying. Being detected
 
 You'll want a large Magicka pool and this provides one early in the game. It doesn't help your martial side at all but it's the best option of the three stones.
 
-<img align="right" width="100" src="/Pictures/sss/builds/the-shadow.webp">
-
-#### The Shadow
-
-***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
-
-Sneaking, sneak attacks, and sneak spells are pretty much your modus operandi in full. This stone benefits everything you aim to do which makes it a safe mid-to-late-game option.
-
 <img align="right" width="100" src="/Pictures/sss/builds/the-apprentice.webp">
 
 #### The Apprentice
@@ -235,6 +227,14 @@ Sneaking, sneak attacks, and sneak spells are pretty much your modus operandi in
 ***Elfborn:*** *Your Magicka regenerates twice as fast, but your Magic Resistance is reduced by 25%.*
 
 Aptly named for this build, this stone leans into the glass cannon concept. Your Magicka pool will greatly benefit from this blessing however you may find yourself promptly cooked by opposing mages if they discover you.
+
+<img align="right" width="100" src="/Pictures/sss/builds/the-shadow.webp">
+
+#### The Shadow
+
+***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
+
+Sneaking, sneak attacks, and sneak spells are pretty much your modus operandi in full. This stone benefits everything you aim to do which makes it a safe mid-to-late-game option.
 
 </details>
 
@@ -276,7 +276,7 @@ The Warlock's God is also a suitable choice for a young arcanist. If you feel yo
 
 ### Alteration
 
-Use the school of alteration to bolster your own defenses just in case. Also use it to scout out and make your enemies vulnerable. Alteration is a powerful toolbox in the right hands and your hands look plenty capable.
+Use the school of alteration to bolster your own defenses just in case. Also use it to scout ahead and to make your enemies vulnerable. Alteration is a powerful toolbox in the right hands and your hands look plenty capable.
 
 * **Oakflesh (Novice+):** *Your Armor Rating is increased by 40 for 120 seconds.*  
   With your perks you can get fairly respectable armor ratings from these spells. They will save your life from a stray hit if you're ever detected.
