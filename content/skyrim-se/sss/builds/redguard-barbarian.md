@@ -219,21 +219,21 @@ You've climbed the ranks of men, now ascend to the tier of legends. All of your 
 
 Extra Stamina is just what you need out of the gate. The extra movespeed helps you get into your opponents' faces and chase them down if they retreat. This blessing is equivalent to *Kynareth's* later on when you have *Pilgrim (Rank 2)*, coincidentally. It's almost as if Tava herself is watching over you.
 
-<img align="right" width="100" src="/Pictures/sss/builds/the-lady.webp">
+<img align="right" width="100" src="/Pictures/sss/builds/the-lover.webp">
 
-#### The Lady
+#### The Lover
 
-***Lady’s Grace:*** *Your Health, Magicka and Stamina Regeneration are increased by 50%, and by an additional 50% when you fall below half Health.*
+***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you cannot gain any bonuses from sleeping.*
 
-Later on you'll have enough Stamina in your pool and Stamina Regeneration will be more important. Lady's Grace will boost your overall endurance so you can keep raging on the frontlines. *The Lover* is an alternative that's much better for Stamina overall if you don't mind neglecting Health and Magicka.
+Later on you'll have enough Stamina in your pool and Stamina Regeneration will be more important. Lover's Touch will give you plenty of Stamina Regeneration to work with, allowing you to continue your onslaught for much longer.
 
-<img align="right" width="100" src="/Pictures/sss/builds/the-tower.webp">
+<img align="right" width="100" src="/Pictures/sss/builds/the-steed.webp">
 
-#### The Tower
+#### The Steed
 
-***Warden’s Wall:*** *Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.*
+***Charioteer:*** *You move 20% faster and your Carry Weight is increased by 100. *
 
-Bolster your defenses and turn your opponent's strength against them in one blessing. Provided you can survive the hits this is a fantastic late-game standing stone and a necessary core to a damage reflection version of the build.
+Movement speed gets you into your preferred range quickly and allows you to weave in and out of attacks with more ease. The Steed will not only help you out immensely in that regard but it will boost your Carry Weight a large amount as well, allowing you to bring back more spoils from your victories.
 
 </details>
 
@@ -261,10 +261,10 @@ Tava, the goddess of air, weather and sun is thematically the true option for th
 
 *You gain 20% more experience. You have an additional unique effect based on your Standing Stone.*
 
-Tall Papa's' experience bonus is almost always beneficial. His additional effect can be hit or miss. If utilizing reflect mechanics he can be an especially solid choice with the *Tower Stone*.  
+Tall Papa's' experience bonus is almost always beneficial. His additional effects are all useful as well, especially for *Steed Stone* users who want as much speed as possible.  
 * **The Lady Stone:** You have 25 extra Health, Magicka, and Stamina.  
 * **The Thief Stone:** You spend 25% less Stamina when power attacking or drawing a bow.  
-* **The Tower Stone:** You reflect 100% of incoming melee damage back at your opponent.
+* **The Steed Stone:** You move 10% faster, and your carry weight is increased by 50.
 
 </details>
 
@@ -352,15 +352,15 @@ While tempting to ride the lightning further with Shock enchantments, your weapo
 
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
 * **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
-* **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
+* **Reflect Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
 
-Most of your damage will come from melee power attacks so it's a safe choice to go with. If that's not available, making your Shock spells easier to cast can be useful. Lastly, if going for the damage reflection variation, you can get another boost here.
+Most of your damage will come from melee power attacks so it's a safe choice to go with. If that's not available, making your Shock spells easier to cast can be useful. Failing either, it never hurts to bolster your armor in case you're hit.
 
 #### Chest
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
-* **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
+* **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
 
 Being out in the open makes you an easy target for magic users. Improving your general resistance will allow you to eat the damage and continue your assault, most likely healing yourself in the process. Otherwise, this shares options with your head.
 

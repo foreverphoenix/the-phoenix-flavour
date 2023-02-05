@@ -67,7 +67,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 ### Other Notes
 
 - Your Health won't regenerate on its own. You'll need to utilize other sources of regeneration to recover, such as food, potions, perks, or Restoration magic.
-- Containers are no longer bottomless. If you want to hoard goods and materials you'll need to find a suitable location with enough chests for your stash. ([_Container and Arrow Weight Restrictions_](https://www.nexusmods.com/skyrimspecialedition/mods/13826)])
+- Containers are no longer bottomless. If you want to hoard goods and materials you'll need to find a suitable location with enough chests for your stash. ([_Container and Arrow Weight Restrictions_](https://www.nexusmods.com/skyrimspecialedition/mods/13826))
 - Similarly, your Carry Weight has been reduced, encouraging you to reconsider what's worth leaving the house with as well as what's worth picking up in a dungeon.
 - Imperial Septims won't be found in places where it wouldn't make sense. You'll find foreign or ancient coins in their place. Merchants can exchange these for Septims at various rates. ([_C.O.I.N. - Coins of Interesting Natures_](https://www.nexusmods.com/skyrimspecialedition/mods/51439))
 
@@ -91,7 +91,7 @@ With the exception of the quintessential Mage, most adventurers will get some be
 
 ### Enchanting
 
-Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can get rival the skill of an adept or expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment are priceless.
+Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can rival the skill of an adept or expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment are priceless.
 
 #### Additional Reading
 
@@ -139,7 +139,7 @@ You’ve just escaped Helgen by the skin of your teeth. You don’t have much to
 
 #### Stay in Range of Whiterun
 
-The urge to explore is strong but try to fight it off in the early game. There is plenty to do in Whiterun Hold once you’ve reached Riverwood, and that content should get you to Level 10 without too many hitches. A [_Missives_](https://www.nexusmods.com/skyrimspecialedition/mods/17576) board can be found in Whiterun if you need additional tasks. Bleak Falls Barrow can be handled easily by Level 5, though you may want to wait until you’re closer to Level 10 before tackling Dragon Rising. Also, buy Breezehome. All of the other homes are more expensive and you’ll need someplace reliable to store your valuables until you can afford them.
+The urge to explore is strong but try to fight it off in the early game. There is plenty to do in Whiterun Hold once you’ve reached Riverwood, and that content should get you to Level 10 without too many hitches. A [_Missives_](https://www.nexusmods.com/skyrimspecialedition/mods/17576) board can be found in Whiterun if you need additional tasks. Bleak Falls Barrow can be handled easily by Level 5, though you may want to wait until you’re in the Level 10-15 range before tackling Dragon Rising. Also, buy Breezehome. All of the other homes are more expensive and you’ll need someplace reliable to store your valuables until you can afford them.
 
 #### Bring a Light
 
