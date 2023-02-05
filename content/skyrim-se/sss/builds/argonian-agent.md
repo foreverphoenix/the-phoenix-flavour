@@ -229,21 +229,21 @@ Now you can put your plan in motion. Your words and spells will twist the minds 
 
 The Mage Stone is the ideal starting stone for you. Though the agent is technically a Stealth class the benefits of the Thief Stone aren't too beneficial. Feel free to carry this blessing into the mid game.
 
+<img align="right" width="100" src="/Pictures/sss/builds/the-serpent.webp">
+
+#### The Serpent
+
+***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits.*
+
+The Serpent Stone is hit or miss for this build, ironically. An additional hit of poison can be great if you're stabbing your victims instead of reverse pickpocketing. Otherwise this does next to nothing for you.
+
 <img align="right" width="100" src="/Pictures/sss/builds/the-shadow.webp">
 
 #### The Shadow
 
 ***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
 
-If you run into problems sneaking the Shadow Stone is your best friend. It will help you stay hidden and boost your spellpower at the same time.
-
-<img align="right" width="100" src="/Pictures/sss/builds/the-serpent.webp">
-
-#### The Serpent
-
-***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for an additional hit.*
-
-The Serpent Stone is hit or miss for this build, ironically. An additional hit of poison can be great if you're stabbing your victims instead of reverse pickpocketing. Otherwise this does next to nothing for you.
+If you run into problems sneaking, the Shadow Stone is your best friend. It will help you stay hidden and boost your spellpower at the same time.
 
 </details>
 

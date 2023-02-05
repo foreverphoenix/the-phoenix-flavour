@@ -6,13 +6,45 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.16.1 RC 2
+
+> 2023-02-05
+
+Whoops, that was a quick update. This one's short but impactful. If your character plans on doing a lot of sneaking around I'd advise restarting. You don't have to but the values won't be the intended. If not, you probably won't notice too much difference other than the lighting.
+
+*EVLaS* is gone for now. Will it come back? Possibly, but it would require a workable adjustment for *The Vanilla ENB Two* in order to prevent some of the intense outdoor shadows you may have encountered. Even with that fix, the shaodws the mod produces don't actually affect your current light level, so hiding in them won't make you stealthier. It's misleading and in a game with no other indicators, not good design. So I had to drop it.
+
+I also updated *DWTD* values so that *R.A.I.D.*'s settings properly pass through. Since *RAID Weathers* was designed with stealth in mind, some of DWTD's features were doubling down on what NPCs were already experiencing. I've turned off some of those features and left others, such as NPCs hearing less in the rain or searching a small radius in bad weathers.
+
+R.A.S.S. was removed because it was on the fence to begin with, half of the mod was turned off and the other half wasn't looking great in action. *S.W.I.F.T.* was removed because it trivialized some of the established methods of fast traveling (carriage, ferry, spells) that existed through other mods. The mod itself is great but it doesn't fit the list.
+
+All in all, an update centered around mods with initializations.
+
+<details>
+
+- **Weather & Lighting:** Removed Enhanced Volumetric Lighting and Shadows (EVLaS) ?
+- **Fire & Visual FX:** Removed R.A.S.S. - Rain Ash And Snow Shaders
+- **Fire & Visual FX:** R.A.S.S. - Rain Ash And Snow Shaders - Settings Loader
+- **Architecture:** Fixed Windhelm Bridge Stairs... again
+- **Combat & Encounters:** Edited Dynamic Weather and Time Based Detection to properly detect RAID 3 plugins and set the correct settings
+- **Skeletons & Animations:** Restored Missile's Immersive Equipment Display Presets
+- **New Mechanics:** Removed Skyrim Wayshrines - Immersive Fast Travel
+- **ENB:** Increased *AmbientLightingIntensityInteriorDay* and *AmbientLightingIntensityInteriorNight* to `1.00`
+
+#### Outputs
+
+- Regenerated 
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.16.1 RC 1
 
 > 2023-02-04
 
 This update should really be called *Slidikins' Strenuous Skyrim Release 5.0 RC 4* as it's essentially a complete rebuild of the list based off of *The Phoenix Flavour 5.0 RC 4* (which is currently unavailable). The changes in 4.15.5 was the first step towards this goal. The jump to SSE 1.6.640 in 4.16 put me within spitting distance. So, while I know that it's only been a week since that jump, I've decided to go the rest of the way.
 
-The core of the list hasn't changed. It's still a Simonrim-centered TPF modlist with *Survival Mode* and my other choices, but TPF 5.0 has decided to venture off into the previously labeled "TPF-X" realm of added content. This update follows TPF down that path... some of the way. You'll find your Vanilla+ experience peppered with **new enemies, new equipment, expanded quests, more crafting options, and more**. What you won't find are the new worldscapes (areas), followers, or any content that requires the [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade). If you have that, keep an eye out for TPF's release as it will integrate most of it very well.
+The core of the list hasn't changed. It's still a Simonrim-centered TPF modlist with *Survival Mode* and my other choices, but TPF 5.0 has decided to venture off into the previously labeled "TPF-X" realm of added content. This update follows TPF down that path... some of the way. You'll find your Vanilla+ experience peppered with **new enemies, new equipment, expanded quests, more crafting options, and more**. What you won't find are the new worldspaces (areas), followers, or any content that requires the [Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade). If you have that, keep an eye out for TPF's release as it will integrate most of it very well.
 
 There's a lot of changes here. Seriously. The folder count went from ~800 to ~1400. The plugin count is through the roof. Part of that is due to the conflict resolution patches being separated out by section instead of being altogether. This might not be the case in the final release, however there's no reason not to leave it as is with the way ESL plugins work.
 

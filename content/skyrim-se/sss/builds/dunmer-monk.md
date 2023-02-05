@@ -27,7 +27,7 @@ Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your sp
 * **Skills:**
   * **Offensive:** Destruction, Hand to Hand  
   * **Defensive:** Alteration, Enchanting  
-  * **Utility:** Conjuration
+  * **Utility:** Conjuration, Sneak
 * **Attributes:**  
   Resource management is crucial. Health keeps you alive on the frontline, Stamina is needed for your fists, and you need enough Magicka to cast your spells. Get what you need and don't be wasteful when using it.
   * **Health:** 5
