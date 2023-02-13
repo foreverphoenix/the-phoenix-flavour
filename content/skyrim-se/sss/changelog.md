@@ -6,6 +6,49 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.16.1 RC 3
+
+> 2023-02-13
+
+It's been a little over a week and I've a short trip coming up so I wanted to put out an update before then. Thank you everyone that's been helping me test so far (and big thanks to Berna for finding some bugs to squash!) but I don't think it's quite ready for a full release just yet. This update is mostly just updates to existing mods, however one of those mods is *The Vanilla ENB Two* which had a huge update since RC 2 came out. Overall it's an amazing step forward and I love how it looks but it does come with a bit of a performance hit. I'm not sure if I tweaked the Performance Profile enough to compensate, but let me know if the hit's too much compared to the last release (and 4.16.0, even) so I can see what I can do about dialing it back.
+
+**This update is save safe.** Nothing new has been generated. Have fun!
+
+<details>
+
+#### Changes
+- **Weather & Lighting:** Removed Pouring Rain
+- **Interiors:** Added Skyland Common and Upper Furniture
+- **Clutter:** Removed upperclass meshes and furniture from Rudy HQ - Miscellaneous
+- **New Animations:** Added Improved Table Transition Animations
+- **Lux, Lux Orbis, & Lux Via:** Added Lux - Pilgrim - Daedric Shrines Patch (from Ro)
+- **Conflict Resolution:** Add "No Grass in Cabin" changes (thanks to Berna)
+- **Conflict Resolution:** Fixed Lunar Armory loadscreen (also thanks to Berna)
+- **Conflict Resolution:** Removed `textures/landscape/grass/columbine.dds` from the ENB Complex Grass collection (hat trick for Berna)
+
+#### Updates
+
+- Updated powerofthree's Papyrus Extender to 5.5
+- Updated Bash Bug Fix to 2.1.1
+- Updated Skyrim Skill Uncapper to 2.1.3
+- Updated Unique Map Weather to 1.1.1
+- Updated Water for ENB to 1.74
+- Updated Happy Little Trees - Ivy on Trees to 1.1.4
+- Updated Animated Forge Water to 0.7
+- Updated The Cost of a Mistake - Increased Guild Fines to 3.1
+- Updated Misc Dialogue Edits to 1.8.5
+- Updated Zim's Trainers Expansion to 1.1
+- Updated Misc Dialogue Edits - Save the Icerunner Patch to 1.8.5
+- Updated Blade and Blunt - A Combat Overhaul to 2.1.1
+- Updated Unequip Quiver to 2.2
+- Updated Snowy Surfaces Sound Collision and Aesthetics to 1.6.2
+- Updated Headhunter - Bounties Redone to 1.42
+- Updated Hand to Hand - An Adamant Addon to 1.4.3
+- Updated Icy Mesh Remaster to 2.0
+- Updated The Vanilla ENB Two to 2.0
+
+</details>
+
 ## Release 4.16.1 RC 2
 
 > 2023-02-05
@@ -22,7 +65,9 @@ All in all, an update centered around mods with initializations.
 
 <details>
 
-- **Weather & Lighting:** Removed Enhanced Volumetric Lighting and Shadows (EVLaS) ?
+#### Changes
+
+- **Weather & Lighting:** Removed Enhanced Volumetric Lighting and Shadows (EVLaS)
 - **Fire & Visual FX:** Removed R.A.S.S. - Rain Ash And Snow Shaders
 - **Fire & Visual FX:** R.A.S.S. - Rain Ash And Snow Shaders - Settings Loader
 - **Architecture:** Fixed Windhelm Bridge Stairs... again
