@@ -8,7 +8,8 @@ description: >
 
 ## Requirements
 
-- [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
+- Skyrim Special Edition on [Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **or** [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition).
+- The **Anniversary Edition DLC** (or all Creations bought separately).
 - Latest version of Windows 10 (required by Wabbajack).
 - At least a free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
 - Latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
@@ -17,7 +18,7 @@ description: >
 
 ### Disk Space
 
-**Legends of the Frost** currently requires **~76GB** of free disk space for the list installation and another **~47GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
+**Legends of the Frost** currently requires **~34GB** of free disk space for the list installation and another **~26GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
 
 The initial installation process will be faster if the downloaded archives are also on an SSD. They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list. If you delete them, you will have to redownload them if you want to update LOTF so it's recommended to keep them.
 
@@ -32,10 +33,20 @@ If either of them were missing on your system, they will be installed now. After
 
 ## Skyrim SE Setup
 
-**LOTF requires the latest version of Skyrim SE.** For clarification, this latest version is a post-AE release (currently `1.6.353.0`). A copy of your vanilla executables downgraded to 1.5.97.0 will be placed in LOTF's custom stock game folder, but in order to install the list you need to have an up-to-date Steam installation of the game. The Skyrim AE DLC itself is not required and not supported outside the optional Creation Club profile (instructions on how to use that will be linked later).
+**LOTF requires the latest version of Skyrim SE.** This is currently `1.6.640.0` on Steam or `1.6.659.0` on GOG.
 
-- If you are on **Skyrim SE 1.6.353.0**, you can install LOTF without any further steps.
-- If you are on any older version, please verify files through Steam to install the update.
+Because LOTF is using the default game folder (with the Root Builder plugin), it is crucial that this folder is located **outside** any UAC-protected folders. To ensure 
+
+
+(FULL REINSTALL INSTRUCTIONS NEEDED)
+
+
+
+
+
+
+- If you are on the latest version, you can install LOTF without any further steps.
+- If you are on any older version, please verify files through Steam to install the update or reinstall the game through Steam.
 
 **Please make sure to launch the game at least once before running Wabbajack.** If you just updated or (re)installed the game, this is necessary for setting up registry keys as modding tools will otherwise be unable to recognise the game. You can quit from the main menu.
 
@@ -73,7 +84,7 @@ In the installation window, you will need to define two folders:
 
 **Installation Location** is where LOTF will be installed to. Choose a high-level folder such as `C:\Legends of the Frost\` that is outside UAC protected folders (Program Files, Documents, etc).
 
-**Download Loaction** is where the downloaded mod archives will be stored. By default, they will be placed within your main LOTF folder, but you can change the file path if you want to keep the files elsewhere.
+**Download Location** is where the downloaded mod archives will be stored. By default, they will be placed within your main LOTF folder, but you can change the file path if you want to keep the files elsewhere.
 
 Once both folder locations have been set, click the button on the right to begin the installation process.
 
