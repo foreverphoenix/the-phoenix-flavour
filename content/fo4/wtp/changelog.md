@@ -8,7 +8,7 @@ description: >
 
 ## Release 2.8
 
-> TBD
+> 19/02/2023
 
 While I was gone for a few months, the FO4 modding community was busy and a few new interesting releases as well as a ton of updates have now made their way to WTP. Most notably, the LOD generation process has become more intricate for better results (TexGen for FO4 is a thing now).
 
