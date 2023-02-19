@@ -6,6 +6,48 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.0
+
+> 19/02/2023
+
+**This update requires a new game.**
+
+LOTF 3.0 is the culmination of a year's worth of updates and expansions, finally wrapping up the list as a complete vanilla-like experience. It was extended to cover the entirety of the Anniversary Edition content, i.e. all creations; however, my philosophy on creations in LOTF has somewhat changed. All integration mods were removed, leaving only fixes and tweaks which is more in line with LOTF's overall concept. You get a plug-and-play experience of the original thing, a little prettier and minus some annoyances.
+
+*This update took a ridiculously long time to complete. I originally scheduled it for September 4, 2022, which would have been the one year anniversary of the list, but then university happened (oh no! how could I have possibly forseen that?) and everything got derailed. Specifically, this means that all work on LOTF 3.0 was done with significant gaps in between sessions and often at times when I hadn't done any modding in a bit. Then, in January 2023, I tore it all down and started from scratch. Development on this version was turbulent to say the least, but I am quite pleased with the result and hope you will be, too!*
+
+#### Major Changes
+
+*This is not an exhaustive list of changes.*
+
+[Full mod list on Load Order Library](https://loadorderlibrary.com/lists/legends-of-the-frost).
+
+- **Skyrim version:** Now running Skyrim SE 1.6.640 with SKSE 2.2.3 (latest), updated all relevant mods.
+- **Creations:** All creations are supported and *required*; light tweaks were added, integration removed.
+- **Files:** Using Root Builder to manage the root folder files, fully self-contained and no more manually moving files.
+- **Overall size:** Slimmed down the list, no copy of the game files and no tools are included (68GB > 34GB).
+- **Ease of use:** LOTF 3.0 is more plug-and-play and less customisable than previous versions.
+- **Compatibility:** Optional support for the GOG version and for Windows 7 users was added.
+- **WACCF:** Yes, by popular request, the mod [Weapons, Armor, Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) was removed.
+- **Better visuals:** Both textures (Skyland!) and distant terrain (snow!) saw substantial improvements.
+- **World map:** Higher quality version of the Skyrim map plus new maps + markers for other worldspaces.
+
+LOTF 3.0 switched from **Wander** to **RAID Weathers** which is a gorgeous weather overhaul with the added benefit of having been optimised for stealth gameplay in combination with **Realistic AI Detection**. As such LOTF is now one of relatively few mod lists with a weather + lighting combination specifically for balanced detection.
+
+Considering the enormous amount of relatively minor mesh tweaks released recently, I had to reconsider my approach to such mods. Ultimately, I decided to take the same one as with retextures; that is, use a small amount of comprehensive mesh overhauls without diving too deeply into the tiny tweaks with a great deal of overlap requiring careful mod order management and occasionally patches. To keep LOTF from becoming too bloated, I removed some minor (though noticable) mesh tweaks and refrained from adding new ones. Not to worry though, SMIM and Assorted Mesh Fixes are here to stay. 
+
+I decided to remove [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) as it adds a whopping 8.3GBs and was thus the single largest mod. I understand that the audiophiles among you may be unhappy (you can easily re-add it!), but in the interest of slimming down the list it was a fairly easy decision.
+
+#### Website Changes
+
+The documentation for 3.0 was be heavily reworked:
+
+- The [Installation](/skyrim-se/lotf/installation/) page now once again covers a full clean install for Skyrim SE as LOTF 3.0 is using the default game folder. Instructions for the GOG version were added as well.
+- The [Customisation](/skyrim-se/lotf/customisation/) was updated to reflect the updated widescreen support and optional tweaks sections.
+- The [Documentation](/skyrim-se/lotf/documentation/) was updated for LOTF 3.0 changes (though it could still use some expanding).
+- The [Screenshots](/skyrim-se/lotf/screenshots/) were replaced with new shots from LOTF 3.0 with RAID Weathers + WISE ENB.
+- The instructions for adding Creations, Obsidian Weathers, and The Truth ENB were all removed as they are now redundant.
+
 ## Release 2.9
 
 > 11/08/2022
