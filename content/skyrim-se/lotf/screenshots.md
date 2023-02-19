@@ -8,130 +8,36 @@ description: >
 
 ![LOTF Main Menu](/Pictures/lotf/screenshots/lotf-main-menu.jpg)
 
-## LOTF Wander
+![LOTF Screenshot](/Pictures/lotf/screenshots/1.jpg)
 
-### Leaving Helgen
+![LOTF Screenshot](/Pictures/lotf/screenshots/2.jpg)
 
-![LOTF Leaving Helgen](/Pictures/lotf/screenshots/lotf-leaving-helgen.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/3.jpg)
 
-### Riverwood
+![LOTF Screenshot](/Pictures/lotf/screenshots/4.jpg)
 
-![LOTF Riverwood](/Pictures/lotf/screenshots/lotf-riverwood.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/5.jpg)
 
-### Bleakfalls Barrow
+![LOTF Screenshot](/Pictures/lotf/screenshots/6.jpg)
 
-![LOTF Bleakfalls Barrow](/Pictures/lotf/screenshots/lotf-bleakfalls-barrow.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/7.jpg)
 
-### Whiterun City
+![LOTF Screenshot](/Pictures/lotf/screenshots/8.jpg)
 
-![LOTF Whiterun City](/Pictures/lotf/screenshots/lotf-whiterun-city.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/9.jpg)
 
-### Nocturnal Swamp
+![LOTF Screenshot](/Pictures/lotf/screenshots/10.jpg)
 
-![LOTF Nocturnal Swamp](/Pictures/lotf/screenshots/lotf-nocturnal-swamp.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/11.jpg)
 
-### Tundra Road
+![LOTF Screenshot](/Pictures/lotf/screenshots/12.jpg)
 
-![LOTF Tundra Road](/Pictures/lotf/screenshots/lotf-tundra-road.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/13.jpg)
 
-### Rift Forest
+![LOTF Screenshot](/Pictures/lotf/screenshots/14.jpg)
 
-![LOTF Rift Forest](/Pictures/lotf/screenshots/lotf-rift-forest.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/15.jpg)
 
-### Volcanic Tundra
+![LOTF Screenshot](/Pictures/lotf/screenshots/16.jpg)
 
-![LOTF Volcanic Tundra](/Pictures/lotf/screenshots/lotf-volcanic-tundra.jpg)
-
-### Solitude Gates
-
-![LOTF Solitude Gates](/Pictures/lotf/screenshots/lotf-solitude-gates.jpg)
-
-### Distant Solitude
-
-![LOTF Distant Solitude](/Pictures/lotf/screenshots/lotf-distant-solitude.jpg)
-
-### Rift Lake
-
-![LOTF Rift Lake](/Pictures/lotf/screenshots/lotf-rift-lake.jpg)
-
-### Meridia's Temple
-
-![LOTF Meridia's Temple](/Pictures/lotf/screenshots/lotf-meridias-temple.jpg)
-
-### Falkreath Forest
-
-![LOTF Falkreath Forest](/Pictures/lotf/screenshots/lotf-falkreath-forest.jpg)
-
-### Whiterun Tundra
-
-![LOTF Whiterun Tundra](/Pictures/lotf/screenshots/lotf-whiterun-tundra.jpg)
-
-### Rainy Ruins
-
-![LOTF Rainy Ruins](/Pictures/lotf/screenshots/lotf-rainy-ruins.jpg)
-
-### Valtheim View
-
-![LOTF Valtheim View](/Pictures/lotf/screenshots/lotf-valtheim-view.jpg)
-
-### Hidden Path
-
-![LOTF Hidden Path](/Pictures/lotf/screenshots/lotf-hidden-path.jpg)
-
-### Solitude Arch
-
-![LOTF Solitude Arch](/Pictures/lotf/screenshots/lotf-solitude-arch.jpg)
-
-### Frosty Night
-
-![LOTF Frosty Night](/Pictures/lotf/screenshots/lotf-frosty-night.jpg)
-
-### Nordic Ruin
-
-![LOTF Nordic Ruin](/Pictures/lotf/screenshots/lotf-nordic-ruin.jpg)
-
-### Nighttime Tundra
-
-![Nighttime Tundra](/Pictures/lotf/screenshots/lotf-nighttime-tundra.jpg)
-
-### Blood Moon
-
-![Blood Moon](/Pictures/lotf/screenshots/lotf-blood-moon.jpg)
-
-### Darkwater Lake
-
-![Darkwater Lake](/Pictures/lotf/screenshots/lotf-darkwater-lake.jpg)
-
-## LOTF Obsidian
-
-### Water Reflections
-
-![Water Reflections](/Pictures/lotf/screenshots/lotf-water-reflections.jpg)
-
-### Dreary Markarth
-
-![Dreary Markarth](/Pictures/lotf/screenshots/lotf-dreary-markarth.jpg)
-
-### Reach Night
-
-![Reach Night](/Pictures/lotf/screenshots/lotf-reach-night.jpg)
-
-### Skyhaven Temple
-
-![Skyhaven Temple](/Pictures/lotf/screenshots/lotf-skyhaven-temple.jpg)
-
-### Dwemer Dungeon
-
-![Dwemer Dungeon](/Pictures/lotf/screenshots/lotf-dwemer-dungeon.jpg)
-
-### Snowy Sky
-
-![Snowy Sky](/Pictures/lotf/screenshots/lotf-snowy-sky.jpg)
-
-### Morthal Night
-
-![Morthal Night](/Pictures/lotf/screenshots/lotf-morthal-night.jpg)
-
-### Valthume Dungeon
-
-![Valthume Dungeon](/Pictures/lotf/screenshots/lotf-valthume-dungeon.jpg)
+![LOTF Screenshot](/Pictures/lotf/screenshots/17.jpg)
