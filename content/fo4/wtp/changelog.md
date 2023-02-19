@@ -6,17 +6,75 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.8
+
+> TBD
+
+While I was gone for a few months, the FO4 modding community was busy and a few new interesting releases as well as a ton of updates have now made their way to WTP. Most notably, the LOD generation process has become more intricate for better results (TexGen for FO4 is a thing now).
+
+Good news, Steam Deck people! Follow [this excellent guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Fallout-4:-Welcome-to-Paradise) to install WTP on your Steam Deck and play on the go.
+
+Tools (FO4Edit, FO4LODGen, etc) are no longer included with WTP. This is a change I am slowly making across all my lists (with the obvious exception of SME) as it is becoming quite cumbersome and, frankly, unnecessary to maintain 4+ different installations of the same tools. If you want to modify anything about WTP (or my other lists) then you should know what you are doing; that includes knowing which tools you need and how to install them.
+
+#### Mod Changes
+
+- Added Organized Militia - Lightweight Minuteman Overhaul (outfits only).
+- Added Fallout 4 Particle Patch - No More Glowing Objects
+- Added Companion Command Menu Overhaul
+- Added Ultra Wide Interface (21x9) (disabled by default)
+- Added Minutemen Watchtower
+- Added Subjectively Improved Fonts (disabled by default)
+- Added Discord Rich Presence (disabled by default)
+- Added Unscrappable Tools (disabled by default)
+- Added Diamond City Radio Extended - WTP Patch
+- Added a few minor conflict resolution patches
+- Updated ENB Binaries to 0.487
+- Updated Root Builder to 4.4.2
+- Updated Profile Sync to 1.1.1
+- Updated MCM Settings Manager to 1.2
+- Updated Workshop Framework to 2.3.4
+- Updated FallUI - HUD to 1.7.1
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 3.1
+- Updated Configurable Hotkeys to 2.1.5
+- Updated Keep Radiants in the Commonwealth - UFO4P Version to 1.2
+- Updated LOST Audio Tweaks to 4.1.2hotfix
+- Updated Diamond City Radio Extended to 4.0.1
+- Updated LOST Audio Tweaks - DCRE RAO Patch to LAT1.07
+- Updated Far Object LOD Improvement Project to 4.1
+- Updated Optimized Vanilla Tree LODs to 3.1
+- Updated Far Harbor 3D Tree LODs to 3.0
+- Updated Previsibines Repair Pack to 0.65.4
+- Updated the Conflict Resolution Patch
+- Removed Binary Speech Checks
+- Removed Glowing Glass Fix (superceded by Gloomy Glass)
+- Removed TRUBY9 ULTRAWIDE
+- Removed Previsibines Repair Pack - Hotfix
+- Applied recommended INI tweaks for FOLIP (may improve performance)
+- Applied workaround for flickering bloom / light reflections (disabled Use Original Bloom in ENB)
+- Added fov 90 90 to the automatically executed console commands
+- Modified lyrConf.xml to add a roll-up menu *if* Unscrappable Tools is active
+- Fixed wrong UI colour settings in the performance Fallout4Prefs.ini
+- Generated LOD textures with TexGen
+- Regenerated object and terrain LOD
+
+#### Website Changes
+
+- **Installation:** Added link to the Steam Deck installation guide.
+- **Installation:** Minor modifications and improvements.
+- **Installation:** Updated the widescreen support section (screenshot).
+- **Installation:** Added Optional Tweaks section (for mods that are disabled by default).
+
 ## Release 2.7
 
 > 05/11/2022
 
-With the addition of More Sensible Modification Perk Requirements, certain upgrades will now be more different procure. This is especially true for scopes which require the Science perk. In the early game, a good tactic is picking up scoped guns from enemies and taking off the scope to put them on your own weapons.
+With the addition of **More Sensible Modification Perk Requirements**, certain upgrades will now be more different procure. This is especially true for scopes which require the Science perk. In the early game, a good tactic is picking up scoped guns from enemies and taking off the scope to put them on your own weapons.
 
 Plenty of new options were added to Configurable Hotkeys in recent updates. Feel free to check through the MCM and set up hotkeys for whatever you find useful.
 
 The Allow Renaming option in the What's Your Name? MCM is now enabled in the WTP MCM Preset. If you do not like the name that was randomly generated for a settler, you can now cycle through the list with the same hotkey until you have found a better one.
 
-I removed the specific MCM settings for ultrawide support as the FallUI suite of mods now automatically adjusts to the monitor.
+I removed the specific MCM settings for ultrawide support as the FallUI suite of mods now automatically adjusts to your resolution.
 
 **This update is save-safe.**
 

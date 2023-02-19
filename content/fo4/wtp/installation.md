@@ -18,6 +18,8 @@ While Wabbajack takes care of 99% of the work, there are still some steps that n
 
 Grab a glass of Nuka Cola and let's get started.
 
+**Playing on Steam Deck?** [Follow these instructions instead.](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Fallout-4:-Welcome-to-Paradise)
+
 ### MO2 Prerequisites
 
 Mod Organizer 2 requires the Microsoft Visual C++ Redistributable and .NET Framework 4.8, two basic packages. Chances are you already have them installed, but please grab the two installers linked below and run them. If the packages are already present on your system, the installers should notify you.
@@ -31,7 +33,7 @@ If either of them were missing on your system, they will be installed now. After
 
 In order to ensure that your Fallout 4 installation is pristine and vanilla, we are going to completely re-install the game. This is especially important if you have modded the game previously as left-over files might interfere with your WTP installation.
 
-**If you never modded Fallout 4 and/or never installed other Wabbajack lists, you may skip this step.** However, I still recommend you verify the game files through Steam in that case.
+**If you never modded Fallout 4 and/or never installed other Wabbajack lists, you may skip this step.** However, I still recommend that you verify the game files through Steam.
 
 - Uninstall **Fallout 4** through Steam
 - Navigate to your Steam directory: `C:\Program File x86\Steam\steamapps\common\`.
@@ -47,11 +49,23 @@ In order to ensure that your Fallout 4 installation is pristine and vanilla, we 
 - If you have an ongoing vanilla playthrough, back up the **Saves** folder.
 - Delete everything inside the **Fallout4** folder.
 
+## Official High Resolution Texture Pack
+
+Bethesda published a free 55GB texture pack with upscaled 4K textures that are nowhere near worth the hard drive space, especially not when compared to the higher quality textures from various mods that are featured in WTP.
+
+**Disabling the HD Texture Pack is mandatory** (you will experience visual glitches if you fail to do so).
+
+- Open **Steam** and go into your **Game Library**.
+- Go to the **Fallout 4** page and click **Manage my 8 DLC**.
+- Uncheck **Fallout 4 - High Resolution Texture Pack** in the list and click **Save**.
+
+![Disable HD DLC](/Pictures/wtp/installation/disable-hd-dlc.png)
+
 ## Reinstallation
 
-The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC protected folders (such as `C:\Program Files` or `C:\Program Files x86`) for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people that disregard this warning and use UAC protected folders anyway.
+The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC protected folders (such as `C:\Program Files\` or `C:\Program Files x86\`) for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with. Most Wabbajack list authors, myself included, will not provide support for people that disregard this warning and use UAC protected folders anyway.
 
-Note that this does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam` which is completely fine.
+Note that this does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam\` which is completely fine.
 
 Additionally, Fallout 4 and Mod Organizer 2 should be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
 
@@ -120,22 +134,12 @@ In order to prevent Creation Club updates from interrupting your playthrough and
 
 ![Steam Disable Auto Updates](/Pictures/wtp/installation/steam-disable-auto-updates.png)
 
-## Official High Resolution Texture Pack
-
-Bethesda published a free 55GB texture pack with upscaled 4K textures that are nowhere near worth the hard drive space, especially not when compared to the higher quality textures from various mods that are featured in WTP. If you had the HD DLC installed previously, you need to disable it in Steam.
-
-- Open **Steam** and go into your **Game Library**.
-- Go to the **Fallout 4** page and click **Manage my 8 DLC**.
-- Uncheck **Fallout 4 - High Resolution Texture Pack** in the list and click **Save**.
-
-![Disable HD DLC](/Pictures/wtp/installation/disable-hd-dlc.png)
-
 ## Creation Club Content
 
-If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they may still be present in your Data folder. Some select "creations" are supported in WTP as of version 1.6 but I recommend you install them as separate mods later on.
+If you bought any "creations" from the Creation Club (or grabbed some while they were available for free), they may still be present in your Data folder. The Modular Military Backpack CC si supported in WTP as of version 1.6 but if you want to use it I recommend you install it as a separate mod later on (there are instructions further down on this page).
 
-- Navigate to `steamapps\common\Fallout4\Data` and cut (CTRL + X) all files starting with **cc**.
-- Paste (CTRL + V) all files to `Fallout 4 Modding\Backups\Creation Club`.
+- Navigate to `\steamapps\common\Fallout4\Data\` and cut (CTRL + X) all files starting with **cc**.
+- Paste (CTRL + V) all files to a convenient backup location.
 
 ## Wabbajack Installation
 
@@ -148,14 +152,14 @@ If you bought any "creations" from the Creation Club (or grabbed some while they
 - Once Wabbajack is installed and open, click on **Browse Modlists**.
 - Find **Welcome to Paradise** in the list and click the arrow to download.
 - Click the dots next to **Installation Location** and choose a path.
-- Choose an empty, high-level folder, e.g. `G:\Welcome to Paradise`.
+- Choose an empty high-level folder, e.g. `G:\Welcome to Paradise\`.
 
 The **Welcome to Paradise** installation folder:
 
 - **SHOULD** be on your SSD or otherwise fastest hard drive.
 - **CANNOT** be inside the Wabbajack installation folder.
 - **CANNOT** be inside the Fallout 4 installation folder.
-- **CANNOT** be inside `C:\Program Files` or `C:\Program Files x86`.
+- **CANNOT** be inside `C:\Program Files\` or `C:\Program Files x86\`.
 
 ### Download Location
 
@@ -269,9 +273,18 @@ If the resolution is not correct, change it and click the **SAVE** button at the
 
 ### Additional Mods
 
-In Mod Organizer 2, find the **ULTRAWIDE SUPPORT (21-9)** separator in the left pane and double-click to expand it. There are two mods below it. Activate both by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
+In Mod Organizer 2, find the **Ultrawide Support (21-9)** separator in the left pane and double-click to expand it. There are two mods below it. Activate both by checking the boxes. This will add an additional plugin to the load order which you do not need to adjust because it is empty and only exists to load an INI file.
 
 ![Ultrawide Mods](/Pictures/wtp/installation/ultrawide-mods.png)
+
+## Optional Tweaks
+
+You may have noticed a second highlighted separator in Mod Organizer 2 called **Optional Tweaks**. This section contains a few minor additions that are disabled by default, but you can enable any of the mods here whenever you like.
+
+- [No Smoldering Turrets](https://www.nexusmods.com/fallout4/mods/68814) removes the ugly fire animation from destroyed turrets.
+- [Subjectively Improved Fonts](https://www.nexusmods.com/fallout4/mods/67458) replaces all fonts in case you're tired of the vanilla ones.
+- [Discord Rich Presence](https://www.nexusmods.com/fallout4/mods/55384) adds more details to the Discord game activity feature. Shows your player name!
+- **Unscrappable Tools** makes ballpen hammers, adjustable wrenches, etc, unscrappable so it is easier to save them up for quests, crafting, or building.
 
 ## Creation Club
 

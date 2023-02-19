@@ -64,7 +64,7 @@ If you are looking for any of the following features, **Welcome to Paradise** ma
 
 ## What is Wabbajack?
 
-Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. With Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
+Due to the lack of sharing permissions for the vast majority of mods, traditional mod packs do not exist for Bethesda games. However, with Wabbajack it is possible to recreate one user's mod list on another's computer without redistributing any of the mod files. For more information, please check out the [Wabbajack website](https://www.wabbajack.org/) or join the official [Discord server](https://discord.com/invite/wabbajack).
 
 **Using Wabbajack is much easier than following a manual installation guide but it doesn't absolve you from reading.**
 

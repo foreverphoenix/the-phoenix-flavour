@@ -15,6 +15,8 @@ As usual, I have used [BethINI](https://www.nexusmods.com/fallout4/mods/67) to g
 - **TAA** is used for anti aliasing (as opposed to FXAA)
 - **Godrays** are disabled in the performance INIs
 
+The **TerrainManager** settings are recommended on the [FOLIP](https://www.nexusmods.com/fallout4/mods/61884) mod page.
+
 ### Fallout4.ini
 
 ```
@@ -46,6 +48,12 @@ iHUDColorR=96
 fPipboyEffectColorB=0.3920
 fPipboyEffectColorG=0.7220
 fPipboyEffectColorR=0.3760
+
+[TerrainManager]
+fBlockLevel0Distance=32768.0000
+fBlockLevel1Distance=65536.0000
+fBlockLevel2Distance=131072.0000
+fBlockMaximumDistance=262144.0000
 ```
 
 ## Visual Changes
