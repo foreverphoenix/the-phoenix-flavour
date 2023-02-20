@@ -45,9 +45,7 @@ So in LOTF 3.0 I decided to go for the third option and added [Skyland AIO](http
 
 Beyond these major overhauls, I elected to add only those mods that I consider absolutely essential for fixing various eye sores. This includes [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) and [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834) as well as [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052). Water was hugely improved by [Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182).
 
-I also added [Enhanced Vanilla Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008) to the mix, using the lush version for improved meshes and textures, and vastly improved LOD resources, but with the same colours as vanilla trees. With [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890), bark textures were significantly improved.
-
-LOTF uses the grass module for [Cathedral Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/21954) to overhaul vegetation without ruining performance. I fully acknowledge that the mod is not perfect (looking at you, Morthal Swamp).
+I also added [Enhanced Vanilla Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008) to the mix, using the lush version for improved meshes and textures, and vastly improved LOD resources, but with the same colours as vanilla trees. With [HD Vanilla Tree Bark - ESRGAN AI Upscale](https://www.nexusmods.com/skyrimspecialedition/mods/37890), bark textures were significantly improved. LOTF's current grass overhaul is taken from [Enhanced Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/18162) (though the rest of the Enhanced Landscapes package is not included). Its grass module matches Skyrim's original style beautifully.
 
 ## Character Appearance
 
