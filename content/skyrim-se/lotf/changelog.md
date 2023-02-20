@@ -6,6 +6,38 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.0.1
+
+> 20/02/2023
+
+Just a quick follow-up to the big release.
+
+What changed?
+
+I swapped back to Enhanced Landscapes Grass, for one. During 3.0 development I went back and forth a lot, to the point where my inability to settle on a grass overhaul was a major reason for why it took me so long to finish the update. Ultimately, I just kind of gave up and stuck with Cath Landscape; however, following some feedback and comparisons between EL/Cath, I decided to switch back after all. EL Grass is the better fit for LOTF.
+
+In addition, I also tweaked some aspects of the UI. Item descriptions should no longer be cut off and, while I was at it, I also downsized some of the other widgets.
+
+**This update is save safe.**
+
+#### Mod Changes
+
+- Added Custom Window
+- Added Enhanced Landscapes - Grass Overhaul
+- Added Discord Rich Presence (disabled by default)
+- Removed Cathedral Landscapes - Grass
+- Removed Cathedral Landscapes - ENB Complex Grass
+- Removed Cathedral Landscapes - Grass - Mipmap Fix
+- Removed Cathedral Landscapes - Grass - ModGroups
+- Removed Landscape Fixes For Grass Mods - Generic Grass Limiter
+- Updated Navigator - Navmesh Fixes to 1.4.4
+- Updated powerofthree's Tweaks to 1.8
+- Disabled ENBComplexGrass and ENBGrassCollision in WISE ENB (this will improve performance)
+- Fixed cut-off text on moreHUD widgets due to interaction with Better Third Person Selection
+- Fixed missing skyhud.txt in SkyHUD - Alternative White Dot Crosshair
+- Changed back to the default arrow count widget and slightly reduced its size
+- Downsized and slightly repositioned the moreHUD player widget
+
 ## Release 3.0
 
 > 19/02/2023
