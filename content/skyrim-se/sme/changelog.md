@@ -6,6 +6,92 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.0
+
+> TBD
+
+After a long hiatus, here's a major update for y'all.
+
+- Updated to SSE 1.6.640.0 (Steam) / SSE 1.6.659 (GOG)
+- Root Builder is now enabled by default
+- Cleaned non-vanilla files out of the Stock Game Folder
+
+I also re-arranged some separators.
+
+FYI, one of the added mods (Rock Traps Trigger Fixes) requires a new game.
+
+#### Mod Changes
+
+- Added updated MO2 plugin for GOG support
+- Added Creation Organizer
+- Added CK Fixes Update
+- Added FormList Manipulator
+- Added Payload Interpreter
+- Added Unique Map Weather
+- Added Keyboard Shortcuts Fix (SKSE Preloader)
+- Added Papyrus Tweaks NG
+- Added ConsolePlusPlus
+- Added Combat Music Fix NG
+- Added Animation Queue Fix
+- Added Magic Student (WIChangeLocation04) Quest Fix
+- Added Rock Traps Trigger Fixes
+- Added DynDOLOD - DLL
+- Added DynDOLOD - Scripts
+- Added Dynamic Animation Casting - NG
+- Updated Root Builder to 4.4.2
+- Updated Profile Sync to 1.1.1
+- Updated Crash Logger SSE AE VR to 1.8.0
+- Updated ENBSeries Binaries to 0.488
+- Updated PapyrusUtil SE - Modders Scripting Utility Functions (Steam) to 4.4
+- Updated Papyrus Extender to 5.5.0
+- Updated JContainers to 4.2.3
+- Updated Spell Perk Item Distributor (SPID) to 6.4.0
+- Updated Keyword Item Distributor to 2.2.0
+- Updated Sound Record Distributor to 1.3.0
+- Updated Base Object Swapper to 2.5.1
+- Updated MergeMapper to 1.4.0
+- Updated Scaleform Translation Plus Plus to 1.6.0
+- Updated Fuz Ro D-oh - Silent Voice to 2.3
+- Updated QUI to 0.3.2
+- Updated SSE Engine Fixes to 6.1.1
+- Updated Fix Note Icon for SkyUI to 1.2.6
+- Updated RaceMenu to 0.4.19.14
+- Updated More Informative Console to 1.1.0
+- Updated ConsoleUtilSSE to 1.4
+- Updated Console Commands Extender to 1.11
+- Updated NVIDIA Reflex Support to 1.1.2
+- Updated Auto Input Switch to 1.2.0
+- Updated Bug Fixes SSE to 9
+- Updated powerofthree's Tweaks to 1.8.0
+- Updated Scrambled Bugs to 20
+- Updated Equip Enchantment Fix to 1.3.6
+- Updated Actor Limit Fix to 8
+- Updated NPC AI Process Position Fix - NG to 1.1.1
+- Updated Animated Static Reload Fix - NG to 1.0.1
+- Updated HD Local Map to 1.0.2
+- Updated Mfg Fix to 1.6.1
+- Updated Shadow Boost to 1.3
+- Updated ENB Helper to 2.2
+- Updated ENB Input Disabler to 1.0.3
+- Updated ENB Helper Plus to 1.0.4
+- Updated Particle Patch for ENB to 1.2.3
+- Updated CritterSpawn Congestion Fix to 1.3
+- Updated Assorted Mesh Fixes to 0.78
+- Updated DynDOLOD Resources to 3 Alpha 31
+- Updated Animation Motion Revolution to 1.5.3
+- Updated Dynamic Animation Replacer to 1.1.3
+- Updated SSE NIF Optimizer to 3.2.0
+- Updated Synthesis to 0.25.3
+- Updated zEdit to 0.6.7
+- Removed Creation Organizer
+- Removed Show Animation Command (no 1.6.640+ support)
+- Removed Keyboard Shortcuts Fix
+- Removed Combat Music Fix SKSE
+- Config files are now all separated from their "parent" mod and suffixed with "- Settings"
+- Enabled SleepWaitTime in the SSE Engine Fixes - Settings
+- Moved ENB files into MO2 (using Root Builder folder structures)
+- Fixed zEdit file path
+
 ## Release 1.6
 
 > 03/11/2022
