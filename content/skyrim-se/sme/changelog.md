@@ -8,7 +8,7 @@ description: >
 
 ## Release 2.0
 
-> TBD
+> 22/02/2023
 
 After a long hiatus, here's a major update for y'all.
 
