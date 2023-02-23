@@ -6,9 +6,24 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.1.1
+
+> 23/02/2023
+
+So turns out that I, at some point, fucked up the SSE Display Tweaks config file which should NOT replace the default one, but add to it. Even if you are not installing this update (which should be true for all existing users), please rename the config file in the SSE Display Tweaks - Settings mod to **SSEDisplayTweaks_Custom.ini** and reinstall the main SSE Display Tweaks mod to restore the full INI. Sorry for the inconvenience.
+
+Also I re-arranged the separators again, distributing the CC-related mods to existing sections. They are still of by default though.
+
+#### Mod Changes
+
+- Added Staves (Creation) - Minor Fixes
+- Added CC Horse Armor Stays Token
+- Removed Horse Armor No Longer Disappears
+- Fixed SSE Display Tweaks config file
+
 ## Release 2.1
 
-> 23/02/2022
+> 23/02/2023
 
 I have begun work on a visuals-only mod list based on SME and immediately felt the need to improve the baseline. After deciding to adopt a standardised system of separators across my various setups, I modified the ones in SME accordingly and, while I was at it, I also switched up the garish colours. MO2 is prettier now, yay.
 
