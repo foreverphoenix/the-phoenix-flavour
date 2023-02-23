@@ -6,6 +6,29 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.1
+
+> 23/02/2022
+
+I have begun work on a visuals-only mod list based on SME and immediately felt the need to improve the baseline. After deciding to adopt a standardised system of separators across my various setups, I modified the ones in SME accordingly and, while I was at it, I also switched up the garish colours. MO2 is prettier now, yay.
+
+Most importantly, I added the **Essential Mods - Creation Club** section with a handful of mods that I consider, well, essential when using any creations. They are all optional and disabled by default; the AE DLC is no requirement for SME.
+
+#### Mod Changes
+
+- Added Unofficial Skyrim Creation Club Content Patch
+- Added Myrwatch - Editable Home Cells (Cell Bug Workaround)
+- Added Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)
+- Added SkyUI - Survival Mode Integration
+- Added Survival Mode Prompt Removed
+- Added Arcane Blacksmith's Apron - Hood Fixes
+- Added Nchuanthumz Papyrus Load Fix
+- Added Horse Armor No Longer Disappears
+- Added Nix-Hound Eyes Fix (Creation Club Nixhound Patch)
+- Updated Papyrus Tweaks NG to 4.1.0
+- Updated DynDOLOD to 3 Alpha 116
+- Shuffled around some mods and separators
+
 ## Release 2.0
 
 > 22/02/2023
