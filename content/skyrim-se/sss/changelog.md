@@ -6,6 +6,100 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.16.2 RC 1
+
+> 2023-03-05
+
+It's been a few weeks since the last release candidate and we've found some issues that have been ironed out. The Uncapper should work as intended now with its latest update, Hulking Draugr shouldn't lower your attack speed into oblivion, and Simon has released a handful of fixes and updates before taking a well-deserved break. I'm still not entirely comfortable calling it a full release but we're close. Provided there's no huge issues with this update, it will go live on Wabbajack.
+
+In other news, Phoenix has returned from their break! Alongside that news are changes to how they're approaching TPF 5.0 and their other lists and those changes will eventually trickle down into SSS. For instance, there will be a visuals-only list that will essentially replace the visuals here once it's released. I've recently taken visuals into my own hands with this release candidate but honestly I regret it and will love to put that back into Phoenix's hands. On that note, I've added the new xavbio armor and weapons textures where they've been patched for *Modular Armory*.
+
+Other major additions for this release include a number of quality of life mods in the crafting world such as *Recipe Auto-Learn* and *Cooking Categories Improvement.* Crafting menus all around should be nicely sorted and discovering new alchemical effects should be a smidge less trial and error.
+
+**This update is safe-save.** Just save in an interior cell before updating due to the change in DynDOLOD outputs.
+
+Also, full disclosure, Lux updated everything in the final moments before pushing this update so I haven't had time to properly test out the changes (which haven't even been posted at this time) or re-run the LODs. There might be minor issues. This is precisely the type of thing I want to avoid by letting Phoenix handle the visuals.
+
+<details>
+
+#### Changes
+
+- **SKSE Plugins:** Added Inventory Interface Information Injector
+- **SKSE Plugins:** Added Recipe Auto-Learn
+- **Interface:** Added Versatile Item and Group Re-Assignment
+- **Interface:** Added Cooking Categories Improvement
+- **Weather & Lighting:** Removed Enhanced Volumetric Lighting and Shadows
+- **Landscape:** Removed Majestic Mountains - More Accurate Collision - AME Patch
+- **Landscape:** Added Enhanced Rocks and Mountains - Majestic Mountains Patch
+- **Trees, Grass, & Plants:** Added Cathedral - 3D Nightshade
+- **Trees, Grass, & Plants:** Added Cathedral - 3D Dragons Tongue
+- **Trees, Grass, & Plants:** Merged ENB Light Patch with Caveworm Plate Retexture
+- **Apparel & Weapons:** Removed Modular Armory - Male Horns for Female Iron Helmet
+- **Apparel & Weapons:** Added Iron Armors and Weapons Retexture
+- **Apparel & Weapons:** Added Modular Armory - Iron Armors and Weapons Retexture Patch
+- **Apparel & Weapons:** Added Steel Armors and Weapons Retexture
+- **Apparel & Weapons:** Added Modular Armory - Steel Armors and Weapons Retexture Patch
+- **Apparel & Weapons:** Added Orcish Armors and Weapons Retexture
+- **Apparel & Weapons:** Added Modular Armory - Orcish Armors and Weapons Retexture Patch
+- **Balance & Crafting:** Added Alchemy Recipe Expansion
+- **Balance & Crafting:** Added Alchemy Recipe Expansion - Book Covers Skyrim Patch
+- **Balance & Crafting:** Added Alchemy Recipe Expansion - Apothecary Patch
+- **Non-Player Characters:** Added Vampire Lines Expansion
+- **Non-Player Characters:** Added Vampire Lines Expansion - Orc Addon
+- **Combat & Encounters:** Added Locational Encounter Zones
+- **Conflict Resolution:** Hid 'Combat End Reset'spell from Seeking Out Sneaks from the effects menu
+
+#### Updates
+
+- Updated DynDOLOD to 3.00 Alpha-118
+- Updated ENBSeries to 0.488
+- Updated Root Builder to 4.4.2
+- Updated Papyrus Tweaks to 4.1.0
+- Updated Skyrim Landscape and Water Fixes to 7.6
+- Updated powerofthree's Tweaks to 1.8
+- Updated Bash Bug Fix to 3.0.0
+- Updated Skyrim Skill Uncapper to 2.1.5
+- Updated DynDOLOD Resources to 3.00 Alpha-31
+- Updated Embers XD to 2.7.2
+- Updated Parallax Spell Impacts 1.5
+- Updated Majestic Mountains - Simplicity of Snow Patch to 1.1
+- Updated Water for ENB to 1.76
+- Updated Skyland - Happy Little Trees Bark to 1.2
+- Updated Modular Armory to 1.3.1
+- Updated Mysticism - A Magic Overhaul to 2.2.2
+- Updated Aetherius - A Race Overhaul to 2.10.4
+- Updated Canis Hysteria - The Werewolf Disease to 1.0.5
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.9.1
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.1.2
+- Updated More Craftable Equipment to 1.4
+- Updated AI Overhaul to 1.8.3
+- Updated Bandit Lines Expansion to 1.07
+- Updated Civil War Lines Expansion to 1.06
+- Updated NPCs Wear Amulets of Mara to 2.03
+- Updated The Dragon Cult - A Draugr Overhaul to 1.2.1
+- Updated Headhunter - Bounties Redone to 1.43
+- Updated Survival Mode Improved to 1.0.10
+- Updated Skyrim Extended Cut - Saints and Seducers to 1.0.0.5
+- Updated Saints & Seducers - Mysticism Rebalance to 2.2
+- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.2
+- Updated Mysticism - Survival Spells Addon to 1.0.2
+- Updated Hand to Hand - An Adamant Addon to 1.4.4
+- Updated East Empire Company Armor to 2.0.0.3
+- Updated NPC Animation Remix to 1.3
+- Updated Tamrielic Distribution to 1.3
+- Updated Lux to 6.0
+- Updated Lux Via to 1.6
+- Updated Lux Orbis to 3.2
+
+#### Outputs
+
+- Regenerated Left Hand Weapon Meshes
+- Regenerated LODGen
+- Regenerated TenGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.16.1 RC 3
 
 > 2023-02-13
@@ -17,6 +111,7 @@ It's been a little over a week and I've a short trip coming up so I wanted to pu
 <details>
 
 #### Changes
+
 - **Weather & Lighting:** Removed Pouring Rain
 - **Interiors:** Added Skyland Common and Upper Furniture
 - **Clutter:** Removed upperclass meshes and furniture from Rudy HQ - Miscellaneous
@@ -78,7 +173,6 @@ All in all, an update centered around mods with initializations.
 
 #### Outputs
 
-- Regenerated 
 - Regenerated DynDOLOD (and Performance)
 
 </details>
