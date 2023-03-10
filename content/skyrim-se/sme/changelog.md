@@ -6,6 +6,39 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.2
+
+> 10/03/2023
+
+It has recently been brought to my attention that the latest version of the Creation Kit and the updated version of CK Fixes *may* have some lingering issues. As a matter of precaution I decided to (for the time being) roll back to CK 1.5.73 and the original CK Fixes.
+
+Regarding the removal of Mannequin Management: Technically, the mod should have been redundant since Skyrim 1.6.629.0 in which Beth slapped the Immobile flag on the MannakinRace record (an undocumented change, of course). This should (?) resolve the issue.
+
+- Added ACMOS Road Generator
+- Added Creation Kit Fixes
+- Added Wider MCM Menu for SkyUI
+- Added Skyrim Ultimate Eye Meshes Ruhmastered
+- Added Ore Vein Texture Fix
+- Added Ore Vein Cube Map and Shader Fixes
+- Added Whiterun Fence Base Seam Fix
+- Added Farm Hat 01 Clipping Fix
+- Added Guild Master's Armor First Person Texture Fix
+- Added Glowing Mushroom Collision Fixes
+- Added No More Swimming In Air - Fixed Floating SwimIdle
+- Added Wider MCM Menu for SkyUI - Widescreen Fix (disabled by default)
+- Added ENB IMOD Separator (disabled by default)
+- Updated DynDOLOD to 3 Alpha 118
+- Removed Creation Kit Fixes Update
+- Removed Mannequin Management
+- Removed Cumulative Fix for Eye Meshes
+- Actually applied my custom ENB hotkeys as outlined in the documentation (oops)
+- Fixed minor issue in the mesh from Hearthfire Creep Cluster Fix to prevent random CTDs
+- Deleted change to the iron ore smelting recipe from Hearthfire Houses Building Fix
+- Restored some erroneously deleted meshes in Labyrinthian Shalidor's Maze Fixes
+- Reinstalled the Particle Patch for ENB to select the BSA-packed version
+- Removed redundant copy of the ENB binaries from the Tools folder
+- Rolled back the Creation Kit to 1.5.73
+
 ## Release 2.1.1
 
 > 23/02/2023
