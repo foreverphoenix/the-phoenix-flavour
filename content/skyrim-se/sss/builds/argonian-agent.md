@@ -296,7 +296,7 @@ Sometimes it's impossible to sneak up on everyone in a room but if it's possible
 * **Fear (Apprentice+):** *Living targets up to level 10 flee from combat for 30 seconds.*  
   A useful spell to have in your back pocket if you have a pressing need for less attention.
 
-* **Command (Adept+):** *Living targets up to level 15 are placed under your command for 30 seconds.*  
+* **Command (Adept+):** *Living targets up to level 15 are placed under your command for 30 seconds.*
   This gives you more control than *Frenzy* but you'll have to do something with your new companion before their senses return.
 
 * **Invisibility (Expert+):** *For 30 seconds, you cannot be seen or heard. Activating an object or attacking will break this spell.*  
@@ -342,7 +342,7 @@ This shout has wonderful uptime, starting at 66% and hitting 100% at the second 
 * **Poison Damage:** *Deals 4 Poison Damage per second for 10 seconds.*
 * **Paralyze:** *Living targets up to level 40 have a 25% chance to be paralyzed for 10 seconds.*
 
- Your weapon is just a vessle for your poisons so you'll definitely want to make your stab victim more susceptible to whatever you laced it with. Extra Poison doesn't hurt (you) but it doesn't benefit from perks. Lastly, paralysis can prevent a counter attack while the Poison does its work.
+Your weapon is just a vessel for your poisons so you'll definitely want to make your stab victim more susceptible to whatever you laced it with. Extra Poison doesn't hurt (you) but it doesn't benefit from perks. Lastly, paralysis can prevent a counter attack while the Poison does its work.
 
 #### Head
 
