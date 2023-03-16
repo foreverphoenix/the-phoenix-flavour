@@ -6,6 +6,31 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.3
+
+> 16/03/2023
+
+With this update I am including relevant ModGroups I created while working on Aurora / TPF. The CC ones are not for any of the four mandatory ones so they are off by default and they may also use different CRCs since I slightly modified some plugins. In that case, you can quickly update them in xEdit (or just disable all ModGroups altogether if they are not part of your workflow).
+
+- Added Initially Disable - SSEEdit Script
+- Added ModGroups file for several creations (hiding conflicts with the official master files)
+- Added ModGroups file for the Unofficial Skyrim Creation Club Content Patch
+- Added ModGroups file for Myrwatch - Editable Home Cells (Cell Bug Workaround)
+- Added Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
+- Added Scrambled Bugs - Script Effect Archetype Crash Fix
+- Added ModGroups file for Chillwind Depths CTD Fix
+- Added Sprint Sneak Movement Fix
+- Updated DynDOLOD to 3 Alpha 119
+- Updated Quest Journal Limit Fixer to 0.2.1
+- Updated Scrambled Bugs to 21.0
+- Updated Scrambled Bugs - Settings
+- Updated Rock Traps Trigger Fixes to 1.2
+- Updated Bug Fixes SSE to 10.0
+- Updated Actor Limit Fix to 9.0
+- Updated DynDOLOD Resources to 3 Alpha 32
+- Moved USSEP ModGroups file to separate mod folder
+- Expanded USSEP ModGroups to hide some conflicts with CCs
+
 ## Release 2.2
 
 > 10/03/2023
