@@ -6,6 +6,20 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.4
+
+> TBD
+
+**Website:** Fixed a bunch of broken links in the features list on the [Introduction](/skyrim-se/sme/introduction/) page. Thanks to /u/onedoor for making me aware!
+
+- Added SkyUI - Survival Mode Integration - Widescreen Fix (disabled by default)
+- Updated DynDOLOD to 3 Alpha 120
+- Updated ENBSeries Binaries (no version number change)
+- Removed Race Menu - Widescreen Fix (not needed anymore)
+- Separated config files from Enhanced Invisibility and Enhanced Reanimation
+- Config Files for Enhanced Invisibility and Enhanced Reanimation are no longer modified
+- Flagged SkyUI_SE.esp as ESL
+
 ## Release 2.3
 
 > 16/03/2023
