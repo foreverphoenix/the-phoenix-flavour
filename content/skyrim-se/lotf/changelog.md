@@ -6,6 +6,41 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.1
+
+> TBD
+
+#### Mod Changes
+
+- Added LOTF-themed splash screen for Mod Organizer 2
+- Added Keyword Item Distributor
+- Added Inventory Interface Information Injector
+- Added Scrambled Bugs - Script Effect Archetype Crash Fix
+- Added Sprint Sneak Movement Speed Fix
+- Added Ore Vein Cube Map and Shader Fixes
+- Added CC Horse Armor Stays Token
+- Added Cooking Categories Improvement
+- Added
+- Updated the ENBSeries Binaries to 0.488
+- Updated Quest Journal Limit Bug Fixer to 0.2.1
+- Updated Skyrim Landscape and Water Fixes to 7.6
+- Updated Scrambled Bugs to 21
+- Updated Scrambled Bugs - Settings
+- Updated Bug Fixes SSE to 10
+- Updated Actor Limit Fix to 9.0
+- Updated Rock Traps Trigger Fixes to 1.2
+- Updated Robber's Gorge Fixes to 1.3
+- Updated DynDOLOD Resources to 3 Alpha 32
+- Updated Skyland AIO to 4.1
+- Updated Icy Mesh Remaster to 2.02
+- Updated Skyrim Remastered - Glaciers and Ice - 4K Textures to 1.20
+- Removed Horse Armor No Longer Disappears
+- Removed Main Menu Design Replacer (was never supposed to be in LOTF)
+- Flagged SkyUI_SE.esp as ESL
+- Deleted out-of-scope edit to iron ingot crafting from Hearhtfires House Building Fix
+- Restored Majestic Mountains mountain textures
+- Fixed mod order for Majestic Mountains - LeanWolf's Better-Shaped Weapons Patch
+
 ## Release 3.0.1
 
 > 20/02/2023
