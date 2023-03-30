@@ -6,6 +6,21 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.8.1
+
+> TBD
+
+- Updated ENB Helper for Fallout 4 to 1.0.2
+- Updatd the Unofficial Fallout 4 Patch to 2.1.5
+- Updated Workshop Framework to 2.3.5
+- Updated Ownership Fixes to 1.3.2
+- Updated Fallout 4 Particle Patch - No More Glowing Objects to 1.1
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 3.2
+- Updated Fallout 4 Ultimate Window Overhaul to 4.1
+- Updated Far Object LOD Improvement Project to 4.2.1
+- Updated Previsibines Repair Pack to 65.5
+- Removed R2K's Gameplay Mods - Power Grid Tools (part of Workshop Framework)
+
 ## Release 2.8
 
 > 19/02/2023
