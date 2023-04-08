@@ -16,13 +16,13 @@ Check the complete mod list and load order on [Load Order Library](https://loado
 
 - A lean, basic setup clocking in at around 3.8GB plus less than 1GB of downloads.
 - Latest stable version of [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) installed with a separate copy of the vanilla game (Stock Game Folder).
-- A collection of handy Mod Organizer 2 plugins for various purposes, [see the full list here](/sme/documentation/#mo2-plugins).
-- All modding tools you could possibly need are included and pre-configured, [see the full list here](/sme/documentation/#modding-tools).
+- A collection of handy Mod Organizer 2 plugins for various purposes, [see the full list here](/skyrim-se/sme/documentation/#mo2-plugins).
+- All modding tools you could possibly need are included and pre-configured, [see the full list here](/skyrim-se/sme/documentation/#modding-tools).
 - [Skyrim Script Extender](https://skse.silverlock.org/) with a correctly configured SKSE.ini file and [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444).
 - All the essentials, including but not limited to [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000), [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604), and [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705).
-- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the [website](/sme/documentation/).
+- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the [website](/skyrim-se/sme/documentation/).
 - The foundational collections of tweaks and fixes: [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230), [po3's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073), [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532).
-- Additional fixes that should be relevant for and compatible with any setup with [further recommendations](/sme/recommendations/).
+- Additional fixes that should be relevant for and compatible with any setup with [further recommendations](/skyrim-se/sme/recommendations/).
 - Optionally includes full widescreen support with all relevant patches.
 - Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
 
