@@ -6,14 +6,19 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
-## Release 2.4
+## Release 2.3.1
 
-> TBD
+> 08/04/2023
 
 **Website:** Fixed a bunch of broken links in the features list on the [Introduction](/skyrim-se/sme/introduction/) page. Thanks to /u/onedoor for making me aware!
 
 - Added SkyUI - Survival Mode Integration - Widescreen Fix (disabled by default)
-- Updated DynDOLOD to 3 Alpha 120
+- Added Dragonactorscript Infinite Loop Fix
+- Updated Synthesis to 0.25.4
+- Updated DynDOLOD to 3 Alpha 122
+- Updated Spell Perk Item Distributor to 6.5.1
+- Updated Sprint Sneak Movement Speed Fix to 1.1.1
+- Updated DynDOLOD Resources to 33 Alpha 33
 - Updated ENBSeries Binaries (no version number change)
 - Removed Race Menu - Widescreen Fix (not needed anymore)
 - Separated config files from Enhanced Invisibility and Enhanced Reanimation
