@@ -8,7 +8,11 @@ description: >
 
 ## Release 3.1
 
-> TBD
+> 09/04/2023
+
+In addition to a number of mod updates, LOTF 3.1 is adding the new(ish) [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702), a mod to disable the bugged werewolf killmove, and a few other improvements that complement the setup. I also reverted to the (very pretty) default textures from Majestic Mountains as the Skyland textures (which I also quite like) were not made for MM 4. LODs were regenerated accordingly, also for Icy Mesh Remaster and Skyland updates.
+
+I have also removed the DynDOLOD performance output. The standard output is already using medium mesh rules and should be appropriate for most users. If you struggle with performance, you can always switch to the performance INI set for an extra ~10-15FPS. If that is not sufficient, disable the ENB preset. I adjusted the instructions for using the [performance INIs](/skyrim-se/lotf/customisation/#performance-inis) accordingly. This also means LOTF only has a single profile now.
 
 #### Mod Changes
 
@@ -16,30 +20,51 @@ description: >
 - Added Keyword Item Distributor
 - Added Inventory Interface Information Injector
 - Added Scrambled Bugs - Script Effect Archetype Crash Fix
+- Added Dragonactorscript Infinite Loop Fix
 - Added Sprint Sneak Movement Speed Fix
 - Added Ore Vein Cube Map and Shader Fixes
+- Added Disable Annoying Werewolf Killmove
 - Added CC Horse Armor Stays Token
-- Added Cooking Categories Improvement
-- Added
+- Added LOD Model Library for DynDOLOD
+- Added Prisoner Cart Opening Fix - Ruins Clutter Improved Patch
+- Added Afflicted Female Hand Fix
+- Added Improved Table Transition Animations
 - Updated the ENBSeries Binaries to 0.488
+- Updated Spell Perk Item Distributor to 6.5.2
 - Updated Quest Journal Limit Bug Fixer to 0.2.1
-- Updated Skyrim Landscape and Water Fixes to 7.6
+- Updated Skyrim Landscape and Water Fixes to 7.7
+- Updated Papyrus Tweaks NG to 4.1
 - Updated Scrambled Bugs to 21
 - Updated Scrambled Bugs - Settings
 - Updated Bug Fixes SSE to 10
 - Updated Actor Limit Fix to 9.0
 - Updated Rock Traps Trigger Fixes to 1.2
 - Updated Robber's Gorge Fixes to 1.3
-- Updated DynDOLOD Resources to 3 Alpha 32
+- Updated DynDOLOD Resources to 3 Alpha 34
+- Updated Particle Patch for ENB to 1.2.3
+- Updated Misc. SMIM Fixes to 1.4
+- Updated Assorted Mesh Fixes to 0.78
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.7.1
 - Updated Skyland AIO to 4.1
-- Updated Icy Mesh Remaster to 2.02
+- Updated Stones of Solitude - Majestic Mountains Rocks to 1.1
+- Updated Icy Mesh Remaster to 2.11
 - Updated Skyrim Remastered - Glaciers and Ice - 4K Textures to 1.20
+- Updated Misc Dialogue Edits to 1.8.6
+- Updated Thieves Guild Dialogue Fix - USSEP Compatible to 1.0.1
+- Updated Acoustic Space Improvement Fixes to 1.2.1
+- Updated Simple Dual Sheath to 1.5.6
 - Removed Horse Armor No Longer Disappears
 - Removed Main Menu Design Replacer (was never supposed to be in LOTF)
+- Removed Nemesis Creatures Behaviour Compatibility (not needed without Precision Creatures)
 - Flagged SkyUI_SE.esp as ESL
-- Deleted out-of-scope edit to iron ingot crafting from Hearhtfires House Building Fix
+- Deleted out-of-scope edit to iron ingot crafting from Hearthfires House Building Fix
 - Restored Majestic Mountains mountain textures
+- Set SleepWaitTime to False in SSE Engine Fixes
 - Fixed mod order for Majestic Mountains - LeanWolf's Better-Shaped Weapons Patch
+- Increased grass fade distance in both INI files
+- Regenerated Nemesis Output
+- Regenerated terrain LOD
+- Regenerated TexGen and DynDOLOD
 
 ## Release 3.0.1
 
