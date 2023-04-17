@@ -6,6 +6,38 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.17.0
+
+> 2023-04-17
+
+There's no changelog here. There was one, once. It was massive and I lost itin the ether. After that there were hundreds of other changes made. I should do better. Another time, perhaps.
+
+But this is a **huge** update, make no mistake. If you're coming from 4.16.0.*x*, just **make a new save file**. It's not save-safe. If you're coming from 4.16.1.*x* **you probably should also make anew save** but it's possibly salvageable. So what's changed?
+
+As I mentioned in the last release candidate, Phoenix is back and they've changed their approach to TPF 5.0. It will be built on **Aurora** which is built on **Skyrim Modding Essentials**. This makes it very streamlined for Phoenix, building each list right on top of the other. So I've gone ahead and tossed out pretty much everything visual and also made this list based off of Aurora's release candidate (RC5 currently). It looks fantastic and the textures were selected with a lot more care than I'm capable of. I still kept RAID Weathers (and RAID), Water for ENB, and The Vanilla ENB Two, so it's not exactly the same as Aurora, but it's close.
+
+The gameplay sections have moved around in anticipation for TPF 5.0. Phoenix has been posting their documentation and I can see how things are formatted for the future. I don't know which mods will be in TPF 5.0 so I've more or less smashed the current gameplay mod sections into their new separators and called it a day. When TPF comes out I will take notes on what direction Phoenix went in and adjust, but this list may just continue being an Aurora fork.
+
+- Could I have been more discerning and gone through every mod to see if I still liked it? Sure.
+- Will I do that at a later date? Probably.
+- What's this then? I suppose technically it's still a SSS 5.0 beta, but the official WJ download has been neglected for awhile so I thought to bring everyone up to speed with this release.
+- Does this need more polish? On the back end, sure. The game should play great and look great. I just need to clean things up from an organization perspective.
+
+No, seriously, at some point I'll get around to cleaning up the load order and sorting out the CR patches to look less work-in-progress. But since the list is based off of two of Phoenix's release candidates, perhaps work-in-progress is how it's supposed to look.
+
+Overall, I've taken Phoenix's visual overhaul from Aurora, trimmed down the added equipment from TPF 5.0, but otherwise kept its bug fixes and changes to quests/NPCs until TPF 5.0 is officially released. At which point I'll decide if I'm going to be a fork off Aurora or a fork off TPF and tweak accordingly.
+
+tl;dr changes from 4.16.2 RC 1:  
+- Visuals overhauled to match Aurora RC5
+- Phoenix's Weapons & Armor Overhaul removed in lieu for a restored Weapons, Clothing, and Clutter Fixes
+- Some of the added weapons and armor (e.g. Stalhrim Extra Crafting) was removed until balance can be better achieved
+- Optional difficulty modules removed, Aurora optionals maintained
+
+Thanks for listening to my TED Talk.
+
+Seriously though, **start a new save file.**
+
+
 ## Release 4.16.2 RC 1
 
 > 2023-03-05

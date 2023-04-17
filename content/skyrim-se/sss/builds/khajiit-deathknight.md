@@ -33,12 +33,12 @@ Lunar Blessing: You move 10% faster and take 50% less damage from falling. You a
   * **Defensive:** Block, Heavy Armor  
   * **Utility:** Enchanting, Security
 * **Attributes:**  
-You'll need health to stand toe to toe with foes, magicka to maintain your minions, and stamina to swing your axe. There's not too much wiggle room here, unfortunately.
-  * **Health:** 4 (40%)
-  * **Magicka:** 3 (30%)
-  * **Stamina:** 3 (30%)
+You'll need Health to stand toe to toe with foes, Magicka to maintain your minions, and Stamina to swing your axe. There's not too much wiggle room here, unfortunately.
+  * **Health:** 4
+  * **Magicka:** 3
+  * **Stamina:** 3
 
-You're a resourceful kitten first and foremost, and little is off the table when it comes to defending yourself. Raise a fallen enemy to fight their former allies if need be, then swoop in for the killing blow on the weakened foe. Eventually you'll be a enduring juggernaut of your own, keeping your opponents occupied in melee while your thralls ravage from the flank. And when you master the arts of enchanting and necromancy, you'll be able to equip your permanent minions in masterfully imbued gear, making them even more vicious. 
+You're a resourceful kitten first and foremost, and little is off the table when it comes to defending yourself. Raise a fallen enemy to fight their former allies if need be, then swoop in for the killing blow on the weakened foe. Eventually you'll be an enduring juggernaut of your own, keeping your opponents occupied in melee while your thralls ravage from the flank. And when you master the arts of enchanting and necromancy, you'll be able to equip your permanent minions in masterfully imbued gear, making them even more vicious. 
 
 ## Perks
 
@@ -212,7 +212,7 @@ You're ready to leave your mark on the world, if you haven't yet already. You've
 
 *Your battle prowess with a battleaxe is downright terrifying.*
 
-* **Rip and Tear 2 (70):** Battleaxes deal damage more damage over a longer time.
+* **Rip and Tear 2 (70):** Battleaxes deal more damage over a longer time.
 * **Massacre (80):** Power attacks with Two-handed weapons 50% extra damage to targets who fall below half Health.
 * **Rend and Rake 2 (90):** Battleaxes deal five times as much damage over time.
 * **Rampage (100):** Repeated power attacks against a single target with Two-handed weapons deal up to double damage.
@@ -263,7 +263,7 @@ The Nine never answered your prayers and their priests paid you no mind except f
 
 *Your Conjuration spells cost 20% less. You can reanimate two additional zombies, but when you do not control at least one reanimated zombie, your Armor Rating is reduced by 300 and your Magic Resistance is reduced by 50%.*
 
-Mannimarco is a obvious choice for necromancers. The downside is barely a hurdle as you'll be able to find a corpse nearly anywhere if not make one quickly enough. Just take care not to encounter any dragons unaccompanied.
+Mannimarco is an obvious choice for necromancers. The downside is barely a hurdle as you'll be able to find a corpse nearly anywhere if not make one quickly enough. Just take care not to encounter any dragons unaccompanied.
 
 #### Molag Bal
 
@@ -309,7 +309,7 @@ Your minions count as allies and they tend to carry weapons. A 50% boost is noth
 Your whole schtick is taking from what's around you. With this you can sustain yourself off your assailants.
 
 **Soul Tear<sup>DG</sup>:** *Deals 30\60\120 damage. Fills a soul gem if the target dies within 10\20\30 seconds. \Permanently reanimates a corpse up to level 50.*  
-Damages enemies, fills your soul gems, and can raise a corpse automatically for you with the 3rd word? Talk about efficiency! Don't hesitate to open up encounters with is one as you might instantly turn an enemy on their friends.
+Damages enemies, fills your soul gems, and can raise a corpse automatically for you with the 3rd word? Talk about efficiency! Don't hesitate to open up encounters with this one as you might instantly turn an enemy on their friends.
 
 </details>
 
@@ -341,7 +341,7 @@ A 25% boost to a monstrous swing is a solid return on investment. Your other opt
 * **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 
-With a great weapon your power attacks are frightening. Boosting them makes them even more so. Reflecting damage back at attackers is tempting alternative, and you're sturdy enough to do it, but you could always be sturdier against mages. 
+With a great weapon your power attacks are frightening. Boosting them makes them even more so. Reflecting damage back at attackers is a tempting alternative, and you're sturdy enough to do it, but you could always be sturdier against mages. 
 
 #### Gloves
 
@@ -373,6 +373,6 @@ This build expects to be on the frontlines taking plenty of hits. Unless you hav
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Resist Disease:** *Your Disease Resistance is increased by 100%.*
 
-If you don't have disease resistance elsewherein the build, grab it. Otherwise, boost your main source of damage or bolster your magic defense.
+If you don't have disease resistance elsewhere in the build, grab it. Otherwise, boost your main source of damage or bolster your magic defense.
 
 </details>

@@ -25,12 +25,12 @@ Histskin: Your Poison Resistance and Disease Resistance are increased by 50%, an
   * **Defensive:** Illusion, Alteration  
   * **Utility:** Security, Sneak
 * **Attributes:**  
-Most of what you do will require Magicka so you don't want to ignore it. That said, Health and Stamina are still important for survival and increasing your carry weight.
+Most of what you do will require Magicka so you don't want to ignore it. That said, Health and Stamina are still important for survival and increasing your Carry Weight.
   * **Health:** 2 (25%)
   * **Magicka:** 4 (45%)
   * **Stamina:** 3 (30%)
 
-The agent is unassuming, walking into situations without weapons or armor, dressed in cloth and a smile. Ideally, you'll use your Illusion magic to bolster your follower and let them dirty their hands. Or drive your enemies into a frenzy and observe the bloodbath. But life will not always be so convenient. From time to time you'll need to do the killing yourself with the use of poison (Restoration) magic, all while keeping yourself save with Alteration. In cities, where such acts are frowned upon by the guards, you'll be able to employ subtler ways of applying poison. Whatever you choose, leave no witnesses.
+The agent is unassuming, walking into situations without weapons or armor, dressed in cloth and a smile. Ideally, you'll use your Illusion magic to bolster your followers and let them dirty their hands. Or drive your enemies into a frenzy and observe the bloodbath. But life will not always be so convenient. From time to time you'll need to do the killing yourself with the use of poison (Restoration) magic, all while keeping yourself safe with Alteration. In cities, where such acts are frowned upon by the guards, you'll be able to employ subtler ways of applying poison. Whatever you choose, leave no witnesses.
 
 ## Perks
 
@@ -92,7 +92,7 @@ Free to do as you please, there's a lot of groundwork to be done before you can 
 
 ### Mid Game: Tainted Tongue
 
-You're more likely to become infamous than famous as you hone your skills. Don't let that bother you and stay focused. If the authorities start to get in your way, relocate to a different hold for awhile. The Thieves Guild may not agree with your goals. The **Dark Brotherhood** may be a bit more welcoming.
+You're more likely to become infamous than famous as you hone your skills. Don't let that bother you and stay focused. If the authorities start to get in your way, relocate to a different hold for a while. The Thieves Guild may not agree with your goals. The **Dark Brotherhood** may be a bit more welcoming.
 
 <details>
 
@@ -243,7 +243,7 @@ The Serpent Stone is hit or miss for this build, ironically. An additional hit o
 
 ***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
 
-If you run into problems sneaking, the Shadow Stone is your best friend. It will help you stay hidden and boost your spellpower at the same time.
+If you run into problems sneaking, the Shadow Stone is your best friend. It will help you stay hidden and boost your spell power at the same time.
 
 </details>
 
@@ -259,7 +259,7 @@ You've no love for this realm nor its deities. And if you were born in Skyrim, a
 
 *You are 10% better at sneaking.*
 
-The Dark Brotherhood is a natural fit for you and Sithis is a natural fit for the Dark Brotherhood. Boost to Sneak are always welcome and, since you're not getting any *Pilgrim* or *Cultist* perks, this is about as perfect as it gets.
+The Dark Brotherhood is a natural fit for you and Sithis is a natural fit for the Dark Brotherhood. Boosts to Sneak are always welcome and, since you're not getting any *Pilgrim* or *Cultist* perks, this is about as perfect as it gets.
 
 </details>
 
@@ -320,7 +320,7 @@ You'll rarely be using this to heal someone, if ever. Your knowledge of the rest
 ### Dragon Shouts
 
 * **Bend Will:** *Targets up to level 30\40\50 are placed under your command for 10\20\30 seconds. \Dragons are forced to obey you.*  
-A solid emergency button to hold onto to. You've used Illusion to control a spiraling situation before, this is just another means of doing so.
+A solid emergency button to hold onto. You've used Illusion to control a spiraling situation before, this is just another means of doing so.
 
 * **Marked for Death:** *Deals 5 damage, reduces enemy Magic Resistance by 25% and Armor Rating by 150 for 10\20\30 seconds.*  
 If open combat is inevitable you'll need to get the most out of your magic. This is the only shout that will lower their resistance to your Poison spells.

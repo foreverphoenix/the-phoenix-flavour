@@ -88,7 +88,7 @@ An orsimer needs to work twice as hard to be half the mage an altmer would be an
 
 ### Mid Game: Unseen Magus
 
-The fruits of your labor begin ripen here. You'll want to join the **College of Winterhold** in order to hit the books. With your curriculum stretching you thin you'll be a master of nothing until much later, but the night is already yours. Silent movement, silent casting, and a solid magical toolkit will get you through most dilemmas.
+The fruits of your labor begin to ripen here. You'll want to join the **College of Winterhold** in order to hit the books. With your curriculum stretching you thin, you'll be a master of nothing until much later, but the night is already yours. Silent movement, silent casting, and a solid magical toolkit will get you through most dilemmas.
 
 <details>
 
@@ -131,7 +131,7 @@ The fruits of your labor begin ripen here. You'll want to join the **College of 
 
 *A predictable and necessary boost to your Bound melee weapons.*
 
-* **Precise Cuts 1 (40):** Critical attacks with swords and daggers deal three as much damage.
+* **Precise Cuts 1 (40):** Critical attacks with swords and daggers deal three times as much damage.
 * **Skirmisher 2 (50):** One-handed weapons do 50% more damage.
 
 #### Sneak
@@ -291,7 +291,7 @@ Use the school of alteration to bolster your own defenses just in case. Also use
 
 ### Conjuration
 
-The combination of your smithing training in the stronghold and your curiosity with magic has led you to conjured weaponry. With your perks these weapons will be viable throughout the game and keep your status bars topped off.
+The combination of your smithing training in the stronghold and your curiosity with magic has led you to conjured weapons. With your perks these weapons will be viable throughout the game and keep your status bars topped off.
 
 * **Bound Dagger (Novice):** *Summons a Bound Dagger for 120 seconds.*  
   This will be your go-to melee weapon later in the game when you have ranks of *Assassin's Blade*.
@@ -346,7 +346,7 @@ Shorter cooldown than *Become Ethereal* with as long a duration. It doesn't make
 * **Fortify Illusion Cost:** *Your Illusion spells cost 25% less.*
 * **Fortify Conjuration Cost** *Your Conjuration spells cost 25% less.*
 
-If you have your *Bound Bow* ready, boosting your ranged damage is terrific option. You can also benefit from reducing your spell costs if either school is draining your Magicka pool too fast.
+If you have your *Bound Bow* ready, boosting your ranged damage is a terrific option. You can also benefit from reducing your spell costs if either school is draining your Magicka pool too fast.
 
 #### Chest
 
@@ -370,7 +370,7 @@ Damage boosts your go-to here. Alternatively, an increase to Magicka might give 
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 
-When combined with invisibility, *Muffle* makes you completely undetectable, making it an essential enchantment for a stealth build. If you don't have access to it being stealthier is an alternative. And lastly, simply having more Stamina to work with is better than most other options.
+When combined with invisibility, *Muffle* makes you completely undetectable, making it an essential enchantment for a stealth build. If you don't have access to it, being stealthier is an alternative. And lastly, simply having more Stamina to work with is better than most other options.
 
 #### Necklace
 
@@ -386,6 +386,6 @@ Again, if you have your *Bound Bow* you'll want to support it. Otherwise, the bo
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Fortify Illusion Power:** *Your Illusion spells are 25% stronger.*
 
-Take the boost to your bread and butter attack. If that's unavailable, become more stealthy to get more of those bread and butter attacks. And if that is also unavilable, *Calm* your way into free sneak attacks.
+Take the boost to your bread and butter attack. If that's unavailable, become more stealthy to get more of those bread and butter attacks. And if that is also unavailable, *Calm* your way into free sneak attacks.
 
 </details>
