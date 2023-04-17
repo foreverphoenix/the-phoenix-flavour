@@ -10,7 +10,7 @@ description: >
 
 As an acolyte, you were once tasked with the protection of sacred artifacts and shrines in the Summerset Isles. Once rumors spread of the brewing civil war in Skyrim, you feared for the safety of the ancient lore that lay within lands afar. As an expert in history and protector of lore, you felt that the potential loss of these precious artifacts would be a great tragedy.
 
-To you, venturing into Skyrim was a simple extension of your duty to the temple. As dangerous as the trip was, you felt that you were well prepared with a diplomatic and persuasive tongue that would provide the funding you needed to embark on your mission. Furthermore, your extensive knowledge of Tamrielic history led you to believe that you were well suited for navigating the political and social landscape of Skyrim.
+To you, venturing into Skyrim was a simple extension of your duty to the temple. As dangerous as the trip was, you felt that you were well prepared with a diplomatic and persuasive tongue that would provide the funding you needed to embark on your mission. Furthermore, your extensive knowledge of Tamrielic history led you to believe that you were well suited for navigating the troubled political and social landscape of Skyrim.
 
 That knowledge is also why, despite your lawful and honorable intentions, you attempted to cross into the region illegally. You're quickly understanding that your presence in Skyrim may be met with hostility and that many will confuse you for a Thalmor agent. However, you're resolved that the greater good is worth the risk, and you are willing to do whatever it takes to protect the lore of Tamriel.
 
@@ -25,9 +25,10 @@ Highborn: Your Magicka is increased by 50 and your Magicka Regeneration is incre
   * **Defensive:** Block, Light Armor, Restoration 
   * **Utility:** Smithing
 * **Attributes:**  
-  * **Health:**
-  * **Magicka:**
-  * **Stamina:**
+Your racial boost to Magicka goes a long way but you'll need that and more to keep your buffs online. One of those buffs will increase your Health, allowing you more freedom with spreading your attribute points.
+  * **Health:** 4
+  * **Magicka:** 3
+  * **Stamina:** 3
 
 The Pilgrim is a stalwart fighter, standing with conviction on the front lines with a mace in one hand and a shield in the other. In that sense they play not unlike your typical sword and board character, however they utilize Restoration to imbue themselves with buffing magic and Speech to make the most from their newfound shouting abilities. Speech will also help the Pilgrim make money and, with a little bit of Smithing chops, generate some lucrative business. The Pilgrim struggles with ranged combat, relying on shouts with cooldown timers or un-perked options when forced to fight at a distance.
 
@@ -232,7 +233,7 @@ The Atronach runs counter to your racial bonus but with mace and shield in hand 
 
 ***Lady’s Grace:*** *Your Health, Magicka and Stamina Regeneration are increased by 50%, and by an additional 50% when you fall below half Health, Magicka, or Stamina.*
 
-The Lady is a solid option for those who want to be versatile and switch from physical to magical more readily. This standing stone will boost your regeneration rates as they're needed, making sure you have enough Stamina and Magicka in the tank when you swap modes.
+The Lady is a solid option for those who want to be versatile and switch from physical to magical more readily. This standing stone will boost your regeneration rates as they're needed, making sure you have enough Stamina and Magicka in the tank when you swap modes. If you grabbed Sun or Turn Undead spells to use against the undead, this stone is more useful.
 
 </details>
 
@@ -248,7 +249,7 @@ Being drawn to the sacred, you can easily claim to be a follower of all of the E
 
 *Your Stamina regeneration is increased by 25/50%. / You spend 25% less Stamina when power attacking or drawing a bow.*
 
-On the other side of the coin is Jephre the Singer who'll strengthen your physical aspects. More Stamina and less needed for power attacks will allow you to slam your mace into more faces per minute. The God of Songs and Stories definitely wants you to protect the world they've grown.
+Jephre the Singer will strengthen your physical aspects. More Stamina and less needed for power attacks will allow you to slam your mace into more faces per minute. The God of Songs and Stories definitely wants you to protect the world they've grown.
 
 #### Stendarr
 
@@ -274,7 +275,7 @@ You can't help but look up to the Golden Champion and doing so will bless you wi
 
 ### Restoration
 
-Restoration is the only school of magic truly utilized by the Pilgrim and most of it is fire-and-forget due to the fact that you'll have your hands full with your weapon and shield most of the time. Sun and Turn Undead spells are nice to have in your back pocket, especially when doing Dawnguard content, but they're not your focus.
+Restoration is the only school of magic truly utilized by the Pilgrim and most of it is fire-and-forget due to the fact that you'll have your hands full with your weapon and shield. Sun and Turn Undead spells are nice to have in your back pocket, especially when doing Dawnguard content, but they're not your focus.
 
 * **Regeneration (Apprentice+):** *Restores 2 Health per second for 120 seconds.*  
   Without a hand free for active healing, you'll rely on this to provide you with substantial  regeneration on the frontline.

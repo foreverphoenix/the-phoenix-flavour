@@ -102,7 +102,7 @@ It's time you made your way back to the **College of Winterhold** to study magic
  
 #### Archery
 
-*Your bow will truly become an extension of your self.*
+*Your bow will truly become an extension of yourself.*
 
 * **Power Shot (40):** Bows have a 50% chance to stagger enemies.
 * **Grim Focus 1 (40):** Critical hits with bows deal three times damage.
@@ -200,7 +200,7 @@ You already have all the tools you need to succeed, but further study will enhan
 * **Armor Enchanter (40):** New enchantments on armor are 25% stronger.
 * **Artificer 2 (50):** New enchantments are 50% stronger.
 * **Corpus Enchanter (60):** Health, Magicka, and Stamina enchantments are 25% stronger.
-* **Soul Siphon (60):** Enhanted weapons regenerate some of their lost charge when they deal a killing blow.
+* **Soul Siphon (60):** Enchanted weapons regenerate some of their lost charge when they deal a killing blow.
 * **Elemental Enchanter (70):** Elemental enchantments are 25% stronger. 
 * **Insightful Enchanter (80):** Skill enchantments are 25% stronger.
 * **Twin Secrets (100):** You can place two enchantments on a single item.
@@ -243,7 +243,7 @@ In the late game your summoning durations will be obnoxiously long. Cutting them
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-Wherever you come from originally you recognize the Nine Divines of the Imperial Pantheon. Few families are so rooted in the Empire as yours, after all. Of the Nine, three in particular speak to you in your journeys. **Kynareth** is often the patron of travelers like yourself. It was **Julianos** who urged you to leave your home in search of history's forgotten lessons. And you can never forget the ubituitous **Akatosh**, god-defender of the Empire who commands you to worship the Nine.
+Wherever you come from originally you recognize the Nine Divines of the Imperial Pantheon. Few families are so rooted in the Empire as yours, after all. Of the Nine, three in particular speak to you in your journeys. **Kynareth** is often the patron of travelers like yourself. It was **Julianos** who urged you to leave your home in search of history's forgotten lessons. And you can never forget the ubiquitous **Akatosh**, god-defender of the Empire who commands you to worship the Nine.
 
 <details>
 
@@ -263,7 +263,7 @@ Alternatively, a boost to your Magicka may be the difference needed to cast a hi
 
 *Your Stamina is increased by 25.*
 
-Extra stamina is always useful and the shrine can be found early on in Whiterun. You can't go wrong with this choice. At some point you may feel that your Stamina Regeneration makes the extra Stamina less useful. If that happens consider switching to another deity. 
+Extra stamina is always useful and the shrine can be found early on in Whiterun. You can't go wrong with this choice. At some point you may feel that your Stamina Regeneration makes the extra Stamina less useful. If that happens, consider switching to another deity. 
 
 </details>
 
@@ -360,7 +360,7 @@ Your investment in Alchemy gives you access to powerful potions and not just the
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
 * **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
 
-Extra Stamina will help you fire more arrows. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. You shouldn't be suffering on carry weight or sneaking, honestly, but it's up to you.
+Extra Stamina will help you fire more arrows. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. You shouldn't be suffering on Carry Weight or Sneak, honestly, but it's up to you.
 
 #### Necklace
 

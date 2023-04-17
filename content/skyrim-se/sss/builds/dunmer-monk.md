@@ -34,11 +34,11 @@ Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your sp
   * **Magicka:** 2
   * **Stamina:** 3
 
-> **Note:** For unarmed perks to work both hands need to be empty. To easily do this with hot keys, go to the *SkyUI* MCM and toggle `Unequip Hands` for one of the groups. That group can now be used as an Unarmed hotkey.
+> **Note:** For unarmed perks to work both hands need to be empty. To easily do this with hotkeys, go to the *SkyUI* MCM and toggle `Unequip Hands` for one of the groups. That group can now be used as an Unarmed hotkey.
 
-You are not wildfire; you are a deliberate, controlled burn. You deftly slip into position, starting fights on your own terms to give yourself the most advantage. Once the fight has broken out, turn up the heat with your Fire magic and a flurry of fists and eliminate your threats one by one. With the aid of Alteration magic you'll be formidible on the frontlines, imposing and able to withstand your opponent's counterattacks. A visit to Solstheim is a must. The island has not only the shrines for your pilgrimage but a number of spells that complement your skills. With all these tools in hand, you will do your ancestors proud.
+You are not a wildfire; you are a deliberate, controlled burn. You deftly slip into position, starting fights on your own terms to give yourself the most advantage. Once the fight has broken out, turn up the heat with your Fire magic and a flurry of fists and eliminate your threats one by one. With the aid of Alteration magic you'll be formidable on the frontlines, imposing and able to withstand your opponent's counterattacks. A visit to Solstheim is a must. The island has not only the shrines for your pilgrimage but a number of spells that complement your skills. With all these tools in hand, you will make your ancestors proud.
 
-Heavily consider taking on the beast blood as yet another challenge from the Daedra. Its *Animal* tree of perks will grant you vital Health and Stamina Regeneration that's lacking in the main build as well as unarmed damage and insteased Movement Speed.
+Heavily consider taking on the beast blood as yet another challenge from the Daedra. Its *Animal* tree of perks will grant you vital Health and Stamina Regeneration that's lacking in the main build as well as unarmed damage and increased Movement Speed.
 
 ## Perks
 
@@ -93,7 +93,7 @@ Your arrest and near execution made you painfully aware of the war that's broken
 
 ### Mid Game: Flaming Fist
 
-Along with the realization that you're Dovahkiin, as the Nords call it, is the realization that there's a target on your back. You will need to dig deeper for even greater strength to meet the challenges ahead. Train with the **Companions**, they'll help refine for martial prowess.
+Along with the realization that you're Dovahkiin, as the Nords call it, is the realization that there's a target on your back. You will need to dig deeper for even greater strength to meet the challenges ahead. Train with the **Companions**, they'll help you refine your martial prowess.
 
 <details>
 
@@ -255,7 +255,7 @@ Most Dunmer would shy away from the House of Troubles but not you. You invite th
 
 *You have 50 extra Stamina. Power attacks are 50% stronger, but all other attacks are half as strong.*
 
-If you want to lean into your Hand to Hand side Malacath can be a strong choice. Be mindful that he doesn't tolerate half-measures. Commit to your attacks or they won't be effective. Position yourself well so that you can land power attacks without opening yourself up to extra damage.
+If you want to lean into your Hand to Hand side, Malacath can be a strong choice. Be mindful that he doesn't tolerate half-measures. Commit to your attacks or they won't be effective. Position yourself well so that you can land power attacks without opening yourself up to extra damage.
 
 #### Mehrunes Dagon
 
@@ -317,7 +317,7 @@ You can make use of every fire spell in the school with all the perks you have b
 This is your main ranged attack option. Consider having *Vampiric Bolt* as a backup for fire-resistant enemies.
 
 * **Flame Cloak (Adept):** *For 60 seconds, nearby enemies take 8 Fire damage per second. Targets on fire take extra damage over time.*  
-A constant area of affect that complements your punches? Yes, please.
+A constant area of effect that complements your punches? Yes, please.
 
 * **Vampiric Touch (Adept+):** *Absorbs 60 Health from living enemies in melee range.*  
 Without Alchemy or Restoration your biggest hurdle might be healing yourself. These spells help solve that against the living at least.
@@ -391,6 +391,6 @@ If you're not at the 75% Magic Resistance cap you should consider this to help g
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 
-A very contested enchantment slot for the monk. Both of your damage boosts are options here alongside all the resists. Grab what you can and play it by ear as you reach plateaus. Or carry multple rings for multiple situations.
+A very contested enchantment slot for the monk. Both of your damage boosts are options here alongside all the resists. Grab what you can and play it by ear as you reach plateaus. Or carry multiple rings for multiple situations.
 
 </details>
