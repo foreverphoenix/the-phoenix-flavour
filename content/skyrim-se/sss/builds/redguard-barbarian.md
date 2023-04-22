@@ -13,7 +13,7 @@ description: >
 The adage is older than Sentinel itself and its truth ate at you day after day while you practiced with the rest of Tava's warriors. The order was a shade of its former self, not even large enough to retain its status as a guild and growing smaller still. It was clear the elders had no intention of providing the flame necessary for greatness, so you sought it elsewhere.
 
 
-The captain of The Eastway provided smooth passage to Windhelm, seat of Ulfric Stormcloak, a man who'll undoubtedly provide the battlefields where legends are forged. Once there you followed whispers to Darkwater Crossing, hoping to meet Ulfric himself and pledge yourself to his cause. You found him, however your impeccable timing landed you in the Imperial ambush set in his path.
+The captain of The Eastway provided smooth passage to Windhelm, seat of Ulfric Stormcloak, a man who'll undoubtedly provide the battlefields where legends are forged. Once there you follow whispers to Darkwater Crossing, hoping to meet Ulfric himself and pledge yourself to his cause. You found him, however your impeccable timing landed you in the Imperial ambush set in his path.
 
 
 You don't know where your captors are leading you in this unfamiliar, cold land. But you do know, should fate ever put a sword in your hands again, this will be the very last time the Empire will hold any power over you.
@@ -30,11 +30,11 @@ You don't know where your captors are leading you in this unfamiliar, cold land.
   * **Utility:** Alteration, Smithing
 * **Attributes:**  
 You'll get a large boost to Stamina from your race and the Thief Stone. Use the opportunity to boost Health and Magicka early. Lightning Cloak will need a decent investment before you get Elementalist 2.
-  * **Health:** 4 (45%)
-  * **Magicka:** 2 (25%)
-  * **Stamina:** 3 (30%)
+  * **Health:** 5
+  * **Magicka:** 2
+  * **Stamina:** 3
 
-Tava's spirit flows through you and, through you, your blades. You are the storm itself, a whirlwind of blades that wears down the defense of anyone unfortunate enough to meet it. In your case, the best (and only) defense, is a relentless offense. Stamina management will be the difference between greatness and failure, so make sure never to be caught short on breath.
+Tava's spirit flows through you and, through you, your blades. You are the storm itself, a whirlwind of blades that wears down the defense of anyone unfortunate enough to meet it. In your case, the best (and only) defense is a relentless offense. Stamina management will be the difference between greatness and failure, so make sure never to be caught short on breath.
 
 ## Perks
 
@@ -147,7 +147,7 @@ By now you're back on your feet and itching to give the Empire a proper fight. U
 
 ### Late Game: Tava's Storm
 
-You've climbed the ranks of men, now ascend to the tier of legends. All of your core skills will reach their zenith, making you a unstoppable force on the battle field. With the whirlwind of your blades with the storm of Shock magic, quickly reduce your enemies to ash.
+You've climbed the ranks of men, now ascend to the tier of legends. All of your core skills will reach their zenith, making you an unstoppable force on the battlefield. With the whirlwind of your blades with the storm of Shock magic, quickly reduce your enemies to ash.
 
 <details>
 
@@ -180,7 +180,7 @@ You've climbed the ranks of men, now ascend to the tier of legends. All of your 
 * **Dual Fury (70):** You resist 25% of all incoming damage while dual wielding.
 * **Flourish (70):** You attack 20% faster with One-handed weapons. 
 * **Quick Slash 2 (70):** Swords and daggers have a 20% chance of dealing critical damage.
-* **Execute (80):** Power Attacks with One-handed weapons deal 50% extra damage against target who fall below half Health.
+* **Execute (80):** Power Attacks with One-handed weapons deal 50% extra damage against targets who fall below half Health.
 * **Dual Frenzy 2 (90):** Dual wield power attacks deal 50% more damage.
 * **Precise Cuts 2 (90):** Critical attacks with swords and daggers deal five times as much damage.
 * **Onslaught (100):** Repeated power attacks against a single target with One-handed weapons deal up to double damage.
@@ -255,7 +255,7 @@ HoonDing is no Tava but in the early game he'll provide the same benefit and his
 
 *Your Stamina is increased by 50. You move 10% faster and take 50% less damage from falling.*
 
-Tava, the goddess of air, weather and sun is thematically the true option for this build. With *Pilgirm (Rank 2)* you'll be granted extra speed from the goddess. Use it along with other boosts to stay in your opponents' faces where it's most perilous for them.
+Tava, the goddess of air, weather and sun is thematically the true option for this build. With *Pilgrim (Rank 2)* you'll be granted extra speed from the goddess. Use it along with other boosts to stay in your opponents' faces where it's most perilous for them.
 
 #### Tall Papa
 
@@ -302,7 +302,7 @@ Shock magic is the manifestation of Tava's storm. It also serves as your main so
   Your option for pesky, distant or otherwise hard to reach enemies. If mages don't die from this their Magicka reserves will be drained, making it more likely they'll come closer.
 
 * **Lightning Cloak (Adept):** *For 60 seconds, nearby enemies take 8 Shock damage per second to Health and Magicka.*  
-  You'll want this active whenever you run into combat. Between this and your swords, anything in close promixity to you will have a hard time holding onto life.
+  You'll want this active whenever you run into combat. Between this and your swords, anything in close proximity to you will have a hard time holding onto life.
 
 <img align="right" width="100" height="100" src="/Pictures/sss/builds/skill-restoration.webp">
 
@@ -314,7 +314,7 @@ Restoration keeps you on your feet. With dual blades, you'll be casting most of 
   The healing over time factor makes this less than ideal but it's the only choice at the start.
 
 * **Close Wounds (Apprentice+):** *Restores 40 Health.*  
-  Instant healing will get your swords back in hand faster. If your magicka supplies are full enough this is the ideal healing option.
+  Instant healing will get your swords back in hand faster. If your Magicka supplies are full enough this is the ideal healing option.
 
 * **Regeneration (Apprentice+):** *Restores 2 Health per second for 120 seconds.*  
   This does not work with *Respite* but can help with sustainability if you expect a long encounter. Use this right before a tough fight and your Magicka should recover before you'll need additional healing.

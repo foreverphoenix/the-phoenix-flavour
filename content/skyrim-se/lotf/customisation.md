@@ -8,13 +8,15 @@ description: >
 
 ## Performance INIs
 
-If you are looking to squeeze a few extra frames out of LOTF, but also want to keep the better LODs from the regular profile, you can do so by copying over the INI files from the Performance profile. Among other things, the Performance INIs have lowered settings for distant terrain, renders grass and shadows at a shorter distance, and disables volumetric lighting (godrays).
+For an extra ~10-15FPS, you can switch to a set of more performance-friendly INI files. Among other things, the performance INIs have lowered settings for distant terrain, render grass and shadows at a shorter distance, and disable volumetric lighting (godrays).
 
-- Navigate to `\Legends of the Frost\profiles\Legends of the Frost - Performance\`.
+- Navigate to `\Legends of the Frost\mods\Legends of the Frost - Performance INIs\`.
 - Copy the **Skyrim.ini** and **SkyrimPrefs.ini** inside.
 - Paste the INIs to `\Legends of the Frost\profiles\Legends of the Frost\`.
 
 **Confirm to overwrite existing INIs.**
+
+A backup of the default INIs are also included under `\Legends of the Frost\mods\Legends of the Frost - Default INIs\` so you can switch back at any time.
 
 ## Higher or Uncapped FPS
 

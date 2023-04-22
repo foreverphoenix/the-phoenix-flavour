@@ -6,6 +6,29 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.8.1
+
+> 10/04/2023
+
+Maintenance update, save safe.
+
+- Updated ENB Helper for Fallout 4 to 1.0.2
+- Updated the Unofficial Fallout 4 Patch to 2.1.5
+- Updated Workshop Framework to 2.3.5
+- Updated Ownership Fixes to 1.3.2
+- Updated Fallout 4 Particle Patch - No More Glowing Objects to 1.1
+- Updated Lightweight Lighting - A Weather and Interior Lighting Overhaul to 3.2.1
+- Updated Targeted Textures - Vanilla Textures Upscaled Fixed and Sized to 1.3
+- Updated Fallout 4 Ultimate Window Overhaul to 4.1
+- Updated Far Object LOD Improvement Project to 4.2.1
+- Updated Curated Companions to 3.1
+- Updated Perk Up - Lightweight Perk Overhaul to 1.4
+- Updated Perennial Power Armor - Lightweight Power Armor Rebalance to 1.2
+- Updated Previsibines Repair Pack to 65.5
+- Removed R2K's Gameplay Mods - Power Grid Tools (part of Workshop Framework)
+- Fixed an error in More Sensible Modification Perk Requirements
+- Regenerated LODs
+
 ## Release 2.8
 
 > 19/02/2023
