@@ -52,7 +52,7 @@ If you are currently playing in a language other than English, please go into th
 
 After updating the game language, please launch the game once and quit from the main menu.
 
-> This requirement is necessary for Wabbajack. You can change the language after install SME, but remember to also update your SME Game Root folder if you do.
+> This requirement is necessary for Wabbajack. You can change the language after installing SME, but remember to also update your SME Game Root folder if you do.
 
 ## Creation Kit
 
@@ -84,9 +84,9 @@ You can now install SME through Wabbajack:
 
 In the installation window, you will need to define two folders:
 
-**Installation Location** is where LOTF will be installed to. Choose a high-level folder such as `C:\Skyrim Modding Essentials\` that is outside UAC protected folders (Program Files, Documents, etc).
+**Installation Location** is where SME will be installed to. Choose a high-level folder such as `C:\Skyrim Modding Essentials\` that is outside UAC protected folders (Program Files, Documents, etc).
 
-**Download Loaction** is where the downloaded mod archives will be stored. By default, they will be placed within your main SME folder, but you can change the file path if you want to keep the files elsewhere.
+**Download Location** is where the downloaded mod archives will be stored. By default, they will be placed within your main SME folder, but you can change the file path if you want to keep the files elsewhere.
 
 Once both folder locations have been set, click the button on the right to begin the installation process.
 
@@ -102,17 +102,19 @@ You can follow along as Wabbajack installs the list. It will display previews wi
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 
-## Antivirus Exclusion
-
-Certain tools, e.g., **Nemesis** and **Cathedral Assets Optimizer**, may not properly work with antivirus programs. You will need to manually exclude them.
-
-Also add an exclusion for `C:\Users\<UserName>\Appdata\Local\Nemesis` to prevent random errors while running Nemesis.
-
-[Follow these instructions to add exclusions to Windows Defender.](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
-
 ## Tool Setup
 
 Almost all tools included with SME are automatically configured for you. However, there are exceptions as some tools cannot be shipped with custom profiles so you will have to create them for yourself.
+
+### Cathedral Assets Optimizer
+
+**Cathedral Assets Optimizer** may not properly work with antivirus programmes unless it is manually excluded.
+
+[Follow these instructions to add exclusions to Windows Defender.](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
+
+### Nemesis
+
+Nemesis is required for animation mods, but is unfortunately prone to throwing errors during generation. In my experience the most reliable way to make it work is setting the executable to **Windows 8 compatibility mode**. I also added an exception to Windows Defender (and you may need to do the same for any other Antivirus software).
 
 ### LOOT
 
