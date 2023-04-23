@@ -12,6 +12,8 @@ Due to the nature of the list, I expect that most users will use it as a base fo
 
 > Skyrim SE 1.6.x on Steam and the full Anniversary Edition DLC are required.
 
+Aurora is [fully documented](https://publish.obsidian.md/tpf/home).
+
 ## Features
 
 Check the complete mod list and load order on [Load Order Library](https://loadorderlibrary.com/lists/aurora).
@@ -33,4 +35,4 @@ Check the complete mod list and load order on [Load Order Library](https://loado
 
 ## Installation
 
-Please refer to the [Installation](/skyrim-se/sme/installation/) page.
+Please refer to the [Installation](/skyrim-se/aur/installation/) page.
