@@ -6,6 +6,29 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.3.2
+
+> 22/04/2023
+
+Small maintenance update with some much-needed fixes for the documentation.
+
+- Added Mod Organizer 2 Splash Screen - Intro Title Style
+- Updated xLODGen to 98
+- Updated Spell Perk Item Distributor to 6.5.2
+- Updated Keyword Item Distributor to 3.0.2
+- Updated FormList Manipulator - FLM to 1.6.0
+- Updated DynDOLOD Resources to 3 Alpha 34
+- Updated ENBSeries Binaries (no version number change)
+- Set Pause to True in the QUI TOML (game will be paused while viewing the plugin explorer)
+
+### Website Changes
+
+- **Installation:** Fixed a bunch of typos
+- **Installation:** Removed Antivirus Exclusion section
+- **Installation:** Added Tools Setup > Cathedral Assets Optimizer section
+- **Installation:** Added Tools Setup > Nemesis section
+- **Documentation:** Updated ENB instructions for Root Builder
+
 ## Release 2.3.1
 
 > 08/04/2023

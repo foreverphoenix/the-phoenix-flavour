@@ -84,7 +84,9 @@ Since many people use ENB presets, I included a set of essentials:
 
 In the enblocal.ini, VSYNC is disabled because SSE Display Tweaks is used for VSYNC instead. The framelimit is turned off. If you want to limit your framerate, it is highly recommended to do so using SSE Display Tweaks. Finally, the hotkeys were adjusted, please check the "Hotkeys" section further down on this page for more information.
 
-If you want to install an ENB, copy the three files from `SSE Modding Essentials\Tools\ENBSeries\` to `SSE Modding Essentials\Game Root\` (ignore the WABBAJACK_NOMATCH_INCLUDE). Then download your favourite preset and extract the preset files (enbseries.ini and the enbseries folder) into `SSE Modding Essentials\Game Root\` as well.
+If you want to install an ENB, enable the **ENBSeries - Binaries** and **ENBSeries - Settings** 'mods' in Mod Organizer 2. To add a preset, create a new empty mod with a folder called **Root** inside - `\SME\mods\<Preset Name>\Root\` - and extract the **enbseries.ini** and **enbseries** from a downloaded preset to this location.
+
+> Thanks to the [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) plugin, any files located in `\mods\<mod name>\Root\` will be moved to the actual Root folder when an executable is run through MO2 (like when you start the game via SKSE). This allows you to use MO2 to manage root folder files.
 
 ## Further Notes
 
