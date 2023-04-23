@@ -6,20 +6,6 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
-## Release 2.3.2
-
-> TBD
-
-Very minor update, but actually necessary because the latest version of DynDOLOD specifically requires the Resources 3 Alpha 34. Also, xLODGen was pretty outdated (94 > 98).
-
-- Updated xLODGen to 98
-- Updated Spell Perk Item Distributor to 6.5.2
-- Updated Keyword Item Distributor to 3.0.2
-- Updated FormList Manipulator - FLM to 1.6.0
-- Updated DynDOLOD Resources to 3 Alpha 34
-- Updated ENBSeries Binaries (no version number change)
-- Set Pause to True in the QUI TOML (game will be paused while viewing the plugin explorer)
-
 ## Release 2.3.1
 
 > 08/04/2023
