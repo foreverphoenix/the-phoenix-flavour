@@ -6,13 +6,50 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+
+## Release 4.17.0.1
+
+> 2023-04-23
+
+There were a few issues with the release of 4.17. Thank you SAEL in particular for catching the bulk of them and bringing them to my attention. The root cause of some was the Embers XD 2.7.4 beta, rather, the existing patches that did not account for it. Since I went through the trouble of fixing those, the beta stays in this version despite it being temporarily "retired" by mindflux on the Nexus. If that causes issues, I'll revert back to 2.7.3 and undo the fixes.
+
+More importantly, *NPCs Learn Skills and Spells* has been removed. It was a fun experiment but now that Lawless and The Dragon Cult exist, we have a lot more intention with the enemy overhauling. We don't need SPID buffing up the enemies even more, and it turns out it was buffing them much more than intended. Sorry to everyone who ran into Lv1 bandits summoning atronachs, that should be fixed now.
+
+Otherwise, it's a small update that follows its base list, [Aurora](https://www.nexusmods.com/skyrimspecialedition/mods/898050), in its official 1.0 release! Congrats to Phoenix for delivering another solid modlist to the community.
+
+**This update is save-safe.**
+
+<details>
+
+#### Changes
+
+- Applied changes from [Skyrim Modding Essentials 2.3.2](https://thephoenixflavour.com/skyrim-se/sme/changelog/#release-232) and [Aurora 1.0](https://publish.obsidian.md/tpf/meta/changelogs/aurora/aur-1-0)
+- **Utilities & Frameworks:** Added Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI
+- **ElSopa's Potions Redone:** Added ElSopa - Potions Redone - Apothecary Patch
+- **Magic & Perks:** Removed NPCs Learn Skills and Spells (as it's incorrectly processing NPCs)
+- **Conflict Resolution:** Resolved differences between Embers XD and Frozen Electrocuted Combustion for FireFXShader `0001B212`
+- **Conflict Resolution:** Resolved differences between Embers XD and No Edge Glow for DarkElfAncestorWrathFXShader `0010F56C`
+
+#### Updates
+
+- Updated Keyword Item Distributor to 3.0.2
+- Updated Mesh Patches for Lux Orbis to 1.5.2
+- Updated Embers XD to 2.7.4 Beta (No Version Change)
+- Updated Stones of Solitude - Majestic Mountains Rocks to 1.2.1
+- Updated Icy Mesh Remaster to 2.12
+- Updated Immersive Rejections to 1.1
+- Updated Lawless - SimonRim Patch to 1.6.2
+- Updated The Dragon Cult - A Draugr Overhaul to 1.3.2
+
+</details>
+
 ## Release 4.17.0
 
 > 2023-04-17
 
-There's no changelog here. There was one, once. It was massive and I lost itin the ether. After that there were hundreds of other changes made. I should do better. Another time, perhaps.
+There's no changelog here. There was one, once. It was massive and I lost it in the ether. After that there were hundreds of other changes made. I should do better. Another time, perhaps.
 
-But this is a **huge** update, make no mistake. If you're coming from 4.16.0.*x*, just **make a new save file**. It's not save-safe. If you're coming from 4.16.1.*x* **you probably should also make anew save** but it's possibly salvageable. So what's changed?
+But this is a **huge** update, make no mistake. If you're coming from 4.16.0.*x*, just **make a new save file**. It's not save-safe. If you're coming from 4.16.1.*x* **you probably should also make a new save** but it's possibly salvageable. So what's changed?
 
 As I mentioned in the last release candidate, Phoenix is back and they've changed their approach to TPF 5.0. It will be built on **Aurora** which is built on **Skyrim Modding Essentials**. This makes it very streamlined for Phoenix, building each list right on top of the other. So I've gone ahead and tossed out pretty much everything visual and also made this list based off of Aurora's release candidate (RC5 currently). It looks fantastic and the textures were selected with a lot more care than I'm capable of. I still kept RAID Weathers (and RAID), Water for ENB, and The Vanilla ENB Two, so it's not exactly the same as Aurora, but it's close.
 
@@ -29,7 +66,7 @@ Overall, I've taken Phoenix's visual overhaul from Aurora, trimmed down the adde
 
 tl;dr changes from 4.16.2 RC 1:  
 - Visuals overhauled to match Aurora RC5
-- Phoenix's Weapons & Armor Overhaul removed in lieu for a restored Weapons, Clothing, and Clutter Fixes
+- Phoenix's Weapons & Armor Overhaul removed in lieu for a restored Weapons, Armor, Clothing, and Clutter Fixes
 - Some of the added weapons and armor (e.g. Stalhrim Extra Crafting) was removed until balance can be better achieved
 - Optional difficulty modules removed, Aurora optionals maintained
 
