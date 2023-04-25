@@ -1,6 +1,6 @@
 # AURORA - A VISUAL OVERHAUL
 
-*Aurora is a visuals-only Wabbajack list for Skyrim Special Edition with an emphasis on consistency. Based on Skyrim Modding Essentials.*
+*Aurora is a visuals-only Wabbajack list for Skyrim Special Edition with emphasis on consistency. Based on Skyrim Modding Essentials.*
 
 Please visit the [official website](https://thephoenixflavour.com/skyrim-se/aur/introduction) for more information, documentation, and installation instructions.
 
