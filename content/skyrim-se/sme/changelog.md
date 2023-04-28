@@ -6,6 +6,19 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.3.3
+
+> 28/04/2023
+
+Small update to add DynDOLOD NG for people who would like to try out the experimental version (with the large ref bug workarounds). Only use it if you know what you are doing and remember it requires all plugins to be 'cleaned' of deleted references. Also added a super neat MO2 plugin, LOOT Warning Checker, that is helpful for finding plugins that need 'cleaning' for DynDOLOD NG.
+
+- Added LOOT Warning Checker MO2 Plugin
+- Added DynDOLOD NG
+- Updated DynDOLOD to 3 Alpha 125
+- Updated DynDOLOD Scripts to 2.82.5
+- Updated DynDOLOD Resources to 3 Alpha 35
+- Removed Nchuanthumz Papyrus Load Fix (part of USCCCP)
+
 ## Release 2.3.2
 
 > 22/04/2023
