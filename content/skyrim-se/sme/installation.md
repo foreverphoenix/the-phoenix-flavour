@@ -172,9 +172,10 @@ If you want to configure zEdit for SME, follow these steps:
 
 ### BodySlide & Outfit Studio
 
-In order for BodySlide/Outfit Studio to find your game files, you may need to update the folder path in the settings of the respective tool.
+When you first launch BodySlide through Mod Organizer 2, it will likely detect and want to use your default game paths:
 
-- Run **BodySlide** or **Outfit Studio** and go into the **Settings**
-- Make sure the **Game Data Path** points to your **Game Root** folder.
+![BodySlide 1](/Pictures/sme/bodyslide-1.png)
 
-![BodySlide Setup](/Pictures/sme/bodyslide-setup.png)
+Change the file path to the `\Data\` folder within the SME `\Game Root\` folder and click **Choose Game**.
+
+![BodySlide 2](/Pictures/sme/bodyslide-2.png)

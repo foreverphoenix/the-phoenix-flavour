@@ -6,6 +6,39 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.4
+
+> 08/05/2023
+
+With this update I am adding quite a few script-related fixes and improvements that I had previously been wary of. The simple reason for this that I am utterly clueless when it comes to Papyrus or really code of any kind, so I am stuck with trusting the mod authors know what they do which is not so easy because it is my responsibility that SME offers as solid a base as possible. On the other hand, nearly all of the additions are script modifications by ferrari365 who takes the time to explain their edits which is extremely helpful. I also had a close look at the respective comment sections (though user reports are generally unreliable) and decided that it should be safe enough to add their mods.
+
+### Mod Changes
+
+- Added Vanilla Script (Micro)Optimizations
+- Added Mannequin Management
+- Added Beneath Bronze Waters Start Fix
+- Added dunfolgunthurbossbattle Script Fix
+- Added The Taste of Death Improved Shutdown
+- Added Soul Cairn Script Tweaks
+- Added dlc2tribalwerebearscript Fix
+- Added dlc2dunfrostmoontriggerscript Optimization
+- Added dlc2dunnchardarkdoorseal Script Infinite Loop Fix
+- Added dlc2dunseekerinvisscript Fix
+- Added dlc2miraakscript Fix
+- Added Bone Wolf Shutdown Fix
+- Added lilebonymaces Patches
+- Updated DynDOLOD to 3 Alpha 127
+- Updated Universal Cured Serana Eye Fix to 0.2
+- Updated DynDOLOD Resources to 3 Alpha 36
+- Removed wideadbodycleanupscript Crash Fix
+- Created new **Script Fixes** separator
+- Created new **Late Loader** separator
+- Moved the BodySlide / Outfit Studio installation from the Tools folder to a mod folder
+
+### Website Changes
+
+- **Installation:** (Hopefully) fixed the BodySlide setup instructions
+
 ## Release 2.3.3
 
 > 28/04/2023
