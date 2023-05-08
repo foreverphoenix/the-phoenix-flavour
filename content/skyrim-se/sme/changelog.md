@@ -6,13 +6,20 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.4.1
+
+> 08/05/2023
+
+- Updated ENBSeries Binaries (no version number change)
+- Deleted scripts from DynDOLOD Resources (yes, I forgot again)
+
 ## Release 2.4
 
 > 08/05/2023
 
 With this update I am adding quite a few script-related fixes and improvements that I had previously been wary of. The simple reason for this that I am utterly clueless when it comes to Papyrus or really code of any kind, so I am stuck with trusting the mod authors know what they do which is not so easy because it is my responsibility that SME offers as solid a base as possible. On the other hand, nearly all of the additions are script modifications by ferrari365 who takes the time to explain their edits which is extremely helpful. I also had a close look at the respective comment sections (though user reports are generally unreliable) and decided that it should be safe enough to add their mods.
 
-### Mod Changes
+#### Mod Changes
 
 - Added Vanilla Script (Micro)Optimizations
 - Added Mannequin Management
@@ -35,7 +42,7 @@ With this update I am adding quite a few script-related fixes and improvements t
 - Created new **Late Loader** separator
 - Moved the BodySlide / Outfit Studio installation from the Tools folder to a mod folder
 
-### Website Changes
+#### Website Changes
 
 - **Installation:** (Hopefully) fixed the BodySlide setup instructions
 
@@ -67,7 +74,7 @@ Small maintenance update with some much-needed fixes for the documentation.
 - Updated ENBSeries Binaries (no version number change)
 - Set Pause to True in the QUI TOML (game will be paused while viewing the plugin explorer)
 
-### Website Changes
+#### Website Changes
 
 - **Installation:** Fixed a bunch of typos
 - **Installation:** Removed Antivirus Exclusion section
