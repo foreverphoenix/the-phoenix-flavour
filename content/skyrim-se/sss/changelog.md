@@ -7,6 +7,97 @@ description: >
 ---
 
 
+## Release 4.17.0.2
+
+> 2023-05-18
+
+This update was left on the backburner for a few reasons but I've decided to push it out today assuming the next update will require a new game. Why will the next update require a new game, you ask? Because [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) released and some of you might have talked to Paarthurnax already. There are a few other mods that I'm thinking of switching out as well, so I'm considering this a good staging point for figuring out the next steps.
+
+Another reason the update was stalled was because I wanted to update the Example Builds section a bit more. I haven't gotten around to all the changes I wanted to implement so the builds are slightly out of date with Simonrim. I plan on giving them all some polishing with the Stormcrown update as the shouts sections will obviously need adjusting.
+
+The changelog looks lengthy but there aren't too many big changes. Just some gameplay updates to be aware of, such as the Blade and Blunt - Health Regeneration Addon. With this, you will regenerate Health back to 50% regardless of Survival mechanics, but you'll still need other means of recovery if you want to get back to full Health.
+
+There's also a known LOD bug that's most noticeable in the Winter season. If you notice weird flickering or floating snow in your travels, just save and reload in place and it should fix itself. Hopefully this is fully fixed in newer versions of DynDOLOD, but for now it's something we have to live with.
+
+<details>
+
+#### Changes
+
+- Cleaned up archives list, should lower the download size a fair amount
+- Applied changes from [Skyrim Modding Essentials 2.3.3](https://publish.obsidian.md/tpf/meta/changelogs/sme/sme-2-3-3), [2.4](https://publish.obsidian.md/tpf/meta/changelogs/sme/sme-2-4), and [2.4.1](https://publish.obsidian.md/tpf/meta/changelogs/sme/sme-2-4-1) and [Aurora 1.1](https://publish.obsidian.md/tpf/meta/changelogs/aur/aur-1-1) and [1.2](https://publish.obsidian.md/tpf/meta/changelogs/aur/aur-1-2)
+- **TPF 5.0 Fixes:** Removed Small Environmental Fixes (AO and Transition)
+- **TPF 5.0 Fixes:** Removed Small Environmental Fixes - Fixes
+- **Interface:** Temporarily disabled Compass Navigation Overhaul
+- **Graphics Baseline:** Removed Skyland AIO - Parallax
+- **Lux Lighting:** Removed Lux Via - Morthal Crash Fix
+- **Improved Trees:** Removed Happy Little Trees - Ivy on Trees
+- **Magic & Perks:** Moved Adamant - Weapons Armor Clothing and Clutter Fixes Patch into lilebonymace's Patches
+- **Alchemy, Cooking, & Farming:** Removed Book Covers Skyrim - Apothecary Patch
+- **Alchemy, Cooking, & Farming:** Added Apothecary - Book Covers Skyrim Patch
+- **Alchemy, Cooking, & Farming:** Moved Apothecary - Weapons Armor Clothing and Clutter Fixes Patch into lilebonymace's Patches
+- **NPC Dialogue & Behavior:** Moved Thugs Not Assassins - Timing Is Everything Patch Fix into lilebonymace's Patches
+- **Combat & Encounter Zones:** Added Blade and Blunt - Health Regeneration Addon
+- **Quest Start Adjustments:** Moved The Choice Is Yours - DLC2 March of the Dead Fix Patch into lilebonymace's Patches
+- **Quest Start Adjustments:** Moved The Choice Is Yours - Lod Dialogue Tweak into lilebonymace's Patches
+- **Miscellaneous:** Moved Contraband Confiscated - USSEP Patch into lilebonymace's Patches
+- **New & Expanded Quests:** Moved House of Horrors - No More Logrolf Houdini Patch into lilebonymace's Patches
+- **New & Expanded Quests:** Moved House of Horrors - The Choice Is Yours Patch into lilebonymace's Patches
+- **New Items:** Added aMidianBorn Armor Variants Lite - Modular Armory and Wolf Armors and Weapons Retextured Patch
+- **New Items:** Added PrivateEye's Royal Armory - Loadscreen Models Update as a separate mod
+- **New Creatures and Enemies:** Removed Skinshifters - Forsworn Doppelgangers
+- **Conflict Resolution:** Resolved Leveled List conflict between Apothecary and Ish's Respec Mod `0009CD41`
+- **Conflict Resolution:** Disabled EVG Conditional Idles' shield cover animations by default
+
+#### Updates
+
+- Updated Spell Perk Item Distributor to 6.6.1
+- Updated MergeMapper to 1.5
+- Updated Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI to 1.4
+- Updated Universal Cured Serana Eye Fix to 0.4
+- Updated Assorted Mesh Fixes to 0.79
+- Updated Skyrim Landscape and Water Fixes to 7.9
+- Updated Don't Stay in the Water to 5.1
+- Updated CoMAP - Common Marker Addon Project to 4.0
+- Updated Whose Quest Is It Anyway (no version change)
+- Updated ENBSeries to 0.493
+- Updated Lux Via to 1.7
+- Rolled Embers XD back to 2.7.3
+- Updated Icy Mesh Remaster to 2.14
+- Updated Cathedral - 3D Mountain Flowers - Base Object Swapperto 0.1.20
+- Updated Unique Red Wave to 1.1
+- Updated Mysticism - A Magic Overhaul to 2.2.4
+- Updated Adamant - A Perk Overhaul to 5.7.8
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.3.3
+- Updated Apothecary - An Alchemy Overhaul to 1.3.4
+- Updated Lawless - A Bandit Overhaul to 2.0
+- Updated Lawless - SimonRim Patch to 2.0
+- Updated Lawless - Expanded Enemy Coverage Addon to 2.0
+- Updated Lawless - Patch Collection to 2.0
+- Updated Dragon War - A Dragon Overhaul to 3.0.3
+- Updated Dragon War - Deadly Spell Impacts Patch to 3.0.3
+- Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.0.3
+- Updated The Dragon Cult - A Draugr Overhaul to 1.3.3
+- Updated At Your Own Pace - College of Winterhold to 2.0.1MG
+- Updated Paarthurnax - Quest Expansion to 1.12
+- Updated Immersive Display Overhaul to 1.3
+- Updated Survival Mode Improved to 1.1.3
+- Updated Destination Weddings to 1.4.1
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.0.3
+- Updated Audio Overhaul for Skyrim to 4.1.3
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.0.3
+- Updated Caught Red Handed - Quest Expansion to 1.04
+- Updated Hand to Hand - An Adamant Addon to 1.4.7
+- Updated Gesture Animation Remix to 2.0
+
+#### Outputs
+
+- Reuploaded Nemesis (previous upload flagged for some reason)
+- Regenerated Synthesis Patches
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.17.0.1
 
 > 2023-04-23
@@ -164,7 +255,7 @@ Also, full disclosure, Lux updated everything in the final moments before pushin
 
 - Regenerated Left Hand Weapon Meshes
 - Regenerated LODGen
-- Regenerated TenGen
+- Regenerated TexGen
 - Regenerated DynDOLOD (and Performance)
 
 </details>

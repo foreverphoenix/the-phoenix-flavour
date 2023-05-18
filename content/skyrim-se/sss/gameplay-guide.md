@@ -66,7 +66,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 
 ### Other Notes
 
-- Your Health won't regenerate on its own. You'll need to utilize other sources of regeneration to recover, such as food, potions, perks, or Restoration magic.
+- Your Health will only regenerate to 50% on its own. You'll need to utilize other sources of regeneration to recover further, such as food, potions, perks, or Restoration magic.
 - Containers are no longer bottomless. If you want to hoard goods and materials you'll need to find a suitable location with enough chests for your stash. ([_Container and Arrow Weight Restrictions_](https://www.nexusmods.com/skyrimspecialedition/mods/13826))
 - Similarly, your Carry Weight has been reduced, encouraging you to reconsider what's worth leaving the house with as well as what's worth picking up in a dungeon.
 - Imperial Septims won't be found in places where it wouldn't make sense. You'll find foreign or ancient coins in their place. Merchants can exchange these for Septims at various rates. ([_C.O.I.N. - Coins of Interesting Natures_](https://www.nexusmods.com/skyrimspecialedition/mods/51439))
