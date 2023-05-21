@@ -21,19 +21,7 @@ Since LOTF 3.0, the list is using the excellent [RAID Weathers](https://www.nexu
 
 For interiors I combined [Relighting Skyrim's](https://www.nexusmods.com/skyrimspecialedition/mods/8586) lightbulb adjustments and fixes with [Ambiance](https://www.nexusmods.com/skyrimspecialedition/mods/46383). Together these two mods tone down vanilla's often overly bright interiors, again without making them unplayable.
 
-Finally, the [Weather Is Sacred ENB](https://www.nexusmods.com/skyrimspecialedition/mods/77525) preset is adding ambient occlusion, better shadows, and improved lighting on grass. It also enables grass collision and complex particle light for the amazing [Radiant - Candles](https://www.nexusmods.com/skyrimspecialedition/mods/55856) mod. You can find a comparison slider showing off the effect [here](https://imgsli.com/NzcwMjA).
-
-You no longer need to open the console when editing the ENB: [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796) blocks every other input while the GUI is open.
-
----
-
-The hotkeys to toggle ENB on/off, open the GUI, or display the FPS meter defined in my `enblocal.ini` are the same as in TPF and WTP:
-
-- **F8** toggles the FPS counter.
-- **F10** toggles the ENB effect.
-- **F11** opens the ingame GUI.
-
-All other functions (screenshot, FPS cap, toggle DOF) were disabled. I recommend taking screenshots with Steam by pressing F12.
+~~Finally, the [Weather Is Sacred ENB](https://www.nexusmods.com/skyrimspecialedition/mods/77525) preset is adding ambient occlusion, better shadows, and improved lighting on grass. It also enables grass collision and complex particle light for the amazing [Radiant - Candles](https://www.nexusmods.com/skyrimspecialedition/mods/55856) mod. You can find a comparison slider showing off the effect [here](https://imgsli.com/NzcwMjA).~~
 
 ## Textures & Meshes
 

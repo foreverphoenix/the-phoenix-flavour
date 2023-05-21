@@ -6,6 +6,100 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.2
+
+> 21/05/2023
+
+**Requires a new save.**
+
+As far as LOTF updates go, this is a big one. It adds the final two 'features' I had wanted in the list and will (presumably?) be the last 'major' update to the list for the forseeable future. Other than mod updates, minor additions, and fixes if necessary, I have no further plans for LOTF.
+
+- Replaced ENB with the Community Shader suite. Enjoy the performance boost! No ReShade preset included yet because I haven't found one that I'm 100% happy with.
+- Regenerated DynDOLOD with the NG plugin which means (hopefully) no more large ref bugs. This required 'cleaning' plugins which has also been done.
+
+The ENB lights related mods removed in this update will be re-added once ENB light support is added to the Community Shader suite.
+
+I also added a bunch of script fixes, some tweaks for specific eyesores (shrubs and juniper trees), and the gorgeous Icy Cave Remaster because vanilla ice caves are ugly as sin.
+
+#### Mod Changes
+
+- Added Vanilla Script (micro)Optimizations
+- Added DynDOLOD Scripts and DLL (NG)
+- Added RemoveAllItems Freeze Fix
+- Added World Encounter Hostility Fix
+- Added The Taste of Death Improved Shutdown
+- Added dunFolgunthurBossBattle Script Fix
+- Added Shroud Hearth Barrow Script Fix
+- Added Soul Cairn Script Tweaks
+- Added DLC2PillarBuilderActorScript Tweak
+- Added DLC2TribalWerebearScript Fix
+- Added DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Added DLC2dunSeekerInvisScript Fix
+- Added DLC2dunFrostmoonTriggerScript Optimization
+- Added DLC2MiraakScript Fix
+- Added Butterflies Land True - CC Tundra Homestead Patch
+- Added Butterflies Land True - CC Myrwatch Patch
+- Added Beneath Bronze Waters Start Fix
+- Added Bone Wolf Shutdown Fix
+- Added moreHUD Inventory Edition - Low Resolution Fix
+- Added Skyland AIO - Better Imperial Forts
+- Added Enhanced Blood Textures (Lite)
+- Added SSE Parallax Shader Fix (BETA) - d3dcompiler_47
+- Added ReShade
+- Added SSE ReShade Helper
+- Added Community Shaders
+- Added Vanilla HDR
+- Added Soft Shadows
+- Added Twilight
+- Added Tree LOD Lighting
+- Added Grass Lighting
+- Added Grass Collision
+- Added Grass Sampler Fix
+- Added TAA Deblur
+- Added Icy Cave Remaster
+- Added Shrubs Redone AIO
+- Added 3D Junipers - Trees and Berries
+- Added Markarth Road Finished
+- Added Water Effects Brightness and Reflection Fix
+- Added Water Effects Brightness and Reflection Fix - Realistic Water Two Patch
+- Added Enhanced Landscapes - Grass Overhaul - LOTF Tweaks
+- Added HQ Vanilla Tiny Rocks
+- Added Audio Overhaul for Skyrim - EBT Lite Patch
+- Added Werewolf Claws Affect Spider Webs
+- Added LOOT Warning Checker (to quickly clean plugins for Dyn NG)
+- Updated Keyword Item Distributor to 3.0.2
+- Updated Skyrim Landscape and Water Fixes to 7.9
+- Updated Mannequin Management to 4.0
+- Updated Universal Cured Serana Eye Fix to 0.4
+- Updated Complementary Grass Fixes to 1.1
+- Updated Assorted Mesh Fixes to 0.79
+- Updated DynDOLOD Resources to 3 Alpha 36
+- Updated LOD Model Library to 1.2.2
+- Updated CoMAP - Common Marker Addon Project to 4.0
+- Updated Icy Mesh Remaster to 2.18
+- Updated Audio Overhaul for Skyrim to 4.1.3
+- Removed DynDOLOD Scripts and DLL
+- Removed DynDOLOD Scripts and DLL (GOG)
+- Removed Nchuanthumz Papyrus Load Fix (part of USCCCP)
+- Removed Enable Filmic Curve (redundant without ENB)
+- Removed Radiant - Candles
+- Removed ENBSeries - Binaries
+- Removed ENBSeries - LOTF Settings
+- Removed ENBSeries - Weather Is Sacred ENB
+- Removed ENBSeries - Weather Is Sacred ENB - LOTF Edits
+- Removed ENB Helper
+- Removed ENB Helper Plus
+- Removed ENB Input Disabler
+- Removed ENB Lights For Effect Shaders
+- Removed ENB Particle Lights - Dwemer Lanterns
+- 'Cleaned' the official master files
+- 'Cleaned' various Creation Club plugins
+- Created new "Script Fixes" separator and reshuffled some mods
+- Renamed the "ENBSeries" separator to "Community Shaders"
+- Disabled some bugged assets from High Poly Vanilla Hair
+- Deleted CRC32s from ModGroups
+- Regenerated all LODs
+
 ## Release 3.1
 
 > 09/04/2023

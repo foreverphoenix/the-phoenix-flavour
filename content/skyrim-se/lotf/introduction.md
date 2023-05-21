@@ -25,7 +25,7 @@ description: >
 - **More lush trees, actually 3D roads, less oily water**, and many other visual improvements.
 - High quality texture overhaul for many objects provided by [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179).
 - All remaining textures replaced by cleaned and upscaled versions, courtesy of the [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/users/34739755?tab=user+files) series.
-- Improved weathers and lighting with [RAID Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) and [Weather Is Sacred ENB](https://www.nexusmods.com/skyrimspecialedition/mods/77525).
+- Improved weathers and lighting with [RAID Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) and the full suite of shader tweaks based on [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) by doodlez.
 - Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Ultimate Immersion Toggle](https://www.nexusmods.com/skyrimspecialedition/mods/62117). Better [Reading UI](https://imgsli.com/NzAzOTc).
 - More resource management-oriented combat with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) (and vanilla damage modifiers).
 - Better sound quality with [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466).
@@ -46,7 +46,7 @@ Please check the [Documentation](/skyrim-se/lotf/documentation/) for more detail
 
 ### Performance
 
-LOTF has **no significant performance impact**. It was not designed to be a "lite" list but the absence of a fully-featured ENB preset as well as the optional performance tweaks should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyland AIO** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
+LOTF has **no significant performance impact**. It was not designed to be a "lite" list but the absence of an ENB preset as well as the optional performance tweaks should still make the list more than playable on all but the weakest PCs. While I relied almost exclusively on **Skyland AIO** and **Project Clarity** for textures with largely vanilla-sized textures, DynDOLOD does increase the amount of VRAM required.
 
 I personally play @1440p60FPS on a rather high-end PC (i7 10700k, RTX 3080) and barely ever dropped below 144FPS when I uncapped the framerate for testing purposes. The framerate is capped at 60FPS by default which should be very achievable for most PCs.
 
