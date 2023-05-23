@@ -6,6 +6,32 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.8.2
+
+> 23/05/2023
+
+Maintenance update, save safe.
+
+- Added Mesh Bounds Fix
+- Added Northern Foothills Rocks Fix
+- Added Enhanced Vanilla Rocks
+- Added Enhanced Vanilla Plants
+- Added Craftable Pride Flags
+- Updated ENBSeries to 0.489
+- Updated Fallout Priority - F4SE Plugin to 3.4.0
+- Updated Workshop Framework to 2.3.5a
+- Updated Fallout 4 Particle Patch - No More Glowing Objects to 1.2
+- Updated Targeted Textures - Vanilla Textures Upscaled Fixed and Sized to 2.2
+- Updated Fallout 4 Ultimate Window Overhaul to 4.1.2
+- Updated Blasted Billboards - A Weathered Billboard Overhaul to 1.2.1
+- Updated Peeling Posters - Weathered Paper Based Signs to 1.1.1
+- Updated Frame Job - A Power Armor Frame Retexture to 1.2
+- Updated Curated Companions to 3.2
+- Removed Natural Rocks 2K
+- Removed Blasted Billboards - A Weathered Billboard Overhaul - FOLIP Patch (redundant with TexGen)
+- Removed Peeling Posters - Weathered Paper Based Signs - FOLIP Patch (redundant with TexGen)
+- Regenerated LODs
+
 ## Release 2.8.1
 
 > 10/04/2023
