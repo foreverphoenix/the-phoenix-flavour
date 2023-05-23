@@ -6,6 +6,20 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.4.2
+
+> 23/05/2023
+
+- Added World Encounter Hostility Fix
+- Added RemoveAllItems Freeze Fix
+- Added Neloth's Experimental Subject Quest dlc2ttr4a Fix
+- Updated LOOT Warning Checker MO2 Plugin to 1.2.4-beta
+- Updated MergeMapper to 1.5.0
+- Updated Universal Cured Serana Eye Fix to 0.4
+- Updated Assorted Mesh Fixes to 0.79
+- Updated DynDOLOD to 3 Alpha 128
+- Removed some errant files from the Overwrite folder
+
 ## Release 2.4.1
 
 > 08/05/2023
