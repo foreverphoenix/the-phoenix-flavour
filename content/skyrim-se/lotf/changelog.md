@@ -6,13 +6,33 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.2.1
+
+> 30/05/2023
+
+#### Mod Changes
+
+- Added Dual Casting Fix
+- Added ICR Updated Meshes (merged with Icy Cave Remaster)
+- Updated Unofficial Skyrim Special Edition Patch to 4.2.9a
+- Updated High Gate Ruins Puzzle Reset Fix to 0.3
+- Updated World Encounter Hostility Fix to 0.3
+- Updated Grass Sampler Fix to 1.0.1
+- Updated TAA Deblur to 1.0.1
+- ReShade is now disabled by default to prevent warnings about missing shaders
+- Enabled AO in the backup of the default SkyrimPrefs.ini to match the active version
+
+#### Website Changes
+
+- **Installation:** Removed a section about the performance profile (which was removed)
+
 ## Release 3.2
 
 > 21/05/2023
 
 **Requires a new save.**
 
-As far as LOTF updates go, this is a big one. It adds the final two 'features' I had wanted in the list and will (presumably?) be the last 'major' update to the list for the forseeable future. Other than mod updates, minor additions, and fixes if necessary, I have no further plans for LOTF.
+As far as LOTF updates go, this is a big one. It adds the final two 'features' I had wanted in the list and will (presumably?) be the last *major* update for the forseeable future. Other than mod updates, minor additions, and fixes if necessary, I have no further plans for LOTF.
 
 - Replaced ENB with the Community Shader suite. Enjoy the performance boost! No ReShade preset included yet because I haven't found one that I'm 100% happy with.
 - Regenerated DynDOLOD with the NG plugin which means (hopefully) no more large ref bugs. This required 'cleaning' plugins which has also been done.
