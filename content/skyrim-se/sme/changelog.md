@@ -6,6 +6,20 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.4.3
+
+> 30/05/2023
+
+- Added Dual Casting Fix
+- Added BSA Extractor 2 for Mod Organizer 
+- Updated Wrye Bash to 311
+- Updated ENBSeries Binraies to 0.493
+- Updated the Unofficial Skyrim Special Edition Patch to 4.2.9a
+- Updated FormList Manipulator to 1.7.0
+- Updated High Gate Ruins Puzzle Reset Fix to 0.3
+- Updated World Encounter Hostility Fix to 0.3
+- Removed Beneath Broze Waters Start Fix
+
 ## Release 2.4.2
 
 > 23/05/2023
