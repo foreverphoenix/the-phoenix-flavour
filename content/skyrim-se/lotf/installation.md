@@ -229,16 +229,6 @@ Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.e
 
 LOTF only has a handful of Mod Configuration Menus (MCMs). **Presets are automatically applied so you don't need to edit anything manually.** I strongly recommend not changing anything in the MCMs unless you have something specific in mind.
 
-### Performance Profile
-
-If your system is on the lower mid end, you may want to try the **Performance** profile.
-
-Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Legends of the Frost\profiles\Legends of the Frost\saves\` to `\Legends of the Frost\profiles\Legends of the Frost - Performance\saves\` manually. Please do not attempt to switch from the CC profile to either the regular or performance profile in an ongoing playthrough.
-
-Check the picture below to see how to switch to a different profile in MO2:
-
-![Swap MO2 Profile](/Pictures/lotf/installation/lotf-performance-profile.png)
-
 ### Customisation
 
 Before you begin a new playthrough, you may want to check out the tweaks and optional mods that are supported for LOTF on the [Customisation](/skyrim-se/lotf/customisation) page.
