@@ -19,6 +19,7 @@ description: >
 - Updated World Encounter Hostility Fix to 0.3
 - Updated Grass Sampler Fix to 1.0.1
 - Updated TAA Deblur to 1.0.1
+- Removed Beneath Bronze Waters Start Fix
 - ReShade is now disabled by default to prevent warnings about missing shaders
 - Enabled AO in the backup of the default SkyrimPrefs.ini to match the active version
 
