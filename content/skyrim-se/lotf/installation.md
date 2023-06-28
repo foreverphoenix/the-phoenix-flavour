@@ -8,7 +8,7 @@ description: >
 
 ## Requirements
 
-- Skyrim Special Edition on [Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) **or** [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition).
+- Skyrim Special Edition on [Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) (English).
 - The **Anniversary Edition DLC** (or all Creations bought separately).
 - Latest version of Windows 10 (required by Wabbajack).
 - At least a free [Nexus Mods](https://www.nexusmods.com/) account, Premium is recommended.
@@ -31,7 +31,7 @@ Mod Organizer 2 requires the Microsoft Visual C++ Redistributable and .NET Frame
 
 If either of them were missing on your system, they will be installed now. Afterwards, you may be required to restart your PC.
 
-## Steam Installation
+## Game Installation
 
 > **Skip this step if you are using the GOG version of Skyrim SE.** Note that if, for whatever reason, you have both Steam and GOG version installed, Wabbajack will prioritise the Steam version.
 
@@ -125,56 +125,6 @@ This way, you will be able to postpone an update indefinitely as long as you alw
 - In the **Updates** tab, change **Automatic updates** to **Only update this game when I launch it**.
 - Close the **Properties** window.
 
-## GOG Installation
-
-> Skip this step if you installed Skyrim SE through Steam.
-
-**LOTF requires the latest version of Skyrim SE.** This is currently `1.6.659.0` on GOG.
-
-Because LOTF is using the default game folder (with the Root Builder plugin), it is crucial that this folder is located **outside** any UAC-protected folders. To ensure this is the case and that no left-over files from previous mod setups can interfere with LOTF, I recommend doing a full clean install of the game.
-
-- Uninstall **Skyrim Special Edition** through GOG Galaxy.
-- Navigate to the directory where Skyrim SE was previously installed.
-- If there is still a `\Skyrim Special Edition\` folder, delete it.
-
-(It is possible that only vanilla files are removed by the uninstallation process while mod-added files must be deleted manually.)
-
-### INI Folder
-
-Other game files are located inside the so-called **INI Folder** which should be cleaned out as well. It contains your **savegames** as well as the game’s INI files and, if you modded Skyrim before, SKSE plugin logs.
-
-- Navigate to the INI Folder: `C:\Users\{Your User Name}\Documents\My Games\Skyrim Special Edition\`.
-- If you have an ongoing vanilla playthrough, back up the **Saves** folder.
-- Delete everything inside the **Skyrim Special Edition** folder.
-
-### Set language to English
-
-**LOTF requires the English language version of Skyrim SE.** If you previously switched to a language other than English, please follow these instructions:
-
-- In GOG Galaxy, open the **Skyrim Special Edition** page.
-- Click the configuration button next to **Play**.
-- Select **Manage installation** > **Configure**.
-- Set **Language** to **English** and click **OK**.
-
-### Reinstallation
-
-Now we can re-install Skyrim SE through GOG Galaxy. When choosing an installation directory, keep the following in mind:
-
-- Skyrim SE must be located **outside** any UAC-protected folders, e.g. `C:\Program Files\` or `C:\Program Files x86\`.
-- Skyrim SE should be located **on the same hard drive** that you will be installing LOTF on.
-
-Ideally, install the game on an SSD for improved loading times.
-
-Wait for the download to complete before you proceed.
-
-### Regenerating INIs
-
-After re-installing Skyrim SE, it is important to launch it once so that the registry keys are set up, allowing Wabbajack and Mod Organizer to find the game. Upon launching the game, the default set of INI files will also be regenerated.
-
-- Find **Skyrim Special Edtion** in your **Games Library** and hit **Play**.
-- You will be prompted with a notification that Skyrim SE is configuring your video options, click **OK**.
-- Click **OK** again in the next window, then quit the launcher.
-
 ## Wabbajack Installation
 
 Next up, you need to install the Wabbajack tool itself:
@@ -220,8 +170,6 @@ In most cases the installation should complete successfully on the first try. Th
 ## Playing LOTF
 
 Navigate to your **Legends of the Frost** folder and launch the **ModOrganizer.exe** within. In the top right drop-down menu, **Skyrim Script Extender** should already be selected and you can now launch the game by clicking **Run**.
-
-> **GOG people:** Double-click the `GOG Support` separator in MO2 and activate all four mods grouped below it before launching the game.
 
 ![Play LOTF](/Pictures/lotf/installation/launch-lotf.png)
 

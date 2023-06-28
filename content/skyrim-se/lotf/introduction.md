@@ -29,7 +29,6 @@ description: >
 - Modern interface thanks to [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604). The HUD is toggleable with [Ultimate Immersion Toggle](https://www.nexusmods.com/skyrimspecialedition/mods/62117). Better [Reading UI](https://imgsli.com/NzAzOTc).
 - More resource management-oriented combat with [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) (and vanilla damage modifiers).
 - Better sound quality with [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466).
-- **Optional GOG support** (for the GOG version of Skyrim SE).
 - **Optional Widescreen support** (for 2560x1080 or 3440x1440 monitors).
 
 Legends of the Frost features rebuilt terrain LOD with [SSELODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-84-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/?ct=1629204990) as well as highly improved object LOD and hybrid tree LOD generated with [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382). All facegen for vanilla NPCs was recreated at twice the vanilla resolution with higher quality assets.
