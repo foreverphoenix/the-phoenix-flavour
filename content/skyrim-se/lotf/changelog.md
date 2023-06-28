@@ -6,6 +6,44 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.2.2
+
+> 28/06/2023
+
+With this update I am **dropping GOG support** again. Technically, it already happened with 3.2 when I switched to DynDOLOD NG as cleaning masters for Steam *and* GOG versions in combination with Wabbajack is a bit complicated right now and the list should currently not be installable for GOG folks. The fact that I only had one report about that to date shows that most people use Steam anyway and I am happy to streamline the list further.
+
+#### Mod Changes
+
+- Added Rogue Master Detector
+- Added Universal Unwanted Effects Clearer
+- Added SkyUI - 3D Item Offset Fix
+- Added Fish Plaque Fixes and Improvements
+- Added Stats of Stealing
+- Added Screen-Space Shadows
+- Added Open Animation Replacer
+- Added Assorted Animation Fixes
+- Updated Kezyma's Root Builder to 4.4.3
+- Updated ConsolePlusPlus to 1.3.0
+- Updated DynDOLOD Resources to 3 Alpha 37
+- Updated xLODGen Resource - SSE Terrain Tamriel to 2.0
+- Updated Assorted Mesh Fixes to 0.82
+- Updated Fixed Mesh Lighting to 1.9
+- Updated Community Shaders to 0.3.3
+- Updated Tree LOD Lighting to 1.0.1
+- Updated Grass Lighting to 1.1.1
+- Updated TAA Deblur to 1.0.1
+- Updated Icy Mesh Remaster to 2.20
+- Updated 3D Junipers - Trees and Berries to 0.2
+- Updated Misc Dialogue Edits to 1.9.2
+- Removed Dawnstar - Fixed Fences (covered by BDS)
+- Removed Dynamic Animation Replacer
+
+#### Website Changes
+
+- **Introduction:** Removed mention of GOG.
+- **Installation:** Removed GOG-related instructions.
+- **Customisation:** Added note to disable SkyUI - 3D Item Offset Fix when on widescreen
+
 ## Release 3.2.1
 
 > 30/05/2023

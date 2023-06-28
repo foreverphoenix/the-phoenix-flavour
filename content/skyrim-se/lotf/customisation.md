@@ -38,6 +38,7 @@ The user interface mods included with LOTF (as well as the vanilla Skyrim UI) ar
 
 Wabbajack will already have correctly set your resolution in the INI files so no manual adjustments are required.
 
+- Disable **SkyUI - 3D Item Offset Fix** under the **Essential Mods** separator.
 - Enable all mods grouped below the **Widescreen Patches** separator:
 
 ![LOTF Widescreen Support](/Pictures/lotf/customisation/lotf-widescreen-support.png)
