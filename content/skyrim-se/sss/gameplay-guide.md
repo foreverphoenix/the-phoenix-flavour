@@ -55,13 +55,13 @@ Soon after being left to your own devices you will find yourself being Lethargic
 - A multitude of bedrolls are scattered around Skyrim. You won't wake up Well Rested, but it's free.
 - Sleeping in town is another option. However, the cost of an inn depends on the location, ranging from reasonable to highway robbery.
 - Of course, you can always take what you want from the local brigands. Bandit camps typically have a warm, indoor bed to enjoy once the owners have been evicted.  
-- Eventually you'll want to purchase an permanent residence for something dependable and reliable.
+- Eventually you'll want to purchase a permanent residence for something dependable and reliable.
 
 ### Cold
 
 Skyrim is a cold, northern environment and ignoring the elements will lead to your downfall. Your Health is directly at risk when succumbing to the cold but there are ways of dealing with it.
 
-- Avoid the obvious. Snowstorms clearly mean freezing temperatures, as are lakes and rivers in snowy regions. Stay out of them.  
+- Avoid the obvious hazards. Snowstorms clearly mean freezing temperatures, as are lakes and rivers in snowy regions. Stay out of them.  
 - Purchasing or cooking hot soups and stews can warm you up as needed along your travels.  
 - Wearing clothes with a lot of coverage and/or fur will leave you warmer than other options. Conversely, metal armor is more susceptible to lower temperatures. Heavy armor users may want to carry a change of clothes for the road.
 - The winter months will be colder than the rest of the year. Factor that into your preparations.

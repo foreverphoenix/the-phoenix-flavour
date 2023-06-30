@@ -5,7 +5,6 @@ type: docs
 description: >
  *Venom and vengeance: A toxic combination.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Argonian Agent](/Pictures/sss/builds/argonian-agent.png)
 
@@ -329,9 +328,9 @@ You'll rarely be using this to heal someone, if ever. Your knowledge of the rest
 #### Kyne's Peace
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KaaN">K1N</span> **Kaan:** *Calms targets up to level 20 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DREM">DREM</span> **Drem:** *Calms targets up to level 30 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="OV">OV</span> **Ov:** *Calms targets up to level 40 for 30 seconds.*
+* **Kaan:** *Calms targets up to level 20 for 30 seconds.*
+* **Drem:** *Calms targets up to level 30 for 30 seconds.*
+* **Ov:** *Calms targets up to level 40 for 30 seconds.*
 * **Meditation:** *Kyne’s Peace works on the undead, Daedra, and Dwarven automatons.*
   
 An alternative to *Bend Will* that's easier to access. Calming an enemy will give you a chance to hide and reset the situation when it goes off the rails.
@@ -339,9 +338,9 @@ An alternative to *Bend Will* that's easier to access. Calming an enemy will giv
 #### Poison Breath
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LaaS">L1S</span> **Laas:** *Deals 7.5 Poison damage per second for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SLEN">SLEN</span> **Slen:** *Deals 11.25 Poison damage per second for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="AUS">AUS</span> **Aus:** *Deals 15 Poison damage per second for 10 seconds.*
+* **Laas:** *Deals 7.5 Poison damage per second for 10 seconds.*
+* **Slen:** *Deals 11.25 Poison damage per second for 10 seconds.*
+* **Aus:** *Deals 15 Poison damage per second for 10 seconds.*
 * **Meditation:** *Poison Breath deals double damage to enemies who fall below half Health.*
 
 Thematically perfect for a poison master and not a bad panic button to hit whenever enemies detect you and get in your face.
@@ -349,9 +348,9 @@ Thematically perfect for a poison master and not a bad panic button to hit whene
 #### Slow Time
 *Cooldown: 180/240/300 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="TiiD">T3D</span> **Tiid:** *Slows time by 50% for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KLO">KLO</span> **Klo:** *Slows time by 50% for 20 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="UL">UL</span> **Ul:** *Slows time by 50% for 30 seconds.*
+* **Tiid:** *Slows time by 50% for 10 seconds.*
+* **Klo:** *Slows time by 50% for 20 seconds.*
+* **Ul:** *Slows time by 50% for 30 seconds.*
 * **Meditation:** Slow Time is twice as strong.
 
 Slow Time's effect doesn't cover damage over time such as poison, which is the majority of your damage. In other words, this shout makes your poison work through your victims at an accelerated pace while helping you sidestep pretty much anything coming your way.

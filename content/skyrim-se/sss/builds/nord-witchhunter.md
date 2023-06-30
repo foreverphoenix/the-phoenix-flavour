@@ -5,7 +5,6 @@ type: docs
 description: >
   *I bring the breath of winter to the field of war.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Nord Witchhunter](/Pictures/sss/builds/nord-witchhunter.png)
 
@@ -17,10 +16,9 @@ Upon reaching maturity, you made a bold decision: you uprooted yourself from all
 
 You find yourself torn between the allure of rediscovering your family's history and the urgent call to serve your homeland. The path ahead is treacherous and uncertain, with perils awaiting at every turn. Yet, armed with the stories of your ancestors and the remnants of their magical legacy, you are determined to carve out your destiny amidst the chaos and strife that awaits in Skyrim.
 
-
 ## Summary
 
-* **Complexity:** Low
+* **Complexity:** Moderate
 * **Race:** [Nord](## "Major Skill: Two-handed
 Minor Skills: Block, Heavy Armor, Light Armor, Smithing, Speech
 Nordic Heritage: Your Frost Resistance is increased by 50%, and you take 25% less damage while power attacking, drawing a bow, or casting a spell.")
@@ -30,9 +28,9 @@ Nordic Heritage: Your Frost Resistance is increased by 50%, and you take 25% les
   * **Utility:** Enchanting
 * **Attributes:**  
 Stamina will be vital in consistently firing your bow and sprinting to safer locations if the enemy gets close. Also, the boost in Magicka from the Atronach Stone allows you to focus your points elsewhere.
-  * **Health:** 3 (30%)
-  * **Magicka:** 2 (25%)
-  * **Stamina:** 4 (45%)
+  * **Health:** 3
+  * **Magicka:** 2
+  * **Stamina:** 4
 
 Think of yourself as the quintessential ranger, except instead of having a tamed beast at your side you'll employ the assistance of summoned daedra, most notably the Frost Atronach. These burly minions will whittle down your opponent's stamina and speed as well as their health, soak up attacks, and ultimately make it harder for melee combatants to reach you. Meanwhile, you'll stay safe and incredibly deadly on the back line, putting an enchanted bow to maximum effect. Destruction spells can be useful as well, but keep in mind that Magicka won't regenerate in combat. Always keep enough in the tank for another summon.
 
@@ -317,18 +315,18 @@ Destruction is a strong backup plan to your bow and you could easily learn and u
 #### Call of Valor
 *Cooldown: 180/180/180 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="HUN">HUN</span> **Hun:** *Summons Gormlaith Golden-Hilt for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KaaL">K1L</span> **Kaal:** *Summons Felldir the Old for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZooR">Z8R</span> **Zoor:** *Summons Hakon One-Eye for 60 seconds.*
+* **Hun:** *Summons Gormlaith Golden-Hilt for 60 seconds.*
+* **Kaal:** *Summons Felldir the Old for 60 seconds.*
+* **Zoor:** *Summons Hakon One-Eye for 60 seconds.*
 
 Frost Atronachs are great but Nord heroes are even better and still in theme. Since they count towards the same conjuration limit, this is a good backup plan should you be short on magicka for summoning. They have access to shouts such as *Unrelenting Force* so they can sometimes be a better ally for crowd control than your usual ally.
 
 #### Frost Breath
 *Cooldown: 30/45/60 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FO">FO</span> **Fo:** *Deals 50 Frost damage to Health and Stamina.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KRah">KR4</span> **Krah:** *Deals 75 Frost damage to Health and Stamina.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DiiN">D3N</span> **Diin:** *Deals 100 Frost damage to Health and Stamina.*
+* **Fo:** *Deals 50 Frost damage to Health and Stamina.*
+* **Krah:** *Deals 75 Frost damage to Health and Stamina.*
+* **Diin:** *Deals 100 Frost damage to Health and Stamina.*
 * **Meditation:** *Frost Breath deals extra Stamina damage over 30 seconds.*
 
 Very much in theme for the build. It won't benefit from your perks but it will replace a spell in an emergency, especially if you want to keep your bow out at the time. Keep it equipped for emergencies.
@@ -336,9 +334,9 @@ Very much in theme for the build. It won't benefit from your perks but it will r
 #### Ice Form
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="iiZ">3Z</span> **Iiz:** *Reduces enemy Movement and Attack Speed by 25% for 20 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SLEN">SLEN</span> **Slen:** *Reduces enemy Movement and Attack Speed by 25% for 40 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NUS">NUS</span> **Nus:** *Reduces enemy Movement and Attack Speed by 25% for 60 seconds.*
+* **Iiz:** *Reduces enemy Movement and Attack Speed by 25% for 20 seconds.*
+* **Slen:** *Reduces enemy Movement and Attack Speed by 25% for 40 seconds.*
+* **Nus:** *Reduces enemy Movement and Attack Speed by 25% for 60 seconds.*
 * **Meditation:** *Ice Form has a chance to encase enemies in ice for 10 seconds.*
   
 An excellent crowd control option. A 25% malus is very noticeable and buys you a lot of space. With the meditation this has a chance of freezing them outright for 10 seconds, giving you even more time.

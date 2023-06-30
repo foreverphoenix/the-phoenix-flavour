@@ -5,7 +5,6 @@ type: docs
 description: >
   *Probably gonna dig a grave or two before this is done.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Khajiit Deatthknight](/Pictures/sss/builds/khajiit-deathknight.png)
 
@@ -310,9 +309,9 @@ Conjuration is the glue between your martial abilities and your enchanting studi
 #### Battle Fury
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MID">MID</span> **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Vur">V6</span> **Mir:** *All nearby allies move and attack 15% faster for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SH1N">SH1N</span> **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
+* **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
+* **Mir:** *All nearby allies move and attack 15% faster for 60 seconds.*
+* **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
 * **Meditation:** *Battle Fury increases the Armor Rating of all nearby allies by up to 150.*
 
 Your minions count as allies and they tend to carry weapons. A 20% boost is nothing to sneeze at, especially with a 50% or better uptime. The meditation adds a substaintial amount of armor to them all as well.
@@ -320,9 +319,9 @@ Your minions count as allies and they tend to carry weapons. A 20% boost is noth
 #### Soul Tear<sup>DG</sup>
 *Cooldown: 120/150/180 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Rii">R3</span> **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VaaZ">V1Z</span> **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZOL">ZOL</span> **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
+* **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
+* **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
+* **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
 * **Meditation:** *Soul Tear deals extra damage over 10 seconds.*
 
 Damages enemies, fills your soul gems, and can raise a corpse automatically for you with the 3rd word? Talk about efficiency! Don't hesitate to open up encounters with this one as you'll turn an enemy on their friends.
@@ -330,9 +329,9 @@ Damages enemies, fills your soul gems, and can raise a corpse automatically for 
 #### Summon Durnehviir<sup>DG</sup>
 *Cooldown: 5/10/300 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Dur">D6</span> **Dur:** *No effect.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NEH">NEH</span> **Neh:** *No effect.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ViiR">V3R</span> **Viir:** *Summons Durnehviir.*
+* **Dur:** *No effect.*
+* **Neh:** *No effect.*
+* **Viir:** *Summons Durnehviir.*
   
 Your whole schtick is using what you find and you found a dragon. Better yet, you found a dragon that can summon more allies to fight alongside you. Use this for the hard fights, just remember that Durnehviir counts towards your summon limit when you think of reanimating anything else.
 
