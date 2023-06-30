@@ -36,9 +36,10 @@ In general, expect the game to tell you far less information, leaving you to inf
 
 ## 2. Survival and Exploration
 
-This list will automatically enable [_Survival Mode_](https://en.uesp.net/wiki/Skyrim:Survival_Mode) at the end of the Helgen. You'll be expected to engage with its mechanics, specifically *eating*, *sleeping*, and *keeping warm*.
+This list will automatically enable [_Survival Mode_](https://en.uesp.net/wiki/Skyrim:Survival_Mode) at the start of the game. You'll be expected to engage with its mechanics, specifically *eating*, *sleeping*, and *keeping warm*.
 
 ### Hunger
+
 Fuel for your adventurer, food will be a near-constant concern on your journey. Neglecting to eat will lower your maximum Stamina, slow your Magicka Regeneration, and eventually affect your physical prowess. Luckily, food is somewhat abundant in Skyrim if you know where to look.
 
 - Fruits and vegetables are commonly found in barrels all around the region.  
@@ -48,12 +49,13 @@ Fuel for your adventurer, food will be a near-constant concern on your journey. 
 - If you have a heavy coin pouch you can simply buy ingredients or fully cooked meals from vendors to save yourself time.
 
 ### Fatigue
+
 Soon after being left to your own devices you will find yourself being Lethargic or Tired and in need of sleep. Several options are available to you though you may want to act fast before the penalties to your maximum Magicka and Stamina Regeneration make it harder to fight effectively. Your experience rate will also drop when you are fatigued and improve when you're rested.
 
 - A multitude of bedrolls are scattered around Skyrim. You won't wake up Well Rested, but it's free.
 - Sleeping in town is another option. However, the cost of an inn depends on the location, ranging from reasonable to highway robbery.
 - Of course, you can always take what you want from the local brigands. Bandit camps typically have a warm, indoor bed to enjoy once the owners have been evicted.  
-- Eventually you'll want to purchase an official residence for something dependable and reliable.
+- Eventually you'll want to purchase an permanent residence for something dependable and reliable.
 
 ### Cold
 
@@ -76,7 +78,6 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 - [_Survival Mode Improved_](https://www.nexusmods.com/skyrimspecialedition/mods/56374)  
 - [_Apothecary Food and Drink Addon_](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
 
-
 ## 3. Crafting
 
 The hard limit on player level (Lv50) and perk points (55 total) makes it harder to invest in multiple crafting skills while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into crafted goods you can not create yourself.
@@ -87,15 +88,14 @@ Alchemical goods can be found in almost every settlement at the general store if
 
 ### Smithing
 
-With the exception of the quintessential Mage, most adventurers will get some benefit from Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting very specific enemies, crafting them yourself, or commissioning the work from a blacksmith. These same weapons and armor will degrade with use and require occasional tempering to maintain their quality ([_Simple Degradation_](https://www.nexusmods.com/skyrimspecialedition/mods/74790)). A master at the craft can add +10 to the base damage/armor of equipment with a single ingot. If you're not up to the task, you can and should pay a blacksmith to do that for you too.
+With the exception of the quintessential Mage, most adventurers will get some benefit from Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting very specific enemies or crafting them yourself. Weapons and armor can be improved (a master at the craft can add +10 to the base damage/armor of equipment with a single ingot) but they will degrade with use back to their original stats without maintenance ([_Simple Degradation_](https://www.nexusmods.com/skyrimspecialedition/mods/74790)).
 
 ### Enchanting
 
-Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can rival the skill of an adept or expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment are priceless.
+Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can rival the skill of an adept or expert enchanter. Until then, keep an eye out for enchanted gear from merchants. The price tag can be daunting but the benefits of a well picked enchantment are worth it.
 
 #### Additional Reading
 
-- [_Honed Metal_](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
 - [_Thaumaturgy - An Enchanting Overhaul_](https://www.nexusmods.com/skyrimspecialedition/mods/57138)
 - [_Apothecary - An Alchemy Overhaul_](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
 
@@ -105,7 +105,7 @@ Removing combat related HUD elements alone increases difficulty but keep in mind
 
 > **Tip:** Even though health bars were removed, [_Just Blood_](https://www.nexusmods.com/skyrimspecialedition/mods/46501) will add increasing bloody overlays on enemies as a rough indicator of their Health. Keep an eye out for this subtle effect.
 
-On top of that, enemies have been placed into tiers and you'll want to build your strength up before tackling some of them. For example, Falmer and Dwemer ruins are best avoided until Lv20 or so, and Daedra until Lv30. Of course, this is just a general rule, but keep that in mind if you run into a figurative wall on your adventures. Dragons in particular are much tougher than they are in the vanilla game, with their levels soaring far higher than your Lv50 cap. But you're Dovahkiin, you'll figure it out. Learning and paying attention to the [_Resistances and Weaknesses_](https://www.nexusmods.com/skyrimspecialedition/mods/45253) of an enemy will be a huge boon in your favor when tackling challenging creatures.
+On top of that, enemies have been placed into tiers and you'll want to build your strength up before tackling some of them. For example, Falmer and Dwemer ruins are best avoided until Lv20 or so, and Daedra until Lv30. Of course, this is just a general rule, but keep that in mind if you run into a figurative wall on your adventures. Dragons in particular are much tougher than they are in the vanilla game, with their levels soaring far higher than your Lv50 cap. But you're Dovahkiin, you'll figure it out. Learning and paying attention to the resistances of an enemy will be a huge boon in your favor when tackling challenging creatures.
 
 ### Followers
 
@@ -169,6 +169,6 @@ At this point you probably have a hole burning in your pocket from a pile of ext
 
 I can’t stress this enough. In the late game you might deal with areas that are scaled high above your Level 50 limit, some at that point before you reach the cap. You’ll want every advantage you can get to bridge the gap and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. If on Master or Legendary difficulty, you might even need to make different equipment sets for different types of enemies.
 
-#### Adjust the Difficulty if Needed
+#### And Draughts of Fate Unwound
 
-If combat is becoming too easy at this point, think about increasing the difficulty. I personally change it from Expert (the list default) to Master at Level 30, then again to Legendary at Level 50 when my perk build is complete. This will lower your damage given (and increase damage taken), encouraging you to find ways to boost your abilities further while maintaning a challenge.
+Combining the previous two tips into one, don't be afraid to use your excess cash on Draughts of Fate Unwound from apothecaries. These will refund all of your perk points, allowing you to redistribute them in ways that are more useful to your current goals. Can't comission the highest tier gear? Use a draughtand craft it yourself. Already crafted everything you need and no longer want the crafting perks? Use a draught and spend those points on other skills. (For this reason it's not a bad idea to level all 3 crafting skills regardless of your build.)

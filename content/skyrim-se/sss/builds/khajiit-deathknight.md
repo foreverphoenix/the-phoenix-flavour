@@ -5,21 +5,19 @@ type: docs
 description: >
   *Probably gonna dig a grave or two before this is done.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Khajiit Deatthknight](/Pictures/sss/builds/khajiit-deathknight-art.png)
+![Khajiit Deatthknight](/Pictures/sss/builds/khajiit-deathknight.png)
 
 ## Backstory
 
-As far back as you can remember you were called a "stray cat." The words were full of malice from the Nords who spoke them. You were an orphan far away from your supposed native land of Elsweyr, but Elsweyr is a mystery to you. You're much more acquainted with the towering stone walls of Markarth, the busy markets of Whiterun, and the gentle breeze of the Rift. Skyrim is your home as much as it's anyone else's, but no matter where you go you're seen as an outsider.
+Since you can remember, people called you a "stray cat." The Nords who said those words were mean and unkind. You're an orphan, far away from your supposed home in Elsweyr, a place you know nothing about. Instead, you're familiar with Markarth's tall stone walls, the bustling markets of Whiterun, and the gentle breeze in the Rift. Skyrim feels like your home, but no matter where you go, you're always seen as an outsider.
 
+Your life has been spent moving from one hold to another, carrying a shovel on your shoulder. You were ready to do the dirty jobs that nobody else wanted. Most of the time, you ended up digging graves, breaking through frozen soil to bury unfortunate souls or recover misplaced heirlooms of clueless milkdrinkers. It was dull and degrading work, and your patrons often ignored you, just like everything else left behind in the forgotten barrows. But amidst the filth, you saw something more.
 
-Your life was spent bouncing from hold to hold with a shovel over your shoulder, ready to tackle the dirty tasks no one else wanted. More often than not you filled the role of a grave digger, shoveling through frozen soil to either bury an unfortunate fool or dig out another milkdrinker's misplaced heirloom. It was dull, demeaning work, and you were often neglected by your patrons, much like everything else forgotten in the barrows you were sent to. But where they saw filth, you saw potential.
- 
+You saw ancient Nord armor and weapons that could be salvaged and used. You saw gems waiting to be mined and corpses that could be raised if you dared to practice the forbidden art of necromancy. You were willing to be patient, gathering strength in Skyrim's dusty crypts until you became a force that no one could ignore.
 
-You saw ancient Nord armors and weapons that could be salvaged and put to use. Gems that could be mined. Corpses that could be raised if you could wrap your mind around the necromancy necessary. You were ready to bide your time and gather strength in Skyrim's dusty crypts until you were a force that could no longer be overlooked.
- 
-
-But first, you'll have to escape these bindings. It seems these Imperials are just the next on a long list of those who think you're a foreigner here...
+But first, you need to escape from these bindings. It seems that these Imperials are just the latest in a long line of people who mistake you for a foreigner in this land.
 
 
 ## Summary
@@ -27,7 +25,8 @@ But first, you'll have to escape these bindings. It seems these Imperials are ju
 * **Complexity:** Low
 * **Race:** [Khajiit](## "Major Skill: Hand to Hand
 Minor Skills: Alchemy, Archery, Light Armor, Security, Sneak
-Lunar Blessing: You move 10% faster and take 50% less damage from falling. You also spend 25% less Stamina when power attacking or drawing a bow.")
+Lunar Blessing: You spend 25% less Stamina while power attacking or drawing a bow, and 50% less Stamina while sprinting.
+Night Eye: Improves the caster’s night vision for 60 seconds.")
 * **Skills:**
   * **Offensive:** Conjuration, Two-handed  
   * **Defensive:** Block, Heavy Armor  
@@ -261,19 +260,19 @@ The Nine never answered your prayers and their priests paid you no mind except f
 
 #### Mannimarco
 
-*Your Conjuration spells cost 20% less. You can reanimate two additional zombies, but when you do not control at least one reanimated zombie, your Armor Rating is reduced by 300 and your Magic Resistance is reduced by 50%.*
+*Your Conjuration spells cost 10/20% less. / You can reanimate two additional zombies, but when you do not control at least one reanimated zombie, your Armor Rating is reduced by 300 and your Magic Resistance is reduced by 50%.*
 
 Mannimarco is an obvious choice for necromancers. The downside is barely a hurdle as you'll be able to find a corpse nearly anywhere if not make one quickly enough. Just take care not to encounter any dragons unaccompanied.
 
 #### Molag Bal
 
-*You have 50 extra Magicka. You cannot regenerate Magicka in combat, but you absorb 20 points of Magicka per second from nearby enemies.*
+*You have 25/50 extra Magicka. / You cannot regenerate Magicka in combat, but you absorb 20 points of Magicka per second from nearby enemies.*
 
 You're someone who loves to take what's other's and put it to use. Molagh helps you do that with Magicka. The downside puts a damper on your ability to raise corpses if you're unable to drain enough from your enemies.
 
 #### Namira
 
-*You have 100% Disease Resistance. When you feed on a corpse, your Health regenerates twice as fast. When you have not fed, you cannot regenerate Health.*
+*You have 50/100% Disease Resistance. / When you feed on a corpse, your Health regenerates twice as fast. When you have not fed, you cannot regenerate Health.*
 
 Namiira can be a darker turn for the build by adding another layer of usefulness to corpses. The health regeneration complements your heavy armor perks well and the disease resistance seems fitting for someone who spends lots of time in tombs.
 
@@ -281,7 +280,7 @@ Namiira can be a darker turn for the build by adding another layer of usefulness
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -300,16 +299,42 @@ Conjuration is the glue between your martial abilities and your enchanting studi
 * **Daedric Cure (Adept+):** *Restores 20 Health per second to nearby summoned creatures and reanimated zombies.*  
   Especially potent if you went the Mannimarco route, this will keep your horde moving in top condition.
 
-### Dragon Shouts
+</details>
 
-**Battle Fury:** *Nearby ally's weapons are 50% faster for 10\20\30 seconds.*  
-Your minions count as allies and they tend to carry weapons. A 50% boost is nothing to sneeze at, especially with a 50% or better uptime.
+## Dragon Shouts
 
-**Drain Vitality<sup>DG</sup>:** *Absorbs 5 Stamina\Magicka\Health for 10\20\30 seconds.*  
-Your whole schtick is taking from what's around you. With this you can sustain yourself off your assailants.
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
 
-**Soul Tear<sup>DG</sup>:** *Deals 30\60\120 damage. Fills a soul gem if the target dies within 10\20\30 seconds. \Permanently reanimates a corpse up to level 50.*  
-Damages enemies, fills your soul gems, and can raise a corpse automatically for you with the 3rd word? Talk about efficiency! Don't hesitate to open up encounters with this one as you might instantly turn an enemy on their friends.
+<details>
+
+#### Battle Fury
+*Cooldown: 60/90/120 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MID">MID</span> **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Vur">V6</span> **Mir:** *All nearby allies move and attack 15% faster for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SH1N">SH1N</span> **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
+* **Meditation:** *Battle Fury increases the Armor Rating of all nearby allies by up to 150.*
+
+Your minions count as allies and they tend to carry weapons. A 20% boost is nothing to sneeze at, especially with a 50% or better uptime. The meditation adds a substaintial amount of armor to them all as well.
+
+#### Soul Tear<sup>DG</sup>
+*Cooldown: 120/150/180 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Rii">R3</span> **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VaaZ">V1Z</span> **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZOL">ZOL</span> **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
+* **Meditation:** *Soul Tear deals extra damage over 10 seconds.*
+
+Damages enemies, fills your soul gems, and can raise a corpse automatically for you with the 3rd word? Talk about efficiency! Don't hesitate to open up encounters with this one as you'll turn an enemy on their friends.
+
+#### Summon Durnehviir<sup>DG</sup>
+*Cooldown: 5/10/300 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Dur">D6</span> **Dur:** *No effect.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NEH">NEH</span> **Neh:** *No effect.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ViiR">V3R</span> **Viir:** *Summons Durnehviir.*
+  
+Your whole schtick is using what you find and you found a dragon. Better yet, you found a dragon that can summon more allies to fight alongside you. Use this for the hard fights, just remember that Durnehviir counts towards your summon limit when you think of reanimating anything else.
 
 </details>
 
@@ -321,7 +346,7 @@ Damages enemies, fills your soul gems, and can raise a corpse automatically for 
 
 #### Weapon
 
-* **Soul Trap:** *Fills a soul gem if the target dies within 30 seconds.*
+* **Soulbrand:** *Deals 3 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
 * **Damage Armor:** *Reduces enemy Armor Rating by 150 for 30 seconds.*
 * **Paralyze:** *Living targets up to level 40 have a 25% chance to be paralyzed for 10 seconds.*
 
@@ -338,15 +363,15 @@ A 25% boost to a monstrous swing is a solid return on investment. Your other opt
 #### Chest
 
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
-* **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
+* **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
 
 With a great weapon your power attacks are frightening. Boosting them makes them even more so. Reflecting damage back at attackers is a tempting alternative, and you're sturdy enough to do it, but you could always be sturdier against mages. 
 
 #### Gloves
 
 * **Fortify Two-handed:** *You deal 25% extra damage with Two-handed weapons.*
-* **Fortify Lockpicking:** *You are 25% better at lockpicking.*
+* **Fortify Security:** *You are 25% better at lockpicking and pickpocketing.*
 * **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
 
 If you're having trouble with locks this is one way to help yourself. As returns on that enchantment diminish, consider switching to the solid damage option or boosting your elemental resistance.
@@ -363,9 +388,9 @@ The perk build skipped over *Extra Pockets*, so this is a place where you can se
 
 * **Resist Disease:** *Your Disease Resistance is increased by 100%.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
-* **Fortify Block:** *You receive 25% better prices.*
+* **Fortify Block:** *You block 25% more damage.*
 
-This build expects to be on the frontlines taking plenty of hits. Unless you have something like *Namira's* additional blessing that leaves you open to a lot of diseases. It's not a conventional choice but it will save you a lot of headaches.
+This build expects to be on the frontlines taking plenty of hits. Unless you have something like *Namira's* additional blessing, that leaves you open to a lot of diseases. It's not a conventional choice but it will save you a lot of headaches.
 
 #### Ring
 
