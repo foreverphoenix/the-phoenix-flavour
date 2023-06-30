@@ -6,6 +6,204 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0
+
+> 2023-06-29
+
+This update has been simmering for a long time and I apologize to everyone who's had to wait patiently while its aroma drifted over them. But the wait is over: **4.18 is here!**
+
+Let's start with the visuals. I've removed some more deviations I've made from Aurora such as *eFPS* and *Enhanced Landscapes* so that the visuals are more in line with Phoenix's amazing work. I've also switched back to *Realistic Water Two* which is Aurora's water mod of choice. We're still using RAID Weathers and The Vanilla ENB 2 since I want stealth mechanics to remain predictable in a game with no stealth meter. *Frozen Electrocuted Combustion* has also been removed. It's a good mod but there are some weird interactions and ultimately the effects take away some of visual oomph of the late-game Destruction perks. (I still haven't sorted out the LOD unload bug in the winter, unfortunately. If you experience it, just save and reload where you are.)
+
+Gameplay is where the meat of the update lies. *[Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)* has been added alongside the *Adamant - Bard Perks Addon* to move shouts into a perk tree everyone can benefit from and add more functionality to Speech tree respectively. As such, shouts as a whole have a different approach compared to *Forceful Tongue's* and I've updated the Example Builds section to account for the changes. Enemy resistances have also changed slightly with a switch to *[Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394)*. Last but not least of the big gameplay changes is the removal of *Honed Metal*. It's been in the list a long time but it's been hard to balance it the way I've wanted *and* its features are quickly becoming redundant. Instead of removing it in a few months I've decided to rip the bandaid off now. The [gameplay guide](/skyrim-se/sss/gameplay-guide) has been updated to reflect this as well.
+
+**THIS UPDATE IS NOT SAVE-SAFE.** Please start a new game. Please.
+
+(Unless you've been using the 4.17.1 beta. Then you can install this after first Uninstalling Honed Metal via its MCM. *Stormcrown* also made some changes since 1.1.4 that might result in funkiness so a new game is *encouraged* but not required.)
+
+<details>
+
+#### Changes
+
+- Applied changes from [Skyrim Modding Essentials 2.4.2](https://publish.obsidian.md/tpf/meta/changelogs/sme/sme-2-4-2), [2.4.3](https://thephoenixflavour.com/skyrim-se/sme/changelog/#release-243), and [Aurora 1.3](https://publish.obsidian.md/tpf/meta/changelogs/aur/aur-1-3)
+- **Utilities & Frameworks:** Removed Constructible Object Custom Keyword System - Separate Weapon and Armor
+- **Utilities & Frameworks:** Added Constructible Object Custom Keyword System - Light Usability Tweaks
+- **Utilities & Frameworks:** Added Custom Skills Framework
+- **General Fixes:** Added Self-targeting Staff Animation Fix
+- **Script Fixes:** Added MQ105SprintTriggerScript Fix
+- **Script Fixes:** Added DLC2AudioRepeaterActivator01Script Tweak
+- **(Optional) Nordic UI:** Removed NORDIC UI - Compass Navigation Overhaul
+- **Mesh Improvements:** Removed Better Windhelm Ground Meshes - Valunstrad
+- **Mesh Improvements:** Removed Solitude Objects SMIMed - Solitude Well
+- **Mesh Improvements:** Removed olitude Objects SMIMed - Castle Dour Spire
+- **Yuril's Mesh Edits:** Removed FYX - Eastern Empire Company Building - eFPS Patch
+- **Graphics Baseline:** Removed eFPS - Exterior FPS Boost
+- **Graphics Baseline:** Removed Unofficial eFPS Patches
+- **Graphics Baseline:** Removed Revamped Assets Skyrim - Weapon Racks Patch
+- **Landscape:** Removed Enhanced Landscapes (and relevant patches)
+- **Snow & Ice:** Removed Snowy Landscapes in Snowy Regions
+- **Seasons of Skyrim:** Moved section to match Aurora documentation
+- **Seasons of Skyrim:** Removed Shrubs of Snow
+- **Seasons of Skyrim:** Added Seasonal Landscapes
+- **Seasons of Skyrim:** Added Sowables of Skyrim - Snowy Versions
+- **Lux Lighting:** Removed Mesh Patches for Lux Orbis (redundant)
+- **Visual FX:** Removed Frozen Electrocuted Combustion (and relevant patches)
+- **Water & Splash FX:** Swapped out Water for ENB for Realistic Water Two (and all related patches)
+- **Improved Trees:** Removed Seasonal Aspen Trees - Turn of the Seasons Patch
+- **Improved Trees:** Removed 3D Junipers - Trees and Berries
+- **Improved Trees:** Removed Dead Shrubs Resized
+- **Plants & Mushrooms:** Removed Cathedral - 3D Sword Ferns
+- **Plants & Mushrooms:** Removed Cathedral - 3D Clover Plant
+- **Plants & Mushrooms:** Removed Drier Cathedral - 3D Clover Plant
+- **Plants & Mushrooms:** Removed Cathedral - 3D Lavender
+- **Plants & Mushrooms:** Removed Cathedral - 3D Dragons Tongue
+- **Plants & Mushrooms:** Removed Cathedral - 3D Nightshade
+- **Plants & Mushrooms:** Removed Cathedral - 3D Deathbell
+- **Plants & Mushrooms:** Removed Improved Gourds
+- **Magic & Perks:** Removed Adamant - Speech Exp Based on Words
+- **Magic & Perks:** Removed Forceful Tongue - Shouts Overhaul
+- **Magic & Perks:** Removed Forceful Tongue - SimonRim Patch
+- **Magic & Perks:** Removed Dragon Aspect Overhaul
+- **Magic & Perks:** Added Adamant - Bard Perks Addon
+- **New Mechanics:** Added Stormcrown - A Shout Overhaul
+- **Magic & Perks:** Added Aetherius - Starting Spells Addon
+- **Magic & Perks:** Added Aetherius - NPC Spell Absorption Addon
+- **Crafting:** Removed Honed Metal
+- **Crafting:** Removed Honed Metal Revoiced
+- **Alchemy, Cooking, & Farming:** Removed HearthFires - Customizable Fertile Soil
+- **Alchemy, Cooking, & Farming:** Added Simplicity of Seeding
+- **Combat & Encounter Zones:** Removed Blade and Blunt - Sneak Addon
+- **NPC Dialogue & Behavior:** Removed Misc Dialogue Edits and More Dialogue Options - TPF Patch
+- **NPC Dialogue & Behavior:** Added Brawl Lines Expansion
+- **NPC Dialogue & Behavior:** Added NPCs React to Invisibility
+- **Combat & Encounter Zones:** Separated part out into a new Enemy Overhauls section
+- **Combat & Encounter Zones:** Added Dynamic Random Dragons
+- **Enemy Overhauls:** Removed Resistances & Weaknesses
+- **Enemy Overhauls:** Removed Resistances & Weaknesses - NPC Armaments
+- **Enemy Overhauls:** Added Enemy Resistance Tweaks
+- **Enemy Overhauls:** Added Lore Friendly Ghosts
+- **Quest Start Adjustments:** Added Delayed Quest Starts - Blood on the Ice
+- **Immersion:** Removed Open World Loot - C.O.I.N. Patch
+- **Miscellaneous:** Removed Misc Tweaks - No Starting Spells
+- **Miscellaneous:** Removed Forceful Tongue - Durnehviir Resurrected Patch
+- **Miscellaneous:** Added Stormcrown - Durnehviir Resurrected Patch
+- **Miscellaneous:** Added Stormcrown - Unique Dragon Aspect Patch
+- **Sound FX:** Removed Forceful Tongue - Audio Overhaul for Skyrim Patch
+- **Skeleton & Animations:** Removed Dynamic Animation Replacer
+- **Skeleton & Animations:** Added Open Animation Replacer
+- **Survival & Fishing:** Added Fish Plaque Fixes and Improvements
+- **Survival & Fishing:** Added U Can't Touch Fish
+- **Mandragorasprouts' Statues:** Renamed section from Daedric Shrines
+- **Mandragorasprouts' Statues:** Added Daedric Shrines - All in One - Azura Loading Screen
+- **Mandragorasprouts' Statues:** Added Daedric Shrines - Hircine Skull Mask Version
+- **Mandragorasprouts' Statues:** Added Statue of Kynareth
+- **Mandragorasprouts' Statues:** Added Kynareth Replaces Talos - Civil War Consequence
+- **New & Expanded Quests:** Added Caught Red Handed - NGCDT Patch
+- **New Mechanics:** Removed Pilgrim - TPF Patch
+- **New Mechanics:** Added Adamant - Bard Perks Addon - Pilgrim Integration
+- **New Items:** Removed Royal Armory - TPF Patch
+- **New Items:** Added Royal Armory - Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+- **New Animations:** Added Leviathan Animations II - Greatsword Sprint Attacks
+- **New Animations:** Added Leviathan Animations II - Greatsword Power Attacks
+- **Conflict Resolution:** Removed overwrite to `000C3691` as its no longer needed
+- **Conflict Resolution:** Moved PlacedObject `000A9539` changes to CRP to remove Lux - TPF Patch
+- **Conflict Resolution:** Moved DerkeethusCell `0002C993` changes to CRP to remove Lux - TPF Patch
+- **Conflict Resolution:** Moved MAG_PoisonRuneFFLocation `0401D74C` changes to CRP to remove SimonRim - TPF Patch
+- **Conflict Resolution:** Removed edits to MAG_VoiceUnrelentingForceEffect03 `0007F82F` to let Stormcrown do its thing
+- **Conflict Resolution:** Swapped Forceful Tongue's WOOP edits for Stormcrown's
+- **Conflict Resolution:** Added new shouts to Pilgrim's MAG_ShoutList `xx335269` for Talos' blessing
+- **Conflict Resolution:** Forwarded necessary Aetherius changes
+- **Conflict Resolution:** Resolved MAGShockImpact02 `00059ED8` in a different way
+- **Conflict Resolution:** Cleaned up files that were no longer needed (hopefully!)
+
+#### Updates
+
+- Updated Fluency Themes to 1.4
+- Updated Root Builder to 4.4.3
+- Updated DynDOLOD to 3.00 Alpha-128
+- Updated Payload Interpreter to 1.1
+- Updated Versatile Item and Group Re-Assignment to 1.0.1.1
+- Updated NPCs Names Distributor to 2.1.3
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.9.3
+- Updated ConsolePlusPlus to 1.3
+- Updated Keyboard Shortcuts Fix to 1.0.0.4
+- Updated Dragonactorscript Infinite Loop Fix to 1.3.2
+- Updated Assorted Mesh Fixes to 0.82
+- Reverted Skyrim Skill Uncapper to vadfromnu's 0.1.7
+- Updated Delphine's Map Reveals Dragon Mounds to 1.2
+- Updated Compass Navigation Overhaul to 2.1.1
+- Updated Spinning Load Screens to 1.1
+- Updated NORDIC UI - Compass Markers Restored to 1.4.2
+- Updated DynDOLOD Resources to 3.00 Alpha-37
+- Updated xLODGen Resource - SSE Terrain Tamriel to 2.0
+- Updated ENBSeries to 0.494
+- Updated Lux to 6.2
+- Updated Lux Ortbis to 3.3
+- Updated Embers XD to 2.7.6
+- Updated Rudy HQ - More Dramatic Red Mountain Plume to 1.2
+- Updated Skyrim Remastered - Glaciers and Ice to 1.3
+- Updated Icy Caves to 2.1.5
+- Updated Icy Mesh Remaster to 2.20
+- Updated Happy Little Logs to 1.7
+- Updated HQ Vanilla Tiny Rocks to 2.4
+- Updated Stony AF Markarth and Dwemer Ruins to 2.2
+- Updated Imperial Armors and Weapons Retexture to 1.2
+- Updated Elven Armors and Weapons Retexture to 1.01
+- Updated Orcish Armors and Weapons Retexture to 1.1
+- Updated Ebony Armors and Weapons Retexture to 1.21
+- Updated Daedric Armors and Weapons Retexture to 1.2
+- Updated Adamant - A Perk Overhaul to 5.8.1
+- Updated Mundus - A Standing Stone Overhaul to 1.10.2
+- Updated Mundus - A Standing Stone Overhaul - USSEP Patch to 1.0.1
+- Updated Aetherius - A Race Overhaul to 2.11.7
+- Updated Cooking Categories Improvement to 2.0.1
+- Updated Misc Dialogue Edits to 1.9.2
+- Updated Hunters Not Bandits to 4.1
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.5.2
+- Updated More Dialogue Options to 1.5
+- Updated Immersive Rejections to 1.11
+- Updated Ashlander Nomads Names to 1.1
+- Updated Daedric Names to 1.2
+- Updated Dovah Names to 1.1
+- Updated Reachmen Tribes Names 1.2
+- Updated Tamrielic Names to 1.1
+- Updated Arena - An Encounter Overhaul
+- Updated Blade and Blunt - A Combat Overhaul to 3.0.6
+- Updated Blade and Blunt - Health Regeneration Addon to 1.1
+- Updated Enemies Respect Encounter Zones to 1.4
+- Updated Dragon War - A Dragon Overhaul to 3.0.6
+- Updated Dragon War - Deadly Spell Impacts Patch to 3.0.6
+- Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.0.6
+- Updated The Dragon Cult - A Draugr Overhaul to 1.3.5
+- Updated At Your Own Pace - College of Winterhold to 2.1MG
+- Updated The Choice is Yours (no version change)
+- Updated Misc Dialogue Edits - Save the Icerunner Patch to 1.9.2
+- Updated More Dialogue Options - Thieves Guild Reformation Patch to 1.5
+- Updated Headhunter - Bounties Redone to 1.50
+- Updated Destination Weddings to 1.5
+- Updated Destination Weddings - Compatibility Patches to 1.5
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.0.6
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.0.6
+- Updated Dynamic Animation Casting to 3.2.4
+- Updated Survival Mode Improved to 1.2
+- Updated Turn of the Seasons to 1.0.7.1
+- Updated Hand to Hand - An Adamant Addon to 1.5.4
+- Updated New Armory Series - Lunar Weapons - A Silent Moons Overhaul to 1.6
+- Updated Civil War Deserters to 2.0.1.1
+- Updated GRAHL - Apothecary Patch to 15
+- Updated Conditional Armor Type Animations to 1.3c
+- Updated Vanargand Animations - Sprint to 1.3c
+- Updated Vanargand Animations - Female Idle Walk and Run to 1.3.1c
+- Updated Vanargand Animations - Male Idle Walk and Run to 1.3.1c
+- Updated Leviathan Animations II - Sprint to 2.4c
+- Updated Leviathan Animations II - Female Idle Walk And Run to 2.3c
+- Updated Leviathan Animations II - Male Idle Walk And Run to 2.3c
+- Updated Goetia Animations - Sprint to 1.0c
+- Updated Goetia Animations - Female Idle Walk And Run to 1.2c
+- Updated Goetia Animations - Male Idle Walk And Run to 1.3c
+- Updated Take A Seat to 1.01
+- Updated lilebonymace's Patches to 2.32
+
+</details>
 
 ## Release 4.17.0.2
 
@@ -30,6 +228,7 @@ There's also a known LOD bug that's most noticeable in the Winter season. If you
 - **Interface:** Temporarily disabled Compass Navigation Overhaul
 - **Graphics Baseline:** Removed Skyland AIO - Parallax
 - **Lux Lighting:** Removed Lux Via - Morthal Crash Fix
+- **Lux Lighting:** Switched to Even Brighter Templates
 - **Improved Trees:** Removed Happy Little Trees - Ivy on Trees
 - **Magic & Perks:** Moved Adamant - Weapons Armor Clothing and Clutter Fixes Patch into lilebonymace's Patches
 - **Alchemy, Cooking, & Farming:** Removed Book Covers Skyrim - Apothecary Patch
