@@ -5,14 +5,18 @@ type: docs
 description: >
  *Venom and vengeance: A toxic combination.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Argonian Agent](/Pictures/sss/builds/argonian-agent-art.png)
-
-
-Ulfric Stormcloak made his stance perfectly clear when he barred Argonians from living inside the safety of Windhelm's walls. You were a second class citizen of Skyrim at best. If he has his way, if he wins this war he's picked with the Imperials, you might find yourself not a citizen at all. You live a life that barely qualifies as living, either used as a pack mule for the city or too doped on skooma to be of any use to the Nords. You preferred the former, holding your tongue and working the docks, waiting and hoping for an opportunity to seize something better.
+![Argonian Agent](/Pictures/sss/builds/argonian-agent.png)
 
 
-It presented itself in the form of a Stormcloak supply run. Or that's what you thought it was when you had a friend pack you into a crate and load it up into a wagon. The plan was to let yourself out at nightfall and slip off into the woods, perhaps relocating to Riften where your street knowledge could be put to use. But the plan didn't account for Ulfric being part of the escort, let alone the Imperials ambushing it. But maybe, with continued patience, another opportunity will come...
+In the land of Skyrim, a great conflict raged between Ulfric Stormcloak and the Imperials. Ulfric was a powerful figure who believed that certain people, like the Argonians, should not be allowed to live within the protective walls of Windhelm. As an Argonian, you were treated as a lesser citizen, and if Ulfric's side won the war, you feared you might not be considered a citizen at all.
+
+Your life was a struggle, barely qualifying as a life. Sometimes you were made to carry heavy loads for the city, like a pack mule. Many turned to skooma, a dangerous substance that made you useless to the Nords. You preferred the laborious work at the docks, hoping for a chance to escape this difficult existence and find something better.
+
+One day, a glimmer of hope appeared. A friend devised a plan to sneak you onto a Stormcloak supply run. They packed you into a crate and loaded it onto a wagon. The idea was to free yourself once night fell and disappear into the safety of the woods, perhaps finding a new home in Riften, where your street smarts could be put to good use.
+
+However, the plan took an unexpected turn. Ulfric himself was part of the escort, and the Imperials launched an ambush. Caught by surprise, your escape became even more challenging. Yet, despite the setback, you held on to hope. With patience and perseverance, you believed that another opportunity would eventually come your way.
 
 ## Summary
 
@@ -184,7 +188,6 @@ Now you can put your plan in motion. Your words and spells will twist the minds 
 * **Captivating Presence 2 (60):** Your Illusion spells last 100% longer.
 * **Cry of Terror (70):** Fear spells reduce the target’s Armor Rating by 150 and their Magic Resistance by 25%.
 * **Indomitable Will 2 (80):** Your Illusion spells are 100% stronger.
-* **Voice of Authority (90):** Command spells increase the target’s Armor Rating by 150 and their Magic Resistance by 25%.
 * **Master of the Mind 2 (100):** Your Illusion spells affect the undead, Daedra, and Dwarven automatons. 
  
 #### Restoration
@@ -212,6 +215,7 @@ Now you can put your plan in motion. Your words and spells will twist the minds 
 * **Infiltrator (60):** You move 25% faster while sneaking. 
 * **Shadow Casting 2 (70):** Damage-dealing spells are 100% stronger while sneaking and undetected.
 * **Hidden Threat (80):** Once every 10 seconds, you can sneak in combat to turn invisible for 5 seconds.
+* **Living Shadow (100):** Once every 10 seconds, sneaking in combat causes enemies to stop searching for you.
 
 </details>
 
@@ -265,7 +269,7 @@ The Dark Brotherhood is a natural fit for you and Sithis is a natural fit for th
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -294,13 +298,10 @@ Sometimes it's impossible to sneak up on everyone in a room but if it's possible
   If they can't see you they have no choice but to attack someone else. Likely an ally.
 
 * **Fear (Apprentice+):** *Living targets up to level 10 flee from combat for 30 seconds.*  
-  A useful spell to have in your back pocket if you have a pressing need for less attention.
-
-* **Command (Adept+):** *Living targets up to level 15 are placed under your command for 30 seconds.*
-  This gives you more control than *Frenzy* but you'll have to do something with your new companion before their senses return.
+  Send someone away from the fight, preferrably after you've given them a large dose of poison.
 
 * **Invisibility (Expert+):** *For 30 seconds, you cannot be seen or heard. Activating an object or attacking will break this spell.*  
-  For when you absolutely need to vanish and reset the situation.
+  For when you need to vanish and reset the situation.
 
 <img align="right" width="100" height="100" src="/Pictures/sss/builds/skill-restoration.webp">
 
@@ -317,16 +318,43 @@ You'll rarely be using this to heal someone, if ever. Your knowledge of the rest
 * **Poisonous Touch (Apprentice+):** *Deals 4.5 Poison damage per second for 10 seconds to enemies in melee range.*  
   If reverse pickpocket isn't possible you'll still be in range for this to be effective.
 
-### Dragon Shouts
+</details>
 
-* **Bend Will:** *Targets up to level 30\40\50 are placed under your command for 10\20\30 seconds. \Dragons are forced to obey you.*  
-A solid emergency button to hold onto. You've used Illusion to control a spiraling situation before, this is just another means of doing so.
+## Dragon Shouts
 
-* **Marked for Death:** *Deals 5 damage, reduces enemy Magic Resistance by 25% and Armor Rating by 150 for 10\20\30 seconds.*  
-If open combat is inevitable you'll need to get the most out of your magic. This is the only shout that will lower their resistance to your Poison spells.
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
 
-* **Phantom Form:** *You become invisible and move silently for 10\20\30 seconds.*  
-This shout has wonderful uptime, starting at 66% and hitting 100% at the second word. There's no reason not to abuse it for its stealth bonuses.
+<details>
+
+#### Kyne's Peace
+*Cooldown: 60/90/120 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KaaN">K1N</span> **Kaan:** *Calms targets up to level 20 for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DREM">DREM</span> **Drem:** *Calms targets up to level 30 for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="OV">OV</span> **Ov:** *Calms targets up to level 40 for 30 seconds.*
+* **Meditation:** *Kyne’s Peace works on the undead, Daedra, and Dwarven automatons.*
+  
+An alternative to *Bend Will* that's easier to access. Calming an enemy will give you a chance to hide and reset the situation when it goes off the rails.
+
+#### Poison Breath
+*Cooldown: 60/90/120 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LaaS">L1S</span> **Laas:** *Deals 7.5 Poison damage per second for 10 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SLEN">SLEN</span> **Slen:** *Deals 11.25 Poison damage per second for 10 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="AUS">AUS</span> **Aus:** *Deals 15 Poison damage per second for 10 seconds.*
+* **Meditation:** *Poison Breath deals double damage to enemies who fall below half Health.*
+
+Thematically perfect for a poison master and not a bad panic button to hit whenever enemies detect you and get in your face.
+
+#### Slow Time
+*Cooldown: 180/240/300 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="TiiD">T3D</span> **Tiid:** *Slows time by 50% for 10 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KLO">KLO</span> **Klo:** *Slows time by 50% for 20 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="UL">UL</span> **Ul:** *Slows time by 50% for 30 seconds.*
+* **Meditation:** Slow Time is twice as strong.
+
+Slow Time's effect doesn't cover damage over time such as poison, which is the majority of your damage. In other words, this shout makes your poison work through your victims at an accelerated pace while helping you sidestep pretty much anything coming your way.
 
 </details>
 
@@ -346,32 +374,32 @@ Your weapon is just a vessel for your poisons so you'll definitely want to make 
 
 #### Head
 
-* **Fortify Illusion Cost:** *Your Illusion spells cost 25% less.*
 * **Fortify Restoration Cost:** *Your Restoration spells cost 25% less.*
+* **Fortify Illusion Cost:** *Your Illusion spells cost 25% less.*
 * **Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
 
 Choose a boost to the school of magic you use more often. Otherwise, you can shore up your physical defense on top of your Alteration spells.
 
 #### Chest
 
-* **Fortify Illusion Cost:** *Your Illusion spells cost 25% less.*
 * **Fortify Restoration Cost:** *Your Restoration spells cost 25% less.*
+* **Fortify Illusion Cost:** *Your Illusion spells cost 25% less.*
 * **Resist Magic:** *Your Armor Rating is increased by 100.*
 
 This is a similar decision to head. You can make the same school of magic even cheaper, balance it out, or shore up your resistance against mages.
 
 #### Gloves
 
-* **Fortify Pickpocket:** *You are 25% better at pickpocketing.*
-* **Fortify Lockpicking:** *You are 25% better at lockpicking.*
-* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
+* **Fortify Security:** *You are 25% better at lockpicking and pickpocketing.*
+* **Fortify Magicka:** *Your Magicka is increased by 50.*
+* **Fortify Magicka Regeneration:** *Your Magicka Regeneration is increased by 50%.*
 
-This seems like an obvious choice. If your chance of reverse pickpocketing is at 100% feel free to consider the other options.
+This seems like an obvious choice. If that's unavailable, grab more Magicka for your spellcasting.
 
 #### Boots
 
 * **Fortify Sneak:** *You are 25% better at sneaking.*
-* **Muffle:** *You move silently.*
+* **Muffle:** *You make 50% less noise while moving.*
 * **Fortify Carry Weight:** *Your Carry Weight is increased by 50.*
 
 In a stealth-focused build the first two options are golden. If you feel as though you're undetectable without the enchantments, grab the last option. The extra carry weight will give you room to stock up on poisons for the adventure ahead.
@@ -387,7 +415,7 @@ You don't get too many chances to boost your damage output in this build so take
 #### Ring
 
 * **Fortify Restoration Power:** *Your Restoration spells are 25% stronger.*
-* **Fortify Pickpocket:** *You are 25% better at pickpocketing.*
+* **Fortify Security:** *You are 25% better at lockpicking and pickpocketing.*
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 
 Unfortunately for you, the ring slot is capable of fortifying all of your key skills. If it's a tough decision on which one you go with, think about the method with which you kill the most enemies.

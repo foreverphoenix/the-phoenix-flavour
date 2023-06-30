@@ -5,23 +5,24 @@ type: docs
 description: >
   *My thirst for knowledge cannot be quenched.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Bosmer Mage](/Pictures/sss/builds/bosmer-mage-art.png)
+![Bosmer Mage](/Pictures/sss/builds/bosmer-mage.png)
 
 ## Backstory
 
-You grew up in Valenwood where you were taught to follow the Green Pact, a sacred code that forbids the consumption of any plant material. However, an insatiable curiosity led you to question its validity. Why can't you clip a flower for its restorative qualities but you can buy the same clipping from a trader? Why are you doomed to the Ooze while the trader walks without consequence? They called you an oath-breaker for your inquiries and you were cast out.
+In the ancient land of Valenwood, your home, you grew up following the Green Pact. This sacred code forbade the consumption of plant materials. But your insatiable curiosity questioned its wisdom. Why could you not pluck a flower for its healing properties, while traders could sell the same clipping without consequence? These inquiries branded you an oath-breaker, and you were cast out.
 
-It didn't take long to find brethren in your travels. You soon met a group of oath-breakers searching for the fabled Cradle of Ilmyris. You joined them, learning new survival skills and exploring the wilderness with your new companions. However, your hunger for knowledge put you on a path of questionable morals and you were ultimately cast out for the second time.
+Yet, in your travels, you found kindred spirits. Other oath-breakers seeking the legendary Cradle of Ilmyris crossed your path. You joined them, learning survival skills and exploring the untamed wilderness. However, your thirst for knowledge led you down morally ambiguous paths, and you were once again banished.
 
-Feeling scorned and with no one to turn to, you looked towards Skyrim as a land without the restrictions that held you back in Valenwood. You heard rumors of powerful magical artifacts hidden in the northern ruins, and saw an opportunity to gain the knowledge and power you so desperately craved. With nothing left to lose, you set out to cross the border and begin a new chapter in your quest.
+Feeling rejected and alone, you turned your gaze to Skyrim, a land free from the restrictions that bound you in Valenwood. Whispers reached your ears of potent magical relics hidden within the northern ruins. This presented an opportunity to acquire the knowledge and power you craved. With nothing to lose, you embarked on a journey to cross the border and begin a new chapter in your quest for understanding.
 
 ## Summary
 
 * **Complexity:** Moderate
 * **Race:** [Wood Elf](## "Major Skill: Archery 
-	Minor Skills: Light Armor, Lockpicking, One-handed, Pickpocket, Sneak
-	Green Pact: You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.")
+	Minor Skills: Hand to Hand, Light Armor, One-handed, Pickpocket, Security
+	Green Pact: Your Movement Speed is increased by 10%, and you take 50% less damage from falling. You deal 25% extra damage with sneak attacks and spells.")
 * **Skills:**
   * **Offensive:** Destruction  
   * **Defensive:** Alteration
@@ -147,7 +148,6 @@ You've come a long way. More powerful than most that have come before you but co
 
 *Potion perfection. You create the best concoctions with tremendous efficiency.*
 
-* **Green Thumb 2 (80):** You gather two extra ingredients from plants.  
 * **Potency 2 (90):** Potions you mix are 50% stronger.
 * **Chemist (100):** Create twice as many potions and poisons from the same number of ingredients.
 
@@ -178,6 +178,7 @@ You've come a long way. More powerful than most that have come before you but co
 
 *Your enchanted equipment is unrivaled, whether it be scroll, staff, jewelry, or clothing.*
 
+* **Corpus Enchanter (60):** Health, Magicka, and Stamina enchantments are 25% stronger.
 * **Channeler (70):** Staves now regenerate some of their lost charge over time.
 * **Seeker 2 (70):** Scrolls last five times as long.
 * **Insightful Enchanter (80):** Skill enchantments are 25% stronger.
@@ -204,7 +205,7 @@ You've come a long way. More powerful than most that have come before you but co
 
 ***Path of Wisdom:*** *Your Magicka is increased by 50, and your spells and enchantments cost 10% less.*
 
-You won't have much to your name starting out so you'll have to do things the old fashioned way. This will give you enough Magicka to get off your feet without having to invest in it.
+You won't have much to your name starting out so you'll have to do things the old fashioned way. This will give you enough Magicka to get going without having to invest in it.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-atronach.webp">
 
@@ -254,7 +255,7 @@ Peryite may be one of the weakest of the Princes but he still knows enough about
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -291,18 +292,43 @@ As an elementalist you have the option of choosing fire, frost, or shock magic i
 
 <img align="right" width="100" height="100" src="/Pictures/sss/builds/skill-restoration.webp">
 
-### Dragon Shouts
+</details>
 
-Being the Dragonborn was unexpected but you're not one to turn down a chance at greatness. Experiment with your voice. After all, there's nothing to lose from learning more Words of Power.
+## Dragon Shouts
 
-* **Dragon Aspect<sup>DB</sup>:** *You deal 50% more damage with power attacks and your Destruction and Restoration spells are 25% stronger. \ Your Armor Rating is increased by 150 and Magic Resistance is increased by 25%. \ Your Shout cooldown is reduced by 25% for 300 seconds. When you enter in combat, you call an Ancient Dragonborn to your side.*  
-This does a lot and each word provides a benefit to you. More damage from your spells, more magic resistance to protect you from retaliation, and a temporary melee-focused ally. The only downside to this shout for you is what you have to do to learn it.
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
 
-* **Marked For Death:** *Deals 5 damage, reduces enemy Magic Resistance by 25% and Armor Rating by 150 for 10\20\30 seconds.*  
-Shouts can do a variety of things, but few can make your enemies take more damage from your magical onslaught.
+<details>
 
-* **Soul Tear<sup>DG</sup>:** *Deals 30\60\120 damage. Fills a soul gem if the target dies within 10\20\30 seconds. \Permanently reanimates a corpse up to level 50.*  
-This fills a void left by your perk selection. Damage combined with a Soul Trap effect allows you to fill your gems without swapping staves. With the final word you can turn your victims into allies which is nicely thematic for a vampire.
+#### Animal Ally
+*Cooldown: 60/90/120 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="RaaN">R1N</span> **Raan:** *Summons a wolf for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Mir">M7</span> **Mir:** *Summons a sabre cat for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Tah">T4</span> **Tah:** *Summons a bear for 60 seconds.*
+* **Meditation:** *Your Animal Ally's Armor Rating is increased by 150, and their Magic Resistance is increased by 25%.*
+
+ A facsimile of the vanilla *Command Animal* power Bosmer had that's useful for keeping some distance between you and your enemies in a fight.
+
+#### Dismay
+*Cooldown: 60/90/120 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FaaS">F1S</span> **Faas:** *Living targets up to level 20 flee combat for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="RU">RU</span> **Ru:** *Living targets up to level 30 flee combat for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MaaR">M1R</span> **Maar:** *Living targets up to level 40 flee combat for 30 seconds.*
+* **Meditation:** *Dismay works on the undead, Daedra, and Dwarven automatons.*
+  
+Sometimes raining down chaos alone doesn't instill the panic you were hoping for. Use this to encourage your victims into the right mindset.
+
+#### Soul Tear<sup>DG</sup>
+*Cooldown: 120/150/180 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Rii">R3</span> **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VaaZ">V1Z</span> **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZOL">ZOL</span> **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
+* **Meditation:** *Soul Tear deals extra damage over 10 seconds.*
+
+This fills a void left by your perk selection. Damage combined with a Soul Trap effect allows you to fill your gems without swapping staves. With the final word you can turn your victims into allies which is also thematic for a vampire.
 
 </details>
 
@@ -319,18 +345,18 @@ This fills a void left by your perk selection. Damage combined with a Soul Trap 
 #### Head
 
 * **Fortify Potion Duration:** *Your potions last 50% longer.*
-* **Soul Harvest:** *When a target dies within 50 feet, fill a soul gem.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
+* **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
 
-You can make your potions last even longer with this slot, which is always beneficial. Alternatively, you need soul gems in order to keep your staves powered and Soul Harvest is an easy way to keep them filled. As a third option, boosting your Stamina Regeneration will keep you from running out while sneaking.
+You can make your potions last even longer with this slot, which is always beneficial. Stamina Regeneration is vital for sneaking around at length. Cheaper spells are more useful to a mage who uses their own Magicka, but if you're finding that your staves are running out of juice too quickly you should consider the third option here.
 
 #### Chest
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
-* **Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
-* **Fortify Health Regeneration:** *Your Health Regeneration is increased by 50%.*
+* **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
+* **Fortify Shout Duration:** *Your Shouts last 50% longer.*
 
-If you aren't at 75% Magic Resistance this is a great slot for getting caught up. Otherwise you can bolster your Armor Rating or Health Regeneration for other forms of survivability.
+If you aren't at 75% Magic Resistance this is a great slot for getting caught up. Otherwise you can make your damage staves last even longer or give a rare boost to your shouts (as the three recommended would all benefit).
 
 #### Gloves
 
@@ -344,17 +370,17 @@ Sneak Spell Attacks make up the bulk of your damage when things go well so make 
 
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Muffle:** *You make 50% less noise while moving.*
-* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
+* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
 
 Sneaking is something you do often so it's only natural for your footwear choices to revolve around it. The sneakier you are, the more havok you can wreak without anyone counterattacking. It's a win/win.
 
 #### Necklace
 
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
+* **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Alteration Duration:** *Your Alteration spells last 50% longer.*
-* **Resist Magic:** *Your Magic Resistance is increased by 25%. *
 
-Necklace has plenty for you to enjoy. As mostly all of your damage is from Destruction magic, boosting that is your #1 priority. After that you have the luxury to experiment with other choices, but Alteration Duration will make your scrolls last even longer.
+Necklace has plenty for you to enjoy. As mostly all of your damage is from Destruction magic, boosting that is your #1 priority. After that you have the luxury to experiment with other choices, though Alteration Duration will make your scrolls last even longer.
 
 #### Ring
 

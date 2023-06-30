@@ -5,21 +5,21 @@ type: docs
 description: >
  *My blades and my mind are as one.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Orsimer Nightblade](/Pictures/sss/builds/orsimer-nightblade-art.png)
+![Orsimer Nightblade](/Pictures/sss/builds/orsimer-nightblade.png)
 
 ## Backstory
 
-The first time you showed an interest in magic, the Chief laughed. It was the boisterous, rumbling laugh of a grizzled and seasoned warrior. "Why would you trust a spell over a fine blade made of orichalcum?" he mused. "They must have gotten more mer blood than the rest of us," his forgewife jested over the sound of her hammering. Magic was an afterthought in the stronghold unless you were a wise woman, and you most certainly were not. So when the time came, you thanked your elders for their lessons in blacksmithing and in combat and chose to leave the stronghold like many orcs before you. The traditional life simply was not for you. Perhaps you'll find a place elsewhere.
- 
+The very first time your fascination with magic sprouted, the Chief let out a hearty laugh. His laugh echoed through the air, like the booming voice of a seasoned warrior. "Why would you put faith in spells when a finely crafted blade made of orichalcum can do the job?" he pondered aloud. The Chief's forgewife chimed in, jesting over the rhythmic pounding of her hammer. Magic was an afterthought within the stronghold, except for the wise women—though you certainly did not fall into that esteemed category. And so, when the moment arrived, you expressed gratitude to your elders for teaching you the art of blacksmithing and combat. Following the path of many orcs before you, you decided to venture beyond the stronghold. The customary life simply did not suit you. Perchance, in another place, you might discover your true home.
 
-What you found was underwhelming. Settlements welcomed you with open arms, but the veneer of friendliness would disappear quickly once they realized you were not a skilled blacksmith like they'd heard. With nothing to offer their armories, the other races kept their distance, leaving you on your own until you packed up and moved to the next village only to repeat the process. But along the way you heard rumors, and one of which spoke of an Orc at the College of Winterhold. An Orc that wouldn't belittle you for your interest in the arcane. Perhaps, if you could just make your way into the cold north of Skyrim, you can find a place that you could call home.
+However, what awaited you was far from grand. The settlements welcomed you with open arms, but their friendliness swiftly faded when they realized you lacked the blacksmithing skills they had heard about. With nothing to contribute to their armories, the other races kept their distance, leaving you to your own devices. You would then gather your belongings and move on to the next village, only to repeat the cycle anew. Yet, amidst your travels, whispers reached your ears. One tale spoke of an Orc residing at the College of Winterhold—a place where your interest in the mystical would not be scorned. Perhaps, if you could find your way to the frigid north of Skyrim, you might discover a haven to call your own, a place where you truly belonged.
 
 ## Summary
 
 * **Complexity:** High
 * **Race:** [Orc](## "Major Skill: Heavy Armor
-Minor Skills: Block, Enchanting, One-handed, Smithing, Two-handed 
+Minor Skills: Alchemy, Block, One-handed, Smithing, Two-handed 
 Orsinium's Heir: Your Health is increased by 50 and your Health Regeneration is increased by 50%.")
 * **Skills:**
   * **Offensive:** Archery, Conjuration, One-handed  
@@ -268,7 +268,7 @@ The Warlock's God is also a suitable choice for a young arcanist. If you feel yo
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -317,16 +317,41 @@ You've found that dabbling in Illusion can make others temporarily forget about 
 * **Muffle (Adept+):** *You move silently for 30 seconds.*  
   This line of spells gets more and more reliable with every tier. Use it for that extra boost you need to stay hidden.
 
-### Dragon Shouts
+</details>
 
-* **Aura Whisper:** *Nearby living targets can be seen through walls for 10\20\30 seconds.*  
-Unlike the higher level Alteration spells of similar purpose, this can only find the living. Another difference is that it distinguishes between friend and foe which is situationally useful.
+## Dragon Shouts
 
-* **Marked for Death:** *Deals 5 damage, reduces enemy Magic Resistance by 25% and Armor Rating by 150 for 10\20\30 seconds.*  
-If you can mark them without being discovered, the debuffs to their defenses will make enemies even more susceptible to your sneak attacks.
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
 
-* **Phantom Form:** *You become invisible and move silently for 10\20\30 seconds.*  
-Shorter cooldown than *Become Ethereal* with as long a duration. It doesn't make you immune to taking damage but if no one knows where you are you shouldn't be taking much of it. At the 2nd and 3rd word this has an 100% uptime you should definitely take advantage of.
+<details>
+
+#### Aura Whisper
+*Cooldown: 30/45/60 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LaaS">L1S</span> **Laas:** *You detect all nearby living creatures for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Yah">Y4</span> **Yah:** *You detect all nearby living and dead creatures for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nir">N7</span> **Nir:** *You detect all nearby creatures for 30 seconds.*
+
+Like *Detect Life*, it's much easier to hide from enemies if you know where they are. There's no meditation for this shout but the uptime makes it very convenient.
+
+#### Marked for Death
+*Cooldown: 60/90/120 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KRii">KR3</span> **Krii:** *Reduces enemy Health by 50 and Armor Rating by 50 for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LUN">LUN</span> **Lun:** *Reduces enemy Health by 75 and Armor Rating by 100 for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="AUS">AUS</span> **Aus:** *Reduces enemy Health by 100 and Armor Rating by 150 for 30 seconds.*
+* **Meditation:** *Marked for Death reduces enemy Magic Resistance by up to 25%.*
+
+If you can mark them without being discovered, the debuffs to their defenses will make enemies even more susceptible to your sneak attacks. The meditation will make the chaos damage from your bound weapons even better to boot.
+
+#### Throw Voice
+*Cooldown: 30/20/10 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZUL">ZUL</span> **Zul:** *Throws voice.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Mey">M9</span> **Mey:** *Throws voice.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GUT">GUT</span> **Gut:** *Throws voice.*
+  
+Simple and with a short cooldown with all 3 words. You excel at taking enemies out one by one so use this to isolate your targets when needed.
 
 </details>
 
@@ -335,10 +360,6 @@ Shorter cooldown than *Become Ethereal* with as long a duration. It doesn't make
 > Full enchanting information can be found on the [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) description page.
 
 <details>
-
-#### Weapon
-
-* **None:** *(This build does not use physical weaponry.)*
 
 #### Head
 
@@ -366,17 +387,17 @@ Damage boosts your go-to here. Alternatively, an increase to Magicka might give 
 
 #### Boots
 
-* **Muffle:** *You move silently.*
+* **Muffle:** *You make 50% less noise while moving.*
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 
-When combined with invisibility, *Muffle* makes you completely undetectable, making it an essential enchantment for a stealth build. If you don't have access to it, being stealthier is an alternative. And lastly, simply having more Stamina to work with is better than most other options.
+When combined with invisibility, *Muffle* makes you practically undetectable, making it an essential enchantment for a stealth build. If you don't have access to it, an Illusion spell will have you covered. Beyond that, simply having more Sneak or Stamina to work with is better than other options.
 
 #### Necklace
 
 * **Fortify Archery:** *You deal 25% extra damage with ranged weapons.*
 * **Fortify Illusion Power:** *Your Illusion spells are 25% stronger.*
-* **Fortify Alteration Power:** *Your Alteration spells last 50% longer.*
+* **Fortify Alteration Duration:** *Your Alteration spells last 50% longer.*
 
 Again, if you have your *Bound Bow* you'll want to support it. Otherwise, the boost to Illusion will help you handle stronger enemies earlier. If you like to make use of Alteration's utility spells, a 50% duration boost can make them more set-and-forget.
 

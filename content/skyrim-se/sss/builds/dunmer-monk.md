@@ -5,24 +5,25 @@ type: docs
 description: >
   *A light to guide my way. A light to burn my foes.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Dunmer Battlemage](/Pictures/sss/builds/dunmer-monk-art.png)
+![Dunmer Battlemage](/Pictures/sss/builds/dunmer-monk.png)
 
 ## Backstory
 
-You've lived a long life. Long enough to remember when Hosgunn Crossed-Daggers was made Jarl of Riften, the city you once called home. That fateful day was burned into your memory. Protests broke out almost immediately, harsh curfews were imposed, and whispers of summary executions filled the taverns throughout the night. You kept your head down as best you could for as long as you could but the rot in the city was palpable. You had to leave.
+In the days of old, when Hosgunn Crossed-Daggers became Jarl of Riften, your heart was burdened with memories of the chaos that ensued. The city you once called home had turned into a place of unrest and despair. The protests erupted like wildfire, curfews gripped the streets, and whispers of hasty executions permeated the taverns. It became clear to you that the city was plagued by a sickness that couldn't be ignored. And so, with a heavy heart, you made the decision to leave.
 
-Morrowind still hadn't recovered so returning to the home of your ancestors remained a dream. Instead, you chose the life of a hermit, seeking solitude in the forests of the Rift where you could worship Daedra, the Good and the Bad, without the judgmental eyes of the Imperials. You spent your days honing your body and your nights sharpening your mind, ruminating on the past.
+Returning to your ancestral home in Morrowind was but a distant dream, for the land still bore the scars of its own hardships. Instead, you sought solace as a recluse, seeking refuge amidst the serene forests of the Rift. There, away from the scrutinizing eyes of the Imperials, you found freedom to worship the Daedra, both the Good and the Bad. Days were spent refining your physical prowess, while nights were dedicated to delving deep into your thoughts, reflecting on times gone by.
 
-Your meditations eventually led you to a single purpose: you'd make the House of Troubles your spiritual home, welcoming the trials of the Bad Daedra as a path to enlightenment. If you could walk the edge of their influence without corruption, you could be truly great.
+Within the stillness of your meditations, a single purpose emerged: to make the House of Troubles your spiritual sanctuary. Embracing the trials presented by the Bad Daedra, you believed that through their influence, true enlightenment could be attained. It was a daring path, to walk the line between their power and the allure of corruption, but you were determined to rise above it all.
 
-You set off for Windhelm to find passage to Solstheim, the most likely place to find a shrine to the Bad Daedra. Just around Darkwater Crossing, however, you were stopped by an Imperial contingent...
+Thus, your journey began. Venturing towards Windhelm, you sought passage to the distant land of Solstheim, where whispers of a shrine to the Bad Daedra could be found. However, fate had different plans in store. Just as you reached the vicinity of Darkwater Crossing, an unexpected encounter halted your progress. It was an Imperial contingent, bringing an unforeseen twist to your path.
 
 ## Summary
 
 * **Complexity:** High
 * **Race:** [Dark Elf](## "Major Skill: Destruction
-Minor Skill: Conjuration, Illusion, Light Armor, One-handed, Sneak
+Minor Skill: Conjuration, Enchanting, Illusion, One-handed, Sneak
 Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your spells and enchantments cost 10% less.")
 * **Skills:**
   * **Offensive:** Destruction, Hand to Hand  
@@ -253,19 +254,19 @@ Most Dunmer would shy away from the House of Troubles but not you. You invite th
 
 #### Malacath
 
-*You have 50 extra Stamina. Power attacks are 50% stronger, but all other attacks are half as strong.*
+*You have 25/50 Stamina. /  Power attacks are 50% stronger, but all other attacks are half as strong.*
 
 If you want to lean into your Hand to Hand side, Malacath can be a strong choice. Be mindful that he doesn't tolerate half-measures. Commit to your attacks or they won't be effective. Position yourself well so that you can land power attacks without opening yourself up to extra damage.
 
 #### Mehrunes Dagon
 
-*Destruction spells cost 20% less. You reduce the Fire, Frost, Shock, and Poison Resistance of all nearby enemies by up to 50%, but your own Fire, Frost, Shock, and Poison Resistance are reduced by 50%.*
+*Destruction spells cost 10/20% less. / You reduce the Fire, Frost, and Shock Resistance of all nearby enemies by up to 50%, but your own Fire, Frost, Shock, and Poison Resistance are reduced by 50%.*
 
 Lowering your own resistances is daunting at first but remember you'll pick up extra resistance from your Alteration perks. The *Lord Stone* and enchantments can also help negate the downside of the Flame Tyrant. With that out of the way, he delivers a very beneficial blessing.
 
 #### Sheogorath
 
-*Alteration spells cost 20% less. You take 50% more damage from melee weapons, but you reflect 200% of incoming melee damage back at your attacker.*
+*Alteration spells cost 10/20% less. / You take 50% more damage from melee weapons, but you reflect 200% of incoming melee damage back at your attacker.*
 
 If you can overcome the penalty here, Sheogorath opens up fun possibilities for the build. Combined with the *Tower Stone*, which adds armor, that's 300% melee retaliation damage. Reduce incoming damage further with *Disintegrate Weapon*, made cheaper by this blessing, and enjoy.
 
@@ -273,7 +274,7 @@ If you can overcome the penalty here, Sheogorath opens up fun possibilities for 
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -322,16 +323,43 @@ A constant area of effect that complements your punches? Yes, please.
 * **Vampiric Touch (Adept+):** *Absorbs 60 Health from living enemies in melee range.*  
 Without Alchemy or Restoration your biggest hurdle might be healing yourself. These spells help solve that against the living at least.
 
-### Dragon Shouts
+</details>
 
-* **Drain Vitality<sup>DG</sup>:** *Absorbs 5 Stamina\Magicka\Health for 10\20\30 seconds.*  
-An alternative to the *Vampiric* spells if you want to keep your hands empty. It also has a fairly low cooldown and isn't limited to living targets so keep it handy.
+## Dragon Shouts
 
-* **Fire Breath:** *Deals 30\60\120 Fire Damage. Targets on fire take extra damage over time.*  
-This does not benefit from your Destruction perks but it's still the most suitable offensive shout you can choose from. And if they're already on fire, which is very possible, you get the extra damage.
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
 
-* **Whirlwind Sprint:** *Pushes you forward. You move 25% faster for 10\20\30 seconds.*  
-Increased mobility is right up the monk's alley and its low cooldown allows you to keep the extra speed up most of the time.
+<details>
+
+#### Drain Vitality<sup>DG</sup>
+*Cooldown: 60/90/120 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GaaN">G1N</span> **Gaan:** *Absorbs 5 Magicka per second for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Lah">L4</span> **Lah:** *Absorbs 5 Magicka and Stamina per second for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="HaaS">H1S</span> **Haas:** *Absorbs 5 Health, Magicka, and Stamina per second for 30 seconds.*
+* **Meditation:** *Drain Vitality absorbs twice as much Health, Magicka, and Stamina.*
+
+An alternative to the *Vampiric* spells if you want to keep your hands empty. The meditation will double its effect, vastly improving your endurance in combat at the expense of your enemies.
+
+#### Elemental Fury
+*Cooldown: 60/90/120 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SU">SU</span> **Su:** *Move and attack 10% faster for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GRah">GR4</span> **Grah:** *Move and attack 15% faster for 30 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DUN">DUN</span> **Dun:** *Move and attack 20% faster for 30 seconds.*
+* **Meditation:** *Elemental Fury reduces the cost of power attacking and drawing a bow by 25%.*
+
+Increased mobility is right up the monk's alley and extra attack speed is icing on the cake. The meditation is only useful if you couldn't resist the urge to pick up a bow.
+
+#### Fire Breath
+*Cooldown: 30/45/60 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="YOL">YOL</span> **Yol:** *Deals 50 Fire damage. Enemies on fire take extra damage over time.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="TooR">T8R</span> **Toor:** *Deals 75 Fire damage. Enemies on fire take extra damage over time.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SHUL">SHUL</span> **Shul:** *Deals 100 Fire damage. Enemies on fire take extra damage over time.*
+* **Meditation:** *Fire Breath ignites enemies and leaves a trail of fire on the ground.*
+  
+This does not benefit from your Destruction perks but it's still the most suitable offensive shout you can choose from. The flame trails left by the meditation won't bother you much at all with natural resistance and Fire Shell.
 
 </details>
 
@@ -340,10 +368,6 @@ Increased mobility is right up the monk's alley and its low cooldown allows you 
 > Full enchanting information can be found on the [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) description page.
 
 <details>
-
-#### Weapon
-
-* **None:** *This build does not use physical weaponry.*
 
 #### Head
 
@@ -357,9 +381,9 @@ You have the option here of making your spells cheaper but you shouldn't. Your C
 
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
-* **Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
+* **Reflect Damage:** *You reflect 50% of incoming melee damage back at your attacker.*
 
-One of two slots you get for improving your power attacks. When you're not doing that, use it to bolster your defenses.
+One of two slots you get for improving your power attacks. When you're not doing that, use it to bolster your defenses or, again, go for a retribution build.
 
 #### Gloves
 

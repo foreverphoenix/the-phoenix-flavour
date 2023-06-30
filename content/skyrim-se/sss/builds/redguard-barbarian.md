@@ -5,24 +5,23 @@ type: docs
 description: >
   *The finest steel has to go through the hottest fire.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Redguard Barbarian](/Pictures/sss/builds/redguard-barbarian-art.png)
+![Redguard Barbarian](/Pictures/sss/builds/redguard-barbarian.png)
 
 ## Backstory
 
-The adage is older than Sentinel itself and its truth ate at you day after day while you practiced with the rest of Tava's warriors. The order was a shade of its former self, not even large enough to retain its status as a guild and growing smaller still. It was clear the elders had no intention of providing the flame necessary for greatness, so you sought it elsewhere.
+In Sentinel, a city steeped in ancient wisdom, a saying echoes through the hearts of its people: "The strongest steel is forged in the fiercest fires." These words, older than time itself, resonated with you as you tirelessly trained alongside the valiant warriors of Tava's tribe. However, the once-proud order had withered, dwindling in size until it no longer retained its former glory. It was a mere shadow, a remnant of what it used to be. The elders seemed content with mediocrity, lacking the spark needed to ignite greatness. And so, you set forth in search of that vital flame, elsewhere.
 
+Under the guidance of Captain of the Eastway, your journey to Windhelm, the seat of Ulfric Stormcloak, promised smooth passage. There, amidst the ancient city's whispers and secrets, you sought Darkwater Crossing, hoping to cross paths with the formidable Ulfric himself and pledge your unwavering allegiance to his noble cause. Destiny led you to him, but alas, your impeccable timing unwittingly thrust you into an Imperial trap, meticulously laid in Ulfric's path.
 
-The captain of The Eastway provided smooth passage to Windhelm, seat of Ulfric Stormcloak, a man who'll undoubtedly provide the battlefields where legends are forged. Once there you follow whispers to Darkwater Crossing, hoping to meet Ulfric himself and pledge yourself to his cause. You found him, however your impeccable timing landed you in the Imperial ambush set in his path.
-
-
-You don't know where your captors are leading you in this unfamiliar, cold land. But you do know, should fate ever put a sword in your hands again, this will be the very last time the Empire will hold any power over you.
+Now, as your captors guide you through the unfamiliar and frigid terrain, uncertainty fills your heart. Yet, one truth burns within you like an eternal flame: if fate should ever place a sword back into your hands, this will be the final time the Empire holds sway over your destiny. Determination flickers in your eyes, for you are a soul shaped by the hottest fires, a warrior yearning to rewrite the pages of history and reclaim your own power.
 
 ## Summary
 
 * **Complexity:** Moderate
 * **Race:** [Redguard](## "Major Skill: One-handed
-    Minor Skills: Archery, Block, Heavy Armor, Light Armor, Two-handed
+    Minor Skills: Archery, Block, Light Armor, Smithing, Two-handed
     Martial Training: Your Stamina is increased by 50 and your Stamina Regeneration is increased by 50%.")
 * **Skills:**
   * **Offensive:** Destruction, One-handed  
@@ -270,7 +269,7 @@ Tall Papa's' experience bonus is almost always beneficial. His additional effect
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -319,18 +318,41 @@ Restoration keeps you on your feet. With dual blades, you'll be casting most of 
 * **Regeneration (Apprentice+):** *Restores 2 Health per second for 120 seconds.*  
   This does not work with *Respite* but can help with sustainability if you expect a long encounter. Use this right before a tough fight and your Magicka should recover before you'll need additional healing.
 
-### Dragon Shouts
+</details>
 
-Fate saw it fit to grant you the Voice. These are a few ways you can use it to add to your storm. Note that I didn't include the universally useful *Unrelenting Shout* or *Become Ethereal* just to focus on what's specific to the build.
+## Dragon Shouts
 
-* **Cyclone<sup>DB</sup>:** *30\60\120 damage and may flings victims into the air.*  
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
+
+<details>
+
+#### Cyclone<sup>DB</sup>
+*Cooldown: 60/90/120 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VEN">VEN</span> **Ven:** *Deals 50 Magic damage and knocks down enemies in a small area.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GaaR">G1R</span> **Gaar:** *Deals 75 Magic damage and knocks down enemies in a large area.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nir">N7</span> **Nos:** *Deals 100 Magic damage and knocks down enemies in a massive area.*
+* **Meditation:** *Cyclone deals extra damage over 10 seconds.*
+
 More thematic than *Unrelenting Force* but with a longer cooldown. In exchange, it packs a strong punch that will definitely help clear a room.
 
-* **Storm Call:** *Summons a Lightning Storm for 30\45\60 seconds. Lightning bolts deal 30\60\120 Shock Damage to Health and Magicka.*  
-If you're not traveling with a companion this is your go-to offensive shout. Call down Tava's rage to devastate the battlefield as you dance through it. If you are traveling with a companion this will probably kill them.
+#### Storm Call
+*Cooldown: 180/240/300 seconds*
 
-* **Whirlwind Sprint:** *Pushes you forward. You move 25% faster for 10\20\30 seconds.*  
-The main effect will help you quickly close the distance with archers and mages but don't discount the speed buff you get afterwards. In conjunction with your other bonuses you'll be lightning compared to those around you.
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="STRUN">STRUN</span> **Strun:** *Calls a storm for 30 seconds. Lightning bolts from the storm deal 50 damage.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Bah">B4</span> **Bah:** *Calls a storm for 45 seconds. Lightning bolts from the storm deal 75 damage.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NOS">NOS</span> **Qo:** *Calls a storm for 60 seconds. Lightning bolts from the storm deal 100 damage.*
+
+If you're not traveling with a companion, this is your go-to offensive shout. Call down Tava's rage to devastate the battlefield as you dance through it. If you are traveling with a companion this will probably kill them.
+
+#### Whirlwind Sprint
+*Cooldown: 10/20/30 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="WULD">WULD</span> **Wuld:** *Rush forward by 30 feet.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nah">N4</span> **Nah:** *Rush forward by 40 feet.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KEST">KEST</span> **Kest:** *Rush forward by 50 feet.*
+  
+This will help you quickly close the distance with archers and mages, putting you in position to do what you're best at.
 
 </details>
 
@@ -343,7 +365,7 @@ The main effect will help you quickly close the distance with archers and mages 
 #### Weapon
 
 * **Absorb Health:** *Absorbs 20 Health.*
-* **Absorb Stamina:** *Absorbs 30 Stamina. Targets whose Stamina is depleted resist this effect.*
+* **Absorb Stamina:** *Absorbs 30 Stamina.*
 * **Damage Armor:** *Reduces enemy Armor Rating by 150 for 30 seconds.*
 
 While tempting to ride the lightning further with Shock enchantments, your weapons are better used to sustain you. If extra sustainability isn't needed, you can drop one to weaken your enemy's armor instead and deal more damage.
@@ -352,7 +374,7 @@ While tempting to ride the lightning further with Shock enchantments, your weapo
 
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
 * **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
-* **Reflect Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
+* **Fortify Armor Rating:** *Your Armor Rating is increased by 100.*
 
 Most of your damage will come from melee power attacks so it's a safe choice to go with. If that's not available, making your Shock spells easier to cast can be useful. Failing either, it never hurts to bolster your armor in case you're hit.
 
@@ -360,9 +382,9 @@ Most of your damage will come from melee power attacks so it's a safe choice to 
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
-* **Fortify Destruction Cost:** *Your Destruction spells cost 25% less.*
+* **Resist Stagger:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
 
-Being out in the open makes you an easy target for magic users. Improving your general resistance will allow you to eat the damage and continue your assault, most likely healing yourself in the process. Otherwise, this shares options with your head.
+Being out in the open makes you an easy target for magic users. Improving your general resistance will allow you to eat the damage and continue your assault, most likely healing yourself in the process. If you find yourself getting staggered often and unable to keep up the assault, there's the third option.
 
 #### Gloves
 
@@ -370,23 +392,23 @@ Being out in the open makes you an easy target for magic users. Improving your g
 * **Fortify Magicka:** *Your Magicka is increased by 50.*
 * **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
 
-This is a rare opportunity to boost your One-handed damage and you should take it. Alternatively, boosting your Magicka pool is worth it if it allows you to cast a more expensive spell such as *Lightning Cloak*. Or you can shore up your magic resistance even more as that never hurts.
+This is a rare opportunity to boost your One-handed damage and you should take it. Alternatively, boosting your Magicka pool is worth it if it allows you to cast a more expensive spell such as *Lightning Cloak*. Or you can shore up an elemental resistance as that never hurts to have.
 
 #### Boots
 
+* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
-* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
 
-The options here aren't exciting but they aren't without usefulness. More Stamina means more power attacks which means more devastation. Or, again, you can shore up your magic resistance if necessary.
+The options here aren't exciting but they aren't without usefulness. More Movement Speed keeps you on top of your enemies. And more Stamina (or regeneration) means more power attacks which means more devastation.
 
 #### Necklace
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
-* **Fortify Stamina:** *Your Stamina is increased by 50.*
+* **Resist Stagger:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
 
-More Magic Resistance is always welcome unless you're already at the 75% cap. If so, this is one of the few places where you can add more Shock damage. Failing both of those, additional Stamina always helps. An Amulet of Kynareth can serve as a low-level alternative.
+More Magic Resistance is always welcome unless you're already at the 75% cap. If so, this is one of the few places where you can add more Shock damage. Failing both of those, additional Stagger resistance always helps. An Amulet of Kynareth can serve as a low-level option as Tava'll boost your stamina pool.
 
 #### Ring
 
@@ -394,6 +416,6 @@ More Magic Resistance is always welcome unless you're already at the 75% cap. If
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
 
-An insanely competitive enchantment slot and you can't go wrong with any option. Your bread and butter is One-handed, though, and this is one of two places where you can improve it.
+A competitive enchantment slot and you can't go wrong with any option. Your bread and butter is One-handed, though, and this is one of two places where you can improve it.
 
 </details>

@@ -5,15 +5,17 @@ type: docs
 description: >
   *I bring the breath of winter to the field of war.*
 ---
+<link href="../style.css" rel="stylesheet"></link>
 
-![Nord Witchhunter](/Pictures/sss/builds/nord-witchhunter-art.png)
+![Nord Witchhunter](/Pictures/sss/builds/nord-witchhunter.png)
 
 ## Backstory
 
-Your family can be traced back to the days of Uriel Septim VI where, in Winterhold, they served Ulfe Gersen with honor and rose into prominence. They were not afraid of magic back then. Your ancestors used spells as a Nord would a steel axe now. That aversion came many centuries later when the Great Collapse drove your family from the place they called home and thrust them into hardship throughout the empire. Your parents never speak of these events, but the handful of possessions they managed to hold onto were enough to spark your curiosity in what used to be.
+Your family has an ancient lineage, stretching back to the days of Uriel Septim VI. They were esteemed residents of Winterhold, where they served Ulfe Gersen with honor and rose to prominence. In those times, they embraced magic without fear, wielding spells as Nords now wield their sturdy steel axes. But as the years passed, an aversion to magic took root, triggered by the catastrophic Great Collapse. This event shattered your family's peaceful existence, forcing them to abandon their cherished home and endure hardships throughout the empire. Your parents remain tight-lipped about those tumultuous times, although a few prized possessions they managed to retain ignite your curiosity about what once was.
 
+Upon reaching maturity, you made a bold decision: you uprooted yourself from all you knew. The yearning to forge a connection with the past beckoned you, even if it meant severing ties with the present and embarking on a journey back to Skyrim and Winterhold. However, this endeavor proves to be no easy task, for the ominous specter of war hangs over the land. Skyrim finds itself on the brink of conflict, demanding the valorous efforts of its sons and daughters to defend her. This reality becomes as clear as ice when the Imperials forcefully escort you, alongside others, into their prison carriage at the border crossing.
 
-When you came of age, you pulled up stakes and left everyone and everything you knew. You longed to connect to the past and doing so meant disconnecting from the present and returning to Skyrim and Winterhold. But doing so is easier said than done as war looms on the horizon. Skyrim will need its sons and daughters to fight for her as well. That was clear as ice when the Imperials shoved you into their prison carriage at the border crossing...
+You find yourself torn between the allure of rediscovering your family's history and the urgent call to serve your homeland. The path ahead is treacherous and uncertain, with perils awaiting at every turn. Yet, armed with the stories of your ancestors and the remnants of their magical legacy, you are determined to carve out your destiny amidst the chaos and strife that awaits in Skyrim.
 
 
 ## Summary
@@ -243,7 +245,7 @@ In the late game your summoning durations will be obnoxiously long. Cutting them
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-Wherever you come from originally you recognize the Nine Divines of the Imperial Pantheon. Few families are so rooted in the Empire as yours, after all. Of the Nine, three in particular speak to you in your journeys. **Kynareth** is often the patron of travelers like yourself. It was **Julianos** who urged you to leave your home in search of history's forgotten lessons. And you can never forget the ubiquitous **Akatosh**, god-defender of the Empire who commands you to worship the Nine.
+Wherever you come from originally, you recognize the Nine Divines of the Imperial Pantheon. Few families are so rooted in the Empire as yours, after all. Of the Nine, three in particular speak to you in your journeys. **Kynareth** is often the patron of travelers like yourself. It was **Julianos** who urged you to leave your home in search of history's forgotten lessons. And you can never forget the ubiquitous **Akatosh**, god-defender of the Empire who commands you to worship the Nine.
 
 <details>
 
@@ -269,7 +271,7 @@ Extra stamina is always useful and the shrine can be found early on in Whiterun.
 
 ## Spellbook
 
-> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page. Additionally, dragon shout information can be found on the [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) description page.
+> Full magic information can be found on the [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) description page.
 
 <details>
 
@@ -303,16 +305,43 @@ Destruction is a strong backup plan to your bow and you could easily learn and u
 * **Ice Storm (Adept+):** *Deals 40 Frost damage to Health and Stamina in a large area.*  
   Due to your atronach's resistance you can freely cast this in an area centered around them, dealing damage to anything unfortunate enough to be caught in the radius.
 
-### Dragon Shouts
 
-  * **Frost Breath:** *Deals 30\60\120 Frost Damage to Health and Stamina.*  
+</details>
+
+## Dragon Shouts
+
+> Full dragon shout information can be found on the [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) description page.
+
+<details>
+
+#### Call of Valor
+*Cooldown: 180/180/180 seconds*  
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="HUN">HUN</span> **Hun:** *Summons Gormlaith Golden-Hilt for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KaaL">K1L</span> **Kaal:** *Summons Felldir the Old for 60 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZooR">Z8R</span> **Zoor:** *Summons Hakon One-Eye for 60 seconds.*
+
+Frost Atronachs are great but Nord heroes are even better and still in theme. Since they count towards the same conjuration limit, this is a good backup plan should you be short on magicka for summoning. They have access to shouts such as *Unrelenting Force* so they can sometimes be a better ally for crowd control than your usual ally.
+
+#### Frost Breath
+*Cooldown: 30/45/60 seconds*
+
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FO">FO</span> **Fo:** *Deals 50 Frost damage to Health and Stamina.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KRah">KR4</span> **Krah:** *Deals 75 Frost damage to Health and Stamina.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DiiN">D3N</span> **Diin:** *Deals 100 Frost damage to Health and Stamina.*
+* **Meditation:** *Frost Breath deals extra Stamina damage over 30 seconds.*
+
 Very much in theme for the build. It won't benefit from your perks but it will replace a spell in an emergency, especially if you want to keep your bow out at the time. Keep it equipped for emergencies.
 
-  * **Ice Form:** *Targets are encased in ice and receive 5 Frost Damage to Health and Stamina for 10\20\30 seconds.*  
-An excellent crowd control option. If there are too many enemies at one time, use this to put one in time out. Multiple enemies can be affected though don't depend on it since the area is narrow.
+#### Ice Form
+*Cooldown: 60/90/120 seconds*
 
-  * **Slow Time:** *Slows the time by 50\60\70% for 10\20\30 seconds.*  
-An emergency button. Slowing the time can allow you to back away and set down additional runes in your enemy's path. If they survive, they'll be slowed down even more by the Frost effects, making them ripe targets for your arrows.
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="iiZ">3Z</span> **Iiz:** *Reduces enemy Movement and Attack Speed by 25% for 20 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SLEN">SLEN</span> **Slen:** *Reduces enemy Movement and Attack Speed by 25% for 40 seconds.*
+* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NUS">NUS</span> **Nus:** *Reduces enemy Movement and Attack Speed by 25% for 60 seconds.*
+* **Meditation:** *Ice Form has a chance to encase enemies in ice for 10 seconds.*
+  
+An excellent crowd control option. A 25% malus is very noticeable and buys you a lot of space. With the meditation this has a chance of freezing them outright for 10 seconds, giving you even more time.
 
 </details>
 
@@ -326,9 +355,9 @@ An emergency button. Slowing the time can allow you to back away and set down ad
 
 * **Frost Damage:** *Deals 30 Frost Damage to Health and Stamina.*
 * **Weakness to Frost:** *Reduces enemy Frost Resistance by 50% for 30 seconds.*
-* **Absorb Magicka:** *Absorbs 30 Magicka. Targets whose Magicka is depleted resist this effect.*
+* **Absorb Magicka:** *Absorbs 30 Magicka.*
 
-It's hard to say which is better of the Frost enchantments. Additional damage does not benefit from your multitude of perks however it's an additional way to apply slow effects to your enemies. Lowering their resistance is only beneficial if you've laid runes or summoned an atronach. You can choose both eventually, thankfully. Otherwise, *Absorb Magicka* can mitigate the drawback of the *Atronach Stone* if you're running into issues managing Magicka.
+It's hard to say which is better of the Frost enchantments. Additional damage does not benefit from your multitude of perks however it's an additional way to apply slow effects to your enemies. Lowering their resistance is beneficial for subsequent arrows or if you've laid runes or summoned an atronach. You can choose both eventually, thankfully. Otherwise, *Absorb Magicka* can mitigate the drawback of the *Atronach Stone* if you're running into issues managing Magicka.
 
 #### Head
 
@@ -348,7 +377,7 @@ With your atronach and your bow you aren't usually in the crosshairs but extra M
 
 #### Gloves
 
-* **Fortify Potions:** *Your potions last 50% longer.*
+* **Fortify Potion Duration:** *Your potions last 50% longer.*
 * **Fortify Sneak Attacks:** *You deal 25% more damage with sneak attacks and spells.*
 * **Fortify Magicka:** *Your Magicka is increased by 50.*
 
@@ -358,15 +387,15 @@ Your investment in Alchemy gives you access to powerful potions and not just the
 
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
-* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
+* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
 
-Extra Stamina will help you fire more arrows. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. You shouldn't be suffering on Carry Weight or Sneak, honestly, but it's up to you.
+Extra Stamina will help you fire more arrows and run when needed. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. You shouldn't be suffering on Carry Weight or Sneak, honestly, but it's up to you.
 
 #### Necklace
 
 * **Fortify Archery:** *You deal 25% extra damage with ranged weapons.*
-* **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
+* **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 
 A very high-value slot. You're able to boost your main sources of damage here or further protect yourself from nasty magical attacks. Getting more out of your bow is always a win but necklaces are lightweight. You could easily carry multiple as needed.
 
@@ -374,8 +403,8 @@ A very high-value slot. You're able to boost your main sources of damage here or
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
-* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
+* **Fortify Conjuration Duration:** *Your Conjuration spells last 50% longer.*
 
-The ring slot is very similar to your necklace. Use it to shore up your defenses against the arcane or, if you're feeling secure, boost your Frost damage further. This is another place where you can carry multiple options without weighing yourself down.
+The ring slot is similar to your necklace. Use it to shore up your defenses against the arcane or, if you're feeling secure, boost your Frost damage further. This is another place where you can carry multiple options without weighing yourself down.
 
 </details>
