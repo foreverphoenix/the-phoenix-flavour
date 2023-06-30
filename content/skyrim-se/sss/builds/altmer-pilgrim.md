@@ -5,7 +5,6 @@ type: docs
 description: >
  *The mysteries cannot protect themselves.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Altmer Pilgrim](/Pictures/sss/builds/altmer-pilgrim.png)
 
@@ -301,18 +300,18 @@ Restoration is the only school of magic truly utilized by the Pilgrim and most o
 #### Dragon Aspect<sup>DB</sup>
 *Cooldown: 180/240/300 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MUL">MUL</span> **Mul:** *Increases Armor Rating by 50 for 600 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Qah">Q4</span> **Qah:** *Increases Armor Rating by 100 for 600 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DiiV">D3V</span> **Diiv:** *Increases Armor Rating by 100 and Magic Resistance by 25% for 600 seconds.*
+* **Mul:** *Increases Armor Rating by 50 for 600 seconds.*
+* **Qah:** *Increases Armor Rating by 100 for 600 seconds.*
+* **Diiv:** *Increases Armor Rating by 100 and Magic Resistance by 25% for 600 seconds.*
 
 You're a pretty stalwart fighter and this shout makes you even moreso. The meditation will remove the shout cooldown completely, and *Epistolary Acumen* can bolster it further however you need.
 
 #### Marked for Death
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KRii">KR3</span> **Krii:** *Reduces enemy Health by 50 and Armor Rating by 50 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LUN">LUN</span> **Lun:** *Reduces enemy Health by 75 and Armor Rating by 100 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="AUS">AUS</span> **Aus:** *Reduces enemy Health by 100 and Armor Rating by 150 for 30 seconds.*
+* **Krii:** *Reduces enemy Health by 50 and Armor Rating by 50 for 30 seconds.*
+* **Lun:** *Reduces enemy Health by 75 and Armor Rating by 100 for 30 seconds.*
+* **Aus:** *Reduces enemy Health by 100 and Armor Rating by 150 for 30 seconds.*
 * **Meditation:** *Marked for Death reduces enemy Magic Resistance by up to 25%.*
   
 Your mace already strips the enemy of their armor for more damage, it only makes sense to reduce it even further.
@@ -320,9 +319,9 @@ Your mace already strips the enemy of their armor for more damage, it only makes
 #### Unrelenting Force
 *Cooldown: 10/20/30 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FUS">FUS</span> **Fus:** *Deals a 75% stagger to enemies.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="RO">RO</span> **Ro:** *Deals a 100% stagger to enemies.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Dah">D4</span> **Dah:** *Deals a 100% stagger and ragdolls enemies.*
+* **Fus:** *Deals a 75% stagger to enemies.*
+* **Ro:** *Deals a 100% stagger to enemies.*
+* **Dah:** *Deals a 100% stagger and ragdolls enemies.*
 * **Meditation:** *Unrelenting Force deals additional damage and breaks through wards.*
 
 The very first shout you'll have in your arsenal and one of your best. With the *Bell Ringer* perk you'll do at least 25% extra damage to those staggered by this shout.

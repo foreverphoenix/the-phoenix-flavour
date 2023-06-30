@@ -5,7 +5,6 @@ type: docs
 description: >
  *Blessings upon a loyal warrior.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Breton Warrior](/Pictures/sss/builds/breton-warrior.png)
 
@@ -308,9 +307,9 @@ Bretons start with spells from 3 schools of magic, but you'll mostly use *Oakfle
 #### Dragon Aspect<sup>DB</sup>
 *Cooldown: 180/240/300 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MUL">MUL</span> **Mul:** *Increases Armor Rating by 50 for 600 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Qah">Q4</span> **Qah:** *Increases Armor Rating by 100 for 600 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DiiV">D3V</span> **Diiv:** *Increases Armor Rating by 100 and Magic Resistance by 25% for 600 seconds.*
+* **Mul:** *Increases Armor Rating by 50 for 600 seconds.*
+* **Qah:** *Increases Armor Rating by 100 for 600 seconds.*
+* **Diiv:** *Increases Armor Rating by 100 and Magic Resistance by 25% for 600 seconds.*
 * **Meditation:** *Dragon Aspect does not trigger a Shout cooldown.*
 
 The perfect defensive shout for a defensive warrior. Extra Armor Rating in its first two words and then a lovely amount of Magic Resistance with its final word. Add the meditation and it becomes completely free to use. The only downside is how hard it is to obtain.
@@ -318,9 +317,9 @@ The perfect defensive shout for a defensive warrior. Extra Armor Rating in its f
 #### Lightning Breath
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="STRUN">STRUN</span> **Strun:** *Deals 50 Shock damage to Health and Magicka.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GaaR">G1R</span> **Gaar:** *Deals 75 Shock damage to Health and Magicka.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KEST">KEST</span> **Kest:** *Deals 100 Shock damage to Health and Magicka.*
+* **Strun:** *Deals 50 Shock damage to Health and Magicka.*
+* **Gaar:** *Deals 75 Shock damage to Health and Magicka.*
+* **Kest:** *Deals 100 Shock damage to Health and Magicka.*
 * **Meditation:** *Lightning Breath deals extra Magicka damage over 30 seconds.*
 
 The warrior lacks ranged options, making them especially vulnerable to enemies who cast spells at a distance. Lightning Breath works to drain them of Magicka to use for that, especially so with the meditation.
@@ -328,9 +327,9 @@ The warrior lacks ranged options, making them especially vulnerable to enemies w
 #### Subdue
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZUN">ZUN</span> **Zun:** *Reduces enemy weapon damage by 25% for 20 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="HaaL">H1L</span> **Haal:** *Reduces enemy weapon damage by 25% for 40 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ViiK">V3K</span> **Viik:** *Reduces enemy weapon damage by 25% for 60 seconds.*
+* **Zun:** *Reduces enemy weapon damage by 25% for 20 seconds.*
+* **Haal:** *Reduces enemy weapon damage by 25% for 40 seconds.*
+* **Viik:** *Reduces enemy weapon damage by 25% for 60 seconds.*
 * **Meditation:** *Subdue reduces enemy weapon damage by an additional 25%.*
 
 You're already quite sturdy but robbing your opponents of their weapon damage makes you that much more durable. Consider this your bread and butter shout to use in boss rooms to make sure you aren't overpowered.

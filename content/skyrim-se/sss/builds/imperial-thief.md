@@ -5,7 +5,6 @@ type: docs
 description: >
  *My aims are my own, best you don't end up as one of them.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Imperial Thief](/Pictures/sss/builds/imperial-thief.png)
 
@@ -300,9 +299,9 @@ Dabbling in Illusion offers the Thief many benefits. With *Calm* as a starting s
 #### Battle Fury
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MID">MID</span> **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Vur">V6</span> **Mir:** *All nearby allies move and attack 15% faster for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SH1N">SH1N</span> **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
+* **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
+* **Mir:** *All nearby allies move and attack 15% faster for 60 seconds.*
+* **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
 * **Meditation:** *Battle Fury increases the Armor Rating of all nearby allies by up to 150.*
 
 Another buff to add on top of *Courage* and your bard song. Even better if you have more than one ally, but even with just a follower this can greatly improve their effectiveness in combat.
@@ -310,9 +309,9 @@ Another buff to add on top of *Courage* and your bard song. Even better if you h
 #### Become Ethereal
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FeiM">F2M</span> **Feim:** *You become ethereal for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Zii">Z3</span> **Zii:** *You become ethereal for 20 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GRON">GRON</span> **Gron:** *You become ethereal for 30 seconds.*
+* **Feim:** *You become ethereal for 10 seconds.*
+* **Zii:** *You become ethereal for 20 seconds.*
+* **Gron:** *You become ethereal for 30 seconds.*
 * **Meditation:** *Become Ethereal restores Health over time.*
 
 If the action gets too hot, use this to guarantee some safety and reposition as needed. With meditation it can also be used to restore Health whenever you need.
@@ -320,9 +319,9 @@ If the action gets too hot, use this to guarantee some safety and reposition as 
 #### Call Dragon
 *Cooldown: 5/10/300 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="OD">OD</span> **Od:** *No effect.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ah">4</span> **Ah:** *No effect.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ViiNG">V3NG</span> **Viing:** *Summons Odahviing.*
+* **Od:** *No effect.*
+* **Ah:** *No effect.*
+*  **Viing:** *Summons Odahviing.*
 
 This is quite situational as you need to complete the main quest and it only works outdoors, but it's perfect for difficult fights such as other dragons. An essential ally that lasts until the fight's over? Summon him, buff him up, and get out of his way.
 

@@ -5,7 +5,6 @@ type: docs
 description: >
   *My thirst for knowledge cannot be quenched.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Bosmer Mage](/Pictures/sss/builds/bosmer-mage.png)
 
@@ -290,8 +289,6 @@ As an elementalist you have the option of choosing fire, frost, or shock magic i
 * **Wall (Expert):** *Wall of Flames / Wall of Frost / Wall of Storms*  
   A late addition to your toolkit but a good one. *Wall of Frost* is especially useful as it will also slow anyone who walks through the wall approaching you, giving you an opportunity to widen the distance. 
 
-<img align="right" width="100" height="100" src="/Pictures/sss/builds/skill-restoration.webp">
-
 </details>
 
 ## Dragon Shouts
@@ -303,9 +300,9 @@ As an elementalist you have the option of choosing fire, frost, or shock magic i
 #### Animal Ally
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="RaaN">R1N</span> **Raan:** *Summons a wolf for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Mir">M7</span> **Mir:** *Summons a sabre cat for 60 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Tah">T4</span> **Tah:** *Summons a bear for 60 seconds.*
+* **Raan:** *Summons a wolf for 60 seconds.*
+* **Mir:** *Summons a sabre cat for 60 seconds.*
+* **Tah:** *Summons a bear for 60 seconds.*
 * **Meditation:** *Your Animal Ally's Armor Rating is increased by 150, and their Magic Resistance is increased by 25%.*
 
  A facsimile of the vanilla *Command Animal* power Bosmer had that's useful for keeping some distance between you and your enemies in a fight.
@@ -313,9 +310,9 @@ As an elementalist you have the option of choosing fire, frost, or shock magic i
 #### Dismay
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="FaaS">F1S</span> **Faas:** *Living targets up to level 20 flee combat for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="RU">RU</span> **Ru:** *Living targets up to level 30 flee combat for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="MaaR">M1R</span> **Maar:** *Living targets up to level 40 flee combat for 30 seconds.*
+* **Faas:** *Living targets up to level 20 flee combat for 30 seconds.*
+* **Ru:** *Living targets up to level 30 flee combat for 30 seconds.*
+* **Maar:** *Living targets up to level 40 flee combat for 30 seconds.*
 * **Meditation:** *Dismay works on the undead, Daedra, and Dwarven automatons.*
   
 Sometimes raining down chaos alone doesn't instill the panic you were hoping for. Use this to encourage your victims into the right mindset.
@@ -323,9 +320,9 @@ Sometimes raining down chaos alone doesn't instill the panic you were hoping for
 #### Soul Tear<sup>DG</sup>
 *Cooldown: 120/150/180 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Rii">R3</span> **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VaaZ">V1Z</span> **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZOL">ZOL</span> **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
+* **Rii:** *Deals 5 Magic damage per second for 10 seconds.*
+* **Vaaz:** *Deals 7.5 Magic damage per second for 10 seconds. If the target dies, fills a soul gem.*
+* **Zol:** *Deals 10 Magic damage per second for 10 seconds. If the target dies, fills a soul gem and reanimates their corpse.*
 * **Meditation:** *Soul Tear deals extra damage over 10 seconds.*
 
 This fills a void left by your perk selection. Damage combined with a Soul Trap effect allows you to fill your gems without swapping staves. With the final word you can turn your victims into allies which is also thematic for a vampire.

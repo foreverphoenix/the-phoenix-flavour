@@ -5,7 +5,6 @@ type: docs
 description: >
   *A light to guide my way. A light to burn my foes.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Dunmer Battlemage](/Pictures/sss/builds/dunmer-monk.png)
 
@@ -334,9 +333,9 @@ Without Alchemy or Restoration your biggest hurdle might be healing yourself. Th
 #### Drain Vitality<sup>DG</sup>
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GaaN">G1N</span> **Gaan:** *Absorbs 5 Magicka per second for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Lah">L4</span> **Lah:** *Absorbs 5 Magicka and Stamina per second for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="HaaS">H1S</span> **Haas:** *Absorbs 5 Health, Magicka, and Stamina per second for 30 seconds.*
+* **Gaan:** *Absorbs 5 Magicka per second for 30 seconds.*
+* **Lah:** *Absorbs 5 Magicka and Stamina per second for 30 seconds.*
+* **Haas:** *Absorbs 5 Health, Magicka, and Stamina per second for 30 seconds.*
 * **Meditation:** *Drain Vitality absorbs twice as much Health, Magicka, and Stamina.*
 
 An alternative to the *Vampiric* spells if you want to keep your hands empty. The meditation will double its effect, vastly improving your endurance in combat at the expense of your enemies.
@@ -344,9 +343,9 @@ An alternative to the *Vampiric* spells if you want to keep your hands empty. Th
 #### Elemental Fury
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SU">SU</span> **Su:** *Move and attack 10% faster for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GRah">GR4</span> **Grah:** *Move and attack 15% faster for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="DUN">DUN</span> **Dun:** *Move and attack 20% faster for 30 seconds.*
+* **Su:** *Move and attack 10% faster for 30 seconds.*
+* **Grah:** *Move and attack 15% faster for 30 seconds.*
+* **Dun:** *Move and attack 20% faster for 30 seconds.*
 * **Meditation:** *Elemental Fury reduces the cost of power attacking and drawing a bow by 25%.*
 
 Increased mobility is right up the monk's alley and extra attack speed is icing on the cake. The meditation is only useful if you couldn't resist the urge to pick up a bow.
@@ -354,9 +353,9 @@ Increased mobility is right up the monk's alley and extra attack speed is icing 
 #### Fire Breath
 *Cooldown: 30/45/60 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="YOL">YOL</span> **Yol:** *Deals 50 Fire damage. Enemies on fire take extra damage over time.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="TooR">T8R</span> **Toor:** *Deals 75 Fire damage. Enemies on fire take extra damage over time.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="SHUL">SHUL</span> **Shul:** *Deals 100 Fire damage. Enemies on fire take extra damage over time.*
+* **Yol:** *Deals 50 Fire damage. Enemies on fire take extra damage over time.*
+* **Toor:** *Deals 75 Fire damage. Enemies on fire take extra damage over time.*
+* **Shul:** *Deals 100 Fire damage. Enemies on fire take extra damage over time.*
 * **Meditation:** *Fire Breath ignites enemies and leaves a trail of fire on the ground.*
   
 This does not benefit from your Destruction perks but it's still the most suitable offensive shout you can choose from. The flame trails left by the meditation won't bother you much at all with natural resistance and Fire Shell.

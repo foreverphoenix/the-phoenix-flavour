@@ -1,8 +1,0 @@
-@font-face {
-	font-family:'DragonscriptRegular';
-	src: url(fonts/dragon_script.eot);
-	src: url("fonts/dragon_script.eot#iefix") format('embedded-opentype'), url(fonts/dragon_script.woff) format('woff'), url(fonts/dragon_script.ttf) format('truetype'), url("fonts/dragon_script.svg#DragonscriptRegular") format('svg');
-	font-weight: normal;
-	font-style: normal;
-	font-variant: normal;
-}

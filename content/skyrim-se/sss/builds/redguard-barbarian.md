@@ -5,7 +5,6 @@ type: docs
 description: >
   *The finest steel has to go through the hottest fire.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Redguard Barbarian](/Pictures/sss/builds/redguard-barbarian.png)
 
@@ -329,9 +328,9 @@ Restoration keeps you on your feet. With dual blades, you'll be casting most of 
 #### Cyclone<sup>DB</sup>
 *Cooldown: 60/90/120 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="VEN">VEN</span> **Ven:** *Deals 50 Magic damage and knocks down enemies in a small area.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GaaR">G1R</span> **Gaar:** *Deals 75 Magic damage and knocks down enemies in a large area.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nir">N7</span> **Nos:** *Deals 100 Magic damage and knocks down enemies in a massive area.*
+* **Ven:** *Deals 50 Magic damage and knocks down enemies in a small area.*
+* **Gaar:** *Deals 75 Magic damage and knocks down enemies in a large area.*
+* **Nos:** *Deals 100 Magic damage and knocks down enemies in a massive area.*
 * **Meditation:** *Cyclone deals extra damage over 10 seconds.*
 
 More thematic than *Unrelenting Force* but with a longer cooldown. In exchange, it packs a strong punch that will definitely help clear a room.
@@ -339,18 +338,18 @@ More thematic than *Unrelenting Force* but with a longer cooldown. In exchange, 
 #### Storm Call
 *Cooldown: 180/240/300 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="STRUN">STRUN</span> **Strun:** *Calls a storm for 30 seconds. Lightning bolts from the storm deal 50 damage.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Bah">B4</span> **Bah:** *Calls a storm for 45 seconds. Lightning bolts from the storm deal 75 damage.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="NOS">NOS</span> **Qo:** *Calls a storm for 60 seconds. Lightning bolts from the storm deal 100 damage.*
+* **Strun:** *Calls a storm for 30 seconds. Lightning bolts from the storm deal 50 damage.*
+* **Bah:** *Calls a storm for 45 seconds. Lightning bolts from the storm deal 75 damage.*
+* **Qo:** *Calls a storm for 60 seconds. Lightning bolts from the storm deal 100 damage.*
 
 If you're not traveling with a companion, this is your go-to offensive shout. Call down Tava's rage to devastate the battlefield as you dance through it. If you are traveling with a companion this will probably kill them.
 
 #### Whirlwind Sprint
 *Cooldown: 10/20/30 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="WULD">WULD</span> **Wuld:** *Rush forward by 30 feet.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nah">N4</span> **Nah:** *Rush forward by 40 feet.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KEST">KEST</span> **Kest:** *Rush forward by 50 feet.*
+* **Wuld:** *Rush forward by 30 feet.*
+* **Nah:** *Rush forward by 40 feet.*
+* **Kest:** *Rush forward by 50 feet.*
   
 This will help you quickly close the distance with archers and mages, putting you in position to do what you're best at.
 

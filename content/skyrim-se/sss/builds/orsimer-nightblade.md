@@ -5,7 +5,6 @@ type: docs
 description: >
  *My blades and my mind are as one.*
 ---
-<link href="../style.css" rel="stylesheet"></link>
 
 ![Orsimer Nightblade](/Pictures/sss/builds/orsimer-nightblade.png)
 
@@ -328,18 +327,18 @@ You've found that dabbling in Illusion can make others temporarily forget about 
 #### Aura Whisper
 *Cooldown: 30/45/60 seconds*  
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LaaS">L1S</span> **Laas:** *You detect all nearby living creatures for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Yah">Y4</span> **Yah:** *You detect all nearby living and dead creatures for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Nir">N7</span> **Nir:** *You detect all nearby creatures for 30 seconds.*
+* **Laas:** *You detect all nearby living creatures for 30 seconds.*
+* **Yah:** *You detect all nearby living and dead creatures for 30 seconds.*
+* **Nir:** *You detect all nearby creatures for 30 seconds.*
 
 Like *Detect Life*, it's much easier to hide from enemies if you know where they are. There's no meditation for this shout but the uptime makes it very convenient.
 
 #### Marked for Death
 *Cooldown: 60/90/120 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="KRii">KR3</span> **Krii:** *Reduces enemy Health by 50 and Armor Rating by 50 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="LUN">LUN</span> **Lun:** *Reduces enemy Health by 75 and Armor Rating by 100 for 30 seconds.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="AUS">AUS</span> **Aus:** *Reduces enemy Health by 100 and Armor Rating by 150 for 30 seconds.*
+* **Krii:** *Reduces enemy Health by 50 and Armor Rating by 50 for 30 seconds.*
+* **Lun:** *Reduces enemy Health by 75 and Armor Rating by 100 for 30 seconds.*
+* **Aus:** *Reduces enemy Health by 100 and Armor Rating by 150 for 30 seconds.*
 * **Meditation:** *Marked for Death reduces enemy Magic Resistance by up to 25%.*
 
 If you can mark them without being discovered, the debuffs to their defenses will make enemies even more susceptible to your sneak attacks. The meditation will make the chaos damage from your bound weapons even better to boot.
@@ -347,9 +346,9 @@ If you can mark them without being discovered, the debuffs to their defenses wil
 #### Throw Voice
 *Cooldown: 30/20/10 seconds*
 
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="ZUL">ZUL</span> **Zul:** *Throws voice.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="Mey">M9</span> **Mey:** *Throws voice.*
-* <span style="line-height:1.0; font-family:DragonscriptRegular; font-size:large" title="GUT">GUT</span> **Gut:** *Throws voice.*
+* **Zul:** *Throws voice.*
+* **Mey:** *Throws voice.*
+* **Gut:** *Throws voice.*
   
 Simple and with a short cooldown with all 3 words. You excel at taking enemies out one by one so use this to isolate your targets when needed.
 
