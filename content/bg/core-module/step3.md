@@ -3,17 +3,15 @@ title: "Step 3"
 weight: 3
 type: docs
 description: >
-  Step 3.
+  Plugin structure: Dependencies, records, layers, and Form IDs. SSEEdit.
 ---
 
 {{< alert color="info" title="Summary" >}}
-> - Essential Mods{{< /alert >}}
-
-In the previous step we learned that there are two kinds of mod files: Plugins and assets. The Core Module mostly covers plugins.
-
-We will start by installing an example mod.
+> This step covers the basic architecture of Bethesda plugins and how they can be modified.{{< /alert >}}
 
 ## Unofficial Skyrim Special Edition Patch
+
+We will start by installing an example mod.
 
 The **Unofficial Skyrim Special Edition Patch** (USSEP) is an ambitious project aiming to squash the various bugs and inconsistencies never addressed by Bethesda. It is probably the single most popular Skyrim mod in existence.
 
@@ -43,6 +41,8 @@ After enabling the USSEP, a new plugin will appear in the **Plugins** tab in the
 ### Dependencies
 
 By adding one plugin as a **master** to another plugin, you can modify its contents. However, the dependent plugin will now require its master to function. All plugins require at least **Skyrim.esm** because most game data is defined in that plugin.
+
+{{< alert color="info">}}Because all mods require one or more of the five vanilla ESMs they are known as the **official master files**.{{< /alert >}}
 
 You can view a plugin's masters by hovering over it in the MO2 UI:
 
@@ -251,5 +251,131 @@ Theoretically we could simply right-click and delete the book's base record. How
 
 Instead, it is much better to leave the base record in place and disable the REFR record.
 
+## Finding the REFR
 
-*TBC*
+One way to find the REFR record would be to search for the Ref Form ID like we did before. However, there is another way of quickly tracking down referenced records:
+
+- With the **USSEPUnwantedEffectsRemoverBook** record selected, click the **Referenced By (1)** tab at the bottom of the right pane.
+- Double-click the one REFR record listed here to immediately switch to it.
+
+![Find REFR](/Pictures/bg/core-module/find-refr-records.png)
+
+There we go. Under the blue highlight (because it is currently selected), the record in the left pane has no coloured background (meaning it is new and not overwritten) and in *italics* (meaning it is injected):
+
+![Find REFR](/Pictures/bg/core-module/ussep-book-ref.png)
+
+Under **NAME - Base** in the right pane, you can see the full name of the book record (consisting of EDID, Name, Signature, and BaseID). If you scroll further down, there is the **DATA - Position/Rotation** section which defines the book's exact placement. This would best be edited in the Creation Kit where you have a visual preview.
+
+Various other parameters are greyed out because they are unused.
+
+### Creating a new layer
+
+While it is entirely possible to edit the REFR record directly, it would mean that you would have to do it all over again whenever the USSEP updated. For any edit like this (and later on for patches) I highly recommend creating new plugins instead of directly editing the mod(s) in question. It is also much easier to keep track of custom changes if they are in separate plugins.
+
+- Right-click the **Unofficial Skyrim Special Edition Patch.esp** column in the right pane.
+- Select **Copy as override into ...** to copy the layer into another plugin.
+
+![Create Layer](/Pictures/bg/core-module/sseedit-create-layer.png)
+
+The [warning window](/Pictures/bg/core-module/sseedit-warning-window.png) that now appears will always show up the first time you edit anything in an SSEEdit session. It can be turned off and I recommend doing that eventually.
+
+{{< alert color="warning">}}When making changes, it is important to know that **there is no "Undo" button in SSEEdit**. If you make a mistake, you need to restore the previous state manually or close without saving your changes and start over. It is possible to save manually during a longer session.{{< /alert >}}
+
+- Click **Yes I'm absolutely sure** to acknowledge the warning and proceed.
+- A new window will pop up with various different plugins that the record can be copied into.
+- Check the **\<new file>.esp** option and click **OK**.
+- Enter **Disable USSEP Book** as the name of the new plugin and click **OK** once more.
+
+![New Plugin](/Pictures/bg/core-module/sseedit-new-plugin.png)
+
+A new plugin was created and will appear at the bottom of the plugin list in the left pane.
+
+Scroll down and expand its **Cell** records until you find the REFR record added by the USSEP. As you can see it is highlighted in green since the original record was overwritten now:
+
+![Book ITM](/Pictures/bg/core-module/ussep-book-itm.png)
+
+### Identical to Master
+
+In the new plugin, the font colour is grey instead of purple. **That means the record is an ITM, or Identical to Master.**
+
+The master for the REFR record is **Update.esm** (because it is an injected form) and the master for the book referenced in the REFR record is the USSEP (because the book record originates in the USSEP). For that reason, both the USSEP and Update.esm are required. Skyrim.esm is also added as a master to any new plugin.
+
+You can see the full list of masters if you click on **File Header**.
+
+![Book ITM](/Pictures/bg/core-module/ussep-book-masters.png)
+
+Because nothing has (yet) been changed in the new layer, it is still *identical to all its masters* and therefore an **ITM**. ITMs are often (but not always) unnecessary and potentially disruptive (because they can override and negate other mods' changes) which is why they usually merit further investigation.
+
+This particular record will, of course, be modified.
+
+### Adding a record flag
+
+In order to disable the book ingame, we can use a **Record Flag**. Scroll up to the top of the record in the right pane to find the **Record Flags** line which is currently empty.
+
+- Right-click the empty space next to **Record Flags** and select **Edit**.
+
+![Add Record Flag](/Pictures/bg/core-module/sseedit-add-record-flag.png)
+
+A new window will pop up with a list of options that you can check. Near the top of that list is a **Delete** option which is not the one you should choose. Flagging records as deleted will cause crashes if they are referenced by other records and it is considered best practice to always use the **Initially Disabled** flag instead.
+
+{{< alert color="info">}}**Initially Disabled** means a record can potentially be re-enabled by a script later on. For example, certain coffins are flagged as initially disabled. If an NPC dies, their coffin in the Hall of the Dead of their home city will be enabled and thus become visible to the player.{{< /alert >}}
+
+- Check the box for **Initially Disabled** and click **OK**.
+
+![Disable Flag](/Pictures/bg/core-module/initially-disabled-flag.png)
+
+### Saving your changes
+
+Saving changes made in SSEEdit is a slightly unintuitive process: You actually have to *close* the tool to be prompted to save what you changed (unless you save manually).
+
+- Close **SSEEdit** (click the red X in the upper right corner).
+- A window with all plugins edited in that session will pop up. Only the **Disable USSEP Book.esp** should be listed here.
+- Make sure that the new plugin we created is checked and click **OK**.
+
+## The Overwrite
+
+Whenever a file is generated by a tool that is run through Mod Organizer 2, it will 'catch' these files in a folder called the ***Overwrite***. That, as it happens, is where our new plugin ended up, and it is why [a warning popped up in MO2](/Pictures/bg/core-module/overwrite-warning.png).
+
+The ***Overwrite*** is located at the bottom of the mod folder which means its contents will <u>always</u> overwrite the rest of the mod order (hence the name). Because it always overwrites, the ***Overwrite*** should <u>never</u> be more than a temporary location that is cleaned up as soon as possible.
+
+{{< alert color="info">}}The actual location of the ***Overwrite*** accessible through the MO2 UI is `\Mod Organizer 2\overwrite\`.{{< /alert >}}
+
+- Double-click the ***Overwrite*** at the bottom of your mod order to open it.
+
+![Overwrite Contents](/Pictures/bg/core-module/overwrite-contents.png)
+
+### Managing Overwrite Files
+
+Since we only have a single file in the ***Overwrite***, we can very easily convert its content into a new mod:
+
+- Close the ***Overwrite*** window again.
+- Right-click the ***Overwrite*** and select **Create Mod**.
+- Name it **Disable USSEP Book** and click **OK**.
+- Move your new mod directly below the **Unofficial Skyrim Special Edition Patch** and activate it.
+
+![Overwrite Contents](/Pictures/bg/core-module/overwrite-create-mod.png)
+
+## Ingame Test
+
+Now that we have created our first plugin tweak and cleaned everything up, it is time to jump in-game again to check if the plugin works as intended.
+
+- Launch the **Skyrim Script Extender** through Mod Organizer 2.
+- Select **Continue** in the main menu to load your previously created save.
+
+And ... gone!
+
+![Overwrite Contents](/Pictures/bg/core-module/ussep-book-removed.jpg)
+
+### Conclusion
+
+You may wonder why we went through the process of digging through SSEEdit to disable a completely inconsequential feature before we even talked about load order and plugin types.
+
+**This step was never about the book.**
+
+With everything we learned about plugins, dependencies, and layers, **load order** should be more than a theoretical concept now. It is a tangible thing that you have seen in action. You looked at records and edits, you created your own overwriting layer to make a change, and you saw the in-game effect.
+
+When we discuss plugin types and load order in the next step, these concepts will hopefully make more sense with the knowledge on plugin structure that we have now gained.
+
+---
+
+#### Please continue with [Step 4](/bg/core-module/step4/).

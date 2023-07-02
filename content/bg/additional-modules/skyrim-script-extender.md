@@ -94,23 +94,12 @@ A minor disadvantage of adding SKSE in this fashion is that MO2 will not automat
 
 ![Open Executable Settings](/Pictures/bg/mo2-executables-settings.png)
 
-- Click the small blue plus icon and select **Add empty**.
-- Enter **Skyrim Script Extender** as the **Title**.
-
-For the **Binary** path you need to insert the file path that *will* be correct *after* running Root Builder (which is the root folder). Of course, the SKSE executable is not currently located there. That is why we need to do this manually.
-
-- For **Binary** enter `Drive:\path\to\root\skse64_loader.exe`.
-
-(You can copy & paste the file path from the settings for the game executables above.)
-
-For me, the file path is:
-
-```
-G:\Steam Library\steamapps\common\Skyrim Special Edition\skse64_loader.exe
-```
-
-- Optionally, move the new executable to the top of the list.
+- Click the small blue plus icon and select **Add from file**.
+- Navigate to `\Mod Organizer 2\mods\Skyrim Script Extender\Root\` and double-click the **skse64_loader.exe**.
+- (Optional) Rename the executable in MO2 to **Skyrim Script Extender** and move it to the top of the list.
 - Click **OK** to save your changes and close the window.
+
+{{< alert color="info" >}}The **Redirect** feature in **Root Builder** will automatically move an executable file from a mod folder into the root folder if it is launched through MO2. This is why we can simply point MO2 at the mod folder here.{{< /alert >}}
 
 ![SKSE Exec](/Pictures/bg/additional-modules/mo2-skse-executable.png)
 
