@@ -3,7 +3,7 @@ title: "Step 2"
 weight: 2
 type: docs
 description: >
-  Understanding folder structures and file management. Installing SKSE.
+  Folder structures and file management. Skyrim Script Extender.
 ---
 
 {{< alert color="info" title="Summary" >}}
@@ -28,6 +28,8 @@ This is your **root folder**. It contains the two executables: **SkyrimSE.exe**,
 The **data folder** is located inside the **root folder**. Open it now.
 
 The **data folder** contains all game files which are split into **plugins (ESMs)** and **archives (BSAs)**. There are five **ESMs** containing all game data and 18 **BSAs** containing all assets. They are used by the engine to build the game.
+
+{{< alert color="info">}}The five ESMs are also referred to as the **official master files**.{{< /alert >}}
 
 ![Data Folder](/Pictures/bg/core-module/skyrim-data-folder.png)
 

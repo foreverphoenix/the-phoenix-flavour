@@ -3,7 +3,7 @@ title: "Step 1"
 weight: 1
 type: docs
 description: >
-  Setting up Skyrim SE and Mod Organizer 2.
+  Skyrim SE and MO2 setup for modding.
 ---
 
 {{< alert color="info" title="Summary" >}}

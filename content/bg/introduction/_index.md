@@ -54,9 +54,11 @@ For example, if you are starting from scratch, take a look at the [Clean Install
 
 First, the ethos appeal: I have been modding Skyrim for over a decade, writing modding tutorials since 2017, and curating large Wabbajack lists since 2020. While I am nowhere near as knowledgable as the brightest minds in the community, I have picked up many tips and tricks over the years that I believe are valuable and worth sharing. I would also like to think that I have become quite efficient at breaking down complex processes into small steps that are easy to follow.
 
-{{< alert color="warning" >}}That being said, I am very thorough, perhaps obsessively so, in managing my setups. I like doing things *properly* and in a clean fashion, because it helps me orient myself and keep a good overview. When tinkering with some 2,000 separate mod folders in TPF I find this to be absolutely essential.{{< /alert >}}
+**That being said, I am very thorough, perhaps obsessively so, in managing my setups.** I like doing things *properly* and in a clean fashion, because it helps me orient myself and keep a good overview. When tinkering with some 2,000 separate mod folders in TPF I find this to be absolutely essential.
 
-This also means that I will be bringing a good amount of relatively minor steps and personal idiosyncrasies into my instructions. As such, they are often "How To Mod Skyrim Phoenix's Sometimes Unnecessarily Thorough Way" which is by no means the most efficient or objectively "best" way. Use your own brain, come up with your own little quirks and tricks, and take whatever you find helpful from my process, because my process is all I can offer you.
+This also means that I will be bringing a good amount of relatively minor steps and personal idiosyncrasies into my instructions. As such, they are often "How To Mod Skyrim Phoenix's Sometimes Unnecessarily Thorough Way" which is by no means the most efficient or objectively "best" way.
+
+**Use your own brain, come up with your own little quirks and tricks, and take whatever you find helpful from my process, because my process is all I can offer you.**
 
 ### Tool Preferences
 
