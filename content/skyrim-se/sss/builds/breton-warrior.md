@@ -3,7 +3,7 @@ title: "Breton Warrior"
 weight: 3
 type: docs
 description: >
- *Blessings upon a loyal warrior.*
+ *I stand alone but at least I stand.*
 ---
 
 ![Breton Warrior](/Pictures/sss/builds/breton-warrior.png)
@@ -29,8 +29,8 @@ Spell Warding: Your Magic Resistance is increased by 25%, and you have a 15% cha
   * **Defensive:** Alteration, Block, Heavy Armor
   * **Utility:** Smithing
 * **Attributes:**  
-  You'll have high defenses but you'll still need enough base Health to take the hits to begin with. After that, Stamina allows you to swing your greatsword and cleave your enemies. Lastly, make sure you have enough Magicka to cast a few Alteration buffs for the situation.
-  * **Health:** 3
+  You'll have high defenses but you'll still need enough base Health to take the hits to begin with. After that, Stamina allows you to swing your greatsword and cleave your enemies. Lastly, make sure you have enough Magicka to cast a few Alteration buffs for the situation. 200 should be sufficient in the endgame.
+  * **Health:** 2
   * **Magicka:** 1
   * **Stamina:** 2
 
@@ -206,7 +206,7 @@ No mere man or mer can stand up to you as you are. The knightly orders back home
 
 * **Deep Wounds 2 (70)::** Greatswords have a 20% chance of doing critical damage.
 * **Massacre (80)::** Power attacks with Two-handed weapons 50% extra damage to targets who fall below half Health.
-* **Heavy Cuts 2 (90)::**  Critical attacks with greatswords deal five times more damage.
+* **Heavy Cuts 2 (90)::** Critical attacks with greatswords deal five times more damage.
 * **Rampage (100):** Repeated power attacks against a single target with Two-handed weapons deal up to double damage.
 
 </details>
@@ -223,7 +223,7 @@ No mere man or mer can stand up to you as you are. The knightly orders back home
 
 ***Warborn:*** *Your Health is increased by 50, and blocking and bashing are 25% more effective.*
 
-What's there not to like? Your guardian stone gives you plenty of Health and makes two options you can perform with your greatsword better.
+What's there not to like? Your guardian stone gives you plenty of Health and makes two things you can do with your greatsword better.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-lord.webp">
 
@@ -247,11 +247,9 @@ If you feel secure in your defenses, a 20% Movement Speed boost and a Carry Weig
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-[desc]
+Though you did not make it into one of the templar knightly orders, you were raised to learn and worship the gods. This includes the Eight Divines such as **Arkay** and **Stendarr** that are widely worshiped in Breton culture, but also the elven gods of your ancestors such as **Magnus**.
 
 <details>
-
-Though you did not make it into one of the templar knightly orders, you were raised to learn and worship the gods. This includes the Eight Divines such as **Arkay** and **Stendarr** that are widely worshiped in Breton culture, but also the elven gods of your ancestors such as **Magnus**.
 
 #### Arkay
 
@@ -270,8 +268,6 @@ Leaning into your elven heritage with Magnus makes you more in tune with sorcery
 *Your Health Regeneration is increased by 25.*
 
 Knowing when to swing and when to stow your blade is essential for a proper warrior and following Stendarr shows a dedication towards justice. In return, the Steadfast God will help you stay on your feet longer with Health Regeneration.
-
-[desc]
 
 </details>
 
@@ -407,3 +403,35 @@ The boost to ranged damage is occasionally useful but enough to warrant the top 
 A boost to your main damage source is always worth taking. Standing toe to toe with enemies is a great way of contracting diseases. If you don't have resistance from another source, consider this enchantment or a lot of *Potions of Cure Disease* are in your future. 
 
 </details>
+
+## Useful Potions
+
+> Full alchemy information can be found on the [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) description page.
+
+#### Potion of Persistence
+
+**Example:** *Dragon's Tongue / Juvenile Mudcrab / Lavender*
+
+* Fortify Carry Weight (300 seconds)
+* Fortify Two-handed (60 seconds)
+* Fortify Stamina Regeneration (300 seconds)
+
+A large number of accessible ingredients can brew this potion but the *Juvenile Mudcrab* is the key ingredient holding all three effects. The Carry Weight boost isn't all too useful mid-dungeon but think of it as icing on the cake.
+
+#### Draught of Drubbing
+
+**Example:** *Bleeding Crown / Green Hairstreak Wing / Luna Moth Wing*
+
+* Fortify Block (60 seconds)
+* Fortify Power Attacks (60 seconds)
+
+This simple potion is easily crafted through a number of easy to find ingredients. Just remember that *Fortify Block* affects your bashing as well, which adds an extra damage boost when you have stamina for it.
+
+#### Vial of Vigor
+
+**Example:** *Blue Mountain Flower / Namiras Rot / Nordic Barnacle*
+
+* Fortify Health (300 seconds)
+* Fortify Health Regeneration (300 seconds)
+
+A quicker form of healing might be appealing but your many sources of Health Regeneration are already your lifeblood. This gives you more of it, and more Health, for 5 whole minutes.

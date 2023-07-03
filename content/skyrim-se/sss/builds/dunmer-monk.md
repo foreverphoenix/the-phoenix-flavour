@@ -338,7 +338,7 @@ Without Alchemy or Restoration your biggest hurdle might be healing yourself. Th
 * **Haas:** *Absorbs 5 Health, Magicka, and Stamina per second for 30 seconds.*
 * **Meditation:** *Drain Vitality absorbs twice as much Health, Magicka, and Stamina.*
 
-An alternative to the *Vampiric* spells if you want to keep your hands empty. The meditation will double its effect, vastly improving your endurance in combat at the expense of your enemies.
+An alternative to the *Vampiric* spells if you want to keep your hands empty. The meditation will double its effect, vastly improving your endurance in combat at the expense of your enemies'.
 
 #### Elemental Fury
 *Cooldown: 60/90/120 seconds*
