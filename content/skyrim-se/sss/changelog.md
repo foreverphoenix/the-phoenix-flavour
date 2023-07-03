@@ -6,15 +6,62 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.1
+
+> 2023-07-03
+
+Just a quick fix for a few issues I noticed personally. For starters, I've removed multiple Apothecary patches in lieu of a unified Anniversary Update patch. That should make the recipes more consistent and up to date. Then I noticed a lot of issues with the *New Armory Series - Lunar Weapons* integration. That's on me as I didn't properly check over it after reverting away from the TPF 5.0 beta. They should have the proper enchantments and tooltips now, and vanilla Silent Moons weapons should no longer appear.
+
+Other than that, tiny quality of life changes. Stealing items undetected will give Sneak exp based on the value of what was stolen. Potions are no longer distractingly bright (but still emit some light). And [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)! Access it from the System Menu or just hit `P`.
+
+**This update is save-safe for 4.18 users.**
+
+<details>
+
+#### Changes
+- **SKSE Plugins - Tweaks:** Added Skill of Sneaking
+- **Interface:** Added Photo Mode
+- **ElSopa's Potions Redone:** Added ElSopa Potions Redone - Less Emissive and Fixed Inventory Size
+- **ElSopa's Potions Redone:** Added ElSopa Potions Redone - Less Emissive and Fixed Inventory Size - Xtudo ELIF Patch
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Fishing Patch
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Rare Curios Patch
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Saints and Seducers Patch
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Hearthfire Crispy Dumplings Patch
+- **Alchemy, Cooking, & Farming:** Added Apothecary Anniversary Update
+- **Alchemy, Cooking, & Farming:** Added Apothecary Anniversary Update - Food and Drink Addon
+- **Survival & Fishing:** Removed Apothecary - Food and Drink Addon - Survival Mode Patch
+- **Saints & Seducers:** Added Apothecary Anniversary Update - SECSS 
+- **New Items:** Removed Ancient Nord Stalhrim - Ebony Assets
+- **Final Patches:** Edited Enchantable Special Item Fix - TPF Patch to include Lunar Weapons, adjusted incorrect Silver Weapons stats
+- **Conflict Resolution Patch:** Removed Cooked Boar Meat removal as it's properly handled by the Apothecary Anniversary Update
+- **Conflict Resolution Patch:** Removed Poisoned Apple recipe edits to no longer require Solvency (Alchemy 60)
+- **Conflict Resolution Patch:** Incorporated necessary Apothecary - Hearthfire Crispy Dumplings Patch changes
+- **Conflict Resolution Patch:** Modified New Armory Series - Lunar Weapons effects to better match Thaumaturgy
+
+#### Updates
+
+- Updated MQ105SprintTriggerScript Fix to 1.0.1
+- Updated Assorted Mesh Fixes to 0.83
+- Updated Lux (main plugin) to 6.2
+- Updated Lux Orbis (main plugin) to 3.3
+- Updated Embers XD to 2.7.7
+- Updated Adamant - A Perk Overhaul to 5.8.2 
+- Updated Stormcrown - A Shout Overhaul to 1.1.7
+- Updated Simplicity of Seeding to 0.4
+- Updated Ancient Nord Stalhrim to 1.2.4.1
+- Updated Tamrielic Distribution to 1.3.3.1
+
+</details>
+
 ## Release 4.18.0
 
 > 2023-06-29
 
 This update has been simmering for a long time and I apologize to everyone who's had to wait patiently while its aroma drifted over them. But the wait is over: **4.18 is here!**
 
-Let's start with the visuals. I've removed some more deviations I've made from Aurora such as *eFPS* and *Enhanced Landscapes* so that the visuals are more in line with Phoenix's amazing work. I've also switched back to *Realistic Water Two* which is Aurora's water mod of choice. We're still using RAID Weathers and The Vanilla ENB 2 since I want stealth mechanics to remain predictable in a game with no stealth meter. *Frozen Electrocuted Combustion* has also been removed. It's a good mod but there are some weird interactions and ultimately the effects take away some of visual oomph of the late-game Destruction perks. (I still haven't sorted out the LOD unload bug in the winter, unfortunately. If you experience it, just save and reload where you are.)
+Let's start with the visuals. I've removed some more deviations I've made from Aurora such as *eFPS* and *Enhanced Landscapes* so that the visuals are more in line with Phoenix's amazing work. I've also switched back to *Realistic Water Two* which is Aurora's water mod of choice. We're still using RAID Weathers and The Vanilla ENB 2 since I want stealth mechanics to remain predictable in a game with no stealth meter. *Frozen Electrocuted Combustion* has also been removed. It's a good mod but there are some weird interactions and ultimately the effects take away some of the visual oomph of the late-game Destruction perks. (I still haven't sorted out the LOD unload bug in the winter, unfortunately. If you experience it, just save and reload where you are.)
 
-Gameplay is where the meat of the update lies. *[Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)* has been added alongside the *Adamant - Bard Perks Addon* to move shouts into a perk tree everyone can benefit from and add more functionality to Speech tree respectively. As such, shouts as a whole have a different approach compared to *Forceful Tongue's* and I've updated the Example Builds section to account for the changes. Enemy resistances have also changed slightly with a switch to *[Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394)*. Last but not least of the big gameplay changes is the removal of *Honed Metal*. It's been in the list a long time but it's been hard to balance it the way I've wanted *and* its features are quickly becoming redundant. Instead of removing it in a few months I've decided to rip the bandaid off now. The [gameplay guide](/skyrim-se/sss/gameplay-guide) has been updated to reflect this as well.
+Gameplay is where the meat of the update lies. *[Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)* has been added alongside the *Adamant - Bard Perks Addon* to move shouts into a perk tree everyone can benefit from and add more functionality to Speech tree respectively. As such, shouts as a whole have a different approach compared to *Forceful Tongue* and I've updated the Example Builds section to account for the changes. Enemy resistances have also changed slightly with a switch to *[Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394)*. Last but not least of the big gameplay changes is the removal of *Honed Metal*. It's been in the list a long time but it's been hard to balance it the way I've wanted *and* its features are quickly becoming redundant. Instead of removing it in a few months I've decided to rip the bandaid off now. The [gameplay guide](/skyrim-se/sss/gameplay-guide) has been updated to reflect this as well.
 
 **THIS UPDATE IS NOT SAVE-SAFE.** Please start a new game. Please.
 
@@ -34,7 +81,7 @@ Gameplay is where the meat of the update lies. *[Stormcrown](https://www.nexusmo
 - **(Optional) Nordic UI:** Removed NORDIC UI - Compass Navigation Overhaul
 - **Mesh Improvements:** Removed Better Windhelm Ground Meshes - Valunstrad
 - **Mesh Improvements:** Removed Solitude Objects SMIMed - Solitude Well
-- **Mesh Improvements:** Removed olitude Objects SMIMed - Castle Dour Spire
+- **Mesh Improvements:** Removed Solitude Objects SMIMed - Castle Dour Spire
 - **Yuril's Mesh Edits:** Removed FYX - Eastern Empire Company Building - eFPS Patch
 - **Graphics Baseline:** Removed eFPS - Exterior FPS Boost
 - **Graphics Baseline:** Removed Unofficial eFPS Patches

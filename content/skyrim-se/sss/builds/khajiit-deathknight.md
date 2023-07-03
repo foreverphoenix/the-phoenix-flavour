@@ -12,7 +12,7 @@ description: >
 
 Since you can remember, people called you a "stray cat." The Nords who said those words were mean and unkind. You're an orphan, far away from your supposed home in Elsweyr, a place you know nothing about. Instead, you're familiar with Markarth's tall stone walls, the bustling markets of Whiterun, and the gentle breeze in the Rift. Skyrim feels like your home, but no matter where you go, you're always seen as an outsider.
 
-Your life has been spent moving from one hold to another, carrying a shovel on your shoulder. You were ready to do the dirty jobs that nobody else wanted. Most of the time, you ended up digging graves, breaking through frozen soil to bury unfortunate souls or recover misplaced heirlooms of clueless milkdrinkers. It was dull and degrading work, and your patrons often ignored you, just like everything else left behind in the forgotten barrows. But amidst the filth, you saw something more.
+Your life has been spent moving from one hold to another, carrying a shovel on your shoulder. You were ready to do the dirty jobs that nobody else wanted. Most of the time, you end up digging graves, breaking through frozen soil to bury unfortunate souls or recover misplaced heirlooms of clueless milkdrinkers. It was dull and degrading work, and your patrons often ignored you, just like everything else left behind in the forgotten barrows. But amidst the filth, you saw something more.
 
 You saw ancient Nord armor and weapons that could be salvaged and used. You saw gems waiting to be mined and corpses that could be raised if you dared to practice the forbidden art of necromancy. You were willing to be patient, gathering strength in Skyrim's dusty crypts until you became a force that no one could ignore.
 
@@ -314,7 +314,7 @@ Conjuration is the glue between your martial abilities and your enchanting studi
 * **Shaan:** *All nearby allies move and attack 20% faster for 60 seconds.*
 * **Meditation:** *Battle Fury increases the Armor Rating of all nearby allies by up to 150.*
 
-Your minions count as allies and they tend to carry weapons. A 20% boost is nothing to sneeze at, especially with a 50% or better uptime. The meditation adds a substaintial amount of armor to them all as well.
+Your minions count as allies and they tend to carry weapons. A 20% boost is nothing to sneeze at, especially with a 50% or better uptime. The meditation adds a substantial amount of armor to them all as well.
 
 #### Soul Tear<sup>DG</sup>
 *Cooldown: 120/150/180 seconds*
