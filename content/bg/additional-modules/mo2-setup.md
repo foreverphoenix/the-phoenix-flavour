@@ -125,10 +125,80 @@ Keeping the archives is nevertheless recommended as you may want to reinstall a 
 
 <font size="2">\**It should be noted that keeping downloaded archives on a faster drive may speed up mod installation, including for Wabbajack list. Nevertheless, SSD / NVME space is precious and I personally prefer to use it for more mods or other games.*</font>
 
-{{< alert color="warning" >}} This is a recommendation, not a requirement. Manage your disk space as you see fit. {{< /alert >}}
+{{< alert color="warning" >}}This is a recommendation, not a requirement. Manage your disk space as you see fit. {{< /alert >}}
 
 ![Downloads Folder](/Pictures/bg/mo2-setup/mo2-downloads-folder.png)
 
+## New Profile
+
+One of MO2's many lovely features is the ability to create an indefinite amount of self-contained **profiles**.
+
+Every profile has its own:
+
+- Load order
+- Mod Order
+- Saves (optional)
+- INI Files (optional)
+
+### Create New Profile
+
+Open the MO2 profiles settings by clicking the ID card icon in the **Toolbar**.
+
+![MO2 Profiles Settings](/Pictures/bg/additional-modules/mo2-profiles-settings.png)
+
+Click the **Create** button and enter a name for your profile.
+
+I recommend naming your profile after the central mod or theme of the modlist you intend to build, like **Legacy of the Dragonborn**, **SimonRim**, or **Survival**. There is also nothing stopping you from simply calling it **Modded** as opposed to the unmodded **Default** profile.
+
+{{< alert color="info" >}}If you are following the **Core Module**, you can name it that.{{< /alert >}}
+
+Whether you check the **Default Game INI Settings** is really up to you. I recommend leaving the option enabled and running BethINI later on to modify your INIs.
+
+- Click **OK** to create your new profile.
+- I recommend enabling the **Use profile-specific Save Games** option at the bottom (while having your new profile selected).
+- Click **Select** to quickly switch to your new profile.
+
+## Interface Adjustments
+
+Below are my personal adjustments to the Mod Organizer 2 interface. Take them as suggestions (or ignore them).
+
+{{< alert color="warning" >}}If you are following the **Core Module** please do copy at least my changes to the categories displayed in the left pane.{{< /alert >}}
+
+### The Right Pane
+
+The *right pane* of Mod Organizer 2 features a number of tabs, none of which require much space to properly display. I typically reduce it take up about a fourth of the entire interface, dragging around the columns in the **Plugins** tab so that all options are comfortably displayed without wasting too much space on the **Mod Index** column.
+
+### The Left Pane
+
+The *left pane* of Mod Organizer 2 displays the **mod order**.
+
+Clicking on the sorting columns above the mod order, you will see a number of options.
+
+![MO Columns](/Pictures/bg/additional-modules/adjust-mo2-columns.png)
+
+- ✔️**Conflicts:** Displays little icons to show overwrites.
+- ✔️**Flags:** Not necessary, but recommended. Shows if notes are appended to a mod.*
+- ✔️**Content:** Very helpful because it shows you which types of assets are contained in a mod.
+- ❌**Category:** Uses Nexus categories by default. Separators are better for sorting.**
+- ❌**Nexus ID:** The ID of the respective mod (which is the combination of numbers at the end of its URL).
+- ✔️**Source Game:** Useful when mixing Skyrim LE and Skyrim SE mods which is not very common anymore.
+- ✔️**Version:** Helpful for tracking updates.
+- ❌**Installation:** Displays the date of installation. Not sure what you would need this for.
+- ✔️**Priority:** Shows the position in the mod order. Does not hurt to leave on.
+- ✔️**Notes:** See short notes at a glance. (AKA my favourite thing about MO2.)
+
+<font size=2>\**There are also flags to remind you of endorsing mods and to show the tracking status. The tracking feature never worked properly for me and the only mods I have not endorsed are my own, so I typically disable both **Endorsement Integration** and **Tracking Integration** in the MO2 settings (Nexus tab). Disable these features or leave them active, it is up to you.*</font>
+
+<font size=2>\*\**You can also create a set of custom categories (instructions forthcoming).*</font>
+
+### My MO2 Layout
+
+After some re-arranging of columns and ratios, this is what my MO2 instance (on a 1080p monitor) looks like:
+
+([Click here to view the picture in full size.](/Pictures/bg/additional-modules/mo2-my-layout.png))
+
+![My Layout](/Pictures/bg/additional-modules/mo2-my-layout.png)
+
 ---
 
-{{< alert color="success" >}}If you are currently working through the Core Module, return to [Step 1](/bg/core-module/step1/#ui-overview). {{< /alert >}}
+#### If you are currently working through the Core Module, return to [Step 1](/bg/core-module/step1/#ui-overview).

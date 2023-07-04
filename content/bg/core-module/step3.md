@@ -70,7 +70,7 @@ Please refer to the [SSEEdit Setup](/bg/additional-modules/sseedit-setup/) modul
 
 Equipped with SSEEdit and an example mod, we can now take a look at a practical example demonstrating how plugins are structured.
 
-Enter the **Unwanted Effects Book**... 
+Enter the **Unwanted Effects Book**. 
 
 Among vanilla Skyrim's colourful assortment of bugs are certain active effects, applied by spells for instance, that may get "stuck" on the player after they are supposed to expire. The **Unofficial Skyrim Special Edition Patch** fixes these effects, but it also adds an option for the player to rid themselves of any leftovers. Initially, this fix could be accessed through a shrine in the Temple of Kynareth in Whiterun, but was later moved to a book added to the player's inventory upon loading the game. Following complaints about a lack of immersion, a compromise was finally reached by placing the book in the Temple of Kynareth.
 
@@ -203,7 +203,7 @@ The USSEP is *huge*. You will immediately see a long list of record types unfold
 
 From the index `00` we can tell that the record originates in **Skyrim.esm**. We can see the book's full Form ID in the first column in the left pane of SSEEdit.
 
-The second column is the **EditorID** (EDID) which is `DB07Journal`. This is another way to refer to a record (which is also used in scripts sometimes). Almost all records contain references to other records which consist of their EditorID, their Signature (the record category they belong to), and their Form ID.
+The second column is the **Editor ID** (EDID) which is `DB07Journal`. This is another way to refer to a record (which is also used in scripts sometimes). Almost all records contain references to other records which consist of their EditorID, their Signature (the record category they belong to), and their Form ID.
 
 The third column displays the **Name** of the record, i.e., `Cicero’s Journal - Final Volume`, which is also the name you will see ingame. Not all records have names. Names are also not unique. They are easier to understand, but not always useful for identifying a record.
 
@@ -213,7 +213,7 @@ The third column displays the **Name** of the record, i.e., `Cicero’s Journal 
 
 Let's have a look at the right pane now which displays more details.
 
-As you can see, both the right pane side and the record name in the left pane are highlighted in green. **Green means that the original record is overwritten by one or more plugins *without* creating critical conflicts.**
+As you can see, both the right pane side and the record name in the left pane are highlighted in green. **Green means that the original record is overwritten by one or more plugins <u>without</u> creating critical conflicts.**
 
 You can see the original record as defined by Skyrim.esm in the first column, then the USSEP version in the second column. These columns correspond to the plugins and are sorted in the order of the plugins.
 
@@ -241,7 +241,7 @@ We can easily find the book that we want to disable by searching for its unique 
 
 You will notice that, unlike the other book records, this one is displayed in white (highlighted blue in my screenshot because it is currently selected). **White records are records that are not overwritten:** The book was newly added by the USSEP, it was defined in its plugin, and no other plugin affects it.
 
-{{< alert color="info" >}}Mod authors frequently prefix their **EditorIDs** with their name or the mod name. This makes them easier to find.{{< /alert >}}
+{{< alert color="info" >}}Mod authors frequently prefix their **Editor IDs** with their name or the mod name. This makes them easier to find.{{< /alert >}}
 
 So what are we going to do with the book?
 
@@ -283,7 +283,7 @@ The [warning window](/Pictures/bg/core-module/sseedit-warning-window.png) that n
 
 - Click **Yes I'm absolutely sure** to acknowledge the warning and proceed.
 - A new window will pop up with various different plugins that the record can be copied into.
-- Check the **\<new file>.esp** option and click **OK**.
+- Check the **\<new file>.esp** option <u>without ESM or ESL</u> and click **OK**.
 - Enter **Disable USSEP Book** as the name of the new plugin and click **OK** once more.
 
 ![New Plugin](/Pictures/bg/core-module/sseedit-new-plugin.png)
