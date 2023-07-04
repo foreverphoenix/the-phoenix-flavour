@@ -76,6 +76,8 @@
     @extend .table;
   }
 
+  
+
   > blockquote {
     padding: 0 0 0 1rem;
     margin-bottom: $spacer;
@@ -124,4 +126,11 @@
   @include media-breakpoint-up(sm) {
     font-size: 3rem;
   }
+}
+
+mark {
+  @include themed() {
+    background-color: t($theme-mark-color);
+  }
+
 }

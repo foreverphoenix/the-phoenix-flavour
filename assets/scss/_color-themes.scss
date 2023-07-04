@@ -52,6 +52,9 @@ $themes: (
     alert-light:      $light,
     alert-dark:       $dark,
 
+    // Highlights (Mark)
+    theme-mark-color: $mark-dark,
+
     // Quotes
     theme-quote-text-color: darken($secondary-text, 20%),
     theme-quote-background-color: $secondary-highlight-dark,
@@ -108,6 +111,9 @@ $themes: (
     alert-danger:     $danger,
     alert-light:      $light,
     alert-dark:       $dark,
+
+    // Highlights (Mark)
+    theme-mark-color: $mark-light,
 
     // Quotes
     theme-quote-text-color: lighten($secondary-dark, 20%),
@@ -174,6 +180,7 @@ $theme-quote-text-color:         'theme-quote-text-color';
 $theme-quote-background-color:   'theme-quote-background-color';
 $theme-td-toc-border-color:      'theme-td-toc-border-color';
 $theme-link-mod:                 'theme-link-mod';
+$theme-mark-color:               'theme-mark-color';
 
 body {
   @include themedBody() {
