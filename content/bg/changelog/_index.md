@@ -6,6 +6,12 @@ description: >
   Documentation for updates and additions to the guide.
 ---
 
+## TBD
+
+#### Additional Modules
+
+- [Creation Kit](/bg/additional-modules/creation-kit/): Added Creation Kit module.
+
 ## 04-07-2023
 
 #### Core Module

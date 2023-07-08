@@ -9,6 +9,8 @@ description: >
 {{< alert color="info" title="Summary" >}}
 > This step covers the differences between the root and data folder, the files that belong in each of them, and how those files can be managed with Mod Organizer 2. It also covers the installation of the Skyrim Script Extender.{{< /alert >}}
 
+## Vanilla Skyrim
+
 With the game freshly (re)installed and set up with Mod Organizer, we will now look at folder structures and how that affects mods.
 
 The unmodded, pristine version of Skyrim that we restored previously is referred to as **Vanilla Skyrim**. It is about 12.7GB in size (plus up to 5.8GB for Creations) and located in a Steam library directory.
@@ -17,7 +19,7 @@ The unmodded, pristine version of Skyrim that we restored previously is referred
 
 Navigate to your Skyrim SE installation. The file path is `\Steam\steamapps\common\Skyrim Special Edition\`.
 
-{{< alert color="info">}}You can use [this shortcut](/Pictures/bg/mo2-open-game-folder.png) in Mod Organizer 2 to quickly locate the folder.{{< /alert >}}
+{{< alert color="info" >}}You can use [this shortcut](/Pictures/bg/mo2-open-game-folder.png) in Mod Organizer 2 to quickly locate the folder.{{< /alert >}}
 
 This is your **root folder**. It contains the two executables: **SkyrimSE.exe**, which directly opens the game, and **SkyrimSELauncher.exe**, which starts the Launcher first. The latter is what Steam runs when you start the game through the Steam UI.
 
@@ -29,7 +31,7 @@ The **data folder** is located inside the **root folder**. Open it now.
 
 The **data folder** contains all game files which are split into **plugins (ESMs)** and **archives (BSAs)**. There are five **ESMs** containing all game data and 18 **BSAs** containing all assets. They are used by the engine to build the game.
 
-{{< alert color="info">}}The five ESMs are also referred to as the **official master files**.{{< /alert >}}
+{{< alert color="info" >}}The five ESMs are also referred to as the **official master files**.{{< /alert >}}
 
 ![Data Folder](/Pictures/bg/core-module/skyrim-data-folder.png)
 
