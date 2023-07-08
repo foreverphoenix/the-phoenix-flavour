@@ -6,6 +6,38 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.5.0
+
+> 08/07/2023
+
+This update brings a few notable additions, including the new **Open Animation Replacer** as the successor to DAR. I also found the **Rogue Master Detector** quite helpful and encourage you to check its log as rogue masters can be difficult to detect.
+
+- Added SkyUI 3D Item Offset Fix --- *disable on non-16:9 monitors*
+- Added Rogue Master Detector
+- Added Universal Unwanted Effects Clearer
+- Added Assorted Animation Fixes
+- Added Fish Plaque Fixes and Improvements
+- Added MQ105SprintTriggerScript Fix
+- Added DLC2AudioRepeaterActivator01Script Tweak
+- Added Save Unbaker
+- Added Camera Persistence Fixes
+- Added Open Animation Replacer
+- Updated Kezyma's Root Builder to 4.4.3
+- Updated Payload Interpreter to 1.1.0
+- Updated ConsolePlusPlus to 1.3.0
+- Updated Assorted Mesh Fixes to 0.83
+- Updated DynDOLOD Resources to 3 Alpha 37
+- Updated xLODGen Resource SSE Terrain Tamriel to 2.0
+- Updated DragonActorScript Infinite Loop Fix to 1.3.2
+- Updated ENBSeries Binaries to 0.494
+- Updated Particle Patch for ENB to 1.2.4
+- Updated Dynamic Animation Casting NG to 3.2.4
+- Updated Cathedral Assets Optimizer to 5.3.15
+- Updated Synthesis to 0.25.4
+- Removed Dynamic Animation Replacer
+- SkyUI Survival Mode Integration is now enabled by default
+- Survival Mode Prompt Removed is now enabled by default
+
 ## Release 2.4.3
 
 > 30/05/2023
