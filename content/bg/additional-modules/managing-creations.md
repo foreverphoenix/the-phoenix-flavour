@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of Curation Club and importing Creations into MO2.<p>
-> **Prerequisite(s):** [MO2 Setup](/bg/additional-modules/mo2-setup){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/){{< /alert >}}
 
 ## Curation Club
 

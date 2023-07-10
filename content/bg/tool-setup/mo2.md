@@ -1,5 +1,5 @@
 ---
-title: "MO2 Setup"
+title: "Mod Organizer 2"
 weight:
 type: docs
 description: >
@@ -10,7 +10,7 @@ description: >
 > This module covers the installation and basic configuration of Mod Organizer 2.<p>
 > **Prerequisite(s):** [Clean Install](/bg/additional-modules/clean-install/){{< /alert >}}
 
-## MO2 Prerequisites
+## Prerequisites
 
 Mod Organizer 2 has two prerequisites.
 
@@ -31,7 +31,7 @@ Mod Organizer 2 is hosted on the Nexus and on Github.
 
 > If you do not have **Nexus Premium**, you will need to click **Download** again on the next page after a brief countdown.
 
-![Download MO2](/Pictures/bg/mo2-setup/download-mo2.png)
+![Download MO2](/Pictures/bg/tool-setup/mo2/download-mo2.png)
 
 ## Installing MO2
 
@@ -52,7 +52,7 @@ You will be asked where to install Mod Organizer 2.
   
 For now, make sure you have <u>at least 50GB of free space</u> on whichever hard drive you choose. That will be sufficient to get started.
 
-![MO2 Installation Directory](/Pictures/bg/mo2-setup/mo2-installation-directory.png)
+![MO2 Installation Directory](/Pictures/bg/tool-setup/mo2/mo2-installation-directory.png)
 
 For the rest of the installer, you can simply keep clicking **Next** to install the tool with all components into your chosen directory.
 
@@ -66,7 +66,7 @@ After the initial installation process, the **Instance Manager** will open where
 
 Click the **Create new instance** button to proceed.
 
-![MO2 New Instance](/Pictures/bg/mo2-setup/mo2-new-instance.png)
+![MO2 New Instance](/Pictures/bg/tool-setup/mo2/mo2-new-instance.png)
   
 - Click **Next** in the configuration window.
 - Select **Create a portable instance** on the next page.
@@ -89,15 +89,15 @@ Mod Organizer 2 should launch automatically.
 
 Before we do anything else, let's disable the log at the bottom. We are not going to need it.
 
-![disable mo2 log](/Pictures/bg/mo2-setup/disable-mo2-log.png)
+![disable mo2 log](/Pictures/bg/tool-setup/mo2/disable-mo2-log.png)
 
-> I also recommend right-clicking the MO2 icon on your taskbar and **pinning** it for quick access.
+I also recommend right-clicking the MO2 icon on your taskbar and **pinning** it for quick access.
 
 ## MO2 Settings
 
 Open the **Settings** by clicking the first icon on the right in the toolbar.
 
-![MO2 Open Settings](/Pictures/bg/mo2-setup/mo2-open-settings.png)
+![MO2 Open Settings](/Pictures/bg/tool-setup/mo2/mo2-open-settings.png)
 
 ### Settings: General
 
@@ -127,7 +127,26 @@ Keeping the archives is nevertheless recommended as you may want to reinstall a 
 
 {{< alert color="warning" >}}This is a recommendation, not a requirement. Manage your disk space as you see fit. {{< /alert >}}
 
-![Downloads Folder](/Pictures/bg/mo2-setup/mo2-downloads-folder.png)
+![Downloads Folder](/Pictures/bg/tool-setup/mo2/mo2-downloads-folder.png)
+
+## BSA Extractor 2
+
+Some of MO2's extra functionality is implemented via pre-installed plugins. Unfortunately, the default BSA extraction plugin may currently corrupt textures when used to extract BSAs, so I recommend installing a fixed version.
+
+- Close Mod Organizer 2 (always do this before installing plugins).
+- Download [BSA Extractor 2](https://www.nexusmods.com/skyrimspecialedition/mods/92044?tab=files) from the Nexus page.
+- Extract the **plugins** folder to `\Mod Organizer 2\` (the MO2 root folder).
+- Confirm to merge with existing **plugins** folder.
+
+### Configuration
+
+By default, BSA Extractor 2 will ask about unpacking the archive every time you install a mod that contains a BSA. This can be disabled (and I recommend doing so).
+
+- Restart Mod Organizer 2 and go into the [settings](/Pictures/bg/tool-setup/mo2/mo2-open-settings.png).
+- Switch to the **Plugins** tab and select **BSA Extractor 2** near the bottom of the list.
+- Double-click **enable_install_dialogue** and set it to **False**.
+
+![Settings](/Pictures/bg/tool-setup/mo2/configure-bsa-extractor-2.png)
 
 ## New Profile
 
@@ -144,7 +163,7 @@ Every profile has its own:
 
 Open the MO2 profiles settings by clicking the ID card icon in the **Toolbar**.
 
-![MO2 Profiles Settings](/Pictures/bg/additional-modules/mo2-profiles-settings.png)
+![MO2 Profiles Settings](/Pictures/bg/tool-setup/mo2/mo2-profiles-settings.png)
 
 Click the **Create** button and enter a name for your profile.
 
@@ -174,7 +193,7 @@ The *left pane* of Mod Organizer 2 displays the **mod order**.
 
 Clicking on the sorting columns above the mod order, you will see a number of options.
 
-![MO Columns](/Pictures/bg/additional-modules/adjust-mo2-columns.png)
+![MO Columns](/Pictures/bg/tool-setup/mo2/adjust-mo2-columns.png)
 
 - ✔️**Conflicts:** Displays little icons to show overwrites.
 - ✔️**Flags:** Not necessary, but recommended. Shows if notes are appended to a mod.*
@@ -195,9 +214,9 @@ Clicking on the sorting columns above the mod order, you will see a number of op
 
 After some re-arranging of columns and ratios, this is what my MO2 instance (on a 1080p monitor) looks like:
 
-([Click here to view the picture in full size.](/Pictures/bg/additional-modules/mo2-my-layout.png))
+([Click here to view the picture in full size.](/Pictures/bg/tool-setup/mo2/mo2-my-layout.png))
 
-![My Layout](/Pictures/bg/additional-modules/mo2-my-layout.png)
+![My Layout](/Pictures/bg/tool-setup/mo2/mo2-my-layout.png)
 
 ---
 

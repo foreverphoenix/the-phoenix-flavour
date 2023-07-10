@@ -1,6 +1,6 @@
 ---
 title: "Recommended Mods"
-weight: 4
+weight: 5
 type: docs
 description: >
   Instructions for specific mods.

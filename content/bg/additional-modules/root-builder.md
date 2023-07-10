@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the purpose and installation of the Root Builder plugin for MO2.<p>
-> **Prerequisite(s):** [MO2 Setup](/bg/additional-modules/mo2-setup){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/){{< /alert >}}
 
 ## About Root Builder
 

@@ -1,5 +1,5 @@
 ---
-title: "SSEEdit Setup"
+title: "SSEEdit"
 weight:
 type: docs
 description: >
@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of SSEEdit for Mod Organizer 2.<p>
-> **Prerequisite(s):** [MO2 Setup](/bg/additional-modules/mo2-setup/){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/){{< /alert >}}
 
 ## About SSEEdit
 
@@ -89,6 +89,18 @@ Launch SSEEdit through Mod Organizer 2 and click **OK** in the **Plugin Selectio
 You can quit once the log at the bottom returns `Background loader: finished` or once you are prompted to activate ModGroups.
 
 Check your `\Tools\SSEEdit\cache\` folder to make sure the files were saved to the correct location.
+
+## Disable Warning
+
+{{<alert color="info">}}Please skip this if you are currently following the Core Module.{{< /alert >}}
+
+To prevent the [warning window](/Pictures/bg/core-module/sseedit-warning-window.png) from appearing when trying to modify a record, add the following argument to the executables settings in Mod Organizer 2:
+
+```
+-IKnowWhatImDoing
+```
+
+![Disable Warning Window](/Pictures/bg/tool-setup/sseedit/disable-warning-window.png)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Base"
-weight: 5
+weight: 6
 type: docs
 description: >
   Supplementary Articles.
