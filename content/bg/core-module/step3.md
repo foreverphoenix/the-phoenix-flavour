@@ -64,7 +64,7 @@ While plugins can also be created and edited in Bethesda's official modding tool
 
 {{< alert color="info">}}SSEEdit does not replace the Creation Kit, nor does the Creation Kit replace SSEEdit. The tool to use always depends on the type of plugin you are working on and what you are trying to do. For example, for the vast majority of tweaks, edits, and patches, SSEEdit is the way to go because it is very good at visualising conflicts and interactions.{{< /alert >}}
 
-Please refer to the [SSEEdit Setup](/bg/additional-modules/sseedit-setup/) module for installation instructions.
+Please refer to the [SSEEdit Setup](/bg/tool-setup/sseedit/) module for installation instructions.
 
 ## The Unwanted Effects Book
 

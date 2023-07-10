@@ -3,7 +3,7 @@ title: "Wabbajack"
 weight:
 type: docs
 description: >
-  About the modlsit installer Wabbajack.
+  About the modlist installer Wabbajack.
 ---
 
 *Wow, such empty.*

@@ -33,7 +33,7 @@ To be on the safe side, I recommend rolling back to a previous version of the CK
 
 The process should only take a second. Close the window when it's done and delete the patcher.
 
-![Downgrade CK](/Pictures/bg/additional-modules/creation-kit/downgrade-ck.png)
+![Downgrade CK](/Pictures/bg/tool-setup/ck/downgrade-ck.png)
 
 ## MO2 Integration
 
@@ -43,13 +43,13 @@ Close and re-open **Mod Organizer 2**. It should automatically recognise the pre
 
 Before you can run the CK through MO2, you need to manually add its Steam App ID in the [executable settings](/Pictures/bg/additional-modules/creation-kit/mo2-executables-settings.png):
 
-![CK MO2 Shortcut](/Pictures/bg/additional-modules/creation-kit/ck-steam-appid.png)
+![CK MO2 Shortcut](/Pictures/bg/tool-setup/ck/ck-steam-appid.png)
 
 ### MO2 Shortcut
 
 I recommend selecting the Creation Kit from the drop-down and adding a shortcut to the **Toolbar** for quick access.
 
-![CK MO2 Shortcut](/Pictures/bg/additional-modules/creation-kit/ck-mo2-shortcut.png)
+![CK MO2 Shortcut](/Pictures/bg/tool-setup/ck/ck-mo2-shortcut.png)
 
 ### Root Builder
 
@@ -57,7 +57,7 @@ Currently, Root Builder's cache does not include the CK files which means it wil
 
 The **CreationKitPrefs.ini** will be generated upon launching the Creation Kit and it may change if you change settings in the CK. To prevent Root Builder from tripping up over those changes, I recommend adding it to the list of excluded files.
 
-![Root Builder Clear Cache](/Pictures/bg/additional-modules/creation-kit/root-builder-clear-cache.png)
+![Root Builder Clear Cache](/Pictures/bg/tool-setup/ck/root-builder-clear-cache.png)
 
 ## CK Source Files
 
@@ -149,7 +149,7 @@ Having a downgraded version of the Creation Kit executable in your root folder s
 
 To prevent this, I am moving it into Mod Organizer 2 and verify files to restore the current version in the root folder.
 
-![Separate EXE](/Pictures/bg/additional-modules/creation-kit/separate-ck-exe.png)
+![Separate EXE](/Pictures/bg/tool-setup/ck/separate-ck-exe.png)
 
 ## Test Run
 

@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the Skyrim Script Extender, including the importance of Skyrim versions as well as the installation of SKSE with Root Builder and of related mods.<p>
-> **Prerequisite(s):** [MO2 Setup](/bg/additional-modules/mo2-setup), [Root Builder](/bg/additional-modules/root-builder/){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/), [Root Builder](/bg/additional-modules/root-builder/){{< /alert >}}
 
 ## The Skyrim Script Extender
 

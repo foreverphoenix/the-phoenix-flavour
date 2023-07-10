@@ -9,8 +9,6 @@ description: >
 {{< alert color="info" title="Summary" >}}
 > This step covers all aspects of preparing the vanilla game, including creations, for modding with Mod Organizer 2.{{< /alert >}}
 
-This is the first step of the **Beginner's Guide - Core Module**. The Core Module is similar to a traditional guide in that it asks you to read closely and follow along with all its instructions as it takes you through the very basics of building a modded setup. It is aimed at complete newcomers to modding Skyrim.
-
 ## Requirements
 
 The Core Module requires the **Steam** version of **Skyrim Special Edition**. Whether you own the **Anniversary Edition DLC** is irrelevant.
@@ -54,7 +52,7 @@ Rather than list all the features of MO2 right now, I will slowly introduce them
 
 ### Mod Organizer 2
 
-Please follow all steps of the [MO2 Setup](/bg/additional-modules/mo2-setup/).
+Please follow all steps of the [MO2 Setup](/bg/tool-setup/mo2/).
 
 ### UI Overview
 
