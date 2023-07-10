@@ -8,6 +8,10 @@ description: >
 
 ## TBD
 
+#### Core Module
+
+- [Step 5](/bg/core-module/step5/): Added ModGroups and Additional ModGroups sections.
+
 #### Additional Modules
 
 - [Creation Kit](/bg/additional-modules/creation-kit/): Added Creation Kit module.

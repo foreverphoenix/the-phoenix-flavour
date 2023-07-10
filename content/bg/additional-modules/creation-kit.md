@@ -141,6 +141,16 @@ Once again, we need to adjust the folder structure for **Root Builder**:
 
 {{< alert color="info" >}}If the wrong version number bothers you like it bothers me, you can double-click the mod and change it to **3.2** in the **Nexus** tab.{{< /alert >}}
 
+## Separate CK EXE
+
+{{< alert color="info" >}}This step is optional. It is intended for Wabbajack curators of lists that require the CK.{{< /alert >}}
+
+Having a downgraded version of the Creation Kit executable in your root folder should not be an issue for 99% of users. It is, however, an issue for me because I am a Wabbajack list curator and users of my lists would be required to downgrade the CK as a prerequisite for several of my lists if I left the exe there.
+
+To prevent this, I am moving it into Mod Organizer 2 and verify files to restore the current version in the root folder.
+
+![Separate EXE](/Pictures/bg/additional-modules/creation-kit/separate-ck-exe.png)
+
 ## Test Run
 
 With everything installed, give the **Creation Kit** a test run. Launch it through Mod Organizer 2.

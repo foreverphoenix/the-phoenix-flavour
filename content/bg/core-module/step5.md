@@ -3,11 +3,11 @@ title: "Step 5"
 weight: 5
 type: docs
 description: >
-  Plugin conflicts and conflict resolution.
+  Plugin conflicts and conflict resolution. ModGroups.
 ---
 
 {{< alert color="info" title="Summary" >}}
-> This step covers the three types of conflicts between plugins and how to address them.{{< /alert >}}
+> This step covers the three types of conflicts between plugins and how to address them or hide them if they are intentional.{{< /alert >}}
 
 ## Understanding Conflicts
 
@@ -260,6 +260,121 @@ As usual, the Mod Organizer 2 caught our new plugin.
 In the load order, the new plugin will appear at the bottom automatically, located below both its masters.
 
 In the **Notes** tab in MO2, I added a quick `Resolves minor worldspace parent record conflicts.` for the new patch to remind myself of what it does. Once you have a couple hundred custom patches flying around you will be very grateful to your past self for having some documentation, trust me on that.
+
+## ModGroups
+
+We have addressed some basic conflicts in our current load order, but if we open SSEEdit and apply our filter, the left pane still looks like a veritable rainbow. This is not an issue, per se: As I said before, <u>conflicts are normal</u> and the conflicts that remain in our load order are perfectly intentional.
+
+![Conflicts Pre-ModGroups](/Pictures/bg/core-module/conflicts-pre-modgroups.png)
+
+On the other hand, it would be nice if we could hide conflicts after reviewing them and concluding that they are harmless. Otherwise, there is a risk of looking at the same conflicts over and over again while slowly building up your load order which can be very frustrating.
+
+This is where **ModGroups** come in.
+
+**ModGroups** are a purely cosmetic feature of SSEEdit in that they have absolutely no effect on the plugins themselves. They only serve to control what you see in SSEEdit, for example by hiding conflicts between a mod and the official master files because we already know they are intentional and indeed necessary.
+
+- Open your load order in SSEEdit.
+- Re-apply the **Conflict Resolution** filter we created earlier.
+
+### RW2 Conflicts
+
+If you expand the **RealisticWaterTwo.esp**, you will see a number of conflicts in **Water** and **Worldspace** records.
+
+The **Water** records conflict because they originate in Skyrim.esm but were modified by Update.esm and then overwritten again by RW2. You can see, for example, that Update.esm added an imagespace for underwater (applying the blur effect) which Realistic Water Two incorporated while doing its own changes to water settings. Clearly, these conflicts are harmless and intentional, and Realistic Water Two should win.
+
+The same is true for the **Worldspace** records. RW2 changes the **Water** record for a vast amount of exterior CELL records which is necessary for its changes to water flow. If RW2's changes were overwritten here, you would end up with a chunk of river with still water right next to a chunk with moving water. Therefore you will always want to let RW2 determine the **Water** type, regardless of whether it changes the type or uses one from the official master files.
+
+There are further conflicts of the same sort in **RealisticWaterTwo - Resources.esm**.
+
+### Creating a ModGroup
+
+{{< alert color="warning" >}}When creating ModGroups in the following steps, note that I have my own system by which I group them. It is what worked out best for me and I would encourage you to follow my system for now. That being said, you should absolutely feel free to use whatever logic makes sense to you when building your own setup because mine is certainly not objectively the best.{{< /alert >}}
+
+To hide intentional conflicts in Realistic Water Two, we can create a Modgroup:
+
+- Hold CTRL and click the following plugins in the left pane to select them:
+  - `Update.esm`
+  - `Dawnguard.esm`
+  - `HearthFires.esm`
+  - `Dragonborn.esm`
+  - `RealisticWaterTwo - Resources.esm`
+  - `RealisticWaterTwo.esp`
+- Right-click any one of the plugins and select **Create ModGroup**.
+
+You will be asked whether to include the "current CRC32s". These are the hashes of the plugins which change when the plugins change, i.e., when records are modified, added, or removed, or when plugin flags change. Generally, I find it more convenient not to tie the ModGroups to specific CRC32s because you will spend a lot of time updating ModGroups if you do so.
+
+- Click **No** when asked to include current CRC32s.
+
+### ModGroup Flags
+
+Next, you will be able to modify various settings. You can change them by clicking in the cell for the column and row of the setting and plugin, respectively.
+
+- **Optional:** Plugins marked as optional do not have to be present for the ModGroup to be valid.
+- **Target:** Conflicts in this plugin can be hidden.
+- **Source:** Overwriting records in this plugin will hide the overwritten records in previous plugins.
+- **Forbidden:** Plugins marked as optional will invalidate the ModGroup if present.
+- **Ignore LO:** If empty, the load order of the plugins must be as listed in the ModGroup for it to be valid.
+  - *Always:* Any load order is valid
+  - *In Block:* Must adhere to load order of all plugins with this flag
+
+Since our current ModGroup is only intended to hide conflicts between the official master files and RW2, remove the **Source** flag for all non-RW2 plugins. No other changes are necessary here.
+
+Give your ModGroup a name in the space at the top: `RealisticWaterTwo-OfficialMasterFiles`.
+
+Click **OK**.
+
+![RW2 ModGroup](/Pictures/bg/core-module/rw2-modgroup.png)
+
+### Managing ModGroups
+
+The ModGroup we just created is specifically for RW2. If you end up removing RW2 from your setup, you will no longer need it. To me, it therefore makes sense to keep the ModGroup with the mod it was created for.
+
+- Check **RealisticWaterTwo.esp** in the list and click **OK**.
+- Click **OK** again to reload ModGroups.
+- Close SSEEdit.
+
+Back in Mod Organizer 2, our new ModGroup can be found in the ***Overwrite***. As you can see, the file was named after the plugin we "stored" it in and will be loaded when that plugin is loaded.
+
+{{< alert color="info" >}}ModGroups (.modgroups files) can be opened and modified in text editing software such as Notepad++.{{< /alert >}}
+
+While it is possible to store ModGroups in their mod's folder or in one centralised location, I prefer keeping them in separate mod folders. If we placed our new ModGroup in the RW2 mod folder it would be deleted whenever we reinstall or update the mod. And if we dump all ModGroups in one central location, we end up with hundreds of files (if we make heavy use of the feature), completely losing track of them.
+
+- Right-click the ***Overwrite*** and select **Create Mod**.
+- Enter **Realistic Water Two - ModGroups** as the name and click **OK**.
+- Place the new "mod" below **Realistic Water Two** in the mod order and activate it.
+
+Mod Organizer 2 actually has support for ModGroups files so it will recognise it as valid content.
+
+I tend to place all ModGroups belonging to a single mod (folder) in one separate mod folder placed right below the original mod, followed by its optional files and patches.
+
+## Additional ModGroups
+
+Re-open your load order in SSEEdit and make sure to activate both ModGroups when asked. Re-apply the filter.
+
+Still rainbow puke. But we know how to address this now.
+
+There are plenty of conflicts between the USSEP and RW2 that remain. Remember that while the USSEP is fixing the vanilla system, RW2 changes how water is placed and should definitely win (which it does by being placed lower in the load order).
+
+- Create a ModGroup *RealisticWaterTwo-USSEP* for the USSEP and the two RW2 plugins. Store it in **RealisticWaterTwo.esp**.
+
+![USSEP RW2 ModGroup](/Pictures/bg/core-module/ussep-rw2-modgroup.png)
+
+Add two more ModGroups:
+
+- RW2 plugins + CC Fishing - *RealisticWaterTwo-CCFishing*
+- RW2 plugins + Relighting Skyrim - *RealisticWaterTwo-RelightingSkyrim*
+
+All these new ModGroups will be neatly stored in the **RealisticWaterTwo.modgroups** file. You can check their effect by right-clicking in the left plane and clicking **Remove Filter**, then re-applying it. And suddenly the Realistic Water Two plugins are nice and green!
+
+(Remember that this is a purely cosmetic effect in SSEEdit. The conflicts are still there, just hidden from view.)
+
+### Relighting Skyrim Conflicts
+
+Finally, you could create two ModGroups for **Relighting Skyrim** to hide conflicts with the official master files and the **Unofficial Skyrim Special Edition Patch**, respectively.
+
+This will completely hide all intentional conflicts:
+
+![Conflicts Post-ModGroups](/Pictures/bg/core-module/conflicts-post-modgroups.png)
 
 ## A Note on LOOT
 
