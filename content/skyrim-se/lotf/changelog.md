@@ -6,6 +6,20 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.2.3
+
+> TBD
+
+- Added Water Blending
+- Updated Assorted Mesh Fixes to 0.85
+- Updated Particle Patch for ENB to 1.2.4
+- Updated Community Shaders to 0.4.3
+- Updated Skyrim Remastered - Glaciers and Ice - IMR Edition to 1.30
+- Updated Open Animation Replacer to 1.3
+- Disabled Fixed Mesh Lighting for the time being
+- Created a blank ControlMap_Custom.txt for easier modification of hotkeys
+- Regenerated TexGen and DynDOLOD
+
 ## Release 3.2.2
 
 > 28/06/2023
