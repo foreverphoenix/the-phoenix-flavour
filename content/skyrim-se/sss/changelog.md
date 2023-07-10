@@ -6,6 +6,64 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.2
+
+> 2023-07-10
+
+A bigger update than I originally planned, this one could almost be considered 4.18.1! Aurora changed a lot on the visual side of things, especially with character appearance, so brace yourself for that when you jump back into your save file. You might need to type `showracemenu` into the console to make adjustments to your Dragonborn since their look has likely changed.
+
+On top of that we have the inclusion of [*Sorcerer*](https://www.nexusmods.com/skyrimspecialedition/mods/95196). Like a few other SimonRim mods this hangs on the edge of the list's scope. I've decided to include it mostly due to its built in rebalancing of magic merchant inventories. The staff and scroll crafting is a little more "new mechanics" but truthfully it's not anything new alongside Dragonborn's vanilla crafting, *Oblivion*, and *Arachnomancy* which are already in the list.
+
+People who play in 1st Person mode will see some differences due to [*Improved Camera*](https://www.nexusmods.com/skyrimspecialedition/mods/93962). I'm sure there are a few more settings I need to tweak for complete compatibility but, for now, I think it's working pretty well.
+
+**This update is save-safe!** Let me know if you run into any issues. There are still a handful of inconsequential things I want to squash but no luck on those just yet.
+
+<details>
+
+#### Changes
+
+- Applied changes from [Skyrim Modding Essentials 2.5.0](https://thephoenixflavour.com/skyrim-se/sme/changelog/#release-250) and [Aurora 1.4.0](https://thephoenixflavour.com/skyrim-se/aur/changelog/#release-14)
+- **Essential Mods:** Added Navigator - Navmesh Fixes
+- **General Fixes:** Added NPC Stuck in Bleedout Fix
+- **General Tweaks:** Added YASTM - Yet Another Soul Trap Manager
+- **SKSE Plugins - Tweaks:** Added Improved Camera
+- **Appearance:** Added High Poly Vanilla Hair Fixes
+- **Armor & Weapons:** Manually updated Elemental Staffs - Mysticism Patch to match Mysticism 2.3
+- **Crafting:** Added Sorcerer - A Staff and Scroll Overhaul
+- **Crafting:** Added Sorcerer - COTN Winterhold Patch
+- **Crafting:** Added Sorcerer - Obscure's College of Winterhold Patch
+- **New Items:** Added Beyond Skyrim Morrowind - Bonemold Weapon Pack - Thaumaturgy WACCF Patch
+- **New Items:** Added Beyond Skyrim Morrowind - Bonemold Weapon Pack - Tamrielic Distribution WACCF Patch
+- **New Animations:** Moved Self-targeting Staff Animation Fix to Skeleton & Animations
+- **Content Integration:** Modified Tamrielic Distribution to include `Tamrielic Distribution - BS Bonemold Weapon Pack.esp`
+- **Conflict Resolution:** Updated MerchantWCollegeUragChest `0010C430` to include Sorcerer additions
+- **Creation Club Resolution Patch:** Removed edit to ccBGSSSE037_VarlaStone (no longer needed with YASTM)
+- **Creation Club Resolution Patch:** Adjusted Dunmeri Tunics edits to be sensible
+
+#### Updates
+
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.9.4
+- Updated Assorted Mesh Fixes to 0.85
+- Updated Photo Mode to 1.1.6
+- Updated Skyland Bits and Bobs - A Clutter Overhaul to 1.4
+- Updated Particle Patch for ENB to 1.2.4
+- Updated Simplicity of Snow to 0.12
+- Updated Mysticism - A Magic Overhaul to 2.3.1
+- Updated Adamant - A Perk Overhaul to 5.8.3
+- Updated Brawl Lines Expansion to 1.02
+- Updated Open Animation Replacer to 1.3
+- Updated Hand to Hand - An Adamant Addon to 1.5.5
+- Updated Thaumaturgy - WACCF ACE Patch to 1.3
+
+#### Outputs
+
+- Regenerated FaceGen
+- Regenerated LODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.18.0.1
 
 > 2023-07-03
@@ -37,6 +95,7 @@ Other than that, tiny quality of life changes. Stealing items undetected will gi
 - **Conflict Resolution Patch:** Removed Poisoned Apple recipe edits to no longer require Solvency (Alchemy 60)
 - **Conflict Resolution Patch:** Incorporated necessary Apothecary - Hearthfire Crispy Dumplings Patch changes
 - **Conflict Resolution Patch:** Modified New Armory Series - Lunar Weapons effects to better match Thaumaturgy
+- **Synthesis Patches:** Removed Mortal Enemies Patch
 
 #### Updates
 
