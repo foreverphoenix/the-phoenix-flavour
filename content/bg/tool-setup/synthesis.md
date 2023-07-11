@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of Synthesis.<p>
-> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/), [Tools Folder](/bg/tool-setup/tools-folder/){{< /alert >}}
 
 ## About Synthesis
 
