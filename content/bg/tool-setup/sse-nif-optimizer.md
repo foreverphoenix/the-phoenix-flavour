@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of SSE NIF Optimizer.<p>
-> **Prerequisite(s):** None{{< /alert >}}
+> **Prerequisite(s):** [Tools Folder](/bg/tool-setup/tools-folder/){{< /alert >}}
 
 ## About SSE NIF Optimizer
 

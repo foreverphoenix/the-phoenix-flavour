@@ -6,6 +6,33 @@ description: >
   Documentation for updates and additions to the guide.
 ---
 
+## 11/07/2023
+
+#### Core Module
+
+- [Step 3](/bg/core-module/step3/): Added a link to the new Tools Folder article
+
+#### Tool Setup
+
+- [Tools Folder](/bg/tool-setup/tools-folder/): Added new Tools Folder article
+- [SSEEdit](/bg/tool-setup/sseedit/): Removed Installation Directory section (moved to Tools Folder)
+- [SSEEdit](/bg/tool-setup/sseedit/): Added new Tools Folder article as a prerequisite
+- [Synthesis](/bg/tool-setup/synthesis/): Added new Tools Folder article as a prerequisite
+- [Cathedral Assets Optimizer](/bg/tool-setup/cao/): Added new Tools Folder article as a prerequisite
+- [Bethesda Archive Extractor](/bg/tool-setup/bae/): Added new Tools Folder article as a prerequisite
+- [SSE NIF Optimizer](/bg/tool-setup/sse-nif-optimizer/): Added new Tools Folder article as a prerequisite
+- [Crash Log Tools](/bg/tool-setup/crash-log-tools/): Added Crash Log Tools module
+
+#### Recommended Mods
+
+- [Separators](/bg/recommended-mods/separators/): Added new separators page with my sorting system
+- [Utilities & Frameworks](/bg/recommended-mods/utilities-frameworks): Added new Utilities & Frameworks category
+- [Essential Mods](/bg/recommended-mods/essential-mods): Added new Essential Mods category
+
+#### Knowledge Base
+
+- [Building a setup](/bg/knowledge-base/building-a-setup/): Began to work on this article (will be a big one)
+
 ## 10-07-2023
 
 #### Core Module
@@ -23,6 +50,7 @@ description: >
 - [Synthesis](/bg/tool-setup/synthesis/): Added Synthesis page
 - [Cathedral Assets Optimizer](/bg/tool-setup/cao/): Added Cathedral Assets Optimizer page
 - [Bethesda Archive Extractor](/bg/tool-setup/bae/): Added Bethesda Archive Extractor page
+- [SSE NIF Optimizer](/bg/tool-setup/sse-nif-optimizer/): Added SSE NIF Optimizer page
 
 #### Additional Modules
 

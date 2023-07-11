@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of SSEEdit for Mod Organizer 2.<p>
-> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/){{< /alert >}}
+> **Prerequisite(s):** [Mod Organizer 2](/bg/tool-setup/mo2/), [Tools Folder](/bg/tool-setup/tools-folder/){{< /alert >}}
 
 ## About SSEEdit
 
@@ -25,21 +25,8 @@ Once you have installed the programme, you can use it for any game that is suppo
 SSEEdit is hosted on the Nexus:
 
 - Download the latest version of [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164).
-
-### Installation Directory
-
-{{< alert color="warning">}}The instructions below are *mostly* intended for those following the Core Module.{{< /alert >}}
-
-I recommend keeping all your modding tools in one **Tools** folder
-
-When it comes to picking an installation directory for tools, you can either create a folder inside the MO2 directory, i.e., `\Mod Organizer 2\Tools\`, or in a different location <u>on the same drive</u>.
-
-{{< alert color="info">}}While tool authors often warn against running tools from within the MO2 directory, Wabbajack list authors have done just that for years with no issues that I am aware of. If you want to be on the safe side, pick a directory outside of your MO2 installation.{{< /alert >}}
-
-- Create a **Tools** folder <u>on the same drive</u> as your Mod Organizer 2 installation.
-- Inside your **Tools** folder, create a **SSEEdit** folder\*.
-
-<font size=2>\**I like to append the version number to my tool folders (SSEEdit 4.0.4) so I am better able to track which version of my tools I have installed.*</font>
+- Create a folder called **SSEEdit** in your **Tools** folder.
+- Extract the downloaded archive into the new folder.
 
 ## MO2 Integration
 
@@ -104,4 +91,4 @@ To prevent the [warning window](/Pictures/bg/core-module/sseedit-warning-window.
 
 ---
 
-#### If you are currently working through the Core Module, return to [Step 3](/bg/core-module/step3).
+#### If you are currently working through the Core Module, return to [Step 3](/bg/core-module/step3/#the-unwanted-effects-book).

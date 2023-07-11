@@ -8,7 +8,7 @@ description: >
 
 {{< alert color="info" title="Summary" >}}
 > This module covers the installation of Cathedral Assets Optimizer and setting up a profile to create BSAs.<p>
-> **Prerequisite(s):** None{{< /alert >}}
+> **Prerequisite(s):** [Tools Folder](/bg/tool-setup/tools-folder/){{< /alert >}}
 
 ## About Cathedral Assets Optimizer
 
@@ -19,7 +19,7 @@ description: >
 While CAO is meant to modify mods, it should target separate modding folders as opposed to being run on an entire setup. Do not try to launch it through Mod Organizer 2.
 
 - Download the latest stable version from the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/23316?tab=files).
-- Create a folder called **Cathedral Assets Optimizer** in your **Modding Tools** directory.
+- Create a folder called **Cathedral Assets Optimizer** in your **Tools** folder.
 - Extract the downloaded archive into the new folder.
 
 For quick access, I recommend **pinning** the executable to your taskbar.
