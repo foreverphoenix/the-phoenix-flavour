@@ -10,9 +10,9 @@ description: >
 
 Learning how to mod Skyrim SE is in large part about learning how to use various tools to your advantage. Now that we have ensured Skyrim is returned to a pristine vanilla state, we can move on to installing the most important tool in our tool box:
  
-**Mod Organizer 2** (MO2) is a mod manager. Like its predecessor, Mod Organizer, it is community-made and open-source, with a wide range of features catering specifically to advanced modders. If you are serious about building an extensive setup of mods, Mod Organizer 2 is going to be your best friend.
+**Mod Organizer 2** (MO2) is a mod manager. Like its predecessor, [Mod Organizer](https://www.nexusmods.com/skyrim/mods/1334), it is community-made and open-source, with a wide range of features catering specifically to advanced modders. If you are serious about building an extensive setup of mods, Mod Organizer 2 is going to be your best friend.
 
-Of course there are alternatives. Other mod managers include the now deprecated Nexus Mod Manager (NMM) and its successor, Vortex. While Vortex has made great progress over the years and far outclasses its predecessor, its attractiveness for Bethesda games in general has been somewhat diminished by its ambition to accommodate a vast amount of different games, turning the tool into a jack-of-all-trades. It is not comparable to MO2.
+Of course there are alternatives. Other mod managers include the now deprecated Nexus Mod Manager (NMM) and its successor, Vortex. While Vortex has made great progress over the years and far outclasses its predecessor, its attractiveness for Bethesda games in general has been somewhat diminished by its ambition to accommodate a vast amount of different games, turning the tool into a jack-of-all-trades.
 
 ### Why Mod Organizer 2?
 
@@ -73,7 +73,7 @@ Save the downloaded executable to a convenient location like `\Your Modding Fold
 
 Windows will likely throw a warning, asking you whether you really want to launch an unrecognised app. Fair enough: Blindly downloading and running executables is not the smartest thing to do.
 
-Thankfully, the Nexus automatically runs all uploaded files (up until a size of 250MB) through Virus Total, a page that allows quickly checking a file for malware. On all mod pages, including the one for Mod Organizer 2, you can click the **green checkmark** (denoting the fact that the file was found to be harmless) to open the Virus Total page.
+Thankfully, the Nexus automatically runs all uploaded files (up until a size of 250MB) through [VirusTotal](https://www.virustotal.com/gui/home/upload), a service that allows quickly checking a file for malware. On all mod pages, including the one for Mod Organizer 2, you can click the **green checkmark** (denoting the fact that the file was found to be harmless) to open the VirusTotal page and see the report for yourself.
 
 ![Nexus Virus Check](/Pictures/embers/module-1/nexus-virus-check.png)
 
@@ -99,20 +99,21 @@ Click **Finish** once all files have been extracted. Mod Organizer 2 will be lau
 
 ### Instance Setup
 
-After the initial installation process, another window with more setup steps will greet you. It will inform you about **Instances** which are one of the tool's most valuable features. 
+After the initial installation process, the **Instance Manager** will open where we will create a new portable instance. These are self-contained and allow you to run as many copies of Mod Organizer 2 as you like, for various games or different setups. I personally run five or more instances at any given time, for both Skyrim SE and Fallout 4, none of which interfere with each other.
+
+Click the **Create new instance** button to proceed.
+
+![MO2 Instance Manager](/Pictures/embers/module-1/mo2-instance-manager.png)
 
 - Click **Next** in the configuration window.
 - Select **Create a portable instance** on the next page.
-
-As the installer explains, portable instances are self-contained. They allow you to run as many copies of Mod Organizer 2 as you like, for various games or different setups. You may have noticed in the screenshot above that my MO2 instance for **Embers** is located under `G:\Mod Organizer 2 Instances\`. I personally run five or more instances at any given time, for both Skyrim SE and Fallout 4. All are contained within that folder, without ever interfering with each other.
-
 - On the next page in the configuration wizard, select **Skyrim Special Edition** (which should be detected automatically).
 - Click **Next** again on the following page to confirm using your MO2 installation folder for all sub directories.
-- Click **Connect to Nexus and switch to the browser to authorise MO2 to connect your account.
+- Click **Connect to Nexus** and switch to the browser to authorise MO2 to connect your account.
 - In the MO2 installer, you should see: `Linked with Nexus successfully.`
 - Proceed to the next step and click **Finish** to finalise your new MO2 instance.
 
-![MO2 Instance Creation](/Pictures/embers/module-1/mo2-instance-creation.png)
+> If you are not prompted to connect MO2 to the Nexus, you have likely already done this for a different MO2 instance.
 
 ## MO2 Interface
 
@@ -123,7 +124,7 @@ Mod Organizer 2 should launch automatically.
 
 Now you can get your first look at MO2. If the interface seems daunting, don't be discouraged: You will get used to it faster than you may think! Much of the UI simply makes a great deal of sense which is why it will quickly become easy to navigate.
 
-Before we do anything, let us disable the log at the bottom. You are not going to need it (for now).
+Before we do anything, let us disable the log at the bottom. We are not going to need it (for now).
 
 ![MO2 Disable Log](/Pictures/embers/module-1/mo2-disable-log.png)
 
@@ -131,7 +132,7 @@ I also recommend right-click the MO2 icon on your taskbar and **pinning** it for
 
 ### Overview
 
-At this point, we are not going to discuss the specifics of the various parts of MO2's interface: Without context, it would be difficult to remember. For now, please have a look at the five primary components of MO2 which I will refer to from now on by the names defined below.
+At this point, we are not going to discuss the purpose of the various parts of MO2's interface: Without context, the details would be difficult to memorise. For now, please have a look at the five primary components of the UI which I will refer to from now on by the names defined below.
 
 **(1) The toolbar** allows you quick access to a number of sub menus.
 
@@ -143,11 +144,15 @@ At this point, we are not going to discuss the specifics of the various parts of
 
 **(5) The right pane** contains various tabs. The one open now is the *load order* where your plugins will appear.
 
+> You will also see all Creation Club files in MO2. Ignore them for now.
+
 ![MO2 UI Overview](/Pictures/embers/module-1/mo2-ui-overview.png)
 
 ## MO2 Settings
 
 Open the **Settings** by clicking the first icon on the right in the toolbar.
+
+![MO2 Open Setting](/Pictures/embers/module-1/mo2-open-settings.png)
 
 ### General
 
@@ -161,7 +166,7 @@ Otherwise, I recommend leaving the remaining options at default.
 
 While I personally use light mode in the majority of my apps and programs, I realise that my opinion is an unpopular one. Under **Style**, you can try out various other themes. If you are looking for a simple dark theme, I recommend the **1809 Dark Mode** option for now. It is similar to the default light theme and will make following along with my screenshots easier. Make sure to restart MO2 after changing the theme, as some parts of the UI may not update correctly otherwise.
 
-The **Colors** section below affects the colors in which mods and separators will light up in when highlighting them. I highly suggest not tampering with them until you have a proper understanding of mod order and asset conflicts.
+The **Colors** section below affects the colors in which mods and separators will light up in when highlighting them. I strongly suggest not tampering with them until you have a proper understanding of mod order and asset conflicts.
 
 ### Paths
 

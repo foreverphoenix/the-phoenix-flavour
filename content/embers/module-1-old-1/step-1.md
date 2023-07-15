@@ -12,7 +12,7 @@ description: >
 
 There are a number of  notable differences between the various versions of Skyrim that have been released since 2011 which are important to be aware of when modding the game. The most substantial change came in 2016 when the remastered **Skyrim Special Edition** (SSE) was released, featuring a 64bit engine upgrade with far-reaching consequences for the modding community. Most mods created for **Classic Skyrim** (the 2011 version with the 32bit engine) need to be ported before they can be used safely in SSE.
 
-Arguably the most important tool for modding is the **Skyrim Script Extender** (SKSE) which needed a full rewrite for Skyrim SE. Without SKSE, many of the best mods out there will straight up not work. Different versions of SKSE are now available for Classic Skyrim, Skyrim SE, Skyrim VR, and Skyrim AE.
+Among the most important tools for modding is the **Skyrim Script Extender** (SKSE) which needed a full rewrite for Skyrim SE. SKSE is required for many essential mods. Different versions of SKSE are now available for Classic Skyrim, Skyrim SE, and Skyrim VR.
 
 > SKSE is not compatible with the PC Xbox Game Pass version of Skyrim SE. A Steam copy is required for Embers.
 
@@ -39,9 +39,11 @@ Throughout the guide I will be referring to this folder as **Your Modding Folder
 
 Now comes the boring part: We need to make sure your Skyrim SE installation is absolutely pristine and that no traces of previous modding setups remain on your PC. Additionally, we will ensure the game files are located in a suitable location.
 
-**Uninstall Skyrim SE through Steam.** (If you currently have the game installed.)
+If you currently have the game installed: **Uninstall Skyrim SE through Steam.**
 
 ### Mod Files
+
+> Skip this step if you never modded Skyrim SE before.
 
 Navigate to where the game was installed which is probably `C:\Program Files x86\Steam\steamapps\common\`. If there is still a **Skyrim Special Edition** folder in this location after uninstalling the game through Steam, it means you had non-vanilla (meaning mod-added) files in your game folder. These are not removed when uninstalling the game and may get in the way of the **Embers** setup.
 
@@ -70,13 +72,44 @@ Skyrim supports a bunch of different languages natively, but mods do not. Since 
 
 Ultimately, translating any records (and certain textures!) untouched by existing patches plus fixing conflicts between translations and mods will add a hefty amount of work on top of everything else. I do not recommend it, especially not for a beginner.
 
-If your game is currently set to a language other than English, you can change this quickly in Steam. The English files will be downloaded immediately if you have the game currently installed, or the next time you install the game. Please note that an English language copy of Skyrim SE is mandatory for **Embers**.
+If your game is currently set to a language other than English, you can change this quickly in Steam. The English files will be downloaded immediately if you have the game currently installed, or the next time you install the game. 
+
+> An English language copy of Skyrim SE is mandatory for **Embers**.
 
 - Right-click **The Elder Scrolls V: Skyrim Special Edition** in your Steam games library.
 - Select **Properties** and switch to the **Language** tab.
 - Ensure that the language is set to **English**.
 
 ![Set language to English](/Pictures/tpf/initial-setup/skyrim-se-english.png)
+
+## Installation Directory
+
+In order to prevent issues down the line, it is highly recommended not to install the game or any tools in **UAC-protected folders** such as `C:\Program Files\` and `C:\Program Files x86\`. UAC-protected folders in Windows are special because they require admin privileges for read/write permissions which can break various modding tools.
+
+Because of this, you will likely have to create a new **Steam Library**.
+
+> Already familiar with Steam Libraries and have one available outside UAC-protected folders? Skip ahead to the "Ideal Directory" step.
+
+### Steam Library
+
+A **Steam Library** is a directory on your hard drive designated as an installation folder by Steam; if you install any game, this is where it will be installed to. If you have multiple Steam Libraries, you will be able to choose in which to install a given game.
+
+The default Steam Library is located inside your Steam installation folder. If you installed Steam itself without specifically changing the installation directory, it will now be located within `C:\Program Files x86\Steam\` and your default Steam Library will be `C:\Program Files x86\Steam\steamapps\common\` - within a UAC-protected folder, exactly where we do not want it to be.
+
+In the Steam settings, any folder on your hard drive can be designated to be a Steam Library. By default, there can only be one Steam Library per hard drive; however, a workaround exists.
+
+### Ideal Directory
+
+Skyrim should be installed:
+
+- in a Steam Library outside the UAC-protected folders ...
+- ... which is ideally on an SSD or otherwise fastest hard drive.
+
+> An SSD is recommended for faster loading times. Depending on its speed, an HDD may also negatively impact overall performance.
+
+If you want to create a new Steam Library on your `C:\` drive but already have your regular Steam installation and its default Steam Library on the same drive, you will need to use LostDragonist's [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second Steam Library on that drive (follow the link for instructions).
+
+Otherwise, open the **Settings** in Steam, go to the **Downloads** tab, and click the **Steam Library Folders** button. You can choose the drive and folder for your new Steam Library directly through the interface. Once set up, the new Steam Library can be selected upon installing a new game.
 
 ## Reinstalling Skyrim
 

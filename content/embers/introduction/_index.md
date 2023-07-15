@@ -37,6 +37,8 @@ Learning how to mod Skyrim is not for everyone - not everyone has the free time 
 
 [Wabbajack](https://www.wabbajack.org/#/) is an automated mod list installer capable of reproducing another person's setup on your machine, fully patched and ready to go all without actually redistributing any mod files. This will not allow you any customisation but there are many Wabbajack lists to choose from and you are likely to find one that piques your interest. A Wabbajack mod list can be installed within a few hours, depending on your internet connection.
 
+[The Phoenix Flavour](/tpf/) and [Lexy's LOTD](https://lexyslotd.com/) are modding guides. They document every step required for the full installation of large, pre-made setups, complete with custom patches. Unlike Wabbajack lists, they must still be followed manually which can take up to a week, depending on how much time you can invest. Guides also teach you a good deal of modding basics.
+
 [STEP](https://stepmodifications.org/wiki/SkyrimSE:2.0.0) and [Lexy's LOTD](https://lexyslotd.com/) are modding guides. They document every step required for the full installation of large, pre-made setups, complete with custom patches. Unlike Wabbajack lists, they must still be followed manually which can take up to a week, depending on how much time you can invest. Guides also teach you a good deal of modding basics.
 
 **If you really just want to play modded without learning much about modding, Embers is *not* for you. You should choose one of the above options instead.**

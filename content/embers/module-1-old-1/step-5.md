@@ -26,7 +26,7 @@ Some of its features include:
 Before we grab the main file, we should install the preloader:
 
 - From the [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files) mod page, download the **(Part 2)** main file (click the **Manual Download** button).
-- Open the downloaded archive and extract all three plugins (DLLs) into your root folder: `\Mod Organizer 2\Stock Game\`.
+- Open the downloaded archive and extract all three plugins (DLLs) into your root folder: `\Mod Organizer 2\Game Root\`.
 
 ![SKSE Preloader Installation](/Pictures/embers/module-1/skse-preloader-installation.png)
 
@@ -71,7 +71,7 @@ Here are two tweaks that I personally enable:
 **SleepWaitTime** speeds up the wait menu. When you press T to wait in vanilla, the hours tick down slowly, and especially for mod testing this can sometimes be a little frustrating.
 
 - In the `[Patches]` section, set `DisableChargenPrecache =` and `SleepWaitTime =` to `true`.
-- Press **CTRL + S** to save your changes and close the window.
+- Press **CTRL + S** to save your changes.
 
 > When changing anything in mod config files through MO2, always remember to click save or press CTRL+S as changes are not saved automatically and you will not always be prompted to save them upon closing the window.
 
@@ -109,21 +109,16 @@ Thankfully, there is a better solution: SSE Display Tweaks will recognise a **SS
 
 Let's create this custom INI:
 
-- In Mod Organizer 2, click the **crossed tools** icon above the mod order (see screenshot below).
-- Select the **Open Mods folder** option to quickly get to `/Mod Organizer 2/mods/`.
-
-![MO2 Open Folders](/Pictures/embers/module-1/mo2-open-folders.png)
-
-- Create a new mod folder and name it **SSE Display Tweaks - Custom INI**.
-- Inside the new mod folder, create two more folders: `/SSE Display Tweaks - Custom INI/SKSE/Plugins/`.
+- In Mod Organizer 2, create another empty mod and name it **SSE Display Tweaks - Custom INI**.
+- Right-click the new mod and select **Open in Explorer**.
+- Inside the new mod folder, create two more folders: `/SKSE/Plugins/`.
 - In the new **Plugins** folder, right-click and select **New** >> **Text Document**.
 - Rename the new file to **SSEDisplayTweaks_Custom.ini** (remember to change the file extension).
 
 ![Display Tweaks Custom](/Pictures/embers/module-1/display-tweaks-custom.png)
 
 - Close the window and return to Mod Organizer 2.
-- Press F5 to refresh the UI and the new mod will show up in your mod order.
-- Check the box to activate it.
+- Press F5 to refresh the UI and activate the new mod.
 
 ### Monitor Configuration
 
@@ -232,10 +227,10 @@ One of the great features of the mod is the ability to click any object ingame t
 
 The mod also adds a ton of additional information that can be viewed directly ingame as well as new hotkeys for easier navigation of the console.
 
-- Download and install the latest main file of [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files).
+- Download and install the latest main file of [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files) (AE version).
 
 ### Crash Logger
 
 Another debugging tool, **Crash Logger** generates proper crash logs whenever the game is forced to close. These logs are often difficult to read, but they are vital for troubleshooting your own setup and may also be required when reporting bugs in other mods.
 
-- Download and install the latest main file of [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59596?tab=files).
+- Download and install the latest main file of [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files).

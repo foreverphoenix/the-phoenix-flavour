@@ -12,7 +12,7 @@ Let's go back into MO2 and take a look at the error which popped up when we inst
 
 ![Missing Master Error](/Pictures/embers/module-1/missing-master-error.png)
 
-This one's a classic: Missing master. Plugins often rely on other plugins which are **master files** and if those masters are not present, they cannot load. Though SSE no longer immediately crashes with missing masters, it is still imperative to fix them. In this case, the USSEP requires four Creations: Fishing, Survival Mode, Saints & Seducers, and Rare Curios.
+This one's a classic: Missing master. Plugins often rely on other plugins which are **master files** and if those masters are not present, they cannot load. In this case, the USSEP requires four Creations: Fishing, Survival Mode, Saints & Seducers, and Rare Curios.
 
 Rather than painstakingly modify the USSEP to remove those dependencies, we are going to install them for now.
 
@@ -28,7 +28,7 @@ Since patch 1.6 everyone owns at least the four free Creations which are bundled
 
 Skyrim handles Creations like DLCs: If you own them, they are automatically downloaded, placed in the Data folder, and always active ingame. Earlier we chose to skip the Creations when duplicating the vanilla game into our **Game Root** folder with the intention of handling them later on.
 
-Instead of dumping all Creations into the **data folder** where we have no control over them and cannot disable them, we will import them into Mod Organizer 2 instead. For that, we *could* manually create mod folders for each Creation and move the files over, but that would take a minute and we ain't got no time. Fortunately, the Creation Organizer exists.
+Instead of dumping all Creations into the **data folder** where we have no control over them and cannot disable them, we will import them into Mod Organizer 2 instead. For that, we *could* manually create mod folders for each Creation and move the files over, but that would take a minute and we ain't got no time. Fortunately, Creation Organizer exists.
 
 ## Creation Organizer
 

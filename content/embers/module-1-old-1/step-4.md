@@ -20,7 +20,7 @@ Any updates for Skyrim SE change the main executable, **SkyrimSE.exe**, which th
 
 The new SKSE AE was made for the post-AE versions of Skyrim SE. For **Embers**, you are currently expected to run the latest Skyrim SE build, `1.6.353.0`, with the corresponding SKSE AE build `2.1.5`.
 
-The issue of version dependancy does not only affect SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependant mods only use functions added by SKSE in their scripts and do not require a *specific* version of SKSE to actually work, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependant on a specific SKSE version the same way SKSE is dependant on a specific Skyrim SE version.
+The issue of version dependency does not only affect SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependent mods only use functions added by SKSE in their scripts and do not require a *specific* version of SKSE to actually work, there are also the so-called SKSE plugins. These files with the `.dll` extension are dependent on a specific SKSE version the same way SKSE is dependent on a specific Skyrim SE version.
 
 > SKSE plugins (DLLs) are not to be confused with Skyrim plugins (ESMs, ESPs, ESLs). The former are written in C or C++ and specific to the Script Extender. The latter are created in the Creation Kit or community-made tools, and specific to Creation Engine games.
 
@@ -44,13 +44,15 @@ Fortunately, update-proofing your game is simple:
 
 Of course, this would still force you to update whenever you attempt to launch the game through its default executables. However, SKSE comes with its own launcher (which you must always use to launch the game for it to work properly). Launching the game through SKSE will *not* prompt Steam to update, meaning you can stay on an older version of the game for as long as you desire.
 
-![Steam Disable Auto Updates](/Pictures/tpf/initial-setup/sse-disable-auto-updates.png)
+> Since we are using the Stock Game folder system, our copy of Skyrim for **Embers** is already protected from unwanted updates. Nevertheless, ensuring that the base game files are also not updated automatically is good practice and ensures you always have the version of Skyrim that you need available.
+
+![Steam Disable Auto Updates](/Pictures/embers/module-1/steam-disable-updates.png)
 
 ## Downloading SKSE
 
 First up, we should check the current version of Skyrim SE:
 
-- Navigate to `\Mod Organizer 2\Stock Game Folder`.
+- Navigate to `\Mod Organizer 2\Stock Game\`.
 - Right-click the **SkyrimSE.exe** inside and select **Properties**.
 - Switch to the **Details** tab and check under **Product version**.
 
@@ -58,9 +60,9 @@ First up, we should check the current version of Skyrim SE:
 
 Now that we know which version of Skyrim SE we have installed, we know which version of SKSE to download:
 
-- Open the official [**Skyrim Script Extender**](https://skse.silverlock.org/) website, the only place where SKSE is distributed.
+- Open the official [Skyrim Script Extender](https://skse.silverlock.org/) website, the only place where SKSE is distributed.
 - The current version of SKSE for AE, `build 2.1.x`, should correlate with the current Skyrim SE version, `runtime 1.6.xxx`.
-- Download SKSE for Skyrim AE by clicking the **7z archive** link.
+- Download SKSE for Skyrim AE by clicking the **Download 7z file** link.
 
 > Make sure to grab the correct file. The classic, SE, or VR versions will not work with post-AE versions of Skyrim SE.
 
@@ -71,7 +73,7 @@ Now that we know which version of Skyrim SE we have installed, we know which ver
 SKSE only functions properly if Skyrim SE is run through its executable, **skse_loader.exe**, meaning you can no longer click play in Steam or open the game through its launcher. This executable as well as the two SKSE DLLs must be in the same folder as the game executables, your **root folder**.
 
 - Open the downloaded archive and double-click the folder inside. There are a number of files and folders inside.
-- Extract **skse64_1_6_xxx.dll**, **skse64_loader.exe**, and **skse64_steam_loader.dll** to `\Mod Organizer 2\Stock Game\`.
+- Extract **skse64_1_6_xxx.dll**, **skse64_loader.exe**, and **skse64_steam_loader.dll** to `\Mod Organizer 2\Game Root\`.
 
 The two text files are, as you can tell from the names, the readme and changelog. There is no need to extract them as well.
 
@@ -83,6 +85,7 @@ If you currently have Mod Organizer 2 open, close it now. Then re-open it. SKSE 
 
 - Click the gears icon in the **Toolbar** to open the **Executable** settings.
 - Select the new **SKSE** executable which should already have the correct file paths.
+- If you like, you can rename it to **Skyrim Script Extender** for clarity.
 - Drag it up to the top of the executables list and click **OK**.
 
 **Do not launch the game yet - we have not finished the SKSE installation.**
@@ -91,19 +94,25 @@ If you currently have Mod Organizer 2 open, close it now. Then re-open it. SKSE 
 
 ## SKSE Scripts
 
-Going back to the downloaded SKSE archive, you will notice two folders inside: **Data** and **src**. The latter is short for "source", meaning it contains the source code as resources for mod authors which we do not need.
+Going back to the downloaded SKSE archive, you will notice two folders inside: **Data** and **src**. The latter is short for "source", meaning it contains the source code for mod authors which we do not need.
 
-The **Data** folder though contains scripts which are a required component of SKSE. Theoretically, we could have dropped the **Data** folder containing the scripts into the **root folder** alongside the executable and DLLs where it would have merged with the existing **data folder**. 
+The **Data** folder contains scripts which are a required component of SKSE. Theoretically, we could have dropped the **Data** folder containing the scripts into the **root folder** alongside the executable and DLLs where it would have merged with the existing **data folder**. 
 
 However, those scripts are regular assets belonging into the **data folder** and can therefore be handled by Mod Organizer 2 instead.
 
 To install the SKSE scripts in Mod Organizer 2, we can simply drop the files into a new **mod folder**.
 
-- Navigate to `\Mod Organizer 2\mods\` and create a new folder: **SKSE Scripts**.
-- Double-click the **Data** folder inside the SKSE archive.
-- Extract the **Scripts** folder into your new **SKSE Scripts** mod folder.
+- In Mod Organizer 2, click the crossed tools icon above the mod order and select **Create empty mod**.
 
-Go back into Mod Organizer 2 and press F5 which will refresh the UI. Your new mod will appear in the left pane which is the **mod order**. Check the box to activate it and when you next launch SKSE through Mod Organizer 2 (we will do that shortly), the scripts will be loaded in the virtual data folder and recognised by SKSE just as if you had installed it directly in the **data folder**. Similarly, unticking it is enough to completely remove it from your virtual data folder.
+![MO2](/Pictures/embers/module-1/create-empty-mod.png)
+
+- Enter **Skyrim Script Extender - Scripts** as the name and click **OK**.
+- Right-click your new mod in the left pane and select **Open in Explorer**.
+- Go back to the SKSE archive and double-click the **Data** folder.
+- Extract the **Scripts** folder into your new **Skyrim Script Extender - Scripts** mod folder.
+- In MO2, press F5 to refresh and finally check the box to activate your new mod.
+
+When you next launch SKSE through Mod Organizer 2 (we will do that shortly), the scripts will be loaded in the virtual data folder and recognised by SKSE just as if you had installed it directly in the **data folder**. Meanwhile, unchecking the mod in MO2 is enough to completely remove it from your virtual data folder.
 
 ![SKSE Scripts MO2](/Pictures/embers/module-1/skse-scripts-mo2.png)
 
@@ -111,10 +120,10 @@ Go back into Mod Organizer 2 and press F5 which will refresh the UI. Your new mo
 
 Since one major advantage of MO2's virtual data folder is the ability to easily update mods, we should note the version number for the mod we just installed. Of course, we could simply change the mod name to include the SKSE version number. But MO2 has a more elegant solution.
 
-- Double-click **SKSE Scripts** in your mod order.
+- Double-click **Skyrim Script Extender - Scripts** in your mod order.
 - Switch to the **Nexus Info** tab.
 
-When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file and MO2 has changed the Mod ID to `-1`. Under **Version**, you can now enter `2.1.3` (or whichever is the current SKSE version).
+When downloading mods from the Nexus, a meta file with various information about the mod will be downloaded alongside it. Since we did not download SKSE from the Nexus, there is no meta file. Under **Version**, you can now enter `2.1.5` (or whichever is the current SKSE version).
 
 After you close the window again, the version number will appear properly in the **Versions** column in the MO2 UI like it does for all mods that you will install in the future.
 
@@ -132,8 +141,10 @@ Two of SKSE's features need to be enabled in an INI file:
 
 The SKSE INI must be located under `\Data\SKSE\SKSE.ini` so we can use Mod Organizer 2 and create it from scratch.
 
-- Navigate to `\Mod Organizer 2\mods\` and create a new **SKSE INI** folder.
-- Open the new folder and create a new **SKSE** folder inside.
+- Once again click the crossed tools icon and select **Create empty mod**.
+- Name the new mod **Skyrim Script Extender - SKSE INI** and click **OK**.
+- Right-click the new mod and select **Open in Explorer**.
+- Inside the new mod folder, create another new folder called **SKSE**.
 - Within that **SKSE** folder, right-click and select **New** >> **Text Document**.
 - Rename the file to **SKSE.ini** (make sure to change the file extension from TXT to INI).
 - After changing the file extension and confirming, a warning window will pop up. Click **Yes**.
@@ -142,7 +153,9 @@ The SKSE INI must be located under `\Data\SKSE\SKSE.ini` so we can use Mod Organ
 
 ### INI Edits for SKSE SE
 
-- Open **SKSE.ini** with your preferred text editor (e.g. Notepad++).
+- Go back into Mod Organizer 2 and press F5 to refresh.
+- Double-click **SKSE INI** in your mod order and switch to the **INI Files** tab.
+- Select the `SKSE\SKSE.ini` file.
 - Copy and paste the following into the empty file:
 
 ```
@@ -155,10 +168,10 @@ ClearInvalidRegistrations=1
 
 > You can set the texture resolution for face tints to any resolution you like, although anything above 2048 (2K) is simply overkill. Keep in mind that you will also have to install higher resolution retextures for tint masks later on for this setting to make a difference.
 
-- Hit **CTRL+S** to save your edits and close the file.
-- Back in Mod Organizer 2, press F5 to refresh the UI.
-- **SKSE INI** will appear in your mod order (left pane).
-- Check the new mod to enable it.
+- Hit **CTRL+S** to save your edits and close the window.
+- Check the box for the new mod to enable it.
+
+![SKSE INI MO2](/Pictures/embers/module-1/skse-ini-mo2.png)
 
 ### Other SKSE INI Settings
 
@@ -166,7 +179,7 @@ ClearInvalidRegistrations=1
 
 Beyond the two settings that we added, there are other options that are largely relics of the SLE days.
 
-One allows you to adjust memory allocation, but while memory was a real problem in Skyrim LE, the 64bit engine upgrade in Skyrim SE all but solved the problem. The settings were very recently enabled in SKSE for SE, however, most people use the memory manager from SSE Engine Fixes instead (another mod, to be installed soon).
+One allows you to adjust memory allocation, but while memory was a real issue in Skyrim LE, the 64bit engine upgrade in Skyrim SE all but solved the problem. The settings were very recently enabled in SKSE for SE; however, most people use the memory manager from SSE Engine Fixes instead (another mod, to be installed soon).
 
 ```
 [Memory]
@@ -197,7 +210,7 @@ This will now download the file through Mod Organizer 2 into the downloads folde
 - In the right pane of Mod Organizer 2, switch to the **Downloads** tab.
 - Double-click the downloaded file.
 
-Before installing a mod, you can rename it. The name you enter here will correspond to the name of the folder that will be created for the mod under `\Mod Organizer 2\mods\` and show up in the mod order (left pane of MO2). I frequently rename mods, often to reflect the version I downloaded, so you may find that your mods are sometimes named differently than they are in my screenshots. This is purely a matter of test and my own obsession with a clean naming scheme.
+Before installing a mod, you can rename it. The name you enter here will correspond to the name of the folder that will be created for the mod under `\Mod Organizer 2\mods\` and show up in the mod order (left pane of MO2). I frequently rename mods, often to reflect the version I downloaded, so you may find that your mods are sometimes named differently than they are in my screenshots. This is purely a matter of taste ~~and my own obsession with a clean naming scheme~~.
 
 In the case of this mod, I did not adjust the name.
 
@@ -210,7 +223,7 @@ In the case of this mod, I did not adjust the name.
 
 Before we install some more SKSE-related mods, we should make sure SKSE is running properly. As mentioned earlier, Skyrim must be run through the SKSE executable for SKSE to work, that simply means that you need to double-click **skse64_loader.exe** instead of **SkyrimSE.exe** to play. It also means that you CANNOT launch the game through Steam anymore (if you want to play with SKSE and mods) since that starts the **SkyrimSELauncher.exe**.
 
-Additionally, we established that any tool as well as the game itself MUST be run through Mod Organizer 2 as they cannot otherwise access MO2's virtual data folder. They would simply read the actual **data folder** where no mods will be installed to. If we now ran SKSE outside of MO2, the game would launch, but the scripts would not be loaded as they are installed through MO2. Any mods installed later on that reference those scripts would *not* work.
+Additionally, we established that any tool as well as the game itself MUST be run through Mod Organizer 2 as they cannot otherwise access MO2's virtual data folder. They would simply read the actual **data folder** where no mods are installed. If we now ran SKSE outside of MO2, the game would launch, but the scripts would not be loaded as they are installed through MO2. Any mods installed later on that reference those scripts would *not* work.
 
 **Always start the game by running the Script Extender through Mod Organizer 2.**
 
@@ -222,7 +235,7 @@ Additionally, we established that any tool as well as the game itself MUST be ru
 
 Instead of opening the launcher, running the game through SKSE will bring you into the main menu directly.
 
-Once you're in the main menu, open the **console**, a dev tool that will be hugely important particularly for troubleshooting. You can bring it up by pressing the **tilde** key:
+Once you're in the main menu, open the **console**, a dev tool that will be hugely important, particularly for troubleshooting. You can bring it up by pressing the **tilde** key:
 
 ![Tilde key](https://www.computerhope.com/cdn/keyboard/tilde.jpg)
 
