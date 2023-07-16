@@ -52,6 +52,18 @@ Add the following line to your custom INI in the [Render] section and fill in yo
 Resolution=
 ```
 
+#### Downscaling
+
+Skyrim does not scale well at higher resolutions and a quick performance boost can be gained by downscaling the game to a resolution lower than the monitor's native resolution. This does noticeably impact visual fidelty, however.
+
+You can read more about monitor resolutions and performance [here](/bg/knowledge-base/resolution/).
+
+To downscale set your desired resolution (see above) and add the following line:
+
+```
+BorderlessUpscale=true
+```
+
 #### Framerate Cap
 
 As noted earlier, you can safely increase the framerate limit beyond 60FPS with SSE Display Tweaks installed. By default, the limit is 240FPS. You should, however, be aware that achieving a framerate above 100FPS with a decently modded game requires very good hardware, especially on resolutions above 1080p.

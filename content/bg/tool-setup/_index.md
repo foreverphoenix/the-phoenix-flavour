@@ -1,6 +1,6 @@
 ---
 title: "Tool Setup"
-weight: 3
+weight: 4
 type: docs
 description: >
   Setup instructions for modding tools.
