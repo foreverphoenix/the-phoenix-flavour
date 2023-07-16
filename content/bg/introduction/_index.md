@@ -48,7 +48,7 @@ Specifically, the Core Module teaches you:
 
 If you are not entirely new to modding, much of the ground covered in the Core Module may already be familiar to you. Instead, you may be interested in referencing the [Additional Modules](/bg/additional-modules/) and [Knowledge Base](/bg/knowledge-base/) on your own modding journey.
 
-For example, if you are starting from scratch, take a look at the [Clean Install](/bg/additional-modules/clean-install/) and [MO2 Setup](/bg/additional-modules/mo2-setup/) modules.
+{{< alert color="info" >}}The [Quick Start](/bg/quick-start/) guide offers an overview of the steps to be taken in the process of building a setup.{{< /alert >}}
 
 ## Caveats & Notes
 

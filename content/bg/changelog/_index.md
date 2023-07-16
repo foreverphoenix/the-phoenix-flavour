@@ -1,10 +1,35 @@
 ---
 title: "Changelog"
-weight: 7
+weight: 8
 type: docs
 description: >
   Documentation for updates and additions to the guide.
 ---
+
+## 16/07/2023
+
+#### Quick Start
+
+I moved the "Building your setup" page to a separate page and renamed it to [Quick Start](/bg/quick-start/). This is intended to be a short summary of steps to be taken when building a setup, based on my personal process.
+
+The structure of the guide is mosstly in place but it is missing a lot of the detail. I am planning to write separate pages / guides on nearly every step in the process which will be added gradually.
+
+#### Tool Setup
+
+- [BethINI](/bg/tool-setup/bethini/): Added new BethINI page
+
+#### Additional Modules
+
+- [INI Configuration](/bg/additional-modules/ini-config/): Added new INI Configuration page
+
+#### Recommended Mods
+
+- [Essential Mods](/bg/recommended-mods/essential-mods/): Added Downscaling section to SSE Display Tweaks
+
+#### Knowledge Base
+
+- [INI Files](/bg/knowledge-base/ini-files): Added new INI Files article
+- [Resolution](/bg/knowledge-base/resolution/): Added new Resolution article
 
 ## 11/07/2023
 
