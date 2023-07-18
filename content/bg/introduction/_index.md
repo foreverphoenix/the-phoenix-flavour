@@ -88,4 +88,6 @@ I finally discontinued the TPF manual guide in the fall of 2021 when I realised 
 
 While the long-promised Wabbajack-only version of TPF 5.0 is still in development hell, I have in the meantime published and maintained several other lists, including Skyrim Modding Essentials, Legends of the Frost, and Aurora for Skyrim SE as well as Welcome to Paradise for Fallout 4.
 
-I never regretted my decision to retire the TPF manual guide, but I have greatly missed the process of guide-writing. Believe it or not, I feel much more confident and qualified for writing instructions than I do for actual modding. Since I do not have the time nor energy to maintain a traditional modding guide, I have decided instead to try and realise another ambition of mine: A proper beginner's guide as a springboard for newcomers to the modding scene. And here we are.
+I never regretted my decision to retire the TPF manual guide, but I have greatly missed the process of guide-writing. Believe it or not, I feel much more confident and qualified for writing instructions than I do for actual modding. Since I do not have the time nor energy to maintain a traditional modding guide, I have decided instead to try and realise another ambition of mine: A proper beginner's guide as a springboard for newcomers to the modding scene.
+
+And here we are.

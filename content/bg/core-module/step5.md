@@ -97,7 +97,7 @@ Your new filter will be selected automatically. We will want to check the follow
 
 ![CR Filter](/Pictures/bg/core-module/cr-filter.png)
 
-{{< alert color="info" >}} The two options near the top will visualise conflicts which makes finding them infinitely easier. Flattening CELL records helps with viewing the Cell and Worldspace categories without having to click through blocks and sub-blocks.{{< /alert >}}
+{{< alert color="info" >}}The two options near the top will visualise conflicts which makes finding them infinitely easier. Flattening CELL records helps with viewing the Cell and Worldspace categories without having to click through blocks and sub-blocks.{{< /alert >}}
 
 - Click the **Save** button at the top to save the new preset.
 - Click the **Filter** button at the bottom to apply it.
@@ -214,6 +214,8 @@ However, conflicts do appear in two of the parent records: *BlindCliffCaveWorld*
 
 **In order for both mods to function as intended, a patch is required.**
 
+![RW2 NGIC Conflict](/Pictures/bg/core-module/rw2-ngic-conflict.png)
+
 ### Creating a patch
 
 Just as we did earlier to disable the USSEP book, we need to create a new layer (a new plugin) to apply our changes to.
@@ -238,6 +240,8 @@ Because we can ESL-flag these small patches, we can literally create hundreds an
 Of course, there is still a conflict in our newly created patch. To resolve this, simply drag (forward) the changes under `DATA - Flags (sorted)` from the **NoGrassInCaves.esp** column into our new patch:
 
 ![Resolve Worldspace Conflict](/Pictures/bg/core-module/resolve-worldspace-conflict.png)
+
+![RW2 NGIC Resolved](/Pictures/bg/core-module/rw2-ngic-resolved.png)
 
 The record should now be displayed in green. (The copy in the expanded **NoGrassInCaves.esp** plugin is still red, but that is because the UI does not update everywhere. If you click on it, the conflict is shown as resolved there, too).
 
@@ -312,7 +316,7 @@ Next, you will be able to modify various settings. You can change them by clicki
 - **Optional:** Plugins marked as optional do not have to be present for the ModGroup to be valid.
 - **Target:** Conflicts in this plugin can be hidden.
 - **Source:** Overwriting records in this plugin will hide the overwritten records in previous plugins.
-- **Forbidden:** Plugins marked as optional will invalidate the ModGroup if present.
+- **Forbidden:** Plugins marked as forbidden will invalidate the ModGroup if present.
 - **Ignore LO:** If empty, the load order of the plugins must be as listed in the ModGroup for it to be valid.
   - *Always:* Any load order is valid
   - *In Block:* Must adhere to load order of all plugins with this flag

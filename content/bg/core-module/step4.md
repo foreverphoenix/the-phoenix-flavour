@@ -45,9 +45,9 @@ In Skyrim SE plugin merging has become redundant for all but the largest of load
 
 **Elder Scrolls Light** plugins (ESL) were initially added for the Creation Club (Fallout 4 and Skyrim SE) and they were a game-changer for the modding scene because the plugin limit for ESLs is about ten times that as for ESPs and ESMs.
 
-All ESL plugins have the index `FE:xxx`. The hexadecimal FE is the decimal 254, so **all ESL plugins load in plugin slot 254.**
+All ESL plugins have the index `FExxx`. The hexadecimal FE is the decimal 254, so **all ESL plugins load in plugin slot 254.**
 
-This is possible because their index was extended to the third, fourth, and fifth character in their eight character form ID: An ESL's index could be `FE:000` or `FE:08F`. Thus, **the limit for ESLs is a whopping 4096 plugins** - which is why we no longer need to merge plugins.
+This is possible because their index was extended to the third, fourth, and fifth character in their eight character form ID: An ESL's index could be `FE000` or `FE08F`. Thus, **the limit for ESLs is a whopping 4096 plugins** - which is why we no longer need to merge plugins.
 
 ### Plugin Capacity
 
@@ -155,11 +155,11 @@ There are two types of references:
 
 ![Refs](/Pictures/bg/core-module/temporary-persistent-refs.png)
 
-The cap for references that are active at the same time is 1048576, anything above that will cause issues and instability.
+The cap for references that are active at the same time is **1048576**. Anything above that will cause issues and instability.
 
 The way references are handled is the most important difference between plugins in ESP space (.ESP with or without ESL flag) and plugins in ESM space (any plugin with ESM-flag: ESM, ESL, ESM-ESP). **Temporary references in ESP space are actually handled like persistent references and always loaded at the start of the game.** You can see how adding a great number of temporary references to ESP plugins could quickly bring the overall amount of active references closer to the cap.
 
-Temporary references defined in ESM space but overwritten by a plugin in ESP space will also be always active. This makes sense if you think about how layers work and how the game only really cares about the one that overwrites.
+Temporary references defined in ESM space but overwritten by a plugin in ESP space will also be always active. This makes sense if you think about how layers work and how the game only really cares about the one that overwrites all others.
 
 {{< alert color="info" >}}Large mods that add their own worldspaces and / or overhaul the vanilla ones by adding or modifying many references should be ESM-ified so that their considerable number of temporary references is not always active.{{< /alert >}}
 
@@ -339,7 +339,7 @@ The Form IDs are, in other words, not the correct format for ESL space. Thankful
 
 Another warning will follow and this one merits some discussion.
 
-Remember that records are identified by their Form IDs, also by other plugins. If we renumber the Form IDs here and later install a mod that touches the hand-placed flora from No Grass In Caves that second mod would dissolve into a mess of errors because it would be unable to locate the original records it was trying to edit. For example, it was looking for `08002FE7` but that Form is now `FE00381E`.
+Remember that records are identified by their Form IDs, also by other plugins. If we renumber the Form IDs here and later install a mod that touches the hand-placed flora from *No Grass In Caves* that second mod would dissolve into a mess of errors because it would be unable to locate the original records it was trying to edit. For example, it was looking for `08002FE7` but that Form is now `FE00381E`.
 
 {{< alert color="info" >}}Compacting a plugin's Form IDs will break any plugins that it is a master for.{{< /alert >}}
 

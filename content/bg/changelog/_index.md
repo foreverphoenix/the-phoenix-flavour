@@ -6,13 +6,43 @@ description: >
   Documentation for updates and additions to the guide.
 ---
 
+## 18/07/2023
+
+#### Quick Start
+
+- Added links to the new pages in the appropriate places
+
+#### Tool Setup
+
+- [NifSkope](/bg/tool-setup/nifskope/): Added new NifSkope page
+
+#### Additional Modules
+
+- [Creating ESL Plugins](/bg/additional-modules/creating-esl-plugins): Added new Creating ESL Plugins module
+- [Filter for Conflicts](/bg/additional-modules/filter-for-conflicts/): Added new Filter for Conflicts module
+- [Regenerating Facegen](/bg/additional-modules/regenerating-facegen/): Added new Regenerating Facegen module
+
+#### Recommended Mods
+
+- [Console Improvements](/bg/recommended-mods/console-improvements/): Added this new page
+
+#### Knowledge Base
+
+- [Asset Basics](/bg/knowledge-base/asset-basics/): Added new Asset Basics article
+- [Plugin Basics](/bg/knowledge-base/plugin-basics/): Added new Plugin Basics article
+- [References](/bg/knowledge-base/references/): Added new References article
+- [ESL Plugins](/bg/knowledge-base/esl-plugins/): Added new ESL Plugins article
+- [Conflict Management](/bg/knowledge-base/conflict-management/): Added new Conflict Management article
+- [ModGroups](/bg/knowledge-base/modgroups/): Added new ModGroups article
+- [Facegen](/bg/knowledge-base/facegen/): Added new Facegen article
+
 ## 16/07/2023
 
 #### Quick Start
 
 I moved the "Building your setup" page to a separate page and renamed it to [Quick Start](/bg/quick-start/). This is intended to be a short summary of steps to be taken when building a setup, based on my personal process.
 
-The structure of the guide is mosstly in place but it is missing a lot of the detail. I am planning to write separate pages / guides on nearly every step in the process which will be added gradually.
+The structure of the guide is mostly in place but it is missing a lot of the detail. I am planning to write separate pages / guides on nearly every step in the process which will be added gradually.
 
 #### Tool Setup
 
@@ -58,7 +88,7 @@ The structure of the guide is mosstly in place but it is missing a lot of the de
 
 - [Building a setup](/bg/knowledge-base/building-a-setup/): Began to work on this article (will be a big one)
 
-## 10-07-2023
+## 10/07/2023
 
 #### Core Module
 
@@ -88,7 +118,7 @@ The structure of the guide is mosstly in place but it is missing a lot of the de
 - [Porting SLE Mods](/bg/knowledge-base/porting-sle-mods/): Added Porting SLE Mods page
 - [Phoenix on LOOT]((/bg/knowledge-base/phoenix-on-loot/)): Added Phoenix on LOOT page
 
-## 04-07-2023
+## 04/07/2023
 
 #### Core Module
 
