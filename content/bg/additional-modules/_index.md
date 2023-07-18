@@ -1,6 +1,6 @@
 ---
 title: "Additional Modules"
-weight: 4
+weight: 5
 type: docs
 description: >
   Modular tutorials.

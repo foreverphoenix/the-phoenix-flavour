@@ -41,7 +41,7 @@ The process should only take a second. Close the window when it's done and delet
 
 Close and re-open **Mod Organizer 2**. It should automatically recognise the presence of the Creation Kit which should appear in the executables drop-down.
 
-Before you can run the CK through MO2, you need to manually add its Steam App ID in the [executable settings](/Pictures/bg/additional-modules/creation-kit/mo2-executables-settings.png):
+Before you can run the Creation Kit through MO2, you need to manually add its Steam AppID `1946180` in the [executable settings](/Pictures/bg/additional-modules/creation-kit/mo2-executables-settings.png):
 
 ![CK MO2 Shortcut](/Pictures/bg/tool-setup/ck/ck-steam-appid.png)
 
@@ -138,8 +138,6 @@ Once again, we need to adjust the folder structure for **Root Builder**:
 - Drag all files <u>except</u> for the **meta.ini** into the new folder.
 - Refresh MO2 with F5, right-click the mod, and select **Ignore missing data**.
 - Move the mod below **Tweaked Creation Kit INI** and activate it.
-
-{{< alert color="info" >}}If the wrong version number bothers you like it bothers me, you can double-click the mod and change it to **3.2** in the **Nexus** tab.{{< /alert >}}
 
 ## Separate CK EXE
 

@@ -16,6 +16,16 @@ I recommend pairing the plugin with [Crash Log Tools](/bg/tool-setup/crash-log-t
 
 **Requirements:** Skyrim Script Extender, Address Library for SKSE
 
+##### [Rogue Master Detector](https://www.nexusmods.com/skyrimspecialedition/mods/93040)
+
+{{< alert color="info" >}}**Recommended.** Very useful in any setup.{{< /alert >}}
+
+Rogue Master Detector is an SKSE plugin which finds and logs masters that are loaded out of order. While missing masters cause errors, there are no *visible* errors when a plugin is loaded <u>above</u> its master. SSEEdit will automatically fix the load order, but the game will not, and out-of-order plugins will not function properly.
+
+After launching the game, Rogue Master Detector creates a log file under `\Documents\My Games\Skyrim Special Edition\SKSE\` with any out-of-order plugins listed inside. Check the log and fix the load order if necessary.
+
+**Requirements:** Skyrim Script Extender, Address Library for SKSE
+
 ##### [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 
 {{< alert color="success" >}}**Essential.** Everyone should install this mod.{{< /alert >}}
@@ -80,11 +90,3 @@ DefaultPage = 0
 ```
 
 <u>Remember to save your changes before closing the window.</u>
-
-##### [Rogue Master Detector](https://www.nexusmods.com/skyrimspecialedition/mods/93040)
-
-{{< alert color="success" >}}**Essential.** Everyone should install this mod.{{< /alert >}}
-
-Rogue Master Detector logs any misplaced master files, i.e., plugins that are placed before their masters. These can be difficult to detect otherwise as MO2 will not throw any warnings and SSEEdit will automatically fix the load order while the game does not. The log is written to `\Documents\My Games\Skyrim Special Edition\SKSE\`.
-
-**Requirements:** Skyrim Script Extender

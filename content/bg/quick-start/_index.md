@@ -16,9 +16,18 @@ The Quick Start guide is linking to and drawing on various other articles and pa
 
 ### Limitations
 
-The Quick Start guide is an overview of my process and a blueprint for building a new setup. It does not provide an introduction to modding basics and expects you to know how to use SSEEdit, create patches, and modify assets.
+The Quick Start guide is an overview of my process and a blueprint for building a new setup. **It does not provide an introduction to modding basics** and expects you to know how to use SSEEdit, create patches, and modify assets.
 
-{{< alert color="info" >}}If you are more interested in a comprehensive, guided introduction to modding beginning with the very basics, I recommend checking the [Core Module](/bg/core-module/step1/) instead.{{< /alert >}}
+{{< alert color="info" >}}If you are more interested in a comprehensive step-by-step guide to modding from start to finish, I recommend checking the [Core Module](/bg/core-module/step1/) instead.{{< /alert >}}
+
+Recommended reading:
+
+- [Asset Basics](/bg/knowledge-base/asset-basics/)
+- [Plugin Basics](/bg/knowledge-base/plugin-basics/)
+- [References](/bg/knowledge-base/references/)
+- [ESL Plugins](/bg/knowledge-base/esl-plugins/)
+- [Conflict Management](/bg/knowledge-base/conflict-management/)
+- [ModGroups](/bg/knowledge-base/modgroups/)
 
 ## Initial Setup
 
@@ -58,8 +67,9 @@ For now, I would recommend setting up at least the following:
 
 If, at this point, you are still uncertain about central mods and themes for your new setup, there is no need to worry as there is more baseline work to be. What is considered an "essential" mods is actually more subjective and controversial than one might assume which is why I largely give recommendations.
 
-- Recommendations: [Utilities & Frameworks](/bg/recommended-mods/utilities-frameworks)
-- Recommendations: [Essential Mods](/bg/recommended-mods/essential-mods)
+- Recommendations: [Utilities & Frameworks](/bg/recommended-mods/utilities-frameworks/)
+- Recommendations: [Essential Mods](/bg/recommended-mods/essential-mods/)
+- Recommendations: [Console Improvements](/bg/recommended-mods/console-improvements/)
 
 As you begin to build up your mod order, try to keep it nice and clean by making heavy use of **separators**. If you do not have a system of your own for sorting mods, you can refer to [mine](/bg/recommended-mods/separators/) for inspiration.
 
@@ -75,11 +85,13 @@ Every time you add a new mod **determine if the mod does what you want it to do 
 
 ### Plugin Management
 
-There is no exact rule on often you should hop into SSEEdit, but doing it every ten or so plugins can be helpful.
+There is no exact rule on often you should hop into SSEEdit, but doing it every ten or so plugins can be helpful. Remember to [apply a filter](/bg/additional-modules/filter-for-conflicts/) to make conflicts better visible, but also remember that conflicts are not the sole cause of issues and that you should look at all records, not just conflicting ones.
 
-When you discover conflicts or potential consistency issues, remember to check the Nexus (including patch collections) for pre-existing patches. If none exists to solve your problem, you can either create it yourself, remove one of the mods, or ignore the problem if it is minor enough.
+When you discover conflicts or potential consistency issues, remember to check the Nexus (including patch collections) for pre-existing patches. If none exist to solve your problem, you can either create it yourself, remove one of the mods, or ignore the problem if it is minor enough.
 
-I highly recommend creating **small patches** and **ModGroups** as you work through your load order.
+I highly recommend creating **small patches** and [ModGroups](/bg/knowledge-base/modgroups/) as you work through your load order. Keep the 256 ESM/ESP limit in mind and [ESL-ify](/bg/additional-modules/creating-esl-plugins/) plugins when possible.
+
+Check the log from [Rogue Master Detector](/bg/recommended-mods/utilities-frameworks/#rogue-master-detector) occasionally for out-of-order plugins.
 
 {{< alert color="info" >}}It is also possible to install the majority of your mods first before really diving into SSEEdit, sorting out your current list of plugins by adjusting the load order and creating patches, before adding to it more slowly. Do whatever works best for you.{{< /alert >}}
 
@@ -87,7 +99,7 @@ I highly recommend creating **small patches** and **ModGroups** as you work thro
 
 ### Ingame Testing
 
-Ingame testing is never sufficient to build a modded setup. You <u>cannot</u> avoid SSEEdit.
+Ingame testing to detect problems is never sufficient to build a modded setup. You <u>cannot</u> avoid SSEEdit.
 
 That being said, I highly recommend the occasional `coc riverwood` to ensure that the game properly launches - if not, you should have a limited amount of possible culprits if you do it often enough which may speed up the troubleshooting process.
 
@@ -194,7 +206,7 @@ It should go without saying, but start at the beginning.
 
 If you are building a setup around Legacy of the Dragonborn, install that mod first and think about which content mods with integration patches you wish to add. If you are building a setup focused around visuals then dive straight back into the hand-picking insanity.
 
-Set up the essential mods that will be at the heart of your setup to realise your theme before branching out. Experiment. Try things out. Do not worry too much about SSEEdit until you run into issues that must be fixed first. Jump into the game to try things out, check your new combat animations or clover mesh replacer. This is the fun part!
+Set up the essential mods that will be at the heart of your setup to realise your theme before branching out. Experiment. Try things out. Do not worry too much about SSEEdit until you run into issues that must be fixed first. Jump into the game frequently to check your new combat animations or clover mesh replacer. This is the fun part!
 
 ## The Setup
 
@@ -219,6 +231,6 @@ On the other hand, there comes a time where you should <u>stop</u> and wrap up i
 **Conflict resolution and consistency patching should be completed at this point.**
 
 1. With all mods installed you can now run [Synthesis](/bg/tool-setup/synthesis/) patchers for mods which require them.
-2. If you chose to regenerate facegen for all NPCs, this is the time to do it.
+2. If you chose to regenerate facegen for all NPCs, this is the time to do it. Instructions are [here](/bg/additional-modules/regenerating-facegen/).
 3. (Re-)run Nemesis if you installed any mods that add new animations.
 4. Regenerate all LODs and Occlusion. Remember the extra steps for ACMOS if you use that mod.

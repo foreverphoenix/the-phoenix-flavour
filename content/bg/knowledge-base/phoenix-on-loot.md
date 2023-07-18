@@ -10,7 +10,9 @@ description: >
 
 This section covers <u>my personal opinion</u> on the tool LOOT. The short version is that I think the tool is severely misunderstood by a significant part of the community, especially newcomers. You need to take its limitations into account if you want to use it.
 
-In order to understand what I am talking about a basic understanding of load order, plugins, and conflicts is required.
+<font size=2>*Since I do not personally use LOOT for load order management, doing so is not covered anywhere on this site.*</font>
+
+In order to understand what I am talking about a basic understanding of load order, plugins, and conflicts is required. I recommend reading the articles on [Plugin Basics](/bg/knowledge-base/plugin-basics/) and [Conflict Management](/bg/knowledge-base/conflict-management/) as primers.
 
 ## LOOT and Load Order
 
