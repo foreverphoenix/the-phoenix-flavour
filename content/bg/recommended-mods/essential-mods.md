@@ -1,6 +1,6 @@
 ---
 title: "Essential Mods"
-weight: 3
+weight: 4
 type: docs
 description: >
   Mod recommendations.

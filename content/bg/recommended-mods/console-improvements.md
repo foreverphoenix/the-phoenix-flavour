@@ -1,6 +1,6 @@
 ---
 title: "Console Improvements"
-weight: 4
+weight: 5
 type: docs
 description: >
   Mod recommendations.

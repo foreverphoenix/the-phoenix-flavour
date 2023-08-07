@@ -14,7 +14,7 @@ description: >
 
 **Bethesda Archive Extractor** is a lovely tool for viewing and (selectively) extracting BSAs.
 
-## Installation
+### Installation
 
 - Download [Bethesda Archive Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/974?tab=files) from its Nexus page.
 - Create a folder called **Bethesda Archive Extractor** in your **Modding Tools** directory.

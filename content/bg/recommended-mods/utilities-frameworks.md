@@ -1,6 +1,6 @@
 ---
 title: "Utilities & Frameworks"
-weight: 2
+weight: 3
 type: docs
 description: >
   Mod recommendations.
@@ -26,15 +26,13 @@ After launching the game, Rogue Master Detector creates a log file under `\Docum
 
 **Requirements:** Skyrim Script Extender, Address Library for SKSE
 
-##### [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
 
 {{< alert color="success" >}}**Essential.** Everyone should install this mod.{{< /alert >}}
 
-SkyUI is nearly as crucial as SKSE. It not only overhauls the entire interface to be properly usable for mouse + keyboard but also adds the **mod configuration menu** feature. Other mods can add MCMs (settings menus) which can be accessed and configured as naturally as the base game settings.
+MCM Helper simplifies MCM creation and customisation, also by saving changes in INI files so they persist across save games.
 
-If you prefer (parts of) the vanilla UI, you can (selectively) overwrite SkyUI with [Hide SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12770) while retaining the MCM feature. There are also various extensions and reskins for SkyUI.
-
-**Requirements:** Skyrim Script Extender
+**Requirements:** Skyrim Script Extender, Address Library for SKSE, SkyUI
 
 ##### [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343)
 

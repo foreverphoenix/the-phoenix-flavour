@@ -23,6 +23,7 @@ The Quick Start guide is an overview of my process and a blueprint for building 
 Recommended reading:
 
 - [Asset Basics](/bg/knowledge-base/asset-basics/)
+- [Asset Management](/bg/knowledge-base/asset-management/)
 - [Plugin Basics](/bg/knowledge-base/plugin-basics/)
 - [References](/bg/knowledge-base/references/)
 - [ESL Plugins](/bg/knowledge-base/esl-plugins/)
@@ -67,6 +68,7 @@ For now, I would recommend setting up at least the following:
 
 If, at this point, you are still uncertain about central mods and themes for your new setup, there is no need to worry as there is more baseline work to be. What is considered an "essential" mods is actually more subjective and controversial than one might assume which is why I largely give recommendations.
 
+- Recommendations: [SkyUI](/bg/recommended-mods/skyui/)
 - Recommendations: [Utilities & Frameworks](/bg/recommended-mods/utilities-frameworks/)
 - Recommendations: [Essential Mods](/bg/recommended-mods/essential-mods/)
 - Recommendations: [Console Improvements](/bg/recommended-mods/console-improvements/)
@@ -92,6 +94,8 @@ When you discover conflicts or potential consistency issues, remember to check t
 I highly recommend creating **small patches** and [ModGroups](/bg/knowledge-base/modgroups/) as you work through your load order. Keep the 256 ESM/ESP limit in mind and [ESL-ify](/bg/additional-modules/creating-esl-plugins/) plugins when possible.
 
 Check the log from [Rogue Master Detector](/bg/recommended-mods/utilities-frameworks/#rogue-master-detector) occasionally for out-of-order plugins.
+
+If you are wondering about **plugin cleaning**, check [the article on the topic](/bg/knowledge-base/cleaning-plugins/). Generally, I would only recommend cleaning if you intend to use DynDOLOD NG.
 
 {{< alert color="info" >}}It is also possible to install the majority of your mods first before really diving into SSEEdit, sorting out your current list of plugins by adjusting the load order and creating patches, before adding to it more slowly. Do whatever works best for you.{{< /alert >}}
 
@@ -145,10 +149,9 @@ With trees and landscape textures in place, I recommend generating a temporary s
 
 Make sure you have LOD generation resources for landscape textures and optionally 3D trees installed (where available) before generating LODs.
 
-- Generate terrain LOD for Tamriel using SSELODGen.
-- Generate TexGen and DynDOLOD for Tamriel using DynDOLOD.
+Set up [SSELODGen](/bg/tool-setup/sselodgen/) and [DynDOLOD](/bg/tool-setup/dyndolod/), then refer to the [LOD & Occlusion](/bg/additional-modules/lod-occlusion/) article for generation instructions.
 
-{{< alert color="info" >}}I recommend skipping Occlusion for now. You can generate it during the finalisation steps.{{< /alert >}}
+{{< alert color="info" >}}I recommend skipping **Occlusion** for now. You can generate it during the finalisation steps.{{< /alert >}}
 
 Jump ingame and have a look around afterwards. This is a good time to see how well your distant landscape blends (snow in particular can be difficult to perfect) and what your performance with your chosen tree LOD settings or grass overhaul is like.
 
@@ -233,4 +236,4 @@ On the other hand, there comes a time where you should <u>stop</u> and wrap up i
 1. With all mods installed you can now run [Synthesis](/bg/tool-setup/synthesis/) patchers for mods which require them.
 2. If you chose to regenerate facegen for all NPCs, this is the time to do it. Instructions are [here](/bg/additional-modules/regenerating-facegen/).
 3. (Re-)run Nemesis if you installed any mods that add new animations.
-4. Regenerate all LODs and Occlusion. Remember the extra steps for ACMOS if you use that mod.
+4. Regenerate [LODs & Occlusion](/bg/additional-modules/lod-occlusion/).

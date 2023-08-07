@@ -57,7 +57,7 @@ BSAs can be **compressed** or **uncompressed**. Looking at the vanilla BSAs, you
 
 **A BSA always requires a plugin with the same name to be loaded.**
 
-*Example.esp* (or ESL/ESM) can load *Example.bsa* and *Example - Textures.bsa*, but no more than that. If the name does not match exactly the BSA will not be loaded.
+*Example.esp* (or ESL/ESM) can load *Example.bsa* and *Example - Textures.bsa*, but no more than that. If the name does not match exactly the BSA will not be loaded. The plugin does not need to have any content, it can be an empty 'dummy' (in which case it should ideally be an ESP-FE).
 
 {{< alert color="info" >}}The vanilla BSAs are actually loaded via the **Skyrim.ini** file and it should be *technically* possible to load additional BSAs by adding them to the INI. However, this is not particularly convenient so it is not done.{{< /alert >}}
 
