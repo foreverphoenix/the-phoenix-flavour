@@ -67,6 +67,7 @@ These are the hex colour codes:
 ### Essentials
 
 - Skyrim Script Extender
+- SkyUI
 - Utilities & Frameworks
 - Essential Mods
 - Console Improvements

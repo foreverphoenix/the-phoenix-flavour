@@ -77,6 +77,26 @@ You can quit once the log at the bottom returns `Background loader: finished` or
 
 Check your `\Tools\SSEEdit\cache\` folder to make sure the files were saved to the correct location.
 
+## Quick Auto Clean
+
+I recommend you also install the **Quick Auto Clean** executable in case you ever need to [clean plugins](/bg/additional-modules/cleaning-plugins/).
+
+- In Mod Organizer 2, click the [gears icon](/Pictures/bg/mo2-executables-settings.png) in the Toolbar to open the **Executables** settings.
+- Click the small blue plus icon and select **Add from file**.
+- Navigate to `\Tools\SSEEdit\` and double-click **SSEEditQuickAutoClean.exe**.
+- Click **OK** to add the executable to Mod Organizer 2.
+
+<font size=2>*I like to rename the executable to "SSEEdit QAC" in the MO2 executables settings for better readability.*</font>
+
+### -DontCache
+
+When cleaning Dragonborn.esm with SSEEdit QAC, parts of Apocrypha will unintentionally be modified. This can be prevented by adding the -DontCache argument to the QAC exe.
+
+- In Mod Organizer 2, click the [gears icon](/Pictures/bg/mo2-executables-settings.png) in the Toolbar to open the **Executables** settings.
+- Select **SSEEdit QAC** in the list of executables.
+- Add `-DontCache` under **Arguments**.
+- Click **OK** to save your change and close the window.
+
 ## Disable Warning
 
 {{<alert color="info">}}Please skip this if you are currently following the Core Module.{{< /alert >}}

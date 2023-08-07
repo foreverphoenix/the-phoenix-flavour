@@ -6,6 +6,40 @@ description: >
   Documentation for updates and additions to the guide.
 ---
 
+## 07/08/2023
+
+#### Tool Setup
+
+- [SSEEdit](/bg/tool-setup/sseedit/): Added Quick Auto Clean section
+- [SSELODGen](/bg/tool-setup/sselodgen/): Added new SSELODGen page
+- [ACMOS Road Generator](/bg/tool-setup/acmos-road-generator/): Added new ACMOS Road Generator page
+- [DynDOLOD](/bg/tool-setup/dyndolod/): Added new DynDOLOD page
+- [LOOT](/bg/tool-setup/loot/): Added new LOOT page
+- [LOOT Warning Checker](/bg/tool-setup/loot-warning-checker/): Added new LOOT Warning Checker page
+- [NIF Preview](/bg/tool-setup/nif-preview/): Added new NIF Preview page
+
+#### Additional Modules
+
+- [Cleaning Plugins](/bg/additional-modules/cleaning-plugins/): Added new Cleaning Plugins module
+- [LOD & Occlusion](/bg/additional-modules/lod-occlusion/): Added new LOD & Occlusion module
+- [Automating MCMs](/bg/additional-modules/automating-mcms/): Added new Automating MCMs module
+
+#### Recommended Mods
+
+- [SkyUI](/bg/recommended-mods/skyui/): Added new SkyUI page
+- [Utilities & Frameworks](/bg/recommended-mods/utilities-frameworks/): Added MCM Helper
+- [LOD Resources](/bg/recommended-mods/lod-resources/): Added LOD Resources page
+
+#### Knowledge Base
+
+- [Asset Management](/bg/knowledge-base/asset-management/): Added new Asset Management article
+- [Max Height Data](/bg/knowledge-base/max-height-data/): Added new Max Height Data article
+- [Mod Configuration Menus](/bg/knowledge-base/mcms/): Added new Mod Configuration Menus article (WIP)
+- [Cleaning Plugins](/bg/knowledge-base/cleaning-plugins/): Added new Cleaning Plugins article
+- [Distant LODs](/bg/knowledge-base/distant-lods/): Added new Distant LODs article
+- [Modding Guides](/bg/knowledge-base/modding-guides/): Added some content to the article
+- [Creation Club](/bg/knowledge-base/creation-club/): Moved over content from the Google Doc
+
 ## 18/07/2023
 
 #### Quick Start

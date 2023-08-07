@@ -31,7 +31,7 @@ Whenever Skyrim updates, the modding community tends to catch up within a few we
 
 ([Full Skyrim SE version history with changelogs](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch).)
 
-The issue of version dependency not only affects SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependent mods only use functions added by SKSE in their scripts and do not require a specific version of SKSE to actually work, there are also the so-called **SKSE plugins**\*. These files with the **.dll** extension are dependent on a specific SKSE version the same way SKSE is dependent on a specific Skyrim SE version.
+The issue of version dependency not only affects SKSE and the base game, but also SKSE and SKSE plugins. While some SKSE-dependent mods only use functions added by SKSE in their scripts and do not require a specific version of SKSE to actually work, there are also the so-called **SKSE plugins**\*. These files with the **.DLL** extension are dependent on a specific SKSE version the same way SKSE is dependent on a specific Skyrim SE version.
 
 <font size=2>\**SKSE plugins (DLLs) are not to be confused with Skyrim plugins (ESMs, ESPs, ESLs). The former are written in C or C++ and specific to the Script Extender. The latter are created in the Creation Kit or community-made tools, and specific to Creation Engine games.*</font>
 
