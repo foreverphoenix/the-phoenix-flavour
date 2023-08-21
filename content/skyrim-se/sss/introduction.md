@@ -20,7 +20,7 @@ description: >
 * **Survival Mode:** It uses [_Survival Mode_](https://en.uesp.net/wiki/Skyrim:Survival_Mode) from the Creation Club, meaning you’ll need to eat, sleep, and keep warm alongside other changes.
 * **Reduced HUD:** Your HUD will be minimized to limit on-screen information. You’ll no longer see enemy information or active effects while in combat, for example, and will need to use your intuition and context clues to assess your opponents.
 * **Strict Level Cap:** Maximum level is 50 with a total of 55 perk points granted. Use them wisely. Additionally, skills also can not be made Legendary.
-* **Equipment Upkeep:** The level cap puts more importance on your equipment choices. Weapon and armor tempering degrades over time as well. If you’re not proficient in the crafting skills you can commission what you need through [_Honed Metal_](https://www.nexusmods.com/skyrimspecialedition/mods/61015).
+* **Equipment Upkeep:** The level cap puts more importance on your equipment choices. Weapon and armor tempering degrades over time as well.
 * **Preparedness Rewarded:** Enemies will learn additional perks and spells as they level, making for harder encounters. Bringing the right tools for the job--along with accounting for [_Resistances and Weaknesses_](https://www.nexusmods.com/skyrimspecialedition/mods/45253)--will go a long way towards preventing stalls in your adventures.
 
 <br>

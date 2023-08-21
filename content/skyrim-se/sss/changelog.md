@@ -6,6 +6,146 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.3
+
+> 2023-08-21
+
+It's been awhile. I was away from home for work and during that time a number of interesting mods hit the Nexus, some of them are included in this update. [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) takes over for Apothecary's Food Addon. Not much has changed as far as how food works, but obtaining and making food has been overhauled quite a bit. From the author of Lawless - A Bandit Overhaul comes [Madmen - A Forsworn Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98579), bringing some of the same enemy design philosophies to the Reach as we have with draugr and bandits (and dragons)!
+
+Outside of that it's been a few quality of life or fixes added here or there. There are some bug reports I still wish to investigate but that would require more time. For now I wanted to get this update out to fix a number that have already been accounted for.
+
+<details>
+
+#### Changes
+
+- **General Fixes:** Added Zero Bounty Hostility Fix
+- **Script Fixes:** Added USSEP Caravan Bug Workaround
+- **Texture & Mesh Fixes:** Added Windhelm Entrance Offset Fix
+- **Grass & Terrain Fixes:** Added Green Water Cubemap Fix
+- **SKSE Plugins - Fixes:** Added DPI Scaling Fix
+- **SKSE Plugins - Tweaks:** Removed Improved Camera
+- **Yuril's Mesh Edits:** Added FYX - Water Mesh Optimization
+- **Lux Lighting:** Added FYX - 3D Shack Kit Walls - Lux Patch (BOS)
+- **Crafting:** Removed Simple Degradation - NPC Tempering
+- **Alchemy, Cooking, & Farming:** Removed Vendor Tweaks - Food and Cooking
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Food and Drink Addon
+- **Alchemy, Cooking, & Farming:** Removed Apothecary - Food and Drink Addon - USSEP Patch
+- **Alchemy, Cooking, & Farming:** Removed Apothecary Anniversary Update - Food and Drink Addon
+- **Alchemy, Cooking, & Farming:** Apothecary - Bottles Of Skyrim Patch
+- **Alchemy, Cooking, & Farming:** Added Gourmet - A Cooking Overhaul
+- **Alchemy, Cooking, & Farming:** Added Gourmet - USSEP Patch
+- **Alchemy, Cooking, & Farming:** Added Gourmet - SimonRim Patches
+- **Alchemy, Cooking, & Farming:** Added Gourmet - AI Overhaul Patch
+- **Alchemy, Cooking, & Farming:** Added Gourmet - Cooking Pots and Baking Ovens
+- **NPC Dialogue & Behavior:** Added Visiting Advisor Outfit Tweak
+- **Combat & Encounter Zones:** Removed Blade & Blunt - Health Regeneration Addon 
+- **Enemy Overhauls:** Added Madmen - A Forsworn Overhaul
+- **Enemy Overhauls:** Added Madmen - Patch Collection
+- **Immersion:** Removed Soups of Skyrim - Apothecary Food and Fishing Patch
+- **Immersion:** Added Buy and Sell Torches
+- **Immersion:** Added Immersive Death Cycle
+- **Skeleton & Animations:** Removed Draw 2 - Dual Weapon Equip-Unequip Animations
+- **Skeleton & Animations:** Added Open Animation Replacer - IED Conditions
+- **Skeleton & Animations:** Added Weapon Styles - DrawSheathe Animations for IED
+- **Survival & Fishing:** Removed Apothecary - True Homecooked Meals - Survival Mode Improved Patch
+- **Survival & Fishing:** Added Gourmet - Survival Patch
+- **Survival & Fishing:** Added Gourmet - Fishing Patch
+- **Cities of the North:** Added Gourmet - COTN Cooking Pots and Baking Ovens Patch
+- **Towns & Villages:** Added Spaghetti's Orc Strongholds - AIO
+- **Saints and Seducers:** Removed Apothecary Anniversary Update - SECSS Patch
+- **Saints and Seducers:** Added aljo's Apothecary Patches - SECSS Patch
+- **Saints and Seducers:** Added Gourmet - Extended Cut Saints and Seducers Patch
+- **New & Expanded Quests:** Removed College of Winterhold - Quest Expansion - TPF Patch
+- **New & Expanded Quests:** Added The Heart of Dibella - Quest Expansion
+- **New Items:** Removed Actual Sweet Roll Variants - Apothecary Food Patch
+- **New Items:** Removed Actual Sweet Roll Variants - TPF Patch
+- **New Items:** Removed aMidianBorn Armor Variants Lite - Guard Dialogue Overhaul Patch
+- **New Items:** Added Actual Sweet Roll Variants - Gourmet Patch
+- **New Creatures and Enemies:** Removed Forsworn Gravesingers
+- **New Creatures and Enemies:** Removed Forsworn Skinchangers
+- **Content Integration:** Added Gourmet - Tamrielic Distribution Patch
+- **Content Integration:** Added Gourmet - Tamrielic Distribution & Hand to Hand Patch
+- **Content Integration:** Added Gourmet - Tamrielic Distribution & Rare Curios Patch
+- **Conflict Resolution:** Removed fJumpFallHeightMinNPC `000EC6C1` changes
+- **Conflict Resolution:** Removed various edits to removed Food and Drink mods
+
+#### Updates
+
+- Updated DynDOLOD to 3.00 Alpha-134
+- Updated Synthesis to 0.26
+- Updated powerofthree's Papyrus Extender to 5.6.1
+- Updated Keyword Item Distributor to 3.0.3
+- Updated Base Object Swapper to 2.6
+- Updated FormList Manipulator to 1.7.1
+- Updated Universal Unwanted Effects Clearer to 0.3.1
+- Updated Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI to 2.0
+- Updated NPCs Names Distributor to 2.3
+- Updated Navigator - Navmesh Fixes to 1.4.7
+- Updated Rock Traps Trigger Fixes to 1.2
+- Updated NPC Stuck in Bleedout Fix to 0.1.3
+- Updated dunFolgunthurBossBattle Script Fix to 1.2.1
+- Updated Soul Cairn Script Tweaks to 1.0.2
+- Updated Flute Animation Fix to 1.1
+- Updated Assorted Mesh Fixes to 0.89
+- Updated Skill of Sneaking to 1.0.3
+- Updated Soft Shadows to 2.0 (257)
+- Updated DynDOLOD - NG to Alpha-11
+- Updated DynDOLOD - Resources to 3.00 Alpha-38
+- Updated LOD Model Library for DynDOLOD to 1.3.1
+- Updated Skyland AIO to 4.2
+- Updated Skyland Bits and Bobs - A Clutter Overhaul to 1.5.1
+- Updated ENBSeries to 0.494 (No version change)
+- Updated Lux to 6.3
+- Updated Embers XD to 2.8.6
+- Updated Diverse Candles - Base Object Swapper to 1.2b
+- Updated Misc Effects ENB Light to 1.6
+- Updated Animated Forge Water to 0.8
+- Updated Simplicity of Snow to 0.15
+- Updated Cathedral - 3D Mountain Flowers - Base Object Swapper to 0.1.22
+- Updated Unique Markarth Doors to 0.4
+- Updated Security Overhaul SKSE - Add-ons to 0.1.8
+- Updated Mysticism - A Magic Overhaul to 2.3.2
+- Updated Stormcrown - A Shout Overhaul to 1.1.10
+- Updated Simple Degradation to 1.5
+- Updated Apothecary - An Alchemy Overhaul to 1.3.6
+- Updated Apothecary Anniversary Update to 1.3
+- Updated Bandit Lines Expansion to 1.08
+- Updated Civil War Lines Expansion to 1.07
+- Updated Zim's Trainers Expansion to 1.2
+- Updated Blade and Blunt - A Combat Overhaul to 3.1.1
+- Updated Enemies Respect Encounter Zones to 1.4.1
+- Updated Ill Met Bolar's Oathblade to 1.2
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.2
+- Updated Container and Arrow Weight Restrictions to 3.0
+- Updated Simplest Horses to 0.9.5
+- Updated Headhunter - Bounties Redone to 1.51
+- Updated XP32 Maximum Skeleton Special Extended to 5.04
+- Updated Immersive Equipment Displays to 1.7.2
+- Updated Assorted Animation Fixes to 1.02
+- Updated Survival Mode Improved to 1.3.1
+- Updated Morthal Where's Wares to 1.1.4
+- Updated Spaghetti's Cities AIO - CotN Dawnstar Patch to 1.1
+- Updated Spaghetti's Cities AIO - CotN Winterhold Patch to 1.4
+- Updated Spaghetti's Cities AIO - CotN Falkreath Patch to 1.2
+- Updated Saints and Seducers - Mysticism Rebalance to 2.0
+- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.0
+- Updated College of Winterhold - Quest Expansion to 1.14
+- Updated House of Horrors - Quest Expansion to 1.11
+- Updated The Only Cure - Quest Expansion to 1.02
+- Updated NPC Animation Remix to 1.5
+- Updated Jarl Sitting Animation Replacer to 2.0
+- Updated lilebonymace's Patches to 2.33
+
+#### Outputs
+
+- Regenerated Synthesis - Sorcerer Patch
+- Regenerated Nemesis
+- Regenerated FaceGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.18.0.2
 
 > 2023-07-10

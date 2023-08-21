@@ -76,7 +76,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 #### Additional Reading
 
 - [_Survival Mode Improved_](https://www.nexusmods.com/skyrimspecialedition/mods/56374)  
-- [_Apothecary Food and Drink Addon_](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
+- [_Gourmet - A Cooking Overhaul_](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
 
 ## 3. Crafting
 
