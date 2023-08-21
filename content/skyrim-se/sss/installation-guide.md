@@ -68,7 +68,7 @@ Once you have set target folders for the **Installation Location** and **Downloa
 
 > You can follow along as Wabbajack installs the list. It will display summaries and links to the mods being installed. Don’t let the log worry you. Unless the installation is aborted completely the warnings are inconsequential.
 
-While Wabbajack runs perfectly fine most of the time, an installation may fail for various reasons. **If it does, try restarting Wabbajack first.** You will not lose progress as it will pick up where it left off. Should it fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `Slidikins' Strenuous Skyrim` role, and post your `wabbajack.current.log` in the `#sss-support` channel. You can find all Wabbajack logs in your Wabbajack folder under `\Wabbajack\logs\`.
+While Wabbajack runs perfectly fine most of the time, an installation may fail for various reasons. **If it does, try restarting Wabbajack first.** You will not lose progress as it will pick up where it left off. Should it fail again, please join us on [Discord](https://discord.gg/xRrHRsb5e9), grab the `Slidikins' Strenuous Skyrim` role, and post your `wabbajack.current.log` in the `#sss-support` channel. You can find all Wabbajack logs in your Wabbajack folder under `\Wabbajack\logs\`.
 
 ## Playing the Game
 
