@@ -212,13 +212,13 @@ You won't have much to your name starting out so you'll have to do things the ol
 
 ***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 25% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
 
-Another 100 Magicka won't mean too much to you but 25% Spell Absorption is a fantastic defensive boon. When stacked with high Magic Resistance and *Spell Sip*, enemy casters will be pests at best.
+Another 100 Magicka won't mean too much to you but 25% Spell Absorption is a fantastic defensive boon. When stacked with high Magic Resistance and *Spell Sip*, enemy casters will be nothing more than flies.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-serpent.webp">
 
 #### The Serpent
 
-***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits. *
+***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits.*
 
 Extra Poison Resistance isn't nothing but it's not what you're here for. A 50% duration boost on your already potent potions will save you plenty of vials in the long run.
 

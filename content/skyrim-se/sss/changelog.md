@@ -6,13 +6,66 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.4
+
+> 2023-08-23
+
+It was inevitable with so much time passing between updates: I missed some things. This update is much smaller than the last and mainly exists to clean up things that should've been in 4.18.0.3. The outstanding bugs I mentioned previously are still being looked into. None are game-breaking, don't worry.
+
+Some of you have also noticed that the two COTN Missives patches are present but disabled in the load order. This is intentional as enabling them makes the boards invisible in Falkreath and Winterhold. Until I figure out exactly why that happens, leaving the boards in their default spots is my solution.
+
+This update is save-safe.
+
+<details>
+
+#### Changes
+
+- **Script Fixes:** Removed MQ105SprintTriggerScript Fix
+- **Script Fixes:** Removed dunFolgunthurBossBattle Script Fix
+- **Script Fixes:** Removed Shroud Hearth Barrow Script Fix
+- **Script Fixes:** Removed The Taste of Death Improved Shutdown
+- **Script Fixes:** Removed Soul Cairn Script Tweaks
+- **Script Fixes:** Removed DLC2AudioRepeaterActivator01Script Tweak
+- **Script Fixes:** Removed DLC2TribalWerebearScript Fix
+- **Script Fixes:** Removed DLC2dunFrostmoonTriggerScript Optimization
+- **Script Fixes:** Removed DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- **Script Fixes:** Removed DLC2dunSeekerInvisScript Fix
+- **Script Fixes:** Removed DLC2MiraakScript Fix
+- **Script Fixes:** Added Scripts Carefully Reworked Optimized and Tactfully Enhanced
+- **Alchemy, Cooking, & Farming:** Added Gourmet - Hearthfire Crispy Dumplings Patch
+- **Content Integration:** Removed Bonemold Weapon Pack - NPC Distribution (redundant)
+- **Conflict Resolution:** Forwarded Madman changes for Nada Ildene `000133A0`
+- **Conflict Resolution:** Restored Magnitudes to Magelight `00043323` and Candlelight `00043324` to prevent issue with Player Spell Lighting
+- **Configuration:** Changed Contextual Crosshair's INI to force crosshair on for ranged weapons and spells as it was not consistent previously
+
+#### Updates
+
+- Updated DynDOLOD to Alpha-135
+- Updated The Taste of Death Improved Shutdown to 1.3.2
+- Updated DLC2TribalWerebearScript Fix to 1.0.2
+- Updated RemoveAllItems Freeze Fix to 1.1
+- Updated Photo Mode to 1.2
+- Updated NORDIC UI - Miscellaneous Patches to 1.8.2
+- Updated DynDOLOD - Resources to Alpha-39
+- Updated Word Wall Transparency Fix for ENB to 0.3
+- Updated OSHA-Compliant Sovngarde Mesh Fixes to 2.0
+- Updated Mundus - A Standing Stone Overhaul to 1.11
+- Updated Aetherius - A Race Overhaul to 2.11.8
+- Updated Aetherius - Starting Spells Addon to 2.0.1
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.7
+- Updated Madmen - A Forsworn Overhaul to 1.1
+- Updated Madmen - Patch Collection to 1.1
+- Updated COTN - Morthal - Patch Collection to 2.15
+
+</details>
+
 ## Release 4.18.0.3
 
 > 2023-08-21
 
 It's been awhile. I was away from home for work and during that time a number of interesting mods hit the Nexus, some of them are included in this update. [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) takes over for Apothecary's Food Addon. Not much has changed as far as how food works, but obtaining and making food has been overhauled quite a bit. From the author of Lawless - A Bandit Overhaul comes [Madmen - A Forsworn Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98579), bringing some of the same enemy design philosophies to the Reach as we have with draugr and bandits (and dragons)!
 
-Outside of that it's been a few quality of life or fixes added here or there. There are some bug reports I still wish to investigate but that would require more time. For now I wanted to get this update out to fix a number that have already been accounted for.
+Outside of that it's been a few quality of life or fixes added here or there. There are some bug reports I still wish to investigate but that would require more time. For now I wanted to get this update out to fix a number that has already been accounted for.
 
 <details>
 
