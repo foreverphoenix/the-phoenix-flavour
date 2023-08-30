@@ -6,6 +6,57 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.6.0
+
+> 30/08/2023
+
+I removed Vanilla Script (Micro) Optimizations at least for the time being. It seems to have some issues with the [adoption system](https://www.nexusmods.com/skyrimspecialedition/mods/92845) and the [latest version of the USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/96823) and I decided that these and possible other problems are not worth the minor improvements.
+
+- Added Load Order Checker
+- Added DPI Scaling Fix
+- Added Green Water Cubemap Fix
+- Added Simply Optimised Scripts AIO
+- Added MQ104PlayerScript Fix
+- Added Creep Cluster Collision Fixes
+- Added Death Hound Loading Screen Eye Fix
+- Added Load Screen Shading Fix
+- Added WIDeadBodyCleanupScript Crash Fix
+- Updated DynDOLOD to 3 Alpha 138
+- Updated powerofthree's Papyrus Extender to 5.6.1
+- Updated Base Object Swapper to 2.6.1
+- Updated Keyword Item Distributor to 3.0.4
+- Updated Formlist Manipulator to 1.7.1
+- Updated Universal Unwanted Effects Clearer to 0.3.1
+- Updated Unofficial Skyrim Creation Club Content Patch to 7.7
+- Updated Keyboard Shortcuts Fix to 1.0.0.4
+- Updated RemoveAllItems Freeze Fix to 1.1.0
+- Updated Assorted Mesh Fixes to 0.90
+- Updated DynDOLOD Resources to 3 Alpha 41
+- Updated DynDOLOD Scripts and DLL to 2.82.8 / 2.45
+- Updated DynDOLOD NG to 3 Alpha 12
+- Updated ENBSeries Binaries (no version number change)
+- Updated Particle Patch for ENB to 1.2.6
+- Updated Word Wall Transparency Fix for ENB to 0.3
+- Updated BodySlide and Outfit Studio to 5.6.3
+- Updated Assorted Animation Fixes to 1.02
+- Removed Rogue Master Detector
+- Removed Vanilla Script (Micro) Optimization
+- Removed dunFolgunthurBossBattle Script Fix
+- Removed Shroud Hearth Barrow Script Fix
+- Removed Soul Cairn Script Tweaks
+- Removed The Taste of Death Improved Shutdown
+- Removed DLC2TribalWerebearScript Fix
+- Removed DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Removed DLC2dunSeekerInvisScript Fix
+- Removed DLC2MiraakScript Fix
+- Removed DLC2dunFrostmoonTriggerScript Optimization
+- Removed DLC2PillarBuilderActorScript Tweak
+- Removed DLC2AudioRepeaterActivator01Script Tweak
+- Removed MQ105SprintTriggerScript Fix
+- Removed Hearthfire Creep Cluster Fix
+- Removed ENB IMOD Separator
+- Removed lilebonymace's Patches
+
 ## Release 2.5.0
 
 > 08/07/2023
