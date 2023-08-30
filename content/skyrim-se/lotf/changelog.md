@@ -6,6 +6,56 @@ description: >
   Update notes for Legends of the Frost.
 ---
 
+## Release 3.3
+
+> 30/08/2023
+
+Regenerating DynDOLOD with the latest version fixed the glowing lights in Raven Rock and possibly the missing windmill fan at Goldenhills Plantation (in the latter case I was never able to replicate the issue, but I did verify that the fan definitely shows up now).
+
+Documentation: Some improvements were made to the LOTF doc, including an updated screenshot for the Installation page and updated links for our new Discord server, [Aetherius Modding](https://discord.gg/xRrHRsb5e9).
+
+- Added Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix
+- Added USSEP Caravan Stuck Fix
+- Added DPI Scaling Fix
+- Added Green Water Cubemap Fix
+- Added Simply Optimized Scripts AIO
+- Added Water Blending
+- Updated powerofthree's Papyrus Extender to 5.6.1
+- Updated Keyword Item Distributor to 3.0.4
+- Updated Base Object Swapper to 2.6.1
+- Updated Universal Unwanted Effects Clearer to 0.3.1
+- Updated Unofficial Skyrim Creation Club Content Patch to 7.7
+- Updated Navigator - Navmesh Fixes to 1.4.7
+- Updated RemoveAllItems Freeze Fix to 1.1
+- Updated Assorted Mesh Fixes to 0.90
+- Updated Word Wall Transparency Fix for ENB to 0.3
+- Updated DynDOLOD Resources to 3 Alpha 41
+- Updated DynDOLOD Scripts and DLL (NG) to 3 Alpha 12
+- Updated LOD Model Library for DynDOLOD to 1.3.2
+- Updated Particle Patch for ENB to 1.2.6
+- Updated Community Shaders to 0.4.3
+- Updated Relighting Skyrim to 2.2
+- Updated Skyrim Remastered - Glaciers and Ice - IMR Edition to 1.30
+- Updated Run For Your Lives to 4.0.4
+- Updated Open Animation Replacer to 1.3
+- Updated Assorted Animation Fixes to 1.02
+- Updated CELL Record Overwrite
+- Removed dunFolgunthurBossBattle Script Fix
+- Removed Shroud Hearth Barrow Script Fix
+- Removed Soul Cairn Script Tweaks
+- Removed The Taste of Death Improved Shutdown
+- Removed DLC2TribalWerebearScript Fix
+- Removed DLCdunNchardakDoorSeal Script Infinite Loop Fix
+- Removed DLC2dunSeekerInvisScript Fix
+- Removed DLC2dunFrostmoonTriggerScript Optimisation
+- Removed DLC2PillarBuilderActorScript Tweak
+- Restored enemy widget below the compass (health, name, level)
+- Disabled the sped-up book-opening/page-turning animations from Convenient Reading
+- Disabled Fixed Mesh Lighting for the time being
+- Replaced Keyboard Shortcuts Fix with the original version of the mod
+- Created a blank ControlMap_Custom.txt for easier modification of hotkeys
+- Regenerated TexGen and DynDOLOD
+
 ## Release 3.2.2
 
 > 28/06/2023
