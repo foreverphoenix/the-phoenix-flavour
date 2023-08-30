@@ -61,6 +61,8 @@ I added LOOT because it can be quite useful for curating your own load order and
 - [Creation Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66329)
 - [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
 - [Kezyma's Profile Sync](https://www.nexusmods.com/skyrimspecialedition/mods/60690)
+- [MO2 Load Order Checker](https://www.nexusmods.com/site/mods/608)
+- [LOOT Warning Checker](https://www.nexusmods.com/site/mods/323)
 
 LOOT Preventifier (from LostDragonist's MO2 Plugins) was also included, but disabled by default.
 
@@ -68,7 +70,7 @@ Many of these plugins do nothing until they've been configured. Check their mod 
 
 ### SSEEdit
 
-Generated cache for SSEEdit will be saved to a "cache" folder within the SSEEdit installation directory (`Modding Essentials\Tools\SSEEdit\`), and plugin backups will be saved to a "backups" folder within the same directory. The prompt which warns about making changes to plugins was disabled with the `-IKnowWhatImDoing` argument.
+Generated cache for SSEEdit will be saved to a "cache" folder within the SSEEdit installation directory (`\Skyrim Modding Essentials\Tools\SSEEdit\`), and plugin backups will be saved to a "backups" folder within the same directory. The prompt which warns about making changes to plugins was disabled with the `-IKnowWhatImDoing` argument.
 
 The QuickAutoClean exe was also added with the `-DontCache` argument in case you wish to clean the official master files (without this argument, the cleaning would nuke parts of Apocrypha).
 

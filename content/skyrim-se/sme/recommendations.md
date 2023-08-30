@@ -58,7 +58,6 @@ Following initial feedback, I decided to completely cut all included fixes that 
 ### Mesh Fixes
 
 - [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957)
-- [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
 - [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027)
 - [Dlizzio's Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/39260)
 - [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120)

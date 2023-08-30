@@ -10,6 +10,8 @@ description: >
 
 The list was made for Skyrim SE 1.6.x, though the Anniversary Edition DLC is not required.
 
+Support is available on the [Aetherius Modding](https://discord.gg/xRrHRsb5e9) Discord server.
+
 ## Features
 
 Check the complete mod list and load order on [Load Order Library](https://loadorderlibrary.com/lists/skyrim-modding-essentials).
@@ -48,7 +50,7 @@ No, because I wanted to keep the list as lean as possible and because there is n
 
 **Can I suggest a mod for inclusion?**
 
-Yes, you can! Please do so on our [Discord Server](https://discord.gg/xCPxJFbCTS) and be aware that the likelihood that I will say "no" is quite high. Because this list has to provide a good base for *any* setup, the criteria for new additions are quite strict.
+Yes, you can! Please do so on our [Discord Server](https://discord.gg/xRrHRsb5e9) and be aware that the likelihood that I will say "no" is quite high. Because this list has to provide a good base for *any* setup, the criteria for new additions are quite strict.
 
 #### Why isn't X mod included?
 
