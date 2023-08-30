@@ -18,9 +18,9 @@ description: >
 
 ### Disk Space
 
-**Legends of the Frost** currently requires **~34GB** of free disk space for the list installation and another **~26GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
+**Legends of the Frost** currently requires **~36GB** of free disk space for the list installation and another **~24GB** for the downloaded archives. It is recommended to install LOTF on an **SSD**.
 
-The initial installation process will be faster if the downloaded archives are also on an SSD. They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list. If you delete them, you will have to redownload them if you want to update LOTF so it's recommended to keep them.
+The initial installation process will be faster if the downloaded archives are also on an SSD. They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list. If you delete them, you will have to redownload them if you want to update LOTF so it is recommended that you keep them.
 
 ### MO2 Prerequisites
 
@@ -63,9 +63,7 @@ Other game files are located inside the so-called **INI Folder** which should be
 
 The reinstallation also serves the purpose of relocating the game files to a better directory. Using UAC protected folders (such as `C:\Program Files\` or `C:\Program Files x86\`) for the game or any modding tools has a risk of causing issues down the line. It is best to avoid those folders to begin with.
 
-> Most Wabbajack list curators, myself included, will not provide support for people that disregard this warning and use UAC protected folders anyway.
-
-Note that this does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam\` which is completely fine.
+> This does not include the Steam client. Most people will have it installed under `C:\Program Files x86\Steam\` which is completely fine.
 
 Skyrim SE and Legends of the Frost (Mod Organizer 2) should be installed on the same hard drive. Ideally that hard drive would be an SSD to reduce loading times and eliminate stuttering.
 
@@ -147,7 +145,7 @@ You can now install LOTF through Wabbajack:
 
 In the installation window, you will need to define two folders:
 
-**Installation Location** is where LOTF will be installed to. Choose a high-level folder such as `C:\Legends of the Frost\` that is outside UAC protected folders (Program Files, Documents, etc).
+**Installation Location** is where LOTF will be installed to. Choose a high-level folder such as `G:\Legends of the Frost\` that is outside UAC protected folders (Program Files, Documents, etc). This <u>cannot</u> be inside the Wabbajack folder itself.
 
 **Download Location** is where the downloaded mod archives will be stored. By default, they will be placed within your main LOTF folder, but you can change the file path if you want to keep the files elsewhere.
 
@@ -163,7 +161,7 @@ If you only have a free Nexus account, Wabbajack will open the mod pages for you
 
 You can follow along as Wabbajack installs the list. It will display previews with summaries and links to the mods being installed. Don't let the log irritate you. Unless the installation is aborted completely, you don't have to worry about any warnings.
 
-**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@LOTF` role, and post your `wabbajack.current.log` in the `#lotf-support` channel. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
+**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xRrHRsb5e9) and post your `wabbajack.current.log` in the `#lotf-support` forum. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 

@@ -8,31 +8,25 @@ description: >
 
 ## Are LOTF updates save-safe / can I continue my playthrough?
 
-All LOTF updates will be, for the time being, save-safe and you can continue your playthrough after updating. This is due to the fact that I am myself doing a full playthrough with the setup.
-
-~~I anticipate that this will last for the entire of the 2.x era during which I am gradually adding all Creation Club content. After that I have some ideas and plans for a 3.0 update which may well require a new game when it comes - but that is quite far in the future.~~
-
-**3.0 requires a new save**; however, subsequent 3.x releases should all be save safe.
+If an update requires a new save this is noted in the changelog.
 
 ## How can I improve performance / increase my frame rate?
 
-There are several options.
-
-If you mostly have some issues with frame drops in exteriors, I recommend replacing your INIs with the performance set. You can find instructions for that [here](/lotf/customisation/#performance-inis). If this does not help enough, I recommend swapping to the Performance profile in MO2.
+I recommend replacing your INIs with the performance set. You can find instructions for that [here](/lotf/customisation/#performance-inis).
 
 ## I encountered a bug / issue / inconsistency. What do I do?
 
-Please join us on [Discord](https://discord.gg/xCPxJFbCTS) and grab the **@Legends of the Frost** role. Post about what you encountered in the `#lotf-support` channel in the Legends of the Frost section. Add screenshot(s) if appropriate.
+Please join us on [Discord](https://discord.gg/xRrHRsb5e9) and post about what you encountered in the `#lotf-support` forum. Add screenshots if possible.
 
-If there is no immediate response, please be patient. I or someone else will respond to you when we're around.
+If there is no immediate response, please be patient. I or someone else will respond to you when we can.
 
 ## Oh no, the game crashed! What do I do?
 
 Generally speaking, a single random crash is no cause for worry. I usually start investigating if there is a second crash within a few hours or the crash is repeatable. That being said, I have had no crashes at all in some 90 hours of playing LOTF, so any crash reports are welcome.
 
-- To submit crash reports, please join us on [Discord](https://discord.gg/xCPxJFbCTS) and grab the **@Legends of the Frost** role.
-- Find the `#lotf-support` channel in the Legends of the Frost section.
-- Drop your most recent crashlog `Crash-202x-xxxx.txt` into this channel.
+- To submit crash reports, please join us on [Discord](https://discord.gg/xRrHRsb5e9).
+- Find the `#lotf-support` forum and create a new post.
+- Add your most recent crashlog `Crash-202x-xxxx.txt` to the post.
 - Briefly describe the circumstances under which it happened.
 
 Crash logs can be found inside the `/NetScriptFramework/Crash/` folder in the **Overwrite**. You can find the **Overwrite** by scrolling all the way down in Mod Organizers' left pane.
@@ -59,5 +53,3 @@ That being said, modding is fun and you should learn it! There are some great re
 - [Lively's Wiki](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md)
 - [ModdingSkyrim](https://moddingskyrim.com/)
 - [Darkfox217](https://www.youtube.com/c/Darkfox127/playlists) (Creation Kit videos)
-- GamerPoets: [How to use MO2](https://www.youtube.com/playlist?list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
-- GamerPoets: [How to use xEdit](https://www.youtube.com/playlist?list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V)

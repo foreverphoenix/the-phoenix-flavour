@@ -15,7 +15,8 @@ description: >
 - **LOTF** is a small list in scope, strictly limited to fixing vanilla annoyances.
 - **LOTF** features better distant terrain, sharper textures, and improved combat.
 - **LOTF** is lightly customisable, including performance, interface, and gameplay adjustments.
-- **LOTF** will not receive updates requiring a new save for the forseeable future.
+
+> Support for LOTF is provided on the [Aetherius Modding](https://discord.gg/xRrHRsb5e9) Discord server. Please post in the #lotf-support forum.
 
 ### Features
 
