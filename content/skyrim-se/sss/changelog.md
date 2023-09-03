@@ -6,15 +6,78 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.5
+
+> 2023-09-03
+
+Another small maintenance update while time allows. Among the mod updates is a notable change to *Dragon War* and the inclusion of Delta's newest mod, [*Dragon Hunting*](https://www.nexusmods.com/skyrimspecialedition/mods/99193), which adds a few more alchemical ingredients to the giant lizards of Skyrim among other changes.
+
+As *Aurora* has not yet updated, certain visual releases such as Xavbio's most recent armor retextures have not been included in this update, but they may be coming soon. In the meantime I'll continue looking into any issues that crop up. So if you find any, please come to the [Aetherius Modding](https://discord.gg/xRrHRsb5e9) server and let me know!
+
+**This update is save-safe.**
+
+<details>
+
+#### Changes
+- Applied changes from [Skyrim Modding Essentials 2.6.0](https://thephoenixflavour.com/skyrim-se/sme/changelog/#release-260)
+- **General Fixes:** Added Excuse Me I'm Sliding Here
+- **Script Fixes:** Removed USSEP Caravan Bug Workaround
+- **Script Fixes:** Removed WE05 Script Fix (redundant)
+- **Food & Ingredients:** Added Bottles of Skyrim - Gourmet Patch
+- **Skeleton & Animations:** Added Paired Animation Improvements
+- **Survival & Fishing:** Added Baited - A Fishing Artifact Overhaul
+- **New & Expanded Quests:** Added Dragon Hunting
+- **New & Expanded Quests:** Added Dragon Hunting - Apothecary Patch
+- **New & Expanded Quests:** Added Dragon Hunting - Paarthurnax Quest Expansion Patch
+- **New & Expanded Quests:** Added Dragon Hunting - AYOPCoW Patch
+- **New Animations:** Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- **Conflict Resolution:** Resolved conflicts between Fishing artifact adjustments
+- **Conflict Resolution:** Resolved conflict betweeen ElSopa's Potions Redone and Dragon Hunting on Dragon Infusion `000E6DF5`
+
+#### Updates
+
+- Updated DynDOLOD to Alpha-140
+- Updated Keyword Item Distributor to 3.0.4
+- Updated Base Object Swapper to 2.6.1
+- Updated Navigator - Navmesh Fixes to 1.5
+- Updated Zero Bounty Hostility Fix to 0.3
+- Updated Simply Optimized Scripts to 1.0.1
+- Updated Skill of Sneaking to 1.1
+- Updated DynDOLOD - Resources to Alpha-42
+- Updated DynDOLOD - NG to Alpha-12
+- Updated LOD Model Library for DynDOLOD to 1.3.2
+- Updated Particle Patch for ENB to 1.2.6
+- Updated Embers XD to 2.8.8
+- Updated Simple Degradation to 1.5.1
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.8
+- Updated Dragon War - A Dragon Overhaul to 3.1.1
+- Updated Dragon War - Deadly Spell Impacts Patch  to 3.1.1
+- Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.1.1
+- Updated The Dragon Cult - A Draugr Overhaul to 1.4
+- Updated Trade & Barter to 2.1
+- Updated Immersive Death Cycle to 1.01
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.1.1
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.1.1
+- Updated Open Animation Replacer to 2.0.2
+- Updated Open Animation Replacer - IED Conditions to 1.0.2
+- Updated Immersive Equipment Displays to 1.7.3
+- Updated Icy Windhelm to 2.3
+- Updated House of Horrors - Quest Expansion to 1.12
+
+#### Outputs
+- Regenerated Slidikins' Strenuous Skyrim - Landscape Patch
+
+</details>
+
 ## Release 4.18.0.4
 
 > 2023-08-23
 
 It was inevitable with so much time passing between updates: I missed some things. This update is much smaller than the last and mainly exists to clean up things that should've been in 4.18.0.3. The outstanding bugs I mentioned previously are still being looked into. None are game-breaking, don't worry.
 
-Some of you have also noticed that the two COTN Missives patches are present but disabled in the load order. This is intentional as enabling them makes the boards invisible in Falkreath and Winterhold. Until I figure out exactly why that happens, leaving the boards in their default spots is my solution.
-
 This update is save-safe.
+
+\* If you downloaded this update early, you may notice that the two COTN Missives patches are present but disabled in the load order. This was intentional as enabling them made the boards invisible in Falkreath and Winterhold. The cause of this was the rogue master, `Missives.esp`, coming after the patches in the load order. If you move both plugins down in priority to be after `Missives.esp`, you may re-enable them.
 
 <details>
 
@@ -113,6 +176,7 @@ Outside of that it's been a few quality of life or fixes added here or there. Th
 - **New Items:** Removed Actual Sweet Roll Variants - Apothecary Food Patch
 - **New Items:** Removed Actual Sweet Roll Variants - TPF Patch
 - **New Items:** Removed aMidianBorn Armor Variants Lite - Guard Dialogue Overhaul Patch
+- **New Items:** Added aMidianBorn Armor Variants Lite - Modular Armory and Wolf Armors and Weapons Retextured Patch
 - **New Items:** Added Actual Sweet Roll Variants - Gourmet Patch
 - **New Creatures and Enemies:** Removed Forsworn Gravesingers
 - **New Creatures and Enemies:** Removed Forsworn Skinchangers
@@ -120,6 +184,7 @@ Outside of that it's been a few quality of life or fixes added here or there. Th
 - **Content Integration:** Added Gourmet - Tamrielic Distribution & Hand to Hand Patch
 - **Content Integration:** Added Gourmet - Tamrielic Distribution & Rare Curios Patch
 - **Conflict Resolution:** Removed fJumpFallHeightMinNPC `000EC6C1` changes
+- **Conflict Resolution:** Removed edits to LItemFoodInnCommon `00098E5F` and LItemFoodInnCommon10 `0010E0E1`
 - **Conflict Resolution:** Removed various edits to removed Food and Drink mods
 
 #### Updates
