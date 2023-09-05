@@ -6,6 +6,34 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.9
+
+> TBD
+
+Because Diamond City Radio Extended was updated you need to restart its quest. Open the console and run the following commands:
+
+```
+stopquest radiodiamondcity
+startquest radiodiamondcity
+```
+
+- Added Deliverer Glow Sights Fix
+- Added Guard Post Animation Tweak - No More Finger Guns
+- Added Thicket Excavations Sign
+- Added Fabulous Fire Extinguisher
+- Added Colorful Disco Ball
+- Updated Buffout 4 to 1.28.6
+- Updated Workshop Framework to 2.3.12
+- Updated Ultimate Window Overhaul Redone to 1.4.4
+- Updated Baka Wait Anywhere to 1.4
+- Updated Perk Up - Lightweight Perk Overhaul to 1.5
+- Updated Perennial Power Armor - Lightweight Power Armor Rebalance to 1.3
+- Updated Diamond City Radio Extended to 5.01
+- Updated Discord Rich Presence to 5
+- Updated Previsibines Repair Pack - Main to 69
+- Updated Previsibines Repair Pack - Updates to 69.5.1
+- Removed Previsibines Repair Pack - LOST Audio Tweaks Patch (no longer needed)
+
 ## Release 2.8.2
 
 > 23/05/2023
