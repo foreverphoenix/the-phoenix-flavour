@@ -6,6 +6,41 @@ description: >
   Update notes for Skyrim Modding Essentials.
 ---
 
+## Release 2.6.1
+
+> 05/09/2023
+
+From this version onwards, SME needs to come with a Nemesis output for First Person Animation Teleport Bug Fix.
+
+The full documentation for the list is now available on the Nexus.
+
+#### Mod Changes
+
+- Added Container Item Distributor
+- Added KiLoader for Skyrim
+- Added Optional Quick Start (disabled by default)
+- Added Switch Camera During Dialogue
+- Added Vampire Loading Screen Eye Fix
+- Added ENB Extender for Skyrim (disabled by default)
+- Added First Person Animation Teleport Bug Fix
+- Added Paired Animation Improvements
+- Updated Synthesis to 0.26
+- Updated DynDOLOD to 3 Alpha 142
+- Updated Simply Optimised Scripts AIO to 1.0.1
+- Updated DynDOLOD Resources to 3 Alpha 42
+- Updated Open Animation Replacer to 2.0.2
+- Removed MQ105SprintTriggerScript Fix
+- Created new **SkyUI** separator
+- Separated **Utilities & Frameworks** separators
+- Renamed **Essential Mods** >> **Essentials**
+- Renamed **Console Improvements** >> **Console**
+- Renamed **Better Controls** >> **Controls**
+- Renamed **Skeleton & Animations** >> **Animations**
+- Moved MCM Helper to **Frameworks**
+- Moved RaceMenu to **Utilities**
+- Fixed DynDOLOD NG missing the `WABBAJACK_ALWAYS_ENABLE` flag
+- Generated Nemesis output (for First Person Animation Teleport Bug Fix)
+
 ## Release 2.6.0
 
 > 30/08/2023
