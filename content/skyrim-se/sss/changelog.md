@@ -6,6 +6,49 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.6
+
+> 2023-09-08
+
+Oh joyous days! [DroppedIceCream released a showcase and review](https://www.youtube.com/watch?v=bTG1vVzgsFM) of this list! Go check it out! Of the many things said that made me happy, hearing that it was one of the most stable lists he's tried made me especially proud. That said,  *Skill of Sneaking* currently causes crashes so I'm releasing an update to roll that back to a stable version. Sorry, sneaky folks!
+
+Fortunately, Aurora updated in the last few days which means this update also gives you Xavbio's newest retextures, Yuril's [Windhelm Graveyard](https://www.nexusmods.com/skyrimspecialedition/mods/98260), and a few more fixes from SME. I also went through Aurora mod by mod and found a few small differences between the lists that were unintentional. Those have been fixed. Sadly, *Ethereal Elven Overhaul* was removed for neck seam issues so the FaceGen files needed to be regenerated yet again.
+
+**This update is save-safe.**
+
+<details>
+
+#### Changes
+
+- Applied changes from [Skyrim Modding Essentials 2.6.1](https://thephoenixflavour.com/skyrim-se/sme/changelog/#release-261) and [Aurora 1.5.0](https://thephoenixflavour.com/skyrim-se/aur/changelog/#release-150)
+- **Texture & Mesh Fixes:** Removed Windhelm Entrance Offset Fix
+- **Architeture:** Added FYX - Windhelm Graveyard - Spaghetti Patch
+- **New Animations:** Removed Vanargand Animations - Female Idle Walk And Run
+- **New Animations:** Added Vanargand Animations II - Female Idle Walk And Run
+- **New Music:** Added Yet Another Music Merge - ECSS Patch
+
+#### Updates
+
+- Updated DynDOLOD to Alpha-142
+- Updated Crash Logger to 1.10
+- Updated Navigator - Navmesh Fixes to 1.5.1
+- Downgraded Skill of Sneaking to 1.0.3
+- Updated Embers XD to 2.8.9
+- Updated Misc Effects ENB Light to 1.6.1
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9
+- Updated Dragon War - A Dragon Overhaul to 3.1.2 (1191)
+- Updated Dragon War - Deadly Spell Impacts Patch  to 3.1.2
+- Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.1.2
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.1.2
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.1.2
+
+#### Outputs
+
+- Regenerated Nemesis
+- Regenerated FaceGen
+
+</details>
+
 ## Release 4.18.0.5
 
 > 2023-09-03
