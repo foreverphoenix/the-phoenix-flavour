@@ -96,7 +96,7 @@ If you only have a free Nexus account, Wabbajack will open the mod pages for you
 
 You can follow along as Wabbajack installs the list. It will display previews with summaries and links to the mods being installed. Don't let the log irritate you. Unless the installation is aborted completely, you don't have to worry about any warnings.
 
-**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xCPxJFbCTS), grab the `@Aurora` role, create a post in the `#aurora-forum`, and share your `wabbajack.current.log`. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\<version number>\logs\`.
+**In case the installation does fail:** Try restarting Wabbajack first. You will not lose progress as the tool will pick up where it left off. Should the installation fail again, please join us on [Discord](https://discord.gg/xRrHRsb5e9), grab the `@Aurora` role, create a post in the `#aurora-forum`, and share your `wabbajack.current.log`. You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\<version number>\logs\`.
 
 In most cases the installation should complete successfully on the first try. The tool will let you know when it has.
 
