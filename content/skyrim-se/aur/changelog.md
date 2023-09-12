@@ -6,6 +6,8 @@ description: >
   Update notes for Aurora.
 ---
 
+*Changelogs on this page are taken from my personal documentation, hence the formatting. Full documentation including changelogs with functional links is available as an [Obsidian MD](https://obsidian.md/) vault on the Aurora Nexus page.*
+
 ## Release 1.5.0
 
 > 05/09/2023
@@ -17,8 +19,6 @@ With this update, I am removing AUR-X (the optional mods) from Aurora. Some of t
 Aurora now includes some changes to vanilla keybinds. Check the [[ingame-hotkeys]] documentation for details.
 
 Regarding [[ethereal-elven-overhaul]], it became clear that fixing the neck seam issues would require skin colour tweaks (see linked page for details). For vanilla NPCs, these are included in the full EEO plugin, along with various other changes. Concerns about consistency with mod-added NPCs and the possibility of them having neck seams as well caused me to drop the mod.
-
-(Full documentation including changelogs with functional links is available as an [Obsidian MD](https://obsidian.md/) vault on the Aurora Nexus page.)
 
 #### Additions
 
