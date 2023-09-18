@@ -6,6 +6,46 @@ description: >
   Update notes for all non-Beta versions.
 ---
 
+## Release 2.8.3
+
+> 18/09/2023
+
+This update should be save-safe.
+
+Because Diamond City Radio Extended was updated you need to restart its quest. Open the console and run the following commands:
+
+```
+stopquest radiodiamondcity
+startquest radiodiamondcity
+```
+
+I fixed various item naming rule issues (melee weapon mods not being separated from weapon name, Silver Submachine Gun, Heavy/Sturdy ruleset being above legendary for armor, Vault-Tec Workshop pipboys). Unfortunately, these will not work retroactively; however, you can manually add tags to your armors, weapons, and clothing by renaming them at a workbench.
+
+A tweak was added to significantly reduce the chance of finding empty ammo containers.
+
+- Added BSA Extractor 2
+- Added Deliverer Glow Sights Fix
+- Added Guard Post Animation Tweak - No More Finger Guns
+- Added Thicket Excavations Sign
+- Added Fabulous Fire Extinguisher
+- Added Colorful Disco Ball
+- Added WTP - More Ammo
+- Added Baka Fullscreen Pip-Boy and Quick-Boy (optional, disabled by default)
+- Added Realistic Movement Speed (optional, disabled by default)
+- Updated ENBSeries Binaries to 0.489
+- Updated Buffout 4 to 1.28.6
+- Updated Workshop Framework to 2.3.13
+- Updated Ultimate Window Overhaul Redone to 1.4.4
+- Updated Baka Wait Anywhere to 1.4
+- Updated Perk Up - Lightweight Perk Overhaul to 1.5
+- Updated Perennial Power Armor - Lightweight Power Armor Rebalance to 1.3
+- Updated Diamond City Radio Extended to 5.01
+- Updated Discord Rich Presence to 5
+- Updated Previsibines Repair Pack - Main to 69
+- Updated Previsibines Repair Pack - Updates to 69.5.1
+- Removed Previsibines Repair Pack - LOST Audio Tweaks Patch (no longer needed)
+- Reinstalled F4SE
+
 ## Release 2.8.2
 
 > 23/05/2023

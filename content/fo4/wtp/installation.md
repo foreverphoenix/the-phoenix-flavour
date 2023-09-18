@@ -173,7 +173,7 @@ I strongly recommend changing the **Download Location** to a folder on a hard dr
 
 **After filling in the installation and download directories, click the Start button on the left.** If you have Nexus Premium, you can lean back while Wabbajack downloads the required mod files and installs the setup. Otherwise, you will have to click through the mod pages and download manually (Wabbajack will guide you).
 
-Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `\Wabbajack\<version number>\logs\`. Upload it (drag and drop) into the `#wtp-support` channel on our [Discord server](https://discord.com/invite/BpwXX5f).
+Should anything go wrong during the installation process, please find the **Wabbajack.current.log** file inside `\Wabbajack\<version number>\logs\`. Create a new post in the `#wtp-support` forum on our [Discord server](https://discord.com/invite/xRrHRsb5e9) and upload the log there.
 
 Once the download and installation process has finished successfully, Wabbajack will inform you about it and you can proceed.
 
