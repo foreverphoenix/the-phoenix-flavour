@@ -13,7 +13,7 @@ description: >
 
 WTP comes with an extensive documentation (of which you are reading the Introduction right now) and you are expected to read all pages in the **Installation** section as well as the **Mod Config** page.
 
-- Join us on the official [Discord server](https://discord.gg/xCPxJFbCTS) for support, feedback, and modding discussions.
+- Join us on the official [Discord server](https://discord.gg/xRrHRsb5e9) for support, feedback, and modding discussions.
 - You can find a list of all included mods on the [Load Order Library](https://loadorderlibrary.com/lists/welcome-to-paradise) page.
 - Support me on [Patreon](https://www.patreon.com/thephoenixflavour) or donate via [PayPal](https://www.paypal.com/paypalme/ThePhoenixFlavour?locale.x=de_DE).
 
