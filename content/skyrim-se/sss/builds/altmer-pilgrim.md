@@ -32,7 +32,7 @@ Highborn: Your Magicka is increased by 50 and your Magicka Regeneration is incre
   * **Magicka:** 2
   * **Stamina:** 4
 
-The Pilgrim is a stalwart fighter, standing with conviction on the front lines with a mace in one hand and a shield in the other. In that sense they play not unlike your typical sword and board character, however they utilize Restoration to imbue themselves with buffing magic and Speech to make the most from their newfound shouting abilities. Speech will also help the Pilgrim make money and, with a little bit of Smithing chops, generate some lucrative business. The Pilgrim struggles with ranged combat, typically relying on un-perked options when forced to fight at a distance. Worshippers of Auri-El can eliminate that weakness later in their adventure, others will have to find other solutions such as shouts or carrying bows.
+The Pilgrim is a stalwart fighter, standing with conviction on the front lines with a mace in one hand and a shield in the other. In that sense they play not unlike your typical sword and board character, however they utilize Restoration to imbue themselves with buffing magic and Speech to make the most from their newfound shouting abilities. Speech will also help the Pilgrim make money and, with a little bit of Smithing chops, generate some lucrative business. The Pilgrim struggles with ranged combat, typically relying on un-perked options when forced to fight at a distance. Worshippers of Auri-El can eliminate that weakness later in their adventure; others will have to find other solutions such as shouts or carrying bows.
 
 ## Perks
 
@@ -182,7 +182,7 @@ If anything threatens the knowledge held within Skyrim it'll have to get through
  
 #### Restoration
 
-*Duration buffs for your most-used spells and even more Health Regeneration.**
+*Duration buffs for your most-used spells and even more Health Regeneration.*
 
 * **Repose (60):** Regeneration, Attunement, and Circle spells last twice as long.
 * **Recovery 2 (70):** Healing spells are 100% stronger.
@@ -303,6 +303,7 @@ Restoration is the only school of magic truly utilized by the Pilgrim and most o
 * **Mul:** *Increases Armor Rating by 50 for 600 seconds.*
 * **Qah:** *Increases Armor Rating by 100 for 600 seconds.*
 * **Diiv:** *Increases Armor Rating by 100 and Magic Resistance by 25% for 600 seconds.*
+* **Meditation:** *Dragon Aspect does not trigger a Shout cooldown.*
 
 You're a pretty stalwart fighter and this shout makes you even moreso. The meditation will remove the shout cooldown completely, and *Epistolary Acumen* can bolster it further however you need.
 

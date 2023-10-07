@@ -6,6 +6,101 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.18.0.7
+
+> 2023-10-07
+
+We might as well call this the [*Artificer*](https://www.nexusmods.com/skyrimspecialedition/mods/99619) Update. Simon's newest overhaul tackles the Unique Artifacts of the game which required a bit of reconfiguring on my part. It also clashes with *Weapons Armor Clothing and Clutter Fixes'* changes, though since it's just on unique items it's not the biggest problem in the world. Anyway, in cases where Artificer kept vanilla values, I carried over the WACCF changes. But if Artificer rebalanced the item altogether, chances are I went with Simon's changes. Until there's an official patch saying otherwise, that's how I handled the conflicts and I'll likely make tweaks to this in future patches.
+
+I also did some cleaning up to match *Aurora's* previous removal of optional sections. I kept all of the mods I personally used and moved them to respective sections. Last but not least, I added [*Dremora Lines Expansion*](https://www.nexusmods.com/skyrimspecialedition/mods/100562) to give them some well-needed dialogue attention. Other than that, the update is full of mod updates and minor bug fixes.
+
+**This update is save-safe.**
+
+> **Pro-tip:** Artificer's Oghma Infinium grants two extra perk points when read, raising the maximum number of perks to 57 for those who progress through the main quest to that point. This may be a valuable bump for most builds.
+
+<details>
+
+#### Changes
+
+- **Controls:** Removed Sprint Swimming
+- **Controls:** Removed Sprint Swimming MCM
+- **Widescreen Support:** Replaced Constructible Object Custom Keyword System - 21x9 Aspect Ratio Support with a working alternative
+- **Undead, Daedra, & Dragons:** Added Additional Dremora Faces
+- **Undead, Daedra, & Dragons:** Added Additional Dremora Faces - Mysticism Patch
+- **Alternative Assets:** Moved Flame Atronach to Undead, Daedra, & Dragons
+- **Alternative Assets:** Moved Deiform Alduin and patches to Undead, Daedra, & Dragons
+- **Alternative Assets:** Cathedral - 3D Thicket and Dead Shrub to Improved Trees
+- **Alternative Assets:** Removed section including remaining mods
+- **Ancient Dwemer Metal:** Removed optional section entirely
+- **Crafting:** Added Artificer - An Artifact Overhaul
+- **Crafting:** Added Artificer - USSEP Patch
+- **Crafting:** Added Artificer - Xavbio Textures Addon
+- **Crafting:** Added Artificer - Xavbio Textures Addon - Old Gods Patch
+- **Crafting:** Added Artificer - Unique Uniques Patch, modifying to match Unique Uniques Re-Ported
+- **Crafting:** Added Artificer - Dragon Priest Staves
+- **NPC Dialogue & Behavior:** Added Dremora Lines Expansion
+- **NPC Dialogue & Behavior:** Adjusted AI Overhaul - TPF Patch to reflect recent changes
+- **Quest Start Adjustments:** Added The Choice is Yours - NGCDT Patch
+- **Survival & Fishing:** Removed Mysticism - Survival Spells Addon
+- **Survival & Fishing:** Added Starfrost - Survival Spells Addon
+- **Faction HQs:** Added aljo's Apothecary Patches - OCW Patch
+- **New Animations:** Removed Vanargand Animations - Sprint
+- **New Animations:** Removed Vanargand Animations - Male Idle Walk and Run
+- **New Animations:** Added Vanargand Animations II - Sprint
+- **New Animations:** Added Vanargand Animations II - Male Idle Walk And Run
+- **Final Patches:** Updated Unique Artifacts Patch to account for Artificer's inclusion
+- **Conflict Resolution:** Copied MiddenVelehk's `00075C7F` appearance from Additional Dremora Faces
+- **Configuration:** Fixed a handful of values in the SkyrimUncapper.ini, these were erroneously overwritten by an automatic update to the file.
+
+#### Updates
+
+- Updated Root Builder to 4.5.1
+- Updated DynDOLOD to Alpha-152
+- Updated Spell Perk Item Distributor to 6.6.2
+- Updated Container Item Distributor to 1.1.4
+- Updated Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI to 2.1.1
+- Updated NPCs Names Distributor to 2.4
+- Updated powerofthree's Tweaks to 1.8.1
+- Updated Navigator - Navmesh Fixes to 1.5.3
+- Updated Mannequin Management to 4.1
+- Updated CritterSpawn Congestion Fix to 1.5
+- Updated Skyrim Landscape and Water Fixes to 8.1.1
+- Updated DynDOLOD - Resources to Alpha-45
+- Updated Skyland AIO to 4.31
+- Updated OSHA-Compliant Sovngarde Mesh Fixes to 2.2
+- Updated Snowy Surfaces Sound Collision and Aesthetics to 1.6.5
+- Updated Simple Snow Improvements - Skyrim to 2.1
+- Updated Mysticism - A Magic Overhaul to 2.3.3
+- Updated Adamant - A Perk Overhaul to 5.8.4
+- Updated True Directional Movement - Modernized Third Person Gameplay 10 2.2.4
+- Updated Better Third Person Selection to 0.5.9
+- Updated Apothecary - An Alchemy Overhaul to 1.3.7
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.4
+- Updated AI Overhaul to 1.8.4
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9.1
+- Updated The Dragon Cult - A Draugr Overhaul to 1.4.1
+- Updated Dragon War - A Dragon Overhaul to 3.1.3
+- Updated Dragon War - Deadly Spell Impacts Patch  to 3.1.3
+- Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.1.3
+- Updated Immersive Death Cycle to 1.02
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.1.3
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.1.2
+- Updated Baited - A Fishing Artifact Overhaul to 1.1
+- Updated COTN - Falkreath - Patch Collection to 1.20
+- Updated COTN - Dawnstar - Patch Collection to 4.6 (no real changes)
+- Updated Anga's Mill - Cities of the North Addon Patch Collection to 1.2
+- Updated Hand to Hand - An Adamant Addon to 1.5.6
+- Updated NPC Animation Remix to 1.6.2
+- Updated SD's Lotta Patches to 2023.9.27
+
+#### Outputs
+
+- Regenerated FaceGen (again, sorry!)
+- Regenerated Slidikins' Strenuous Skyrim - Sorcerer Patch
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.18.0.6
 
 > 2023-09-08
@@ -36,7 +131,7 @@ Fortunately, Aurora updated in the last few days which means this update also gi
 - Updated Embers XD to 2.8.9
 - Updated Misc Effects ENB Light to 1.6.1
 - Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9
-- Updated Dragon War - A Dragon Overhaul to 3.1.2 (1191)
+- Updated Dragon War - A Dragon Overhaul to 3.1.2
 - Updated Dragon War - Deadly Spell Impacts Patch  to 3.1.2
 - Updated Dragon War - Deiform Alduin Particle Lights Patch to 3.1.2
 - Updated Dragon War - Durnehviir Resurrected Patch to 3.1.2

@@ -3,7 +3,7 @@ title: "Redguard Barbarian"
 weight: 3
 type: docs
 description: >
-  *The finest steel has to go through the hottest fire.*
+  *There is a lightning that never goes out.*
 ---
 
 ![Redguard Barbarian](/Pictures/sss/builds/redguard-barbarian.png)
@@ -136,7 +136,6 @@ By now you're back on your feet and itching to give the Empire a proper fight. U
 
 * **Blacksmith (30):** You can temper all items by one additional tier.
 * **Journeyman Smithing (40):** You can create Dwarven, Scaled, and Steel Plate items at any forge.
-
 * **Craftsman 2 (50):** You can temper all items by two additional tiers.
 * **Rare Smithing (60):** You can create Elven items at any forge.
 * **Armorer (70):** You can temper all items by one additional tier.

@@ -34,7 +34,7 @@ Spell Warding: Your Magic Resistance is increased by 25%, and you have a 15% cha
   * **Magicka:** 1
   * **Stamina:** 2
 
-The Breton Warrior is a juggernaut. Clad in heavy armor with an extra layer of Alteration magic alongside the innate protection of a Breton, it's nigh impossible to attain higher defenses. Once secured, you're free to cut your enemies down one by one, or in groups with cleaving power attacks. When your targets are out of reach, take out your crossbolt and pelt them with bolts until they're no longer a threat.
+The Breton Warrior is a juggernaut. Clad in heavy armor with an extra layer of Alteration magic alongside the innate protection of a Breton, it's nigh impossible to attain higher defenses. Once secured, you're free to cut your enemies down one by one, or in groups with cleaving power attacks. When your targets are out of reach, take out your crossbow and pelt them with bolts until they're no longer a threat.
 
 ## Perks
 
@@ -175,7 +175,7 @@ No mere man or mer can stand up to you as you are. The knightly orders back home
 
 #### Block
 
-*Bashing your opponents back before sweeping them away with a wide cut.*
+*Bash your opponents back before sweeping them away with a wide cut.*
 
 * **Disorienting Bash (60):** Bashing causes enemies to take 25% extra damage for 10 seconds.
 * **Deadly Bash 2 (80):** Bashing does ten times more damage.
@@ -204,9 +204,9 @@ No mere man or mer can stand up to you as you are. The knightly orders back home
 
 *Sometimes you swing your greatsword so beautifully you're the only one left to witness it.*
 
-* **Deep Wounds 2 (70)::** Greatswords have a 20% chance of doing critical damage.
+* **Deep Wounds 2 (70):** Greatswords have a 20% chance of doing critical damage.
 * **Massacre (80)::** Power attacks with Two-handed weapons 50% extra damage to targets who fall below half Health.
-* **Heavy Cuts 2 (90)::** Critical attacks with greatswords deal five times more damage.
+* **Heavy Cuts 2 (90):** Critical attacks with greatswords deal five times more damage.
 * **Rampage (100):** Repeated power attacks against a single target with Two-handed weapons deal up to double damage.
 
 </details>
@@ -290,7 +290,7 @@ Bretons start with spells from 3 schools of magic, but you'll mostly use *Oakfle
   If you have an idea of what's coming in your direction, use this to shore up your defenses and close the distance. The Master versions will bring your resistance to the cap on their own, freeing your enchantment slots.
 
 * **Equilibrium (Adept+):** *Sacrifices Health to restore a moderate amount of Magicka and Stamina.*  
-  With your defenses, Health pool, and Natural Health regeneration, sometimes it will be prudent to drain your health in order to cast another spell or make more power attacks. Use your judgment, but you can take it.
+  With your defenses, Health pool, and natural Health Regeneration, sometimes it will be prudent to drain your health in order to cast another spell or make more power attacks. Use your judgment, but you can take it.
 
 </details>
 
@@ -376,7 +376,7 @@ Your defenses from other sources are so good you don't need to spend this slot o
 * **Fortify Magicka:** *Your Magicka is increased by 50.*
 * **Fortify Magicka Regeneration:** *Your Magicka Regeneration is increased by 50%.*
 
-*Fortify Two-handed* is a no brainer. Raising Elemental Resistance is another option here but you can cover that with Alteration's shell spells. So instead of those enchantments boost your Magicka and Regeneration, allowing you to invest more into Stamina.
+*Fortify Two-handed* is a no brainer. Raising Elemental Resistance is another option here but you can cover that with Alteration's shell spells. So, instead of those enchantments, boost your Magicka and Regeneration, allowing you to invest more into Stamina.
 
 #### Boots
 
@@ -408,6 +408,8 @@ A boost to your main damage source is always worth taking. Standing toe to toe w
 
 > Full alchemy information can be found on the [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) description page.
 
+<details>
+
 #### Potion of Persistence
 
 **Example:** *Dragon's Tongue / Juvenile Mudcrab / Lavender*
@@ -435,3 +437,5 @@ This simple potion is easily crafted through a number of easy to find ingredient
 * Fortify Health Regeneration (300 seconds)
 
 A quicker form of healing might be appealing but your many sources of Health Regeneration are already your lifeblood. This gives you more of it, and more Health, for 5 whole minutes.
+
+</details>
