@@ -32,7 +32,7 @@ Highborn: Your Health, Magicka, and Stamina are increased by 25. You receive 10%
   * **Magicka:** 2
   * **Stamina:** 5
 
-At its core the Imperial Thief is the quintessential "stealth archer," preferring to strike from far outside of an enemy's range and remain hidden for as long as possible. Use Speech and Security to amass a large pile of septims, use it to hire and outfit a stalwart mercenary to do your bidding, and then bolster them with Illusion magic and bard songs. At times a follower may seem unnecessary but bring them along anyway as they'll keep the enemies from focusing on you. Don't hesitate to throw your wealth at potions and other consumables. You can afford it.
+At its core, the Imperial Thief is the quintessential "stealth archer," preferring to strike from far outside of an enemy's range and remain hidden for as long as possible. Use Speech and Security to amass a large pile of septims, use it to hire and outfit a stalwart mercenary to do your bidding, and then bolster them with Illusion magic and bard songs. At times a follower may seem unnecessary but bring them along anyway as they'll keep the enemies from focusing on you. Don't hesitate to throw your wealth at potions and other consumables. You can afford it.
 
 ## Perks
 
@@ -142,7 +142,7 @@ Turns out you could be a legendary Dragonborn capable of killing these dragons. 
 *Make it easier to offload your ill-gotten gains.*
 
 * **Bard 1 (30):** Your bard songs are twice as strong.
-* **upply and Demand 1 (30):** Merchants have extra gold for bartering.
+* **Supply and Demand 1 (30):** Merchants have extra gold for bartering.
 * **Black Market (40):** You can sell stolen items to any merchant.
 
 </details>
@@ -227,7 +227,7 @@ Your Guardian Stone will be useful at every point of your adventure. Extra stami
 
 ***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking or drawing a bow.*
 
-The Atronach runs counter to your racial bonus but with mace and shield in hand you won't be casting much of anything in the middle of combat. Use the extra Magicka to set up buffs, then draw your weapons and strike.
+Once you have enough raw Stamina, regeneration becomes the higher priority. The downside to The Lover doesn't concern you much as all since you have no intention of taking damage while drawing your bow. Later in the game you may have plenty of regeneration from your Light Armor perks and will start to see little benefit here.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-shadow.webp">
 

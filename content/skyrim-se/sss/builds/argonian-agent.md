@@ -230,7 +230,7 @@ Now you can put your plan in motion. Your words and spells will twist the minds 
 
 ***Path of Wisdom:*** *Your Magicka is increased by 50, and your spells and enchantments cost 10% less.*
 
-The Mage Stone is the ideal starting stone for you. Though the agent is technically a Stealth class the benefits of the Thief Stone aren't too beneficial. Feel free to carry this blessing into the mid game.
+The Mage Stone is the ideal starting stone for you. Though the agent is technically a Stealth class, the benefits of the Thief Stone aren't too beneficial. Feel free to carry this blessing into the mid game.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-serpent.webp">
 
@@ -238,7 +238,7 @@ The Mage Stone is the ideal starting stone for you. Though the agent is technica
 
 ***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits.*
 
-The Serpent Stone is hit or miss for this build, ironically. An additional hit of poison can be great if you're stabbing your victims instead of reverse pickpocketing. Otherwise this does next to nothing for you.
+The Serpent Stone is hit or miss for this build, ironically. An additional hit of poison can be great if you're stabbing your victims instead of reverse pickpocketing. Otherwise, this does next to nothing for you.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-shadow.webp">
 

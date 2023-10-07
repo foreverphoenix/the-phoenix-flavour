@@ -34,7 +34,7 @@ Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your sp
   * **Magicka:** 2
   * **Stamina:** 3
 
-> **Note:** For unarmed perks to work both hands need to be empty. To easily do this with hotkeys, go to the *SkyUI* MCM and toggle `Unequip Hands` for one of the groups. That group can now be used as an Unarmed hotkey.
+> **Note:** For unarmed perks to work, both hands need to be empty. To easily do this with hotkeys, go to the *SkyUI* MCM and toggle `Unequip Hands` for one of the groups. That group can now be used as an Unarmed hotkey.
 
 You are not a wildfire; you are a deliberate, controlled burn. You deftly slip into position, starting fights on your own terms to give yourself the most advantage. Once the fight has broken out, turn up the heat with your Fire magic and a flurry of fists and eliminate your threats one by one. With the aid of Alteration magic you'll be formidable on the frontlines, imposing and able to withstand your opponent's counterattacks. A visit to Solstheim is a must. The island has not only the shrines for your pilgrimage but a number of spells that complement your skills. With all these tools in hand, you will make your ancestors proud.
 
@@ -59,6 +59,8 @@ Your arrest and near execution made you painfully aware of the war that's broken
 * **Mage Armor 1 (30):** Armor spells are 50% stronger while not wearing an armored chest piece.
 
 #### Conjuration
+
+*For now, Conjuration is simply a means of filling soul gems for your Enchanting.*
 
 * **Summoner 1 (10):** Conjuration spells cost 25% less Magicka.
 
@@ -221,15 +223,15 @@ Now is the time for your trial and your reward. Unlock *Cultist Rank 2* as soon 
 
 #### The Warrior (Guardian)
 
-***Warborn*** *Your Health is increased by 50, and blocking is 25% more effective.*
+***Warborn:*** *Your Health is increased by 50, and blocking is 25% more effective.*
 
-At the end of the day Monk is a Combat build. You could opt for the *Mage* instead but you should get used to standing toe to toe with your enemies from the start. You'll be unable to block with your fists but the extra Health will go a long way.
+At the end of the day Monk is a Combat build. You could opt for the *Mage* instead but you should get used to standing toe to toe with your enemies from the start. You'll be unable to block with your fists so the extra Health will go a long way.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-lord.webp">
 
 #### The Lord
 
-***Blood of the North:*** *Your Health Regeneration is increased by 100%, and your Magic Resistance is increased by 25%. *
+***Blood of the North:*** *Your Health Regeneration is increased by 100%, and your Magic Resistance is increased by 25%.*
 
 One thing this build lacks is built-in healing and the Lord provides. On top of that it adds to your Magic Resistance which is always good to have. Even moreso if you're following Mehrunes Dagon as his blessing will be less painful to work with.
 
@@ -239,7 +241,7 @@ One thing this build lacks is built-in healing and the Lord provides. On top of 
 
 ***Warden’s Wall:*** *Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.*
 
-Extra armor on the frontlines is always useful and the damage reflect aspect just adds that much more to your offense. If you choose Sheogorath as your deity this is a perfect match.
+Extra armor on the frontlines is always useful and the damage reflect aspect just adds that much more to your offense. If you choose Sheogorath as your deity, this is a perfect match.
 
 </details>
 
@@ -320,7 +322,7 @@ This is your main ranged attack option. Consider having *Vampiric Bolt* as a bac
 A constant area of effect that complements your punches? Yes, please.
 
 * **Vampiric Touch (Adept+):** *Absorbs 60 Health from living enemies in melee range.*  
-Without Alchemy or Restoration your biggest hurdle might be healing yourself. These spells help solve that against the living at least.
+Without Alchemy or Restoration, your biggest challenge might be healing yourself. These spells help solve that. Against the living at least.
 
 </details>
 

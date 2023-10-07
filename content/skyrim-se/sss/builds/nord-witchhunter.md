@@ -32,7 +32,7 @@ Stamina will be vital in consistently firing your bow and sprinting to safer loc
   * **Magicka:** 2
   * **Stamina:** 4
 
-Think of yourself as the quintessential ranger, except instead of having a tamed beast at your side you'll employ the assistance of summoned daedra, most notably the Frost Atronach. These burly minions will whittle down your opponent's stamina and speed as well as their health, soak up attacks, and ultimately make it harder for melee combatants to reach you. Meanwhile, you'll stay safe and incredibly deadly on the back line, putting an enchanted bow to maximum effect. Destruction spells can be useful as well, but keep in mind that Magicka won't regenerate in combat. Always keep enough in the tank for another summon.
+Think of yourself as the quintessential ranger, except instead of having a tamed beast at your side you'll employ the assistance of summoned daedra, most notably the Frost Atronach. These burly minions will whittle down your opponent's stamina and speed as well as their health, soak up attacks, and ultimately make it harder for melee combatants to reach you. Meanwhile, you'll stay safe and incredibly deadly on the back line, putting an enchanted bow to maximum effect. Destruction spells can be useful as well, but watch your Magicka levels during fights. Always keep enough in the tank for another summon.
 
 ## Perks
 
@@ -227,7 +227,7 @@ Drawing a bow can be draining on stamina and the extra move speed can help dista
 
 ***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 25% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
 
-Ideally you'll be summoning your frost atronach and setting runes out of combat, making the Magicka regeneration penalty less harsh. The extra Magicka allows you to focus your attribute points elsewhere, such as more stamina for shooting.
+Ideally you'll be summoning your frost atronach and setting runes out of combat, making the Magicka regeneration penalty less harsh. The extra Magicka allows you to focus your attribute points elsewhere, such as in more Stamina for shooting.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-ritual.webp">
 
@@ -235,7 +235,7 @@ Ideally you'll be summoning your frost atronach and setting runes out of combat,
 
 ***Mother’s Sorrow:*** *You can summon or reanimate one additional minion, but your summoning and reanimation spells last half as long.*
 
-In the late game your summoning durations will be obnoxiously long. Cutting them in half for the benefit of having a 2nd or 3rd atronach is a powerful trade worth considering.
+In the late game, your summoning durations will be obnoxiously long. Cutting them in half for the benefit of having a 2nd or 3rd atronach is a powerful trade worth considering.
 
 </details>
 
@@ -277,7 +277,7 @@ Extra stamina is always useful and the shrine can be found early on in Whiterun.
 
 ### Conjuration
 
-Every ranger needs a companion and Conjuration provides. The summon is the star of the show, no two ways about it. The only question is how do you plan on advancing your skill to the point of binding on to this plane?
+Every ranger needs a companion and Conjuration provides. The summon is the star of the show, no two ways about it. The only question is how do you plan on advancing your skill to the point of binding one to this plane?
 
 * **Soul Trap (Novice+):** *If a target dies within 60 seconds, fills a soul gem.*  
   You'll need soul gems for enchanting and you'll also need to level Conjuration a fair bit for your other key spells. This will help you towards both ends.
@@ -319,7 +319,7 @@ Destruction is a strong backup plan to your bow and you could easily learn and u
 * **Kaal:** *Summons Felldir the Old for 60 seconds.*
 * **Zoor:** *Summons Hakon One-Eye for 60 seconds.*
 
-Frost Atronachs are great but Nord heroes are even better and still in theme. Since they count towards the same conjuration limit, this is a good backup plan should you be short on magicka for summoning. They have access to shouts such as *Unrelenting Force* so they can sometimes be a better ally for crowd control than your usual ally.
+Frost Atronachs are great but Nord heroes are even better and still in theme. Since they count towards the same conjuration limit, this is a good backup plan should you be short on Magicka for summoning. They have access to shouts such as *Unrelenting Force* so they can sometimes be a better ally for crowd control than your usual ally.
 
 #### Frost Breath
 *Cooldown: 30/45/60 seconds*

@@ -119,7 +119,7 @@ It sounds like the deck is stacked against you, and in many ways it is. But you 
 - **Lock On:** `Middle Mouse Button`  
 - **Cycle Targets:** `Mouse Scroll Wheel Up/Down`
 
-> Locking on is a convenient way to keep an enemy centered on your screen in first-person or third-person perspective. It's a completely optional mechanic and offers no mechanical advantage otherwise.
+> Locking on is a convenient way to keep an enemy centered on your screen in first-person or third-person perspective. It's a completely optional mechanic and offers no mechanical advantage otherwise. You'll still need to aim at your targets, even when locked on.
 
 #### Additional Reading
 
