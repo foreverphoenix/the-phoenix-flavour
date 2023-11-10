@@ -367,9 +367,9 @@ Sneak Spell Attacks make up the bulk of your damage when things go well so make 
 
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Muffle:** *You make 50% less noise while moving.*
-* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
+* **Fortify Carry Weight:** *Your Carry Weight is increased by 50.*
 
-Sneaking is something you do often so it's only natural for your footwear choices to revolve around it. The sneakier you are, the more havok you can wreak without anyone counterattacking. It's a win/win.
+Sneaking is something you do often so it's only natural for your footwear choices to revolve around it. The sneakier you are, the more havok you can wreak without anyone counterattacking. It's a win/win. Carry Weight is another decent option as it allows you to carry more staves and scrolls into the field.
 
 #### Necklace
 

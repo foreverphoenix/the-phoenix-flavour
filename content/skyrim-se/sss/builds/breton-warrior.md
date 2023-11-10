@@ -318,7 +318,7 @@ The perfect defensive shout for a defensive warrior. Extra Armor Rating in its f
 * **Kest:** *Deals 100 Shock damage to Health and Magicka.*
 * **Meditation:** *Lightning Breath deals extra Magicka damage over 30 seconds.*
 
-The warrior lacks ranged options, making them especially vulnerable to enemies who cast spells at a distance. Lightning Breath works to drain them of Magicka to use for that, especially so with the meditation.
+The warrior prefers to be in melee, leaving them especially annoyed by enemies who cast spells at a distance. Lightning Breath works to drain them of Magicka to use for that, especially so with the meditation.
 
 #### Subdue
 *Cooldown: 60/90/120 seconds*  
@@ -366,9 +366,9 @@ Power attacks make up a large percentage of your swings, especially once you gai
 
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
 * **Fortify Alteration Cost:** *Your Alteration spells cost 25% less.*
-* **Resist Stagger:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
+* **Fortify Stamina:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
 
-Your defenses from other sources are so good you don't need to spend this slot on boosting them. Instead, grab more damage with power attacks or make your armor spells a little cheaper. If you don't have both stagger perks, *Resist Stagger* can be useful for staying on the offensive.
+Your defenses from other sources are so good you don't need to spend this slot on boosting them. Instead, grab more damage with power attacks or make your armor spells a little cheaper. If those aren't available, boost your Stamina pool to try and eke out another power attack.
 
 #### Gloves
 
@@ -380,19 +380,19 @@ Your defenses from other sources are so good you don't need to spend this slot o
 
 #### Boots
 
-* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
+* **Fortify Carry Weight:** *Your Carry Weight is increased by 50.*
 
-The pickings are slim for the warrior here. Movement Speed isn't a priority but useful enough to be the top choice. Stamina and Regeneration allow you to power attack, block, and bash more, so those are the two next best options as you can never have enough.
+The pickings are slim for the warrior here. Stamina and Regeneration allow you to power attack, block, and bash more, so those are the two next best options as you can never have enough. Carry Weight can help offset the tax of heavy armor, though that shouldn't be an issue once you have *Unstoppable.*
 
 #### Necklace
 
 * **Fortify Archery:** *You deal 25% extra damage with ranged weapons.*
 * **Fortify Alteration Duration:** *Your Alteration spells last 50% longer.*
-* **Resist Stagger:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
+* **Fortify Block:** *You block 25% more damage.*
 
-The boost to ranged damage is occasionally useful but enough to warrant the top spot. *Fortify Alteration Duration* is a convenience choice as your Alteration spells last a good while already. And, if you're still getting staggered, you can help mitigate that here.
+The boost to ranged damage is occasionally useful but enough to warrant the top spot. *Fortify Alteration Duration* is a convenience choice as your Alteration spells last a good while already. The last option is mostly any remaining enchantment, though Block is a key skill of yours worth boosting.
 
 #### Ring
 

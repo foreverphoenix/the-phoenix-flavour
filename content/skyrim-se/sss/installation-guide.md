@@ -57,7 +57,9 @@ Double-click **Wabbajack.exe** to launch to tool. It will automatically update i
 ### Configuration
 Before you can begin installing the list, you need to define two file paths:
 
-The **Installation Location** is where Mod Organizer 2 and all of the mods will be installed. Choose a high-level folder such as `C:\Slidikins' Strenuous Skyrim` that is outside UAC protected folders (Program Files, Documents, etc.) that's on your fastest drive, such as an SSD.
+The **Installation Location** is where Mod Organizer 2 and all of the mods will be installed. Choose a high-level folder such as `C:\Slidikins Strenuous Skyrim` that is outside UAC protected folders (Program Files, Documents, etc.) that's on your fastest drive, such as an SSD.
+
+> Including the apostrophe in `Slidikins' Strenuous Skyrim` can cause issues on some systems, especially if the default language isn't English. You may want to omit it when choosing an Installation Location.
 
 The **Download Location** is where the downloaded mod archives will be stored. By default, they will be placed within your installation folder. I recommend you instead place them elsewhere, such as an HDD with plenty of space. They are not needed for running the game.
 

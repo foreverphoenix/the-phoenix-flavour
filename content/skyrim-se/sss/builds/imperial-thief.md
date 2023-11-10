@@ -296,7 +296,7 @@ Dabbling in Illusion offers the Thief many benefits. With *Calm* as a starting s
 
 <details>
 
-#### Battle Fury
+#### Battle Fury<sup>DB</sup>
 *Cooldown: 60/90/120 seconds*  
 
 * **Raan:** *All nearby allies move and attack 10% faster for 60 seconds.*
@@ -323,7 +323,7 @@ If the action gets too hot, use this to guarantee some safety and reposition as 
 * **Ah:** *No effect.*
 *  **Viing:** *Summons Odahviing.*
 
-This is quite situational as you need to complete the main quest and it only works outdoors, but it's perfect for difficult fights such as other dragons. An essential ally that lasts until the fight's over? Summon him, buff him up, and get out of his way.
+This is quite situational as you need to complete the main quest and it only works outdoors, but it's perfect for difficult fights such as ones against other dragons. An essential ally that lasts until the fight's over? Summon him, buff him up, and get out of his way.
 
 </details>
 
@@ -369,9 +369,9 @@ Empowering your sneak attacks is the clear winner here with *Fortify Security* b
 
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Muffle:** *You make 50% less noise while moving.*
-* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
+* **Fortify Carry Weight:** *Your Carry Weight is increased by 50.*
 
-Obvious choices for the thief. *Fortify Sneak* and *Muffle* will help keep you hidden, with the latter being an option if you don't want to use the Illusion spell. While your perks grant you plenty of mobility, every Movement Speed boost means less Stamina required to sneak around.
+Obvious choices for the thief. *Fortify Sneak* and *Muffle* will help keep you hidden, with the latter being an option if you don't want to use the Illusion spell. Additional Carry Weight helps you pick a place clean without being encumbered, if that's your style.
 
 #### Necklace
 

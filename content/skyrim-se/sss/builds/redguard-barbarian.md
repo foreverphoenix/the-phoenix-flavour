@@ -228,7 +228,7 @@ Later on you'll have enough Stamina in your pool and Stamina Regeneration will b
 
 #### The Steed
 
-***Charioteer:*** *You move 20% faster and your Carry Weight is increased by 100. *
+***Charioteer:*** *You move 20% faster and your Carry Weight is increased by 100.*
 
 Movement speed gets you into your preferred range quickly and allows you to weave in and out of attacks with more ease. The Steed will not only help you out immensely in that regard but it will boost your Carry Weight a large amount as well, allowing you to bring back more spoils from your victories.
 
@@ -259,8 +259,8 @@ Tava, the goddess of air, weather and sun is thematically the true option for th
 *You gain 20% more experience. You have an additional unique effect based on your Standing Stone.*
 
 Tall Papa's' experience bonus is almost always beneficial. His additional effects are all useful as well, especially for *Steed Stone* users who want as much speed as possible.  
-* **The Lady Stone:** You have 25 extra Health, Magicka, and Stamina.  
 * **The Thief Stone:** You spend 25% less Stamina when power attacking or drawing a bow.  
+* **The Lover Stone:** Your Stamina regenerates 50% faster in combat.
 * **The Steed Stone:** You move 10% faster, and your carry weight is increased by 50.
 
 </details>
@@ -380,9 +380,9 @@ Most of your damage will come from melee power attacks so it's a safe choice to 
 
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 * **Fortify Power Attacks:** *You deal 25% more damage with power attacks.*
-* **Resist Stagger:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
+* **Fortify Destruction Cost:** *You resist 25% of incoming stagger and take 25% less damage while staggered.*
 
-Being out in the open makes you an easy target for magic users. Improving your general resistance will allow you to eat the damage and continue your assault, most likely healing yourself in the process. If you find yourself getting staggered often and unable to keep up the assault, there's the third option.
+Being out in the open makes you an easy target for magic users. Improving your general resistance will allow you to eat the damage and continue your assault, most likely healing yourself in the process. The third option is there for those who want to cast *Lightning Cloak* with less Magicka investment.
 
 #### Gloves
 
@@ -394,11 +394,11 @@ This is a rare opportunity to boost your One-handed damage and you should take i
 
 #### Boots
 
-* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
+* **Resist [Element]:** *Your [Element] Resistance is increased by 50%.*
 
-The options here aren't exciting but they aren't without usefulness. More Movement Speed keeps you on top of your enemies. And more Stamina (or regeneration) means more power attacks which means more devastation.
+The options here aren't exciting but they aren't without usefulness. More Stamina (or Regeneration) means more power attacks which means more devastation. Short of that, you can always bolster your elemental defenses. Or boost your Carry Weight.
 
 #### Necklace
 

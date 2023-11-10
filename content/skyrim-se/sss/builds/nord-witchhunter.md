@@ -385,9 +385,9 @@ Your investment in Alchemy gives you access to powerful potions and not just the
 
 * **Fortify Stamina:** *Your Stamina is increased by 50.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
-* **Fortify Movement Speed:** *Your Movement Speed is increased by 20%.*
+* **Fortify Sneak:** *You are 25% better at sneaking.*
 
-Extra Stamina will help you fire more arrows and run when needed. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. You shouldn't be suffering on Carry Weight or Sneak, honestly, but it's up to you.
+Extra Stamina will help you fire more arrows and run when needed. Otherwise, this slot is flexible and can bolster your resistances, carry weight, or stealth. While this isn't your typical "Stealth Archer" build, the bonus to staying undetected never hurts.
 
 #### Necklace
 
