@@ -249,7 +249,7 @@ Extra armor on the frontlines is always useful and the damage reflect aspect jus
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-Most Dunmer would shy away from the House of Troubles but not you. You invite the Daedra and their trials into your life, confronting them in order to reach enlightenment. **Malacath** will test your strength, **Sheogorath** your mental fortitude, and **Mehrunes Dagon** the ambition of your destructive arts. Pay little heed to Molag Bal, who asks too much and gives too little.
+Most Dunmer would shy away from the House of Troubles, but not you. You invite the Daedra and their trials into your life, confronting them in order to reach enlightenment. **Malacath** will test your strength, **Sheogorath** your mental fortitude, and **Mehrunes Dagon** the ambition of your destructive arts. Pay little heed to Molag Bal, who asks too much and gives too little.
 
 <details>
 
@@ -400,7 +400,7 @@ One of two slots where you can boost your unarmed damage. Take it. If that's not
 * **Fortify Sneak:** *You are 25% better at sneaking.*
 * **Fortify Stamina Regeneration:** *Your Stamina Regeneration is increased by 50%.*
 
-It's easy to forget the Sneak aspect of the build but it's there and can get strong support in this slot. Muffling your footsteps will allow you to wear Heavy Armor (except chest) without penalties if you want the extra protection. The build doesn't grant any extra Stamina Regeneration on its own so you can also fit that in here if needed.
+It's easy to forget the Sneak aspect of the build, but it's there and it can get strong support in this slot. Muffling your footsteps will allow you to wear Heavy Armor (except chest) without penalties if you want the extra protection. The build doesn't grant any extra Stamina Regeneration on its own so you can also fit that in here if needed.
 
 #### Necklace
 

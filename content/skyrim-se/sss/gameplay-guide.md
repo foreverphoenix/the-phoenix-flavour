@@ -12,9 +12,9 @@ If you've installed **Slidikins' Strenuous Skyrim**, chances are you've just add
 
 ## 1. Reduced HUD
 
-The first thing you'll probably notice when you take control of the Prisoner is a lack of on-screen information. By default, the only HUD element that is always displayed is your Health Bar (and attached Shout Meter). Stamina and Magicka Bars appear whenever they are changing being used, and the Crosshair will dynamically appear when needed, such as with a ranged weapon or spell.
+The first thing you'll probably notice when you take control of the Prisoner is a lack of on-screen information. By default, the only HUD element that is always displayed is your Health Bar (and attached Shout Meter). Stamina and Magicka Bars appear whenever they are adjusting, and the Crosshair will dynamically appear when needed, such as with a ranged weapon or spell.
 
-Enemy information is completely hidden from you as the player. You'll no longer be able to see the health of an enemy or their level. You won't even be able to see their name in most situations. Keep that in mind as **some enemies may be quite strong compared to those around them**. Proceed with caution and always have a backup plan in case you find yourself outmatched.
+Enemy information is completely hidden from you as the player. You'll no longer be able to see the health of an enemy or their level. You won't even be able to see their name in most situations. Keep that in mind as **enemy strength can vary within a single area**. Some foes will go down easily, others will present a challenge. Proceed with caution and always have a backup plan in case you find yourself outmatched.
 
 Lastly, activation prompts have been removed. Most of the time the UI will give no indication you're about to steal an item. (Stealth indicators are also removed so it's up to you to determine if you're hidden or not.) Locked containers and doors won't broadcast their difficulty either. You'll need to try your hand at it and decide for yourself if it's worth the lockpicks.
 
@@ -32,7 +32,7 @@ In general, expect the game to tell you far less information, leaving you to inf
 - **Favorite Groups 1-4:** `9`,`0`, `-`, and `=`
 - **Horse Hotkey:** `H` ([_Simplest Horses_](https://www.nexusmods.com/skyrimspecialedition/mods/54225))
 - **Toggle 1st/3rd Person View:** `F`
-- **Toggle Close/Far 3rd Person View:** `↑` (in 3rd Person View)
+- **Toggle 3rd Person View Mode:** `↑` (in 3rd Person View)
 
 ## 2. Survival and Exploration
 
@@ -44,16 +44,16 @@ Fuel for your adventurer, food will be a near-constant concern on your journey. 
 
 - Fruits and vegetables are commonly found in barrels all around the region.  
 - Hunt wild animals for meat if you prefer protein in your diet, or utilize [_Fishing_](https://en.uesp.net/wiki/Skyrim:Fishing) to source from the waters of Skyrim.  
-- With a dash of salt you can cook the above into more filling meals that give larger regeneration bonuses.
-- Different types of foods given different bonuses, each lasting 30 real-time minutes. A varied diet can have a profound effect on your dungeon crawling.
-- If you have a heavy coin pouch you can simply buy ingredients or fully cooked meals from vendors to save yourself time.
+- With a dash of salt you can cook the above into simple meals. Merchants can provide recipes that will allow you to cook more nutritious meals.
+- Different types of foods given different bonuses, each lasting 20 real-time minutes. A varied diet can have a profound effect on your dungeon crawling.
+- If you have a heavy coin pouch, you can always buy ingredients or fully cooked meals from vendors to save yourself time.
 
 ### Fatigue
 
-Soon after being left to your own devices you will find yourself being Lethargic or Tired and in need of sleep. Several options are available to you though you may want to act fast before the penalties to your maximum Magicka and Stamina Regeneration make it harder to fight effectively. Your experience rate will also drop when you are fatigued and improve when you're rested.
+Before long, you will find yourself Lethargic or Tired and in need of sleep. Several options are available to you though you may want to act fast before the penalties to your maximum Magicka and Stamina Regeneration make it hard to fight effectively. Your experience rate will also drop when you are fatigued and improve when you're properly rested.
 
 - A multitude of bedrolls are scattered around Skyrim. You won't wake up Well Rested, but it's free.
-- Sleeping in town is another option. However, the cost of an inn depends on the location, ranging from reasonable to highway robbery.
+- Sleeping in town is another option. However, the cost of an inn depends on the location, with major cities charging a premium.
 - Of course, you can always take what you want from the local brigands. Bandit camps typically have a warm, indoor bed to enjoy once the owners have been evicted.  
 - Eventually you'll want to purchase a permanent residence for something dependable and reliable.
 
@@ -68,7 +68,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 
 ### Other Notes
 
-- Your Health will only regenerate to 50% on its own. You'll need to utilize other sources of regeneration to recover further, such as food, potions, perks, or Restoration magic.
+- Your Health will only regenerate so much on its own. You'll need to utilize other sources of regeneration to recover further, such as food, potions, perks, or Restoration magic.
 - Containers are no longer bottomless. If you want to hoard goods and materials you'll need to find a suitable location with enough chests for your stash. ([_Container and Arrow Weight Restrictions_](https://www.nexusmods.com/skyrimspecialedition/mods/13826))
 - Similarly, your Carry Weight has been reduced, encouraging you to reconsider what's worth leaving the house with as well as what's worth picking up in a dungeon.
 - Imperial Septims won't be found in places where it wouldn't make sense. You'll find foreign or ancient coins in their place. Merchants can exchange these for Septims at various rates. ([_C.O.I.N. - Coins of Interesting Natures_](https://www.nexusmods.com/skyrimspecialedition/mods/51439))
@@ -77,10 +77,11 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 
 - [_Survival Mode Improved_](https://www.nexusmods.com/skyrimspecialedition/mods/56374)  
 - [_Gourmet - A Cooking Overhaul_](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
+- [_Candlehearth - An Inn Overhaul_](https://www.nexusmods.com/skyrimspecialedition/mods/97542)
 
 ## 3. Crafting
 
-The hard limit on player level (Lv50) and perk points (55 total) makes it harder to invest in multiple crafting skills while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into crafted goods you can not create yourself.
+The hard limit on player level (Lv50) and perk points (55 from leveling) makes it harder to invest in multiple crafting skills, while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into crafted goods you can not create yourself.
 
 ### Alchemy
 
@@ -88,7 +89,7 @@ Alchemical goods can be found in almost every settlement at the general store if
 
 ### Smithing
 
-With the exception of the quintessential Mage, most adventurers will get some benefit from Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting very specific enemies or crafting them yourself. Weapons and armor can be improved (a master at the craft can add +10 to the base damage/armor of equipment with a single ingot) but they will degrade with use back to their original stats without maintenance ([_Simple Degradation_](https://www.nexusmods.com/skyrimspecialedition/mods/74790)).
+With the exception of the quintessential Mage, most adventurers will get some benefit from Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting very specific enemies or crafting them yourself. Weapons and armor can be improved (a master at the craft can add +10 base damage/armor with a single ingot) but they will degrade back to their original stats as they're used in fights ([_Simple Degradation_](https://www.nexusmods.com/skyrimspecialedition/mods/74790)).
 
 ### Enchanting
 
@@ -105,13 +106,13 @@ Removing combat related HUD elements alone increases difficulty but keep in mind
 
 > **Tip:** Even though health bars were removed, [_Just Blood_](https://www.nexusmods.com/skyrimspecialedition/mods/46501) will add increasing bloody overlays on enemies as a rough indicator of their Health. Keep an eye out for this subtle effect.
 
-On top of that, enemies have been placed into tiers and you'll want to build your strength up before tackling some of them. For example, Falmer and Dwemer ruins are best avoided until Lv20 or so, and Daedra until Lv30. Of course, this is just a general rule, but keep that in mind if you run into a figurative wall on your adventures. Dragons in particular are much tougher than they are in the vanilla game, with their levels soaring far higher than your Lv50 cap. But you're Dovahkiin, you'll figure it out. Learning and paying attention to the resistances of an enemy will be a huge boon in your favor when tackling challenging creatures.
+On top of that, enemies have been placed into tiers and you'll want to build your strength up before tackling some of them. For example, Falmer and Dwemer ruins are best avoided until Lv20 or so, and Daedra until Lv30. Of course, this is just a general rule, but keep that in mind if you run into a figurative wall on your adventures. Dragons in particular are much tougher than they are in the vanilla game, with their levels soaring higher than your Lv50 cap. But you're Dovahkiin, you'll figure it out. Learning and paying attention to the resistances of an enemy will be a huge boon in your favor when tackling challenging creatures.
 
 ### Followers
 
 It sounds like the deck is stacked against you, and in many ways it is. But you don't have to go it alone. Keep in mind the following changes when bringing a follower along:
 - NPCs, including followers, use ammo the same way you do. If your follower uses a bow, make sure to keep them supplied with arrows.
-- Followers who run out of Health will be in a "downed" state for 2 minutes unless healed by Restoration magic. Enemies will ignore them in this state. ([_STAYDOWN_](https://www.nexusmods.com/skyrimspecialedition/mods/41228))  
+- Followers who run out of Health will be in a "downed" state for up to 2 minutes unless healed by Restoration magic. Enemies will ignore them in this state, redirecting their ire towards you. ([_STAYDOWN_](https://www.nexusmods.com/skyrimspecialedition/mods/41228))  
 - Mercenaries will charge more for their services based on factors such as their level. ([_Dynamic Mercenary Fees_](https://www.nexusmods.com/skyrimspecialedition/mods/45677))
 
 #### Relevant Control Changes

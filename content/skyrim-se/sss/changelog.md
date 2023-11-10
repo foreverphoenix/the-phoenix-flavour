@@ -6,6 +6,160 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.19.0b
+
+> 2023-11-??
+
+<details>
+
+These changes are not set in stone and may change before the final release. As such, I won't put a full patch description in here yet.
+
+#### Changes
+
+- **Textures & Mesh Fixes:** Removed Gourd Plant Mesh Fix
+- **SKSE Plugins - Fixes:** Added Capture Warmer
+- **(Optional) Nordic UI:** Added NORDIC UI - Compass Navigation Overhaul Patch
+- **Landscape:** Renamed TPF - Depths of Skyrim Patch to Slidikins' Strenuous Skyrim - Depths of Skyrim Patch
+- **Landscape:** Forwarded old Depths of Skyrim entries from QW's Grass Patch to Depths of Skyrim - SSS Patch.esp
+- **Lux Lighting:** Modified Lux Orbis - Daedric Shrines AiO Patch to account for Pilgrim - Daedric Shrines Patch changes
+- **Lux Lighting:** Removed `/meshes/architecture/windhelm/whgrayquarter02.nif` from Lux Orbis
+- **Fire & Candles:** Added FYX - Sparks React to the Wind
+- **Fire & Candles:** Added FYX - Campfire Reacts to the Wind
+- **Snow & Ice:** Added Simplicity of Snow - Majestic Mountains Patch
+- **Grass Overhaul:** Removed Veydosebrom Regions
+- **Grass Overhaul:** Removed QW’s Grass Patch
+- **Grass Overhaul:** Removed QW Grass Patch - No Fall Forest Leaf Piles
+- **Grass Overhaul:** Removed QW Grass Patch - Re-Enable Rocks
+- **Grass Overhaul:** Removed QW Grass Patch - ENB Complex Grass
+- **Grass Overhaul:** Added Origins Of Forest
+- **Grass Overhaul:** Added Origins of Forest - ENB Complex Grass
+- **Grass Overhaul:** Added Folkvangr - Summer Tundra
+- **Grass Overhaul:** Added QW's Grass Patch 2
+- **Grass Overhaul:** Added QW's Grass Patch 2 - ENB Complex Grass
+- **Plants & Mushrooms:** Added Kabu's Really Gourd Plant Replacer
+- **Xavbio's Retextures:** Added Dragon Priest Retexture
+- **Undead, Daedra, & Dragons:** Removed aMidianBorn Book of Silence - Dragon Priest
+- **Undead, Daedra, & Dragons:** Removed aMidianBorn Book of Silence - Dragon Priest Acolytes
+- **Undead, Daedra, & Dragons:** Removed Rustic Dragons
+- **Undead, Daedra, & Dragons:** Removed Frankly HD Dragon Bones
+- **Undead, Daedra, & Dragons:** Removed Deiform Alduin
+- **Undead, Daedra, & Dragons:** Removed Deiform Alduin - Eye Textures
+- **Undead, Daedra, & Dragons:** Removed Deiform Alduin - Particle Lights
+- **Undead, Daedra, & Dragons:** Added Iconic's Dragon Retexture
+- **ElSopa's Potions Redone:** Merged v3.1 update with ElSopa - Potions Redone - Missing Vanilla Potions
+- **Crafting:** Added Thaumaturgy - Player Spell Lighting Patch
+- **Crafting:** Edited JewelryCircletOrichalcEmerald `000166d6` in Jewelry Crafting Expanded to have the correct Model FileName
+- **Horses & Fast Travel:** Added AE Patch to zzjay's Horse Overhaul
+- **NPC Dialogue & Behavior:** Removed Rent Room Dialogue Tweak
+- **NPC Dialogue & Behavior:** Removed Windhelm Segregation - Stay At New Gnisis Cornerclub
+- **NPC Dialogue & Behavior:** Added Misc Dialogue Edits - NGCDT Patch
+- **Enemy Overhauls:** Removed Dragon War - Deiform Alduin Particle Lights Patch
+- **Enemy Overhauls:** Added Wait Your Turn - Sands of Time Patch
+- **Immersion:** Removed Coherent Inns Prices
+- **Immersion:** Added Misc Dialogue Edits - Bring Meeko to Lod Patch
+- **Immersion:** Added Soups of Skyrim - Fishing and Gourmet Patch
+- **Immersion:** Added Candlehearth - An Inn Overhaul
+- **Immersion:** Added Candlehearth - Tavern AI Fix Patch
+- **Immersion:** Added Candlehearth - Unofficial Patches
+- **Miscellaneous:** Removed Unequip Quiver
+- **Miscellaneous:** Added Contraband Confiscation - Gourmet Patch
+- **Survival & Fishing:** Swapped U Can't Touch Fish for the Chance Edition
+- **City Overhauls:** Added Better Windhelm Ground Meshes - Icy Windhelm
+- **Faction HQs:** Added Obscure's College of Winterhold - AI Overhaul Patch
+- **Seasons of Skyrim:** Added Four Seasons - Faster Seasons of Skyrim
+- **Seasons of Skyrim:** Added Seasonal Alchemy
+- **Seasons of Skyrim:** Added Seasonal Alchemy Add-on
+- **Seasons of Skyrim:** Added Seasonal Landscapes for ENB Complex Grass
+- **Seasons of Skyrim:** Added Seasonal Landscapes - QW's Grass Patch 2 Patch
+- **Seasons of Skyrim:** Added Seasonal Landscapes - Whiterun Stairs Patch
+- **Seasons of Skyrim:** Added Seasonal Landscapes - Stones of Solitude - MM Patch
+- **Seasons of Skyrim:** Added Seasonal Landscapes - Additions
+- **Seasons of Skyrim:** Added Seasonal Landscapes - No Dead Pine Tree Resurrection
+- **Seasons of Skyrim:** Added Seasonal Landscapes - No Dead Pine Tree Resurrection - Happy Little Tree Fix
+- **Saints and Seducers:** Removed Saints and Seducers - Mysticism Rebalance
+- **New Mechanics:** Removed Pilgrim and Daedric Shrines Consistency and Tweaks
+- **New Mechanics:** Added Pilgrim - Daedric Shrines AIO Patch
+- **New Mechanics:** Added Pilgrim - Statue of Sithis Patch
+- **Conflict Resolution:** Edited `000C28F4` to add a proximity check to Ancano's Sparks sound effect
+- **Conflict Resolution:** Edited `0009CD43` to allow alchemy merchants a higher chance to stock more potions
+- **Conflict Resolution:** Edited HUDShouting `00064697` to better reflect TrueHUD's interface
+- **Conflict Resolution:** Removed HUDDetection `00064694` loadscreen as there's no Sneak HUD in the list
+- **Configuration:** Edited Immersive Equipment Displays settings to work with EVG Conditional Idles' shield cover function
+- **Configuration:** Edited Immersive Equipment Displays settings to hide ammo when ranged weapons are not actively equipped
+- **Performance Profile:** Enabled ElSopa's Potion Redone section
+
+
+
+#### Updates
+
+- Updated SSEEdit to 4.1.5
+- Updated Root Builter to 4.5.2
+- Updated DynDOLOD to Alpha-156
+- Updated KiLoader for Skyrim to 1.0.7
+- Updated Rock Traps Trigger Fixes to 1.5
+- Updated CritterSpawn Congestion Fix to 1.52
+- Updated Skyrim Landscape and Water Fixes to 8.3
+- Updated DynDOLOD - NG to Alpha-13
+- Updated Skyland Bits and Bobs - A Clutter Overhaul to 1.8
+- Updated ENB Extender for Skyrim to 1.0.3
+- Updated Lux to 6.4.1
+- Updated Thunderbolt - HD Lightning to 2.0
+- Updated Majestic Snow to 2.33
+- Updated Snowy Surfaces Sound Collision and Aesthetics to 1.6.6.2
+- Updated Simple Snow Improvements - Skyrim to 2.2
+- Updated Simple Snow Improvements - Giant Obelisks to 1.4.1
+- Updated Icy Mesh Remaster to 2.30
+- Updated Sowables of Skyrim - Leeks to 2.0
+- Updated Sowables of Skyrim - Potatoes to 2.01
+- Updated Sowables of Skyrim - Scrumptious Cabbages to 2.0
+- Updated High Poly Solstheim Mushroom Trees to 1.1
+- Updated Additional Dremora Faces to 1.3
+- Updated True Directional Movement - Modernized Third Person Gameplay to 2.2.5
+- Updated Mysticism - A Magic Overhaul to 2.3.4
+- Updated Adamant - A Perk Overhaul to 5.8.5
+- Updated Manbeast - A Werewolf Overhaul to 2.1
+- Updated Scion - A Vampire Overhaul to 2.2
+- Updated Civil War Lines Expansion to 1.1
+- Updated Dremora Lines Expansion to 1.1
+- Updated Misc Dialogue Edits to 1.9.3
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9.2
+- Updated Neutral Whiterun Guards to 4.0
+- Updated Honorhall Orphanage Bugfixes and Expansion to 2.03
+- Updated Unofficial Material Fix - Improved Traps to 4.0
+- Updated Madmen - A Forsworn Overhaul to 2.0.1
+- Updated Madmen - Patch Collection to 2.0.1
+- Updated Dragon War - A Dragon Overhaul to 3.1.4
+- Updated Dragon War - Deadly Spell Impacts Patch to 3.1.4
+- Updated Bring Meeko to Lod to 1.0b
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack to 1.2
+- Updated Falmer Equip Armor to 1.0.8
+- Updated Immersive Death Cycle to 1.03
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.1.4
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.1.4
+- Updated Immersive Sounds Compendium - Sound Record Distributor to 2.3.1
+- Updated Fishing - WACCF Patch to 4.0
+- Updated Icy Windhelm to 2.4
+- Updated Sowables of Skyrim - Leeks - Snowy Version to 2.0
+- Updated Sowables of Skyrim - Potatoes - Snowy Version to 2.01
+- Updated Sowables of Skyrim - Scrumptious Cabbages - Snowy Version to 2.0
+- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.01
+- Updated Skyrim Extended Cut - Saints and Seducers - WACCF Patch to 4.0
+- Updated Thaumaturgy - WACCF ACE Patch to 4.0
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack - WACCF Patch to 4.0
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack - Thaumaturgy WACCF Patch to 4.0
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack - Tamrielic Distribution WACCF Patch to 4.0
+- Updated Dawnguard Arsenal - WACCF Patch to 4.0
+- Updated UNDERDOG Animatons to 1.9.6
+
+#### Outputs
+
+- Regenerated Synthesis Patches
+- Regenerated LODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 4.18.0.7
 
 > 2023-10-07
