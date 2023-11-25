@@ -10,8 +10,6 @@ description: >
 
 > 2023-11-25
 
-<details>
-
 At long last, we're at version 4.19! **This will require a new save file if you're on anything other than the 4.19.0 beta.** So, what's new with this version?
 
 Firstly, there's been a lot of attention given to *Seasons of Skyrim*, expanding the areas it affects, making sure it looks more how it should, and even letting it affect alchemy ingredient availability. To make that more manageable, the calendar has been adjusted so that each season is only 30 in-game days, down from 90. (Some of you may remember me playing around with [*Seasonal Landscapes - Unfrozen*](https://www.nexusmods.com/skyrimspecialedition/mods/71967) but it was ultimately dropped. Perhaps in 4.20 that will be revisited.)
@@ -23,6 +21,8 @@ Outside of that you won't see too many major gameplay changes from 4.18. *Fishin
 **A new save is required for this update.**
 
 As always, if you run into any issues, let me know and I'll try and have it fixed in the next update.
+
+<details>
 
 #### Changes
 
