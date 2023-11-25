@@ -111,7 +111,7 @@ On top of that, enemies have been placed into tiers and you'll want to build you
 ### Followers
 
 It sounds like the deck is stacked against you, and in many ways it is. But you don't have to go it alone. Keep in mind the following changes when bringing a follower along:
-- NPCs, including followers, use ammo the same way you do. If your follower uses a bow, make sure to keep them supplied with arrows.
+- Followers and summoned/reanimated creatures are affected by the same difficulty modifiers as you, the player. This makes them much less effective at higher levels without compensating with better equipment.
 - Followers who run out of Health will be in a "downed" state for up to 2 minutes unless healed by Restoration magic. Enemies will ignore them in this state, redirecting their ire towards you. ([_STAYDOWN_](https://www.nexusmods.com/skyrimspecialedition/mods/41228))  
 - Mercenaries will charge more for their services based on factors such as their level. ([_Dynamic Mercenary Fees_](https://www.nexusmods.com/skyrimspecialedition/mods/45677))
 
@@ -150,7 +150,7 @@ The urge to explore is strong but try to fight it off in the early game. There i
 
 #### Find a Follower
 
-If you haven't already, consider choosing someone to accompany you on your adventures. Ideally they should complement your skill set. If you're a frontliner, consider a follower good at archery (and supply them with arrows!) or magic. Or vice versa if you like to attack from range. Just remember to provide them with quality equipment as their usefulness will plummet if they can't keep up in fights.
+If you haven't already, consider choosing someone to accompany you on your adventures. Ideally they should complement your skill set. If you're a frontliner, consider a follower good at archery or magic. Or vice versa if you like to attack from range. Just remember to provide them with quality equipment as their usefulness will plummet if they can't keep up in fights.
 
 #### Buy a Horse
 
