@@ -16,9 +16,9 @@ At long last, we're at version 4.19! **This will require a new save file if you'
 
 Firstly, there's been a lot of attention given to *Seasons of Skyrim*, expanding the areas it affects, making sure it looks more how it should, and even letting it affect alchemy ingredient availability. To make that more manageable, the calendar has been adjusted so that each season is only 30 in-game days, down from 90. (Some of you may remember me playing around with [*Seasonal Landscapes - Unfrozen*](https://www.nexusmods.com/skyrimspecialedition/mods/71967) but it was ultimately dropped. Perhaps in 4.20 that will be revisited.)
 
-Secondly, a number of bugs have been addressed. I want to give a big thanks to everyone on the [Discord](https://discord.gg/xRrHRsb5e9) that reported their issues. I know I didn't get to resolve every single one, but the fixes I did include help make this release even more polished than the last.
+Secondly, a good number of bugs have been addressed. I want to give a big thanks to everyone on the [Discord](https://discord.gg/xRrHRsb5e9) that reported the issues. I know I didn't get to resolve every last one, but the fixes I did include help make this release even more polished than the last.
 
-Outside of that you won't see too many major gameplay changes from 4.18. *Fishing* is a bit more robust in that you'll need bait (read: cheap bug ingredients) to participate and [*Candlehearth*](https://www.nexusmods.com/skyrimspecialedition/mods/97542) gives you the option to store goods in inns. Many mods have been updated, however, and there's a few gameplay changes to be found in the pile of changelogs. Nothing too major.
+Outside of that you won't see too many major gameplay changes from 4.18. *Fishing* is a bit more robust in that you'll now need bait (read: cheap bug ingredients) to participate and [*Candlehearth*](https://www.nexusmods.com/skyrimspecialedition/mods/97542) gives you the option to store goods in inns. Many mods have been updated, however, and there's a few gameplay changes to be found in the pile of changelogs. Nothing that would surprise you.
 
 **A new save is required for this update.**
 
@@ -147,7 +147,7 @@ As always, if you run into any issues, let me know and I'll try and have it fixe
 - Updated Manbeast - A Werewolf Overhaul to 2.1.1
 - Updated Scion - A Vampire Overhaul to 2.2
 - Updated Stormcrown - A Shout Overhaul to 1.1.12
-- Updated Artificer - An Artifact Overhaul to 1.0.9
+- Updated Artificer - An Artifact Overhaul to 1.0.10
 - Updated Artificer - Xavbio Textures Addon to 1.0.3
 - Updated Thaumaturgy - An Enchanting Overhaul to 1.4.3
 - Updated Apothecary - An Alchemy Overhaul to 1.3.8
