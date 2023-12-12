@@ -81,7 +81,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 
 ## 3. Crafting
 
-The hard limit on player level (Lv50) and perk points (55 from leveling) makes it harder to invest in multiple crafting skills, while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into crafted goods you can not create yourself.
+The hard limit on player level (Lv50) and perk points (55 from leveling, 2 from quests) makes it harder to invest in multiple crafting skills, while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into crafted goods you can not create yourself.
 
 ### Alchemy
 
@@ -162,7 +162,7 @@ Go find yourself a faction (i.e. The Companions) that suits your character and s
 
 ### Late Game (Level 30 - 50)
 
-#### Spent Your Septims
+#### Spend Your Septims
 
 At this point you probably have a hole burning in your pocket from a pile of extra septims. Spend it! You get 5 training opportunities per level, use your gold to bump skills towards a perk you desperately need. Or buy high quality equipment that just isn't appearing for you in boss chests. Don't hoard your wealth like the dragons you're meant to kill; put your money to good use.
 
@@ -172,4 +172,4 @@ I can’t stress this enough. In the late game you might deal with areas that ar
 
 #### And Draughts of Fate Unwound
 
-Combining the previous two tips into one, don't be afraid to use your excess cash on Draughts of Fate Unwound from apothecaries. These will refund all of your perk points, allowing you to redistribute them in ways that are more useful to your current goals. Can't find the highest tier gear? Use a draught and craft it yourself. Already crafted everything you need and no longer want the crafting perks? Use a draught and spend those points on other skills. (For this reason it's not a bad idea to level all 3 crafting skills regardless of your build.)
+Combining the previous two tips into one, don't be afraid to use your excess cash on Draughts of Fate Unwound from apothecaries. These will refund all of your perk points, allowing you to redistribute them in ways that are more useful to your current goals. Can't find the highest tier gear? Use a draught and craft it yourself. Already crafted everything you need and no longer want the crafting perks? Use a draught and spend those points on other skills. (For this reason it's not a bad idea to dabble in all 3 crafting skills regardless of your build as you play.)
