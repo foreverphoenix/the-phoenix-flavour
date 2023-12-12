@@ -6,11 +6,87 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.19.0.1
+
+> 2023-12-11
+
+So, Bethesda went ahead and updated Skyrim, mostly for reasons I don't agree with nor want to get into but it required me to update the list in order for Wabbajack to work again. So, here's a few updates to go along with the mandatory back-end changes.
+
+**Note:** I did not have time to fully test this but I've no reason to believe it's any less stable than the version prior. I've left all vanilla archives the same with the exception of `Skyrim - Misc.bsa` and the list continued to run on 1.6.640. I also did not update MO2 to v2.5.0, although I've included archives for that update as well as some of the plugins that would also need installing. I don't plan on making the jump to the newest version of SSE anytime soon, so mods such as USSEP and AI Overhaul (which was updated for USSEP) have not been touched.
+
+**This works with existing 4.19.0 saves.**
+
+Peep the details below for the full change list. The only big thing I'll note is that SimonRim's suite has seen a number of updates that you may want to check out individually (respective updates to the Example Builds will come later, stealthily), and that I've removed `Use Or Take` and `Read or Take`. They are great and useful mods, however without visible Activation text I found that they add confusion for players who don't know they're there.
+
+<details>
+
+#### Changes
+
+- **Frameworks:** Added Description Framework
+- **Interface:** Added SimonRim - I4 Addons
+- **Interface:** Added Vanilla Item Descriptions
+- **SKSE Plugins - Interface:** Removed Use or Take SKSE
+- **SKSE Plugins - Interface:** Removed Read or Take SKSE
+- **NPC Dialogue & Behavior:** Added Brawl Lines Expansion Patch - NGCDT Patch
+- **NPC Dialogue & Behavior:** Added Scared of Shootings 
+- **Enemy Overhauls:** Replaced plugin for The Dragon Cult to prevent crashes with spectral draugr
+- **Quest Start Adjustments:** Added A Lovely Letter - NGCDT Patch
+- **Quest Start Adjustments:** Added Calcelmo Has Standards
+- **Quest Start Adjustments:** Edited TPF - Quest Mods Patch to remove A Lovely Letter changes
+- **Conflict Resolution:** Removed some DisableDisenchant keywords from artifacts
+- **Performance Profile:** Ensured everything was actually enabled
+
+#### Updates
+
+- Updated DynDOLOD to 3.00 Alpha-159
+- Updated Address Library for SKSE Plugins to 9.0
+- Updated Spell Perk Item Distributor to 6.7.5
+- Updated SSE Display Tweaks to 0.5.14
+- Updated Sprint Sneak Movement Speed Fix to 1.1.2
+- Updated Landscape Fixes For Grass Mods to 5.2
+- Updated Landscape Fixes For Grass Mods - Vanilla Military Camps (No Version Change)
+- Updated Equip Enchantment Fix (No Version Change)
+- Updated Soaking Wet - Character Wetness Effect to 1.2.1
+- Updated DynDOLOD - Resources to 3.00 Alpha-44
+- Updated Storm Lightning to 1.4.18
+- Updated Lux Via to 2.1
+- Updated Lux Orbis to 4.0
+- Updated Simplicity of Snow to 0.18
+- Updated Icy Mesh Remaster to 2.38
+- Updated Default Face NPCs Fixed to 1.15
+- Updated Ancient Imperial Septims to 1.3
+- Updated Adamant - A Perk Overhaul to 5.9
+- Updated Adamant - Bard Perks Addon to 1.1.1
+- Updated Stormcrown - A Shout Overhaul to 1.1.15
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.4.5
+- Updated Apothecary - An Alchemy Overhaul to 1.3.9
+- Updated Misc Dialogue Edits to 1.9.4
+- Updated Misc Dialogue Edits - NGCDT Patch to 1.9.4
+- Updated Blade and Blunt - A Combat Overhaul to 3.3.1
+- Updated Dragon War - A Dragon Overhaul to 3.2.1
+- Updated Dragon War - Deadly Spell Impacts Patch to 3.2.1
+- Updated Misc Dialogue Edits - Save the Icerunner Patch to 1.9.4
+- Updated Misc Dialogue Edits - Bring Meeko to Lod Patch to 1.9.4
+- Updated Falmer Equip Armor to 1.0.9
+- Updated Dragon War - Durnehviir Resurrected Patch to 3.2.1
+- Updated PlayerPayCrimeGold Tweak to 1.0.6
+- Updated Dragon War - Audio Overhaul for Skyrim Patch to 3.2.1
+- Updated Conditional Dog Barking to 1.2
+- Updated XP32 Maximum Skeleton Special Extended to 5.05
+- Updated Simple Dual Sheath to 1.5.7
+- Updated Immersive Equipment Displays to 1.7.4
+- Updated Weapon Styles - DrawSheathe Animations for IED to 2.1
+- Updated Simple Fishing Overhaul - FLM Addon to 1.2
+- Updated Seasonal Landscapes - No Dead Pine Tree Resurrection to 1.2
+- Updated Hand to Hand - An Adamant Addon to 1.5.7
+- Updated Pilgrim - A Religion Overhaul to 1.2.1
+- Updated NPC Animation Remix to 1.7
+
+</details>
+
 ## Release 4.19.0
 
 > 2023-11-25
-
-<details>
 
 At long last, we're at version 4.19! **This will require a new save file if you're on anything other than the 4.19.0 beta.** So, what's new with this version?
 
@@ -23,6 +99,8 @@ Outside of that you won't see too many major gameplay changes from 4.18. *Fishin
 **A new save is required for this update.**
 
 As always, if you run into any issues, let me know and I'll try and have it fixed in the next update.
+
+<details>
 
 #### Changes
 
