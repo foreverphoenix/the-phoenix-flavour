@@ -6,13 +6,142 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.19.0.2
+
+> 2024-01-20
+
+Bethesda released a second update (1.6.1170) which means another recompile is necessary in order to keep the list installable on WJ. And it's for the better, as 4.19.0.1 handled that last update (1.6.1130) poorly and there were stability issues. I'm hoping that's fixed now with this release.
+
+The executables (and SKSE) are remaining on 1.6.640. The rest (plugins and archives) are using the newest versions that Steam and Bethesda provide. There should be no more mismatching references and all of the bugs that generated. Other than that, I mainly stuck to mod updates since the last release, and some bug fixes I had discovered while working on 4.19.1.
+
+**A New Game is not required for this update**, but honestly I'd still recommend it. The saves I tested seem to make the jump just fine.
+
+**ATTENTION:** Download instructions for the list have changed with this update. Verify your game files in Steam to make sure you're on 1.6.1170, then open the game and download the DLC content from the Creation market. Regardless if you own the AE Content Pack or not, you need the versions of the free Creations from that menu to install the list.
+
+<details>
+
+#### Changes
+
+- Kept list at 1.6.640 but now uses all 1.6.1170 archives and plugins
+- All plugins from 1.6.1170 have been cleaned as well
+- **Mod Organizer 2:** Added LOOT Warning Checker MO2 Plugin
+- **SkyUI:** Patched SkyUI - Remove QuickSave Button to include the Difficulty Persistence Fix
+- **Essentials:** Turned on `SaveGameMaxSize` in SSE Engine Fixes by default
+- **Essentials:** Added Backported Extended ESL Support
+- **(Optional) Nordic UI:** Added NORDIC UI - Convenient Dialogue UI
+- **(OPTIONAL) Widescreen Support:** Patched SkyUI - Remove QuickSave Button - 21x9 Aspect Ratio Support to include the Difficulty Persistence Fix
+- **Landscape:** Edited Base Object Swapper file in Ashbound - Solstheim Revisited to remove conflict within itself
+- **Improved Trees:** Fixed Dragonborn swaps for Happy Little Shrubs, removed one that conflicted with Ashbound - Solstheim Revisited
+- **Xavbio's Retextures:** Added Unique Armors and Weapons Retexture
+- **Unique Artifacts:** Removed Modular Armory - Unique Nettlebane
+- **Unique Artifacts:** Removed Frankly HD Masque of Clavicus Vile
+- **Unique Artifacts:** Removed Frankly HD Miraak
+- **Unique Artifacts:** Removed Masks of the Dovah Sonaak
+- **Unique Artifacts:** Removed Modular Armory - Masks of the Dovah Sonaak Patch
+- **Unique Artifacts:** Removed Spellbreaker Oblivionized
+- **Wild Creatures:** Removed aMidianBorn Book of Silence - Ash Spawn
+- **NPC Dialogue & Behavior:** Bandit Lines Expansion - Werebeasts Don't Talk
+- **NPC Dialogue & Behavior:** Added NPCs React To Frenzy
+- **Enemy Overhauls:** Added Lawless - Default Face NPCs Fixed Patch
+- **Quest Start Adjustments:** Removed More Radiant Quests for the Companions
+- **Quest Start Adjustments:** Added Customizable Companions Questline Progression Requirements
+- **Survival & Fishing:** Added Default Face NPCs Fixed - Fishing
+- **Survival & Fishing:** Added Fishing Preview
+- **Cities of the North:** Removed bad reference from Spaghetti's Cities AIO - CotN Dawnstar Patch plugin
+- **New Animations:** Removed UNDERDOG Animations
+- **New Animations:** Added UNDERDOG - Death Animations
+- **Conflict Resolution:** Lowered fCombatSearchSightRadius to 1024 (will not affect existing saves)
+- **Conflict Resolution:** Resolved many conflicts between Default Face NPCs Fixed and other mods
+- **Conflict Resolution:** Extended Skyrim Landscape and Water Fixes' HelgenMud swap to the Helgen used in the intro of the game
+
+
+#### Updates
+
+- Updated Mod Organizer 2 to 2.5.0
+- Updated Root Builder to 5.0.4
+- Updated LOOT Warning Checker to 1.3.0 rc2
+- Updated Profile Sync to 2.0.1
+- Updated Fluency Themes to 1.5
+- Updated NIF Preview to 3.0.2
+- Updated DynDOLOD to 3.00 Alpha-165
+- Updated Address Library for SKSE Plugins to 10 (12)
+- Updated JContainers to 4.2.8 (24)
+- Updated Spell Perk Item Distributor to 6.8.2 (26)
+- Updated Keyword Item Distributor to 3.1 (27)
+- Updated Sound Record Distributor to 1.5 (29)
+- Updated KiLoader for Skyrim to 1.0.8 (34)
+- Updated Scaleform Translation Plus Plus to 1.7 (36)
+- Updated Description Framework to 1.3 (52)
+- Updated Crash Logger to 1.12.1 (54)
+- Updated SSE Display Tweaks to 0.5.16 (62)
+- Updated Unofficial Skyrim Special Edition Patch to 4.3alpha (67)
+- Updated More Informative Console to 1.1 (72)
+- Updated ConsoleUtils to 1.5.1 (74)
+- Updated Auto Input Switch to 1.2.3 (84)
+- Updated Zero Bounty Hostility Fix to 0.4 (124)
+- Updated Assorted Mesh Fixes to 0.91 (178)
+- Updated Load Screen Shading Fix to 0.3 (196)
+- Updated TrueHUD - HUD Additions to 1.1.9 (284)
+- Updated SkyUI - 21x9 Aspect Ratio Support to 3.8.1 (323)
+- Updated DynDOLOD - Resources to 3.00 Alpha-47 (326)
+- Updated DynDOLOD - NG to Alpha-13 (327)
+- Updated ENBSeries - Binaries (no version change) (397)
+- Updated Storm Lightning to 1.4.19 (413)
+- Updated Embers XD to 2.9.3 (450)
+- Updated Just Blood - Dirt and Blood Lite to 1.2 (487)
+- Updated Simplicity of Snow to 0.19 (517)
+- Updated Happy Little Trees to 2.05 (535)
+- Updated Default Face NPCs Fixed to 1.17 (613)
+- Updated Overlooked Dungeon Objects Retextures to 1.5 (731)
+- Updated Rally's Torchbugs to 1.3 (858)
+- Updated Rally's Bliss Bugs to 1.3, resized (859)
+- Updated Rally's Bugs In Jars to 1.3 (860)
+- Updated Dragon Armors and Weapons Retexture to 2.1 (916)
+- Updated Additional Dremora Faces to 1.3.7 (992)
+- Updated Better Third Person Selection to 0.6 (1009)
+- Updated Adamant - A Perk Overhaul to 5.9.1 (1012)
+- Updated Thaumaturgy - Weapon Enchantment XP Tweak to 1.1 (1040)
+- Updated Bandit Lines Expansion to 1.09 (1097)
+- Updated Civil War Lines Expansion to 1.09 (1101)
+- Updated Forsworn and Thalmor Lines Expansion to 1.02 (1102)
+- Updated Vampire Lines Expansion to 1.02 (1103)
+- Updated Immersive Rejections to 1.13 (1158)
+- Updated Bring Meeko To Lod to 1.1 (1262)
+- Updated Falmer Equip Armor to 1.1.10 (1265)
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.3.1 (1278)
+- Updated Candlehearth - Unofficial Patches to 1.16 (1283)
+- Updated Immersive Death Cycle to 1.04 (1298)
+- Updated Headhunter - Bounties Redone to 1.52 (1315)
+- Updated Missile's Immersive Equipment Display Presets to 2.0.1 (1380)
+- Updated Weapon Styles - DrawSheathe Animations for IED to 2.2 (1381)
+- Updated Simple Fishing Overhaul to 1.2 (1395)
+- Updated Baited - A Fishing Artifact Overhaul to 2.0 (1402)
+- Updated Survival Mode Improved to 1.4.1 (1403)
+- Updated Morthal Where's Wares to 2.25 (1416)
+- Updated COTN - Dawnstar - Unique Door Design to 2.0 (1424)
+- Updated Seasonal Landscapes - Additions to 1.7 (1503)
+- Updated Nilheim - Misc Quest Expansion to 1.13 (1524)
+- Update The Heart of Dibella - Quest Expansion to 1.01 (1529)
+- Updated Adamant - Bard Perks Addon - Pilgrim Integration to 1.1 (1544)
+- Updated NPC Animation Remix to 1.8 (1624)
+
+#### Outputs
+
+- Regenerated Synthesis Patches
+- Regenerated LODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
+
 ## Release 4.19.0.1
 
 > 2023-12-11
 
 So, Bethesda went ahead and updated Skyrim, mostly for reasons I don't agree with nor want to get into but it required me to update the list in order for Wabbajack to work again. So, here's a few updates to go along with the mandatory back-end changes.
 
-**Note:** I did not have time to fully test this but I've no reason to believe it's any less stable than the version prior. I've left all vanilla archives the same with the exception of `Skyrim - Misc.bsa` and the list continued to run on 1.6.640. I also did not update MO2 to v2.5.0, although I've included archives for that update as well as some of the plugins that would also need installing. I don't plan on making the jump to the newest version of SSE anytime soon, so mods such as USSEP and AI Overhaul (which was updated for USSEP) have not been touched.
+**Note:** I did not have time to fully test this but I've no reason to believe it's any less stable than the version prior. I've left all vanilla archives the same with the exception of `Skyrim - Misc.bsa` and the list continues to run on 1.6.640. I also did not update MO2 to v2.5.0, although I've included archives for that update as well as some of the plugins that would also need installing. I don't plan on making the jump to the newest version of SSE anytime soon, so mods such as USSEP and AI Overhaul (which was updated for USSEP) have not been touched.
 
 **This works with existing 4.19.0 saves.**
 

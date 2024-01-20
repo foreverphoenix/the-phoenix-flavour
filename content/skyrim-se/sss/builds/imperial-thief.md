@@ -161,7 +161,7 @@ There's nothing you can't steal. Your stealth skills are unmatched. Locks are ju
 * **Eagle Eye 2 (70):** Bows have a 20% chance of dealing critical damage.
 * **Steady Hand (80):** Zooming in with a bow slows down time.
 * **Grim Focus 2 (90):** Critical hits with bows deal five times damage.
-* **Bullseye (100):** Bows deal guaranteed critical damage to enemies at full Health.
+* **Lethal Shot (100):** Your critical chance and critical damage with bows are doubled against enemies who fall below half Health.
 
 #### Illusion
 
@@ -177,7 +177,7 @@ There's nothing you can't steal. Your stealth skills are unmatched. Locks are ju
 * **Adrenaline (60):** You move 20% faster when sprinting while wearing a light armor chest piece.
 * **Agility 2 (60):** You gain 100% Stamina Regeneration when wearing a light armor chest piece.
 * **Specialist 2 (70):** You receive a 50% armor bonus while wearing a light armor chest piece.
-* **Endurance (80):** You spend 25% less Stamina when power attacking or drawing a bow when wearing a light armor chest piece.
+* **Endurance (80):** You spend 20% less Stamina when power attacking or drawing a bow when wearing a light armor chest piece.
 * **Athletics 2 (90):** You move 20% faster while wearing three pieces of light armor.
 * **Second Wind (100):** Your Stamina regenerates twice as fast when you fall below half Stamina when wearing a light armor chest piece.	
 
@@ -261,9 +261,9 @@ You've always twisted the teachings of Dibella to suit your needs, but at the en
 
 #### Zenithar
 
-*Your Carry Weight is increased by 25.*
+*Your buying and selling prices are 10% better.*
 
-Your love of coin naturally leads you to the God of Commerce. He does not support your deceit but praying to Zenithar will grant you deeper pockets nonetheless. Use it for carrying loot, money, potions, or whatever else you might want to keep close at hand.
+Your love of coin naturally leads you to the God of Commerce. He does not support your deceit but praying to Zenithar will grant you deeper pockets nonetheless. Consider visiting a shrine before offloading your stash of gems.
 
 </details>
 

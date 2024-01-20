@@ -265,7 +265,7 @@ Leaning into your elven heritage with Magnus makes you more in tune with sorcery
 
 #### Stendarr
 
-*Your Health Regeneration is increased by 25.*
+*Your Health Regeneration is increased by 25%.*
 
 Knowing when to swing and when to stow your blade is essential for a proper warrior and following Stendarr shows a dedication towards justice. In return, the Steadfast God will help you stay on your feet longer with Health Regeneration.
 

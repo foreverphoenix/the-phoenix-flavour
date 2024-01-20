@@ -168,7 +168,7 @@ Things should reach their natural zeniths after intense studying. Being detected
 * **Eagle Eye 2 (70):** Bows have a 20% chance of dealing critical damage.
 * **Steady Hand (80):** Zooming in with a bow slows down time.
 * **Grim Focus 2 (90):** Critical hits with bows deal five times damage.
-* **Bullseye (100):** Bows deal guaranteed critical damage to enemies at full Health.
+* **Lethal Shot (100):** Your critical chance and critical damage with bows are doubled against enemies who fall below half Health.
 
 #### Conjuration
 

@@ -166,7 +166,7 @@ If anything threatens the knowledge held within Skyrim it'll have to get through
 
 * **Adrenaline (60):** You sprint 20% faster and spend 50% less Stamina when sprinting while wearing a light armor chest piece.
 * **Specialist 2 (70):** You receive a 50% armor bonus while wearing a light armor chest piece.
-* **Endurance (80):** You spend 25% less Stamina when power attacking or drawing a bow while wearing a light armor chest piece.
+* **Endurance (80):** You spend 20% less Stamina when power attacking or drawing a bow while wearing a light armor chest piece.
 * **Athletics 2 (90):** You move 20% faster when wearing three pieces of light armor.
 * **Second Wind (100):** Your Stamina regenerates twice as fast when you fall below half Stamina while wearing a light armor chest piece.
 
@@ -258,11 +258,11 @@ The chief deity of your pantheon is never a bad way to go. Extra Magicka will le
 
 *You gain 10/20% more experience. / You gain an additional bonus that changes based on your bard song.*
 
-Jephre the Singer plays to the bard within you and all 3 additional bonuses are useful here. Play the flute before applying your buffs, then the drum for a defensive buff or the lute for going on the offensive. The God of Songs and Stories will help you protect the world they've grown.
+Jephre the Singer plays to the bard within you and all 3 additional bonuses are useful here. The flute is very situational, but the drum is great for a defensive buff and the lute is perfect for going on the offensive. The God of Songs and Stories will help you protect the world they've grown.
 
 #### Stendarr
 
-*Your Health Regeneration is increased by 25/50%. / Blocking with a shield reduces incoming magic damage by 50%.*
+*Your Health Regeneration is increased by 25/50%. / You are 25% better at blocking and bashing.*
 
 The God of Mercy will gladly lend his steadfastness to the devout, making you more resilient on the frontlines. Health Regeneration complements spells such as Regeneration well and the secondary benefit is perfect for the shield you're already carrying.
 

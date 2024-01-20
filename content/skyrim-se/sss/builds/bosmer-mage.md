@@ -228,7 +228,7 @@ Extra Poison Resistance isn't nothing but it's not what you're here for. A 50% d
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-The Bosmer are Y'ffre's people but you've long since turned your back on him and his Pact. It was the call of **Herma-Mora** that put you on your current quest for forbidden knowledge, and the promises of **Clavicus Vile** that keep you walking it. As your mind opened to new possibilities, you heard of the Natural Order and **Peryite**. All three promise rewards but you're not fool enough to worship any of them to the degree they ask of you.
+The Bosmer are Y'ffre's people but you've long since turned your back on him and his Pact. It was the call of **Herma-Mora** that put you on your current quest for forbidden knowledge, and the promises of **Clavicus Vile** that keep you walking it. As your mind opened to new possibilities, you even found appreciation for the ambition of **Mehrunes Dagon**. All three promise rewards but you're not fool enough to worship any of them to the degree they ask of you.
 
 <details>
 
@@ -244,11 +244,11 @@ Clavicus Vile sings promises of wealth and status and can help you navigate the 
 
 Herma-Mora gives little for your half-hearted devotion but the Spell Absorption can add up nicely with other sources. If you're looking to manipulate your luck on the battlefield, you'll need the Lord of Fate and Knowledge on your side.
 
-#### Peryite
+#### Mehrunes Dagon
 
-*Your potions last 25% longer.*
+*Destruction spells cost 10% less.*
 
-Peryite may be one of the weakest of the Princes but he still knows enough about the Green to help you squeeze that much more from your potions.
+The Sovereign of Destruction sees promise in you, an ambitious destruction mage who's open to revolution. For that, he's willing to make your spells just a little bit easier to cast. This benefit extends to your staves as well.
 
 </details>
 

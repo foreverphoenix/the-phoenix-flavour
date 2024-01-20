@@ -27,6 +27,7 @@ If you are unsure if your Steam installation is up to date, follow these steps:
 - Right click and select **Properties...**
 - Under **Local Files**, select **Verify integrity of game files...**
 - Wait for the process to identify and obtain any files it requires.
+- Launch the game. It should prompt you to download updated Creations. Do so.
 
 ### Set Language to English
 
@@ -35,8 +36,6 @@ If you are unsure if your Steam installation is up to date, follow these steps:
 If you are currently playing in a language other than English, please go into the settings for Skyrim SE in your Steam library and revert the language to English. After changing the language, Steam should automatically download the required files (launch the game to force the download if it doesn’t).
 
 After updating the game language, please launch the game once and quit from the main menu.
-
-> The [Skyrim Anniversary Upgrade](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) is not used in SSS. If prompted, it's recommended that you do not download and enable it. If you do, that's alright, the installer will ignore the extra files.
 
 ## Wabbajack Installation
 Next, you'll need to install the Wabbajack tool itself:
