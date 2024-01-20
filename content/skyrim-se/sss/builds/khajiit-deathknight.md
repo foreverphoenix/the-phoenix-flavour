@@ -259,7 +259,7 @@ The Nine never answered your prayers and their priests paid you no mind except f
 
 #### Mannimarco
 
-*Your Conjuration spells cost 10/20% less. / You can reanimate two additional zombies, but when you do not control at least one reanimated zombie, your Armor Rating is reduced by 300 and your Magic Resistance is reduced by 50%.*
+*Your Conjuration spells cost 10/20% less. / You can reanimate one additional zombie, but when you do not control a reanimated zombie, your Armor Rating is reduced by 150 and your Magic Resistance is reduced by 25%.*
 
 Mannimarco is an obvious choice for necromancers. The downside is barely a hurdle as you'll be able to find a corpse nearly anywhere if not make one quickly enough. Just take care not to encounter any dragons unaccompanied.
 
@@ -271,9 +271,9 @@ You're someone who loves to take what's other's and put it to use. Molagh helps 
 
 #### Namira
 
-*You have 50/100% Disease Resistance. / When you feed on a corpse, your Health regenerates twice as fast. When you have not fed, you cannot regenerate Health.*
+*Your Health is increased by 25/50. / When you feed on a corpse, your Health regenerates twice as fast. When you have not fed, you cannot regenerate Health.*
 
-Namiira can be a darker turn for the build by adding another layer of usefulness to corpses. The health regeneration complements your heavy armor perks well and the disease resistance seems fitting for someone who spends lots of time in tombs.
+Namiira can be a darker turn for the build by adding another layer of usefulness to corpses. Extra Health is always useful on the frontlines and turning the corpses you can't raise into a tremendous source of healing makes you even more durable.
 
 </details>
 

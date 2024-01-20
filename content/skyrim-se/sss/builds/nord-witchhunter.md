@@ -168,12 +168,12 @@ You already have all the tools you need to succeed, but further study will enhan
 
 #### Archery
 
-*Higher crit damage and guaranteed crits at full health. What's there not to like?*
+*Higher crit damage and greater crits against injured enemies. What's there not to like?*
 
 * **Eagle Eye 2 (70):** Bows have a 20% chance of dealing critical damage.
 * **Steady Hand (80):** Zooming in with a bow slows down time.
 * **Grim Focus 2 (90):** Critical hits with bows deal five times damage.
-* **Bullseye (100):** Bows deal guaranteed critical damage to enemies at full Health.
+* **Lethal Shot (100):** Your critical chance and critical damage with bows are doubled against enemies who fall below half Health.
 
 #### Conjuration
 

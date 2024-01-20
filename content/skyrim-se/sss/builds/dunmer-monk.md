@@ -249,27 +249,27 @@ Extra armor on the frontlines is always useful and the damage reflect aspect jus
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-Most Dunmer would shy away from the House of Troubles, but not you. You invite the Daedra and their trials into your life, confronting them in order to reach enlightenment. **Malacath** will test your strength, **Sheogorath** your mental fortitude, and **Mehrunes Dagon** the ambition of your destructive arts. Pay little heed to Molag Bal, who asks too much and gives too little.
+Most Dunmer would shy away from the House of Troubles, but not you. You invite the Daedra and their trials into your life, confronting them in order to reach enlightenment. **Malacath** will test your strength, **Molag Bal** your mental fortitude, and **Mehrunes Dagon** the ambition of your destructive arts. Pay little heed to Sheogorath, whose unpredictability will deprive you of sanity.
 
 <details>
 
 #### Malacath
 
-*You have 25/50 Stamina. /  Power attacks are 50% stronger, but all other attacks are half as strong.*
+*You have 25/50 Stamina. / Power attacks are 50% stronger, but all other attacks are half as strong.*
 
 If you want to lean into your Hand to Hand side, Malacath can be a strong choice. Be mindful that he doesn't tolerate half-measures. Commit to your attacks or they won't be effective. Position yourself well so that you can land power attacks without opening yourself up to extra damage.
 
 #### Mehrunes Dagon
 
-*Destruction spells cost 10/20% less. / You reduce the Fire, Frost, and Shock Resistance of all nearby enemies by up to 50%, but your own Fire, Frost, Shock, and Poison Resistance are reduced by 50%.*
+*Destruction spells cost 10/20% less. / You reduce the Fire, Frost, and Shock Resistance of all nearby enemies by up to 25%, but your own Fire, Frost, and Shock Resistance are reduced by 50%.*
 
 Lowering your own resistances is daunting at first but remember you'll pick up extra resistance from your Alteration perks. The *Lord Stone* and enchantments can also help negate the downside of the Flame Tyrant. With that out of the way, he delivers a very beneficial blessing.
 
-#### Sheogorath
+#### Molag Bal
 
-*Alteration spells cost 10/20% less. / You take 50% more damage from melee weapons, but you reflect 200% of incoming melee damage back at your attacker.*
+*You have 25/50 extra Magicka. / You cannot regenerate Magicka in combat, but you absorb 20 points of Magicka per second from nearby enemies.*
 
-If you can overcome the penalty here, Sheogorath opens up fun possibilities for the build. Combined with the *Tower Stone*, which adds armor, that's 300% melee retaliation damage. Reduce incoming damage further with *Disintegrate Weapon*, made cheaper by this blessing, and enjoy.
+The Corrupter may be the riskiest Daedra to court but doing so will supercharge your magical side. Extra Magicka will allow you to cast stronger spells earlier and more frequently. And you'll keep your reserves reliably full as you'll be in close proximity for your punches.
 
 </details>
 

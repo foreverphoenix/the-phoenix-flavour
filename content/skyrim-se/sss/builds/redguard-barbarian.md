@@ -238,29 +238,29 @@ Movement speed gets you into your preferred range quickly and allows you to weav
 
 > Full religion information can be found on the [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) description page.
 
-Hailing from Hammerfell, you brought your beliefs with you on the Eastway and have no inclination to change your ways. **Tava**, called Kynareth here in Skyrim, is held closest to your heart and is the source of your inner storm. Defeating the Thalmor infidels in **HoonDing's** name is what brought you here to begin with. And one can never forget **Ruptga**, or Tall Papa, who is ever present.
+Hailing from Hammerfell, you brought your beliefs with you on the Eastway and have no inclination to change your ways. **Tava**, called Kynareth here in Skyrim, is held closest to your heart and is the source of your inner storm. **Dibella** may also be familiar to you, especially if you consider yourself a Forebear. And for the Crowns, one can never forget **Ruptga**, or Tall Papa, who is ever present.
 
 <details>
 
-#### HoonDing
+#### Dibella
 
-*Your Stamina is increased by 50. You attack 20% faster when wielding a One-handed weapon with an empty offhand.*
+*Your Stamina Regeneration is increased by 25/50%. / Your Disease Resistance is increased by 100%.*
 
-HoonDing is no Tava but in the early game he'll provide the same benefit and his cause is just as righteous. The Thalmor your people have driven out of Hammerfell need to be pushed out of Skyrim as well. His *Pilgrim (Rank 2)* effect is unfortunate, however, since you'll want to be dual-wielding at that point in your adventure.
+Ever popular among Redguard women, the Lady of Love is a solid choice for this build. Extra Stamina Regeneration is always appreciated and, for those who've rejected the beast blood, you can still obtain its Disease Resistance.
 
 #### Kynareth
 
-*Your Stamina is increased by 50. You move 10% faster and take 50% less damage from falling.*
+*Your Stamina is increased by 25/50. / You move 10% faster and take 50% less damage from falling.*
 
 Tava, the goddess of air, weather and sun is thematically the true option for this build. With *Pilgrim (Rank 2)* you'll be granted extra speed from the goddess. Use it along with other boosts to stay in your opponents' faces where it's most perilous for them.
 
 #### Tall Papa
 
-*You gain 20% more experience. You have an additional unique effect based on your Standing Stone.*
+*You gain 10/20% more experience. / You have an additional unique effect based on your Standing Stone.*
 
 Tall Papa's' experience bonus is almost always beneficial. His additional effects are all useful as well, especially for *Steed Stone* users who want as much speed as possible.  
-* **The Thief Stone:** You spend 25% less Stamina when power attacking or drawing a bow.  
-* **The Lover Stone:** Your Stamina regenerates 50% faster in combat.
+* **The Thief Stone:** You spend 20% less Stamina when power attacking or drawing a bow.
+* **The Lover Stone:** Your Stamina regenerates 50% faster.
 * **The Steed Stone:** You move 10% faster, and your carry weight is increased by 50.
 
 </details>
