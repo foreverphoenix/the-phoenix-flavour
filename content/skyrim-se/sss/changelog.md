@@ -64,66 +64,66 @@ The executables (and SKSE) are remaining on 1.6.640. The rest (plugins and archi
 - Updated Fluency Themes to 1.5
 - Updated NIF Preview to 3.0.2
 - Updated DynDOLOD to 3.00 Alpha-165
-- Updated Address Library for SKSE Plugins to 10 (12)
-- Updated JContainers to 4.2.8 (24)
-- Updated Spell Perk Item Distributor to 6.8.2 (26)
-- Updated Keyword Item Distributor to 3.1 (27)
-- Updated Sound Record Distributor to 1.5 (29)
-- Updated KiLoader for Skyrim to 1.0.8 (34)
-- Updated Scaleform Translation Plus Plus to 1.7 (36)
-- Updated Description Framework to 1.3 (52)
-- Updated Crash Logger to 1.12.1 (54)
-- Updated SSE Display Tweaks to 0.5.16 (62)
-- Updated Unofficial Skyrim Special Edition Patch to 4.3alpha (67)
-- Updated More Informative Console to 1.1 (72)
-- Updated ConsoleUtils to 1.5.1 (74)
-- Updated Auto Input Switch to 1.2.3 (84)
-- Updated Zero Bounty Hostility Fix to 0.4 (124)
-- Updated Assorted Mesh Fixes to 0.91 (178)
-- Updated Load Screen Shading Fix to 0.3 (196)
-- Updated TrueHUD - HUD Additions to 1.1.9 (284)
-- Updated SkyUI - 21x9 Aspect Ratio Support to 3.8.1 (323)
-- Updated DynDOLOD - Resources to 3.00 Alpha-47 (326)
-- Updated DynDOLOD - NG to Alpha-13 (327)
-- Updated ENBSeries - Binaries (no version change) (397)
-- Updated Storm Lightning to 1.4.19 (413)
-- Updated Embers XD to 2.9.3 (450)
-- Updated Just Blood - Dirt and Blood Lite to 1.2 (487)
-- Updated Simplicity of Snow to 0.19 (517)
-- Updated Happy Little Trees to 2.05 (535)
-- Updated Default Face NPCs Fixed to 1.17 (613)
-- Updated Overlooked Dungeon Objects Retextures to 1.5 (731)
-- Updated Rally's Torchbugs to 1.3 (858)
-- Updated Rally's Bliss Bugs to 1.3, resized (859)
-- Updated Rally's Bugs In Jars to 1.3 (860)
-- Updated Dragon Armors and Weapons Retexture to 2.1 (916)
-- Updated Additional Dremora Faces to 1.3.7 (992)
-- Updated Better Third Person Selection to 0.6 (1009)
-- Updated Adamant - A Perk Overhaul to 5.9.1 (1012)
-- Updated Thaumaturgy - Weapon Enchantment XP Tweak to 1.1 (1040)
-- Updated Bandit Lines Expansion to 1.09 (1097)
-- Updated Civil War Lines Expansion to 1.09 (1101)
-- Updated Forsworn and Thalmor Lines Expansion to 1.02 (1102)
-- Updated Vampire Lines Expansion to 1.02 (1103)
-- Updated Immersive Rejections to 1.13 (1158)
-- Updated Bring Meeko To Lod to 1.1 (1262)
-- Updated Falmer Equip Armor to 1.1.10 (1265)
-- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.3.1 (1278)
-- Updated Candlehearth - Unofficial Patches to 1.16 (1283)
-- Updated Immersive Death Cycle to 1.04 (1298)
-- Updated Headhunter - Bounties Redone to 1.52 (1315)
-- Updated Missile's Immersive Equipment Display Presets to 2.0.1 (1380)
-- Updated Weapon Styles - DrawSheathe Animations for IED to 2.2 (1381)
-- Updated Simple Fishing Overhaul to 1.2 (1395)
-- Updated Baited - A Fishing Artifact Overhaul to 2.0 (1402)
-- Updated Survival Mode Improved to 1.4.1 (1403)
-- Updated Morthal Where's Wares to 2.25 (1416)
-- Updated COTN - Dawnstar - Unique Door Design to 2.0 (1424)
-- Updated Seasonal Landscapes - Additions to 1.7 (1503)
-- Updated Nilheim - Misc Quest Expansion to 1.13 (1524)
-- Update The Heart of Dibella - Quest Expansion to 1.01 (1529)
-- Updated Adamant - Bard Perks Addon - Pilgrim Integration to 1.1 (1544)
-- Updated NPC Animation Remix to 1.8 (1624)
+- Updated Address Library for SKSE Plugins to 10
+- Updated JContainers to 4.2.8
+- Updated Spell Perk Item Distributor to 6.8.2
+- Updated Keyword Item Distributor to 3.1
+- Updated Sound Record Distributor to 1.5
+- Updated KiLoader for Skyrim to 1.0.8
+- Updated Scaleform Translation Plus Plus to 1.7
+- Updated Description Framework to 1.3
+- Updated Crash Logger to 1.12.1
+- Updated SSE Display Tweaks to 0.5.16
+- Updated Unofficial Skyrim Special Edition Patch to 4.3alpha
+- Updated More Informative Console to 1.1
+- Updated ConsoleUtils to 1.5.1
+- Updated Auto Input Switch to 1.2.3
+- Updated Zero Bounty Hostility Fix to 0.4
+- Updated Assorted Mesh Fixes to 0.91
+- Updated Load Screen Shading Fix to 0.3
+- Updated TrueHUD - HUD Additions to 1.1.9
+- Updated SkyUI - 21x9 Aspect Ratio Support to 3.8.1
+- Updated DynDOLOD - Resources to 3.00 Alpha-47
+- Updated DynDOLOD - NG to Alpha-13
+- Updated ENBSeries - Binaries (no version change)
+- Updated Storm Lightning to 1.4.19
+- Updated Embers XD to 2.9.3
+- Updated Just Blood - Dirt and Blood Lite to 1.2
+- Updated Simplicity of Snow to 0.19
+- Updated Happy Little Trees to 2.05
+- Updated Default Face NPCs Fixed to 1.17
+- Updated Overlooked Dungeon Objects Retextures to 1.5
+- Updated Rally's Torchbugs to 1.3
+- Updated Rally's Bliss Bugs to 1.3, resized
+- Updated Rally's Bugs In Jars to 1.3
+- Updated Dragon Armors and Weapons Retexture to 2.1
+- Updated Additional Dremora Faces to 1.3.7
+- Updated Better Third Person Selection to 0.6
+- Updated Adamant - A Perk Overhaul to 5.9.1
+- Updated Thaumaturgy - Weapon Enchantment XP Tweak to 1.1
+- Updated Bandit Lines Expansion to 1.09
+- Updated Civil War Lines Expansion to 1.09
+- Updated Forsworn and Thalmor Lines Expansion to 1.02
+- Updated Vampire Lines Expansion to 1.02
+- Updated Immersive Rejections to 1.13
+- Updated Bring Meeko To Lod to 1.1
+- Updated Falmer Equip Armor to 1.1.10
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.3.1
+- Updated Candlehearth - Unofficial Patches to 1.16
+- Updated Immersive Death Cycle to 1.04
+- Updated Headhunter - Bounties Redone to 1.52
+- Updated Missile's Immersive Equipment Display Presets to 2.0.1
+- Updated Weapon Styles - DrawSheathe Animations for IED to 2.2
+- Updated Simple Fishing Overhaul to 1.2
+- Updated Baited - A Fishing Artifact Overhaul to 2.0
+- Updated Survival Mode Improved to 1.4.1
+- Updated Morthal Where's Wares to 2.25
+- Updated COTN - Dawnstar - Unique Door Design to 2.0
+- Updated Seasonal Landscapes - Additions to 1.7
+- Updated Nilheim - Misc Quest Expansion to 1.13
+- Update The Heart of Dibella - Quest Expansion to 1.01
+- Updated Adamant - Bard Perks Addon - Pilgrim Integration to 1.1
+- Updated NPC Animation Remix to 1.8
 
 #### Outputs
 
