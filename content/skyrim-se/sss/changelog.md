@@ -6,9 +6,42 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 4.19.0.3
+
+> 2024-01-22
+
+Well, that was a waste of time. There's no longer a "Best of Both Worlds" approach to this, I'm learning, so the list has been reverted fully to 1.6.640 exes, plugins, and archives. This means it's no longer compatible with updated USSEP and a few mods I wanted to put into 4.19.1, but it also won't have the odd bugs that have been plaguing the list since 4.19.0.1. Hopefully.
+
+<details>
+
+#### Changes
+
+- **Official Master Files:** Reverted all archives and plugins back to 1.6.640 versions
+- **Creation Club:** Removed the Resource Pack
+- **SkyUI:** Reverted SkyUI - Remove QuickSave Button back to its original version
+- **Essentials:** Removed Backported Extended ESL Support
+- **Widescreen Support:** Reverted SkyUI - Remove QuickSave Button - 21x9 Aspect Ratio Support back to its original version
+- **Configuration:** Hid the Stealth Meter through SkyHUD as well as previous methods
+
+### Updates
+
+- Downgraded Unofficial Skyrim Special Edition Patch to 4.9.2a
+- Updated Enemies Respect Encounter Zones to 1.4.2
+
+#### Outputs
+
+- Regenerated Synthesis Patches
+- Regenerated LODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
+
 ## Release 4.19.0.2
 
 > 2024-01-20
+
 
 Bethesda released a second update (1.6.1170) which means another recompile is necessary in order to keep the list installable on WJ. And it's for the better, as 4.19.0.1 handled that last update (1.6.1130) poorly and there were stability issues. I'm hoping that's fixed now with this release.
 
