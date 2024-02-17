@@ -28,7 +28,9 @@ Meanwhile, ESL plugins have a five-character **Index:** `FExxx`. The hexadecimal
 
 ### Plugin Capacity
 
-The downside of ESLs is that they can store fewer unique Form IDs because they only have three permanent characters as opposed to six in ESPs/ESMs. Every ESL can only store 4096 unique Form IDs of which the first 2048 are reserved by the engine.
+The downside of ESLs is that they can store fewer unique Form IDs because they only have three permanent characters as opposed to six in ESPs/ESMs. ~~Every ESL can only store 4096 unique Form IDs of which the first 2048 are reserved by the engine.~~
+
+**Update:** Since the release of Skyrim SE 1.6.1130.0, the range of Form IDs usable by ESL plugins has been doubled to 4096.
 
 {{< alert color="warning" >}}This limit affects only <u>new records</u>. There is no limit on how many records defined in *other* plugins can be copied into an ESL (or any other plugin type for that matter).{{< /alert >}}
 
@@ -48,13 +50,13 @@ If a plugin (ESP or ESM) <u>does</u> add new records (Form IDs), they may need t
 
 Think about the differences in the Form ID format: While an ESP/ESM Form ID can have six character (+Index), an ESL can only have three (+Index). If there are Form IDs in the mod you wish to ESL-ify that extend beyond the final three characters, they have to be renumbered first to make room for the ESL Index.
 
-**Remember that a plugin can only be ESL-ified if it has less than 2048 new records.**
+**Remember that a plugin can only be ESL-ified if it has less than ~~2048~~ 4096 new records.**
 
 Notably, not <u>all</u> plugins with new records need compacting. For example, in SkyUI_SE.esp, the new Form IDs only use the final three characters which means the first five characters are already freed up for the ESL Index and no change is required before adding the ESL flag:
 
 ![SkyUI Forms](/Pictures/skyforge/knowledge-base/esl-plugins/skyui-forms.png)
 
-{{< alert color="info" >}}Never ESL-ify a plugin that adds a new interior CELL or you will [completely break it](/Pictures/skyforge/beginners-guide/myrwatch-broken.jpg) as soon as another plugin attempts to modify it in any way.{{< /alert >}}
+{{< alert color="info" >}}**Never ESL-ify a plugin that adds a new interior CELL** or you will [completely break it](/Pictures/skyforge/beginners-guide/myrwatch-broken.jpg) as soon as another plugin attempts to modify it in any way.{{< /alert >}}
 
 ## Compacting Form IDs
 

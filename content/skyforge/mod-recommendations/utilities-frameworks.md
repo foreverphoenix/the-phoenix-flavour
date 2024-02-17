@@ -6,6 +6,14 @@ description: >
   Mod recommendations.
 ---
 
+##### [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
+
+{{< alert color="success" >}}**Essential** for everyone who [downgraded](/skyforge/modding-resources/downgrade-skyrim/) to versions older than SSE 1.6.1130.{{< /alert >}}
+
+With the Skyrim SE **1.6.1130.0** update the Form ID range for [ESL Plugins](/skyforge/knowledge-base/esl-plugins/) was doubled. ESPs/ESMs can also use the new forms. When using a version of Skyrim that is downgraded to **1.6.640.0** or older, loading such plugins will cause the game to crash unless this mod is installed.
+
+**Requirements:** Skyrim Script Extender, Address Library for SKSE
+
 ##### [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 
 {{< alert color="success" >}}**Essential.** Everyone should install this mod.{{< /alert >}}
@@ -16,7 +24,7 @@ I recommend pairing the plugin with [Crash Log Tools](/skyforge/tool-setup/crash
 
 **Requirements:** Skyrim Script Extender, Address Library for SKSE
 
-##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files)
+##### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
 
 {{< alert color="success" >}}**Essential.** Everyone should install this mod.{{< /alert >}}
 
@@ -61,8 +69,6 @@ KeyboardToggle = 66
 ```
 
 <u>Remember to save your changes before closing the window.</u>
-
-I added `Game will pause in plugin browser. Changed hotkey to F8.` to the Notes tab afterwards.
 
 #### Controller Tweak
 

@@ -29,9 +29,9 @@ For more details, see [Creation Club](/skyforge/knowledge-base/creation-club/).
 
 ### Skyrim AE
 
-Skyrim Anniversary Edition (SAE) was released in 2021 and is often described as a third version of the game, after SLE and SSE. This is fundamentally incorrect. **Skyrim AE has no meaningful technical differences from SSE** and is simply packaged with all Creation Club content. It is, in effect, a regular SSE update with some additional content.
+Skyrim Anniversary Edition (SAE) was released in 2021 and is often described as a third version of the game, after SLE and SSE. This is fundamentally incorrect. **Skyrim AE has no meaningful technical differences from Skyrim SE** and is simply packaged with all Creation Club content. It is, in effect, a regular SSE update with some additional content.
 
-{{< alert color="warning" >}} With the exception of mods that always need to be updated when the game updates (i.e., SKSE and SKSE plugins), mods do not need to be ported from SSE to SAE.{{< /alert >}}
+{{< alert color="warning" >}}With the exception of mods that always need to be updated when the game updates (i.e., SKSE and SKSE plugins), mods do not need to be ported from SSE to SAE.{{< /alert >}}
 
 ### Storefronts
 
@@ -43,7 +43,15 @@ Skyrim SE is available from multiple sources:
 
 SKSE is available for the **Steam** and **GOG** versions, but <u>not</u> for the **Game Pass** version. However, because there is a separate version of SKSE, not all mods with SKSE plugins offer compatibility for the GOG version of Skyrim SE.
 
-**The Steam version of Skyrim SE is the best option for modding.**
+### Skyrim SE Patches
+
+Since its release, Skyrim Special Edition has received a number of patches. Most were updates for the Creation Club. Since each update also required an update for the Skyrim Script Extender or mods that use SKSE plugins, there are some versions of the game which have better mod support than others.
+
+You can find all [patch notes](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch) on UESP.net.
+
+- **1.5.97** Last version before the release of the AE DLC
+- **1.6.640** <mark>Post-AE version with the best mod support</mark>
+- **1.6.1170** Latest version (see [this reddit post](https://www.reddit.com/r/skyrimmods/comments/18btob5/updated_information_about_the_new_skyrim_update/) for details on the technical changes)
 
 ## Consoles
 
@@ -57,8 +65,8 @@ Skyrim SE was also ported to the **Nintendo Switch** in 2017. Modding is possibl
 
 Skyrim SE can be modded on a **Steam Deck**; however, there are some limitation due to the Deck running on Linux.
 
-{{< alert >}} While technically possible, <u>modding on PlayStation and XBOX is not comparable to modding on PC</u> due to the hard limit on space and the lack of access to the root folder which makes it impossible to use advanced mods/tools like SKSE and ENB.{{< /alert >}}
+{{< alert color="info" >}}While technically possible, <u>modding on PlayStation and XBOX is not comparable to modding on PC</u> due to the hard limit on space and the lack of access to the root folder which makes it impossible to use advanced mods/tools like SKSE and ENB.{{< /alert >}}
 
 ## VR
 
-A VR version of Skyrim was released for Windows and PlayStation VR. Though based on Skyrim SE, it has various technical differences, requires its own version of SKSE, and is not always compatible with Skyrim SE mods.
+A VR version of Skyrim was released for Windows and PlayStation VR. Though based on Skyrim SE, it has various technical differences, requires its own version of SKSE, and is not always compatible with Skyrim SE mods. I will not be able to cover VR modding on this site as I do not own a VR set.

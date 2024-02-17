@@ -140,10 +140,9 @@ A message box will pop up, informing you that Skyrim SE will now be configured b
 
 Quit the game from the main menu.
 
-{{< alert color="success" >}}If you got this far, everything appears to be running smoothly and you are ready to start modding.{{< /alert >}}
-
 ---
 
-#### If you are currently working through the Core Module, return to [Step 1](/skyforge/beginners-guide/step1/#nexus-mods).
+#### Next Steps
 
-#### Recommended next step: [MO2 Setup](/skyforge/modding-resources/mo2-setup/).
+- If you are currently working through the Beginner's Guide, return to [Step 1](/skyforge/beginners-guide/step1/#nexus-mods).
+- Otherwise make sure to perform a [Skyrim Version Check](/skyforge/modding-resources/skyrim-version-check/) next.

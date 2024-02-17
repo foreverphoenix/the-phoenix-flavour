@@ -27,7 +27,8 @@ Whenever Skyrim updates, the modding community tends to catch up within a few we
 - **Skyrim SE 1.5.97:** Last pre-AE version of Skyrim SE (requires SKSE 2.0.20)
 - **Skyrim SE 1.6.317:** Skyrim SE patch that accompanied the AE release (requires SKSE 2.1.0)
 - **Skyrim SE 1.6.353:** Post-AE version of Skyrim SE with most mods ported (requires SKSE 2.1.5)
-- **Skyrim SE 1.6.640:** Current version of Skyrim SE (requires SKSE 2.2.3) << <u>this is what we are running</u>
+- **Skyrim SE 1.6.640:** Version of Skyrim SE with best mod support (requires SKSE 2.2.3) << <u>this is what we are running</u>
+- **Skyrim SE 1.6.1170:** Latest version
 
 ([Full Skyrim SE version history with changelogs](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch).)
 

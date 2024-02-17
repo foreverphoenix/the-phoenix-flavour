@@ -8,13 +8,13 @@ description: >
 
 ## Welcome 
 
-This section of the website hosts the **Skyforge**, a beginner's guide and repository of resources for modding Skyrim. It is the official successor to my old The Phoenix Flavour guide before it became Wabbajack-exclusive and is intended to offer a comprehensive introduction to and knowledge base for Skyrim modding enthusiasts.
+This section of the website hosts **The Skyforge Project**, a beginner's guide and repository of resources for modding Skyrim. It is the official successor to **The Phoenix Flavour**, my old guide before it became Wabbajack-exclusive, and is intended to offer a comprehensive introduction to and knowledge base for Skyrim modding enthusiasts.
 
 {{< alert color="warning" >}}At present, the [Beginner's Guide](/skyforge/beginners-guide/step-1/) is in early stages and a <u>work in progress</u>.{{< /alert >}}
 
 ### The Modding Journey
 
-Getting into Skyrim modding can be a daunting experience. Beckoned by the sheer volume of high quality mods, many newcomers quickly feel overwhelmed by seemingly inexplicable issues cropping up left and right. Googling for a fix rarely yields a tailor-made solution.
+Getting into Skyrim modding can be a daunting experience. Beckoned by the sheer volume of mods, many newcomers quickly feel overwhelmed by seemingly inexplicable issues cropping up left and right. Googling for a fix rarely yields a tailor-made solution.
 
 **The good news is: There is no magic involved in modding Skyrim.** If there is a problem, there is a reason for it, and with at least a basic understanding of how mods are structured and how they function you can painlessly fix most issues or prevent them from occurring to begin with. All it takes is some patience and the willingness to read.
 
@@ -68,9 +68,9 @@ If you think Vortex is great for modding, Root Builder unnecessary, and LOOT tot
 
 ### Comparison to TPF
 
-While I described this Beginner's Guide as the successor to my old manual guide, it is, in fact, quite different in various regards.
+While I described the Skyforge project as the successor to my old manual guide, it is, in fact, quite different in various regards.
 
-A traditional manual modding guide is intended to talk you through the creation of a <u>complete setup</u>. This is what TPF did and it is what the STEP guide and what Lexy's LOTD still do. The Core Module of my Beginner's Guide is closest to that experience; however, it will not yield anything close to a complete setup. Quite the opposite: It will aid you in building a solid foundation for your own setup which you need to build yourself while teaching you (many of) the necessary skills to do so.
+A traditional manual modding guide is intended to talk you through the creation of a <u>complete setup</u>. This is what TPF did and it is what the STEP guide and Lexy's LOTD still do. My Beginner's Guide is closest to that experience; however, it will not yield anything close to a complete setup. Quite the opposite: It will aid you in building a solid foundation for your own setup which you need to build yourself while teaching you (many of) the necessary skills to do so.
 
 The obvious advantage is that you are not tied to a guide writer's preferences. With an emphasis on explaining the underlying reasons for taking certain steps and going through certain processes, my instructions here are both more elaborate but also require more active thinking and memorising on the part of the reader.
 
@@ -78,11 +78,11 @@ The obvious advantage is that you are not tied to a guide writer's preferences. 
 
 ## About me
 
-Hi! I'm Phoenix (24/nb). At the time of this writing, I have been modding Skyrim for about ten years which makes me feel extremely old in the way that only 20-something people can. Gosh, look at me, I'm practically ancient.
+Hi! I'm Phoenix (25/nb). At the time of this writing, I have been modding Skyrim for over ten years which makes me feel extremely old. Gosh, look at me, I'm practically ancient.
 
 Once upon a time, I was modding Skyrim with Nexus Mod Manager and LOOT on my crappy old laptop, feeling very accomplished when I incorporated Bashed Patches and Merged Patches into my workflow. I ran Climates of Tamriel and Realistic Lighting Overhaul with RealVision ENB (good old days) and I routinely failed at properly installing SKSE or ENBSeries. But I kept at it because I really, really enjoyed modding and eventually I got better at it.
 
-In December 2017 I finally realised a dream of mine by publishing my own modding guide, The Phoenix Flavour. I will be honest with you, it was pretty terrible at first. I had no idea what I was doing! In the following years, TPF moved several times, off the Nexus to Wordpress-based websites and finally to much more sophisticated Hugo-based static site (that's where you are right now!). The guide steadily grew in scope and quality thanks to generous community feedback.
+In December 2017 I finally realised a dream of mine by publishing my own modding guide, The Phoenix Flavour. To be perfectly honest, it was pretty terrible at first. I had no idea what I was doing! In the following years, TPF moved several times, off the Nexus to Wordpress-based websites and finally to a much more sophisticated Hugo-based static site (that's where you are right now!). The guide steadily grew in scope and quality thanks to generous community feedback and many contributions.
 
 The release of Wabbajack in 2019 changed the modding world, especially for guide authors. Suddenly we could share setups in a fraction of the time, but at the cost of the "educational" benefits we previously offered. For a time, I took a hybrid approach by continuing the manual guide alongside a Wabbajack version which only worked thanks to zDas, Lively, and especially Cody who maintained the Wabbajack version at various points in time.
 

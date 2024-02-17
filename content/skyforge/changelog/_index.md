@@ -3,14 +3,14 @@ title: "Changelog"
 weight: 9
 type: docs
 description: >
-  Documentation for updates and additions to the Skyforge Project.
+  Documentation for updates and additions to The Skyforge Project.
 ---
 
 ## TBD
 
-Some reshuffling occured:
+I am back, baby!
 
-- This entire section of the website is now branded as the **Skyforge Project**
+- This entire section of the website is now **The Skyforge Project**
 - The **Core Module** was renamed to **Beginner's Guide**
 - The **Additional Modules** section was renamed to **Modding Resources**
 - The **Recommended Mods** section was renamed to **Mod Recommendations**
@@ -27,21 +27,29 @@ All links were (hopefully!) updated.
 #### Modding Resources
 
 - [Managing Creations](/skyforge/modding-resources/managing-creations/): Some rewrites, moved Curation Club installation to different page
+- [Downgrade Skyrim](/skyforge/modding-resources/downgrade-skyrim/): Added instructions on how to manually downgrade Skyrim (1.6.1170.0 > 1.6.640.0)
 
 #### Mod Recommendations
 
+- [Utilities & Frameworks](/skyforge/mod-recommendations/utilities-frameworks/): Added Backported Extended ESL Support
 - [Utilities & Frameworks](/skyforge/mod-recommendations/utilities-frameworks/): Removed *Rogue Master Detector* (replaced by [Mod Load Order Checker](/skyforge/tool-setup/mod-load-order-checker/))
 - [Maps & Markers](/skyforge/mod-recommendations/maps-markers/): Added new Maps & Markers page
 
 #### Knowledge Base
 
+- [ESL Plugins](/skyforge/knowledge-base/esl-plugins/): Updated article to reflect the newly doubled Form ID range for ESLs
 - [Late Loaders](/skyforge/knowledge-base/late-loaders/): Added new Late Loaders article
 - [Large Reference Bug](/skyforge/knowledge-base/large-reference-bug/): Added new Large Reference Bug article
 - [MO2 Plugins](/skyforge/knowledge-base/mo2-plugins/): Added new MO2 Plugins page
+- [Skyrim Versions](/skyforge/knowledge-base/skyrim-versions/): Added small paragraph about Skyrim SE Patches
 
 #### External Resources
 
 - [External Resources](/skyforge/external-resources/): Added new External Resources page, to be expanded
+
+#### Other
+
+- New CSS styling for (default) divider line
 
 ## 07/08/2023
 

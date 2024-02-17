@@ -18,7 +18,7 @@ The Quick Start guide is linking to and drawing on various other articles and pa
 
 The Quick Start guide is an overview of my process and a blueprint for building a new setup. **It does not provide an introduction to modding basics** and expects you to know how to use SSEEdit, create patches, and modify assets.
 
-{{< alert color="info" >}}If you are more interested in a comprehensive step-by-step guide to modding from start to finish, I recommend checking the [Core Module](/skyforge/beginners-guide/step1/) instead.{{< /alert >}}
+{{< alert color="info" >}}If you are more interested in a comprehensive step-by-step guide to modding from start to finish, I recommend checking the [Beginner's Guide](/skyforge/beginners-guide/step1/) instead.{{< /alert >}}
 
 Recommended reading:
 
@@ -37,6 +37,7 @@ A new setup always begins with a good amount of spring-cleaning and basic steps.
 Use this time to think about mods and themes for the setup you want to build: Are you going for heavily overhauled visuals with tough survival gameplay? Are you interested in EnaiRim extravaganza with Legacy of the Dragonborn? Are you looking to try every quest mod on the Nexus? You still have plenty of time to make up your mind, but think about your general direction while you build the foundation of your setup.
 
 1. Perform a [Clean Install](/skyforge/modding-resources/clean-install/) of Skyrim SE.
+   - *Remember to perform a [Skyrim Version Check](/skyforge/modding-resources/skyrim-version-check/) and [downgrade](/skyforge/modding-resources/downgrade-skyrim/) if necessary.*
 2. Set up a new instance of [Mod Organizer 2](/skyforge/tool-setup/mo2/).
    - *Also check the [MO2 Plugins](/skyforge/knowledge-base/mo2-plugins/) page for recommended extensions.*
 3. [Import your Creations](/skyforge/modding-resources/managing-creations/) into Mod Organizer 2.
@@ -50,7 +51,7 @@ Use this time to think about mods and themes for the setup you want to build: Ar
 
 At this point everyone owns at least the four free Creations (Fishing, Survival, Rare Curios, Saints & Seducers), though not everyone picked up the remaining Creations or the full Anniversary Edition DLC.
 
-Forgoing the AE DLC should not negatively impact your modding experience but skipping the four free Creations is difficult as nn increasing amount of mods, including the [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266), now require them. Skipping the USSEP significantly complicates matters simply because it is in turn required by a vast amount of mods.
+Forgoing the AE DLC should not negatively impact your modding experience but skipping the four free Creations is difficult as an increasing amount of mods, including the [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266), now require them. Skipping the USSEP significantly complicates matters simply because it is in turn required by a vast amount of mods.
 
 Even if you are completely opposed to using the four free Creations, I recommend installing them. Survival Mode can be easily neutralised by [disabling the prompt](https://www.nexusmods.com/skyrimspecialedition/mods/59049) and the mediocre Saints & Seducers quest can be completely replaced with [a full remake](https://www.nexusmods.com/skyrimspecialedition/mods/72772). Finally, the Fishing quests can be removed by installing the [reduced cut](https://www.nexusmods.com/skyrimspecialedition/mods/80379). This may be a good compromise between removing poor quality Creation content from your game while still being able to keep the plugins as master files to dependent mods like the USSEP.
 
@@ -170,11 +171,11 @@ The weather + lighting + post-processing combination that you choose will largel
 
 {{< alert color="info">}}You can easily swap to a different weather overhaul or post-processing preset should you wish to. However, note that swapping out a lighting overhaul is a great deal more work on account of the required patching.{{< /alert >}}
 
-## Central Theme
+## List Concept
 
 You have created the skeleton of your setup. Now it is time to put some meat on those bones.
 
-At this point, it is time to consider what specifically you wish to achieve with your setup - picking a central theme, as it were. Of course, you can also set yourself multiple goals, depending on your modding abilities.
+At this point, it is time to consider what specifically you wish to achieve with your setup, picking a concept or theme for your list. Of course, you can also set yourself multiple goals, depending on your modding capabilities.
 
 There are three basic types of setups:
 
@@ -182,7 +183,7 @@ There are three basic types of setups:
 - **Consistency:** A setup focused on consistency may go beyond vanilla by adding major overhauls, new gameplay mechanics, and new content, but always does so with an emphasis on consistency with the vanilla game and other mods.
 - **New Game:** A setup intended to create an entirely new game drastically changes Skyrim in terms of visuals, gameplay, and/or core theme. This is what most people gravitate to after inevitably growing bored with vanilla.
 
-To give you an example, SimonMagus' gameplay overhauls ("SimonRim") modify vanilla mechanics while focusing on *consistency* with each other and the original game. Meanwhile, EnaiSiaion's gameplay overhauls ("EnaiRim") focus on adding colourful builds that feel like playing a *new game*.
+To give you an example, SimonMagus' gameplay overhauls ("SimonRim") modify vanilla mechanics while focusing on *consistency* with each other and the vanilla game. Meanwhile, EnaiSiaion's gameplay overhauls ("EnaiRim") focus on adding colourful builds that feel like playing a *new game*.
 
 {{< alert color="info" >}} It may help to first consider whether you are trying to improve the vanilla game, overhaul it while staying true to the original theme, or build an entirely new experience.{{< /alert >}}
 
