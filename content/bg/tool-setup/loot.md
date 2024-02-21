@@ -79,4 +79,4 @@ Users of the default theme can do this by adding a new stylesheet:
 
 Afterwards, you need to [select the new stylesheet](/Pictures/bg/tool-setup/loot/remove-sort-button.png) in the **Themes** tab in the Mod Organizer 2 settings.
 
-If you are using a different theme, you can modify its stylesheet file (.QSS). Open it in a text editor and use CTRL+F to see if it modifies anything about the `#bossButton` component. Add the snippet from above, replacing any other code for the button.
+If you are using a different theme, you can modify its stylesheet file (.QSS). Open it in a text editor and use CTRL+F to see if it modifies anything about the `#sortButton` component. Add the snippet from above, replacing any other code for the button.
