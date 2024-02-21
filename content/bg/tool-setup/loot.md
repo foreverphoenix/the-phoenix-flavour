@@ -67,7 +67,7 @@ Users of the default theme can do this by adding a new stylesheet:
 
 ```
 /* Sort button */
-#bossButton {
+#sortButton {
     qproperty-iconSize:0px;
     min-width:0px;
     width:0px;
