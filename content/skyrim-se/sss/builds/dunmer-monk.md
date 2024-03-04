@@ -38,7 +38,7 @@ Red Mountain’s Wisdom: Your Fire Resistance is increased by 50%, and your sp
 
 You are not a wildfire; you are a deliberate, controlled burn. You deftly slip into position, starting fights on your own terms to give yourself the most advantage. Once the fight has broken out, turn up the heat with your Fire magic and a flurry of fists and eliminate your threats one by one. With the aid of Alteration magic you'll be formidable on the frontlines, imposing and able to withstand your opponent's counterattacks. A visit to Solstheim is a must. The island has not only the shrines for your pilgrimage but a number of spells that complement your skills. With all these tools in hand, you will make your ancestors proud.
 
-Heavily consider taking on the beast blood as yet another challenge from the Daedra. Its *Animal* tree of perks will grant you vital Health and Stamina Regeneration that's lacking in the main build as well as unarmed damage and increased Movement Speed.
+Heavily consider taking on the beast blood as yet another challenge from the Daedra. Its *Animal* tree of perks will grant you vital Health and Stamina Regeneration that's lacking in the main build as well as increased unarmed damage and Movement Speed.
 
 ## Perks
 
@@ -213,6 +213,31 @@ Now is the time for your trial and your reward. Unlock *Cultist Rank 2* as soon 
 
 </details>
 
+### Werewolf
+
+> Full perk information can be found on the [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) description page.
+
+A gift from Hircine can be seen as another challenge from the Daedra. Embrace it and push yourself to new heights.
+
+* **Animal Senses:** For 60 seconds, you have improved night vision and you can detect nearby living creatures.
+* **Lycanthrope:** As a werewolf, your Poison Resistance is reduced by 50%, but your Disease Resistance is increased by 100%.
+
+<details>
+
+#### Werewolf Perks
+
+*Resist the temptation to give into the power and reap its benefits in your mortal form.*
+
+* **Manbeast 1:** As a Werewolf, you deal 25% extra damage.
+* **Animal Vitality 1:** Your Stamina Regeneration is increased by 50% in beast form and by 25% in mortal form.
+* **Animal Strength 1:** Your Health Regeneration is increased by 50% in beast form and by 25% in mortal form.
+* **Animal Vigor 1:** Your unarmed damage is increased by 10.
+* **Animal Vigor 2:** Your unarmed damage is increased by 10 and your Movement Speed is increased by 10% in mortal form and in beast form.
+* **Animal Strength 2:** Your Health Regeneration is increased by 100% in beast form and by 50% in mortal form.
+* **Animal Vitality 2:** Your Stamina Regeneration is increased by 100% in beast form and by 50% in mortal form.
+
+</details>
+
 ## Standing Stones
 
 > Full standing stone information can be found on the [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) description page.
@@ -241,7 +266,7 @@ One thing this build lacks is built-in healing and the Lord provides. On top of 
 
 ***Warden’s Wall:*** *Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.*
 
-Extra armor on the frontlines is always useful and the damage reflect aspect just adds that much more to your offense. If you choose Sheogorath as your deity, this is a perfect match.
+Extra armor on the frontlines is always useful and the damage reflect aspect just adds that much more to your offense. If you've stacked Reflect Damage enchantments, this is a perfect complement.
 
 </details>
 
@@ -263,7 +288,7 @@ If you want to lean into your Hand to Hand side, Malacath can be a strong choice
 
 *Destruction spells cost 10/20% less. / You reduce the Fire, Frost, and Shock Resistance of all nearby enemies by up to 25%, but your own Fire, Frost, and Shock Resistance are reduced by 50%.*
 
-Lowering your own resistances is daunting at first but remember you'll pick up extra resistance from your Alteration perks. The *Lord Stone* and enchantments can also help negate the downside of the Flame Tyrant. With that out of the way, he delivers a very beneficial blessing.
+Lowering your own resistances is daunting at first but remember you'll pick up extra resistance from your Alteration perks and spells. The *Lord Stone* and enchantments can also help negate the downside of the Flame Tyrant. With that out of the way, he delivers a very beneficial blessing.
 
 #### Molag Bal
 
@@ -283,22 +308,22 @@ The Corrupter may be the riskiest Daedra to court but doing so will supercharge 
 
 ### Alteration
 
-Your primary benefit here is defending yourself but this school of magic offers a multitude of treats you can partake in. Don't be shy about dabbling in its offerings, the 3 spells below barely scratch the surface of what's useful.
+Your primary purpose here is defending yourself but this school of magic offers a multitude of treats you can partake in. Don't be shy about dabbling in its offerings, the 3 spells below barely scratch the surface of what's useful.
 
 * **Oakflesh (Novice+):** *Your Armor Rating is increased by 40 for 120 seconds.*  
 Your main source of armor throughout your adventures. With perks, this will give you stagger resistance, magic resistance, and magic absorption, making you incredibly beefy in robes.
 
 * **Fire Shell (Adept+):** *Your Fire Resistance is increased by 50% for 120 seconds.*  
-You're not using this for the extra Fire Resistance, though it's nice. You're using it to empower your unarmed strikes with *Spell Strike*. Grab that perk as soon as you hit 60 Alteration.
+You're not using this for the extra Resistance (though it's nice, especially under Mehrunes Dagon). You're using it to empower your unarmed strikes with *Spell Strike*. Grab that perk as soon as you hit 60 Alteration.
 
 * **Weakness to Fire (Expert):** *You reduce enemy Fire Resistance by 50% for 60 seconds.*  
-With Fire being a core damage type of the build this should come as no surprise.
+With Fire being a core damage type of the build this should come as no surprise. Toss this on resistant enemies and all manner of bosses where the extra damage will help shorten a long encounter.
 
 <img align="right" width="100" height="100" src="/Pictures/sss/builds/skill-conjuration.webp">
 
 ### Conjuration
 
-Conjuration should be viewed as a secondary spell. Its key summons are harder to acquire than others but they'll allow you to call for aid from your ancestors down the line.
+Conjuration should be viewed as a secondary school. Its key summons are harder to acquire than others but it'll eventually allow you to call for aid from your ancestors.
 
 * **Soul Trap (Novice+):** *If a target dies within 60 seconds, fills a soul gem.*  
 A staple spell for an enchanter. Keep your soul gems filled so you can level your craft.
@@ -350,7 +375,7 @@ An alternative to the *Vampiric* spells if you want to keep your hands empty. Th
 * **Dun:** *Move and attack 20% faster for 30 seconds.*
 * **Meditation:** *Elemental Fury reduces the cost of power attacking and drawing a bow by 25%.*
 
-Increased mobility is right up the monk's alley and extra attack speed is icing on the cake. The meditation is only useful if you couldn't resist the urge to pick up a bow.
+Increased mobility is right up the monk's alley and extra attack speed is icing on the cake. The meditation is especially useful for followers of Malacath.
 
 #### Fire Breath
 *Cooldown: 30/45/60 seconds*
@@ -416,6 +441,6 @@ If you're not at the 75% Magic Resistance cap you should consider this to help g
 * **Fortify Destruction Power:** *Your Destruction spells are 25% stronger.*
 * **Resist Magic:** *Your Magic Resistance is increased by 25%.*
 
-A very contested enchantment slot for the monk. Both of your damage boosts are options here alongside all the resists. Grab what you can and play it by ear as you reach plateaus. Or carry multiple rings for multiple situations.
+A very contested enchantment slot for the monk. Both of your damage boosts are options here alongside all the resists. Grab what you can and play it by ear as you reach plateaus. Or carry multiple rings for multiple situations. Also keep in mind that the *Ring of Hircine* takes this slot if you're using it to resist transformations. It's 100 bonus Stamina is significant, but not equal to boosting Unarmed Damage.
 
 </details>
