@@ -20,7 +20,7 @@ Feeling rejected and alone, you turned your gaze to Skyrim, a land free from the
 
 * **Complexity:** Moderate
 * **Race:** [Wood Elf](## "Major Skill: Archery 
-	Minor Skills: Hand to Hand, Light Armor, One-handed, Pickpocket, Security
+	Minor Skills: Hand to Hand, Light Armor, One-handed, Security, Sneak
 	Green Pact: Your Movement Speed is increased by 10%, and you take 50% less damage from falling. You deal 25% extra damage with sneak attacks and spells.")
 * **Skills:**
   * **Offensive:** Destruction  
@@ -33,6 +33,8 @@ You're a mage with very little need for Magicka. Your points are best spent bols
   * **Stamina:** 3
 
 The Bosmer Mage starts their journey as one would expect: wearing robes and flinging spells with both hands. But instead of investing in Magicka and spell cost reduction perks, they opt to pour their efforts into Enchanting, using scrolls and staves to do their casting for them. This allows the Bosmer to stay nimble and out of harm's way while still being a devastating master of Destruction.
+
+Your natural predilection for the taboo may lead you to vampirism. Explore it, but be aware that it's a double edged sword that makes you vulnerable as it does powerful. Instill fear in those around you with *Reign of Terror*, then proceed to do as you please, how you please.
 
 ## Perks
 
@@ -192,6 +194,49 @@ You've come a long way. More powerful than most that have come before you but co
 
 </details>
 
+### Vampire
+
+> Full perk information can be found on the [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) description page.
+
+You aren't one to turn away from an opportunity for more power, especially one that others shun.
+
+<details>
+
+#### Vampire Bloodline
+
+* **Wood Elf:** Your potions last 50% longer, and your poisons last for 50% more hits.
+
+This greatly helps you in your goal of getting every drop of benefit from alchemical reagents, and works all the time.
+
+<details>
+
+Ultimately you'll snatch all the power you can here, but your initial focus depends on your priorities and playstyle.
+
+#### Vampire Perks: Blood Mage
+
+*Ignore your transformation and bolster your ability to sustain Health off of others.*
+
+* **Nightwalker 1:** You deal 25% extra damage as a Vampire Lord.
+* **Ancient Thirst 1:** Spells that absorb Health are 25% stronger.
+* **False Life 1:** Spells that absorb Health work on the undead. 
+* **False Life 2:** Spells that absorb Health work on the undead, Daedra, and automatons. 
+* **Ancient Thirst 2:** Spells that absorb Health are 50% stronger.
+* **Dread Harvest 2:** Spells that absorb Health are 100% stronger against targets who fall below half Health.
+
+#### Vampire Perks: Chaos Mage
+
+*Gain access to special Destruction spells and the extra Magicka resources to utilize them as a Vampire Lord.*
+
+* **Nightwalker 1:** You deal 25% extra damage as a Vampire Lord.
+* **Underworld Lineage 1:** As a Vampire Lord, you can cast the spells Frozen Wind and Lightning Flood.
+* **Nightwalker 2:** You deal 50% extra damage as a Vampire Lord.
+* **Unearthly Will:** As a Vampire Lord, your Health and Magicka are increased by 100.
+* **Potent Blood:** As a Vampire Lord, your Magicka Regeneration is increased by 100%.
+* **Power of the Grave:** As a Vampire Lord, your spells cost 25% less Magicka.
+
+</details>
+
+
 ## Standing Stones
 
 > Full standing stone information can be found on the [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) description page.
@@ -218,7 +263,7 @@ Another 100 Magicka won't mean too much to you but 25% Spell Absorption is a fan
 
 #### The Serpent
 
-***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits.*
+***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits.*
 
 Extra Poison Resistance isn't nothing but it's not what you're here for. A 50% duration boost on your already potent potions will save you plenty of vials in the long run.
 

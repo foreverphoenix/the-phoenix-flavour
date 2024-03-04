@@ -21,7 +21,7 @@ Now, as your captors guide you through the unfamiliar and frigid terrain, uncert
 * **Complexity:** Moderate
 * **Race:** [Redguard](## "Major Skill: One-handed
     Minor Skills: Archery, Block, Light Armor, Smithing, Two-handed
-    Martial Training: Your Stamina is increased by 50 and your Stamina Regeneration is increased by 50%.")
+    Martial Training: Your Stamina is increased by 50, and your Stamina Regeneration is increased by 50%.")
 * **Skills:**
   * **Offensive:** Destruction, One-handed  
   * **Defensive:** Light Armor, Restoration  
@@ -216,21 +216,21 @@ You've climbed the ranks of men, now ascend to the tier of legends. All of your 
 
 Extra Stamina is just what you need out of the gate. The extra movespeed helps you get into your opponents' faces and chase them down if they retreat. This blessing is equivalent to *Kynareth's* later on when you have *Pilgrim (Rank 2)*, coincidentally. It's almost as if Tava herself is watching over you.
 
-<img align="right" width="100" src="/Pictures/sss/builds/the-lover.webp">
+<img align="right" width="100" src="/Pictures/sss/builds/the-lady.webp">
 
-#### The Lover
+#### The Lady
 
-***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you cannot gain any bonuses from sleeping.*
+***Lady’s Grace:*** *Your Health, Magicka and Stamina are increased by 25. When you fall below half Health, Magicka, or Stamina, you gain 50% extra Health, Magicka, or Stamina Regeneration.*
 
-Later on you'll have enough Stamina in your pool and Stamina Regeneration will be more important. Lover's Touch will give you plenty of Stamina Regeneration to work with, allowing you to continue your onslaught for much longer.
+Balancing your Stamina and Magicka is the key to success and this blessing helps both tanks from emptying completely. The bonus Health Regeneration may save you in a pinch, but without more sources of it you won't want to rely on it alone for keeping you alive.
 
 <img align="right" width="100" src="/Pictures/sss/builds/the-steed.webp">
 
 #### The Steed
 
-***Charioteer:*** *You move 20% faster and your Carry Weight is increased by 100.*
+***Charioteer:*** *You no longer spend Stamina when sprinting out of combat, and your Carry Weight is increased by 100.*
 
-Movement speed gets you into your preferred range quickly and allows you to weave in and out of attacks with more ease. The Steed will not only help you out immensely in that regard but it will boost your Carry Weight a large amount as well, allowing you to bring back more spoils from your victories.
+With enough movement speed, sprinting may be faster than riding a horse. On top of that, you'll always be ready to fight and won't be caught dismounting when trouble arrives. This blessing will even boost your Carry Weight by 100, which is less than what the horse offers but definitely nothing to sneeze at.
 
 </details>
 

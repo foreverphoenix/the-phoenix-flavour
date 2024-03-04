@@ -236,7 +236,7 @@ The Mage Stone is the ideal starting stone for you. Though the agent is technica
 
 #### The Serpent
 
-***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for two additional hits.*
+***Serpent’s Kiss:*** *Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits.*
 
 The Serpent Stone is hit or miss for this build, ironically. An additional hit of poison can be great if you're stabbing your victims instead of reverse pickpocketing. Otherwise, this does next to nothing for you.
 

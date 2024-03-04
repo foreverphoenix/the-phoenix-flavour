@@ -17,9 +17,9 @@ However, what awaited you was far from grand. The settlements welcomed you with 
 ## Summary
 
 * **Complexity:** High
-* **Race:** [Orc](## "Major Skill: Heavy Armor
-Minor Skills: Alchemy, Block, One-handed, Smithing, Two-handed 
-Orsinium's Heir: Your Health is increased by 50 and your Health Regeneration is increased by 50%.")
+* **Race:** [Orc](## "Major Skill: Smithing  
+Minor Skills: Alchemy, Block, Heavy Armor, One-handed, Two-handed  
+Orsinium's Heir: Your Health is increased by 50, and your Health Regeneration is increased by 50%.")
 * **Skills:**
   * **Offensive:** Archery, Conjuration, One-handed  
   * **Defensive:** Alteration, Illusion  

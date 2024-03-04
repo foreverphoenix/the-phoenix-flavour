@@ -21,8 +21,8 @@ Bound and uncertain of your escape, you made a vow to yourself: never to be defe
 ## Summary
 
 * **Complexity:** Low
-* **Race:** [Breton](## "Major Skill: Conjuration
-Minor Skills: Alchemy, Alteration, Illusion, Restoration, Speech
+* **Race:** [Breton](## "Major Skill: Alteration
+Minor Skills: Alchemy, Conjuration, Illusion, Restoration, Speech
 Spell Warding: Your Magic Resistance is increased by 25%, and you have a 15% chance to absorb the Magicka from incoming spells.")
 * **Skills:**
   * **Offensive:** Two-Handed, Archery
@@ -237,9 +237,9 @@ Health Regeneration is your main source of healing, and the boost to Magic Resis
 
 #### The Steed
 
-***Charioteer:*** *You move 20% faster and your Carry Weight is increased by 100.*
+***Charioteer:*** *You no longer spend Stamina when sprinting out of combat, and your Carry Weight is increased by 100.*
 
-If you feel secure in your defenses, a 20% Movement Speed boost and a Carry Weight increase can provide plenty of utility. A great choice for the late game where you'll likely be indestructible from other sources.
+If you feel secure in your defenses, the out of combat movement and Carry Weight increase can provide plenty of utility. A solid choice for the late game where you'll likely be indestructible from other sources.
 
 </details>
 

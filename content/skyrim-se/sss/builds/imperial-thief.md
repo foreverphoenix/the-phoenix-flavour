@@ -21,7 +21,7 @@ But one day, while infiltrating a Stormcloak camp, you found yourself in the mid
 * **Complexity:** Low
 * **Race:** [Imperial](## "Major Skill: Speech
 Minor Skills: Block, Heavy Armor, One-handed, Restoration, Smithing
-Highborn: Your Health, Magicka, and Stamina are increased by 25. You receive 10% better prices, and you find extra gold in your travels.")
+Red Diamond: Your Health, Magicka, and Stamina are increased by 25. You receive 10% better prices, and you find extra gold in your travels.")
 * **Skills:**
   * **Offensive:** Archery
   * **Defensive:** Illusion, Light Armor
@@ -225,7 +225,7 @@ Your Guardian Stone will be useful at every point of your adventure. Extra stami
 
 #### The Lover
 
-***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking or drawing a bow.*
+***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking, drawing a bow, or casting a spell.*
 
 Once you have enough raw Stamina, regeneration becomes the higher priority. The downside to The Lover doesn't concern you much as all since you have no intention of taking damage while drawing your bow. Later in the game you may have plenty of regeneration from your Light Armor perks and will start to see little benefit here.
 
