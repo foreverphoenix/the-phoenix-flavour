@@ -82,8 +82,18 @@ Navigate to your **Slidikins' Strenuous Skyrim** folder and launch **ModOrganize
 ### MCM Instructions
 There are a large number of Mod Configuration Menus (MCMs) in this list. **Thankfully, presets are automatically applied so you don't need to edit anything manually.** These are the recommended settings for enjoying Slidikins' Strenuous Skyrim; give them a try before changing them around.
 
+### Widescreen Support
+Basic support for 21:9 and 32:9 resolutions has been added for those with ultrawide monitors. To enable it:
+- Go to the **(Optional) Widescreen Support** section of the modlist in Mod Organizer 2's left pane and expand it
+- Enable the two mods that correspond to your desired aspect ratio
+- Go down to the very last separator, `-----`, expand it and open **Slidikins' Strenuous Skyrim - Configuration and Runtime Files**
+- Under `INI Files`, find **SKSE\Plugins\SSEDisplayTweaks_Custom.ini**
+- Edit **Line 6** to match your desired resolution (and removed the `;`)
+
+> As the Configuration and Runtime files may be overwritten by future updates, you may want to place changed files in a separate mod folder, such as `[NoDelete] Custom Configurations`, placed at the end.
+
 ### Performance Profile
-If the list is too demanding out of the box, there is an alternative Performance profile intended for lower-end systems. This profile uses alternatives to the more intensive features (grass, LODs, ENB) to provide similar visuals at a lower cost.
+If the list is too demanding out of the box, there is an alternative Performance profile intended for lower-end systems. This profile uses alternatives to the more intensive features (grass, LODs, shaders) to provide similar visuals at a lower cost.
 
 > Note that saves are profile-specific. You can switch from the regular to the performance profile mid-playthrough, but you would have to copy over the saves from `\Slidikins' Strenuous Skyrim\profiles\Slidikins' Strenuous Skyrim\saves\` to `\Slidikins' Strenuous Skyrim\profiles\Slidikins' Strenuous Skyrim (Performance)\saves\` manually. Ignore the warnings when resuming your adventure.
 

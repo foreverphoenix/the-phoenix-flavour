@@ -210,7 +210,7 @@ This greatly helps you in your goal of getting every drop of benefit from alchem
 
 <details>
 
-Ultimately you'll snatch all the power you can here, but your initial focus depends on your priorities and playstyle.
+Gaining perk points here means spending more time in your Vampire Lord form. Your initial focus will depend on whether you just want to dabble or continue spending time as a Vampire Lord.
 
 #### Vampire Perks: Blood Mage
 
@@ -223,9 +223,9 @@ Ultimately you'll snatch all the power you can here, but your initial focus depe
 * **Ancient Thirst 2:** Spells that absorb Health are 50% stronger.
 * **Dread Harvest 2:** Spells that absorb Health are 100% stronger against targets who fall below half Health.
 
-#### Vampire Perks: Chaos Mage
+#### Vampire Perks: Vampire Lord of Chaos
 
-*Gain access to special Destruction spells and the extra Magicka resources to utilize them as a Vampire Lord.*
+*Embrace the transformation to gain access to special Destruction spells and the extra Magicka resources to utilize them.*
 
 * **Nightwalker 1:** You deal 25% extra damage as a Vampire Lord.
 * **Underworld Lineage 1:** As a Vampire Lord, you can cast the spells Frozen Wind and Lightning Flood.
@@ -233,6 +233,7 @@ Ultimately you'll snatch all the power you can here, but your initial focus depe
 * **Unearthly Will:** As a Vampire Lord, your Health and Magicka are increased by 100.
 * **Potent Blood:** As a Vampire Lord, your Magicka Regeneration is increased by 100%.
 * **Power of the Grave:** As a Vampire Lord, your spells cost 25% less Magicka.
+* And continue through the rest of the tree...
 
 </details>
 

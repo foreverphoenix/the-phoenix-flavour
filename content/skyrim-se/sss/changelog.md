@@ -7,6 +7,64 @@ description: >
 ---
 
 
+## Release 5.0.0a2
+
+Issues fixed since last Alpha:
+- Starting the game with a controller plugged in should no longer crash the game. Nor should plugging one in after launching the game. However, you can't switch between KB&M and Controller at will anymore.
+- Ultrawide options (21:9 and 32:9) are actually supported this time. Instructions on the Installation page have been updated to let people know what to do.
+- The Abandoned Shack has all of its walls once again. It shouldn't have been *that* abandoned.
+- DynDOLOD now uses the more stable DLL version. This results in a larger output file but should result in far, far fewer crashes when loading saves.
+
+**This update is save-safe with 5.0.0a.** Just make sure to save indoors where DynDOLOD isn't active due to the new outputs.
+
+<details>
+
+##### Controls
+- Removed Auto Input Switch
+- Removed Modern Toggle Walk-Run Fix
+- Added Cobb Controlmap Fix
+- Modified Cobb Controlmap Fix to include Modern Toggle Walk-Run Fix changes
+
+##### (Optional) Widescreen Support
+- Added Convenient Dialogue UI - 21x9 Aspect Ratio Support
+- Added Convenient Dialogue UI - 32x9 Aspect Ratio Support
+
+##### LOD Resources
+- Removed DynDOLOD - NG
+- Added DynDOLOD - DLL
+- Added DynDOLOD - Scripts
+
+##### Misc Structures
+- Removed Skyrim 3D Signs
+- Removed Skyrim 3D Signs - Navigation Fix
+- Removed Skyrim 3D Signs - Missing Generic Signs Patch
+- Removed A Blacksmith Sign
+- Added Skyking Signs
+
+##### Valuable Objects
+- Added Stacks of Septims - 3D Coin Piles
+- Added Ancient Imperial Septims - Stacks of Septims Patch
+
+##### Immersion
+- Added C.O.I.N. - Stacks of Septims Patch
+
+##### Cities of the North
+- Removed COTN - Winterhold - Skyrim 3D Signs Patch
+
+#### Updates
+- Updated Object Categorization Framework to 5.2
+- Updated powerofthree's Tweaks to 1.9.2
+- Updated DALC Fix Preset to 2.2
+- Updated Fires and Embers Clipping Fix to 2.7
+- Updated Blade and Blunt - A Combat Overhaul to 3.5
+- Updated NPC Animation Remix to 1.8.2
+
+#### Outputs
+
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 5.0.0ɑ
 
 > 2024-03-03
@@ -40,6 +98,7 @@ Several mods have been reinstalled with different compatibility options or archi
 
 ##### Frameworks
 - Removed KiLoader for Skyrim
+- Added KreatE
 - Added Constructible Object Custom Keyword System NG
 - Added Object Categorization Framework
 - Added Item Property Manipulator
@@ -235,6 +294,7 @@ Several mods have been reinstalled with different compatibility options or archi
 - Added Window Shadows RT - Updated
 - Added WindowShadows - High Hrothgar Fixed Patch
 - Added Skyrim is Luminous
+- Added DALC Fix Preset
 
 ##### Fire & Candles
 - Removed WeldingMans Smelter with ENB Light
@@ -671,12 +731,13 @@ Several mods have been reinstalled with different compatibility options or archi
 - Updated Address Library for SKSE Plugins to 11.0
 - Updated PapyrusUtil to 4.6
 - Updated JContainers to 4.2.9
-- Updated Keyword Item Distributor to 3.2
+- Updated Keyword Item Distributor to 3.3
 - Updated Sound Record Distributor to 1.5.1
 - Updated Scaleform Translation Plus Plus to 1.8
 - Updated Fuz Ro D-oh - Silent Voice to 2.5
 - Updated Constructible Object Custom Keyword System to 1.1
 - Updated Photo Mode to 1.3.0
+- Updated powerofthree's Tweaks to 1.9.1
 - Updated Unofficial Skyrim Special Edition Patch to 4.3a
 - Updated Navigator - Navmesh Fixes to 1.5.6
 - Updated Classic Sprinting Redone to 2.3.1

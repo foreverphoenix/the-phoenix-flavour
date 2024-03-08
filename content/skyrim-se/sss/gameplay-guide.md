@@ -64,7 +64,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 - Avoid the obvious hazards. Snowstorms clearly mean freezing temperatures, as are lakes and rivers in snowy regions. Stay out of them.  
 - Purchasing or cooking hot soups and stews can warm you up as needed along your travels.  
 - Wearing clothes with a lot of coverage and/or fur will leave you warmer than other options. Conversely, metal armor is more susceptible to lower temperatures. Heavy armor users may want to carry a change of clothes for the road.
-- The winter months will be colder than the rest of the year. Factor that into your preparations.
+- The realm changes with each season, with the winter months being the coldest of the year. Factor that into your preparations.
 
 ### Other Notes
 
@@ -111,6 +111,7 @@ On top of that, enemies have been placed into tiers and you'll want to build you
 ### Followers
 
 It sounds like the deck is stacked against you, and in many ways it is. But you don't have to go it alone. Keep in mind the following changes when bringing a follower along:
+- NPCs, including followers, use ammo the same way you do. If your follower uses a bow, make sure to keep them supplied with arrows.
 - Followers and summoned/reanimated creatures are affected by the same difficulty modifiers as you, the player. This makes them much less effective at higher levels without compensating with better equipment.
 - Followers who run out of Health will be in a "downed" state for up to 2 minutes unless healed by Restoration magic. Enemies will ignore them in this state, redirecting their ire towards you. ([_STAYDOWN_](https://www.nexusmods.com/skyrimspecialedition/mods/41228))  
 - Mercenaries will charge more for their services based on factors such as their level. ([_Dynamic Mercenary Fees_](https://www.nexusmods.com/skyrimspecialedition/mods/45677))
@@ -144,13 +145,13 @@ The urge to explore is strong but try to fight it off in the early game. There i
 
 #### Bring a Light
 
-*Lux* (and its related mods) change interior lighting so that light comes from the visible, reasonable sources. Torches, candles, windows, etc. and so on. This makes certain areas, such as dungeons, quite dark at times. Fires on the road can also be put out by storms. Carry a source of light with you (such as a torch) so that you don't find yourself lost in the shadows.
+The interior lighting is changed so that light comes from visible, reasonable sources. Torches, candles, windows, etc. and so on. This can make certain areas, such as dungeons, quite dark at times. Carry a source of light with you (such as a torch) so that you don't find yourself lost in the shadows.
 
 ### Mid Game (Level 10 - 30)
 
 #### Find a Follower
 
-If you haven't already, consider choosing someone to accompany you on your adventures. Ideally they should complement your skill set. If you're a frontliner, consider a follower good at archery or magic. Or vice versa if you like to attack from range. Just remember to provide them with quality equipment as their usefulness will plummet if they can't keep up in fights.
+If you haven't already, consider choosing someone to accompany you on your adventures. Ideally they should complement your skill set. If you're a frontliner, consider a follower good at archery (supply them with arrows!) or magic. Or vice versa if you like to attack from range. Just remember to provide them with quality equipment as their usefulness will plummet if they can't keep up in fights.
 
 #### Buy a Horse
 
