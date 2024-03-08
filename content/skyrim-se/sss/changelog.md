@@ -7,6 +7,64 @@ description: >
 ---
 
 
+## Release 5.0.0a2
+
+Issues fixed since last Alpha:
+- Starting the game with a controller plugged in should no longer crash the game. Nor should plugging one in after launching the game. However, you can't switch between KB&M and Controller at will anymore.
+- Ultrawide options (21:9 and 32:9) are actually supported this time. Instructions on the Installation page have been updated to let people know what to do.
+- The Abandoned Shack has all of its walls once again. It shouldn't have been *that* abandoned.
+- DynDOLOD now uses the more stable DLL version. This results in a larger output file but should result in far, far fewer crashes when loading saves.
+
+**This update is save-safe with 5.0.0a.** Just make sure to save indoors where DynDOLOD isn't active due to the new outputs.
+
+<details>
+
+##### Controls
+- Removed Auto Input Switch
+- Removed Modern Toggle Walk-Run Fix
+- Added Cobb Controlmap Fix
+- Modified Cobb Controlmap Fix to include Modern Toggle Walk-Run Fix changes
+
+##### (Optional) Widescreen Support
+- Added Convenient Dialogue UI - 21x9 Aspect Ratio Support
+- Added Convenient Dialogue UI - 32x9 Aspect Ratio Support
+
+##### LOD Resources
+- Removed DynDOLOD - NG
+- Added DynDOLOD - DLL
+- Added DynDOLOD - Scripts
+
+##### Misc Structures
+- Removed Skyrim 3D Signs
+- Removed Skyrim 3D Signs - Navigation Fix
+- Removed Skyrim 3D Signs - Missing Generic Signs Patch
+- Removed A Blacksmith Sign
+- Added Skyking Signs
+
+##### Valuable Objects
+- Added Stacks of Septims - 3D Coin Piles
+- Added Ancient Imperial Septims - Stacks of Septims Patch
+
+##### Immersion
+- Added C.O.I.N. - Stacks of Septims Patch
+
+##### Cities of the North
+- Removed COTN - Winterhold - Skyrim 3D Signs Patch
+
+#### Updates
+- Updated Object Categorization Framework to 5.2
+- Updated powerofthree's Tweaks to 1.9.2
+- Updated DALC Fix Preset to 2.2
+- Updated Fires and Embers Clipping Fix to 2.7
+- Updated Blade and Blunt - A Combat Overhaul to 3.5
+- Updated NPC Animation Remix to 1.8.2
+
+#### Outputs
+
+- Regenerated DynDOLOD (and Performance)
+
+</details>
+
 ## Release 5.0.0ɑ
 
 > 2024-03-03
@@ -40,6 +98,7 @@ Several mods have been reinstalled with different compatibility options or archi
 
 ##### Frameworks
 - Removed KiLoader for Skyrim
+- Added KreatE
 - Added Constructible Object Custom Keyword System NG
 - Added Object Categorization Framework
 - Added Item Property Manipulator
@@ -235,6 +294,7 @@ Several mods have been reinstalled with different compatibility options or archi
 - Added Window Shadows RT - Updated
 - Added WindowShadows - High Hrothgar Fixed Patch
 - Added Skyrim is Luminous
+- Added DALC Fix Preset
 
 ##### Fire & Candles
 - Removed WeldingMans Smelter with ENB Light
@@ -668,79 +728,81 @@ Several mods have been reinstalled with different compatibility options or archi
 ### Updates
 
 - Updated DynDOLOD to 3.00 Alpha-167
-- Updated Address Library for SKSE Plugins to 11.0 (12)
-- Updated PapyrusUtil to 4.6 (23)
-- Updated JContainers to 4.2.9 (25)
-- Updated Keyword Item Distributor to 3.2 (27)
-- Updated Sound Record Distributor to 1.5.1 (29)
-- Updated Scaleform Translation Plus Plus to 1.8 (35)
-- Updated Fuz Ro D-oh - Silent Voice to 2.5 (36)
-- Updated Constructible Object Custom Keyword System to 1.1 (41)
-- Updated Photo Mode to 1.3.0 (60)
-- Updated Unofficial Skyrim Special Edition Patch to 4.3a (69)
-- Updated Navigator - Navmesh Fixes to 1.5.6 (72)
-- Updated Classic Sprinting Redone to 2.3.1 (86)
-- Updated Paired Animation Improvements to 1.0.2 (101)
-- Updated Open Animation Replacer to 2.1 (103)
-- Updated Glowing Mushroom Collision Fixes to 1.2.1 (146)
-- Updated Skyrim Landscape and Water Fixes to 8.5.2 (171)
-- Updated Capture Warmer to 1.2 (200)
-- Updated Oxygen Meter 2 to 1.0.7 (250)
-- Updated DynDOLOD - NG to Alpha-15 (296)
-- Updated LOD Model Library for DynDOLOD to 1.4.3 (300)
-- Updated Markarth Fixed AF (FOMOD Update) (320)
-- Updated High Hrothgar Fixed to 1.07 (323)
-- Updated Skyland AIO to 4.32 (340)
-- Updated Skyland Bits and Bobs - A Clutter Overhaul to 1.9 (347)
-- Updated Particle Patch for ENB to 1.2.8 (371)
-- Updated Storm Lightning to 1.4.21 (393)
-- Updated Embers XD to 2.9.6 (417)
-- Updated Water In Wells - Mesh-only Animated Wells to 0.8 (485)
-- Updated Rally's Solstheim Plants to 1.2 (580)
-- Updated Spice Of Life - Orc Longhouses - FYX 3D Patches to 2.0 (663)
-- Updated Rally's Crates to 1.3 (679)
-- Updated Rally's Market Stalls to 1.3 (682)
-- Updated Pillows - Xtudo HD Version to 3.1 (697)
-- Updated Rally's Bees and More to 1.5 (852)
-- Updated Glass Armors and Weapons Retexture to 2.1 (909)
-- Updated Mysticism - A Magic Overhaul to 2.4.1 (995)
-- Updated Mundus - A Standing Stone Overhaul to 1.12.2 (1000)
-- Updated Mundus - A Standing Stone Overhaul - USSEP Patch to 1.12.2 (1001)
-- Updated Aetherius - A Race Overhaul to 2.12.1 (1002)
-- Updated Aetherius - Starting Spells Addon to 2.12.1 (1003)
-- Updated Aetherius - NPC Spell Absorption Addon to 2.12.1 (1004)
-- Updated Scion - A Vampire Overhaul to 2.2.2 (1007)
-- Updated Stormcrown - A Shout Overhaul to 1.1.16 (1012)
-- Updated Artificer - An Artifact Overhaul to 1.0.11 (1027)
-- Updated Artificer - USSEP Patch to 1.0.2 (1028)
-- Updated Alchemy Plus to 1.1 (1052)
-- Updated Guard Dialogue Overhaul to 3.0 (1095)
-- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9.5 (1108)
-- Updated Brawl Lines Expansion Patch - NGCDT Patch to 1.9.4 (1109)
-- Updated Blade and Blunt - A Combat Overhaul to 3.4.2 (1148)
-- Updated Lawless - A Bandit Overhaul to 2.1 (1173)
-- Updated Lawless - SimonRim Patch to 2.1 (1175)
-- Updated Lawless - Expanded Enemy Coverage Addon to 2.1 (1176)
-- Updated Lawless - Patch Collection to 2.1 (1177)
-- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.3.2 (1253)
-- Updated Immersive Display Overhaul to 1.31 (1273)
-- Updated XP32 Maximum Skeleton Special Extended to 5.06 (1341)
-- Updated Survival Mode Improved to 1.5.2 (1372)
-- Updated Kynareth Replaces Talos - Civil War Consequence to 2.0.1 (1445)
-- Updated Seasons of Skyrim to 1.8.2 (1438)
-- Updated Turn of the Seasons to 1.0.7.3 (1446)
-- Updated Seasonal Landscapes - Additions to 1.8.2 (1457)
-- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.1 (1469)
-- Updated The Heart of Dibella - Quest Expansion to 1.03 (1498)
-- Updated Hand to Hand - An Adamant Addon to 1.5.8 (1511)
-- Updated Pilgrim - A Religion Overhaul to 1.2.2 (1517)
-- Updated East Empire Company Armor to 2.0.1 (1543)
-- Updated Lepidoptera - Apothecary Patch to 1.2.2 (1573)
-- Updated Gesture Animation Remix to 2.1.1 (1582)
-- Updated NPC Animation Remix to 1.8.1 (1583)
-- Updated Immersive Equipping Animations to 2.02 (1629)
+- Updated Address Library for SKSE Plugins to 11.0
+- Updated PapyrusUtil to 4.6
+- Updated JContainers to 4.2.9
+- Updated Keyword Item Distributor to 3.3
+- Updated Sound Record Distributor to 1.5.1
+- Updated Scaleform Translation Plus Plus to 1.8
+- Updated Fuz Ro D-oh - Silent Voice to 2.5
+- Updated Constructible Object Custom Keyword System to 1.1
+- Updated Photo Mode to 1.3.0
+- Updated powerofthree's Tweaks to 1.9.1
+- Updated Unofficial Skyrim Special Edition Patch to 4.3a
+- Updated Navigator - Navmesh Fixes to 1.5.6
+- Updated Classic Sprinting Redone to 2.3.1
+- Updated Paired Animation Improvements to 1.0.2
+- Updated Open Animation Replacer to 2.1
+- Updated Glowing Mushroom Collision Fixes to 1.2.1
+- Updated Skyrim Landscape and Water Fixes to 8.5.2
+- Updated Capture Warmer to 1.2
+- Updated Oxygen Meter 2 to 1.0.7
+- Updated DynDOLOD - NG to Alpha-15
+- Updated LOD Model Library for DynDOLOD to 1.4.3
+- Updated Markarth Fixed AF (FOMOD Update)
+- Updated High Hrothgar Fixed to 1.07
+- Updated Skyland AIO to 4.32
+- Updated Skyland Bits and Bobs - A Clutter Overhaul to 1.9
+- Updated Particle Patch for ENB to 1.2.8
+- Updated Storm Lightning to 1.4.21
+- Updated Embers XD to 2.9.6
+- Updated Water In Wells - Mesh-only Animated Wells to 0.8
+- Updated Rally's Solstheim Plants to 1.2
+- Updated Spice Of Life - Orc Longhouses - FYX 3D Patches to 2.0
+- Updated Rally's Crates to 1.3
+- Updated Rally's Market Stalls to 1.3
+- Updated Pillows - Xtudo HD Version to 3.1
+- Updated Rally's Bees and More to 1.5
+- Updated Glass Armors and Weapons Retexture to 2.1
+- Updated Mysticism - A Magic Overhaul to 2.4.1
+- Updated Mundus - A Standing Stone Overhaul to 1.12.2
+- Updated Mundus - A Standing Stone Overhaul - USSEP Patch to 1.12.2
+- Updated Aetherius - A Race Overhaul to 2.12.1
+- Updated Aetherius - Starting Spells Addon to 2.12.1
+- Updated Aetherius - NPC Spell Absorption Addon to 2.12.1
+- Updated Scion - A Vampire Overhaul to 2.2.2
+- Updated Stormcrown - A Shout Overhaul to 1.1.16
+- Updated Artificer - An Artifact Overhaul to 1.0.11
+- Updated Artificer - USSEP Patch to 1.0.2
+- Updated Alchemy Plus to 1.1
+- Updated Guard Dialogue Overhaul to 3.0
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9.5
+- Updated Brawl Lines Expansion Patch - NGCDT Patch to 1.9.4
+- Updated Blade and Blunt - A Combat Overhaul to 3.4.2
+- Updated Kryptopyr's Patch Hub mods to 4.0.4
+- Updated Lawless - A Bandit Overhaul to 2.1
+- Updated Lawless - SimonRim Patch to 2.1
+- Updated Lawless - Expanded Enemy Coverage Addon to 2.1
+- Updated Lawless - Patch Collection to 2.1
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.3.2
+- Updated Immersive Display Overhaul to 1.31
+- Updated XP32 Maximum Skeleton Special Extended to 5.06
+- Updated Survival Mode Improved to 1.5.2
+- Updated Kynareth Replaces Talos - Civil War Consequence to 2.0.1
+- Updated Seasons of Skyrim to 1.8.2
+- Updated Turn of the Seasons to 1.0.7.3
+- Updated Seasonal Landscapes - Additions to 1.8.2
+- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.1
+- Updated The Heart of Dibella - Quest Expansion to 1.03
+- Updated Hand to Hand - An Adamant Addon to 1.5.8
+- Updated Pilgrim - A Religion Overhaul to 1.2.2
+- Updated East Empire Company Armor to 2.0.1
+- Updated Lepidoptera - Apothecary Patch to 1.2.2
+- Updated Gesture Animation Remix to 2.1.1
+- Updated NPC Animation Remix to 1.8.1
+- Updated Immersive Equipping Animations to 2.02
 
-- Updated Kryptopyr's Patch Hub mods to 4.0.4 (1177+)
+
 
 #### Outputs
 
