@@ -6,6 +6,187 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 5.0.0a3
+
+The good news is that Alpha 2 had no new issues. The bad news is that I haven't had time to test Alpha 3 before my upcoming 2-week vacation so I'm keeping it as an Alpha. Provided Alpha 3 has no major issues, the next version should be the beta. I don't expect there to be many problems here, maybe a few minor visual issues due to Dynamic Cubemaps or Seasonal Landscapes - Unfrozen, but the game is playable and most reports said the performance is great.
+
+**Issues fixed since last Alpha:**  
+- Characters carrying shields will properly use them for cover in the rain, equipped or not.
+- Terrain blending is much better than it was.  
+- Draugr are no longer insomniacs waiting for you in the last room of a dungeon.  
+- Favorites menu controls *mostly* fixed. Pressing ESC/F4 to open the Journal still doesn't close it. I'll clean up these mods once it's sorted.
+
+**Issues still unfixed:**
+- Lots of green grass in snowy areas  
+- Added Solstheim ash isn't snow covered in the winter  
+- Random Dragons occassionally kill themselves (vanilla bug)  
+
+**This Update is Save-Safe with the previous Alphas. Save inside before updating.**
+
+<details>
+
+#### Changes
+
+##### Frameworks
+- Added ImGui Icons
+
+##### Essentials
+- Removed Achievement Mods Enabler
+- Added Vanilla Complex Parallax - College of Winterhold
+- Added Vanilla Complex Parallax - Markarth
+- Added Vanilla Complex Parallax - Minor Architecture
+- Added Vanilla Complex Parallax - Riften
+- Added Vanilla Complex Parallax - Solitude
+- Added Vanilla Complex Parallax - Whiterun
+- Added Vanilla Complex Parallax - Windhelm
+- Added Vanilla Complex Parallax - Clutter and Furniture
+- Added Vanilla Complex Parallax - Dawnguard
+- Added Vanilla Complex Parallax - Dragonborn
+- Added Vanilla Complex Parallax - Dungeons
+- Added Vanilla Complex Parallax - Farmhouses
+- Added Vanilla Complex Parallax - Landscape
+- Deleted all duplicate files in the Vanilla Complex Parallax series
+
+##### Controls
+- Removed Cobb Controlmap Fix
+- Added Hank's Gamepad and Controller Fixes
+- Modified Hank's Gamepad and Controller Fixes to include Modern Toggle Walk-Run Fix changes
+
+##### SKSE Plugins - Fixes
+
+- Removed Capture Warmer
+- Added Mfg Fix NG
+
+##### SKSE Plugins - Tweaks
+
+- Added Wash That Blood Off
+
+##### Interface
+
+- Added Dialogue History
+
+##### (Optional) Nordic UI
+- Added Nordic UI - ImGui Icons
+
+##### Graphics Baseline
+
+- Added Terrain Parallax Blending Fix
+
+##### Community Shaders
+
+- Added Subsurface Scattering
+- Added Water Caustics
+- Added Water Parallax
+- Added HDR Bloom
+- Added Dynamic Cubemaps
+
+##### Fires & Candles
+- Added SD's Horn Candles - Horn Candles Double Flame Fix
+- Added Fires and Embers Clipping Fix - Realistic Water Two Patch
+
+##### Snow & Ice
+- Modified Paraphernalia - Snow Colour Fixes to the Standard version
+
+##### Architecture
+
+- Added Unique Wooden Bridegs
+
+##### Misc Structures
+
+- Added Skyking Signs - Books of Skyrim Patch
+- Added Skyking Unique Signs
+
+##### Armor & Weapons
+
+- Removed 3-Vane Fletching for Ebony Arrows
+- Added Dynamic Cubemaps - Metals
+
+##### Skeleton
+- Added Immersive Equipment Displays - Extra Skeleton Nodes
+- Modified Immersive Equipment Displays defaults to work with EVG Conditional Idles
+
+##### New & Expanded Quests
+- Added Infiltration - Quest Expansion
+- Added Infiltration - Quest Expansion - Lawless Patch
+
+##### Conflict Resolution
+- Resolved texture set issue between Modular Armory and Ebony Armors and Weapons Retexture
+- Resolved script conflict between Finding Helgi and At Your Own Pace - Thieves Guild
+- Resolved a few simple conflicts from Infiltration - Quest Expansion
+- Resolved conflicts between Skyking Unique Signs and COTN mods
+
+##### Configuration
+- Disabled splashes in Splashes of Storms
+
+#### Updates
+- Updated DynDOLOD to Alpha-169
+- Updated Spell Perk Item Distributor to 7.1
+- Updated Keyword Item Distributor to 3.4
+- Updated KreatE to 1.2.2
+- Updated Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI to 2.1.2
+- Updated Constructible Object Custom Keyword System NG to 1.1
+- Updated Infinity UI to 2.0.2
+- Updated NPCs Names Distributor to 2.5.1
+- Updated Description Framework to 1.4
+- Updated Object Categorization Framework to 5.4
+- Updated Crash Logger to 1.13.1
+- Updated Photo Mode to 1.4
+- Updated SSE Engine Fixes to 6.2
+- Updated Unofficial Skyrim Modder's Patch to 2.6.2beta
+- Updated Open Animation Replacer to 2.2.2
+- Updated Landscape Fixes for Grass Mods to 5.3
+- Updated Light Detachment Fix to 1.1.1
+- Updated Compass Navigation Overhaul to 2.2
+- Updated DynDOLOD - Resources to Alpha-49
+- Updated LOD Model Library for DynDOLOD to 1.5.1
+- Updated Community Shaders to 0.8.7
+- Updated Tree LOD Lighting to 1.2.1
+- Updated Grass Lighting to 1.4.1
+- Updated Screen-Space Shadows to 1.2
+- Updated Complex Parallax Materials to 1.0.3
+- Updated Light Limit Fix to 1.3
+- Updated Wetness Effect to 1.0.2
+- Updated Fantasia Landscapes - Parallax to 1.02
+- Updated Natural Waterfalls to 2.3
+- Updated Window Shadows RT - Updated to 1.4
+- Updated DALC Fix Preset to 2.5
+- Updated Embers XD to  2.9.7
+- Updated Snowy Ships for Snowy Regions to 2.1
+- Updated Icy Mesh Remaster to 2.41
+- Updated Aspens Ablaze to 2.36
+- Updated Smaller Cathedral 3D Plants to 1.8.1
+- Updated Skyking Signs to 1.3
+- Updated Pillows - Xtudo HD Version to 3.2
+- Updated Glass Armors and Weapons Retexture to 2.1.1
+- Updated Ebony Armors and Weapons Retexture to 2.0.1
+- Updated Mysticism - A Magic Overhaul to 2.4.2
+- Updated Mundus - A Standing Stone Overhaul to 1.12.3
+- Updated Mundus - A Standing Stone Overhaul - USSEP Patch to 1.12.3
+- Updated Gourmet - A Cooking Overhaul to 1.1.9
+- Updated Narrative Gameplay Consistent Dialogue Tweaks to 1.9.6a
+- Updated Blade and Blunt - A Combat Overhaul to 3.6.1
+- Updated NPCs Take Cover to 1.01
+- Updated Wait Your Turn - Sands of Time Patch to 2.0.3
+- Updated The Dragon Cult - A Draugr Overhaul to 1.4.3
+- Updated Starfrost - Survival Spells Addon to 1.2
+- Updated COTN - Dawnstar - The Hawking Horker Patch to 1.21
+- Updated Seasonal Landscapes - Additions to 1.8.3
+- Updated The Whispering Door - Quest Expansion to 1.11
+- Updated Dragon Hunting to 1.0.2
+- Updated Dragon Hunting - Apothecary Patch to 1.0.1
+- Updated Skyrim on Skooma to 69.69
+- Updated Skyrim on Skooma - Gourmet Patch to 1.0.4
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack to 1.3
+- Updated Unofficial Skyrim Modders Patch - Patch Emporium to 1.3.32
+
+#### Outputs
+
+- Regenerated Synthesis Patches
+- Regenerated LODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
+</details>
 
 ## Release 5.0.0a2
 
@@ -18,6 +199,8 @@ Issues fixed since last Alpha:
 **This update is save-safe with 5.0.0a.** Just make sure to save indoors where DynDOLOD isn't active due to the new outputs.
 
 <details>
+
+#### Changes
 
 ##### Controls
 - Removed Auto Input Switch
