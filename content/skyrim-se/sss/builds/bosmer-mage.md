@@ -200,8 +200,6 @@ You've come a long way. More powerful than most that have come before you but co
 
 You aren't one to turn away from an opportunity for more power, especially one that others shun.
 
-<details>
-
 #### Vampire Bloodline
 
 * **Wood Elf:** Your potions last 50% longer, and your poisons last for 50% more hits.
