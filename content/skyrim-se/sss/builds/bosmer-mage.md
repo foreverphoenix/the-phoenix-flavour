@@ -21,7 +21,7 @@ Feeling rejected and alone, you turned your gaze to Skyrim, a land free from the
 * **Complexity:** Moderate
 * **Race:** [Wood Elf](## "Major Skill: Archery 
 	Minor Skills: Hand to Hand, Light Armor, One-handed, Security, Sneak
-	Green Pact: Your Movement Speed is increased by 10%, and you take 50% less damage from falling. You deal 25% extra damage with sneak attacks and spells.")
+	Green Pact: You deal 25% extra damage with sneak attacks and spend 50% less Stamina when sprinting (or sneaking).")
 * **Skills:**
   * **Offensive:** Destruction  
   * **Defensive:** Alteration

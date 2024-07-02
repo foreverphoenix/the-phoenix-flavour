@@ -244,9 +244,9 @@ The Serpent Stone is hit or miss for this build, ironically. An additional hit o
 
 #### The Shadow
 
-***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
+***Moonshadow:*** *You move 20% faster while sneaking you deal 25% extra damage with sneak attacks.*
 
-If you run into problems sneaking, the Shadow Stone is your best friend. It will help you stay hidden and boost your spell power at the same time.
+If you run into problems staying hidden, the Shadow Stone might be your best friend. It will help you move into the shadows swiftly and boost your spell power at the same time.
 
 </details>
 

@@ -226,7 +226,7 @@ Despite being a Stealth class, the Pilgrim is best served by the Warrior. A shie
 
 #### The Atronach
 
-***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 25% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
+***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 20% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
 
 The Atronach runs counter to your racial bonus but with mace and shield in hand you won't be casting much of anything in the middle of combat. Use the extra Magicka to set up buffs, then draw your weapons and strike.
 

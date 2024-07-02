@@ -225,7 +225,7 @@ Drawing a bow can be draining on stamina and the extra move speed can help dista
 
 #### The Atronach
 
-***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 25% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
+***Sorcerer’s Oath:*** *Your Magicka is increased by 100, and you have a 220% chance to absorb the Magicka from incoming spells. However, you cannot regenerate Magicka in combat.*
 
 Ideally you'll be summoning your frost atronach and setting runes out of combat, making the Magicka regeneration penalty less harsh. The extra Magicka allows you to focus your attribute points elsewhere, such as in more Stamina for shooting.
 
