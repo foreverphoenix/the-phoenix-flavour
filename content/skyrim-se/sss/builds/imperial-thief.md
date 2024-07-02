@@ -225,7 +225,7 @@ Your Guardian Stone will be useful at every point of your adventure. Extra stami
 
 #### The Lover
 
-***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking, drawing a bow, or casting a spell.*
+***Lover's Touch:*** *Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking or drawing a bow.*
 
 Once you have enough raw Stamina, regeneration becomes the higher priority. The downside to The Lover doesn't concern you much as all since you have no intention of taking damage while drawing your bow. Later in the game you may have plenty of regeneration from your Light Armor perks and will start to see little benefit here.
 
@@ -233,9 +233,9 @@ Once you have enough raw Stamina, regeneration becomes the higher priority. The 
 
 #### The Shadow
 
-***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% extra damage with sneak attacks and spells.*
+***Moonshadow:*** *You move 20% faster while sneaking you deal 25% extra damage with sneak attacks.*
 
-It's no surprise that a sneakthief would find a home under the Shadow. This stone is especially useful in the early and mid-game where the 25% boost may be the deciding factor between being undetected and having your guts spilled. In the late game you'll still benefit from the boost to sneak attacks.
+It's no surprise that a sneakthief would find a home under the Shadow. This stone is especially useful in the early and mid-game where the speed boost can help you slip away before detection. In the late game you'll still benefit from the boost to sneak attacks.
 
 </details>
 

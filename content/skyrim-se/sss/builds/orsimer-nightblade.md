@@ -231,7 +231,7 @@ Aptly named for this build, this stone leans into the glass cannon concept. Your
 
 #### The Shadow
 
-***Moonshadow:*** *You are 25% harder to detect while sneaking, and you deal 25% more damage with sneak attacks and spells.*
+***Moonshadow:*** *You move 20% faster while sneaking you deal 25% extra damage with sneak attacks.*
 
 Sneaking, sneak attacks, and sneak spells are pretty much your modus operandi in full. This stone benefits everything you aim to do which makes it a safe mid-to-late-game option.
 

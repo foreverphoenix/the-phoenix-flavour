@@ -24,8 +24,8 @@ But first, you need to escape from these bindings. It seems that these Imperials
 * **Complexity:** Low
 * **Race:** [Khajiit](## "Major Skill: Hand to Hand
 Minor Skills: Alchemy, Archery, Light Armor, Security, Sneak
-Lunar Blessing: You spend 20% less Stamina while power attacking or drawing a bow, and 50% less Stamina while sprinting (or sneaking).
-Night Eye: Improves the caster’s night vision for 60 seconds.")
+Lunar Blessing: You move 10% faster, take 50% less damage from falling, and spend 20% less Stamina while power attacking or drawing a bow.
+Night Eye: You can see in the dark. Cast this power again to cancel its effects.")
 * **Skills:**
   * **Offensive:** Conjuration, Two-handed  
   * **Defensive:** Block, Heavy Armor  

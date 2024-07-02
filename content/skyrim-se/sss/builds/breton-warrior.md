@@ -23,7 +23,7 @@ Bound and uncertain of your escape, you made a vow to yourself: never to be defe
 * **Complexity:** Low
 * **Race:** [Breton](## "Major Skill: Alteration
 Minor Skills: Alchemy, Conjuration, Illusion, Restoration, Speech
-Spell Warding: Your Magic Resistance is increased by 25%, and you have a 15% chance to absorb the Magicka from incoming spells.")
+Spell Warding: Your Magic Resistance is increased by 25%, and you have a 10% chance to absorb the Magicka from incoming spells.")
 * **Skills:**
   * **Offensive:** Two-Handed, Archery
   * **Defensive:** Alteration, Block, Heavy Armor

@@ -6,6 +6,244 @@ description: >
   *I shall explain to you the mysteries of the outer realms.*
 ---
 
+## Release 5.0.0b
+
+Details to come later.
+
+<details>
+
+#### Changes
+
+##### Frameworks
+- Removed Beautifully Overhauled and Objectively Better Icons Enriched for SkyUI
+- Removed Constructible Object Custom Keyword System NG
+- Added Andrealphus' Papyrus Functions
+
+##### Essentials
+- Removed Vanilla Complex Parallax - College of Winterhold
+- Removed Vanilla Complex Parallax - Markarth
+- Removed Vanilla Complex Parallax - Minor Architecture
+- Removed Vanilla Complex Parallax - Riften
+- Removed Vanilla Complex Parallax - Solitude
+- Removed Vanilla Complex Parallax - Whiterun
+- Removed Vanilla Complex Parallax - Windhelm
+- Removed Vanilla Complex Parallax - Clutter and Furniture
+- Removed Vanilla Complex Parallax - Dawnguard
+- Removed Vanilla Complex Parallax - Dragonborn
+- Removed Vanilla Complex Parallax - Dungeons
+- Removed Vanilla Complex Parallax - Farmhouses
+- Removed Vanilla Complex Parallax - Landscape
+
+##### Controls
+- Removed Hank's Gamepad and Controller Fixes
+
+##### Texture & Mesh Fixes
+- Removed Whiterun Fence Base Seam Fix
+- Removed Whiterun Mesh Fixes
+- Removed Whiterun Wall Rubble Fixed
+
+##### General Fixes
+- Added LOD Unloading Bug Fix
+
+##### SKSE Plugins - Fixes
+- Added Alchemy XP Fix
+- Added Universal Rim Lighting Fix
+
+##### Interface
+- Added Kome's Inventory Tweaks
+
+##### (Optional) Widescreen Support
+- Added NORDIC UI - 21x9 Aspect Ratio Support
+- Added NORDIC UI - 32x9 Aspect Ratio Support
+
+##### LOD Resources
+- Removed xLODGen Resource - SSE Terrain Tamriel
+
+##### Mesh Improvements
+- Removed Whiterun Objects SMIMed
+- Removed Better Whiterun Floors
+- Removed Whiterun Dragonsreach Double Door Mesh and Placement Fix - 3D Whiterun Trellis Expansion Patch
+- Removed 3D Trellis Improved - Gildergreen Plaza
+- Removed Sconces of Solstheim - Improved DLC2 Braziers
+- Removed Whiterun Objects SMIMed - Warmaiden's Holes
+- Added Sconces of Skyrim - Markarth and Dwemer Braziers Improved
+- Added Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper
+
+##### Graphics Baseline
+- Removed Skyland - Whiterun - Parallax
+- Removed Skyland Offset Shingles Fixed - Aligned Whiterun Roofs
+- Modified Skyland AIO
+- Added Tomato's Whiterun - Parallax
+
+##### Community Shaders
+- Removed SSE Parallax Shader Fix
+
+##### Landscape
+- Removed ERM - Enhanced Rocks and Mountains - Rugged Rock Texture
+- Removed Fantasia Landscapes
+- Removed Fantasia Landscapes - Parallax
+- Removed Ashbound - Solstheim Revisited
+- Added Tomato's Complex Landscapes Parallax AIO
+- Added ERM - Complex Parallax Materials
+
+##### Fire & Candles
+- Added Embers XD - Survival Mode Improved Patch
+
+##### Snow & Ice
+- Removed Skyrim Remastered - Glaciers and Ice
+
+##### Wild Creatures
+- Removed Rustic Frostbite Spider
+
+##### Magic & Perks
+- Removed Aetherius - Starting Spells Addon (included in main mod)
+- Removed Aetherius - NPC Spell Absorption Addon (included in main mod)
+
+##### Crafting
+- Added Dragon Priest Hood Variants
+
+##### Enemy Overhauls
+- Removed Dragon War - Deadly Spell Impacts Patch (included in main mod)
+- Removed Dragon War - Dragonactorscript Infinite Loop Fix
+
+##### Quest Start Adjustments
+- Removed Dark Brotherhood Rising Revengeance
+
+##### Immersion
+- Added Rain Extinguishes Fires
+
+##### Miscellaneous
+- Removed Dragon War - Durnehviir Resurrected Patch (included in main mod)
+
+##### Sound FX
+- Removed Dragon War - Audio Overhaul for Skyrim Patch (included in main mod)
+
+##### Saints and Seducers
+- Added Skyrim Extended Cut - Saints and Seducers - Skyking Signs Patch
+
+##### New & Expanded Quests
+- Removed Dragon Hunting - Apothecary Patch (included in main mod)
+- Removed Dragon Hunting - Paarthurnax Quest Expansion Patch (included in main mod)
+- Removed Dragon Hunting - AYOPCoW Patch (included in main mod)
+- Added Destroy The Dark Brotherhood - Quest Expansion
+
+##### New Animations
+- Added Vanargand Animations II - Unarmed Normal And Power Attacks
+
+##### Final Patches
+- Added Komegaki's Inventory Tweaks - Patches
+- Added Jonado's Random Patches
+
+#### Updates
+
+- Updated SSELODGen to b111
+- Updated SSEEdit to 4.1.5f
+- Updated DynDOLOD to 3.00 Alpha-173
+- Updated Spell Perk Item Distributor to 7.1.3
+- Updated Container Item Distributor to 1.2
+- Updated Base Object Swapper to 3.1.1
+- Updated Inventory Interface Information Injector to 1.1
+- Updated Constructible Object Custom Keyword System to 1.1.1
+- Updated Custom Skills Framework to 3.1
+- Updated Description Framework to 2.1.1
+- Updated Object Categorization Framework to 5.6.1
+- Updated Crash Logger to 1.14.1
+- Updated powerofthree's Tweaks to 1.10.1
+- Updated Unofficial Skyrim Special Edition Patch to 4.3.1
+- Updated Navigator - Navmesh Fixes to 1.5.7
+- Updated More Information Console to 1.2.1
+- Updated Open Animation Replacer to 2.3.5
+- Updated Rock Traps Trigger Fixes to 1.6
+- Updated Assorted Mesh Fixes to 0.105
+- Updated Skyrim Landscape and Water Fixes to 8.7.1
+- Updated Landscape Fixes For Grass Mods to 5.4
+- Updated Skill of Sneaking to 1.1.1
+- Updated CoMAP - Common Marker Addon Project to 4.1
+- Updated Dialogue History to 1.1.2
+- Updated NORDIC UI - Oxygen Meter 2 Patch to 1.2.1
+- Updated NORDIC UI - More Informative Console to 1.1
+- Updated SkyUI - 21x9 Aspect Ratio Support to 3.8.9
+- Updated SkyUI - 32x9 Aspect Ratio Support to 3.8.9
+- Updated DynDOLOD - Resources to 3.00 Alpha-50
+- Updated DynDOLOD - Scripts to 2.82.9
+- Updated Static Mesh Improvement Mod Improvement Mod to 1.10
+- Updated Better Whiterun Floors to 1.2
+- Updated Skyrim Objects SMIMed - Noble Furniture to 0.6
+- Updated Skyland AIO - Better Imperial Forts to 1.1
+- Updated Particle Patch for ENB to 1.3.1
+- Updated Terrain Parallax Blending Fix to 4.3.1
+- Updated Subsurface Scattering to 1.0.1
+- Updated Azurite Weathers II to 2.57
+- Updated Natural Waterfalls to 2.4
+- Updated Window Shadows RT - Updated (no version change)
+- Updated DALC Fix Preset to 4.0
+- Updated Embers XD to 3.0.3
+- Updated Simplicity of Snow to 0.20
+- Updated Simplicity of Snow - Parallax to 0.20
+- Updated Snowy Surfaces Sound Collision and Aesthetics to 1.7
+- Updated Snowy Ships for Snowy Regions to 2.5
+- Updated Icy Mesh Remaster to 2.41
+- Updated Aspens Ablaze to 2.37
+- Updated Aspens Ablaze - DynDOLOD 3 Add-On to 2.36.3
+- Updated Aspens Ablaze - DynDOLOD 3 Add-On - Performance to 2.36.3
+- Updated Cathedral - 3D Mountain Flowers - Base Object Swapper to 0.2
+- Updated Unique Wooden Bridges to 0.3
+- Updated Skyking Signs to 1.5
+- Updated Skyking Unique Signs to 1.03
+- Updated Designs of the Nords to 1.1
+- Updated Forgotten Retex Project to 8.4
+- Updated Scallions of Skyrim - High Polygon Leeks to 0.2
+- Updated Silver Armor and Weapons Retexture to 2.0.1
+- Updated Dragon Priest Retexture to 1.1
+- Updated Sleek Nose On Winter Bears - Enhanced and Reshaped Snout to 1.2.1
+- Updated Iconic's Spiders of Skyrim to 1.2.1
+- Updated Better Third Person Selection to 0.7
+- Updated Adamant - A Perk Overhaul to 5.9.2
+- Updated Mundus - A Standing Stone Overhaul to 1.13
+- Updated Mundus - A Standing Stone Overhaul - USSEP Patch to 1.13
+- Updated Aetherius - A Race Overhaul to 2.14.1
+- Updated Stormcrown - A Shout Overhaul to 1.1.17
+- Updated Artificer - Xavbio Textures Addon to 1.0.11
+- Updated Gourmet - A Cooking Overhaul to 1.1.12
+- Updated Gourmet - AI Overhaul Patch to 1.2
+- Updated Gourmet - Cooking Pots and Baking Ovens to 1.1.1
+- Updated Gourmet - Hearthfire Crispy Dumplings Patch to 1.2
+- Updated Misc Dialogue Edits to 1.9.5.2
+- Updated More Dialogue Options to 1.5.1
+- Updated Misc Dialogue Edits - NGCDT Patch to 1.9.5.2
+- Updated Visiting Advisor Outfit Tweak (no version change)
+- Updated Scared of Shootings to 0.3
+- Updated Blade and Blunt - A Combat Overhaul to 3.7.4
+- Updated Dynamic Random Dragons to 2.0
+- Updated Wait Your Turn - Sands of Time Patch yto 1.0.3
+- Updated Dragon War - A Dragon Overhaul to 4.0.2
+- Updated Misc Dialogue Edits - Save the Icerunner Patch to 1.9.5.2
+- Updated More Dialogue Options - AYOP Thieves Guild Patch to 1.5.1
+- Updated Misc Dialogue Edits - Bring Meeko to Lod Patch to 1.9.5.2
+- Updated Falmer Equip Armor to 1.1.11
+- Updated Default Face NPCs Fixed - Fishing to 1.19.6
+- Updated COTN - Morthal - Patch Collection to 3.2.2
+- Updated COTN - Falkreath to 1.3.1
+- Updated COTN - Falkreath - Patch Collection to 1.22
+- Updated Gourmet - COTN Cooking Pots and Baking Ovens Patch to 1.2
+- Updated Seasonal Landscapes - Additions to 1.10
+- Updated Seasonal Landscapes - Unfrozen - More Patches to 1.10.2
+- Updated Extended Cut Saints and Seducers - Mysticism Rebalance to 2.2
+- Updated House of Horrors - Quest Expansion to 1.13
+- Updated The Only Cure - Quest Expansion to 1.03
+- Updated The Innocence Lost - Quest Expansion to 1.11
+- Updated Dragon Hunting to 2.0
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack to 1.4
+- Updated Gourmet - Actual Sweet Roll Variants Patch to 1.2
+- Updated EVG Conditional Idles to 1.51
+- Updated NPC Animation Remix to 1.9
+- Updated Gourmet - Tamrielic Distribution Patch to 1.2
+- Updated Gourmet - Tamrielic Distribution & Hand to Hand Patch to 1.2
+- Updated Gourmet - Tamrielic Distribution & Rare Curios Patch to 1.2
+- Updated COTN - Optimized Meshes to 2.0
+
+</details>
+
 ## Release 5.0.0a3
 
 The good news is that Alpha 2 had no new issues. The bad news is that I haven't had time to test Alpha 3 before my upcoming 2-week vacation so I'm keeping it as an Alpha. Provided Alpha 3 has no major issues, the next version should be the beta. I don't expect there to be many problems here, maybe a few minor visual issues due to Dynamic Cubemaps or Seasonal Landscapes - Unfrozen, but the game is playable and most reports said the performance is great.
@@ -87,14 +325,20 @@ The good news is that Alpha 2 had no new issues. The bad news is that I haven't 
 ##### Snow & Ice
 - Modified Paraphernalia - Snow Colour Fixes to the Standard version
 
-##### Architecture
+##### Appearance
+- Added Vanilla Makeup HD
 
+##### Architecture
 - Added Unique Wooden Bridegs
 
 ##### Misc Structures
 
 - Added Skyking Signs - Books of Skyrim Patch
 - Added Skyking Unique Signs
+
+##### Interior & Dungeons
+
+- Added SB - Pressure Plate Trap Blending
 
 ##### Armor & Weapons
 
