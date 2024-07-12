@@ -8,7 +8,15 @@ description: >
 
 ## Release 5.0.0b
 
-Details to come later.
+**This update is not save-safe. A new game is required.**
+
+After a massive wait, I've decided to push 5.0.0 into beta with a few known issues still on the table. The biggest are that the snow LODs don't 100% match the rest of the landscape, making for less-than-pretty Winter vistas. The other is that it snows when it's not supposed to, such as in the Summer. Mostly everything else is working as intended, however.
+
+Okay, so what's new here is that a lot of mods have been switched out to continue supporting Auto Parallax. This is a visual departure from Aurora and not my typical focus so it's been a learning process on my end. Gameplay wise very little has changed.
+
+The only thing separating this beta from a full 5.0.0 release has been my personal ability to play it. Once I've gone through the game and am confident the major bugs are squashed, the beta will be removed.
+
+Pending a major update in any included mods, save files on this version should be compatible with the full release.
 
 <details>
 
@@ -95,6 +103,10 @@ Details to come later.
 ##### Wild Creatures
 - Removed Rustic Frostbite Spider
 
+##### Undead, Daedra, & Dragons
+- Removed DRAUGR by Kajuan
+- Added Draugrs
+
 ##### Magic & Perks
 - Removed Aetherius - Starting Spells Addon (included in main mod)
 - Removed Aetherius - NPC Spell Absorption Addon (included in main mod)
@@ -127,6 +139,11 @@ Details to come later.
 - Removed Dragon Hunting - AYOPCoW Patch (included in main mod)
 - Added Destroy The Dark Brotherhood - Quest Expansion
 
+##### New Creatures & Enemies
+- Removed Particle Lights For ENB - Undead Creatures - Cannibal Draugr Patch
+- Added Draugrs - The Dragon Cult Patch
+- Added Draugrs - Glowing Eyes Patch
+
 ##### New Animations
 - Added Vanargand Animations II - Unarmed Normal And Power Attacks
 
@@ -141,23 +158,25 @@ Details to come later.
 - Updated DynDOLOD to 3.00 Alpha-173
 - Updated Spell Perk Item Distributor to 7.1.3
 - Updated Container Item Distributor to 1.2
-- Updated Base Object Swapper to 3.1.1
+- Updated Base Object Swapper to 3.2
 - Updated Inventory Interface Information Injector to 1.1
 - Updated Constructible Object Custom Keyword System to 1.1.1
 - Updated Custom Skills Framework to 3.1
 - Updated Description Framework to 2.1.1
 - Updated Object Categorization Framework to 5.6.1
 - Updated Crash Logger to 1.14.1
+- Updated Photo Mode to 1.5.2
 - Updated powerofthree's Tweaks to 1.10.1
 - Updated Unofficial Skyrim Special Edition Patch to 4.3.1
 - Updated Navigator - Navmesh Fixes to 1.5.7
 - Updated More Information Console to 1.2.1
-- Updated Open Animation Replacer to 2.3.5
+- Updated Open Animation Replacer to 2.3.6
+- Updated Flute Animation Fix to 1.2
 - Updated Rock Traps Trigger Fixes to 1.6
 - Updated Assorted Mesh Fixes to 0.105
 - Updated Skyrim Landscape and Water Fixes to 8.7.1
-- Updated Landscape Fixes For Grass Mods to 5.4
-- Updated Skill of Sneaking to 1.1.1
+- Updated Landscape Fixes For Grass Mods to 5.5
+- Updated Skill of Sneaking to 1.1.2
 - Updated CoMAP - Common Marker Addon Project to 4.1
 - Updated Dialogue History to 1.1.2
 - Updated NORDIC UI - Oxygen Meter 2 Patch to 1.2.1
@@ -174,6 +193,7 @@ Details to come later.
 - Updated Terrain Parallax Blending Fix to 4.3.1
 - Updated Subsurface Scattering to 1.0.1
 - Updated Azurite Weathers II to 2.57
+- Updated ERM - Enhanced Rocks and Mountains to 1.22
 - Updated Natural Waterfalls to 2.4
 - Updated Window Shadows RT - Updated (no version change)
 - Updated DALC Fix Preset to 4.0
@@ -181,7 +201,7 @@ Details to come later.
 - Updated Simplicity of Snow to 0.20
 - Updated Simplicity of Snow - Parallax to 0.20
 - Updated Snowy Surfaces Sound Collision and Aesthetics to 1.7
-- Updated Snowy Ships for Snowy Regions to 2.5
+- Updated Snowy Ships for Snowy Regions to 2.6
 - Updated Icy Mesh Remaster to 2.41
 - Updated Aspens Ablaze to 2.37
 - Updated Aspens Ablaze - DynDOLOD 3 Add-On to 2.36.3
