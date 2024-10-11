@@ -6,6 +6,12 @@ description: >
   Settings applied by the WTP MCM preset.
 ---
 
+## Important Notice
+
+**This list is currently not available.**
+
+---
+
 **The MCM settings below are applied by the WTP MCM preset.** They are documented here purely for my benefit and for curious users. YOU DO NOT HAVE TO APPLY THEM MANUALLY.
 
 ## Baka Wait Anywhere
