@@ -7,7 +7,7 @@ description: >
   About Welcome to Paradise for Fallout 4.
 ---
 
-## NOTICE
+## Important Notice
 
 **This list is currently not available.**
 
