@@ -6,6 +6,10 @@ description: >
   Required and optional MCM tweaks.
 ---
 
+## Important Notice
+
+**This list is currently not available.**
+
 ## MCM Settings
 
 Thanks to the [Mod Configuration Menu](https://www.nexusmods.com/fallout4/mods/21497), many mods can now be tweaked through the MCM which can be accessed through the pause menu. For Welcome to Paradise, most settings were already adjusted and can be applied using [MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195).
