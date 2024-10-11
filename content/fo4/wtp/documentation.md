@@ -6,6 +6,10 @@ description: >
   Notes and references for WTP.
 ---
 
+## Important Notice
+
+**This list is currently not available.**
+
 ## INI Settings
 
 As usual, I have used [BethINI](https://www.nexusmods.com/fallout4/mods/67) to generate the INI files before adding some manual tweaks. The default INI set is based on the **High** preset while the performance INI set uses the **Medium** one.

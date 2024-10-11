@@ -6,6 +6,10 @@ description: >
   Setting up Welcome to Paradise with Wabbajack.
 ---
 
+## Important Notice
+
+**This list is currently not available.**
+
 ## Requirements
 
 While Wabbajack takes care of 99% of the work, there are still some steps that need to be completed by the user. The **Installation** section will take you through the process from start to finish and you are expected to follow it to the letter.
