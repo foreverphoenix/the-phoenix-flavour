@@ -6,6 +6,10 @@ description: >
   Various issues currently present in WTP.
 ---
 
+## Important Notice
+
+**This list is currently not available.**
+
 ## Performance Issues
 
 WTP is a performance friendly setup and should run well for most users. In fact, thanks to the **Previsibines Repair Pack**, it should run better than vanilla in some places. While WTP includes some 4K retextures, the Fallout 4 engine is actually capable of loading lower resolution versions of these when running out of VRAM. Almost all loose assets are packed into BA2 archives for better performance. I also took care not to include mods with long levelled lists containing new face presets as these can significant performance issues.
