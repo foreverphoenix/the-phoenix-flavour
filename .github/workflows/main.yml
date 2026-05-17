@@ -63,8 +63,6 @@ jobs:
           fail-on-cache-miss: # optional, default is false
           # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
           lookup-only: # optional, default is false
-          # Run the post step to save the cache even if another step before fails
-          save-always: # optional, default is false
           
       - run: npm ci
       - run: hugo --minify
