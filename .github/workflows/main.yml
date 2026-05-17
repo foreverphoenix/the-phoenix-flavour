@@ -16,11 +16,21 @@ jobs:
       - name: Update theme
         run: git submodule update --init --recursive
 
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+#      - name: Setup hugo
+#        uses: peaceiris/actions-hugo@v2
+#        with:
+#          hugo-version: "0.71.0"
+#          extended: true
+
+      - name: Hugo setup
+        # You may pin to the exact commit or the version.
+        # uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78
+        uses: peaceiris/actions-hugo@v3.2.1
         with:
-          hugo-version: "0.71.0"
-          extended: true
+            # The Hugo version to download (if necessary) and use. Example: 0.58.2
+            hugo-version: "0.71.0"
+            # Download (if necessary) and use Hugo extended version. Example: true
+            extended: true
 
       - name: Setup Node
         uses: actions/setup-node@v1
