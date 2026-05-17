@@ -76,7 +76,7 @@ jobs:
           external_repository: foreverphoenix/foreverphoenix.github.io
           publish_dir: ./public
           user_name: foreverphoenix
-          user_email: admin@thephoenixflavour.com
+          user_email: kat.suess@proton.me
           publish_branch: master
           cname: thephoenixflavour.com
       
