@@ -30,13 +30,13 @@ jobs:
             # The Hugo version to download (if necessary) and use. Example: 0.58.2
             hugo-version: "0.71.0"
             # Download (if necessary) and use Hugo extended version. Example: true
-            extended: "true"
-
+            extended: true
+    
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
-
+         node-version: '12.x'
+    
       # - name: Cache dependencies
       #  uses: actions/cache@v1
       #  with:
@@ -45,9 +45,9 @@ jobs:
       #    restore-keys: |
       #      ${{ runner.os }}-node-
 
-        - name: Cache
-          uses: actions/cache@v5.0.5
-          with:
+      - name: Cache
+        uses: actions/cache@v5.0.5
+        with:
           # A list of files, directories, and wildcard patterns to cache and restore
           path:  ~/.npm
           # An explicit key for restoring and saving the cache
@@ -66,7 +66,6 @@ jobs:
           # Run the post step to save the cache even if another step before fails
           save-always: # optional, default is false
           
-
       - run: npm ci
       - run: hugo --minify
         
