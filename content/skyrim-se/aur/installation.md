@@ -56,7 +56,7 @@ After updating the game language, please launch the game once and quit from the 
 
 In order for Wabbajack to be able to incorporate the Creation Kit properly, you need to install it first through Steam.
 
-- Find the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) Steam page (I recommend just using the search function in the Store).
+- Find the ["Skyrim Special Edition: Creation Kit"](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) Steam page (I recommend just using the search function in the Store).
 - Click install. Select the Steam Library (hard drive) where Skyrim SE is located as well.
 - The files will be placed into your default game folder.
 
