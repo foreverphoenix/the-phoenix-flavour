@@ -1,8 +1,8 @@
 ---
-title: "The Phoenix Flavour"
-linkTitle: "The Phoenix Flavour"
-weight: 20
+title: "About TPF"
+linkTitle: "About TPF"
+weight: 10
 menu:
   main:
-    weight: 20
+    weight: 10
 ---

@@ -8,7 +8,7 @@ on:
       - master
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
@@ -16,25 +16,54 @@ jobs:
       - name: Update theme
         run: git submodule update --init --recursive
 
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: "0.71.0"
-          extended: true
+#      - name: Setup hugo
+#        uses: peaceiris/actions-hugo@v2
+#        with:
+#          hugo-version: "0.71.0"
+#          extended: true
 
+      - name: Hugo setup
+        # You may pin to the exact commit or the version.
+        # uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78
+        uses: peaceiris/actions-hugo@v3.2.1
+        with:
+            # The Hugo version to download (if necessary) and use. Example: 0.58.2
+            hugo-version: "0.71.0"
+            # Download (if necessary) and use Hugo extended version. Example: true
+            extended: true
+    
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+         node-version: '12.x'
+    
+      # - name: Cache dependencies
+      #  uses: actions/cache@v1
+      #  with:
+      #    path: ~/.npm
+      #    key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      #    restore-keys: |
+      #      ${{ runner.os }}-node-
 
-      - name: Cache dependencies
-        uses: actions/cache@v1
+      - name: Cache
+        uses: actions/cache@v5.0.5
         with:
-          path: ~/.npm
+          # A list of files, directories, and wildcard patterns to cache and restore
+          path:  ~/.npm
+          # An explicit key for restoring and saving the cache
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          # An ordered multiline string listing the prefix-matched keys, that are used for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
           restore-keys: |
-            ${{ runner.os }}-node-
-
+             ${{ runner.os }}-node-
+          # The chunk size used to split up large files during upload, in bytes
+          upload-chunk-size: # optional
+          # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
+          enableCrossOsArchive: # optional, default is false
+          # Fail the workflow if cache entry is not found
+          fail-on-cache-miss: # optional, default is false
+          # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
+          lookup-only: # optional, default is false
+          
       - run: npm ci
       - run: hugo --minify
         
@@ -45,7 +74,7 @@ jobs:
           external_repository: foreverphoenix/foreverphoenix.github.io
           publish_dir: ./public
           user_name: foreverphoenix
-          user_email: admin@thephoenixflavour.com
+          user_email: kat.suess@proton.me
           publish_branch: master
           cname: thephoenixflavour.com
       

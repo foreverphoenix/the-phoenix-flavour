@@ -47,12 +47,14 @@
 
   > h4 {
     font-size: 1.3rem;
+    text-decoration: underline;
+    font-weight: 600;
   }
 
   > h5 {
     margin-bottom: 1rem;
     font-weight: $font-weight-bold;
-    font-size: 1.75rem;
+    font-size: 2rem;
     a {
       @include themed() {
       color: t($theme-link-mod);
@@ -62,6 +64,10 @@
 
   img {
     @extend .img-fluid;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   > table {
@@ -71,6 +77,8 @@
 
     @extend .table;
   }
+
+  
 
   > blockquote {
     padding: 0 0 0 1rem;
@@ -86,6 +94,7 @@
   }
 
   > ul li, > ol li {
+    margin-top: .25rem;
     margin-bottom: .25rem;
   }
 
@@ -97,9 +106,14 @@
     @extend .td-max-width-on-larger-screens;
   }
 
+  .alert-heading {
+    font-weight: 600;
+    font-size: 20px;
+  }
+
   .alert:not(:first-child) {
-    margin-top: 2 * $spacer;
-    margin-bottom: 2 * $spacer;
+    margin-top: 1 * $spacer;
+    margin-bottom: 1 * $spacer;
   }
 
   .lead {
@@ -114,4 +128,11 @@
   @include media-breakpoint-up(sm) {
     font-size: 3rem;
   }
+}
+
+mark {
+  @include themed() {
+    background-color: t($theme-mark-color);
+  }
+
 }
