@@ -8,68 +8,57 @@ description: >
 
 ## Requirements
 
-There are a couple of basic requirements that apply to any modded setup.
+First up, we have some general requirements that apply to any modded setup. You need:
 
-- You need to own [Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on Steam.
-    - *If you want to learn more about the different versions of Skyrim and their suitability for modding, read this article.*
-- A legit Windows 10 or 11 installation (64bit).
-- Editing software such as [Notepad++](https://notepad-plus-plus.org/) (freeware).
+- A legit Windows 10 or 11 installation (64bit).*
+- Editing software such as [Notepad++](https://notepad-plus-plus.org/).
 - An archiving tool like [7zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/start.html?&L=0).
-- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx) or [AMD](https://www.amd.com/en/support)).
-- A free (or Premium) account on [Nexus Mods](https://www.nexusmods.com/).
+- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx), [AMD](https://www.amd.com/en/support), or [Intel](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)).
 
-> With a **Nexus Premium** subscription you will be able to complete the guide in significantly less time since you will benefit from the uncapped download speeds. Of course the actual download speeds will depend on your internet connection as well. A one-month subscription costs £2.99, giving you more than enough time to complete the guide.
+<font size=2>\* While modding on Linux (PC or SteamDeck) is technically possible, I have never done it and so I cannot provide support for it.</font size>
+
+In addition, some tech literacy is inevitably required. You need to know how to create new files and folders, handle archived files, and install programmes.
+
+Finally, the most important prerequisite -- and the one most often ignored -- is <mark>the willingness to read</mark>. Thirty seconds saved by skimming can easily turn into thirty minutes of tedious troubleshooting. Remember to take regular breaks!
+
+### Nexus Accounts
+
+We will source the vast majority of our mods and tools from [Nexus Mods](https://www.nexusmods.com/). In order to download mods from the Nexus, you need an account.
+
+- If you do not have a Nexus account yet, go ahead and [create one now](https://users.nexusmods.com/register).
+
+{{< alert color="info" >}}The Nexus also offers [Premium subscription](https://www.nexusmods.com/premium) which, among other things, removes ads and uncaps download speeds. While Premium is not required for TPF, it will save you some time in the Mod Installation section.{{< /alert >}}
+
+### Skyrim Version
+
+TPF was written for the [Steam version](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) of **Skyrim Special Edition**. This version is <u>required</u> for following the guide.*
+
+<font size=2>\* Support for the GOG version may be added at a later date.</font size>
+
+{{< alert color="info" >}}To learn more about the different versions of Skyrim and their suitability for modding, [read this article](/manual/resources/skyrim-versions/).{{< /alert >}}
+
+The [Anniversary Edition DLC](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) (or all creations bought separately) is also <u>required</u>. Content from the CCs is too deeply integrated in TPF to make this optional.
 
 ## Show File Extensions
 
-By default file extensions (such as EXE, PNG or ESP) are hidden in the Windows Explorer. Since it's fairly important to be able to see them during the installation of the guide, I recommend double-checking that you have them set to visible.
+Make sure that file name extensions are set to visible in Windows Explorer. This will enable you to tell apart files by their extensions.
 
-- Open the Windows Explorer.
-- Click the **View** tab at the top.
-- Make sure **File name extensions** is checked.
+- <mark>**Windows 10:**</mark> In the **View** tab/ribbon, make sure **File name extensions** is checked  ([screenshot](/Pictures/manual/setup/prerequisites/show-file-extensions-win10.png)).
+- <mark>**Windows 11:**</mark> Go to **View** > **Show** and make sure **File name extensions** is checked ([screenshot](/Pictures/manual/setup/prerequisites/show-file-extensions-win11.png)).
 
-![File Extensions Visible](/Pictures/tpf/initial-setup/file-extensions-visible.png)
+## Monitor Calibration (*)
 
-## Your Modding Folder
+Correct monitor calibration can improve colour balance and brightness, ensuring that Skyrim (and any other game) looks as intended. 
 
-In order to keep all files related to modding Skyrim SE in one place, we will create a dedicated directory. It will serve as a hub for all tools, downloaded mod archives, custom files, notes, backups, screenshots and whatever else you can think of.
+{{< alert color="warning" >}}Your monitor should have been running for at least 30 minutes before you adjust it.{{< /alert >}}
 
-Throughout the guide I will refer to this folder as **Your Modding Folder**.
+Many monitors can be adjusted directly via a button and an in-built menu. You should be able to find instructions by looking up the model on Google.
 
-### Main Directory
+You can also adjust monitor settings through software:
 
-- Create a new folder anywhere on an HDD with at least 200GB of free space. Don't waste SSD space on this.
-- Name it whatever you like, for example **Skyrim SE Modding**.
-- Add several more new folders inside:
-  - ARCHIVE
-  - Backups
-  - temp
-  - Tools
-
-![Modding Folder](/Pictures/tpf/initial-setup/modding-folder.png)
-
-### Mod Archive
-
-Proper organisation is key when modding Skyrim. You will come back many times to update or reinstall mods, or selectively extract files without installing the whole package. This is where the previously created **ARCHIVE** comes into play - it will contain the majority of downloaded mod archives.
-
-- Create several more folders inside the **ARCHIVE** folder:
-  - CK Fixes
-  - ENBSeries - Binaries
-  - ENBSeries - Presets
-  - MO2 Downloads
-  - SKSE64
-
-![Archive Folder](/Pictures/tpf/initial-setup/archive-folder.png)
-
-## Monitor Calibration
-
-Assuming you already have your monitor configured with your preferred settings for resolution and refresh rate (in my case that is 60Hz and 1920x1080), you might still want to adjust the brightness and/or gamma either through your graphics card control panel or Windows' inbuilt calibration tool.
-
-> Your monitor should have been running for at least 30 minutes before you adjust it.
-
-- **WINDOWS:** Control Panel >> Colour Management >> Advanced >> Calibrate display
-- **NVIDIA:** Control Panel >> NVIDIA Control Panel >> Adjust Desktop Color Settings
-- **AMD:** Unfortunately I do not own an AMD GPU so I cannot give advice here. Use the inbuilt Windows calibration tool.
+- **Windows:** Control Panel > Colour Management > Advanced > Calibrate display
+- **NVIDIA:** Control Panel > NVIDIA Control Panel > Adjust Desktop Color Settings
+- **AMD:** *Unfortunately, I never owned an AMD GPU so I cannot give advice here.*
 
 To help you find the sweet spot for your monitor, check out these resources:
 
@@ -79,21 +68,8 @@ To help you find the sweet spot for your monitor, check out these resources:
 
 ### Dynamic Range
 
-It is recommended that you ensure your monitor's **Dynamic Range** is set to "Full" if it is connected to your PC via DisplayPort or HDMI. Instructions for both NVIDIA and AMD based systems can be found [here](https://pcmonitors.info/articles/correcting-hdmi-colour-on-nvidia-and-amd-gpus/).
-
-> It turns out I actually had my monitor set to "Limited" for many years and grew so used to it that setting the Dynamic Range to "Full" only irritated me. I ended up setting it back to "Limited" with no regrets. Your mileage may vary.
-
-## Visual C++ Redist
-
-The Microsoft Visual C++ Redistributable is a basic package required by Mod Organizer 2. You probably already have it installed but it's best to make sure.
-
-- Open the official [Microsoft Visual C++ website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
-- Scroll to the **Visual Studio 2015, 2017 and 2019** section.
-- Download the following file: ` vc_redist.x64.exe`.
-- Run the executable, it will guide you through the installation process.
-
-![VC Redist](/Pictures/tpf/initial-setup/vc-redists.png)
+It is recommended that you set monitor's **Dynamic Range** to "Full" if it is connected to your PC via DisplayPort or HDMI. Instructions for NVIDIA- and AMD-based systems can be found [here](https://pcmonitors.info/articles/correcting-hdmi-colour-on-nvidia-and-amd-gpus/).
 
 ---
 
-#### Continue with the [Skyrim and Steam](/tpf/initial-setup/skyrim-and-steam/) page.
+<font size=4>Continue with [Clean Install](/manual/setup/clean-install/).</font size>
