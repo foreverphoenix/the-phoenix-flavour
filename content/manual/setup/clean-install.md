@@ -3,12 +3,12 @@ title: "Clean Install"
 weight: 2
 type: docs
 description: >
-  How to perform a clean install of Skyrim SE.
+  In this step, we will perform a full clean installation of Skyrim. This will remove potential left-over files from previous modded setups and ensure that the game is installed in a suitable directory and set to English.
 ---
 
 ## Uninstalling Skyrim
 
-If you ever modded Skyrim before, chances are you have left-over files in various directories. We will thus begin with a bit of spring cleaning and make sure we start from a clean slate.
+If you ever modded Skyrim before, chances are you have left-over files in various directories. We will thus begin with a bit of spring cleaning to make sure we can start with a clean slate.
 
 If you currently have Skyrim installed, please begin by uninstalling the game.
 
@@ -45,7 +45,7 @@ When clean-installing Skyrim, the **INI Folder** should be cleared out as well -
 
 The folder and INI files will be regenerated upon launching the game after the reinstallation.
 
-{{< alert color="success" >}} And that is all. Skyrim SE is now completely removed from your system.{{< /alert >}}
+And that is all. Skyrim SE is now completely removed from your system.
 
 ## Game Language
 
@@ -68,15 +68,15 @@ Before reinstalling Skyrim, we need to select an adequate location. There are tw
 
 ### UAC-Protected Folders
 
-Your Steam installation is probably located inside `C:\Program Files x86\Steam\`. By default, all Steam games are installed within this folder in `\Steam\steamapps\common\<Game>\`.
+Your Steam installation is probably located inside `C:\Program Files x86\Steam\`. By default, all Steam games are installed within this folder under `\Steam\steamapps\common\<Game>\`.
 
-The problem is that `C:\Program Files\` and `C:\Program Files x86\` are so-called **UAC-protected folders** (UAC = user account control). UAC-protected folders in Windows are special because they require admin privileges for read/write permissions. This can break functionality in modding tools.
+The problem is that `C:\Program Files\` and `C:\Program Files x86\` are so-called **UAC-protected folders** (UAC = user account control, [click here to read more](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/user-account-control/?source=recommendations)). UAC-protected folders in Windows are special because they require admin privileges for read/write permissions. This can break functionality in modding tools.
 
 {{< alert color="warning" >}}Therefore, Skyrim should be installed to a location <u>outside</u> any UAC-protected folders.{{< /alert >}}
 
 ### Steam Libraries
 
-When installing a game through Steam, you can select any of your **Steam Libraries** as the installation folder. A Steam Library is simply a folder on one of your harddrives that has been set in Steam as an installation directory for games. The default Steam Library is contained within the Steam installation folder itself. 
+When installing a game through Steam, you can select any of your **Steam Libraries** as the installation folder. A Steam Library is simply a folder on one of your harddrives that has been set in Steam as an installation directory for games. The default Steam Library is contained within the Steam installation folder itself: `\Steam\steamapps\`.
 
 If you installed Steam under `C:\Program Files x86\` you will need to create a new Steam Library in a different location. Once set up, the new Steam Library can be selected as the installation directory upon installing a new game.
 
@@ -100,9 +100,9 @@ If you want to create a new Steam Library on a drive that is not `C:\`, follow t
 
 Now we can finally reinstall Skyrim.
 
-- Find the game in the Steam Library tab and click the big blue Install button.
+- Find the game in the Steam Library tab and click the big blue **Install** button.
 - As the installation location choose a Steam Library on your fastest hard drive and outside UAC-protected folders.
-    - Example: `X:\SteamLibrary\steamapps\common\Skyrim Special Edition\`
+    - Example: `X:\SteamLibrary\steamapps\common\Skyrim Special Edition\`.
 - Proceed when the download is completed.
 
 ![Install Skyrim](/Pictures/manual/setup/clean-install/install-skyrim.png)
@@ -121,7 +121,7 @@ Running the game after reinstallation serves multiple purposes:
 
 - Launch Skyrim through Steam.
 
-A message box will pop up, informing you that Skyrim SE will now be configured based on your hardware. If Skyrim is unable to detect your hardware, it is likely because you have a newer graphics card that is not recognised. You can ignore the warning.
+A message box will pop up, informing you that Skyrim will now be configured based on your hardware. If the launcher is unable to detect your hardware, this is likely because you have a newer graphics card that is not recognised. You can ignore the warning.
 
 - Click **OK** twice to confirm. We will configure the INI files later on.
 - Click the **PLAY** option in the launcher and wait until you are in the Skyrim main menu.
@@ -130,8 +130,8 @@ A message box will pop up, informing you that Skyrim SE will now be configured b
 
 ### File and Folder Structure Basics (*)
 
-Before you proceed with the next step, I highly recommend taking a moment to [read this article](/manual/resources/folder-structure/) on folder structure and terminology. It's a quick read without additional instructions and will help you better understand the instructions in the next step. 
+Before you proceed with the next step, I highly recommend taking a moment to [read this article](/manual/resources/files-and-folders/) on folder structure and terminology. It's a quick read without additional instructions and will help you better understand the instructions in the next step. 
 
 ---
 
-<font size=4>Continue with [Mod Organizer 2](/manual/setup/mo2/).</size>
+<font size=4>Continue with [Mod Organizer 2](/manual/setup/mo2/).</font size>

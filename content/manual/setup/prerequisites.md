@@ -3,21 +3,21 @@ title: "Prerequisites"
 weight: 1
 type: docs
 description: >
-  Requirements and preliminary instructions.
+  In this (short) step we will go over the basic requirements, the version of Skyrim you need for TPF, enabling file extensions in Window Explorer, and, optionally, how to properly calibrate your monitor.
 ---
 
 ## Requirements
 
-First up, we have some general requirements that apply to any modded setup. You need:
+First up, we have some general requirements. You need:
 
 - A legit Windows 10 or 11 installation (64bit).*
 - Editing software such as [Notepad++](https://notepad-plus-plus.org/).
-- An archiving tool like [7zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/start.html?&L=0).
-- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx), [AMD](https://www.amd.com/en/support), or [Intel](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)).
+- An archiving tool like [7zip](https://www.7-zip.org/download.html).
+- Latest drivers for your GPU ([NVIDIA](https://www.nvidia.de/Download/index.aspx), [AMD](https://www.amd.com/en/support), or [Intel](https://www.intel.com/content/www/us/en/search.html#sortCriteria=@lastmodifieddt%20descending&cf-tabfilter=Downloads&cf-downloadsppth=Graphics)).
 
 <font size=2>\* While modding on Linux (PC or SteamDeck) is technically possible, I have never done it and so I cannot provide support for it.</font size>
 
-In addition, some tech literacy is inevitably required. You need to know how to create new files and folders, handle archived files, and install programmes.
+In terms of soft skills, some tech literacy is inevitably required. You need to know how to create new files and folders, handle archived files, and install programmes.
 
 Finally, the most important prerequisite -- and the one most often ignored -- is <mark>the willingness to read</mark>. Thirty seconds saved by skimming can easily turn into thirty minutes of tedious troubleshooting. Remember to take regular breaks!
 
@@ -27,7 +27,7 @@ We will source the vast majority of our mods and tools from [Nexus Mods](https:/
 
 - If you do not have a Nexus account yet, go ahead and [create one now](https://users.nexusmods.com/register).
 
-{{< alert color="info" >}}The Nexus also offers [Premium subscription](https://www.nexusmods.com/premium) which, among other things, removes ads and uncaps download speeds. While Premium is not required for TPF, it will save you some time in the Mod Installation section.{{< /alert >}}
+{{< alert color="info" >}}The Nexus also offers [Premium subscription](https://www.nexusmods.com/premium) which, among other things, removes ads and uncaps download speeds. While Premium is not required for TPF, it will save you some time in the *Mod Installation* section.{{< /alert >}}
 
 ### Skyrim Version
 
