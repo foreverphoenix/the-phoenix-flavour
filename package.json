@@ -4,9 +4,9 @@
   "description": "Guide for Skyrim modding",
   "main": "none.js",
   "devDependencies": {
-    "autoprefixer": "^9.8.0",
-    "postcss": "^7.0.39",
-    "postcss-cli": "^7.1.1"
+    "autoprefixer": "^10.5.4",
+    "postcss": "^8.5.26",
+    "postcss-cli": "^11.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
